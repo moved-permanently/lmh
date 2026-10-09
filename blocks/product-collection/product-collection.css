@@ -3,3 +3,8 @@
   max-width: 1200px;
   margin: 0 auto;
 }
+
+/* carousel: the teaser-carousel band takes the full section width */
+.product-collection.carousel {
+  max-width: none;
+}

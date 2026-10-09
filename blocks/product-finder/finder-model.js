@@ -156,4 +156,16 @@ export function buildFacets(rows, state) {
   };
 }
 
-export const categoryFromSearch = () => { throw new Error('categoryFromSearch: not implemented'); };
+/**
+ * Preselection from the page URL: `?type=model:<id>`, or the legacy finder link
+ * `?productTypes[]=<productTypeId>` (authored CTAs such as "Show all pallet stackers").
+ * @param {string} search location.search
+ * @returns {string|null} a model:* category id
+ */
+export function categoryFromSearch(search) {
+  const params = new URLSearchParams(search || '');
+  const type = parseReference(params.get('type'));
+  if (type && type.type === 'category' && type.id.startsWith('model:')) return type.id;
+  const legacy = params.get('productTypes[]');
+  return legacy && /^\d+$/.test(legacy.trim()) ? `model:${legacy.trim()}` : null;
+}
