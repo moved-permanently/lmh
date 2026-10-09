@@ -1,0 +1,701 @@
+{
+ "source": "http://localhost:8806/stardust/migrated/en/Service/Retrofit-Accessories/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Retrofit & Accessories"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "For Greater Safety, Efficiency and Comfort"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Safety",
+     "href": "#765229"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Efficiency",
+     "href": "#765235"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Comfort",
+     "href": "#765238"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "With 77 standard series and 382 model variants, Linde Material Handling has the right solution for every logistics task. However, the equipment requirements for forklift trucks and warehouse handling equipment may change over time, for instance due to new safety regulations, modified logistics processes, or the comfort requirements of drivers who operate the trucks on a daily basis. In the majority of cases, a simple retrofit helps, for example, to adapt a forklift to the new requirements without an expensive conversion, or to upgrade it with the latest technology. You can also standardize the equipment features of your entire fleet. Linde supplies the necessary retrofit solutions and accessories for the areas of safety, efficiency and comfort. These include, for example, the innovative assistance system Linde Safety Guard, the Linde BlueSpot™ driving path warning device, components for the automatic recording and transmission of operating hours, and a practical holder for smartphones."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Safety"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "There is no room for compromise when it comes to safety in the workplace. That's why Linde provides retrofit solutions ranging from the visual warning signal through to the driver assistance system, which increase safety for drivers and pedestrians in the plant. Examples include the Linde Safety Guard advance warning system for potential hazards, the Linde BlueSpot™ for improved visibility of approaching trucks and the Linde Speed Assist driver assistance system."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Reverse Assist Radar",
+     "href": "../../../en/About-us/Innovations-from-Linde/Reverse-Assist-Radar/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Reverse Assist Radar from Linde Material Handling is revolutionizing safety when reversing – intelligently, precisely, and effectively."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Reverse-Assist-Radar/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Linde Safety Guard",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Guard.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Wherever industrial trucks are in use, there exists a complex interplay between man and machine. Linde Safety Guard is an innovative assistance system which increases safety for both truck operators and pedestrians in the vicinity of the truck."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Guard.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "The Linde TruckSpot",
+     "href": "../../../en/About-us/Innovations-from-Linde/TruckSpot.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Narrow racking aisles, visually restricted intersections and confusing areas often make it difficult for pedestrians to see a reversing truck in time. The Linde TruckSpot, an optical warning signal solution, uses a light signal to announce that the vehicle is approaching."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Innovations-from-Linde/TruckSpot.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Linde VertiLight and Linde LED Stripes",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-VertiLight-and-Linde-LED-Stripes.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Having the right amount of light at all times is essential to safety and efficiency when working with industrial trucks. With the Linde VertiLight and Linde LED Stripes, Linde Material Handling offers two innovative lighting concepts."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-VertiLight-and-Linde-LED-Stripes.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "SpeedAssist Stops Speeders"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Operating the forklift truck quickly may mean higher productivity, but this must not be at the expense of safety in the workplace. Often, forklift drivers are not even aware of their excessive speed. The SpeedAssist assistance system developed by Linde supports drivers by automatically reducing their speed upon entry into the warehouse and production halls – in other words, wherever an adapted speed helps to prevent accidents. The range, sensitivity, and response time of modern radar sensors can be individually adapted to suit the surroundings and customer requirements. This ensures, for example, that the forklift does not inadvertently brake when traveling under bridges in outside areas. The Linde Speed Assist is easy to install, improves safety indoors, and maintains the customary high levels of efficiency of the forklift outdoors."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [],
+   "imgCount": 1,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Efficiency"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The range of solutions provided by the Linde fleet management system connect: turn warehouse handling equipment and forklift trucks into an intelligent fleet. connect: links your trucks and supplies information to guarantee efficient and safe operation. You get an overview of the truck utilization and the servicing status, and have control over the access rights. Where necessary, Linde can supply selected connect: products as retrofit solutions for existing and third-party trucks."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Digital Logbook"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "connect:dt operating hours ensures that you are always aware of a truck's utilization. Is it rarely used or has it already exceeded its intended utilization rate? Is servicing due? Precise knowledge of operating hours enables service intervals to be planned more effectively, capacity to be optimized, and bottlenecks to be avoided. It also does away with the need for operating hours to be recorded manually."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Automatic Fault Report"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "connect:dt trouble codes transmits error codes from the truck controller, allowing wear to be promptly identified and preventing truck failures. A clear email report informs you of the status of your trucks. If preferred, the system can even automatically inform customer service. This enables connect:dt trouble codes to ensure that your fleet is fully ready for use."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Click Instead of Key"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "connect:ac access control means that you always know which driver is operating a certain truck at a given time. You can also manage driver authorizations and release trucks for use via PIN or RFID. Unauthorized use and lost keys are a thing of the past."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Analysis of Truck Performance"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The connect:an usage analysis solution shows you the usage, idle and servicing times as well as the percentage of raising, lowering, and traveling activities for every truck in your fleet. The recorded data allows you to identify the actual fleet performance and potential areas for improvement in the use and operation of the trucks."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Find out more about connect here!",
+     "href": "../../../en/Solutions/Fleet-Management/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Comfort"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Forklift drivers spend many hours in their trucks every day, making it all the more important to ensure optimum working conditions. This contributes to efficient operation and maximum comfort for drivers. Numerous accessories allow modern Linde driver cockpits to be adapted to suit special requirements where necessary. For instance, Linde supplies reinforced padded seats and retrofitted holders for electronic devices. This enables the truck equipment to be perfectly aligned with the driver's necessary movements and their ways of working."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Wooden Handle for Joysticks",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Terminal Holder",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Seat Covers",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Phone Holder",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Clipboard",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "Wooden Handle for Joysticks"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "The wooden handle for Linde joysticks is a stylish way of enhancing and customizing the workstation. It is available for single lever controls, central and cross lever controls. The non-splintering hardwood offers numerous advantages compared to standard plastic handles. Apart from the pleasant feel, it is less susceptible to contamination and protects against plastic allergies. Every wooden handle is a one-of-a-kind product made in Germany."
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Terminal Holder"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "The retrofit solution for terminal holders allows existing forklift fleets to be easily adapted for the use of electronic terminals. The sturdy, height-adjustable holder is simply mounted to the forklift's right A-pillar and can be tilted as required. It has a power connection and a power shut-off time for uninterrupted operation of the monitor."
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Seat Covers"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Forklift seats are exposed to high levels of stress due to contamination and frequent mounting and dismounting. Depending on their degree of wear, covers can become unsightly as well as uncomfortable for drivers. Seat covers made from micro-fiber velor are extremely resilient and easy to maintain. Side inserts made of artificial leather provide additional protection against wear."
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "Phone Holder"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "A cellphone holder means that a driver always has the display in sight and can operate it with ease. The holder, which is easy to attach via a clamp or suction cup, is suitable for all types of truck."
+    },
+    {
+     "role": "heading",
+     "order": 13,
+     "text": "Clipboard"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "A traditional clipboard ensures enhanced organization and efficiency in the driver’s cab at no great effort or expense, with faster access to work documents and optimum legibility thanks to the LED lighting."
+    }
+   ],
+   "imgCount": 5,
+   "editableTexts": 11,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "K2 Systems Relies on Linde MH—Logistics Solution from a Single Source",
+     "href": "../../../en/About-us/Magazine/K2-Systems/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "K2 Systems, a leading manufacturer of PV mounting systems, called on Linde MH’s comprehensive intralogistics expertise for its new logistics center. The result? Customized processes, perfectly coordinated trucks, and maximum efficiency—all from a single source."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/K2-Systems/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Flying starts on the ground",
+     "href": "../../../en/About-us/Magazine/Airport-Logistics.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Ground handling is a challenge for airport logistics. The demands on industrial trucks and logistics solutions are correspondingly high. Demand is for robust vehicles that enable fast and safe handling and are increasingly focusing on alternative drive systems."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Airport-Logistics.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Thinking Ahead while Reversing",
+     "href": "../../../en/About-us/Magazine/CEMEX-Admixtures/index.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "It’s what you add that makes the difference— and for industry specialist CEMEX Admixtures that applies to their intralogistics as well as their construction admixtures. The fleet of forklifts at the company’s site in Salzkotten, Germany has a new addition—the AI-based Linde System Reverse Assist Camera, which has significantly improved safety levels in reversing maneuvers."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/CEMEX-Admixtures/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Pedestrian Warning Band for Maximum Safety",
+     "href": "../../../en/About-us/Innovations-from-Linde/Pedestrian-Warning-Band/index.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "The smart technology in the band warns pedestrians of potential dangers early using light signals, vibrations, and acoustic warnings, thereby maximizing safety."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Pedestrian-Warning-Band/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Linde Multifunction Lever",
+     "href": "../../../en/About-us/Innovations-from-Linde/Multifunction-lever/index.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "The Linde Multifunction Lever is a new human machine interface that integrates all operating functions and ensures the best possible ergonomics and optimum ease of use."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Multifunction-lever/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "Linde Safety Scan",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Scan.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Safety is a key productivity factor when mobile handling equipment and pedestrian personnel are moving around in the same space. The Linde Safety Scan effectively minimizes the potential safety risks that can occur in a working environment."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Scan.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "Safety Consulting",
+     "href": "../../../en/Solutions/Warehouse-Safety/Safety-consulting/index.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "Safety is a key productivity factor when forklift trucks and pedestrians are moving around in the same space. Safety Consulting from Linde Material Handling enables companies to consistently minimize the safety risks associated with their internal traffic operations."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Warehouse-Safety/Safety-consulting/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "More Productivity in the Warehouse",
+     "href": "../../../en/Landingpage/X-Range/index.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "Expensive logistics spaces and increasingly shorter delivery times pose a particular challenge for warehouse operators in retail, third-party logistics and parts logistics. They have to make optimum use of the expensive space and increase the throughput of goods. The R14 – R17 X reach trucks from Linde Material Handling’s X range are the ideal alternative to conventional reach trucks. Thanks to their innovative truck concept, they help to overcome these challenges."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../../en/Landingpage/X-Range/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "The Innovative Rack Protection System",
+     "href": "../../../en/About-us/Innovations-from-Linde/Rack-Protection-Sensor/index.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "The Linde Rack Protection Sensor automatically slows down the truck when approaching racks and prevents collisions and damage."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Rack-Protection-Sensor/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "Safety Scrutinized from an Objective Perspective",
+     "href": "../../../en/About-us/Magazine/CTL/index.html"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "When it comes to potential risks in intralogistic processes, an external perspective can be worth its weight in gold, and this proved to be the case at CTL Celltechnik Lodenau in the German region of Saxony. With the help of the Linde Safety Scan, CTL was able to significantly reduce the risk of accidents in its internal goods handling."
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/CTL/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "A breath of fresh air in logistics at Heidelberg",
+     "href": "../../../en/About-us/Magazine/Frischer-Wind-in-der-Logistik-von-Heidelberg.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "In times of increasingly individualized customer requirements, intralogistics must also gradually adapt to the changed production conditions. How this can be achieved by a global industrial company is shown by the example of Heidelberger Druckmaschinen AG (Heidelberg) in Wiesloch/Walldorf."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Frischer-Wind-in-der-Logistik-von-Heidelberg.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "Safety First",
+     "href": "../../../en/About-us/Magazine/Safety-first.html"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "The numbers are impressive: Over a surface area of 126 football fields in Wismar, Egger processes in the region of million cubic meters of wood each year for HDF, MDF and OSB boards as well as laminate flooring. Since February, the wood-based materials specialist has relied on forklift trucks with Linde Safety Pilot for its logistics needs."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Safety-first.html"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

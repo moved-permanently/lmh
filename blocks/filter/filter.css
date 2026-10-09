@@ -1,0 +1,299 @@
+/* filter — static filter controls of the `listing` template. Values lifted from the gated prototype
+   stardust/prototypes/en-about-us-press.css (.layout--shadegrey .layout-100--fixed,
+   .filter-downloadarea, .label/.checkbox, .datepicker). Live: 1280 box p 32 16; the filter is a
+   shrink-to-fit centred flex item. The intro band preceding the filter (source .header-intro,
+   authored as default content in the previous section) is left-aligned on the live page
+   (padding 32 32 32 16, column max 704); styled here via :has() so no frozen foundation rule
+   is needed. */
+
+.filter,
+.filter * {
+  box-sizing: border-box;
+}
+
+/* ── variant filter-heading (Media, cluster-listing): the source row has no .header-intro; an
+   `h1.h3` sits above .filter-downloadarea inside the same 1280 box (bundle @32994/@34167: .h3 =
+   1.5rem, 1.63rem from 640, medi face, darkgrey), authored as default content in the filter
+   section. The row is not .layout--shadegrey (white, @417423). */
+main > .section.filter-container > .default-content-wrapper {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 5vw 1.25vw 0;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+main > .section.filter-container > .default-content-wrapper h1 {
+  margin: 0;
+  font-family: var(--font-face-medi), var(--font-sub-bold), Arial, sans-serif;
+  font-size: 1.5em;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+  color: var(--color-darkgrey);
+}
+
+@media (width >= 640px) {
+  main > .section.filter-container > .default-content-wrapper {
+    font-size: 18px;
+  }
+
+  main > .section.filter-container > .default-content-wrapper h1 {
+    font-size: 1.63em;
+  }
+}
+
+@media (width >= 1280px) {
+  main > .section.filter-container > .default-content-wrapper {
+    padding: 32px 16px 0;
+  }
+}
+
+main > .section:has(+ .section.filter-container) > .default-content-wrapper {
+  max-width: none;
+  margin: 0;
+  padding: 5vw 1.25vw 5vw 16px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+main > .section:has(+ .section.filter-container) > .default-content-wrapper > * {
+  max-width: calc(640px + 2.5vw);
+  margin: 0;
+  padding: 0 1.25vw 0 0;
+}
+
+main > .section:has(+ .section.filter-container) > .default-content-wrapper h1 {
+  font-family: var(--font-face-medi), var(--font-sub-bold), Arial, sans-serif;
+  font-size: 1.63em;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+  color: var(--color-darkgrey);
+  padding-top: 1.25vw;
+}
+
+main > .section:has(+ .section.filter-container) > .default-content-wrapper p {
+  font-size: 0.95em;
+  line-height: 1.75;
+  letter-spacing: -0.003em;
+}
+
+main > .section:has(+ .section.filter-container) > .default-content-wrapper > :last-child {
+  padding-bottom: 1.25vw;
+}
+
+main > .section.filter-container > .filter-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 5vw 1.25vw;
+}
+
+/* filter-heading variant: the h1 precedes the filter in the same section and the source
+   .filter-downloadarea starts at the h1's bottom edge (Media: y 104 at 360, y 267 at 1440 —
+   measured 2026-10-07; the build read +18 / +32) */
+main > .section.filter-container > .default-content-wrapper + .filter-wrapper {
+  padding-top: 0;
+}
+
+.filter {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.filter .filter-downloadarea {
+  display: block;
+  width: auto;
+  max-width: 100%;
+}
+
+.filter .filter-downloadarea > h4 {
+  margin: 0 0 1em;
+  font-family: var(--font-face-medi), var(--font-sub-bold), Arial, sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+  color: var(--color-darkgrey);
+}
+
+.filter .form-item {
+  display: inline-block;
+  width: auto;
+  vertical-align: top;
+  margin: 0 32px 16px 0;
+}
+
+.filter .label,
+.filter .checkbox {
+  font-family: var(--font-face), var(--font-sub), Arial, sans-serif;
+  font-size: 15px;
+  color: var(--color-darkgrey);
+}
+
+.filter .label {
+  display: block;
+  line-height: 24px;
+}
+
+.filter .checkbox {
+  position: relative;
+  overflow: visible;
+  margin: 0 40px 0 24px;
+  padding: 12px 0 0 8px;
+  min-height: 48px;
+  min-width: 120px;
+  cursor: pointer;
+}
+
+.filter .form-item .checkbox,
+.filter .form-item .input-wrapper {
+  display: inline-block;
+}
+
+.filter .checkbox > span {
+  height: 24px;
+  line-height: 24px;
+  color: var(--color-darkgrey);
+}
+
+.filter .checkbox input[type="checkbox"] {
+  display: block;
+  position: absolute;
+  top: 12px;
+  left: 8px;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  padding: 0;
+  margin: 0;
+  z-index: -100;
+}
+
+.filter .checkbox input[type="checkbox"] ~ span::before {
+  font-family: var(--icon-font-family);
+  content: "\f12c";
+  display: block;
+  float: left;
+  width: 24px;
+  height: 24px;
+  line-height: 24px;
+  font-size: 0;
+  margin: 0 8px 0 -32px;
+  color: var(--color-darkgrey);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-form-lightgrey, #ccc);
+  cursor: pointer;
+  text-align: center;
+}
+
+.filter .checkbox input[type="checkbox"]:checked ~ span::before {
+  font-size: 20px;
+  color: var(--color-red);
+}
+
+.filter .form-item .datepicker.input-wrapper {
+  display: flex;
+  position: relative;
+  background-color: var(--color-textgrey);
+}
+
+.filter .datepicker input {
+  display: block;
+  position: relative;
+  width: 199px;
+  min-height: 48px;
+  padding: 11px 8px 8px;
+  margin: 0;
+  color: var(--color-darkgrey);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-form-lightgrey, #ccc);
+  border-radius: 0;
+  appearance: none;
+  font: inherit;
+  font-size: 15px;
+  line-height: normal;
+}
+
+.filter .datepicker .ui-datepicker-trigger {
+  display: block;
+  position: relative;
+  height: 48px;
+  width: 48px;
+  padding: 12px;
+  margin: 0;
+  line-height: 0;
+  border: 1px solid transparent;
+  border-radius: 0;
+  background-color: transparent;
+  color: var(--color-white);
+  cursor: pointer;
+}
+
+.filter .datepicker .ui-datepicker-trigger .icon {
+  display: inline-block;
+  height: 24px;
+  width: 24px;
+  line-height: 24px;
+  font-size: 24px;
+  margin: 0;
+  text-align: right;
+}
+
+.filter .icon-calendar::before {
+  font-family: var(--icon-font-family);
+  content: "\f129";
+}
+
+/* source root type: 16px, 18px from 640px (canon.css L51); the frozen foundation keeps 16px */
+@media (width >= 640px) {
+  main > .section:has(+ .section.filter-container) > .default-content-wrapper,
+  .filter {
+    font-size: 18px;
+  }
+
+  .filter .label {
+    line-height: 27px;
+  }
+}
+
+@media (width >= 1280px) {
+  main > .section:has(+ .section.filter-container) > .default-content-wrapper {
+    padding: 32px 32px 32px 16px;
+  }
+
+  main > .section:has(+ .section.filter-container) > .default-content-wrapper > * {
+    max-width: 704px;
+    padding: 0 32px 0 0;
+  }
+
+  main > .section:has(+ .section.filter-container) > .default-content-wrapper h1 {
+    padding-top: 32px;
+  }
+
+  main > .section:has(+ .section.filter-container) > .default-content-wrapper > :last-child {
+    padding-bottom: 32px;
+  }
+
+  main > .section.filter-container > .filter-wrapper {
+    padding: 32px 16px;
+  }
+}
+
+@media (width <= 639px) {
+  main > .section:has(+ .section.filter-container) > .default-content-wrapper h1 {
+    font-size: 1.5em;
+  }
+
+  main > .section:has(+ .section.filter-container) > .default-content-wrapper p {
+    letter-spacing: -0.017em;
+  }
+}

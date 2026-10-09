@@ -1,0 +1,771 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-06T11:56:45.098Z",
+    "waitMode": "slow",
+    "waitMs": 5000,
+    "httpStatus": 200
+  },
+  "slug": "en-landingpage-safely-to-the-top",
+  "url": "https://www.linde-mh.com/en/Landingpage/Safely-to-the-top/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-06T11:56:45.098Z",
+  "finalUrl": "https://www.linde-mh.com/en/Landingpage/Safely-to-the-top/",
+  "title": "Heights",
+  "description": "Innovative solutions from Linde MH guarantee safe handling when working high up and efficiency for industrial trucks. ",
+  "og": {
+    "title": "Safely to the Top",
+    "description": "Linde Material Handling optimizes safety when working at height by providing intelligent assistance systems.",
+    "image": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/reach_truck-loading-retail-3958_368_16x9w1920.jpg",
+    "type": "article"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Innovations for maximum protection when handling loads high up"
+    },
+    {
+      "tag": "h2",
+      "text": "Safe Thanks to Oscillation Control: Dynamic Mast Control"
+    },
+    {
+      "tag": "h2",
+      "text": "The Intelligent Passenger: Linde Safety Pilot"
+    },
+    {
+      "tag": "h2",
+      "text": "Reliable Collision Protection: Rack Protection Sensor"
+    },
+    {
+      "tag": "h2",
+      "text": "We are Safety."
+    },
+    {
+      "tag": "h6",
+      "text": "Follow us on"
+    }
+  ],
+  "body": [
+    "Products Products Overview Product Finder Product Finder Overview New Trucks Rental Trucks New Industrial Trucks New Industrial Trucks Overview Forklift Trucks Electric Forklifts Diesel Forklifts Gas Forklifts Heavy Duty Forklifts Pallet Trucks Hand Pallet Trucks Pallet Stackers Very Narrow Aisle Trucks Order Pickers Reach Trucks Tow Tractors Tugger Trains Explosion Proof Trucks Automated Trucks Forklift Hire Approved Trucks Automated Trucks Automated Trucks Overview Automated Guided Vehicles Autonomous Mobile Robots Digital Products Digital Products Fleet Management Intralogistics Software",
+    "Services Services Overview Truck Service Truck Service Maintenance & Repair Genuine Spare Parts Retrofit & Accessories Technical & Safety Services Training Financing",
+    "Solutions Solutions Overview Intralogistics & Automation Intralogistics & Automation Overview Automated Warehouse Warehouse Management System Material Flow Consulting Case Studies by Industries Fleet Management Fleet Management Overview Fleet Optimization Consulting Energy Systems Energy Systems Overview Lithium-ion Technology Fuel Cell Technology Energy Consulting Warehouse Safety Warehouse Safety Overview Light and Warning Systems Assistance Systems Safety Consulting",
+    "About us About us Overview Company Company Overview Sustainability Awards Certificates Our Innovations Working with us Working with us Overview Highschool & University Students Apprentices Recent Graduates & Professionals Magazine Events Press Media",
+    "Search",
+    "Xtranet",
+    "Dynamic Mast Control",
+    "Linde Safety Pilot",
+    "Rack Protection Sensor",
+    "High shelves have become the standard in modern warehouses. Not surprising, given that storage space is precious—and priced accordingly. But working at height with industrial trucks also involves risks, because swaying masts, inaccurate load positioning, and potential collisions with racks can all lead to dangerous situations. Linde Material Handling offers innovative solutions to minimize these risks and other hazards when working at height as well as to ensure the safety of people and transported goods.",
+    "Working with reach trucks at high shelf heights can cause the mast to start oscillating. This can result in damage to the load and shelving and, in the worst case, can even lead to tipping accidents or falling goods. The Dynamic Mast Control (DMC) driver assistance system guards against this danger with an electric drive that makes targeted counter-movements to compensate for mast sway. Handling becomes much smoother, which leads to faster and safer transportation processes. This boosts productivity and safety, while also permanently reducing costs due to accidents.",
+    "Tipping accidents with counterbalanced forklift trucks often happen due to operating and driving errors or miscalculating weight and height. The Linde Safety Pilot works like an attentive passenger, preventing dangerous situations before they arise. The driver can keep a constant eye on key parameters such as lift height, fork tilt, and load weight via a monitor. If a critical state is reached, the system issues a visual and acoustic warning. In the Active version, the Safety Pilot even intervenes automatically in the driving and lifting functions to actively prevent dangerous situations.",
+    "Reach truck drivers have to give the pallet their full attention when storing and retrieving goods on higher shelves. Keeping an eye on the distance to the rack or goods at ground level at the same time is a major challenge. This is where the Rack Protection Sensor comes in. Mounted directly on the truck, its sensors measure the distance between the truck and the rack and gently brake the reach truck before a collision occurs. This prevents expensive damage to rack columns or stored goods and relieves the burden on the driver, who can concentrate fully on storing and retrieving goods with precision.",
+    "The safety of people is our top priority! Linde Material Handling also has the right solution for any other safety issue in your company’s intralogistics.",
+    "With us, you are always on the safe side. Contact us!",
+    "Contact",
+    "Home",
+    "Legal",
+    "Terms of use",
+    "Suppliers",
+    "EDI",
+    "Privacy Statements",
+    "Cookie Settings",
+    "Vulnerability Disclosure Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Search",
+      "href": "https://www.linde-mh.com/en/Search/"
+    },
+    {
+      "label": "Xtranet",
+      "href": "https://xtranet.linde-mh.com/lmhge/"
+    },
+    {
+      "label": "Contact the experts at Linde",
+      "href": "../../Forms-GC/Safety-Campaign-Form/"
+    },
+    {
+      "label": "Dynamic Mast Control",
+      "href": "#1933293"
+    },
+    {
+      "label": "Linde Safety Pilot",
+      "href": "#1933296"
+    },
+    {
+      "label": "Rack Protection Sensor",
+      "href": "#1933299"
+    },
+    {
+      "label": "1",
+      "href": null
+    },
+    {
+      "label": "2",
+      "href": null
+    },
+    {
+      "label": "Learn more about Dynamic Mast Control",
+      "href": "../../About-us/Innovations-from-Linde/Dynamic-Mast-Control.html"
+    },
+    {
+      "label": "1",
+      "href": null
+    },
+    {
+      "label": "2",
+      "href": null
+    },
+    {
+      "label": "Learn more about the Linde Safety Pilot",
+      "href": "../../About-us/Innovations-from-Linde/Linde-Safety-Pilot.html"
+    },
+    {
+      "label": "1",
+      "href": null
+    },
+    {
+      "label": "2",
+      "href": null
+    },
+    {
+      "label": "3",
+      "href": null
+    },
+    {
+      "label": "4",
+      "href": null
+    },
+    {
+      "label": "Learn more about the Rack Protection Sensor",
+      "href": "../../About-us/Innovations-from-Linde/Rack-Protection-Sensor/"
+    },
+    {
+      "label": "Contact us!",
+      "href": "../../Forms-GC/Safety-Campaign-Form/"
+    },
+    {
+      "label": "Share",
+      "href": "#123"
+    },
+    {
+      "label": "Contact",
+      "href": "../../Forms/Global-Contact-Form/"
+    },
+    {
+      "label": "Home",
+      "href": "../.."
+    },
+    {
+      "label": "Legal",
+      "href": "../../Legal-Notes/Legal/"
+    },
+    {
+      "label": "Terms of use",
+      "href": "../../Legal-Notes/Terms-of-use/"
+    },
+    {
+      "label": "Suppliers",
+      "href": "https://www.kiongroup.com/en/About-us/Suppliers/"
+    },
+    {
+      "label": "EDI",
+      "href": "../../EDI/"
+    },
+    {
+      "label": "Privacy Statements",
+      "href": "../../Legal-Notes/Privacy-Statement/"
+    },
+    {
+      "label": "Cookie Settings",
+      "href": "#"
+    },
+    {
+      "label": "Vulnerability Disclosure Policy",
+      "href": "https://www.kiongroup.com/en/Service/Vulnerability-Disclosure-Policy/"
+    }
+  ],
+  "links": [
+    "https://www.linde-mh.com/en/",
+    "https://www.linde-mh.com/en/Landingpage/Safely-to-the-top/#123",
+    "https://www.linde-mh.com/en/Products/",
+    "https://www.linde-mh.com/en/Products/Productfinder/",
+    "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/",
+    "https://www.linde-mh.com/en/Products/E-Trucks/",
+    "https://www.linde-mh.com/en/Products/Diesel-Forklifts/",
+    "https://www.linde-mh.com/en/Products/Gas-forklifts/",
+    "https://www.linde-mh.com/en/Products/Heavy-Duty-Forklifts/",
+    "https://www.linde-mh.com/en/Products/Pallet-Trucks/",
+    "https://www.linde-mh.com/en/Products/Hand-Pallet-Trucks/",
+    "https://www.linde-mh.com/en/Products/Pallet-Stackers/",
+    "https://www.linde-mh.com/en/Products/Very-Narrow-Aisle-Trucks/",
+    "https://www.linde-mh.com/en/Products/Order-Pickers/",
+    "https://www.linde-mh.com/en/Products/Reach-Trucks/",
+    "https://www.linde-mh.com/en/Products/Tow-Trucks/",
+    "https://www.linde-mh.com/en/Products/Tugger-Trains/",
+    "https://www.linde-mh.com/en/Products/Explosion-Proof-Trucks/",
+    "https://www.linde-mh.com/en/Products/Automated-Trucks/",
+    "https://www.linde-mh.com/en/Products/Forklift-Hire/",
+    "https://www.linde-mh.com/en/Products/Approved-Trucks/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-guided-vehicle/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Autonomous-mobile-robots/",
+    "https://www.linde-mh.com/en/Solutions/Fleet-Management/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Software/",
+    "https://www.linde-mh.com/en/Service/",
+    "https://www.linde-mh.com/en/Service/Maintenance-Repair/",
+    "https://www.linde-mh.com/en/Service/Genuine-Spare-Parts/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Technical-Safety-Services/",
+    "https://www.linde-mh.com/en/Service/Training/",
+    "https://www.linde-mh.com/en/Solutions/Financing/",
+    "https://www.linde-mh.com/en/Solutions/Overview.html",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-Warehouse/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Warehouse-Management-System/",
+    "https://www.linde-mh.com/en/Solutions/Consulting/Material-Flow-Consulting/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/User-cases-intralogistics/",
+    "https://www.linde-mh.com/en/Solutions/Consulting/Fleet-Optimization.html",
+    "https://www.linde-mh.com/en/Solutions/Energy-Systems/",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+    "https://www.linde-mh.com/en/Solutions/Energy-Systems/Energy-consulting/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Light-and-warning-systems/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Assistance-systems/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Safety-consulting/",
+    "https://www.linde-mh.com/en/About-us/",
+    "https://www.linde-mh.com/en/About-us/Company/",
+    "https://www.linde-mh.com/en/About-us/Sustainability/",
+    "https://www.linde-mh.com/en/About-us/Awards/",
+    "https://www.linde-mh.com/en/About-us/Certificates/",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/Students-Scholars/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/Apprentice/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/Professionals/",
+    "https://www.linde-mh.com/en/About-us/Magazine/",
+    "https://www.linde-mh.com/en/About-us/Events/",
+    "https://www.linde-mh.com/en/About-us/Press/",
+    "https://www.linde-mh.com/en/About-us/Media/",
+    "https://www.linde-mh.com/en/Landingpage/Platform-Counterbalanced-Trucks/",
+    "https://www.linde-mh.com/en/Products/Productfinder/?offerType=new",
+    "https://www.linde-mh.com/en/technical/Location-Finder.html",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+    "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+    "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+    "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+    "https://www.linde-mh.com/en/Search/",
+    "https://xtranet.linde-mh.com/lmhge/",
+    "https://www.linde-mh.com/en/Landingpage/Safely-to-the-top/#",
+    "https://www.linde-mh.com/en/Forms-GC/Safety-Campaign-Form/",
+    "https://www.linde-mh.com/en/Landingpage/Safely-to-the-top/#1933293",
+    "https://www.linde-mh.com/en/Landingpage/Safely-to-the-top/#1933296",
+    "https://www.linde-mh.com/en/Landingpage/Safely-to-the-top/#1933299",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Dynamic-Mast-Control.html",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Linde-Safety-Pilot.html",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Rack-Protection-Sensor/",
+    "mailto:?body=$url",
+    "https://www.linkedin.com/shareArticle?url=$url&v=6245484",
+    "https://www.facebook.com/sharer/sharer.php?u=$url",
+    "javascript:window.print()",
+    "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+    "https://www.linde-mh.com/en/Legal-Notes/Legal/",
+    "https://www.linde-mh.com/en/Legal-Notes/Terms-of-use/",
+    "https://www.kiongroup.com/en/About-us/Suppliers/",
+    "https://www.linde-mh.com/en/EDI/",
+    "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/",
+    "https://www.kiongroup.com/en/Service/Vulnerability-Disclosure-Policy/",
+    "https://www.linkedin.com/company/36425/",
+    "https://www.facebook.com/LindeMH/",
+    "https://www.instagram.com/linde_mh/",
+    "http://www.youtube.com/user/Gabelstapler24",
+    "http://null/",
+    "https://www.ccm19.de/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.linde-mh.com/en/layoutmedia/Linde_MH_Logo_RGB.svg",
+        "alt": "",
+        "w": 250,
+        "h": 150
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/reach_truck-loading-retail-3958_368_16x9w1920.jpg",
+        "alt": "View from the driver’s cab through a reinforced glass roof onto the mast of a Linde MH reach truck",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/05_Videothumbnails/Dynamic_Mast_Control_Animation_tn_16x9w640.jpg",
+        "alt": "Animation about the Dynamic Mast Control.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/05_Videothumbnails/Dynamic_Mast_Control_Video_de_tn_16x9w640.jpg",
+        "alt": "Video about the Dynamic Mast Control.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/05_Videothumbnails/Dynamic_Mast_Control_Animation_tn_16x9w640.jpg",
+        "alt": "Animation about the Dynamic Mast Control.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/05_Videothumbnails/Dynamic_Mast_Control_Video_de_tn_16x9w640.jpg",
+        "alt": "Video about the Dynamic Mast Control.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/05_Videothumbnails/Dynamic_Mast_Control_Animation_tn_16x9w640.jpg",
+        "alt": "Animation about the Dynamic Mast Control.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/01-Products/01_E-Trucks_E-Stapler/05_The-Perfect-Truck/Linde_Safety_Pilot-3992_7978_B_2_en_16x9w640.jpg",
+        "alt": "Linde Safety Pilot monitor",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/e_truck-stacking-manufacturing-4259_644_16x9w640.jpg",
+        "alt": "Video on Linde’s Safety Pilot",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/01-Products/01_E-Trucks_E-Stapler/05_The-Perfect-Truck/Linde_Safety_Pilot-3992_7978_B_2_en_16x9w640.jpg",
+        "alt": "Linde Safety Pilot monitor",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/e_truck-stacking-manufacturing-4259_644_16x9w640.jpg",
+        "alt": "Video on Linde’s Safety Pilot",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/01-Products/01_E-Trucks_E-Stapler/05_The-Perfect-Truck/Linde_Safety_Pilot-3992_7978_B_2_en_16x9w640.jpg",
+        "alt": "Linde Safety Pilot monitor",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/Landingpage-Multifunctional-Lever/reach_trucks-R20-rack_protection_sensor-4579_6694_16x9w640.jpg",
+        "alt": "R20 reach truck with Rack Protection Sensor in action.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Products/Landingpage-Rack-Protection-Sensor/Rack_Protection_Sensor-Animation-11_16x9w640.jpg",
+        "alt": "Animation on the Rack Protection Sensor from Linde Material Handling.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Products/Landingpage-Rack-Protection-Sensor/Animation-rack_protection_sensor-09_16x9w640.jpg",
+        "alt": "Animation on the Rack Protection Sensor from Linde Material Handling.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/Landingpage-Multifunctional-Lever/reach_trucks-R20-rack_protection_sensor-4579_16x9w640.jpg",
+        "alt": "R20 reach truck with Rack Protection Sensor.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/Landingpage-Multifunctional-Lever/reach_trucks-R20-rack_protection_sensor-4579_6694_16x9w640.jpg",
+        "alt": "R20 reach truck with Rack Protection Sensor in action.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Products/Landingpage-Rack-Protection-Sensor/Rack_Protection_Sensor-Animation-11_16x9w640.jpg",
+        "alt": "Animation on the Rack Protection Sensor from Linde Material Handling.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Products/Landingpage-Rack-Protection-Sensor/Animation-rack_protection_sensor-09_16x9w640.jpg",
+        "alt": "Animation on the Rack Protection Sensor from Linde Material Handling.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/Landingpage-Multifunctional-Lever/reach_trucks-R20-rack_protection_sensor-4579_16x9w640.jpg",
+        "alt": "R20 reach truck with Rack Protection Sensor.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/Landingpage-Multifunctional-Lever/reach_trucks-R20-rack_protection_sensor-4579_6694_16x9w640.jpg",
+        "alt": "R20 reach truck with Rack Protection Sensor in action.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/HR/global-HR-Banner_Linde-KION_16x9w1920.jpg",
+        "alt": "",
+        "w": 1440,
+        "h": 810
+      }
+    ],
+    "allImgCount": 23,
+    "cssBackgrounds": [],
+    "modals": [
+      "German (Deutsch) English We use cookies and other technologies. This website uses cookies and similar functions to process end device information and personal data. The processing serves the integration of content, external services and elements of third parties, statistical analysis/measurement, personalized advertising and the integration of social media. Depending on the function, data may be passed on to third parties in the process and to third parties in countries where there is no adequate level of data protection and is processed by them, e.g. the USA. Your consent is always voluntary, not required for the use of our website and can be rejected or revoked at any time on our site. Accept all Decline Settings Imprint Privacy Policy Powered by CCM19",
+      "Please select policies to allow Technically neccessary (2) ? Here are all technically necessary scripts, cookies and other elements that are necessary for the operation of the website or the operator has a legitimate interest under DSGVO Art6, para. 1. Analytics & Marketing (5) ? Analytics cookies help us understand how visitors interact with this website by collecting and reporting information anonymously. To continuously improve our website, we track data for statistical and analytical purposes, such as the number of visits or the impact of certain pages of our web presence, and thus optimise our content. Marketing cookies are used to target advertising specifically to a user (behavioural targeting). The aim of using marketing cookies is to display advertising that is particularly relevant to the users of the website. Personalization (1) ? To better tailor the website to you, scripts run here and cookies are set. The goal is to provide a better user experience for you. Other (2) ? Here are other scripts and cookies that do not fit any of the above categories. Cancel Save"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--color-red": "#aa0020",
+    "--color-toned-red": "#cc132a",
+    "--color-darkred": "#990e1f",
+    "--color-darkgrey": "#222",
+    "--color-text-darkgrey": "#444",
+    "--color-textgrey": "#4a595c",
+    "--color-toned-textgrey": "#5e7175",
+    "--color-shadegrey": "#e6e7eb",
+    "--color-lightgrey": "#eeeff3",
+    "--color-hover-lightgrey": "#f5f6fa",
+    "--color-white": "#fff",
+    "--color-form-lightgrey": "#cccdd1",
+    "--color-form-darkgrey": "#9b9b9e",
+    "--color-black": "#222",
+    "--color-form-validation": "red",
+    "--color-green": "#77b340",
+    "--color-toned-green": "color-mix(in srgb,#77b340,#fff 10%)",
+    "--color-darkgreen": "color-mix(in srgb,#77b340,#000 10%)",
+    "--color-primary-700": "#94001d",
+    "--color-primary-900": "#700016",
+    "--color-carousel-grey": "#354042",
+    "--color-carousel-lightgrey": "#6b6b6a",
+    "--color-carousel-red": "#ba1926",
+    "--color-facebook": "#3b5998",
+    "--color-twitter": "#000",
+    "--color-xing": "#126567",
+    "--color-youtube": "#cd201f",
+    "--color-vimeo": "#1ab7ea",
+    "--color-twitch": "#6441a5",
+    "--color-whatsapp": "#25d366",
+    "--color-linkedin": "#0077b5",
+    "--color-googleplus": "#d34836",
+    "--color-baidu": "#de0f17",
+    "--color-pinterest": "#bd081c",
+    "--color-instagram": "#e1306c",
+    "--color-blogger": "#f57d00",
+    "--color-flickr": "#0063dc",
+    "--color-kununu": "#000",
+    "--color-tiktok": "#000",
+    "--color-toned-red2": "#ba1926",
+    "--color-lightgrey2": "#e4e5ea",
+    "--font-face": "\"DaxlineWebPro\"",
+    "--font-face-bold": "\"DaxlineWebPro-Bold\"",
+    "--font-face-italic": "\"DaxlineWebPro-Italic\"",
+    "--font-face-medi": "\"DaxWebPro-Medi\"",
+    "--font-face-light": "\"DaxWebPro-Light\"",
+    "--color-lmh-grey-200": "#dcdcdf",
+    "--color-lmh-grey-300": "#cccdd1",
+    "--ccm--scrollbar-width": "0px",
+    "--ccm--scrollbar-height": "0px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 6,
+    "mainTextLen": 32393,
+    "realImageCount": 22,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "epcloud.ccm19.de",
+        "path": "/consent/ccm19/public/widget",
+        "query": [
+          "apiKey",
+          "domain",
+          "gen",
+          "lang",
+          "theme",
+          "v"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/x-html-fragment",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://epcloud.ccm19.de/consent/ccm19/public/widget",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "epcloud.ccm19.de",
+        "path": "/consent/ccm19/public/cron",
+        "query": [
+          "apiKey",
+          "domain",
+          "gen",
+          "theme"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://epcloud.ccm19.de/consent/ccm19/public/cron",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "f.clarity.ms",
+        "path": "/collect",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 4,
+        "example": "https://f.clarity.ms/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_p",
+          "_s",
+          "cid",
+          "dl",
+          "dma",
+          "dp",
+          "dt",
+          "en",
+          "ep.allowLinker",
+          "ep.customTask",
+          "frm",
+          "gcd",
+          "gcs",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "px.ads.linkedin.com",
+        "path": "/wa/",
+        "query": [
+          "fmt",
+          "medium"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://px.ads.linkedin.com/wa/",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "epcloud.ccm19.de",
+        "path": "/consent/ccm19/public/page_check/report",
+        "query": [
+          "apiKey",
+          "domain",
+          "gen",
+          "theme"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 36,
+        "hits": 1,
+        "example": "https://epcloud.ccm19.de/consent/ccm19/public/page_check/report",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.etracker.de",
+        "path": "/api/v6/tracking/webEvents",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.etracker.de/api/v6/tracking/webEvents",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "www.googletagmanager.com",
+        "count": 4
+      },
+      {
+        "host": "snap.licdn.com",
+        "count": 2
+      },
+      {
+        "host": "connect.facebook.net",
+        "count": 2
+      },
+      {
+        "host": "epcdn.ccm19.de",
+        "count": 1
+      },
+      {
+        "host": "static.etracker.com",
+        "count": 1
+      },
+      {
+        "host": "epcloud.ccm19.de",
+        "count": 1
+      },
+      {
+        "host": "code.etracker.com",
+        "count": 1
+      },
+      {
+        "host": "www.clarity.ms",
+        "count": 1
+      },
+      {
+        "host": "scripts.clarity.ms",
+        "count": 1
+      },
+      {
+        "host": "www.etracker.de",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 0,
+    "triggers": [
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      }
+    ],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 0,
+      "thirdPartyEndpoints": 7,
+      "thirdPartyScriptHosts": 10,
+      "inlineDataBlobs": 0,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": false
+    }
+  },
+  "screenshot": "assets/screenshots/en-landingpage-safely-to-the-top.png",
+  "renderedHtml": "pages/en-landingpage-safely-to-the-top.html",
+  "slots": {
+    "headline": "Innovations for maximum protection when handling loads high up",
+    "lead-image": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/reach_truck-loading-retail-3958_368_16x9w1920.jpg",
+    "intro": "High shelves have become the standard in modern warehouses. Not surprising, given that storage space is precious—and priced accordingly. But working at height with industrial trucks also involves risks, because swaying masts, inaccurate load positioning, and potential collisions with racks can all lead to dangerous situations. Linde Material Handling offers innovative solutions to minimize these risks and other hazards when working at height as well as to ensure the safety of people and transported goods.",
+    "hero-slides": [
+      "Safe Thanks to Oscillation Control: Dynamic Mast Control",
+      "The Intelligent Passenger: Linde Safety Pilot",
+      "Reliable Collision Protection: Rack Protection Sensor",
+      "We are Safety."
+    ],
+    "sections": [
+      "Safe Thanks to Oscillation Control: Dynamic Mast Control",
+      "The Intelligent Passenger: Linde Safety Pilot",
+      "Reliable Collision Protection: Rack Protection Sensor",
+      "We are Safety."
+    ],
+    "ctas": [
+      {
+        "label": "Contact the experts at Linde",
+        "href": "../../Forms-GC/Safety-Campaign-Form/"
+      },
+      {
+        "label": "Dynamic Mast Control",
+        "href": "#1933293"
+      },
+      {
+        "label": "Linde Safety Pilot",
+        "href": "#1933296"
+      },
+      {
+        "label": "Rack Protection Sensor",
+        "href": "#1933299"
+      },
+      {
+        "label": "Learn more about Dynamic Mast Control",
+        "href": "../../About-us/Innovations-from-Linde/Dynamic-Mast-Control.html"
+      },
+      {
+        "label": "Learn more about the Linde Safety Pilot",
+        "href": "../../About-us/Innovations-from-Linde/Linde-Safety-Pilot.html"
+      }
+    ]
+  }
+}

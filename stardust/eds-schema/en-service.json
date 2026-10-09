@@ -1,0 +1,163 @@
+{
+ "source": "http://localhost:8805/stardust/migrated/en/Service/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Service"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "For Greater Safety and Efficiency"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "By choosing a Linde Material Handling forklift truck, you can be sure that you will receive service that is reliable and quickly available. With over 8500 service technicians at some 700 sites worldwide, service is a key part of the Linde offer. Our services in the areas of technology, equipment, safety, and the efficient use of your industrial trucks and driverless transport systems ensure maximum fleet availability, increase safety in the workplace, and reduce costs. Linde offers the following services worldwide."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Maintenance and Repair",
+     "href": "../../en/Service/Maintenance-Repair/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "For maximum availability and high fleet efficiency, we provide comprehensive services for servicing and repairing industrial trucks and driverless transport systems from Linde."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../en/Service/Maintenance-Repair/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Genuine Spare Parts",
+     "href": "../../en/Service/Genuine-Spare-Parts/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Regardless of whether for forklift trucks and warehouse handling equipment or automated trucks, the Linde spare parts service delivers worldwide, around the clock and, in most cases, the following day."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../en/Service/Genuine-Spare-Parts/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Retrofit & Accessories",
+     "href": "../../en/Service/Retrofit-Accessories/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Linde retrofits and accessories upgrade forklift trucks and warehouse handling equipment to the latest standard and make them safer, more efficient and more comfortable."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../en/Service/Retrofit-Accessories/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Technical & Safety Services",
+     "href": "../../en/Service/Technical-Safety-Services/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "We take care of the statutory checks for your industrial trucks from Linde and your rack systems, and provide additional intralogistics consulting and services."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../en/Service/Technical-Safety-Services/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Training",
+     "href": "../../en/Service/Training/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Linde training programs ensure well-trained forklift drivers and in turn safe and smooth operation."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../en/Service/Training/index.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

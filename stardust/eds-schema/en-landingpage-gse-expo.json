@@ -1,0 +1,577 @@
+{
+ "source": "http://localhost:8802/stardust/migrated/en/Landingpage/GSE-Expo/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Linde MH at GSE Expo Europe 2026"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Keeping Pace with the Aviation Industry"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Come visit us at Booth H25 from September 15 to 17!",
+     "href": "https://www.linde-mh.com/en/Forms/GSE-Expo/"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Trade Show Highlights",
+     "href": "#2973925"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Advantages",
+     "href": "#2973930"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Solutions",
+     "href": "#2973933"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Every day, the period between the cargo gate and the aircraft determines how punctually and efficiently the aviation industry operates. At the same time, the pressure on ground staff is growing noticeably: The industry expects to set a new record in 2026 with approximately 5.2 billion passengers worldwide. By 2050, global passenger demand is expected to more than double, while cargo volume will rise in parallel."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "This means shorter handling cycles, more pieces of baggage per hour, and more cargo units in the same space. In addition, qualified personnel are becoming scarcer and safety requirements are increasing. As a result, ground handling is taking center stage. It directly determines the on-time performance, service quality, and profitability of entire airlines. Reliable equipment plays a key role in ensuring the stability of the entire process chain."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Anyone who wants to remain successful in this environment needs a partner who is thoroughly familiar with the key processes. To this end, Linde Material Handling combines agile vehicles, intelligent assistance systems, digital fleet management, and expert advice into a cohesive, comprehensive solution."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Read more",
+     "href": "#read_more"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Schedule a consultation at our booth now and get a free ticket!",
+     "href": "https://www.linde-mh.com/en/Forms/GSE-Expo/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Everything from a single source"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "From baggage handling and heavy cargo to automated towing, Linde Material Handling offers the right solution for every ground handling task. Combined with safety, ergonomics, and energy concepts, this creates a comprehensive portfolio of solutions from a single source. Through an international sales and service network, Linde MH ensures that these solutions are reliably available worldwide at airports and air cargo hubs in Europe, the Americas, Asia, and beyond."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "We look forward to your visit"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "See our offerings for yourself and visit Linde Material Handling at GSE Expo Europe. Experience our high-performance vehicles and learn how ground handling operations can be made safer, more ergonomic, and more efficient."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "September 15–17, 2026"
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "FIL Lisbon, Portugal"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Booth H25"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Schedule your consultation at Booth H25.",
+     "href": "https://www.linde-mh.com/en/Forms/GSE-Expo/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Our Trade Show Highlights: Four Solutions for Airport Logistics"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "P250 Automated Tow Tractor"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Where transport routes are repetitive and personnel resources are limited, the automation of towing tasks offers great potential. The P250 automated tow tractor moves luggage and heavy cargo with a towing capacity of up to 25 metric tons along predefined routes. A laser scanner integrated into the vehicle handles navigation within the environment. The automation solution was developed in collaboration with technology partner Götting KG."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Xi Roadster Electric Counterbalanced Forklift"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "In cargo terminals, warehouses, and on the tarmac, visibility and quick response times are key to safe and efficient operations. This is exactly where the Linde Xi Roadster shines. Whether loading and unloading aircraft or transporting palletized goods, the Roadster’s distinctive Linde design—featuring overhead tilt cylinders—eliminates the need for an A-pillar, giving the operator virtually unrestricted all-around visibility. This ensures that the path, load, and surroundings remain in full view at all times, even when handling bulky cargo units. The permanently integrated lithium-ion battery creates additional space in the cab. The Linde combination steering axle ensures high maneuverability and stability."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Xi14-Xi20-R/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "W20 Electric Platform Truck with Luggage Trailer"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Every second counts when loading between terminals, baggage halls, and aircraft. With a two-metric-ton payload and a top speed of up to 20 km/h, the W20 platform truck reliably transports large volumes of baggage to their destination. A driver’s cab decoupled from the chassis and a drive axle with coil springs effectively shield the driver from shocks and vibrations, while the precise steering allows for effortless maneuvering in the tightest of spaces. Two AC drive motors provide the power needed for fast and reliable transport, powered either by a lithium-ion or lead-acid battery."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "../../../en/Products/Tow-Trucks/W20-W30/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "myLinde"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "In airport operations, the availability of each individual vehicle determines the punctuality of entire handling processes. The myLinde fleet management system combines administration, usage monitoring, safety, and energy management in a cloud-based portal and provides transparent data on usage, service, and utilization of the entire fleet. Thanks to its modular design, myLinde adapts flexibly to the requirements of international hubs."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/Solutions/Fleet-Management/"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Your Benefits at a Glance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Ergonomic"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Greater comfort and higher driver satisfaction thanks to ergonomic workplace designs that reduce physical strain and provide reliable relief even during long shifts."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Safe"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Greater safety in the workplace thanks to smart safety solutions, precise vehicle handling, and excellent all-around visibility in high-traffic areas."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Agile"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Maximum performance in the tightest of spaces thanks to outstanding maneuverability."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Reliable"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Maximum uptime thanks to robust vehicle designs, intelligent fleet management, and a global service network."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Economic"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Lower operating costs thanks to modern lithium-ion technology, efficient charging solutions, and significantly reduced maintenance requirements."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "In a spirit of partnership"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "A strong partner that combines vehicles, digital solutions, operational expertise, and international service all under one roof."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Our Safety and Energy Solutions"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Safety: Protection for People, Vehicles, and Processes",
+     "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Confined spaces, heavy traffic, and constant time pressure make the apron and the cargo terminal challenging work environments. With its “Vision Zero” initiative, Linde MH aims to completely eliminate accidents in intralogistics. The Linde Safety Guard demonstrates how this goal is put into practice: The system establishes warning zones around people, vehicles, and parts of the infrastructure. When an object approaches, those involved receive a visual and audible signal."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Discover Safety Solutions",
+     "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Energy: Solutions for 24/7 Operations",
+     "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "In airport operations, fleet size, network infrastructure, and workflows vary from location to location. There is no one-size-fits-all solution for energy systems. That’s why Linde Material Handling offers a comprehensive portfolio of drive systems, batteries, chargers, and software tools. Whether it’s a traditional internal combustion engine, a lead-acid battery, a lithium-ion powertrain, or a fuel cell: through expert consultation, we develop a customized energy concept for every location."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Discover Energy Solutions",
+     "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Airport logistics never stops. Neither do we."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Come to GSE Expo Europe and see how Linde MH is making ground handling more efficient."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Booth H25 | September 15–17, 2026 | FIL Lisbon"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Discover the highlights of Linde MH at GSE Expo Europe.",
+     "href": "https://www.linde-mh.com/en/Forms/GSE-Expo/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  }
+ ]
+}

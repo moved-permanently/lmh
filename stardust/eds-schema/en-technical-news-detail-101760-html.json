@@ -1,0 +1,120 @@
+{
+ "source": "http://localhost:8803/stardust/migrated/en/technical/News-Detail_101760.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Narrow design, broad portfolio"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "22 Nov 2018"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "New pallet trucks and double stackers from Linde"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "They are all narrower than a Euro pallet and ensure efficient and safe operation in confined spaces: The new pallet trucks and double stackers from Linde Material Handling are particularly slim, both as pedestrian models and in the version with folding driver’s platform. In addition to their compact design, the powerful and robust industrial trucks make a convincing case with their improved view of the load as well as greater user comfort and a wide range of extras."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "“Space is a scarce resource in logistics. Whether during the loading and unloading of trucks or the storage and retrieval of pallets – cramped spaces and narrow aisles make material handling more difficult and increase the risk of accidents or damage. The more compact the equipment, however, the easier it is to maneuver. “Staff shunting goods on narrow truck loading areas on a daily basis are only too aware of this,” says Toufik Oussou, Product Manager Warehouse Trucks at Linde Material Handling."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "With a chassis width of only 720 millimeters, the new Linde models have therefore been designed to be narrower than a Euro pallet – the result is that they are easy to maneuver even in the smallest of spaces. This makes work easier, safer and more productive. In addition, the increased number of different versions and equipment options also contributes to greater efficiency. Linde product manager Oussou: “Our extensive range of extras enables our customers to precisely tailor their industrial trucks to the specific application in the company.”"
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Top performance"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The main fields of applications for the new pallet trucks Linde T25 and T30 with 2.5 to 3.0 tons load capacity are short to medium transfers of goods. A number of different brake and safety systems as well as additional emergency stop switches protect the driver against injuries in a variety of ways. A proven feature is the long tiller of the pedestrian versions: This is mounted low on the chassis, thus ensuring a good safety distance between vehicle and operator . All control levers are housed in the ergonomic tiller head and can be operated with both the right and left-hand fingers. The clearly arranged display shows all the relevant information about the vehicle status."
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "They are all narrower than a Euro pallet and ensure efficient and safe operation in confined spaces: The new pallet trucks with 2.0 to 3.0 tons load capacity and double stackers with 1.0 ton capacity from Linde Material Handling."
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "The large number of options includes the creep speed button, load backrests of various sizes, the Linde connect fleet management system with access control, recording and escalation of shocks as well as usage analysis, and the proven Linde BlueSpot, which projects a blue dot onto the ground using LED lights and thus warns of the approaching vehicle."
+    },
+    {
+     "role": "heading",
+     "order": 10,
+     "text": "Well thought-out equipment"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "The new double stackers are also designed for use in confined spaces such as inside lorries for loading/unloading applications. They can transport two pallets at the same time for even more productivity and can also be used in the storage and retrieval of pallets, whereby the maximum load capacity of the main and initial lift amounts to one ton each. To ensure that the driver can safely transport two pallets simultaneously, the developers at Linde Material Handling have attached great importance to optimized visibility through the lift mast. In addition, the improved Linde Speed Management for the double stacker Linde D10 AP increases the performance of the truck by optimizing the travel speed depending on the load on the main lift."
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "If the pallet trucks or double stackers need to cover longer distances, Linde offers its T20 AP, T25 AP and D10 AP models. The vehicles’ special features prove their worth not least in rough environments. For such situations, they have a folding driver’s platform and side guards that keep the driver safely within the vehicle contour. The platform together with the tiller and guards forms a unit that is completely de-coupled from the chassis. This fully suspended operator compartment keeps shocks and vibrations caused by uneven surfaces away from the body, to effectively prevent musculoskeletal disorders. At the same time, the innovative modular castor wheels ensure high stability and traction."
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "Powerful electric motors with an output of 1.5 kW and 2.3 kW respectively, provide the necessary power for the industrial trucks that can reach speeds of up to 10 km/h in loaded condition. Lithium-ion and lead-acid batteries are available as energy supplies."
+    },
+    {
+     "role": "heading",
+     "order": 14,
+     "text": "Trade Press"
+    },
+    {
+     "role": "heading",
+     "order": 15,
+     "text": "Heike Oder"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "+49 6021 991277",
+     "href": "tel:+49 6021 991277"
+    },
+    {
+     "role": "cta",
+     "order": 17,
+     "text": "Send email",
+     "href": "mailto:heike....oder@@@@linde-mh....de"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 17,
+   "repeats": []
+  }
+ ]
+}

@@ -1,0 +1,2258 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-06T11:56:06.064Z",
+    "waitMode": "slow",
+    "waitMs": 5000,
+    "httpStatus": 200
+  },
+  "slug": "en-about-us-media",
+  "url": "https://www.linde-mh.com/en/About-us/Media/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-06T11:56:06.064Z",
+  "finalUrl": "https://www.linde-mh.com/en/About-us/Media/",
+  "title": "Linde-MH",
+  "description": "Downloadoverview",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": null,
+    "type": "article"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Download Overview"
+    },
+    {
+      "tag": "h4",
+      "text": "Filter Downloads"
+    },
+    {
+      "tag": "h3",
+      "text": "Approved Used Trucks from Linde - Cheap and Reliable - Brochure"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Safety Guard - Brochure"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Safety Pilot - Brochure"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Very Narrow Aisles - Brochure"
+    },
+    {
+      "tag": "h3",
+      "text": "Lindes Rental Solutions - Brochure"
+    },
+    {
+      "tag": "h3",
+      "text": "Safety Guard Distance Beeper 0009734947 – Declaration"
+    },
+    {
+      "tag": "h3",
+      "text": "Safety Guard Portable Unit 0009734938 – Declaration"
+    },
+    {
+      "tag": "h3",
+      "text": "Safety Guard Sensor – Declaration"
+    },
+    {
+      "tag": "h3",
+      "text": "Safety Guard Static Unit – Declaration"
+    },
+    {
+      "tag": "h3",
+      "text": "Safety Guard Truck Unit Small 2 – Declaration"
+    },
+    {
+      "tag": "h3",
+      "text": "Safety Guard Truck Unit Small – Declaration"
+    },
+    {
+      "tag": "h3",
+      "text": "Safety Guard Truck Unit – Declaration"
+    },
+    {
+      "tag": "h3",
+      "text": "Safety Guard Vest Unit 0009734948 – Declaration"
+    },
+    {
+      "tag": "h3",
+      "text": "Safety Guard Vest Unit – Declaration"
+    },
+    {
+      "tag": "h3",
+      "text": "Safety Guard Zone Marker – Declaration"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - A"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - C-MATIC"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - C-MATIC HP"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - D06 – D10"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - D08 M"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - D12 HP AP"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - D12 HP SP"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - D12 S – D12 SF"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - D12 – D14"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - D12 – D14 AP"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - D12 – D14 SP"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - E10"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - E100 – E180"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - E14 – E20"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - E16 – E20 P"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - E20 – E35"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - E35 – E50"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - E60 – E80"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - EG16 – EG20"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - EG25 – EG35"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - Ei14 – Ei20"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - Ei16 – Ei20 P"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - H100 – H180 D"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - H16 – H20"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - H20 – H35"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - H35 – H50"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - H50 – H80"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - HT100 – HT180 D"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - K"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - K-MATIC"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - L-MATIC"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - L-MATIC AC"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - L-MATIC AC k"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - L-MATIC HD"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - L-MATIC HD k"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - L-MATIC core"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - L06 – L16 AC"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - L10 – L12 B AS"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - L10 – L16 B"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - L14 – L16 AS/AS AP"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - L14 – L16 R/Ri"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - L14 – L16 RW"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - L14 – L16 SP"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - L14 – L20"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - L14 – L20 AP"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - LT06 – LT10 M / LT10 W"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - LT10 WX"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - LT10 – LT20 C / LT10 – LT16 B/BM"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - LT16 Ch/BMh"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - M10 X/XE"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - M25"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - M25 Scale+"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - ML10 / MM10"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - MP13"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - MT15 C"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - MV01"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - N16 Li"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - N20 C D"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - N20 C L"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - N20 C LX"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - N20 C LoL"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - N20 D"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - N20 LoL"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - N20 XL"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - N20 – N25"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - N20 – N25 C"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - P-MATIC"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - P120 – P350"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - P20"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - P40 – P60 C"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - P60 – P80"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - R-MATIC"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - R-MATIC k"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - R14 – R17 X"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - R14 – R20 G"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - R14 – R25"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - R20 – R25 F"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - Ri14 – Ri18"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - T-MATIC core"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - T14 B"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - T14 S – T25 S/F"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - T14 – T20"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - T16 L"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - T16 – T20 P"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - T20 – T25 AP"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - T20 – T25 R"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - T20 – T25 RW"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - T20 – T25 SP"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - T20 – T25 SR"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - T25 – T30"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - V modular"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - V modular B"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - V08"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - V10"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - W20 – W30"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - X20 – X35"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - X35 – X50"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - Xi10 – Xi20"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - Xi14 – Xi20 R"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - Xi16 – Xi20 P"
+    },
+    {
+      "tag": "h3",
+      "text": "Data sheets - Xi16 – Xi20 RP"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Safety Guard (BG/CS/DA/EL/ET/FI) - Manual"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Safety Guard (DE/EN/ES/FR/IT/PT) - Manual"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Safety Guard (IS/HR/HU/LT/LV/NL/NO) - Manual"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Safety Guard (PL/RU/SK/SL/SV/TR/ZH) - Manual"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Warning Projector (EN/FR/DE/DE/IT/ES/PT/NL/EL/DA/SV/NO/FI/CS) - Manual"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Warning Projector (PL/TR/RU/LV/LT/ET/SL/SK/RO/HU/HR/BG/ZH) - Manual"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Warning Projector 85 pro (EN/DE)"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde connect:charger (CS-HU-NL-PL-SK-SL) - Manual"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde connect:charger (DE-EN-ES-FR-IT-PT) – Manual"
+    },
+    {
+      "tag": "h3",
+      "text": "Motion Detection Assistance System (BG/CS/DA/EL/ET/FI)"
+    },
+    {
+      "tag": "h3",
+      "text": "Motion Detection Assistance System (DE/EN/ES/FR/IT/PT)"
+    },
+    {
+      "tag": "h3",
+      "text": "Motion Detection Assistance System (IS/HR/HU/LT/LV/NL/NO)"
+    },
+    {
+      "tag": "h3",
+      "text": "Motion Detection Assistance System (PL/RO/RU/SK/SL/SV/TR/ZH)"
+    },
+    {
+      "tag": "h3",
+      "text": "Rescue Guide for Lithium-Ion Batteries"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - E100 – E180"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - E14 – E20"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - E16 – E20 P"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - E60 – E80"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - H100 – H180 D"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - H20 – H35"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - HT100 – HT180 D"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - K"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - L-MATIC"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - N16 Li"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - N20 C D"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - N20 C L"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - N20 C LX"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - N20 C LoL"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - N20 D"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - N20 LoL"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - N20 XL"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - N20 – N25 C"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - P-MATIC"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - P20"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - R14 – R17 X"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - R14 – R25"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - V08"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - V10"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - Xi10 – Xi20"
+    },
+    {
+      "tag": "h3",
+      "text": "Product Brochures - Xi16 – Xi20 P"
+    },
+    {
+      "tag": "h3",
+      "text": "Terms of Use Linde VR Application H20-H35 1202"
+    },
+    {
+      "tag": "h3",
+      "text": "Terms of Use Linde Virtual Showroom App"
+    },
+    {
+      "tag": "h3",
+      "text": "Terms of use Telematics"
+    },
+    {
+      "tag": "h6",
+      "text": "Follow us on"
+    }
+  ],
+  "body": [
+    "Products Products Overview Product Finder Product Finder Overview New Trucks Rental Trucks New Industrial Trucks New Industrial Trucks Overview Forklift Trucks Electric Forklifts Diesel Forklifts Gas Forklifts Heavy Duty Forklifts Pallet Trucks Hand Pallet Trucks Pallet Stackers Very Narrow Aisle Trucks Order Pickers Reach Trucks Tow Tractors Tugger Trains Explosion Proof Trucks Automated Trucks Forklift Hire Approved Trucks Automated Trucks Automated Trucks Overview Automated Guided Vehicles Autonomous Mobile Robots Digital Products Digital Products Fleet Management Intralogistics Software",
+    "Services Services Overview Truck Service Truck Service Maintenance & Repair Genuine Spare Parts Retrofit & Accessories Technical & Safety Services Training Financing",
+    "Solutions Solutions Overview Intralogistics & Automation Intralogistics & Automation Overview Automated Warehouse Warehouse Management System Material Flow Consulting Case Studies by Industries Fleet Management Fleet Management Overview Fleet Optimization Consulting Energy Systems Energy Systems Overview Lithium-ion Technology Fuel Cell Technology Energy Consulting Warehouse Safety Warehouse Safety Overview Light and Warning Systems Assistance Systems Safety Consulting",
+    "About us About us Overview Company Company Overview Sustainability Awards Certificates Our Innovations Working with us Working with us Overview Highschool & University Students Apprentices Recent Graduates & Professionals Magazine Events Press Media",
+    "Search",
+    "Xtranet",
+    "About us",
+    "Media",
+    "approved_trucks… .pdf (2 mb)",
+    "linde_safety_gu… .pdf (830 kb)",
+    "linde_safety_pi… .pdf (4 mb)",
+    "linde_vna_broch… .pdf (8 mb)",
+    "lmh_rental_solu… .pdf (2 mb)",
+    "distance_beeper… .pdf (47 kb)",
+    "portable_unit_d… .pdf (47 kb)",
+    "declaration_of_… .pdf (47 kb)",
+    "declaration_of_… .pdf (48 kb)",
+    "declaration_of_… .pdf (47 kb)",
+    "declaration_of_… .pdf (47 kb)",
+    "declaration_of_… .pdf (47 kb)",
+    "distance_vest_d… .pdf (47 kb)",
+    "vest_unit_decla… .pdf (47 kb)",
+    "declaration_of_… .pdf (48 kb)",
+    "EN_ds_a_5224_en… .pdf (3 mb)",
+    "EN_ds_c_matic_8… .pdf (5 mb)",
+    "EN_ds_c_matic_h… .pdf (4 mb)",
+    "EN_ds_d06_d10_d… .pdf (4 mb)",
+    "EN_ds_d06_d10_d… .pdf (4 mb)",
+    "EN_ds_d12_d14_s… .pdf (4 mb)",
+    "EN_ds_d12_d14_s… .pdf (4 mb)",
+    "EN_ds_d12s_d12s… .pdf (968 kb)",
+    "EN_ds_d12_d14_1… .pdf (3 mb)",
+    "EN_ds_d12_d14_a… .pdf (3 mb)",
+    "EN_ds_d12_d14_s… .pdf (4 mb)",
+    "EN_ds_e10_8917_… .pdf (3 mb)",
+    "EN_ds_e100_e180… .pdf (3 mb)",
+    "EN_ds_e14_e20_1… .pdf (5 mb)",
+    "EN_ds_e16_e20_p… .pdf (5 mb)",
+    "EN_ds_e20_e35_1… .pdf (3 mb)",
+    "EN_ds_e35_e50_1… .pdf (1 mb)",
+    "EN_ds_e60_e80_1… .pdf (570 kb)",
+    "EN_ds_eg16_eg20… .pdf (6 mb)",
+    "EN_ds_eg25__eg3… .pdf (5 mb)",
+    "EN_ds_ei14_ei20… .pdf (4 mb)",
+    "EN_ds_ei14_ei20… .pdf (4 mb)",
+    "EN_ds_h100_h180… .pdf (3 mb)",
+    "EN_ds_h16_h20_3… .pdf (4 mb)",
+    "EN_ds_h20_h35_1… .pdf (4 mb)",
+    "EN_ds_h35_h50_1… .pdf (1 mb)",
+    "EN_ds_h50_h80_3… .pdf (1 mb)",
+    "EN_ds_ht100_d_h… .pdf (453 kb)",
+    "EN_ds_k_5231_en… .pdf (3 mb)",
+    "EN_ds_k_matic_5… .pdf (2 mb)",
+    "EN_ds_l_matic_b… .pdf (827 kb)",
+    "EN_ds_l_matic_a… .pdf (3 mb)",
+    "EN_ds_l_matic_a… .pdf (2 mb)",
+    "EN_tb_l_matic_h… .pdf (1 mb)",
+    "EN_tb_l_matic_h… .pdf (1 mb)",
+    "EN_ds_l_matic_c… .pdf (4 mb)",
+    "EN_ds_l06_l16_a… .pdf (2 mb)",
+    "EN_ds_l10_l12b_… .pdf (2 mb)",
+    "EN_ds_l10_l16b_… .pdf (1 mb)",
+    "EN_ds_l14_l16_a… .pdf (2 mb)",
+    "EN_ds_l14_16r_b… .pdf (687 kb)",
+    "EN_ds_l14rw_l16… .pdf (2 mb)",
+    "EN_ds_l14_l16_s… .pdf (2 mb)",
+    "EN_ds_1173_l14_… .pdf (730 kb)",
+    "EN_ds_l14_l20_a… .pdf (6 mb)",
+    "EN_ds_lt06_lt10… .pdf (3 mb)",
+    "EN_ds_lt10_wx_8… .pdf (3 mb)",
+    "EN_ds_lt10_lt20… .pdf (4 mb)",
+    "EN_ds_lt16_ch_b… .pdf (4 mb)",
+    "EN_ds_m10x_m10x… .pdf (746 kb)",
+    "EN_ds_m25_br033… .pdf (254 kb)",
+    "EN_ds_m25_scale… .pdf (534 kb)",
+    "EN_ds_mm10_ml10… .pdf (3 mb)",
+    "EN_ds_mp13_br89… .pdf (3 mb)",
+    "EN_ds_mt15_c_11… .pdf (4 mb)",
+    "EN_ds_mv01_8905… .pdf (5 mb)",
+    "EN_ds_n16li_111… .pdf (4 mb)",
+    "EN_ds_n20c_d_45… .pdf (3 mb)",
+    "EN_ds_n20c_l_45… .pdf (3 mb)",
+    "EN_ds_n20c_lx_b… .pdf (2 mb)",
+    "EN_ds_n20c_lol_… .pdf (2 mb)",
+    "EN_ds_n20d_1115… .pdf (7 mb)",
+    "EN_ds_n20lol_11… .pdf (4 mb)",
+    "EN_ds_n20_xl_11… .pdf (5 mb)",
+    "EN_ds_n20_n25_4… .pdf (3 mb)",
+    "EN_ds_n20c_4587… .pdf (3 mb)",
+    "EN_ds_p_matic_b… .pdf (754 kb)",
+    "EN_ds_p120_p350… .pdf (6 mb)",
+    "EN_ds_p20_1193_… .pdf (6 mb)",
+    "EN_ds_p40_p60_c… .pdf (5 mb)",
+    "EN_ds_p60_p80_1… .pdf (553 kb)",
+    "EN_ds_r_matic_1… .pdf (4 mb)",
+    "EN_ds_r_matic_k… .pdf (2 mb)",
+    "EN_ds_r14_17x_b… .pdf (1 mb)",
+    "EN_ds_r14_r20g_… .pdf (4 mb)",
+    "EN_ds_r14_r25_h… .pdf (4 mb)",
+    "EN_ds_r20_r25_f… .pdf (2 mb)",
+    "EN_ds_ri14_ri18… .pdf (3 mb)",
+    "EN_ds_t_matic_c… .pdf (1 mb)",
+    "EN_ds_t14b_1132… .pdf (5 mb)",
+    "EN_ds_t14s_t20_… .pdf (890 kb)",
+    "EN_ds_t14_t20_1… .pdf (5 mb)",
+    "EN_ds_t16_l_115… .pdf (3 mb)",
+    "EN_ds_t16_t20_p… .pdf (2 mb)",
+    "EN_ds_t20_25_ap… .pdf (3 mb)",
+    "EN_ds_t20_25r_b… .pdf (1 mb)",
+    "EN_ds_t20rw_t25… .pdf (2 mb)",
+    "EN_ds_t20_25_ap… .pdf (3 mb)",
+    "EN_ds_t20_25sr_… .pdf (992 kb)",
+    "EN_ds_t25_t30_1… .pdf (3 mb)",
+    "EN_ds_v_vmodula… .pdf (574 kb)",
+    "EN_ds_v_vmodula… .pdf (574 kb)",
+    "EN_ds_v08__4594… .pdf (5 mb)",
+    "EN_ds_v10_br502… .pdf (1 mb)",
+    "EN_ds_w20_w30_5… .pdf (4 mb)",
+    "EN_ds_x20_x35_1… .pdf (3 mb)",
+    "EN_ds_x35_x50_1… .pdf (1 mb)",
+    "EN_ds_xi10_xi20… .pdf (5 mb)",
+    "EN_ds_xi14_xi20… .pdf (2 mb)",
+    "EN_ds_xi16_xi20… .pdf (5 mb)",
+    "EN_ds_xi14_xi20… .pdf (2 mb)",
+    "linde_safety_gu… .pdf (47 mb)",
+    "linde_safety_gu… .pdf (47 mb)",
+    "linde_safety_gu… .pdf (54 mb)",
+    "linde_safety_gu… .pdf (54 mb)",
+    "um_linde_warnin… .pdf (8 mb)",
+    "um_linde_warnin… .pdf (8 mb)",
+    "nutzungsinforma… .pdf (300 kb)",
+    "linde_connect_c… .pdf (6 mb)",
+    "linde_connect_c… .pdf (7 mb)",
+    "um_motion_detec… .pdf (7 mb)",
+    "um_motion_detec… .pdf (7 mb)",
+    "um_motion_detec… .pdf (8 mb)",
+    "um_motion_detec… .pdf (8 mb)",
+    "linde_rescue_gu… .pdf (1 mb)",
+    "EN_b_heavy_truc… .pdf (3 mb)",
+    "EN_b_electric_c… .pdf (738 kb)",
+    "EN_b_electric_c… .pdf (738 kb)",
+    "EN_e_trucks_bro… .pdf (6 mb)",
+    "EN_p_1401_h100_… .pdf (5 mb)",
+    "EN_p_h20_h35_12… .pdf (9 mb)",
+    "EN_p_ht100_ht18… .pdf (5 mb)",
+    "EN_b_vna_guidel… .pdf (67 mb)",
+    "EN_p_robotics_e… .pdf (2 mb)",
+    "EN_p_order_pick… .pdf (4 mb)",
+    "EN_p_order_pick… .pdf (4 mb)",
+    "EN_p_order_pick… .pdf (4 mb)",
+    "EN_p_order_pick… .pdf (4 mb)",
+    "EN_p_order_pick… .pdf (4 mb)",
+    "EN_p_order_pick… .pdf (4 mb)",
+    "EN_p_order_pick… .pdf (4 mb)",
+    "EN_p_order_pick… .pdf (4 mb)",
+    "EN_p_order_pick… .pdf (4 mb)",
+    "EN_p_robotics_e… .pdf (2 mb)",
+    "EN_p_2_25t_trac… .pdf (4 mb)",
+    "EN_p_x_range_r1… .pdf (1 mb)",
+    "EN_p_r14_r20_br… .pdf (3 mb)",
+    "EN_p_order_pick… .pdf (4 mb)",
+    "EN_p_order_pick… .pdf (4 mb)",
+    "EN_b_electric_c… .pdf (738 kb)",
+    "EN_b_electric_c… .pdf (738 kb)",
+    "vr_1202_termsof… .pdf (42 kb)",
+    "terms_of_use_vi… .pdf (79 kb)",
+    "linde_mh_terms_… .pdf (67 kb)",
+    "Contact",
+    "Home",
+    "Legal",
+    "Terms of use",
+    "Suppliers",
+    "EDI",
+    "Privacy Statements",
+    "Cookie Settings",
+    "Vulnerability Disclosure Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Search",
+      "href": "https://www.linde-mh.com/en/Search/"
+    },
+    {
+      "label": "Xtranet",
+      "href": "https://xtranet.linde-mh.com/lmhge/"
+    },
+    {
+      "label": "About us",
+      "href": "../"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Approved-Trucks-Brochure_international.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Safety/Linde_Safety_Guard_Brochure_EN.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Safety/Linde_Safety_Pilot_Brochure_EN.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Global-Content/01-Products/05_Very-Narrow-Aisle_Schmalganggeraete-VNA/Linde_VNA_Brochure_EN.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/LMH_Rental-Solutions-Brochure_international.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Distance-Beeper-Declaration_of_Conformity_0009734947_Linde.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Portable-Unit-Declaration_of_Conformity_0009734938-_Linde.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Sensor-Truck-Unit_7917416036_Linde.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity-Static-Unit_0009734929_Linde.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Truck-Unit-Small-2-zi_0009469007_08_20_Linde.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Truck-Unit-Small_0009469000_Linde.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Truck-Unit_0009460934_Linde.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Distance-Vest-Declaration_of_Conformity_0009734948_Linde.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Vest-Unit_Declaration_of_Conformity_0009734939_Linde.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Zone-Marker_0009469001_Linde.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_a_5224_en_b_0821.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_c_matic_8925_en_e_1025_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_c_matic_hp_10_8928_en_b_0523_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_d06_d10_d08m_1162_en_c_0725__view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_d06_d10_d08m_1162_en_c_0725__view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_d12_d14_sp_ap_hp_1161_en_b_0524_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_d12_d14_sp_ap_hp_1161_en_b_0524_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_d12s_d12sf_br1164_en_c_0517.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_d12_d14_1173_en_a_0221_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_d12_d14_ap_1173_en_a_0221_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_d12_d14_sp_ap_hp_1161_en_b_0524_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_e10_8917_e_a_1219.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_e100_e180_1471_en_d_0726.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_e14_e20_1251_en_b_0825_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_e16_e20_p_1251_en_b_0825_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_e20_e35_1252_en_a_0621_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_e35_e50_1254_en_a_0723_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_e60_e80_1279_en_b_0224_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_eg16_eg20_1275_02_en_b_0623_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_eg25__eg35_1276_02_en_b_1223_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_ei14_ei20_ei16_ei20_p_1251_en_a_0226_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_ei14_ei20_ei16_ei20_p_1251_en_a_0226_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_h100_h180_1401_en_d_1020_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_h16_h20_391_en_j_1024_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_h20_h35_1202_en_c_1020_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_h35_h50_1204_en_b_0724_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_h50_h80_396_04_en_p_0924_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_ht100_d_ht180_d_1411_en_i_0523_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_k_5231_en_c_0821_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_k_matic_5231_en_a_0224_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l_matic_br133_en_a_0216.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l_matic_ac_1170_en_c_1024_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l_matic_ac_k_1171_en_b_1225_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_tb_l_matic_hd_hdk_1173_01_en_b_0224_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_tb_l_matic_hd_hdk_1173_01_en_b_0224_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l_matic_core_1195_01_en_b_0425_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l06_l16_ac_1171_01_en_a_0819.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l10_l12b_as_4596_en_a_0724_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l10_l16b_4596_en_b_0624_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l14_l16_as_ap_1173_en_a_0221_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l14_16r_br1174_en_a_0617.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l14rw_l16rw_br1174_en_a_0618.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l14_l16_sp_1177_00_en_c_0524_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_1173_l14_20_0315_ind_b.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l14_l20_ap_1173_01_en_c_1023_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_lt06_lt10_mw_8971_en_b_0726.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_lt10_wx_8974_en_a_0126_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_lt10_lt20c_b_bm_8970_01_en_a_1021_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_lt16_ch_bmh_8972_en_a_1123_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_m10x_m10xe_br033_en_a_0215.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_m25_br033_01_en_a_0318.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_m25_scale_en_052013.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_mm10_ml10_1167_en_d_1225_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_mp13_br8904_en_a_0818.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_mt15_c_1131_02_en_d_0325_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_mv01_8905_en_c_0623_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n16li_1115_en_b_0325_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n20c_d_4589_en_a_1121_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n20c_l_4590_en_a_1121_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n20c_lx_br4590_00_en_a_0419.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n20c_lol_br4589_00_en_a_0419.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n20d_1115_en_c_1124_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n20lol_1115_en_b_0325_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n20_xl_1115_en_b_0325_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n20_n25_4600_en_a_0226.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n20c_4587_en_d_1124_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_p_matic_br1190_en_a_0216.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_p120_p350_5007_10_en_c_0322_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_p20_1193_en_c_0425_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_p40_p60_c_p40_c_b_4595_en_b_0625_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_p60_p80_1191_01_en_c_0523_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_r_matic_1120_en_b_0623_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_r_matic_k_5190_en_a_0425_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_r14_17x_br116_03_en_f_1216.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_r14_r20g_1120_en_e_1020_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_r14_r25_hd_w_n_1120_en_d_1224_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_r20_r25_f_8923_en_b_0125_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_ri14_ri18_1121_en_b_0526.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_t_matic_core_1153_en_a_0726.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_t14b_1132_en_b_0625_view.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_t14s_t20_25_s_sf_br1154_en_f_0417.pdf"
+    },
+    {
+      "label": "Download file",
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_t14_t20_1155_en_c_0624_view.pdf"
+    }
+  ],
+  "links": [
+    "https://www.linde-mh.com/en/",
+    "https://www.linde-mh.com/en/About-us/Media/#123",
+    "https://www.linde-mh.com/en/Products/",
+    "https://www.linde-mh.com/en/Products/Productfinder/",
+    "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/",
+    "https://www.linde-mh.com/en/Products/E-Trucks/",
+    "https://www.linde-mh.com/en/Products/Diesel-Forklifts/",
+    "https://www.linde-mh.com/en/Products/Gas-forklifts/",
+    "https://www.linde-mh.com/en/Products/Heavy-Duty-Forklifts/",
+    "https://www.linde-mh.com/en/Products/Pallet-Trucks/",
+    "https://www.linde-mh.com/en/Products/Hand-Pallet-Trucks/",
+    "https://www.linde-mh.com/en/Products/Pallet-Stackers/",
+    "https://www.linde-mh.com/en/Products/Very-Narrow-Aisle-Trucks/",
+    "https://www.linde-mh.com/en/Products/Order-Pickers/",
+    "https://www.linde-mh.com/en/Products/Reach-Trucks/",
+    "https://www.linde-mh.com/en/Products/Tow-Trucks/",
+    "https://www.linde-mh.com/en/Products/Tugger-Trains/",
+    "https://www.linde-mh.com/en/Products/Explosion-Proof-Trucks/",
+    "https://www.linde-mh.com/en/Products/Automated-Trucks/",
+    "https://www.linde-mh.com/en/Products/Forklift-Hire/",
+    "https://www.linde-mh.com/en/Products/Approved-Trucks/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-guided-vehicle/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Autonomous-mobile-robots/",
+    "https://www.linde-mh.com/en/Solutions/Fleet-Management/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Software/",
+    "https://www.linde-mh.com/en/Service/",
+    "https://www.linde-mh.com/en/Service/Maintenance-Repair/",
+    "https://www.linde-mh.com/en/Service/Genuine-Spare-Parts/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Technical-Safety-Services/",
+    "https://www.linde-mh.com/en/Service/Training/",
+    "https://www.linde-mh.com/en/Solutions/Financing/",
+    "https://www.linde-mh.com/en/Solutions/Overview.html",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-Warehouse/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Warehouse-Management-System/",
+    "https://www.linde-mh.com/en/Solutions/Consulting/Material-Flow-Consulting/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/User-cases-intralogistics/",
+    "https://www.linde-mh.com/en/Solutions/Consulting/Fleet-Optimization.html",
+    "https://www.linde-mh.com/en/Solutions/Energy-Systems/",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+    "https://www.linde-mh.com/en/Solutions/Energy-Systems/Energy-consulting/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Light-and-warning-systems/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Assistance-systems/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Safety-consulting/",
+    "https://www.linde-mh.com/en/About-us/",
+    "https://www.linde-mh.com/en/About-us/Company/",
+    "https://www.linde-mh.com/en/About-us/Sustainability/",
+    "https://www.linde-mh.com/en/About-us/Awards/",
+    "https://www.linde-mh.com/en/About-us/Certificates/",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/Students-Scholars/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/Apprentice/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/Professionals/",
+    "https://www.linde-mh.com/en/About-us/Magazine/",
+    "https://www.linde-mh.com/en/About-us/Events/",
+    "https://www.linde-mh.com/en/About-us/Press/",
+    "https://www.linde-mh.com/en/About-us/Media/index.html",
+    "https://www.linde-mh.com/en/Landingpage/Platform-Counterbalanced-Trucks/",
+    "https://www.linde-mh.com/en/Products/Productfinder/?offerType=new",
+    "https://www.linde-mh.com/en/technical/Location-Finder.html",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+    "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+    "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+    "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+    "https://www.linde-mh.com/en/Search/",
+    "https://xtranet.linde-mh.com/lmhge/",
+    "https://www.linde-mh.com/en/About-us/Media/#",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Approved-Trucks-Brochure_international.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Safety/Linde_Safety_Guard_Brochure_EN.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Safety/Linde_Safety_Pilot_Brochure_EN.pdf",
+    "https://www.linde-mh.com/media/Global-Content/01-Products/05_Very-Narrow-Aisle_Schmalganggeraete-VNA/Linde_VNA_Brochure_EN.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/LMH_Rental-Solutions-Brochure_international.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Distance-Beeper-Declaration_of_Conformity_0009734947_Linde.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Portable-Unit-Declaration_of_Conformity_0009734938-_Linde.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Sensor-Truck-Unit_7917416036_Linde.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity-Static-Unit_0009734929_Linde.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Truck-Unit-Small-2-zi_0009469007_08_20_Linde.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Truck-Unit-Small_0009469000_Linde.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Truck-Unit_0009460934_Linde.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Distance-Vest-Declaration_of_Conformity_0009734948_Linde.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Vest-Unit_Declaration_of_Conformity_0009734939_Linde.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Zone-Marker_0009469001_Linde.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_a_5224_en_b_0821.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_c_matic_8925_en_e_1025_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_c_matic_hp_10_8928_en_b_0523_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_d06_d10_d08m_1162_en_c_0725__view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_d12_d14_sp_ap_hp_1161_en_b_0524_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_d12s_d12sf_br1164_en_c_0517.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_d12_d14_1173_en_a_0221_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_d12_d14_ap_1173_en_a_0221_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_e10_8917_e_a_1219.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_e100_e180_1471_en_d_0726.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_e14_e20_1251_en_b_0825_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_e16_e20_p_1251_en_b_0825_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_e20_e35_1252_en_a_0621_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_e35_e50_1254_en_a_0723_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_e60_e80_1279_en_b_0224_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_eg16_eg20_1275_02_en_b_0623_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_eg25__eg35_1276_02_en_b_1223_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_ei14_ei20_ei16_ei20_p_1251_en_a_0226_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_h100_h180_1401_en_d_1020_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_h16_h20_391_en_j_1024_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_h20_h35_1202_en_c_1020_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_h35_h50_1204_en_b_0724_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_h50_h80_396_04_en_p_0924_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_ht100_d_ht180_d_1411_en_i_0523_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_k_5231_en_c_0821_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_k_matic_5231_en_a_0224_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_l_matic_br133_en_a_0216.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_l_matic_ac_1170_en_c_1024_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_l_matic_ac_k_1171_en_b_1225_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_tb_l_matic_hd_hdk_1173_01_en_b_0224_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_l_matic_core_1195_01_en_b_0425_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_l06_l16_ac_1171_01_en_a_0819.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_l10_l12b_as_4596_en_a_0724_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_l10_l16b_4596_en_b_0624_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_l14_l16_as_ap_1173_en_a_0221_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_l14_16r_br1174_en_a_0617.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_l14rw_l16rw_br1174_en_a_0618.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_l14_l16_sp_1177_00_en_c_0524_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_1173_l14_20_0315_ind_b.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_l14_l20_ap_1173_01_en_c_1023_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_lt06_lt10_mw_8971_en_b_0726.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_lt10_wx_8974_en_a_0126_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_lt10_lt20c_b_bm_8970_01_en_a_1021_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_lt16_ch_bmh_8972_en_a_1123_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_m10x_m10xe_br033_en_a_0215.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_m25_br033_01_en_a_0318.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_m25_scale_en_052013.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_mm10_ml10_1167_en_d_1225_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_mp13_br8904_en_a_0818.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_mt15_c_1131_02_en_d_0325_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_mv01_8905_en_c_0623_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_n16li_1115_en_b_0325_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_n20c_d_4589_en_a_1121_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_n20c_l_4590_en_a_1121_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_n20c_lx_br4590_00_en_a_0419.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_n20c_lol_br4589_00_en_a_0419.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_n20d_1115_en_c_1124_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_n20lol_1115_en_b_0325_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_n20_xl_1115_en_b_0325_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_n20_n25_4600_en_a_0226.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_n20c_4587_en_d_1124_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_p_matic_br1190_en_a_0216.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_p120_p350_5007_10_en_c_0322_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_p20_1193_en_c_0425_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_p40_p60_c_p40_c_b_4595_en_b_0625_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_p60_p80_1191_01_en_c_0523_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_r_matic_1120_en_b_0623_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_r_matic_k_5190_en_a_0425_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_r14_17x_br116_03_en_f_1216.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_r14_r20g_1120_en_e_1020_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_r14_r25_hd_w_n_1120_en_d_1224_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_r20_r25_f_8923_en_b_0125_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_ri14_ri18_1121_en_b_0526.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_t_matic_core_1153_en_a_0726.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_t14b_1132_en_b_0625_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_t14s_t20_25_s_sf_br1154_en_f_0417.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_t14_t20_1155_en_c_0624_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_t16_l_1155_en_a_0924_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_t16_t20_p_1155_en_b_0725_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_t20_25_ap_sp_1156_en_d_0625_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_t20_25r_br1154_en_a_0517.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_t20rw_t25rw_br1154_en_a_0618.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_t20_25sr_br1154_en_a_0517.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_t25_t30_1153_en_b_0620_web.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_v_vmodular_5214_en_a_0123_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_v08__4594_en_e_0721_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_v10_br5021_en_f_0119.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_w20_w30_5007_10_en_b_0122_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_x20_x35_1252_en_a_0621_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_x35_x50_1254_en_a_0323_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_xi10_xi20_1251_en_b_0825_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_xi14_xi20_r_xi16_xi20_rp_1251_en_b_0625_view.pdf",
+    "https://www.linde-mh.com/media/Datasheets/EN_ds_xi16_xi20_p_1251_en_b_0825_view.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Safety/Linde-Safety-Guard-(BG-CS-DA-EL-ET-FI)-Manual.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Safety/Linde-Safety-Guard-(DE-EN-ES-FR-IT-PT)-Manual.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Safety/Linde-Safety-Guard-(IS-HR-HU-LT-LV-NL-NO)-Manual.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Safety/Linde-Safety-Guard-(PL-RU-SK-SL-SV-TR-ZH)-Manual.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/UM_Linde-Warning-Projector_EN_FR_DE_IT_ES_PT_NL_EL_DA_SV_NO_FI_CS.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/UM_Linde-Warning-Projector_PL_TR_RU_LV_LT_ET_SL_SK_RO_HU_HR_BG_ZH.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Nutzungsinformationen-LWP-85-Pro-Geraetesteuerungsanschluss-DE-EN.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Linde-connect/Linde-connect-charger-(CS-HU-NL-PL-SK-SL)-Manual.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Linde-connect/Linde-connect-charger-(DE-EN-ES-FR-IT-PT)-Manual.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Motion-Detection/UM_Motion-Detection_current-truck-series_BG_CS_DA_EL_ET_FI_2110.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Motion-Detection/UM_Motion-Detection_current-truck-series_DE_EN_ES_FR_IT_PT_2110.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Motion-Detection/UM_Motion-Detection_current-truck-series_IS_HR_HU_LT_LV_NL_NO_2110.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Motion-Detection/UM_Motion-Detection_current-truck-series_PL_RO_RU_SK_SL_SV_TR_2110.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Linde_Rescue_Guide_Lithium-Ion-Battery_EN.pdf",
+    "https://www.linde-mh.com/media/Brochures/EN_b_heavy_trucks_e100_180_1471_en_a_1022_view.pdf",
+    "https://www.linde-mh.com/media/Brochures/EN_b_electric_counterbalance_trucks__e14_e20_xi10_xi20_en_a_1024_view.pdf",
+    "https://www.linde-mh.com/media/Brochures/EN_e_trucks_brochure.pdf",
+    "https://www.linde-mh.com/media/Brochures/EN_p_1401_h100_h180_en_a_0620.pdf",
+    "https://www.linde-mh.com/media/Brochures/EN_p_h20_h35_1202_01_en_a_1019.pdf",
+    "https://www.linde-mh.com/media/Brochures/EN_p_ht100_ht180_1411_en_a_1020.pdf",
+    "https://www.linde-mh.com/media/Brochures/EN_b_vna_guideline_en_b_1022_view.pdf",
+    "https://www.linde-mh.com/media/Brochures/EN_p_robotics_en_a_0216.pdf",
+    "https://www.linde-mh.com/media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf",
+    "https://www.linde-mh.com/media/Brochures/EN_p_2_25t_tractor_range_en_d_0716.pdf",
+    "https://www.linde-mh.com/media/Brochures/EN_p_x_range_r14_r17x_en_d_0319.pdf",
+    "https://www.linde-mh.com/media/Brochures/EN_p_r14_r20_br1120_en_a_0213.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/VR_Application_H20-H35_1202/VR_1202_TermsOfUse_Formatiert.pdf",
+    "https://www.linde-mh.com/media/Global-Content/08_Downloads/Virtual_Showroom_App/Terms_of_use_VirtualShowroom.pdf",
+    "https://www.linde-mh.com/media/Global-Content/01-Products/11_Automated-Trucks_Automatisierte-Stapler/Terms-of-Use/Linde_MH_Terms_of_use_telematics_EN.pdf",
+    "mailto:?body=$url",
+    "https://www.linkedin.com/shareArticle?url=$url&v=6220988",
+    "https://www.facebook.com/sharer/sharer.php?u=$url",
+    "javascript:window.print()",
+    "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+    "https://www.linde-mh.com/en/Legal-Notes/Legal/",
+    "https://www.linde-mh.com/en/Legal-Notes/Terms-of-use/",
+    "https://www.kiongroup.com/en/About-us/Suppliers/",
+    "https://www.linde-mh.com/en/EDI/",
+    "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/",
+    "https://www.kiongroup.com/en/Service/Vulnerability-Disclosure-Policy/",
+    "https://www.linkedin.com/company/36425/",
+    "https://www.facebook.com/LindeMH/",
+    "https://www.instagram.com/linde_mh/",
+    "http://www.youtube.com/user/Gabelstapler24",
+    "http://null/",
+    "https://www.ccm19.de/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.linde-mh.com/en/layoutmedia/Linde_MH_Logo_RGB.svg",
+        "alt": "",
+        "w": 250,
+        "h": 150
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/HR/global-HR-Banner_Linde-KION_16x9w1920.jpg",
+        "alt": "",
+        "w": 1440,
+        "h": 810
+      }
+    ],
+    "allImgCount": 161,
+    "cssBackgrounds": [],
+    "modals": [
+      "German (Deutsch) English We use cookies and other technologies. This website uses cookies and similar functions to process end device information and personal data. The processing serves the integration of content, external services and elements of third parties, statistical analysis/measurement, personalized advertising and the integration of social media. Depending on the function, data may be passed on to third parties in the process and to third parties in countries where there is no adequate level of data protection and is processed by them, e.g. the USA. Your consent is always voluntary, not required for the use of our website and can be rejected or revoked at any time on our site. Accept all Decline Settings Imprint Privacy Policy Powered by CCM19",
+      "Please select policies to allow Technically neccessary (2) ? Here are all technically necessary scripts, cookies and other elements that are necessary for the operation of the website or the operator has a legitimate interest under DSGVO Art6, para. 1. Analytics & Marketing (5) ? Analytics cookies help us understand how visitors interact with this website by collecting and reporting information anonymously. To continuously improve our website, we track data for statistical and analytical purposes, such as the number of visits or the impact of certain pages of our web presence, and thus optimise our content. Marketing cookies are used to target advertising specifically to a user (behavioural targeting). The aim of using marketing cookies is to display advertising that is particularly relevant to the users of the website. Personalization (1) ? To better tailor the website to you, scripts run here and cookies are set. The goal is to provide a better user experience for you. Other (2) ? Here are other scripts and cookies that do not fit any of the above categories. Cancel Save"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--color-red": "#aa0020",
+    "--color-toned-red": "#cc132a",
+    "--color-darkred": "#990e1f",
+    "--color-darkgrey": "#222",
+    "--color-text-darkgrey": "#444",
+    "--color-textgrey": "#4a595c",
+    "--color-toned-textgrey": "#5e7175",
+    "--color-shadegrey": "#e6e7eb",
+    "--color-lightgrey": "#eeeff3",
+    "--color-hover-lightgrey": "#f5f6fa",
+    "--color-white": "#fff",
+    "--color-form-lightgrey": "#cccdd1",
+    "--color-form-darkgrey": "#9b9b9e",
+    "--color-black": "#222",
+    "--color-form-validation": "red",
+    "--color-green": "#77b340",
+    "--color-toned-green": "color-mix(in srgb,#77b340,#fff 10%)",
+    "--color-darkgreen": "color-mix(in srgb,#77b340,#000 10%)",
+    "--color-primary-700": "#94001d",
+    "--color-primary-900": "#700016",
+    "--color-carousel-grey": "#354042",
+    "--color-carousel-lightgrey": "#6b6b6a",
+    "--color-carousel-red": "#ba1926",
+    "--color-facebook": "#3b5998",
+    "--color-twitter": "#000",
+    "--color-xing": "#126567",
+    "--color-youtube": "#cd201f",
+    "--color-vimeo": "#1ab7ea",
+    "--color-twitch": "#6441a5",
+    "--color-whatsapp": "#25d366",
+    "--color-linkedin": "#0077b5",
+    "--color-googleplus": "#d34836",
+    "--color-baidu": "#de0f17",
+    "--color-pinterest": "#bd081c",
+    "--color-instagram": "#e1306c",
+    "--color-blogger": "#f57d00",
+    "--color-flickr": "#0063dc",
+    "--color-kununu": "#000",
+    "--color-tiktok": "#000",
+    "--color-toned-red2": "#ba1926",
+    "--color-lightgrey2": "#e4e5ea",
+    "--font-face": "\"DaxlineWebPro\"",
+    "--font-face-bold": "\"DaxlineWebPro-Bold\"",
+    "--font-face-italic": "\"DaxlineWebPro-Italic\"",
+    "--font-face-medi": "\"DaxWebPro-Medi\"",
+    "--font-face-light": "\"DaxWebPro-Light\"",
+    "--color-lmh-grey-200": "#dcdcdf",
+    "--color-lmh-grey-300": "#cccdd1",
+    "--ccm--scrollbar-width": "0px",
+    "--ccm--scrollbar-height": "0px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 162,
+    "mainTextLen": 41208,
+    "realImageCount": 2,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "epcloud.ccm19.de",
+        "path": "/consent/ccm19/public/widget",
+        "query": [
+          "apiKey",
+          "domain",
+          "gen",
+          "lang",
+          "theme",
+          "v"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/x-html-fragment",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://epcloud.ccm19.de/consent/ccm19/public/widget",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "epcloud.ccm19.de",
+        "path": "/consent/ccm19/public/statistics/consent",
+        "query": [
+          "apiKey",
+          "domain",
+          "gen",
+          "theme"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 36,
+        "hits": 2,
+        "example": "https://epcloud.ccm19.de/consent/ccm19/public/statistics/consent",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_fv",
+          "_nsi",
+          "_p",
+          "_s",
+          "_ss",
+          "cid",
+          "dl",
+          "dma",
+          "dp",
+          "dt",
+          "en",
+          "ep.allowLinker",
+          "ep.customTask",
+          "frm",
+          "gcd",
+          "gcs",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "f.clarity.ms",
+        "path": "/collect",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 3,
+        "example": "https://f.clarity.ms/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "px.ads.linkedin.com",
+        "path": "/wa/",
+        "query": [
+          "fmt",
+          "medium"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://px.ads.linkedin.com/wa/",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "www.googletagmanager.com",
+        "count": 4
+      },
+      {
+        "host": "connect.facebook.net",
+        "count": 2
+      },
+      {
+        "host": "snap.licdn.com",
+        "count": 2
+      },
+      {
+        "host": "epcdn.ccm19.de",
+        "count": 1
+      },
+      {
+        "host": "static.etracker.com",
+        "count": 1
+      },
+      {
+        "host": "epcloud.ccm19.de",
+        "count": 1
+      },
+      {
+        "host": "code.etracker.com",
+        "count": 1
+      },
+      {
+        "host": "www.clarity.ms",
+        "count": 1
+      },
+      {
+        "host": "scripts.clarity.ms",
+        "count": 1
+      },
+      {
+        "host": "www.etracker.de",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 0,
+    "triggers": [
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      }
+    ],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 0,
+      "thirdPartyEndpoints": 5,
+      "thirdPartyScriptHosts": 10,
+      "inlineDataBlobs": 0,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": false
+    }
+  },
+  "screenshot": "assets/screenshots/en-about-us-media.png",
+  "renderedHtml": "pages/en-about-us-media.html",
+  "slots": {
+    "index-headline": "Download Overview",
+    "lead-image": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/HR/global-HR-Banner_Linde-KION_16x9w1920.jpg",
+    "intro": null,
+    "card-grid": [
+      {
+        "title": "Approved Used Trucks from Linde - Cheap and Reliable - Brochure"
+      },
+      {
+        "title": "Linde Safety Guard - Brochure"
+      },
+      {
+        "title": "Linde Safety Pilot - Brochure"
+      },
+      {
+        "title": "Linde Very Narrow Aisles - Brochure"
+      },
+      {
+        "title": "Lindes Rental Solutions - Brochure"
+      },
+      {
+        "title": "Safety Guard Distance Beeper 0009734947 – Declaration"
+      },
+      {
+        "title": "Safety Guard Portable Unit 0009734938 – Declaration"
+      },
+      {
+        "title": "Safety Guard Sensor – Declaration"
+      },
+      {
+        "title": "Safety Guard Static Unit – Declaration"
+      },
+      {
+        "title": "Safety Guard Truck Unit Small 2 – Declaration"
+      },
+      {
+        "title": "Safety Guard Truck Unit Small – Declaration"
+      },
+      {
+        "title": "Safety Guard Truck Unit – Declaration"
+      },
+      {
+        "title": "Safety Guard Vest Unit 0009734948 – Declaration"
+      },
+      {
+        "title": "Safety Guard Vest Unit – Declaration"
+      },
+      {
+        "title": "Safety Guard Zone Marker – Declaration"
+      },
+      {
+        "title": "Data sheets - A"
+      },
+      {
+        "title": "Data sheets - C-MATIC"
+      },
+      {
+        "title": "Data sheets - C-MATIC HP"
+      },
+      {
+        "title": "Data sheets - D06 – D10"
+      },
+      {
+        "title": "Data sheets - D08 M"
+      },
+      {
+        "title": "Data sheets - D12 HP AP"
+      },
+      {
+        "title": "Data sheets - D12 HP SP"
+      },
+      {
+        "title": "Data sheets - D12 S – D12 SF"
+      },
+      {
+        "title": "Data sheets - D12 – D14"
+      },
+      {
+        "title": "Data sheets - D12 – D14 AP"
+      },
+      {
+        "title": "Data sheets - D12 – D14 SP"
+      },
+      {
+        "title": "Data sheets - E10"
+      },
+      {
+        "title": "Data sheets - E100 – E180"
+      },
+      {
+        "title": "Data sheets - E14 – E20"
+      },
+      {
+        "title": "Data sheets - E16 – E20 P"
+      },
+      {
+        "title": "Data sheets - E20 – E35"
+      },
+      {
+        "title": "Data sheets - E35 – E50"
+      },
+      {
+        "title": "Data sheets - E60 – E80"
+      },
+      {
+        "title": "Data sheets - EG16 – EG20"
+      },
+      {
+        "title": "Data sheets - EG25 – EG35"
+      },
+      {
+        "title": "Data sheets - Ei14 – Ei20"
+      },
+      {
+        "title": "Data sheets - Ei16 – Ei20 P"
+      },
+      {
+        "title": "Data sheets - H100 – H180 D"
+      },
+      {
+        "title": "Data sheets - H16 – H20"
+      },
+      {
+        "title": "Data sheets - H20 – H35"
+      },
+      {
+        "title": "Data sheets - H35 – H50"
+      },
+      {
+        "title": "Data sheets - H50 – H80"
+      },
+      {
+        "title": "Data sheets - HT100 – HT180 D"
+      },
+      {
+        "title": "Data sheets - K"
+      },
+      {
+        "title": "Data sheets - K-MATIC"
+      },
+      {
+        "title": "Data sheets - L-MATIC"
+      },
+      {
+        "title": "Data sheets - L-MATIC AC"
+      },
+      {
+        "title": "Data sheets - L-MATIC AC k"
+      },
+      {
+        "title": "Data sheets - L-MATIC HD"
+      },
+      {
+        "title": "Data sheets - L-MATIC HD k"
+      },
+      {
+        "title": "Data sheets - L-MATIC core"
+      },
+      {
+        "title": "Data sheets - L06 – L16 AC"
+      },
+      {
+        "title": "Data sheets - L10 – L12 B AS"
+      },
+      {
+        "title": "Data sheets - L10 – L16 B"
+      },
+      {
+        "title": "Data sheets - L14 – L16 AS/AS AP"
+      },
+      {
+        "title": "Data sheets - L14 – L16 R/Ri"
+      },
+      {
+        "title": "Data sheets - L14 – L16 RW"
+      },
+      {
+        "title": "Data sheets - L14 – L16 SP"
+      },
+      {
+        "title": "Data sheets - L14 – L20"
+      },
+      {
+        "title": "Data sheets - L14 – L20 AP"
+      },
+      {
+        "title": "Data sheets - LT06 – LT10 M / LT10 W"
+      },
+      {
+        "title": "Data sheets - LT10 WX"
+      },
+      {
+        "title": "Data sheets - LT10 – LT20 C / LT10 – LT16 B/BM"
+      },
+      {
+        "title": "Data sheets - LT16 Ch/BMh"
+      },
+      {
+        "title": "Data sheets - M10 X/XE"
+      },
+      {
+        "title": "Data sheets - M25"
+      },
+      {
+        "title": "Data sheets - M25 Scale+"
+      },
+      {
+        "title": "Data sheets - ML10 / MM10"
+      },
+      {
+        "title": "Data sheets - MP13"
+      },
+      {
+        "title": "Data sheets - MT15 C"
+      },
+      {
+        "title": "Data sheets - MV01"
+      },
+      {
+        "title": "Data sheets - N16 Li"
+      },
+      {
+        "title": "Data sheets - N20 C D"
+      },
+      {
+        "title": "Data sheets - N20 C L"
+      },
+      {
+        "title": "Data sheets - N20 C LX"
+      },
+      {
+        "title": "Data sheets - N20 C LoL"
+      },
+      {
+        "title": "Data sheets - N20 D"
+      },
+      {
+        "title": "Data sheets - N20 LoL"
+      },
+      {
+        "title": "Data sheets - N20 XL"
+      },
+      {
+        "title": "Data sheets - N20 – N25"
+      },
+      {
+        "title": "Data sheets - N20 – N25 C"
+      },
+      {
+        "title": "Data sheets - P-MATIC"
+      },
+      {
+        "title": "Data sheets - P120 – P350"
+      },
+      {
+        "title": "Data sheets - P20"
+      },
+      {
+        "title": "Data sheets - P40 – P60 C"
+      },
+      {
+        "title": "Data sheets - P60 – P80"
+      },
+      {
+        "title": "Data sheets - R-MATIC"
+      },
+      {
+        "title": "Data sheets - R-MATIC k"
+      },
+      {
+        "title": "Data sheets - R14 – R17 X"
+      },
+      {
+        "title": "Data sheets - R14 – R20 G"
+      },
+      {
+        "title": "Data sheets - R14 – R25"
+      },
+      {
+        "title": "Data sheets - R20 – R25 F"
+      },
+      {
+        "title": "Data sheets - Ri14 – Ri18"
+      },
+      {
+        "title": "Data sheets - T-MATIC core"
+      },
+      {
+        "title": "Data sheets - T14 B"
+      },
+      {
+        "title": "Data sheets - T14 S – T25 S/F"
+      },
+      {
+        "title": "Data sheets - T14 – T20"
+      },
+      {
+        "title": "Data sheets - T16 L"
+      },
+      {
+        "title": "Data sheets - T16 – T20 P"
+      },
+      {
+        "title": "Data sheets - T20 – T25 AP"
+      },
+      {
+        "title": "Data sheets - T20 – T25 R"
+      },
+      {
+        "title": "Data sheets - T20 – T25 RW"
+      },
+      {
+        "title": "Data sheets - T20 – T25 SP"
+      },
+      {
+        "title": "Data sheets - T20 – T25 SR"
+      },
+      {
+        "title": "Data sheets - T25 – T30"
+      },
+      {
+        "title": "Data sheets - V modular"
+      },
+      {
+        "title": "Data sheets - V modular B"
+      },
+      {
+        "title": "Data sheets - V08"
+      },
+      {
+        "title": "Data sheets - V10"
+      },
+      {
+        "title": "Data sheets - W20 – W30"
+      },
+      {
+        "title": "Data sheets - X20 – X35"
+      },
+      {
+        "title": "Data sheets - X35 – X50"
+      },
+      {
+        "title": "Data sheets - Xi10 – Xi20"
+      },
+      {
+        "title": "Data sheets - Xi14 – Xi20 R"
+      },
+      {
+        "title": "Data sheets - Xi16 – Xi20 P"
+      },
+      {
+        "title": "Data sheets - Xi16 – Xi20 RP"
+      },
+      {
+        "title": "Linde Safety Guard (BG/CS/DA/EL/ET/FI) - Manual"
+      },
+      {
+        "title": "Linde Safety Guard (DE/EN/ES/FR/IT/PT) - Manual"
+      },
+      {
+        "title": "Linde Safety Guard (IS/HR/HU/LT/LV/NL/NO) - Manual"
+      },
+      {
+        "title": "Linde Safety Guard (PL/RU/SK/SL/SV/TR/ZH) - Manual"
+      },
+      {
+        "title": "Linde Warning Projector (EN/FR/DE/DE/IT/ES/PT/NL/EL/DA/SV/NO/FI/CS) - Manual"
+      },
+      {
+        "title": "Linde Warning Projector (PL/TR/RU/LV/LT/ET/SL/SK/RO/HU/HR/BG/ZH) - Manual"
+      },
+      {
+        "title": "Linde Warning Projector 85 pro (EN/DE)"
+      },
+      {
+        "title": "Linde connect:charger (CS-HU-NL-PL-SK-SL) - Manual"
+      },
+      {
+        "title": "Linde connect:charger (DE-EN-ES-FR-IT-PT) – Manual"
+      },
+      {
+        "title": "Motion Detection Assistance System (BG/CS/DA/EL/ET/FI)"
+      },
+      {
+        "title": "Motion Detection Assistance System (DE/EN/ES/FR/IT/PT)"
+      },
+      {
+        "title": "Motion Detection Assistance System (IS/HR/HU/LT/LV/NL/NO)"
+      },
+      {
+        "title": "Motion Detection Assistance System (PL/RO/RU/SK/SL/SV/TR/ZH)"
+      },
+      {
+        "title": "Rescue Guide for Lithium-Ion Batteries"
+      },
+      {
+        "title": "Product Brochures - E100 – E180"
+      },
+      {
+        "title": "Product Brochures - E14 – E20"
+      },
+      {
+        "title": "Product Brochures - E16 – E20 P"
+      },
+      {
+        "title": "Product Brochures - E60 – E80"
+      },
+      {
+        "title": "Product Brochures - H100 – H180 D"
+      },
+      {
+        "title": "Product Brochures - H20 – H35"
+      },
+      {
+        "title": "Product Brochures - HT100 – HT180 D"
+      },
+      {
+        "title": "Product Brochures - K"
+      },
+      {
+        "title": "Product Brochures - L-MATIC"
+      },
+      {
+        "title": "Product Brochures - N16 Li"
+      },
+      {
+        "title": "Product Brochures - N20 C D"
+      },
+      {
+        "title": "Product Brochures - N20 C L"
+      },
+      {
+        "title": "Product Brochures - N20 C LX"
+      },
+      {
+        "title": "Product Brochures - N20 C LoL"
+      },
+      {
+        "title": "Product Brochures - N20 D"
+      },
+      {
+        "title": "Product Brochures - N20 LoL"
+      },
+      {
+        "title": "Product Brochures - N20 XL"
+      },
+      {
+        "title": "Product Brochures - N20 – N25 C"
+      },
+      {
+        "title": "Product Brochures - P-MATIC"
+      },
+      {
+        "title": "Product Brochures - P20"
+      },
+      {
+        "title": "Product Brochures - R14 – R17 X"
+      },
+      {
+        "title": "Product Brochures - R14 – R25"
+      },
+      {
+        "title": "Product Brochures - V08"
+      },
+      {
+        "title": "Product Brochures - V10"
+      },
+      {
+        "title": "Product Brochures - Xi10 – Xi20"
+      },
+      {
+        "title": "Product Brochures - Xi16 – Xi20 P"
+      },
+      {
+        "title": "Terms of Use Linde VR Application H20-H35 1202"
+      },
+      {
+        "title": "Terms of Use Linde Virtual Showroom App"
+      },
+      {
+        "title": "Terms of use Telematics"
+      }
+    ],
+    "filter-controls": false
+  }
+}

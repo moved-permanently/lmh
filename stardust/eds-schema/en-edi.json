@@ -1,0 +1,159 @@
+{
+ "source": "http://localhost:8801/stardust/migrated/en/EDI/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "EDI – Electronic Data Interchange"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Share",
+     "href": "#123"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Share"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Lean, efficient processes are the key factor for business success. EDI supports the exchange of structured business data (delivery schedules, purchase orders, invoices, etc.)."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "In the upcoming you will find information to the electronic data exchange between Linde Material Handling and its customers and vendors."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "All technical information on exchange formats, EDI guidelines, communication protocols and contact details can be found on the central KION Group IT website under the following link:"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "https://www.kiongroup.com/edi/",
+     "href": "https://www.kiongroup.com/edi/"
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "EDI Agreement"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "To make the invoice process more efficient, Linde Material Handling would like to avoid receiving invoices manually. Hence we offer to all of our suppliers using electronic invoices via EDI."
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "A change in the law \"Steuerbürokratieabbaugesetz\" which took effect on 01.01.2009 supersedes sending a summary sheet along with an electronic invoice via EDI. Though it is essential, to conclude an agreement between buyer and supplier regarding EDI invoices."
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "EDI Agreement Linde Material Handling",
+     "href": "../../media/Global-Content/08_Downloads/EDI/EDI_Agreement_LMH_EN.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "Interested? Please contact us!"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Udo Tumczyk Phone: +49 6021 99 1264 Fax: +49 6021 99 1414 Email: udo.tumczyk@linde-mh.de"
+    },
+    {
+     "role": "heading",
+     "order": 13,
+     "text": "Contacts"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Supplier Support - Logistics:"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "Data Support Phone: +49 6021 99 4752 Fax: +49 6021 99 4234 E-Mail: matthias.kipka@linde-mh.de"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "Matthias Kipka"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Supplier Support - Invoicing:"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "Phone: +49 6021 99 1264 Fax: +49 6021 99 1414 E-Mail: udo.tumczyk@linde-mh.de"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Udo Tumczyk"
+    },
+    {
+     "role": "cta",
+     "order": 20,
+     "text": "KION PPAP (Production Part Approval Process)",
+     "href": "../../en/Legal-Notes/PPAP/index.html"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "Did you enjoy reading the article?"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Share",
+     "href": "#123"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "Share"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 16,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 15,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,479 @@
+/* stylelint-disable no-descending-specificity -- rules are grouped by component, not by cascade */
+
+/* related-teasers — source .layout-33/50/100--fixed.layout--teaser rows (prototype CSS "light teaser",
+   "icon-text teaser", "fixed-width rows") */
+.related-teasers {
+  display: flex;
+  flex-wrap: wrap;
+  flex-shrink: 0;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 1280px;
+  margin: 0;
+  padding: 5vw 1.25vw;
+}
+
+.related-teasers .related-teasers-item {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0 0 1.5rem;
+  padding: 1.25vw;
+  overflow: visible;
+}
+
+.related-teasers .teaser {
+  display: flex;
+  flex: 1 0 auto;
+  flex-direction: column;
+  width: 100%;
+  overflow: hidden;
+  background: var(--color-white);
+}
+
+.related-teasers .teaser-image {
+  border: 1px solid var(--color-lightgrey);
+}
+
+.related-teasers .teaser-image-link {
+  display: block;
+  position: relative;
+  outline: 1px dotted transparent;
+  outline-offset: -1px;
+  background: var(--color-lightgrey);
+}
+
+.related-teasers .teaser-image picture {
+  display: block;
+  position: relative;
+  height: 0;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+  /* source: the 16x9 box carries its own 1px border inside the wrapper's (measured 1440: wrapper
+     160.375 = 278 × 9/16 + 4; 360: 195.25) */
+  border: 1px solid var(--color-lightgrey);
+}
+
+.related-teasers .teaser-image img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.related-teasers .teaser-video-icon {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 6px 10px;
+  background: rgb(255 255 255 / 70%);
+  color: var(--color-textgrey);
+  font-family: var(--icon-font-family);
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.related-teasers .teaser-video-icon::before {
+  content: "\f160";
+  display: block;
+  margin: -0.2em;
+}
+
+/* The block carries two source kinds. Default = the plain .teaser (automation-summit, products, service, e-models…):
+   .teaser__content-wrapper padding 16px 0 24px, text wrapper margin-top only, trailing link an in-flow 16 px text
+   link (measured automation-summit 360). The `cards` variant = source .teaser--card (the encoders emit the token
+   when the .layout--teaser row holds .teaser--card): .teaser__content-wrapper (live-bundle.css @317690) padding 16px
+   on every side, no media query — measured pallet-stackers 360: live text wrapper x 25 w 310 against the build's
+   x 9 w 342, so the build wrapped one line fewer on a third of the cards; 1440: padding 16px, text wrapper margin 18px 0 */
+.related-teasers .teaser-content {
+  display: block;
+  flex: 1 1 auto;
+  padding: 16px 0 24px;
+}
+
+.related-teasers.cards .teaser-content {
+  padding: 16px;
+}
+
+/* source .contact-card, .teaser--card: background var(--color-lightgrey) (src-1.css @299010; measured
+   automated-trucks 360 + 1440: the live four-up cards are rgb(238 239 243), the build's were white) */
+.related-teasers.cards .teaser {
+  background: var(--color-lightgrey);
+}
+
+.related-teasers .teaser-content h3 {
+  font-size: 1rem;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+}
+
+.related-teasers .teaser-content h3 a {
+  display: inline-block;
+  color: var(--color-darkgrey);
+  font-size: 1rem;
+  line-height: 1.25;
+}
+
+/* plain: text wrapper margin 16px 0 0 (measured automation-summit 360). cards: source
+   .teaser--card:not(.teaser--icon) .teaser__content-wrapper .teaser__text-wrapper (@308720): margin-bottom 1rem
+   (measured 360: margin 16px 0; 1440: 18px 0) — the trailing link is out of the flow, so this margin is the card's
+   whole bottom spacing above the 16px padding */
+.related-teasers .teaser-text {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+
+.related-teasers.cards .teaser-text {
+  margin: 1rem 0;
+}
+
+.related-teasers .teaser-text p {
+  font-size: 0.95rem;
+  line-height: 1.75;
+  letter-spacing: -0.003em;
+}
+
+.related-teasers .teaser-text p:has(> a:only-child) {
+  align-self: flex-start;
+  margin-top: 0.94em;
+  line-height: 1;
+}
+
+.related-teasers .teaser-text a {
+  font-family: var(--bold-font-family);
+  font-weight: 700;
+}
+
+/* source .teaser.teaser--card:not(.teaser--icon) .teaser__content-wrapper .teaser__text-wrapper p+a.textlink:
+   the trailing link is a boxed button pinned to the card's bottom-right corner, out of the flow and straddling
+   the card edge (position absolute against the item wrapper, bottom -28px / -12px from 1024px, right 32px,
+   height 64px border-box, 8px white border, 16px padding, light-grey fill, .9rem nowrap ellipsis, max-width 66%).
+   The build carried it in the flow as a plain text link (measured 360: 15 px in flow vs 0; the card edge
+   straddle was missing). The card keeps overflow visible so the lower half of the button paints. Scoped to the
+   `cards` variant: the plain .teaser keeps its in-flow link (margin-top 0.94em, line-height 1, above). */
+.related-teasers.cards .teaser:has(.teaser-text p > a:only-child) {
+  overflow: visible;
+}
+
+.related-teasers .teaser-image {
+  overflow: hidden;
+}
+
+.related-teasers.cards .teaser-text p:has(> a:only-child) {
+  position: absolute;
+  right: 32px;
+  bottom: -28px;
+  box-sizing: border-box;
+  max-width: 66%;
+  height: 64px;
+  margin: 0;
+  padding: 16px;
+  overflow: hidden;
+  border: 8px solid var(--color-white);
+  background: var(--color-lightgrey);
+  font-size: 0.9rem;
+  line-height: 1;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.related-teasers.cards .teaser-text p:has(> a:only-child) a {
+  display: inline-block;
+  font-size: 0.9rem;
+  line-height: 1;
+}
+
+@media (width >= 1024px) {
+  .related-teasers.cards .teaser-text p:has(> a:only-child) {
+    bottom: -12px;
+  }
+}
+
+/* icons variant — source .teaser--icon-text */
+.related-teasers .teaser-icon-text {
+  display: block;
+  position: relative;
+  flex: 1 0 auto;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 2rem 2rem 3rem;
+  background: var(--color-lightgrey);
+  text-align: center;
+}
+
+.related-teasers .teaser-icon-text .icon {
+  display: inline-block;
+  margin-bottom: 2rem;
+  color: var(--color-black);
+  font-size: 80px;
+  line-height: 1;
+}
+
+.related-teasers .teaser-icon-text h3 {
+  padding-top: 8px;
+  font-size: 0.95rem;
+  line-height: 125%;
+  letter-spacing: 0.02em;
+}
+
+.related-teasers .teaser-icon-text p {
+  padding: 8px 0 16px;
+  font-size: 0.95rem;
+  line-height: 1.75;
+  letter-spacing: -0.003em;
+}
+
+/* the trailing link of an icon tile (source .teaser--icon-text > a.textlink, live-bundle.css @320610): a boxed
+   button pinned to the tile's bottom-right, straddling its edge — absolute, right 40px, bottom -25px, max-width 66 %,
+   one line with an ellipsis, .9rem, padding .8rem, lightgrey fill, 7px white border; a.textlink @36065 bold. The
+   pipeline wraps the link in a paragraph the source does not have: that paragraph carries no box of its own
+   (measured next-champ 360: the build rendered the link as a centred text line and the tile 121px taller). */
+.related-teasers .teaser-icon-text > p:has(> a:only-child) {
+  position: static;
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+}
+
+.related-teasers .teaser-icon-text > p > a:only-child {
+  position: absolute;
+  right: 40px;
+  bottom: -25px;
+  box-sizing: border-box;
+  max-width: 66%;
+  overflow: hidden;
+  padding: 0.8rem;
+  border: 7px solid var(--color-white);
+  background-color: var(--color-lightgrey);
+  color: var(--color-red);
+  font-family: var(--bold-font-family);
+  font-size: 0.9rem;
+  font-weight: 700;
+  line-height: 1;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.related-teasers .teaser-icon-text > p > a:only-child:hover,
+.related-teasers .teaser-icon-text > p > a:only-child:active {
+  background-color: #94001d;
+  color: var(--color-white);
+}
+
+/* source icon font glyphs (LindeGlobalIconFont, .icon-LMHIcon<key>black:before) for every icon key the
+   content carries; a key without a glyph (the source's empty icon-) renders a 0 × 0 box like the source */
+.related-teasers .icon-aislewidth::before { content: "\f111"; }
+.related-teasers .icon-application::before { content: "\f112"; }
+.related-teasers .icon-arrowdown::before { content: "\f125"; }
+.related-teasers .icon-arrowup::before { content: "\f128"; }
+.related-teasers .icon-brandiconscasheuro::before { content: "\f114"; } /* source .icon-LMHBrandIconscasheuroblack (pallet-stackers "Cost-Effective" tile: the only BrandIcons key the content carries) */
+.related-teasers .icon-calendar::before { content: "\f129"; }
+.related-teasers .icon-cart::before { content: "\f12a"; }
+.related-teasers .icon-chat::before { content: "\f12b"; }
+.related-teasers .icon-closecancel::before { content: "\f12d"; }
+.related-teasers .icon-controltype::before { content: "\f118"; }
+.related-teasers .icon-euro::before { content: "\f132"; }
+.related-teasers .icon-fleet::before { content: "\f136"; }
+.related-teasers .icon-forklift::before { content: "\f137"; }
+.related-teasers .icon-image::before { content: "\f13a"; }
+.related-teasers .icon-info::before { content: "\f13b"; }
+.related-teasers .icon-intralogistics::before { content: "\f13c"; }
+.related-teasers .icon-loadcapacity::before { content: "\f189"; }
+.related-teasers .icon-mail::before { content: "\f13f"; }
+.related-teasers .icon-maintenance::before { content: "\f140"; }
+.related-teasers .icon-person::before { content: "\f149"; }
+.related-teasers .icon-pin::before { content: "\f14b"; }
+.related-teasers .icon-price::before { content: "\f18a"; }
+.related-teasers .icon-reload::before { content: "\f151"; }
+.related-teasers .icon-sautomation::before { content: "\f169"; }
+.related-teasers .icon-scomfort::before { content: "\f16e"; }
+.related-teasers .icon-sdigitization::before { content: "\f170"; }
+.related-teasers .icon-search::before { content: "\f154"; }
+.related-teasers .icon-selectricity::before { content: "\f171"; }
+.related-teasers .icon-senergysystems::before { content: "\f172"; }
+.related-teasers .icon-settings::before { content: "\f156"; }
+.related-teasers .icon-sgrowth::before { content: "\f174"; }
+.related-teasers .icon-sindividualization::before { content: "\f175"; }
+.related-teasers .icon-sliftcapacity::before { content: "\f177"; }
+.related-teasers .icon-smeasurement::before { content: "\f179"; }
+.related-teasers .icon-spickingheight::before { content: "\f17d"; }
+.related-teasers .icon-ssafety::before { content: "\f181"; }
+.related-teasers .icon-ssmartphone::before { content: "\f183"; }
+.related-teasers .icon-starspikes::before { content: "\f190"; }
+.related-teasers .icon-yearofmanufacturing::before { content: "\f191"; }
+.related-teasers .icon-sware::before { content: "\f187"; }
+.related-teasers .icon-taskslist::before { content: "\f15b"; }
+.related-teasers .icon-users::before { content: "\f15e"; }
+.related-teasers .icon-video::before { content: "\f160"; }
+.related-teasers .icon-view::before { content: "\f161"; }
+.related-teasers .icon-world::before { content: "\f163"; }
+.related-teasers .icon-zoomin::before { content: "\f165"; }
+
+@media (width <= 639px) {
+  .related-teasers .teaser-text p,
+  .related-teasers .teaser-icon-text p {
+    letter-spacing: -0.017em;
+  }
+}
+
+@media (width >= 640px) {
+  .related-teasers.one .teaser {
+    flex-direction: row;
+  }
+
+  .related-teasers.one .teaser-image {
+    flex: 1 1 50%;
+    min-height: 150px;
+    margin-top: 0.25rem;
+  }
+
+  .related-teasers.one .teaser-content {
+    flex: 1 1 100%;
+    padding: 0 16px;
+  }
+}
+
+@media (width >= 768px) {
+  .related-teasers.two .related-teasers-item {
+    width: 50%;
+  }
+}
+
+@media (width >= 640px) {
+  /* source .layout-25--fixed: two tiles per row from 640, four from 1280 (measured 640/768/960/1024 → 2, 1280/1440 → 4) */
+  .related-teasers.four .related-teasers-item {
+    width: 50%;
+  }
+}
+
+/* four PLAIN tiles: the source tile's content wrapper has 1.5em top padding and no bottom padding
+   (measured 27px 0 0 at 1440, 24px 0 0 at 360; the 33 % card keeps 16px 0 24px). A four-up .teaser--card keeps
+   the card's 16px — this rule used to win over the `cards` padding by order (measured automated-trucks 360:
+   build 24px 0 0 against the live 16px) */
+.related-teasers.four:not(.cards, .facts) .teaser-content {
+  padding: 1.5em 0 0;
+}
+
+@media (width >= 960px) {
+  .related-teasers.three .related-teasers-item {
+    width: 33.3333%;
+  }
+}
+
+@media (width >= 1024px) {
+  .related-teasers .related-teasers-item {
+    margin-bottom: 0;
+    overflow: hidden;
+  }
+}
+
+@media (width >= 1280px) {
+  .related-teasers {
+    padding: 32px 16px;
+  }
+
+  .related-teasers.four .related-teasers-item {
+    width: 25%;
+  }
+
+  .related-teasers .related-teasers-item {
+    padding: 1.25vw 16px;
+  }
+}
+
+/* variant `facts` (source .module-fact-counter): the module sits 65px under the band above it (margin-top
+   65px, width 100%), its content is a centred flex row without padding (.module-fact-counter--content:
+   justify-content center, flex-wrap, text-align center; tones .red / .dark / .lightgrey), every fact a 245px
+   grid of three equal rows with a 15px margin (.module-fact-counter--row), headline and subheadline 18px /
+   25px bold with 16px margins, the counter 64px / 60px (50px up to 768px) — measured in-sync 1440: band
+   276 = 15 + 246 + 15, tiles 245 × 246 at x 185 */
+.related-teasers.facts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: none;
+  margin-top: 65px;
+  padding: 0;
+  text-align: center;
+}
+
+.related-teasers.facts.red {
+  background: var(--color-red);
+  color: var(--color-white);
+}
+
+.related-teasers.facts.dark {
+  background: var(--color-textgrey);
+  color: var(--color-white);
+}
+
+.related-teasers.facts.lightgrey {
+  background: var(--color-lightgrey);
+}
+
+.related-teasers.facts .related-teasers-item {
+  flex: 0 0 auto;
+  width: 245px;
+  margin: 15px;
+  padding: 0;
+}
+
+.related-teasers.facts .teaser {
+  display: block;
+  background: transparent;
+  color: inherit;
+}
+
+.related-teasers.facts .teaser-image {
+  display: none;
+}
+
+.related-teasers.facts .teaser-content {
+  padding: 0;
+}
+
+.related-teasers.facts .teaser-text {
+  /* source .module-fact-counter--row: the grid IS the tile — no content padding or text-wrapper margin above it
+     (measured in-sync 360: build tile 220 against the live 180 — 24px four-up padding + 16px text margin) */
+  margin-top: 0;
+  display: grid;
+  grid-template-rows: repeat(3, minmax(0, 1fr));
+  padding: 0;
+}
+
+.related-teasers.facts .teaser-text p {
+  margin: 16px 0;
+  padding: 0;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 25px;
+}
+
+.related-teasers.facts .teaser-text p:has(> strong) {
+  margin: 0;
+}
+
+.related-teasers.facts .teaser-text p strong {
+  display: block;
+  margin: 0;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 60px;
+}
+
+@media (width <= 768px) {
+  .related-teasers.facts .teaser-text p strong {
+    font-size: 50px;
+  }
+}

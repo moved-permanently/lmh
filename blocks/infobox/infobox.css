@@ -1,0 +1,101 @@
+/* infobox — source .infobox-text (grey note box: textgrey background, white copy, 16px padding).
+   Default: a 640px box centred in the article column; variant `right`: the source
+   .infobox--right (320px, right-aligned from 640px). The icon-font glyph is dropped (icon-dropped). */
+.infobox {
+  box-sizing: border-box;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 16px;
+  background: var(--color-textgrey, #4d4d4d);
+  color: var(--color-white, #fff);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.infobox > div > div > :first-child {
+  margin-top: 0;
+}
+
+.infobox > div > div > :last-child {
+  margin-bottom: 0;
+}
+
+.infobox p,
+.infobox h1,
+.infobox h2,
+.infobox h3,
+.infobox h4,
+.infobox h5,
+.infobox h6 {
+  color: inherit;
+  margin: 0 0 0.5em;
+}
+
+.infobox a {
+  color: var(--color-white, #fff);
+  text-decoration: underline;
+}
+
+.infobox-wrapper {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 1.25vw;
+}
+
+@media (width >= 640px) {
+  .infobox.right {
+    width: 320px;
+    max-width: 320px;
+    margin: 0 0 0 auto;
+  }
+}
+
+/* media variant — source .infobox-media (a 16:9 figure, no note-box chrome; the article column rules
+   in hero.css place the right|left float) */
+.infobox.media {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  background: none;
+  line-height: 0;
+}
+
+.infobox.media > div > div > a,
+.infobox.media picture {
+  display: block;
+  width: 100%;
+  max-width: none;
+  line-height: 0;
+}
+
+.infobox.media img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* lists inside the box are the source's ul.bullets (live bundle @35849 ol,ul .95rem / 150 % — rem, so 15.2px inside the
+   14px box; @39694–@40113: .5em margins, padding 0, list-style none; li 1.125em indent, .25em gap, a red en dash absolute
+   at left 0). Measured awards 360: 7 boxes carry a list; the build rendered disc markers with the browser's 40px indent. */
+.infobox ul,
+.infobox ol {
+  margin: 0.5em 0;
+  padding: 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  list-style: none;
+}
+
+.infobox ul li {
+  position: relative;
+  margin: 0 0 0.25em;
+  padding: 0 0 0 1.125em;
+}
+
+.infobox ul li::before {
+  content: "\2013";
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: var(--color-red);
+}

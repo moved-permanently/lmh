@@ -1,0 +1,339 @@
+/* stylelint-disable no-descending-specificity -- rules are grouped by component, not by cascade */
+
+/* teaser-carousel — canon.css .related-content.layout--dark + .layout-teasercarousel__wrapper */
+main .section.teaser-carousel-container {
+  background: var(--color-textgrey);
+  color: var(--color-white);
+}
+
+.teaser-carousel-container > .default-content-wrapper {
+  box-sizing: border-box;
+  max-width: 1280px;
+  padding: 2rem 2rem 0;
+  text-align: center;
+}
+
+.teaser-carousel-container > .default-content-wrapper h2 {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 6.25vw 1.25vw 1.25vw;
+  color: var(--color-white);
+  font-size: 1.63rem;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+  /* source .related-content .layout-100-headline--fixed h3: uppercase (measured 360: the band title
+     wraps to two lines, h 87 vs 57 — every section below shifted 30 px; 1440 one line either way) */
+  text-transform: uppercase;
+}
+
+.teaser-carousel-wrapper {
+  display: block;
+  position: relative;
+  box-sizing: border-box;
+  width: 100vw;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 5vw 1.25vw;
+}
+
+.teaser-carousel {
+  position: relative;
+  box-sizing: border-box;
+  width: auto;
+  max-width: 1280px;
+  margin: 0 0 48px;
+  padding: 5vw 1.25vw;
+}
+
+.teaser-carousel .teaser-carousel-track {
+  display: block;
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.teaser-carousel .teaser-carousel-slides {
+  display: flex;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin: 0;
+  transition: transform 0.4s ease;
+}
+
+.teaser-carousel .teaser-carousel-item {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: stretch;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 320px;
+  height: auto;
+  margin: 0 0 24px;
+  padding: 1.25vw;
+}
+
+.teaser-carousel .teaser {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: color-mix(in srgb, var(--color-textgrey), #000 5%);
+  color: var(--color-white);
+}
+
+.teaser-carousel .teaser a {
+  color: var(--color-white);
+  border-color: var(--color-white);
+}
+
+.teaser-carousel .teaser-image {
+  border: 1px solid var(--color-lightgrey);
+}
+
+.teaser-carousel .teaser-image-link {
+  display: block;
+  position: relative;
+  outline: 1px dotted transparent;
+  outline-offset: -1px;
+  background: var(--color-lightgrey);
+}
+
+.teaser-carousel .teaser-image picture {
+  display: block;
+  position: relative;
+  height: 0;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+}
+
+.teaser-carousel .teaser-image img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.teaser-carousel .teaser-content {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  padding: 16px;
+}
+
+.teaser-carousel .teaser-content h3 {
+  font-size: 1rem;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+}
+
+.teaser-carousel .teaser-content h3 a {
+  font-family: inherit;
+  line-height: 1;
+}
+
+.teaser-carousel .teaser-text {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+
+.teaser-carousel .teaser-text p {
+  flex: 1 1 auto;
+  font-size: 0.95rem;
+  line-height: 1.75;
+  letter-spacing: -0.003em;
+}
+
+.teaser-carousel .teaser-text p:has(> a:only-child) {
+  flex: 0 0 auto;
+  align-self: flex-start;
+  margin-top: 0.94em;
+  /* source .teaser__text-wrapper p+a: 1rem (measured 16 px at 360, 18 px at 1440), not the 0.95rem body */
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.teaser-carousel .teaser-text a {
+  font-family: var(--bold-font-family);
+  font-weight: 700;
+}
+
+.teaser-carousel-wrapper .teaser-carousel-controls {
+  position: absolute;
+  right: 0;
+  box-sizing: border-box;
+  max-width: 1280px;
+  margin: calc(-48px - 1.5vw) 1.25vw 75px;
+  padding: 0 1.25vw;
+}
+
+.teaser-carousel-wrapper .teaser-carousel-btn {
+  float: right;
+  width: 48px;
+  height: 48px;
+  margin: 0;
+  padding: 12px;
+  border: 0;
+  background: var(--color-red);
+  color: var(--color-white);
+  line-height: 0;
+  cursor: pointer;
+}
+
+.teaser-carousel-wrapper .teaser-carousel-btn:disabled {
+  cursor: default;
+}
+
+.teaser-carousel-wrapper .teaser-carousel-btn .icon {
+  font-size: 24px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .teaser-carousel .teaser-carousel-slides {
+    transition: none;
+  }
+}
+
+@media (width <= 639px) {
+  .teaser-carousel-container > .default-content-wrapper h2 {
+    font-size: 1.5rem;
+  }
+
+  .teaser-carousel .teaser-text p {
+    letter-spacing: -0.017em;
+  }
+}
+
+@media (width >= 640px) {
+  /* source .layout-teasercarousel--fixed .ld-layout-item__wrapper @640: width 50 %, max-width 320px */
+  .teaser-carousel .teaser-carousel-item {
+    width: 50%;
+  }
+}
+
+@media (width >= 1024px) {
+  /* source @1024: width 33.33 %, max-width 50 %, padding 16px sides; .ld-layout-teaser__wrapper margin-bottom 0 */
+  .teaser-carousel .teaser-carousel-item {
+    width: 33.3333%;
+    max-width: 50%;
+    margin-bottom: 0;
+    padding: 1.25vw 16px;
+  }
+}
+
+@media (width >= 1280px) {
+  .teaser-carousel-wrapper,
+  .teaser-carousel {
+    padding: 32px 16px;
+  }
+
+  /* source .layout-teasercarousel--fixed @1280: width 1280px (x 96–1376 inside the 1280 wrapper, measured);
+     items 25 % / max-width 25 % → 312 px, four per view */
+  .teaser-carousel {
+    width: 1280px;
+    max-width: none;
+  }
+
+  .teaser-carousel .teaser-carousel-item {
+    width: 25%;
+    max-width: 25%;
+    padding: 18px 16px;
+  }
+
+  .teaser-carousel-container > .default-content-wrapper {
+    padding: 36px 36px 4px;
+  }
+
+  .teaser-carousel-container > .default-content-wrapper h2 {
+    padding: 36px 16px 4px;
+  }
+
+  .teaser-carousel-wrapper .teaser-carousel-controls {
+    right: auto;
+    width: 100%;
+    margin: -64px 0 75px;
+    padding: 0 calc(1.05vw + 16px) 0 calc(1.25vw + 16px);
+  }
+}
+
+/* section style `standalone` (source .layout-teasercarousel__wrapper outside .related-content,
+   cluster-landing-1): the rail on the page background instead of the dark band, no band title */
+main .section.teaser-carousel-container.standalone {
+  background: transparent;
+  color: inherit;
+}
+
+main .section.teaser-carousel-container.standalone .teaser {
+  /* source .teaser:not(.teaser--card): white (surveyed 12 standalone pages: company, innovations ×9, compact-class,
+     in-sync and half of heavy-duty / energy-systems / intralogistics are plain teasers) */
+  background: var(--color-white);
+  color: inherit;
+}
+
+/* block variant `cards` = source .teaser--card inside the standalone rail (survey: working-at-linde, magazine,
+   warehouse-safety, fleet-management, forklift-truck ×2, the first rail of heavy-duty and energy-systems, the
+   second and third of intralogistics): lightgrey card, 1rem text-wrapper bottom margin, the straddling button */
+main .section.teaser-carousel-container.standalone .teaser-carousel.cards .teaser {
+  /* source .teaser--card: background var(--color-lightgrey) (measured rgb(238 239 243) on the live card) */
+  background: var(--color-lightgrey);
+}
+
+main .section.teaser-carousel-container.standalone .teaser-carousel.cards .teaser-carousel-item {
+  /* the link below is positioned against the slide (source .ld-layout-item__wrapper is position: relative) */
+  position: relative;
+}
+
+/* the button straddles the card's bottom edge: the card and the clipped track must let it paint (clip-probe
+   on the first re-gate: CONTROL CLIPPED 'learn more' cut 33 px by div.teaser) — the track keeps its horizontal
+   clip but reaches 28 px further down, the margin takes the same 28 px back out of the flow */
+main .section.teaser-carousel-container.standalone .teaser-carousel.cards .teaser:has(.teaser-text p > a:only-child) {
+  overflow: visible;
+}
+
+main .section.teaser-carousel-container.standalone .teaser-carousel.cards .teaser-carousel-track {
+  margin-bottom: -28px;
+  padding-bottom: 28px;
+}
+
+main .section.teaser-carousel-container.standalone .teaser-carousel.cards .teaser-text {
+  /* source .teaser.teaser--card:not(.teaser--icon) … .teaser__text-wrapper: margin-bottom 1rem */
+  margin-bottom: 1rem;
+}
+
+main .section.teaser-carousel-container.standalone .teaser-carousel.cards .teaser-text p:has(> a:only-child) {
+  margin: 0;
+}
+
+main .section.teaser-carousel-container.standalone .teaser-carousel.cards .teaser-text p:has(> a:only-child) > a {
+  /* source .teaser.teaser--card:not(.teaser--icon) … .teaser__text-wrapper p+a.textlink: the grey button with the
+     8 px white border hanging 28 px (12 px from 1024) below the card, right 32px; measured 120 × 64 at 360 */
+  position: absolute;
+  right: 32px;
+  bottom: -28px;
+  box-sizing: border-box;
+  max-width: 66%;
+  height: 64px;
+  padding: 16px;
+  overflow: hidden;
+  border: 8px solid var(--color-white);
+  background: var(--color-lightgrey);
+  font-size: 0.9rem;
+  line-height: 1;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+@media (width >= 1024px) {
+  main .section.teaser-carousel-container.standalone .teaser-carousel.cards .teaser-text p:has(> a:only-child) > a {
+    bottom: -12px;
+  }
+}
+
+main .section.teaser-carousel-container.standalone .teaser a {
+  color: inherit;
+  border-color: currentcolor;
+}

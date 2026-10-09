@@ -1,0 +1,119 @@
+{
+  "status": "residual",
+  "type": "program",
+  "slug": "en-products-e-trucks",
+  "live": "https://www.linde-mh.com/en/Products/E-Trucks/",
+  "pages": 19,
+  "prototype": "stardust/prototypes/en-products-e-trucks-proposed.html",
+  "css": "stardust/prototypes/en-products-e-trucks.css",
+  "iterations": {
+    "360": 3,
+    "1440": 3,
+    "1440-motion-confirm": 1
+  },
+  "contentCap": 1600,
+  "breakpoints": {
+    "360": {
+      "result": {
+        "structuralRed": 1,
+        "visualFlags": "BLANK RENDER advisory = multi-root --main artifact (static.nextArchetype)",
+        "pixelPct": 9.78,
+        "heightDelta": -4,
+        "clipped": 0,
+        "overflow": "ok (scrollWidth 360)",
+        "capProbe": "n/a (1440 only)",
+        "unitGeometry": "gate units FAIL is the 1440-origin-cache artifact; measure.mjs --width 360: slide/teaser/image/content boxes Δ0",
+        "pass": true
+      },
+      "evidence": "stardust/replica/gates/en-products-e-trucks-360/ (iter1 20.92%/Δh-75 → iter2 12.03%/Δh-4 → iter3 9.78%/Δh-4 PASS)"
+    },
+    "1440": {
+      "result": {
+        "structuralRed": 1,
+        "visualFlags": "none (built-in chrome-parity REGION no match ×2 = default-selector artifact, see static.gateNote)",
+        "pixelPct": 15.28,
+        "heightDelta": 63,
+        "clipped": 0,
+        "overflow": "ok (scrollWidth 1440)",
+        "capProbe": "PASS at 2560 (0 of 6 rows failed; wrapper cap 1600 = 1600)",
+        "unitGeometry": "related-teaser 5/5 and content-browser-item sizes equal (280×657, 320×49); Δy only from upstream Δh",
+        "pass": false
+      },
+      "evidence": "stardust/replica/gates/en-products-e-trucks-1440/ (iter1 32.59%/Δh284 → iter2 15.22%/Δh64 → iter3 15.22% → motion-confirm 15.28%/Δh63)"
+    }
+  },
+  "justified": [
+    "🔴 ROLE SWAP [.header] \"New Industrial Trucks\" cta→body: lives in canon-chrome.html (copied verbatim, not editable from this archetype) — recorded as REQUEST in canonChanges; present on every round at both widths",
+    "🟠 font fork (Nunito Sans substitute, fonts.md): body p at 17.1px renders one line short in the first text section (150→120) and in every related-teaser paragraph (419→389); layout-50 columns +33 — permanent, justified",
+    "chrome-parity REGION no match ×2 from gate.sh --full defaults (live has no landmarks) — not a finding"
+  ],
+  "residuals": [
+    {
+      "breakpoint": 1440,
+      "band": "1500–2000",
+      "pct": 36.2,
+      "cause": "40-60 row: live capture carries the sticky breadcrumb clone mid-band; red column paragraphs re-wrap (font fork) and spill below the 40vw box on both sides; image rendition 1024 vs 1055 wide (srcset pick)",
+      "flaggedFor": "font substitute; stitch artifact"
+    },
+    {
+      "breakpoint": 1440,
+      "band": "4500–5500",
+      "pct": 37.1,
+      "cause": "related-teaser carousel: 4 visible cards × 14-line .95rem paragraphs, every glyph differs under the substitute; one line short per card (−30)",
+      "flaggedFor": "font substitute (listing.nextArchetype rule: long repeated text cannot meet 10%)"
+    },
+    {
+      "breakpoint": 1440,
+      "band": "5500–5788",
+      "pct": 37.8,
+      "cause": "tail misalignment from the cumulative Δh 63 (first section −30, layout-50 +33, carousel −30, red column −? ) — footer stitch",
+      "flaggedFor": "font substitute"
+    },
+    {
+      "breakpoint": 1440,
+      "band": "height",
+      "pct": null,
+      "cause": "Δh 63 > 8 — sum of font-fork line-count deltas above; no box differs (measure-cmp Δh 0 on every container after the fixes)",
+      "flaggedFor": "font substitute"
+    },
+    {
+      "breakpoint": 360,
+      "band": "2000–2500 / 3000–3500 / 4500–5000",
+      "pct": 16.5,
+      "cause": "red column, dark 50-column and first teaser: paragraph glyph/wrap differences at 15.2px (font fork); boxes Δ0",
+      "flaggedFor": "font substitute"
+    }
+  ],
+  "captureState": [
+    "related-content slick carousel: initial state, slide 1 .slick-current, slides 1–4 visible at 1440 (25% of a 1248 list), slide 1 + 13px of slide 2 at 360; no clones in the captured DOM (12 slides); arrows next+prev red 48×48 right-aligned",
+    "content-browser (Five Times the Output): tab 1 \"Effective\" active + panel .is-open; live JS equalises panel height to the tallest (250px at 1440) → min-height 250px ≥640; panel hidden <640 (live removes .is-open); overflow-top/bottom scroll buttons hidden (.hide-gradient)",
+    "hero stage: no CTA (empty .btn-wrapper keeps its 1rem top margin as live)",
+    "sticky chrome at t=0: header normal-state; .subheader breadcrumb (page content, 50px at 1440, hidden at 360) placed between /canon:header and #pjax-container"
+  ],
+  "motion": {
+    "observed": "stardust/replica/motion/en-products-e-trucks.json — 5 class mutations on the chrome (normal-state, small, small-state, sticky-hidden, stickystacky-enabled)",
+    "build": "stardust/replica/motion/en-products-e-trucks-build.json",
+    "compare": "5 parity, 0 missing, 0 extra, 0 advisory",
+    "implemented": "nothing new — all fired behaviours are the stickystacky morph already in chrome.js (now also clones .body-container > .subheader); carousel and content-browser are static in their captured initial state",
+    "dead": []
+  },
+  "fonts": {
+    "substitute": "Nunito Sans (canon fonts/, fonts.md calibration: p −0.003em ≥640 / −0.017em <640, headings −0.016em)",
+    "fork": "permanent 🟠: at 1440 body paragraphs render one line short (first section, every related teaser) → Δh 63; at 360 Δh −4"
+  },
+  "canonChanges": [
+    "APPENDED canon.css: /* module: related-teasers — from en-products-e-trucks */ (dark .related-content plain-teaser slick carousel: wrapper/fixed boxes, slick-list/track, 25% slides ≥1024, 320+24 at 360, .teaser plain variant, carousel-button-wrapper arrows)",
+    "REQUEST: canon-chrome.html header — on live Products pages \"New Industrial Trucks\" is a link (cta) in the Products mega-menu; canon-chrome carries it as plain text → content-diff 🔴 ROLE SWAP [.header] on every round; needs the <a> restored in the fragment",
+    "units.json: added families related-teaser (n 12, visible 4@1440/1@360) and content-browser-item (n 5)"
+  ],
+  "nextArchetype": [
+    "the breadcrumb .subheader is PAGE content (canon-chrome note): extract .subheader from <slug>.html (balanced-div slice, strip style/data-*) and place it between <!-- /canon:header --> and #pjax-container; it is 50px at 1440 and display:none at 360 — without it #pjax-container sits 50px high",
+    "html-slice.mjs truncates attribute values (src=\"…\") — slice #pjax-container from the raw capture with a balanced-tag walk instead; live root is <div class=\"content\" id=\"pjax-container\">",
+    ".ld-layout-item__wrapper does NOT clip: the 40vw .layout--overflow red column lets its text spill on live too (thumb-verified); adding overflow:hidden changed nothing at 1440",
+    "in .layout-40-60(-reverse)--flex the text-container is display:block with padding 5vw 2.5vw ≥768 and full-width children (504 at 1440); the 3:2 image-clipper wrapper is 118.52% wide, margin 0 -9.26%",
+    "below 1280 the hero img is position:relative at natural height — never give it height:100% of the 0-height 16:9 box (paints nothing at 360)",
+    "live JS sets equal heights on content-browser panels (tallest = 250px at 1440) — no CSS equivalent, use min-height from the live measure",
+    "cap-probe root \"main\" matches nothing on these pages (div root) — it falls back to body and still PASSes; unit-geometry at 360 is the 1440-origin artifact (measure --width 360 shows Δ0)",
+    ".btn--action buttons: padding 16px 24px, line-height 1.3, margin 8px 0 (not the canon .btn 8/16)"
+  ]
+}

@@ -1,0 +1,1939 @@
+{
+  "archetype": "https://www.linde-mh.com/en/About-us/Press/",
+  "width": 1440,
+  "tolerance": 2,
+  "probes": {
+    "intro": ".header-intro",
+    "filter": ".filter-downloadarea",
+    "cards": ".layout--teaser",
+    "card": ".teaser--card",
+    "stage": ".header-image",
+    "band": ".layout-100--flex .text-container",
+    "browser": ".content-browser",
+    "teaser": ".teaser"
+  },
+  "archetypeRaw": {
+    "sections": [],
+    "probes": {
+      "intro": {
+        "sel": ".header-intro",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 1440,
+            "h": 314
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "0px 0px 0px 0px",
+          "font": "daxlinewebpro 18px/27px 400",
+          "borderRadius": "0px",
+          "heading": "h1 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Welcome to the Linde Press Area The current press informatio"
+      },
+      "filter": {
+        "sel": ".filter-downloadarea",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 1154,
+            "h": 141
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "0px 0px 0px 0px",
+          "font": "daxlinewebpro 18px/27px 400",
+          "borderRadius": "0px",
+          "heading": "h4 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Filter press release Category Events Products & Solutions Co"
+      },
+      "cards": {
+        "sel": ".layout--teaser",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 1280,
+            "h": 20491
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "32px 16px 32px 16px",
+          "font": "daxlinewebpro 18px/27px 400",
+          "borderRadius": "0px",
+          "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+          "image": {
+            "w": 278,
+            "h": 158
+          },
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Explosion-protected electric forklifts: as powerful and inte"
+      },
+      "card": {
+        "sel": ".teaser--card",
+        "count": 174,
+        "first": {
+          "rect": {
+            "w": 280,
+            "h": 438
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgb(238, 239, 243)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "0px 0px 0px 0px",
+          "font": "daxlinewebpro 18px/27px 400",
+          "borderRadius": "0px",
+          "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+          "image": {
+            "w": 278,
+            "h": 158
+          },
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Explosion-protected electric forklifts: as powerful and inte"
+      },
+      "stage": {
+        "sel": ".header-image",
+        "count": 0
+      },
+      "band": {
+        "sel": ".layout-100--flex .text-container",
+        "count": 0
+      },
+      "browser": {
+        "sel": ".content-browser",
+        "count": 0
+      },
+      "teaser": {
+        "sel": ".teaser",
+        "count": 174,
+        "first": {
+          "rect": {
+            "w": 280,
+            "h": 438
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgb(238, 239, 243)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "0px 0px 0px 0px",
+          "font": "daxlinewebpro 18px/27px 400",
+          "borderRadius": "0px",
+          "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+          "image": {
+            "w": 278,
+            "h": 158
+          },
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Explosion-protected electric forklifts: as powerful and inte"
+      }
+    }
+  },
+  "siblings": [
+    {
+      "url": "https://www.linde-mh.com/en/About-us/",
+      "findings": [
+        {
+          "kind": "MISSING",
+          "probe": "intro",
+          "msg": "\".header-intro\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "filter",
+          "msg": "\".filter-downloadarea\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "cards",
+          "msg": "1 → 4 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "cards",
+          "msg": "rect{h 20491 → 616}; image{w 278 → 590, h 158 → 334}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "card",
+          "msg": "174 → 8 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "card",
+          "msg": "rect{w 280 → 592, h 438 → 516}; image{w 278 → 590, h 158 → 334}"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "stage",
+          "msg": "\".header-image\" matches 0 on the archetype, 1 on the sibling"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "band",
+          "msg": "\".layout-100--flex .text-container\" matches 0 on the archetype, 1 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "174 → 8 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{w 280 → 592, h 438 → 516}; image{w 278 → 590, h 158 → 334}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "intro": {
+            "sel": ".header-intro",
+            "count": 0
+          },
+          "filter": {
+            "sel": ".filter-downloadarea",
+            "count": 0
+          },
+          "cards": {
+            "sel": ".layout--teaser",
+            "count": 4,
+            "first": {
+              "rect": {
+                "w": 1280,
+                "h": 616
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "32px 16px 32px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 590,
+                "h": 334
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Company As the world's leading manufacturer of forklift truc"
+          },
+          "card": {
+            "sel": ".teaser--card",
+            "count": 8,
+            "first": {
+              "rect": {
+                "w": 592,
+                "h": 516
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 590,
+                "h": 334
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Company As the world's leading manufacturer of forklift truc"
+          },
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Facts and information about Linde Material Handling Get to k"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 912,
+                "h": 392
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "72px 72px 72px 72px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Would you like to know more about our company, or perhaps yo"
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 0
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 8,
+            "first": {
+              "rect": {
+                "w": 592,
+                "h": 516
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 590,
+                "h": 334
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Company As the world's leading manufacturer of forklift truc"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/About-us/Events/",
+      "findings": [
+        {
+          "kind": "MISSING",
+          "probe": "intro",
+          "msg": "\".header-intro\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "filter",
+          "msg": "\".filter-downloadarea\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "cards",
+          "msg": "1 → 2 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "cards",
+          "msg": "1 → 2 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "cards",
+          "msg": "rect{h 20491 → 589}; image{w 278 → 382, h 158 → 217}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "card",
+          "msg": "174 → 5 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "card",
+          "msg": "1 → 2 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "card",
+          "msg": "rect{w 280 → 384, h 438 → 489}; image{w 278 → 382, h 158 → 217}"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "stage",
+          "msg": "\".header-image\" matches 0 on the archetype, 1 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "174 → 5 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "teaser",
+          "msg": "1 → 2 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{w 280 → 384, h 438 → 489}; image{w 278 → 382, h 158 → 217}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "intro": {
+            "sel": ".header-intro",
+            "count": 0
+          },
+          "filter": {
+            "sel": ".filter-downloadarea",
+            "count": 0
+          },
+          "cards": {
+            "sel": ".layout--teaser",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 1280,
+                "h": 589
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "32px 16px 32px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 382,
+                "h": 217
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "LogiMAT 2026 At LogiMAT 2026 in Stuttgart, visitors explored"
+          },
+          "card": {
+            "sel": ".teaser--card",
+            "count": 5,
+            "first": {
+              "rect": {
+                "w": 384,
+                "h": 489
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 382,
+                "h": 217
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "LogiMAT 2026 At LogiMAT 2026 in Stuttgart, visitors explored"
+          },
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Events Experience the difference"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 0
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 5,
+            "first": {
+              "rect": {
+                "w": 384,
+                "h": 489
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 382,
+                "h": 217
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "LogiMAT 2026 At LogiMAT 2026 in Stuttgart, visitors explored"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/",
+      "findings": [
+        {
+          "kind": "MISSING",
+          "probe": "intro",
+          "msg": "\".header-intro\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "filter",
+          "msg": "\".filter-downloadarea\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "cards",
+          "msg": "\".layout--teaser\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "card",
+          "msg": "\".teaser--card\" matches 174 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "stage",
+          "msg": "\".header-image\" matches 0 on the archetype, 1 on the sibling"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "band",
+          "msg": "\".layout-100--flex .text-container\" matches 0 on the archetype, 1 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "174 → 27 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{h 438 → 508}; backgroundColor rgb(238, 239, 243) → rgb(255, 255, 255)"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "intro": {
+            "sel": ".header-intro",
+            "count": 0
+          },
+          "filter": {
+            "sel": ".filter-downloadarea",
+            "count": 0
+          },
+          "cards": {
+            "sel": ".layout--teaser",
+            "count": 0
+          },
+          "card": {
+            "sel": ".teaser--card",
+            "count": 0
+          },
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Technology & Innovation Logistics solutions that look to the"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 912,
+                "h": 528
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "72px 72px 72px 72px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Re-thinking material flow In networked industries, people an"
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 0
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 27,
+            "first": {
+              "rect": {
+                "w": 280,
+                "h": 508
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 278,
+                "h": 158
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Dynamic Mast Control The driver assistance system Dynamic Ma"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/About-us/Magazine/",
+      "findings": [
+        {
+          "kind": "MISSING",
+          "probe": "intro",
+          "msg": "\".header-intro\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "filter",
+          "msg": "\".filter-downloadarea\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "cards",
+          "msg": "1 → 39 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "cards",
+          "msg": "1 → 3 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "cards",
+          "msg": "rect{h 20491 → 644}; image{w 278 → 382, h 158 → 217}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "card",
+          "msg": "174 → 90 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "card",
+          "msg": "1 → 2 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "card",
+          "msg": "rect{w 280 → 384, h 438 → 608}; image{w 278 → 382, h 158 → 217}"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "stage",
+          "msg": "\".header-image\" matches 0 on the archetype, 1 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "174 → 115 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "teaser",
+          "msg": "1 → 2 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{w 280 → 384, h 438 → 544}; backgroundColor rgb(238, 239, 243) → rgb(255, 255, 255); image{w 278 → 382, h 158 → 217}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "intro": {
+            "sel": ".header-intro",
+            "count": 0
+          },
+          "filter": {
+            "sel": ".filter-downloadarea",
+            "count": 0
+          },
+          "cards": {
+            "sel": ".layout--teaser",
+            "count": 39,
+            "first": {
+              "rect": {
+                "w": 1280,
+                "h": 644
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "32px 16px 32px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 382,
+                "h": 217
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 3,
+            "text": "It’s all about that certain EXtra Inver GmbH, part of Sherwi"
+          },
+          "card": {
+            "sel": ".teaser--card",
+            "count": 90,
+            "first": {
+              "rect": {
+                "w": 384,
+                "h": 608
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 382,
+                "h": 217
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "Sparking an Idea at FLN Neuruppin A new rack system, more sp"
+          },
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Magazine Reportages, reports, trends and topics"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 0
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 115,
+            "first": {
+              "rect": {
+                "w": 384,
+                "h": 544
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 382,
+                "h": 217
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "It’s all about that certain EXtra Inver GmbH, part of Sherwi"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/About-us/Media/",
+      "findings": [
+        {
+          "kind": "MISSING",
+          "probe": "intro",
+          "msg": "\".header-intro\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "filter",
+          "msg": "rect{w 1154 → 1168, h 141 → 132}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "cards",
+          "msg": "1 → 6 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "cards",
+          "msg": "rect{h 20491 → 888}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "card",
+          "msg": "174 → 159 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "card",
+          "msg": "rect{h 438 → 387}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "174 → 159 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{h 438 → 387}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "intro": {
+            "sel": ".header-intro",
+            "count": 0
+          },
+          "filter": {
+            "sel": ".filter-downloadarea",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1168,
+                "h": 132
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h4 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Filter Downloads Media Types Brochures CE-Declarations Data "
+          },
+          "cards": {
+            "sel": ".layout--teaser",
+            "count": 6,
+            "first": {
+              "rect": {
+                "w": 1280,
+                "h": 888
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "32px 16px 32px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 276,
+                "h": 156
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Approved Used Trucks from Linde - Cheap and Reliable - Broch"
+          },
+          "card": {
+            "sel": ".teaser--card",
+            "count": 159,
+            "first": {
+              "rect": {
+                "w": 280,
+                "h": 387
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 276,
+                "h": 156
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Approved Used Trucks from Linde - Cheap and Reliable - Broch"
+          },
+          "stage": {
+            "sel": ".header-image",
+            "count": 0
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 0
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 159,
+            "first": {
+              "rect": {
+                "w": 280,
+                "h": 387
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 276,
+                "h": 156
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Approved Used Trucks from Linde - Cheap and Reliable - Broch"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Products/",
+      "findings": [
+        {
+          "kind": "MISSING",
+          "probe": "intro",
+          "msg": "\".header-intro\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "filter",
+          "msg": "\".filter-downloadarea\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "cards",
+          "msg": "1 → 4 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "cards",
+          "msg": "1 → 2 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "cards",
+          "msg": "rect{h 20491 → 542}"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "card",
+          "msg": "\".teaser--card\" matches 174 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "stage",
+          "msg": "\".header-image\" matches 0 on the archetype, 1 on the sibling"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "band",
+          "msg": "\".layout-100--flex .text-container\" matches 0 on the archetype, 1 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "174 → 14 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "teaser",
+          "msg": "1 → 2 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{h 438 → 442}; backgroundColor rgb(238, 239, 243) → rgb(255, 255, 255)"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "intro": {
+            "sel": ".header-intro",
+            "count": 0
+          },
+          "filter": {
+            "sel": ".filter-downloadarea",
+            "count": 0
+          },
+          "cards": {
+            "sel": ".layout--teaser",
+            "count": 4,
+            "first": {
+              "rect": {
+                "w": 1280,
+                "h": 542
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "32px 16px 32px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 278,
+                "h": 158
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "E-Trucks Linde Material Handling electric forklift trucks ar"
+          },
+          "card": {
+            "sel": ".teaser--card",
+            "count": 0
+          },
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Linde forklift trucks and warehouse trucks Our Product Portf"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 912,
+                "h": 357
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "72px 72px 72px 72px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Always the right product for you With 77 product lines, Lind"
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 0
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 14,
+            "first": {
+              "rect": {
+                "w": 280,
+                "h": 442
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 278,
+                "h": 158
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "E-Trucks Linde Material Handling electric forklift trucks ar"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Products/Automated-Trucks/",
+      "findings": [
+        {
+          "kind": "MISSING",
+          "probe": "intro",
+          "msg": "\".header-intro\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "filter",
+          "msg": "\".filter-downloadarea\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "cards",
+          "msg": "1 → 5 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "cards",
+          "msg": "1 → 3 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "cards",
+          "msg": "rect{h 20491 → 732}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "card",
+          "msg": "174 → 11 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "card",
+          "msg": "1 → 2 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "card",
+          "msg": "rect{h 438 → 632}"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "stage",
+          "msg": "\".header-image\" matches 0 on the archetype, 1 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "174 → 15 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "teaser",
+          "msg": "1 → 3 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{h 438 → 632}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "intro": {
+            "sel": ".header-intro",
+            "count": 0
+          },
+          "filter": {
+            "sel": ".filter-downloadarea",
+            "count": 0
+          },
+          "cards": {
+            "sel": ".layout--teaser",
+            "count": 5,
+            "first": {
+              "rect": {
+                "w": 1280,
+                "h": 732
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "32px 16px 32px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 278,
+                "h": 158
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 3,
+            "text": "C-MATIC – automated mobile platform The compact C-MATIC is i"
+          },
+          "card": {
+            "sel": ".teaser--card",
+            "count": 11,
+            "first": {
+              "rect": {
+                "w": 280,
+                "h": 632
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 278,
+                "h": 158
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "C-MATIC – automated mobile platform The compact C-MATIC is i"
+          },
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Automated industrial trucks Technology in flux Find your aut"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 0
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 15,
+            "first": {
+              "rect": {
+                "w": 280,
+                "h": 632
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 278,
+                "h": 158
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 3,
+            "text": "C-MATIC – automated mobile platform The compact C-MATIC is i"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Service/",
+      "findings": [
+        {
+          "kind": "MISSING",
+          "probe": "intro",
+          "msg": "\".header-intro\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "filter",
+          "msg": "\".filter-downloadarea\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "cards",
+          "msg": "1 → 2 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "cards",
+          "msg": "1 → 2 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "cards",
+          "msg": "rect{h 20491 → 584}; image{w 278 → 382, h 158 → 217}"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "card",
+          "msg": "\".teaser--card\" matches 174 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "stage",
+          "msg": "\".header-image\" matches 0 on the archetype, 1 on the sibling"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "band",
+          "msg": "\".layout-100--flex .text-container\" matches 0 on the archetype, 1 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "174 → 5 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "teaser",
+          "msg": "1 → 2 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{w 280 → 384, h 438 → 484}; backgroundColor rgb(238, 239, 243) → rgb(255, 255, 255); image{w 278 → 382, h 158 → 217}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "intro": {
+            "sel": ".header-intro",
+            "count": 0
+          },
+          "filter": {
+            "sel": ".filter-downloadarea",
+            "count": 0
+          },
+          "cards": {
+            "sel": ".layout--teaser",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 1280,
+                "h": 584
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "32px 16px 32px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 382,
+                "h": 217
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "Maintenance and Repair For maximum availability and high fle"
+          },
+          "card": {
+            "sel": ".teaser--card",
+            "count": 0
+          },
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Service For Greater Safety and Efficiency"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 912,
+                "h": 353
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "72px 72px 72px 72px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "By choosing a Linde Material Handling forklift truck, you ca"
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 0
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 5,
+            "first": {
+              "rect": {
+                "w": 384,
+                "h": 484
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 382,
+                "h": 217
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "Maintenance and Repair For maximum availability and high fle"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Solutions/Consulting/",
+      "findings": [
+        {
+          "kind": "MISSING",
+          "probe": "intro",
+          "msg": "\".header-intro\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "filter",
+          "msg": "\".filter-downloadarea\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "cards",
+          "msg": "rect{h 20491 → 589}; image{w 278 → 382, h 158 → 217}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "card",
+          "msg": "174 → 3 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "card",
+          "msg": "rect{w 280 → 384, h 438 → 489}; image{w 278 → 382, h 158 → 217}"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "stage",
+          "msg": "\".header-image\" matches 0 on the archetype, 1 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "174 → 3 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{w 280 → 384, h 438 → 489}; image{w 278 → 382, h 158 → 217}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "intro": {
+            "sel": ".header-intro",
+            "count": 0
+          },
+          "filter": {
+            "sel": ".filter-downloadarea",
+            "count": 0
+          },
+          "cards": {
+            "sel": ".layout--teaser",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1280,
+                "h": 589
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "32px 16px 32px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 382,
+                "h": 217
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Material Flow Consulting Linde Material Handling offers its "
+          },
+          "card": {
+            "sel": ".teaser--card",
+            "count": 3,
+            "first": {
+              "rect": {
+                "w": 384,
+                "h": 489
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 382,
+                "h": 217
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Material Flow Consulting Linde Material Handling offers its "
+          },
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Consulting Recognizing Potential"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 0
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 3,
+            "first": {
+              "rect": {
+                "w": 384,
+                "h": 489
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 382,
+                "h": 217
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Material Flow Consulting Linde Material Handling offers its "
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Solutions/Overview.html",
+      "findings": [
+        {
+          "kind": "MISSING",
+          "probe": "intro",
+          "msg": "\".header-intro\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "filter",
+          "msg": "\".filter-downloadarea\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "cards",
+          "msg": "1 → 2 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "cards",
+          "msg": "rect{h 20491 → 616}; image{w 278 → 590, h 158 → 334}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "card",
+          "msg": "174 → 4 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "card",
+          "msg": "rect{w 280 → 592, h 438 → 516}; image{w 278 → 590, h 158 → 334}"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "stage",
+          "msg": "\".header-image\" matches 0 on the archetype, 1 on the sibling"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "band",
+          "msg": "\".layout-100--flex .text-container\" matches 0 on the archetype, 1 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "174 → 4 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{w 280 → 592, h 438 → 516}; image{w 278 → 590, h 158 → 334}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "intro": {
+            "sel": ".header-intro",
+            "count": 0
+          },
+          "filter": {
+            "sel": ".filter-downloadarea",
+            "count": 0
+          },
+          "cards": {
+            "sel": ".layout--teaser",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 1280,
+                "h": 616
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "32px 16px 32px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 590,
+                "h": 334
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Intralogistics and Automation Comprehensive solutions for in"
+          },
+          "card": {
+            "sel": ".teaser--card",
+            "count": 4,
+            "first": {
+              "rect": {
+                "w": 592,
+                "h": 516
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 590,
+                "h": 334
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Intralogistics and Automation Comprehensive solutions for in"
+          },
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Solutions for maximum added value"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 912,
+                "h": 392
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "72px 72px 72px 72px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Every company has its own individual needs and basic require"
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 0
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 4,
+            "first": {
+              "rect": {
+                "w": 592,
+                "h": 516
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 590,
+                "h": 334
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Intralogistics and Automation Comprehensive solutions for in"
+          }
+        }
+      }
+    }
+  ],
+  "summary": {
+    "siblings": 10,
+    "varying": 10,
+    "probesVarying": [
+      "intro",
+      "filter",
+      "cards",
+      "card",
+      "stage",
+      "band",
+      "teaser"
+    ]
+  }
+}

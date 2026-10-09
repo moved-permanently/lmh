@@ -1,0 +1,731 @@
+{
+  "_provenance": {
+    "writtenBy": "replica handoff unit regate-banner-card",
+    "derivedFrom": "stardust/state.json + stardust/.work/replica/measure/banner-variants.txt",
+    "at": "2026-10-08T06:52:08.163Z"
+  },
+  "pages": [
+    {
+      "slug": "en-about-us-company",
+      "url": "https://www.linde-mh.com/en/About-us/Company/",
+      "title": "Company | Linde Material Handling",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:18:25.281Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T20:09:37Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-company.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/About-us/Company/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/about-us/company"
+    },
+    {
+      "slug": "en-about-us-sustainability",
+      "url": "https://www.linde-mh.com/en/About-us/Sustainability/",
+      "title": "Sustainability at Linde Material Handling",
+      "type": "program",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:19:45.569Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:08:32Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-sustainability.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/About-us/Sustainability/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/about-us/sustainability"
+    },
+    {
+      "slug": "en-about-us-awards",
+      "url": "https://www.linde-mh.com/en/About-us/Awards/",
+      "title": "Awards, prizes, and commendations",
+      "type": "program",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:18:25.281Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:08:32Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-awards.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/About-us/Awards/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/about-us/awards"
+    },
+    {
+      "slug": "en-landingpage-e-models",
+      "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+      "title": "E20 – E35 and E35 – E50 electric forklift trucks",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:22:13.633Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-10-06T14:54:05Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-e-models.json",
+      "prototypePath": "stardust/prototypes/en-landingpage-e-models-proposed.html",
+      "migratedPath": "stardust/migrated/en/Landingpage/E-models/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/e-models"
+    },
+    {
+      "slug": "en-landingpage-compact-class-with-electric-drive",
+      "url": "https://www.linde-mh.com/en/Landingpage/Compact-class-with-electric-drive/",
+      "title": "Compact class with electric drive | Linde Material Handling",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:22:11.084Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T20:09:37Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-compact-class-with-electric-drive.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/Compact-class-with-electric-drive/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/compact-class-with-electric-drive"
+    },
+    {
+      "slug": "en-landingpage-next-champ",
+      "url": "https://www.linde-mh.com/en/Landingpage/Next-Champ/",
+      "title": "The Next Champ",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:24:00.107Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:18:03Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-next-champ.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/Next-Champ/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/next-champ"
+    },
+    {
+      "slug": "en-landingpage-platform-counterbalanced-trucks",
+      "url": "https://www.linde-mh.com/en/Landingpage/Platform-Counterbalanced-Trucks/",
+      "title": "Counterbalanced Forklift Platform",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:24:02.139Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:18:03Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-platform-counterbalanced-trucks.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/Platform-Counterbalanced-Trucks/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/platform-counterbalanced-trucks"
+    },
+    {
+      "slug": "en-landingpage-r-matic",
+      "url": "https://www.linde-mh.com/en/Landingpage/R-Matic/",
+      "title": "The R-MATIC automated reach truck",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:24:06.039Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:18:03Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-r-matic.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/R-Matic/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/r-matic"
+    },
+    {
+      "slug": "en-landingpage-agility-on-point",
+      "url": "https://www.linde-mh.com/en/Landingpage/Agility-on-point/",
+      "title": "New reach trucks Ri14 – Ri18 | Linde Material Handling",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:21:36.034Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T20:09:37Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-agility-on-point.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/Agility-on-point/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/agility-on-point"
+    },
+    {
+      "slug": "en-landingpage-x-range",
+      "url": "https://www.linde-mh.com/en/Landingpage/X-Range/",
+      "title": "R14 – R17 X Reach Trucks",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:25:13.045Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:33:36Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-x-range.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/X-Range/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/x-range"
+    },
+    {
+      "slug": "en-landingpage-in-sync",
+      "url": "https://www.linde-mh.com/en/Landingpage/In-Sync/",
+      "title": "In Sync with your Rhythm | Linde Material Handling",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:23:25.170Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:18:03Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-in-sync.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/In-Sync/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/in-sync"
+    },
+    {
+      "slug": "en-landingpage-gse-expo",
+      "url": "https://www.linde-mh.com/en/Landingpage/GSE-Expo/",
+      "title": "Linde MH at GSE Expo Europe 2026",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:22:47.725Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T20:09:37Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-gse-expo.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/GSE-Expo/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/gse-expo"
+    },
+    {
+      "slug": "en-landingpage-x-models",
+      "url": "https://www.linde-mh.com/en/Landingpage/X-models/",
+      "title": "X20 – X35 and X35 - X50 Electric Forklift Trucks",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:24:43.282Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:18:03Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-x-models.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/X-models/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/x-models"
+    },
+    {
+      "slug": "en-products-automated-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Automated-Trucks/",
+      "title": "Automated industrial trucks | Linde Material Handling",
+      "type": "listing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:27:03.457Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T00:15:11Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-automated-trucks.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Automated-Trucks/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/automated-trucks"
+    },
+    {
+      "slug": "en-landingpage-h-models",
+      "url": "https://www.linde-mh.com/en/Landingpage/H-models/",
+      "title": "The new IC trucks | Hydrostatic drive | Linde",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:22:51.480Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T20:09:37Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-h-models.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/H-models/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/h-models"
+    },
+    {
+      "slug": "en-products-diesel-forklifts",
+      "url": "https://www.linde-mh.com/en/Products/Diesel-forklifts/",
+      "title": "Diesel Forklift Purchase & Hire | Linde Material Handling",
+      "type": "program",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:27:04.483Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-diesel-forklifts.json",
+      "prototypePath": null,
+      "migratedPath": null,
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/diesel-forklifts"
+    },
+    {
+      "slug": "en-products-forklift-truck",
+      "url": "https://www.linde-mh.com/en/Products/Forklift-Truck/",
+      "title": "Forklift Trucks—Models for Any Application | Linde Material Handling",
+      "type": "program",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:28:17.001Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:27:58Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-forklift-truck.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Forklift-Truck/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/forklift-truck"
+    },
+    {
+      "slug": "en-products-tugger-trains",
+      "url": "https://www.linde-mh.com/en/Products/Tugger-Trains/",
+      "title": "Tugger trains | Linde Material Handling",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:30:13.961Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:33:36Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-tugger-trains.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Tugger-Trains/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/tugger-trains"
+    },
+    {
+      "slug": "en-solutions-warehouse-safety",
+      "url": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/",
+      "title": "Warehouse Safety | Linde Material Handling",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:33:13.876Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:39:09Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-solutions-warehouse-safety.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Solutions/Warehouse-Safety/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/solutions/warehouse-safety"
+    },
+    {
+      "slug": "en-products-hand-pallet-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Hand-Pallet-Trucks/",
+      "title": "Hand pallet trucks | Linde Material Handling",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:28:22.569Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:33:36Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-hand-pallet-trucks.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Hand-Pallet-Trucks/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/hand-pallet-trucks"
+    },
+    {
+      "slug": "en-solutions-fleet-management",
+      "url": "https://www.linde-mh.com/en/Solutions/Fleet-Management/",
+      "title": "myLinde Fleet Management Software | Linde Material Handling",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:32:35.870Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:39:09Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-solutions-fleet-management.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Solutions/Fleet-Management/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/solutions/fleet-management"
+    },
+    {
+      "slug": "en-products-gas-forklifts",
+      "url": "https://www.linde-mh.com/en/Products/Gas-forklifts/",
+      "title": "Gas Forklifts | Linde Material Handling",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:28:19.973Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:33:36Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-gas-forklifts.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Gas-forklifts/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/gas-forklifts"
+    },
+    {
+      "slug": "en-products-heavy-duty-forklifts",
+      "url": "https://www.linde-mh.com/en/Products/Heavy-Duty-Forklifts/",
+      "title": "Heavy trucks",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:28:54.163Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:33:36Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-heavy-duty-forklifts.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Heavy-Duty-Forklifts/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/heavy-duty-forklifts"
+    },
+    {
+      "slug": "en-solutions-intralogistics-automation",
+      "url": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/",
+      "title": "Intralogistics and Automation | Linde Material Handling",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:32:37.499Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:39:09Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-solutions-intralogistics-automation.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Solutions/Intralogistics-Automation/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/solutions/intralogistics-automation"
+    },
+    {
+      "slug": "en-products-explosion-proof-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Explosion-Proof-Trucks/",
+      "title": "Explosion Protection in Intralogistics | Linde Material Handling",
+      "type": "program",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:27:42.003Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:08:32Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-explosion-proof-trucks.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Explosion-Proof-Trucks/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/explosion-proof-trucks"
+    },
+    {
+      "slug": "en-solutions-energy-systems",
+      "url": "https://www.linde-mh.com/en/Solutions/Energy-Systems/",
+      "title": "Energy Systems",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:31:59.887Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:39:09Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-solutions-energy-systems.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Solutions/Energy-Systems/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/solutions/energy-systems"
+    },
+    {
+      "slug": "en-solutions-financing",
+      "url": "https://www.linde-mh.com/en/Solutions/Financing/",
+      "title": "Financing plans from Linde Material Handling",
+      "type": "landing",
+      "status": "deployed",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:32:04.009Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:39:09Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-solutions-financing.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Solutions/Financing/index.html",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.page/en/solutions/financing"
+    }
+  ]
+}

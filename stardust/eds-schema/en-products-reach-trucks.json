@@ -1,0 +1,595 @@
+{
+ "source": "http://localhost:8804/stardust/migrated/en/Products/Reach-Trucks/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Reach Trucks"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Fast handling in narrow high rack warehouses"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Flexible, efficient and safe in the warehouse"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Load handling in warehouses requires numerous movements and maneuvering, often in confined spaces and at height. Linde reach trucks are tailor-made for these conditions and ensure extremely efficient operation in high rack warehouses. Besides their outstanding maneuverability, special display and assistance systems support the driver to allow safe and quick handling. For example, they automatically adjust the lift and travel speed, or precisely compensate for mast oscillation in certain models."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "The design of the driver's cab and the masts provides optimum all-round visibility. In addition, the driver's cab and control elements are developed based on the driver's individual ergonomic requirements. For example, the Linde Load Control integrated into the armrest and a vibration-free driver's cab make fatigue-free working possible. Additional equipment, such as a panorama armored glass roof, increases driver safety in narrow rack aisles and when handling loads at height."
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "All models are extremely cost-effective to service thanks to low-maintenance components and long maintenance intervals. Companies can choose the right truck for their requirements from a wide product range. Depending on the model, mast heights can reach up to about 14 meters with lifting capacity of up to 2.5 tons."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": []
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Find your truck here",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?productTypes[]=2372&offerType=new"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Assistance systems are the key"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "In narrow warehouses with high racks, the view and space to maneuver are often restricted. Linde reach trucks help the driver with appropriate displays and assistance systems. This makes load handling safer and more efficient. For example, the Linde Curve Assist driver assistance system automatically adjusts the speed around bends. Displays showing the load weight and lift height provide the driver with the necessary information to transport and stack loads safely while still ensuring fast work cycles. Automatic lifting actions, such as end position damping or a height-dependent travel speed, also improve safety and efficiency. This means that Linde reach trucks can maneuver safely and quickly, even in confined spaces and handling conditions in warehouses."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "2"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "More visibility for better safety"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "An unimpeded view of loads and the surrounding area are a fundamental requirement for safe truck operation. To make sure that this is met even in confined spaces, Linde designed the reach trucks for optimum visibility and fitted them with appropriate equipment. For example, a new mast concept enabled the field of vision to be doubled for R14 – R17 X product line trucks. An optional armored glass roof provides a view through the roof of the cabin, while also ensuring maximum safety. For handling situations where visibility is very poor, there is also the option of using a mast camera."
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 2,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "For added Safety"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "The Innovative Rack Protection System",
+     "href": "../../../en/About-us/Innovations-from-Linde/Rack-Protection-Sensor/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The Linde Rack Protection Sensor automatically slows down the truck when approaching racks and prevents collisions and damage."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "More Details",
+     "href": "../../../en/About-us/Innovations-from-Linde/Rack-Protection-Sensor/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Linde Multifunction Lever",
+     "href": "../../../en/About-us/Innovations-from-Linde/Multifunction-lever/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The Linde Multifunction Lever is a new human machine interface that integrates all operating functions and ensures the best possible ergonomics and optimum ease of use."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "More Details",
+     "href": "../../../en/About-us/Innovations-from-Linde/Multifunction-lever/index.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Comfortable operation"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "An ergonomic work station makes it easier for forklift drivers to perform their daily duties and increases their efficiency, as they tire much less quickly. Linde trucks are therefore designed with a focus on ergonomic requirements, starting with the lowest possible entry point through to a vibration-free chassis and an air-cushioned driver's seat, which adjusts to the driver's weight (R14 – R20 G product line). Linde engineers were also able to further optimize the available space in the truck with an innovative truck design. In addition, many of the control elements and the seat can be adapted to the driver's individual needs and requirements."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Fast work cycles and efficient driving maneuvers"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Seemingly minor time savings have a big impact, especially when performing repetitive processes. This is the reason why Linde reach trucks are equipped with such features as adjustable steering. This allows the steering resistance to be tailored to the driver's habits and situational requirements. Dual-pedal control enables a rapid change of direction without having to shift your feet. Safety functions, such as automatic speed adjustment around bends or assistance functions, such as side shifter centering or horizontal fork adjustment, also help the driver achieve fast work cycles."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Flying high in the warehouse"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Logistics areas are expensive. This explains the continuing trend for increasingly high racks in warehouses. It has also resulted in increased demand for trucks capable of lifting loads higher."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "In the past decade, the number of reach trucks with mast heights over eight meters has increased considerably and even heights of 13 meters are no longer a rarity. The rise in lifting heights also increases the specific requirements of forklift drivers, who have to deal with greater mast oscillation and restricted vision. To counter this trend and the associated challenges for the driver and reach truck, Linde has developed features such as Dynamic Mast Control to compensate for mast oscillation, introduced numerous measures to optimize visibility, and incorporated load displays."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "5 times more output"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "More efficient",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Safer",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "More comfortable",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "More cost-effective",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "More reliable",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "More efficient"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Numerous assistance systems help drivers handle loads quickly, even at height."
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Safer"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Drivers have an optimal panoramic view thanks to components that optimize visibility. Additional equipment, such as a shoulder guard reduces the risk of accidents in confined spaces."
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "More comfortable"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "All cabin components can be individually adjusted to the driver. A vibration-free driver's work station ensures fatigue-free working."
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "More cost-effective"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Customized solutions for special work requirements ensure that trucks are operated very cost-effectively in specific areas such as handling of bulky loads."
+    },
+    {
+     "role": "heading",
+     "order": 13,
+     "text": "More reliable"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Service intervals of 1,000 operating hours mean that trucks operate reliably. Low-maintenance and easily accessible components facilitate service and reduce downtimes."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 11,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Trucks for every requirement"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Every sector has its special requirements, while truck requirements also differ from one company to another. That's why we have reach trucks for specific tasks, such as transporting bulky loads or stacking pallets. Numerous product options, which provide the necessary load capacity and lifting heights, are also available within the reach truck series. In addition, companies can choose from an extensive range of additional equipment, such as a design for use in refrigerated warehouses, a draft shield door and seat heating for outdoor use, or 360° steering for maneuvering in the tightest of spaces."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Three cheers for it!",
+     "href": "../../../en/About-us/Magazine/70-years-of-reach-trucks/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Linde Material Handling celebrates 70 years of reach trucks."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/70-years-of-reach-trucks/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Safely to the Top",
+     "href": "../../../en/Landingpage/Safely-to-the-top/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Linde Material Handling optimizes safety when working at height by providing intelligent assistance systems."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/Landingpage/Safely-to-the-top/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "K2 Systems Relies on Linde MH—Logistics Solution from a Single Source",
+     "href": "../../../en/About-us/Magazine/K2-Systems/index.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "K2 Systems, a leading manufacturer of PV mounting systems, called on Linde MH’s comprehensive intralogistics expertise for its new logistics center. The result? Customized processes, perfectly coordinated trucks, and maximum efficiency—all from a single source."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/K2-Systems/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Ri14 – Ri18",
+     "href": "../../../en/Products/Reach-Trucks/Ri14-Ri18/index.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Agile, adaptable, and cost-efficient: the Ri14 – Ri18 reach trucks from Linde MH for standard applications with integrated Li-ION battery."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/Products/Reach-Trucks/Ri14-Ri18/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Linde Multifunction Lever",
+     "href": "../../../en/About-us/Innovations-from-Linde/Multifunction-lever/index.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "The Linde Multifunction Lever is a new human machine interface that integrates all operating functions and ensures the best possible ergonomics and optimum ease of use."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Multifunction-lever/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "More Productivity in the Warehouse",
+     "href": "../../../en/Landingpage/X-Range/index.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Expensive logistics spaces and increasingly shorter delivery times pose a particular challenge for warehouse operators in retail, third-party logistics and parts logistics. They have to make optimum use of the expensive space and increase the throughput of goods. The R14 – R17 X reach trucks from Linde Material Handling’s X range are the ideal alternative to conventional reach trucks. Thanks to their innovative truck concept, they help to overcome these challenges."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/Landingpage/X-Range/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "R20 – R25 F",
+     "href": "../../../en/Products/Reach-Trucks/R20-R25-F/index.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "Linde R20 – R25 F four-way reach trucks transport bulky loads in narrow aisles – forwards, backwards, left and right."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/Products/Reach-Trucks/R20-R25-F/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Future topics and trends in the material handling equipment industry",
+     "href": "../../../en/About-us/Magazine/forklift-conference-2017.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "The 19th VDI Industrial Trucks Conference took place in Baden-Baden. The focus was on topics such as automation, driver assistance systems, battery technology and occupational safety. Alexander Schmidt, Senior Product Manager for reach trucks and tractors at Linde, also gave a lecture on the Linde assistance system Dynamic Mast Control."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/forklift-conference-2017.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "A breath of fresh air in logistics at Heidelberg",
+     "href": "../../../en/About-us/Magazine/Frischer-Wind-in-der-Logistik-von-Heidelberg.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "In times of increasingly individualized customer requirements, intralogistics must also gradually adapt to the changed production conditions. How this can be achieved by a global industrial company is shown by the example of Heidelberger Druckmaschinen AG (Heidelberg) in Wiesloch/Walldorf."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Frischer-Wind-in-der-Logistik-von-Heidelberg.html"
+    }
+   ],
+   "imgCount": 9,
+   "editableTexts": 10,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 9,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

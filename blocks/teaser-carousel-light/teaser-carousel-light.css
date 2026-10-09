@@ -1,0 +1,278 @@
+/* stylelint-disable no-descending-specificity -- rules are grouped by component, not by cascade */
+
+/* teaser-carousel-light — source .layout-100-headline--fixed > h2 + .layout-teasercarousel__wrapper
+   (white band; stardust/prototypes/en.css). The band title is default content styled in place. */
+.teaser-carousel-light-container > .default-content-wrapper {
+  box-sizing: border-box;
+  padding: 2rem 2rem 0;
+  text-align: center;
+}
+
+.teaser-carousel-light-container > .default-content-wrapper h2 {
+  width: 100%;
+  max-width: 1216px;
+  margin: 0 auto;
+  padding: 0;
+  font-family: var(--bold-font-family);
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: var(--color-darkgrey);
+  text-transform: none;
+}
+
+.teaser-carousel-light {
+  display: block;
+  position: relative;
+  box-sizing: border-box;
+  width: 100vw;
+  max-width: 1280px;
+  height: auto;
+  margin: 0 auto;
+  padding: 5vw 1.25vw;
+}
+
+.teaser-carousel-light .teaser-carousel-light-slider {
+  position: relative;
+  width: auto;
+  height: auto;
+  margin-bottom: 48px;
+}
+
+.teaser-carousel-light .teaser-carousel-light-track {
+  position: relative;
+  overflow: hidden;
+}
+
+.teaser-carousel-light .teaser-carousel-light-slides {
+  display: flex;
+  justify-content: flex-start;
+  width: auto;
+  margin: 0;
+}
+
+.teaser-carousel-light .teaser-carousel-light-item {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: stretch;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 320px;
+  height: auto;
+  margin-bottom: 1.5rem;
+  padding: 1.25vw;
+  overflow: visible;
+}
+
+.teaser-carousel-light .teaser-carousel-light-card {
+  width: 100%;
+  height: 100%;
+  background: var(--color-white);
+}
+
+.teaser-carousel-light .teaser-carousel-light-body {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  box-sizing: border-box;
+  height: 100%;
+  padding: 0 0 24px;
+}
+
+.teaser-carousel-light .teaser-carousel-light-body h3 {
+  margin: 0;
+  font-family: var(--bold-font-family);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: var(--color-darkgrey);
+}
+
+.teaser-carousel-light .teaser-carousel-light-body h3 a:any-link {
+  display: inline-block;
+  color: var(--color-darkgrey);
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+  text-decoration: none;
+}
+
+.teaser-carousel-light .teaser-carousel-light-text {
+  position: relative;
+  flex: 1 1 auto;
+  min-height: 4.5rem;
+  margin-top: 1rem;
+}
+
+.teaser-carousel-light .teaser-carousel-light-text > p {
+  position: absolute;
+  top: 0;
+  max-width: 640px;
+  max-height: 99%;
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.75;
+  overflow: hidden;
+}
+
+.teaser-carousel-light .teaser-carousel-light-text::after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(0deg, var(--color-white), var(--color-white) 1.5rem, transparent);
+  pointer-events: none;
+}
+
+.teaser-carousel-light .teaser-carousel-light-link p {
+  margin: 0;
+  line-height: 1;
+}
+
+.teaser-carousel-light .teaser-carousel-light-link a:any-link {
+  display: inline-block;
+  position: absolute;
+  z-index: 10;
+  bottom: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--color-red);
+  font-family: var(--bold-font-family);
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.teaser-carousel-light .teaser-carousel-light-link a:any-link:hover {
+  color: var(--color-primary-700);
+}
+
+/* the red next/prev buttons (source .carousel-button-wrapper, absolute, floated right) */
+.teaser-carousel-light .teaser-carousel-light-controls {
+  position: absolute;
+  right: 0;
+  box-sizing: border-box;
+  max-width: 1280px;
+  margin: calc(-48px + -1.5vw) 1.25vw 75px;
+  padding: 0 1.25vw;
+}
+
+.teaser-carousel-light .teaser-carousel-light-btn {
+  display: inline-block;
+  position: relative;
+  float: right;
+  box-sizing: border-box;
+  width: 48px;
+  height: 48px;
+  margin: 0;
+  padding: 12px;
+  border: 1px solid transparent;
+  background-color: var(--color-red);
+  color: var(--color-white);
+  line-height: 0;
+  text-align: center;
+  cursor: pointer;
+  transition: opacity 0.4s ease-in-out;
+}
+
+.teaser-carousel-light .teaser-carousel-light-btn:hover {
+  background-color: var(--color-primary-700);
+}
+
+.teaser-carousel-light .teaser-carousel-light-btn:active {
+  background-color: var(--color-primary-900);
+}
+
+.teaser-carousel-light .teaser-carousel-light-btn:disabled {
+  opacity: 0.3;
+  pointer-events: none;
+}
+
+.teaser-carousel-light .teaser-carousel-light-btn .icon {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  margin: 0;
+  font-size: 24px;
+  line-height: 24px;
+  text-align: right;
+}
+
+@media (width >= 640px) {
+  .teaser-carousel-light .teaser-carousel-light-item {
+    width: 50%;
+  }
+}
+
+@media (width >= 768px) {
+  .teaser-carousel-light-container > .default-content-wrapper h2 {
+    font-size: 3rem;
+  }
+}
+
+@media (width >= 960px) {
+  .teaser-carousel-light-container > .default-content-wrapper {
+    padding-top: 8rem;
+  }
+}
+
+@media (width >= 1024px) {
+  .teaser-carousel-light {
+    width: 100%;
+  }
+
+  /* source slick list at >= 1024: the track bleeds past the 1280 container (slide 5 is partly
+     visible at 1440 on live); the section clips at the viewport edge instead */
+  .teaser-carousel-light-container {
+    overflow-x: hidden;
+  }
+
+  .teaser-carousel-light .teaser-carousel-light-track {
+    overflow: visible;
+  }
+
+  .teaser-carousel-light .teaser-carousel-light-slider {
+    display: block;
+  }
+
+  .teaser-carousel-light .teaser-carousel-light-slides {
+    width: 250%;
+  }
+
+  .teaser-carousel-light .teaser-carousel-light-item {
+    flex-basis: 10%;
+    width: 10%;
+    max-width: 10%;
+    margin-bottom: 0;
+  }
+}
+
+@media (width >= 1280px) {
+  .teaser-carousel-light-container > .default-content-wrapper {
+    padding: 36px 32px 4px;
+  }
+
+  .teaser-carousel-light {
+    padding: 32px 16px;
+  }
+
+  .teaser-carousel-light .teaser-carousel-light-item {
+    padding: 1.25vw 16px;
+  }
+
+  .teaser-carousel-light .teaser-carousel-light-controls {
+    right: auto;
+    width: 100%;
+    margin: -64px 0 75px;
+    padding-left: calc(1.25vw + 16px);
+    padding-right: calc(1.05vw + 16px);
+  }
+}

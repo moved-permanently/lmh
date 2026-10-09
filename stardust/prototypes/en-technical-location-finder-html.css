@@ -1,0 +1,47 @@
+/* en-technical-location-finder-html — location finder, captured initial state of <lmh-dealer-locator> (shadow DOM, Tailwind tokens lifted from the live computed styles). Static: map region = captured size/colour, no Maps script; data = captured first entries. */
+lmh-dealer-locator { display: block; }
+.location-finder { width: 100%; font-size: 16px; line-height: 24px; color: #222; }
+.location-finder *, .location-finder *::before, .location-finder *::after { box-sizing: border-box; }
+.location-finder__layout { display: flex; flex-direction: column; }
+.location-finder__panel { display: flex; flex-direction: column; justify-content: flex-start; position: relative; }
+.location-finder__controls { margin: 16px 16px 16px 0; padding: 0 16px; }
+.location-finder__controls-row { display: flex; align-items: flex-end; width: 100%; }
+.location-finder__field { display: flex; flex-direction: column; gap: 4px; width: 100%; max-width: 320px; margin: 0 16px 0 0; color: #334155; position: relative; }
+.location-finder__field label { width: fit-content; padding-left: 2px; font-size: 14px; line-height: 20px; }
+.location-finder__field select { width: 100%; appearance: none; -webkit-appearance: none; border: 0; border-radius: 0; background: #f1f5f9; padding: 8px 16px; margin: 0; font: inherit; font-size: 14px; line-height: 20px; color: #334155; }
+.location-finder__toggle { display: flex; justify-content: space-evenly; padding: 0 16px 16px; }
+.location-finder__toggle button { width: 100%; padding: 8px 16px; border: 0; border-radius: 0; background: #e5e7eb; color: #000; font: inherit; font-size: 14px; line-height: 20px; font-weight: 500; cursor: pointer; }
+.location-finder__toggle button:first-child { margin-right: 8px; }
+.location-finder__toggle button:last-child { margin-left: 8px; }
+.location-finder__toggle button.is-active { border-bottom: 3px solid #aa0020; }
+.location-finder__results { background: #f3f4f6; padding: 16px 16px 0; }
+.location-finder__list { display: none; height: 450px; overflow-y: scroll; border-bottom: 4px solid transparent; }
+.location-finder__list::-webkit-scrollbar { width: 18px; }
+.location-finder__list::-webkit-scrollbar-thumb { background: #d1d5db; border: 6px solid #f3f4f6; }
+.dealer-card { display: flex; flex-direction: column; background: #fff; margin: 18px 18px 18px 0; }
+.dealer-card:first-child { margin-top: 0; }
+.dealer-card:last-child { margin-bottom: 0; }
+.dealer-card__inner { display: flex; flex-direction: column; padding: 18px; border-bottom: 1px solid #e5e7eb; }
+.dealer-card__row { display: flex; width: 100%; align-items: center; justify-content: space-between; gap: 18px; }
+.dealer-card__logo { display: block; width: auto; height: 72px; max-width: 100%; object-fit: contain; object-position: left; margin: 0 0 9px; }
+.dealer-card__select { background: #404040; border: 1px solid #404040; border-radius: 0; color: #f1f5f9; padding: 9px 18px; margin: 0; font: inherit; font-size: 13.5px; line-height: 18px; cursor: pointer; }
+.dealer-card__title { font-size: 18px; font-weight: 700; line-height: 18px; padding: 4.5px 0 9px; }
+.dealer-card address { font-style: normal; font-size: 15.75px; line-height: 22.5px; }
+.dealer-card address p { margin: 0; }
+.dealer-card__details { align-self: flex-end; text-align: right; min-width: fit-content; background: none; border: 0; padding: 0; margin: 0; color: #aa0020; font: inherit; font-size: 15.75px; line-height: 22.5px; cursor: pointer; }
+.dealer-card__details span { white-space: nowrap; }
+.location-finder__map-col { position: relative; width: 100%; height: 400px; overflow: hidden; align-self: flex-end; }
+.location-finder .map { position: relative; width: 100%; height: 600px; background: #e5e3df; overflow: hidden; }
+@media (min-width: 768px) {
+  .location-finder { font-size: 18px; line-height: 27px; }
+  .location-finder__layout { flex-direction: row; gap: 36px; }
+  .location-finder__panel { width: 50%; flex-shrink: 0; height: 100%; }
+  .location-finder__controls { margin: 18px 18px 36px 0; padding: 0 0 0 18px; }
+  .location-finder__field { gap: 4.5px; max-width: 360px; margin-right: 18px; }
+  .location-finder__field label { padding-left: 2.25px; font-size: 15.75px; line-height: 22.5px; }
+  .location-finder__field select { padding: 9px 18px; font-size: 15.75px; line-height: 22.5px; }
+  .location-finder__toggle { display: none; }
+  .location-finder__results { padding: 18px 18px 0; }
+  .location-finder__list { display: block; }
+  .location-finder__map-col { height: 600px; }
+}

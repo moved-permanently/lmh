@@ -1,0 +1,384 @@
+/* news-cards — card grid of the `listing` template. Values lifted from the gated prototype
+   stardust/prototypes/en-about-us-press.css (.layout--lightgrey > .layout-25--fixed,
+   .ld-layout-teaser__wrapper) and canon.css module news-card (.news-card rules L223–L276).
+   Live: 1280 box p 32 16; 4 × 25 % columns p 18 16; 360: full width p 4.5, 24px row gap. */
+
+main > .section.news-cards-container {
+  background: var(--color-lightgrey);
+}
+
+main > .section.news-cards-container > .news-cards-wrapper {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 5vw 1.25vw;
+}
+
+.news-cards,
+.news-cards * {
+  box-sizing: border-box;
+}
+
+.news-cards {
+  display: flex;
+  font-size: 16px;
+  line-height: 1.5;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+}
+
+.news-cards .news-cards-item {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 1.25vw;
+  margin-bottom: 1.5rem;
+  overflow: visible;
+}
+
+.news-cards .news-card {
+  display: flex;
+  flex: 1 0 auto;
+  flex-direction: column;
+  width: 100%;
+  background: var(--color-lightgrey);
+  box-shadow: none;
+}
+
+.news-cards .news-card > .news-card-image {
+  display: block;
+  position: relative;
+  max-width: 100%;
+  border: 1px solid var(--color-lightgrey);
+}
+
+.news-cards .news-card > .news-card-image > a {
+  display: block;
+  position: relative;
+  line-height: 1;
+  color: var(--color-red);
+  outline: 1px dotted transparent;
+  outline-offset: -1px;
+  background: var(--color-lightgrey);
+}
+
+.news-cards .news-card .news-card-media {
+  display: block;
+  position: relative;
+  height: 0;
+  padding-bottom: 56.25%;
+  max-width: 100%;
+  border: 1px solid var(--color-lightgrey);
+}
+
+.news-cards .news-card .news-card-media picture,
+.news-cards .news-card .news-card-media img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: calc(100% + 2px);
+  height: calc(100% + 2px);
+  margin: 0;
+  object-fit: cover;
+}
+
+.news-cards .news-card-content {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  padding: 16px;
+}
+
+.news-cards .news-card-content h3 {
+  margin: 0;
+  font-family: var(--font-face-medi), var(--font-sub-bold), Arial, sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+  color: var(--color-darkgrey);
+}
+
+.news-cards .news-card-content h3 a:any-link {
+  color: var(--color-red);
+  line-height: 1;
+  font-family: inherit;
+  text-decoration: none;
+}
+
+.news-cards .news-card-content h3 a:hover {
+  color: var(--color-primary-700);
+}
+
+.news-cards .news-card-text {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  margin: 1em 0;
+}
+
+.news-cards .news-card-text p,
+.news-cards .news-card-content > p {
+  margin: 0;
+  font-size: 0.95em;
+  line-height: 1.75;
+  max-width: 640px;
+}
+
+/* the subline is raw text in the source card (inherits the 18px/1.5 base), not a .95rem p */
+.news-cards .news-card-text p {
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+.news-cards .news-card-content > p a:any-link {
+  color: var(--color-red);
+  line-height: inherit;
+  text-decoration: none;
+}
+
+.news-cards .news-card-content > p a:hover {
+  color: var(--color-primary-700);
+}
+
+/* source root type: 16px, 18px from 640px (canon.css L51); the frozen foundation keeps 16px */
+@media (width >= 640px) {
+  .news-cards {
+    font-size: 18px;
+  }
+}
+
+@media (width >= 1024px) {
+  .news-cards .news-cards-item {
+    width: 25%;
+    margin-bottom: 0;
+    overflow: hidden;
+  }
+}
+
+@media (width >= 1280px) {
+  main > .section.news-cards-container > .news-cards-wrapper {
+    padding: 32px 16px;
+  }
+
+  .news-cards .news-cards-item {
+    padding: 1.25vw 16px;
+  }
+}
+
+/* ── variant download (Media, cluster-listing): the source .layout--download paints the card band
+   white (bundle @417423), the groups are .layout--left (justify flex-start, @438465); the card's
+   `Download file` button = .btn (48 min-height, @165408) + .btn--download (full width, left text,
+   48 px icon slot right, @170257/@170325), glyph U+F130 (icon font); measured on the source at
+   1440/360: red fill, white text. Title unlinked. */
+main > .section.news-cards-container:has(.news-cards.download) {
+  background: var(--color-white);
+}
+
+.news-cards.download {
+  justify-content: flex-start;
+}
+
+/* measured on the source card (1440 / 360): h3, then an empty text wrapper with 18px/16px margins
+   (2em), the file info at .875em / 1.75 with a 1em top margin, the button flush below it */
+.news-cards.download .news-card-text {
+  margin: 2em 0 0;
+}
+
+.news-cards.download .news-card-text p {
+  margin: 1em 0 0;
+  font-size: 0.875em;
+  line-height: 1.75;
+}
+
+.news-cards.download .news-card-content > p.news-cards-more {
+  max-width: none;
+  margin: 0;
+  font-size: 1em;
+}
+
+.news-cards.download .news-cards-more a:any-link,
+.news-cards.download .news-cards-more a.button {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  min-height: 48px;
+  margin: 0;
+  padding: 8px 48px 8px 16px;
+  font-family: inherit;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: left;
+  text-decoration: none;
+  color: var(--color-white);
+  background-color: var(--color-red);
+  border: 1px solid transparent;
+  border-radius: 0;
+}
+
+.news-cards.download .news-cards-more a:hover {
+  color: var(--color-white);
+  background-color: var(--color-darkred, var(--color-primary-700));
+}
+
+.news-cards.download .news-cards-more a::after {
+  content: "\f130";
+  position: absolute;
+  top: -1px;
+  right: 0;
+  width: 48px;
+  height: 48px;
+  line-height: 48px;
+  font-family: var(--icon-font-family);
+  text-align: center;
+}
+
+/* ── variant calendar (Events, cluster-listing): source .calendar-list > .calendar-event rows
+   (bundle @390468–@392811): flex row, lightgrey, min-height 56; date 25 % textgrey/white bold;
+   info flex 1 (title = h3 size, 8 px below); button white/black .btn centred; items separated by
+   a 1 px white top border from 768; below 768 the row wraps (date 100 %, button row right). */
+/* the calendar list sits in the source's item wrapper: band 1.25vw + item 1.25vw (measured events 360: rows 342
+   wide at x 9; the build's rows were 351 at x 5). The title is the source's .calendar-event__event-info__title
+   size (bundle @33114 1.25rem, @33640 1.33rem from 640px — measured 360: one 25px line, the build's 1.5em wrapped
+   to two). */
+.news-cards.calendar {
+  padding: 0 1.25vw;
+  display: block;
+}
+
+.news-cards.calendar .news-cards-item {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  overflow: visible;
+}
+
+.news-cards.calendar .news-card {
+  flex-flow: row wrap;
+  align-items: stretch;
+  min-height: 56px;
+  background: var(--color-lightgrey);
+}
+
+.news-cards.calendar .news-cards-item + .news-cards-item .news-card {
+  border-top: 1px solid var(--color-white);
+}
+
+.news-cards.calendar .news-card-date {
+  display: flex;
+  flex: 0 0 100%;
+  flex-direction: column;
+  justify-content: center;
+  max-width: none;
+  padding: 16px;
+  color: var(--color-white);
+  background: var(--color-textgrey);
+}
+
+.news-cards.calendar .news-card-date p {
+  margin: 0;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.news-cards.calendar .news-card-content {
+  flex-flow: row wrap;
+  padding: 0;
+}
+
+.news-cards.calendar .news-card-info {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 16px;
+}
+
+/* source order inside .calendar-event__event-info: meta (place) first, then the title (bundle @391543–@392079;
+   measured events 360: the build put the title above the place and the row 206px out of step) */
+.news-cards.calendar .news-card-info h3 {
+  order: 2;
+  margin: 0 0 8px;
+  font-size: 1.25rem;
+  line-height: 1.25;
+}
+
+/* source .calendar-event__event-info__meta (@37496): .875rem textgrey (measured 360: 14px, build 16px) */
+.news-cards.calendar .news-card-text p {
+  color: var(--color-textgrey);
+  font-size: 0.875rem;
+  line-height: 1.75;
+}
+
+.news-cards.calendar .news-card-text {
+  order: 1;
+  margin: 0;
+}
+
+.news-cards.calendar .news-card-content > p.news-cards-more {
+  display: flex;
+  flex: 0 0 100%;
+  align-items: center;
+  justify-content: flex-end;
+  max-width: none;
+  margin: 0;
+  padding: 0 16px 16px;
+}
+
+.news-cards.calendar .news-cards-more a:any-link,
+.news-cards.calendar .news-cards-more a.button {
+  display: inline-block;
+  min-height: 48px;
+  margin: 0;
+  padding: 8px 16px;
+  font-family: inherit;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: center;
+  text-decoration: none;
+  color: var(--color-red);
+  background-color: var(--color-lightgrey);
+  border: 1px solid transparent;
+  border-radius: 0;
+}
+
+/* source .btn.grey-background (bundle @42143): lightgrey fill on the lightgrey row — the button reads as a red
+   text link (measured events 360); hover @166470 */
+.news-cards.calendar .news-cards-more a:hover {
+  color: var(--color-black);
+  background-color: var(--color-hover-lightgrey, var(--color-lightgrey));
+}
+
+@media (width >= 640px) {
+  /* source @34167 (.calendar-event__event-info__title, h3 @640: 1.63rem) comes after @33640's 1.33rem at equal
+     specificity and wins — measured events 1440: live title 29.34px (1.63rem), the build's 23.94px; every row 7px short */
+  .news-cards.calendar .news-card-info h3 {
+    font-size: 1.63rem;
+  }
+}
+
+@media (width >= 768px) {
+  .news-cards.calendar .news-card {
+    flex-wrap: nowrap;
+  }
+
+  .news-cards.calendar .news-card-date {
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+
+  .news-cards.calendar .news-card-content {
+    flex-wrap: nowrap;
+  }
+
+  .news-cards.calendar .news-card-content > p.news-cards-more {
+    flex: 0 0 auto;
+    justify-content: center;
+    padding: 16px;
+  }
+}

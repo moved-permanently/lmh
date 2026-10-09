@@ -1,0 +1,11 @@
+{
+  "/en/productfinder": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T03:56:32.052Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

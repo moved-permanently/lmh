@@ -1,0 +1,4589 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-10-06T16:05:34.329Z",
+    "readArtifacts": [
+      "stardust/migrated",
+      "stardust/state.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-10-09T02:08:24.969Z",
+  "pages": [
+    {
+      "slug": "en",
+      "path": "/en",
+      "title": "Homepage Linde Material Handling",
+      "templateId": "en",
+      "type": "unique",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/index.html",
+        "metaJson": "stardust/migrated/en/_meta.json",
+        "sourceHash": "sha256:e9878728b5eaeb79a27556deac469d65d5339038ee872c2620c64ca3346a83c4"
+      },
+      "blocks": [
+        "hero-carousel",
+        "teaser-carousel-light",
+        "teaser-grid"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en",
+        "deployedAt": "2026-10-07T03:11:38.084Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 17.25,
+          "heightDelta": -25,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": [
+              ".header=header",
+              ".media-carousel--header=.hero-carousel"
+            ]
+          },
+          "reasons": [
+            "pixel 17.25% > 10%",
+            "units off 4 hidden 4 missing 0"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us",
+      "path": "/en/about-us",
+      "title": "Overview About Linde",
+      "templateId": "en-about-us-press",
+      "representative": "en-about-us-press",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:4696161faca4a693890fc5876d8d8af33c838c04470bfe53ab5b35027d46352d",
+        "currentStatePath": "stardust/current/pages/en-about-us.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "news-cards",
+        "filter"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/about-us",
+        "deployedAt": "2026-10-07T04:26:46.925Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.47,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 8,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-awards",
+      "path": "/en/about-us/awards",
+      "title": "Awards, prizes, and commendations",
+      "templateId": "en-products-e-trucks",
+      "representative": "en-products-e-trucks",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:47bb32c0556576a6b471ab0219620fdf29139ccdd5cf4320a2481d85db2a881d",
+        "currentStatePath": "stardust/current/pages/en-about-us-awards.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/about-us/awards",
+        "deployedAt": "2026-10-07T00:44:07.494Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 19.28,
+          "heightDelta": -67,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 16,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 19.28% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-certificates",
+      "path": "/en/about-us/certificates",
+      "title": "Our Certificates",
+      "templateId": "en-products-e-trucks",
+      "representative": "en-products-e-trucks",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:8796cfed9b2b9d91942e39b75880dfc682ee7cf407cc60e7637abe02ca3813c4",
+        "currentStatePath": "stardust/current/pages/en-about-us-certificates.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/about-us/certificates",
+        "deployedAt": "2026-10-07T00:44:07.540Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 5.74,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-company",
+      "path": "/en/about-us/company",
+      "title": "Company | Linde Material Handling",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:a77a7baf748b63a25512ecff1f8e23ffd05249de3f77a76334011250875ea93d",
+        "currentStatePath": "stardust/current/pages/en-about-us-company.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/about-us/company",
+        "deployedAt": "2026-10-06T22:09:50.442Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 10.45,
+          "heightDelta": -15,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 1,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 10.45% > 10%",
+            "content MISSING 0 / HIDDEN 1"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-events",
+      "path": "/en/about-us/events",
+      "title": "Trade Fairs and Events",
+      "templateId": "en-about-us-press",
+      "representative": "en-about-us-press",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:575a4b1a79d6cb6f7956e9ddb45c99c9411b588655a7cbd92be5c30d54d71b55",
+        "currentStatePath": "stardust/current/pages/en-about-us-events.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "news-cards",
+        "filter"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/about-us/events",
+        "deployedAt": "2026-10-07T04:26:46.970Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 32.53,
+          "heightDelta": -86,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 7,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 32.53% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-innovations-from-linde",
+      "path": "/en/about-us/innovations-from-linde",
+      "title": "Technology & Innovation",
+      "templateId": "en-about-us-press",
+      "representative": "en-about-us-press",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:f465389f3de60f86fb9ff1c836f61fc1578446faa2180193306202e34f102ba6",
+        "currentStatePath": "stardust/current/pages/en-about-us-innovations-from-linde.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "news-cards",
+        "filter"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/about-us/innovations-from-linde",
+        "deployedAt": "2026-10-07T04:26:47.015Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 21.57,
+          "heightDelta": -79,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 18,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 21.57% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-magazine",
+      "path": "/en/about-us/magazine",
+      "title": "Linde Magazine",
+      "templateId": "en-about-us-press",
+      "representative": "en-about-us-press",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:401ead75270a08f425d9edfed058eee46283b77cfa0f935c78da1bc8e71831d7",
+        "currentStatePath": "stardust/current/pages/en-about-us-magazine.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "news-cards",
+        "filter"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/about-us/magazine",
+        "deployedAt": "2026-10-07T04:26:47.063Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 25.45,
+          "heightDelta": 38,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 25.45% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-media",
+      "path": "/en/about-us/media",
+      "title": "Linde-MH",
+      "templateId": "en-about-us-press",
+      "representative": "en-about-us-press",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:e3922ee81a0698d952b1b5e3655c32c90ff9dcb634b188f17e0242152889145d",
+        "currentStatePath": "stardust/current/pages/en-about-us-media.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "news-cards",
+        "filter"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/about-us/media",
+        "deployedAt": "2026-10-07T04:26:47.113Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 12.56,
+          "heightDelta": 2,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 12.56% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-press",
+      "path": "/en/about-us/press",
+      "title": "Press Release Overview",
+      "templateId": "en-about-us-press",
+      "type": "listing",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/About-us/Press/index.html",
+        "metaJson": "stardust/migrated/en/About-us/Press/_meta.json",
+        "sourceHash": "sha256:5338908c5c2364f17ebeac28d706601098245a16efe668cdfb897df9fd6360ee"
+      },
+      "blocks": [
+        "breadcrumb",
+        "news-cards",
+        "filter"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/about-us/press",
+        "deployedAt": "2026-10-06T23:18:32.968Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 49.6,
+          "heightDelta": -158,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 49.6% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-sustainability",
+      "path": "/en/about-us/sustainability",
+      "title": "Sustainability at Linde Material Handling",
+      "templateId": "en-products-e-trucks",
+      "representative": "en-products-e-trucks",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:dd0b576dc47bd4646737aefdce42ff573fa07f5e88a590a06392f2126e2d3868",
+        "currentStatePath": "stardust/current/pages/en-about-us-sustainability.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/about-us/sustainability",
+        "deployedAt": "2026-10-07T00:44:07.593Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 17.73,
+          "heightDelta": -33,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 17,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 17.73% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-about-us-working-at-linde",
+      "path": "/en/about-us/working-at-linde",
+      "title": "Working at Linde",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:144e6bedc76d1439d73f888df9af389a291bc8347de9edc68e8fa781cf9c1d75",
+        "currentStatePath": "stardust/current/pages/en-about-us-working-at-linde.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/about-us/working-at-linde",
+        "deployedAt": "2026-10-06T22:09:50.495Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 14.58,
+          "heightDelta": 57,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 14.58% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-edi",
+      "path": "/en/edi",
+      "title": "EDI– Electronic Data Interchange",
+      "templateId": "en-legal-notes-privacy-statement",
+      "representative": "en-legal-notes-privacy-statement",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:663482341aef5ab819510114ae07aeade344a7b4643f314d75bb99146da4a9a4",
+        "currentStatePath": "stardust/current/pages/en-edi.json"
+      },
+      "blocks": [
+        "breadcrumb"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/edi",
+        "deployedAt": "2026-10-06T20:15:13.300Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 15.71,
+          "heightDelta": 135,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 15.71% > 10%",
+            "Δh 135px > 5% of 2345"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-forms-agility-on-point-form",
+      "path": "/en/forms/agility-on-point-form",
+      "title": "Linde-MH",
+      "templateId": "en-forms-global-contact-form",
+      "representative": "en-forms-global-contact-form",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:541a9de594d7f29e13f84b7dec7491019b076aabc82f873874847c5ab23dbd54",
+        "currentStatePath": "stardust/current/pages/en-forms-agility-on-point-form.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "mwf-form"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/forms/agility-on-point-form",
+        "deployedAt": "2026-10-07T02:56:00.987Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.9,
+          "heightDelta": -35,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-forms-automation-campaign",
+      "path": "/en/forms/automation-campaign",
+      "title": "Linde-MH",
+      "templateId": "en-forms-global-contact-form",
+      "representative": "en-forms-global-contact-form",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:49b98aa9684e6b59203bfa44eec17b4a90f47c44acd5e43655cc51a5c805af6e",
+        "currentStatePath": "stardust/current/pages/en-forms-automation-campaign.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "mwf-form"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/forms/automation-campaign",
+        "deployedAt": "2026-10-07T02:56:01.040Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.67,
+          "heightDelta": -35,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-forms-ex-proof-form",
+      "path": "/en/forms/ex-proof-form",
+      "title": "Linde-MH",
+      "templateId": "en-forms-global-contact-form",
+      "representative": "en-forms-global-contact-form",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:9846aff711186b7704208c96bc76c832fccd2cfef0a82c044aea10da0b7c1e4e",
+        "currentStatePath": "stardust/current/pages/en-forms-ex-proof-form.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "mwf-form"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/forms/ex-proof-form",
+        "deployedAt": "2026-10-07T02:56:01.086Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.63,
+          "heightDelta": -39,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-forms-gc-li-ion-recycling",
+      "path": "/en/forms-gc/li-ion-recycling",
+      "title": "Linde-MH",
+      "templateId": "en-forms-global-contact-form",
+      "representative": "en-forms-global-contact-form",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:b5e357844748bae5c3f9d69aa7b03e5ed70c2c71b7b2d0ceb708fc052a078458",
+        "currentStatePath": "stardust/current/pages/en-forms-gc-li-ion-recycling.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "mwf-form"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/forms-gc/li-ion-recycling",
+        "deployedAt": "2026-10-07T02:56:01.137Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.28,
+          "heightDelta": -33,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-forms-gc-next-champ-form",
+      "path": "/en/forms-gc/next-champ-form",
+      "title": "Linde-MH",
+      "templateId": "en-forms-global-contact-form",
+      "representative": "en-forms-global-contact-form",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:e5421664e6cd38e716c621ddd62eef70fc9f14f6d791a61a7fd1acea853908a0",
+        "currentStatePath": "stardust/current/pages/en-forms-gc-next-champ-form.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "mwf-form"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/forms-gc/next-champ-form",
+        "deployedAt": "2026-10-07T02:56:01.193Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.58,
+          "heightDelta": -35,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-forms-global-contact-form",
+      "path": "/en/forms/global-contact-form",
+      "title": "Linde-MH",
+      "templateId": "en-forms-global-contact-form",
+      "type": "form",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/Forms/Global-Contact-Form/index.html",
+        "metaJson": "stardust/migrated/en/Forms/Global-Contact-Form/_meta.json",
+        "sourceHash": "sha256:c320175901aa8652fb0a2e24daac37d0bae19ab6d50a60d0940e8183927bcf39"
+      },
+      "blocks": [
+        "breadcrumb",
+        "mwf-form"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/forms/global-contact-form",
+        "deployedAt": "2026-10-07T02:03:49.168Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.12,
+          "heightDelta": -35,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [
+            "units off 2 hidden 0 missing 0"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-forms-gse-expo",
+      "path": "/en/forms/gse-expo",
+      "title": "GSE Expo 2026 | Linde Material Handling",
+      "templateId": "en-forms-global-contact-form",
+      "representative": "en-forms-global-contact-form",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:14c907c30b42ac1cf857d01f6c4d41232954b9c57dcfbea1ab907145f7ae16c9",
+        "currentStatePath": "stardust/current/pages/en-forms-gse-expo.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "mwf-form"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/forms/gse-expo",
+        "deployedAt": "2026-10-07T02:56:01.246Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.69,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-forms-rent-a-truck",
+      "path": "/en/forms/rent-a-truck",
+      "title": "Linde-MH",
+      "templateId": "en-forms-global-contact-form",
+      "representative": "en-forms-global-contact-form",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:1ae2a9658514b72741ac9e4a538d0a18a9d926a2e91cf3e495f8c0b742ec93a2",
+        "currentStatePath": "stardust/current/pages/en-forms-rent-a-truck.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "mwf-form"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/forms/rent-a-truck",
+        "deployedAt": "2026-10-07T02:56:01.296Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.62,
+          "heightDelta": -39,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-landingpage-agility-on-point",
+      "path": "/en/landingpage/agility-on-point",
+      "title": "New reach trucks Ri14 – Ri18 | Linde Material Handling",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:6d1d61d2a0844bb65266076b406d3f9acbe8eccb3b0b9cc00257930f066914df",
+        "currentStatePath": "stardust/current/pages/en-landingpage-agility-on-point.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/agility-on-point",
+        "deployedAt": "2026-10-06T22:09:50.544Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 38.73,
+          "heightDelta": -112,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 38.73% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-landingpage-automation-summit-2025",
+      "path": "/en/landingpage/automation-summit-2025",
+      "title": "Automation Summit 2025 | Linde Material Handling",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:33a53da312cd56239ce6bd0aebd942e7a4016c9375cbb9df4ae107c87db20f61",
+        "currentStatePath": "stardust/current/pages/en-landingpage-automation-summit-2025.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/automation-summit-2025",
+        "deployedAt": "2026-10-06T22:09:50.599Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 19.28,
+          "heightDelta": 1,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 19.28% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-landingpage-compact-class-with-electric-drive",
+      "path": "/en/landingpage/compact-class-with-electric-drive",
+      "title": "Compact class with electric drive | Linde Material Handling",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:22ba05b84f1cf21b3aa6cfee7348dacfe46d9c199c29e14a059c609f5944a242",
+        "currentStatePath": "stardust/current/pages/en-landingpage-compact-class-with-electric-drive.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/compact-class-with-electric-drive",
+        "deployedAt": "2026-10-06T22:09:50.653Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 17.02,
+          "heightDelta": -26,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 38,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 17.02% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-landingpage-e-models",
+      "path": "/en/landingpage/e-models",
+      "title": "E20 – E35 and E35 – E50 electric forklift trucks | Linde Material Handling",
+      "templateId": "en-landingpage-e-models",
+      "type": "landing",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/Landingpage/E-models/index.html",
+        "metaJson": "stardust/migrated/en/Landingpage/E-models/_meta.json",
+        "sourceHash": "sha256:d33afa6f9a2db9a7f375cd51ced5c5d8d834a60c0c8733628228fb2b4ba6b913"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/e-models",
+        "deployedAt": "2026-10-06T18:43:37.409Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 18.53,
+          "heightDelta": -23,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 10,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 18.53% > 10%",
+            "units off 45 hidden 6 missing 3"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-landingpage-glasses",
+      "path": "/en/landingpage/glasses",
+      "title": "Linde order pickers",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:97170df75ba5e77ed35a3e8d1d36b9b458719826fa7a7b4dc904b0763c8abd4c",
+        "currentStatePath": "stardust/current/pages/en-landingpage-glasses.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/glasses",
+        "deployedAt": "2026-10-06T22:09:50.715Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 11.62,
+          "heightDelta": 22,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 11.62% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-landingpage-gse-expo",
+      "path": "/en/landingpage/gse-expo",
+      "title": "Linde MH at GSE Expo Europe 2026",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:f560c909d4b352dbd0f1a4c71128d222043e9388ea71ca62aaeab7c0b93532be",
+        "currentStatePath": "stardust/current/pages/en-landingpage-gse-expo.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/gse-expo",
+        "deployedAt": "2026-10-06T22:09:50.777Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 20.39,
+          "heightDelta": -10,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 9,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 20.39% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-landingpage-h-models",
+      "path": "/en/landingpage/h-models",
+      "title": "The new IC trucks | Hydrostatic drive | Linde",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:27644e4af44b4e7597b28a5efeddfd811dbac0ca2358621a78bdacd0bd75530c",
+        "currentStatePath": "stardust/current/pages/en-landingpage-h-models.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/h-models",
+        "deployedAt": "2026-10-06T22:09:50.830Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 18.62,
+          "heightDelta": 24,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 23,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 18.62% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-landingpage-happy-driver",
+      "path": "/en/landingpage/happy-driver",
+      "title": "Happy Driver",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:348af3adbb71405a03b03da37729d1a75281273ce77b8f8357cd30e82cef020b",
+        "currentStatePath": "stardust/current/pages/en-landingpage-happy-driver.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/happy-driver",
+        "deployedAt": "2026-10-06T22:09:50.877Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 21.19,
+          "heightDelta": 143,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 33,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 21.19% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-landingpage-in-sync",
+      "path": "/en/landingpage/in-sync",
+      "title": "In Sync with your Rhythm | Linde Material Handling",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:0c5c656289b790d7ea5a7157c5ec4d8228946255c9a9d11c371a78447cfa64f8",
+        "currentStatePath": "stardust/current/pages/en-landingpage-in-sync.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/in-sync",
+        "deployedAt": "2026-10-06T22:09:50.921Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 30.67,
+          "heightDelta": -104,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 13,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 30.67% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-landingpage-logimat",
+      "path": "/en/landingpage/logimat",
+      "title": "Linde MH at LogiMAT 2026 – Automation & Digital Solutions",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:1fdb1dab61bf3a60a9403380f6c5455b26e0d99a3d5af963a37bd632fa9f8ebf",
+        "currentStatePath": "stardust/current/pages/en-landingpage-logimat.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/logimat",
+        "deployedAt": "2026-10-06T22:09:50.966Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 29.45,
+          "heightDelta": 126,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 10,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 29.45% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-landingpage-next-champ",
+      "path": "/en/landingpage/next-champ",
+      "title": "The Next Champ",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:32953e7bfce4220fa23ea6c434f83ff72ef1462c314f40075948d275cf55e851",
+        "currentStatePath": "stardust/current/pages/en-landingpage-next-champ.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/next-champ",
+        "deployedAt": "2026-10-06T22:09:51.014Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 29.42,
+          "heightDelta": 15,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 29.42% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-landingpage-platform-counterbalanced-trucks",
+      "path": "/en/landingpage/platform-counterbalanced-trucks",
+      "title": "Counterbalanced Forklift Platform",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:08d6c6a371c4352a4f41372545f0b530527aa731371052cb31fe10b397c8655d",
+        "currentStatePath": "stardust/current/pages/en-landingpage-platform-counterbalanced-trucks.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/platform-counterbalanced-trucks",
+        "deployedAt": "2026-10-06T22:09:51.063Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 19.79,
+          "heightDelta": 26,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 10,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 19.79% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-landingpage-r-matic",
+      "path": "/en/landingpage/r-matic",
+      "title": "The R-MATIC automated reach truck",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:0d113981eebc5fad125f90eebacdbc263cc14b6570c900471af653a826bf374d",
+        "currentStatePath": "stardust/current/pages/en-landingpage-r-matic.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/r-matic",
+        "deployedAt": "2026-10-06T22:09:51.118Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 27.53,
+          "heightDelta": 117,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 27.53% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-landingpage-safely-to-the-top",
+      "path": "/en/landingpage/safely-to-the-top",
+      "title": "Heights",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:1c3abfd4ff3d5c131a4844cd57c9c15018f52f78043e3e51cc829cd5c7f81d56",
+        "currentStatePath": "stardust/current/pages/en-landingpage-safely-to-the-top.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/safely-to-the-top",
+        "deployedAt": "2026-10-06T22:09:51.168Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 24.86,
+          "heightDelta": -31,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 16,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 24.86% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-landingpage-semi-automated-order-pickers",
+      "path": "/en/landingpage/semi-automated-order-pickers",
+      "title": "Product search I Linde Material Handling",
+      "templateId": "en-legal-notes-privacy-statement",
+      "representative": "en-legal-notes-privacy-statement",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:45c6432a37f9038622e91bb943ab043e37388e77460c18ee83a1e778760f6b64",
+        "currentStatePath": "stardust/current/pages/en-landingpage-semi-automated-order-pickers.json"
+      },
+      "blocks": [
+        "breadcrumb"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/semi-automated-order-pickers",
+        "deployedAt": "2026-10-06T20:15:13.150Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.47,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-landingpage-x-models",
+      "path": "/en/landingpage/x-models",
+      "title": "X20 – X35 and X35 - X50 Electric Forklift Trucks",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:422a69bfef4eda4bfa91207825b0a84e5e26fd4bf2fe625434a4b1626ffbd514",
+        "currentStatePath": "stardust/current/pages/en-landingpage-x-models.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/x-models",
+        "deployedAt": "2026-10-06T22:09:51.214Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 21.04,
+          "heightDelta": 35,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 12,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 21.04% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-landingpage-x-range",
+      "path": "/en/landingpage/x-range",
+      "title": "R14 – R17 X Reach Trucks",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:b2bc48e1bdb949d7896bea27c7ef718d0067258f5a4e2cc6eacc08fab2790cc8",
+        "currentStatePath": "stardust/current/pages/en-landingpage-x-range.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/landingpage/x-range",
+        "deployedAt": "2026-10-06T22:10:46.918Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 15.84,
+          "heightDelta": 70,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 15.84% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-legal-notes-cookie-policy",
+      "path": "/en/legal-notes/cookie-policy",
+      "title": "Cookie Note",
+      "templateId": "en-legal-notes-privacy-statement",
+      "representative": "en-legal-notes-privacy-statement",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:f807009951704bc1ef44c330f64080c5398df02557ce37d6e5b1d5c7baa44f16",
+        "currentStatePath": "stardust/current/pages/en-legal-notes-cookie-policy.json"
+      },
+      "blocks": [
+        "breadcrumb"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/legal-notes/cookie-policy",
+        "deployedAt": "2026-10-06T20:15:13.104Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 5.81,
+          "heightDelta": -2391,
+          "clipped": 0,
+          "content": {
+            "missing": 2,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 6,
+            "variable": []
+          },
+          "reasons": [
+            "Δh -2391px > 5% of 18152",
+            "content MISSING 2 / HIDDEN 0"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-legal-notes-legal",
+      "path": "/en/legal-notes/legal",
+      "title": "Legal",
+      "templateId": "en-legal-notes-privacy-statement",
+      "representative": "en-legal-notes-privacy-statement",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:b685eb39d7ee7dddd7c996996d2a064e6e32b58c4630d3be336198180edf05e1",
+        "currentStatePath": "stardust/current/pages/en-legal-notes-legal.json"
+      },
+      "blocks": [
+        "breadcrumb"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/legal-notes/legal",
+        "deployedAt": "2026-10-06T20:15:13.245Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.93,
+          "heightDelta": -32,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-legal-notes-ppap",
+      "path": "/en/legal-notes/ppap",
+      "title": "Linde PPAP (Production Part Approval Process)",
+      "templateId": "en-legal-notes-privacy-statement",
+      "representative": "en-legal-notes-privacy-statement",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:afd8ea856e58b8dff8eb1f238faba2cce06a4220b5e91cbb8df2b52fb2b67ae1",
+        "currentStatePath": "stardust/current/pages/en-legal-notes-ppap.json"
+      },
+      "blocks": [
+        "breadcrumb"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/legal-notes/ppap",
+        "deployedAt": "2026-10-06T20:15:13.350Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.56,
+          "heightDelta": 11,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-legal-notes-privacy-statement",
+      "path": "/en/legal-notes/privacy-statement",
+      "title": "Privacy Statement",
+      "templateId": "en-legal-notes-privacy-statement",
+      "type": "static",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/Legal-Notes/Privacy-Statement/index.html",
+        "metaJson": "stardust/migrated/en/Legal-Notes/Privacy-Statement/_meta.json",
+        "sourceHash": "sha256:fd65ad5658a21abb512ab4a6d7afe9605cdfcbb30d56b956a858b5b893deaf05"
+      },
+      "blocks": [
+        "breadcrumb"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/legal-notes/privacy-statement",
+        "deployedAt": "2026-10-06T16:41:37.611Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.98,
+          "heightDelta": 13,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-legal-notes-terms-of-use",
+      "path": "/en/legal-notes/terms-of-use",
+      "title": "Terms of use",
+      "templateId": "en-legal-notes-privacy-statement",
+      "representative": "en-legal-notes-privacy-statement",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:fa0955a4ab2a0eff99c14706a257a79435aa7e38f48edd8247d21aea09835a67",
+        "currentStatePath": "stardust/current/pages/en-legal-notes-terms-of-use.json"
+      },
+      "blocks": [
+        "breadcrumb"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/legal-notes/terms-of-use",
+        "deployedAt": "2026-10-06T20:15:13.191Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.77,
+          "heightDelta": 14,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-linde-core-linde-ergonomics-html",
+      "path": "/en/linde-core/linde-ergonomics",
+      "title": "Ergonomics at Linde Material Handling",
+      "templateId": "en-products-e-trucks",
+      "representative": "en-products-e-trucks",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:5418b4ad14c40a19350d2511e858731eedbf25c595756aab4a87a38e8b7155d9",
+        "currentStatePath": "stardust/current/pages/en-linde-core-linde-ergonomics-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/linde-core/linde-ergonomics",
+        "deployedAt": "2026-10-07T14:10:30.281Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 17.47,
+          "heightDelta": -28,
+          "clipped": 0,
+          "content": {
+            "missing": 1,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 52,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 17.47% > 10%",
+            "content MISSING 1 / HIDDEN 0"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-linde-core-linde-productivity-html",
+      "path": "/en/linde-core/linde-productivity",
+      "title": "Productivity at Linde Material Handling",
+      "templateId": "en-products-e-trucks",
+      "representative": "en-products-e-trucks",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:aaa63289bc713ce333cb64593630b0cb4b62d799ac7bfe9e695618a089a860f0",
+        "currentStatePath": "stardust/current/pages/en-linde-core-linde-productivity-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/linde-core/linde-productivity",
+        "deployedAt": "2026-10-07T00:44:07.689Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 34.77,
+          "heightDelta": 241,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 34.77% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-productfinder-html",
+      "path": "/en/productfinder",
+      "title": "Productfinder | Linde Material Handling",
+      "templateId": "en-productfinder-html",
+      "type": "unique",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/Productfinder.html",
+        "metaJson": "stardust/migrated/en/Productfinder._meta.json",
+        "sourceHash": "sha256:980944bc02d622f2120cd2bbe8f17bae672002feadabe48a788a3dd3208075f8"
+      },
+      "blocks": [
+        "breadcrumb",
+        "product-finder"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/productfinder",
+        "deployedAt": "2026-10-07T03:56:51.435Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.32,
+          "heightDelta": -31,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 24,
+            "variable": []
+          },
+          "reasons": [
+            "units off 28 hidden 0 missing 0"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products",
+      "path": "/en/products",
+      "title": "Overview",
+      "templateId": "en-about-us-press",
+      "representative": "en-about-us-press",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:6adcb8a6d546819bf4d946a4293d0570907f59b281a9f097123e6c8f08848cd6",
+        "currentStatePath": "stardust/current/pages/en-products.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "news-cards",
+        "filter"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products",
+        "deployedAt": "2026-10-07T04:26:47.162Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 33.26,
+          "heightDelta": -19,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 33.26% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products-approved-trucks",
+      "path": "/en/products/approved-trucks",
+      "title": "Used Forklifts | Linde Material Handling",
+      "templateId": "en-products-e-trucks",
+      "representative": "en-products-e-trucks",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:cdf809528330c9cd0256597f50f2ae8f748f44e93bbd119d9a77a74ae16aaa13",
+        "currentStatePath": "stardust/current/pages/en-products-approved-trucks.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/approved-trucks",
+        "deployedAt": "2026-10-07T00:44:07.740Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 17.84,
+          "heightDelta": 77,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 20,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 17.84% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products-automated-trucks",
+      "path": "/en/products/automated-trucks",
+      "title": "Automated industrial trucks | Linde Material Handling",
+      "templateId": "en-about-us-press",
+      "representative": "en-about-us-press",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:8c11c195b9708e3a2d2b4f4ca635948f64c38e350b7d86fdbb7403cdb198da48",
+        "currentStatePath": "stardust/current/pages/en-products-automated-trucks.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "news-cards",
+        "filter"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/automated-trucks",
+        "deployedAt": "2026-10-07T04:26:47.210Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 13.57,
+          "heightDelta": -12,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 13.57% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products-diesel-forklifts-d344",
+      "path": "/en/products/diesel-forklifts",
+      "title": "Diesel Forklift Purchase & Hire | Linde Material Handling",
+      "templateId": "en-products-e-trucks",
+      "representative": "en-products-e-trucks",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:2d20be973f0c49934e6a06f7f434552645b1a15c7cfd3825c497a054163f731c",
+        "currentStatePath": "stardust/current/pages/en-products-diesel-forklifts-d344.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/diesel-forklifts",
+        "deployedAt": "2026-10-07T00:44:07.792Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 19.2,
+          "heightDelta": 52,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 16,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 19.2% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products-e-trucks",
+      "path": "/en/products/e-trucks",
+      "title": "Electric forklift trucks from Linde Material Handling",
+      "templateId": "en-products-e-trucks",
+      "type": "program",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/Products/E-Trucks/index.html",
+        "metaJson": "stardust/migrated/en/Products/E-Trucks/_meta.json",
+        "sourceHash": "sha256:8f5f7311d7b2f6472395c344c8aac44df72342d7d3b41a7909011c34d4a27c40"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/e-trucks",
+        "deployedAt": "2026-10-06T22:00:36.620Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 10.36,
+          "heightDelta": -24,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 10.36% > 10%",
+            "units off 10 hidden 6 missing 7"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products-explosion-proof-trucks",
+      "path": "/en/products/explosion-proof-trucks",
+      "title": "Explosion Protection in Intralogistics | Linde Material Handling",
+      "templateId": "en-products-e-trucks",
+      "representative": "en-products-e-trucks",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:b02e7464672af563c2a1537adfe739011a5dca8d4a0e61666e6b12fd4de3f22d",
+        "currentStatePath": "stardust/current/pages/en-products-explosion-proof-trucks.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/explosion-proof-trucks",
+        "deployedAt": "2026-10-07T14:10:30.189Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 26.28,
+          "heightDelta": -201,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 14,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 26.28% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products-forklift-hire",
+      "path": "/en/products/forklift-hire",
+      "title": "Forklift Hire | Linde Material Handling",
+      "templateId": "en-products-e-trucks",
+      "representative": "en-products-e-trucks",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:dbf8f3f0f2e2ca8511d56d7eedb69828d2a4ff96e8f8719335584487285d5c96",
+        "currentStatePath": "stardust/current/pages/en-products-forklift-hire.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/forklift-hire",
+        "deployedAt": "2026-10-07T14:10:30.079Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 18.06,
+          "heightDelta": 104,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 15,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 18.06% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products-forklift-truck",
+      "path": "/en/products/forklift-truck",
+      "title": "Forklift Trucks—Models for Any Application | Linde Material Handling",
+      "templateId": "en-products-e-trucks",
+      "representative": "en-products-e-trucks",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:59efdab8b223826d8ac347588cba5cd650bcc2f38806aff405bb4415100828b8",
+        "currentStatePath": "stardust/current/pages/en-products-forklift-truck.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/forklift-truck",
+        "deployedAt": "2026-10-07T00:44:07.941Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 15.38,
+          "heightDelta": -123,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 38,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 15.38% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products-gas-forklifts",
+      "path": "/en/products/gas-forklifts",
+      "title": "Gas Forklifts | Linde Material Handling",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:63580908dddf3fb6c935763098da8fedb22cb31eb9806a1f1705a285329fc1d0",
+        "currentStatePath": "stardust/current/pages/en-products-gas-forklifts.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/gas-forklifts",
+        "deployedAt": "2026-10-06T22:10:46.992Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 22.68,
+          "heightDelta": -55,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 13,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 22.68% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products-hand-pallet-trucks",
+      "path": "/en/products/hand-pallet-trucks",
+      "title": "Hand pallet trucks | Linde Material Handling",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:ed59e21b0dedc63d57207dada1596c308ef5c0e53b35194fa0ec97bad072b772",
+        "currentStatePath": "stardust/current/pages/en-products-hand-pallet-trucks.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/hand-pallet-trucks",
+        "deployedAt": "2026-10-06T22:10:47.061Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 22.77,
+          "heightDelta": 63,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 22.77% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products-heavy-duty-forklifts",
+      "path": "/en/products/heavy-duty-forklifts",
+      "title": "Heavy trucks",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:b35a1dd0c7dcfb8187c4f0fd6f9fe170b1faf3762f056ebd8133d405e86ff597",
+        "currentStatePath": "stardust/current/pages/en-products-heavy-duty-forklifts.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/heavy-duty-forklifts",
+        "deployedAt": "2026-10-06T22:10:47.126Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 16.04,
+          "heightDelta": -17,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 24,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 16.04% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products-ic-trucks",
+      "path": "/en/products/ic-trucks",
+      "title": "IC-trucks from Linde Material Handling",
+      "templateId": "en-products-e-trucks",
+      "representative": "en-products-e-trucks",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:ea724238e022fa7e736365951a124bf697c3fc355fa002092a2f47792e5c1ed9",
+        "currentStatePath": "stardust/current/pages/en-products-ic-trucks.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/ic-trucks",
+        "deployedAt": "2026-10-07T14:10:29.910Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 17.5,
+          "heightDelta": 61,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 17.5% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products-order-pickers",
+      "path": "/en/products/order-pickers",
+      "title": "Order pickers from Linde Material Handling",
+      "templateId": "en-products-e-trucks",
+      "representative": "en-products-e-trucks",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:f0c624b05377b4832d2407daf7314d956def69e7d65167068f15978bfa1ba36c",
+        "currentStatePath": "stardust/current/pages/en-products-order-pickers.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/order-pickers",
+        "deployedAt": "2026-10-07T00:44:08.043Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 19.44,
+          "heightDelta": -50,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 19.44% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products-pallet-stackers",
+      "path": "/en/products/pallet-stackers",
+      "title": "Pallet Stackers | Linde Material Handling",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:b18b9c267587e741dc218e0c5ed9f9a3822a85ebc5cb0285832eb149d2993a1f",
+        "currentStatePath": "stardust/current/pages/en-products-pallet-stackers.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/pallet-stackers",
+        "deployedAt": "2026-10-06T22:10:47.188Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 13.44,
+          "heightDelta": -69,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 26,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 13.44% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products-pallet-trucks",
+      "path": "/en/products/pallet-trucks",
+      "title": "Pallet Trucks from Linde Material Handling",
+      "templateId": "en-products-e-trucks",
+      "representative": "en-products-e-trucks",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:c91ad7718b11037fe695a3b65039d47a8af496a1348f9aa796099451051691f3",
+        "currentStatePath": "stardust/current/pages/en-products-pallet-trucks.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/pallet-trucks",
+        "deployedAt": "2026-10-07T14:10:29.987Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 10.59,
+          "heightDelta": 30,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 10.59% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products-productfinder",
+      "path": "/en/products/productfinder",
+      "title": "Product finder",
+      "templateId": "unique",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:f5f22be148f8790038c0724c4342bd9b3cf34527f3c0711c255e21a1e57010a5",
+        "currentStatePath": "stardust/current/pages/en-products-productfinder.json"
+      },
+      "blocks": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/productfinder",
+        "deployedAt": "2026-10-07T04:43:42.614Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 3.32,
+          "heightDelta": -31,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 24,
+            "variable": []
+          },
+          "reasons": [
+            "units off 28 hidden 0 missing 0"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        },
+        "type": "unique",
+        "typeNote": "artifact type inherited from its archetype en-productfinder-html (same product-finder page under a second path; the source renders no heading at all, so the page-type h1 rule is waived exactly as for the archetype) — replica handoff unit gap-h1-hero"
+      }
+    },
+    {
+      "slug": "en-products-reach-trucks",
+      "path": "/en/products/reach-trucks",
+      "title": "Reach Trucks from Linde Material Handling",
+      "templateId": "en-products-e-trucks",
+      "representative": "en-products-e-trucks",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:33b7605daad38ceb39681cc73f65a0fba1ed7133b14b6199203031db2a455660",
+        "currentStatePath": "stardust/current/pages/en-products-reach-trucks.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/reach-trucks",
+        "deployedAt": "2026-10-07T00:44:08.146Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 19.54,
+          "heightDelta": -59,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 19.54% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products-tow-trucks",
+      "path": "/en/products/tow-trucks",
+      "title": "Tow tractors and platform trucks | Linde Material Handling",
+      "templateId": "en-products-e-trucks",
+      "representative": "en-products-e-trucks",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:48fce3be5be13e10acafce436b89246286a1344ec959c1c783907a50a5a6369f",
+        "currentStatePath": "stardust/current/pages/en-products-tow-trucks.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/tow-trucks",
+        "deployedAt": "2026-10-07T00:44:08.195Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 10.15,
+          "heightDelta": 17,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 10.15% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products-tugger-trains",
+      "path": "/en/products/tugger-trains",
+      "title": "Tugger trains | Linde Material Handling",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:6ad8b35882c2deabf5fec7f53ae12ef8a06951fdeca1909b27d49928e966d111",
+        "currentStatePath": "stardust/current/pages/en-products-tugger-trains.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/tugger-trains",
+        "deployedAt": "2026-10-06T22:10:47.284Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 17.58,
+          "heightDelta": 53,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 9,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 17.58% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-products-very-narrow-aisle-trucks",
+      "path": "/en/products/very-narrow-aisle-trucks",
+      "title": "Very narrow aisle trucks from Linde Material Handling",
+      "templateId": "en-products-e-trucks",
+      "representative": "en-products-e-trucks",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:a31c7255b5d205901645cfcac562281ef9b858165857b5e48cdb9e4d8265cb24",
+        "currentStatePath": "stardust/current/pages/en-products-very-narrow-aisle-trucks.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/products/very-narrow-aisle-trucks",
+        "deployedAt": "2026-10-07T00:44:08.243Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 13.32,
+          "heightDelta": -4,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 8,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 13.32% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-service",
+      "path": "/en/service",
+      "title": "Overview Linde Services",
+      "templateId": "en-about-us-press",
+      "representative": "en-about-us-press",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:2f1dff0c101a1017a35115fddf764639bacd0a56807b38127a64c27ad507d5fc",
+        "currentStatePath": "stardust/current/pages/en-service.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "news-cards",
+        "filter"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/service",
+        "deployedAt": "2026-10-07T04:26:47.256Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 26.53,
+          "heightDelta": 34,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 26.53% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-service-genuine-spare-parts",
+      "path": "/en/service/genuine-spare-parts",
+      "title": "Genuine Spare Parts from Linde Material Handling",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:4d65edfd3fbeead6147af28c286e29482b2c1e9d5239d30159f49093f8898fba",
+        "currentStatePath": "stardust/current/pages/en-service-genuine-spare-parts.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/service/genuine-spare-parts",
+        "deployedAt": "2026-10-06T22:10:47.355Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.24,
+          "heightDelta": 3,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 8,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-service-maintenance-repair",
+      "path": "/en/service/maintenance-repair",
+      "title": "Maintenance and Repair",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:1fbf5fd3b60b501bf10a13cb6b2f30d1f41af5569ad72be78836480b114f0488",
+        "currentStatePath": "stardust/current/pages/en-service-maintenance-repair.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/service/maintenance-repair",
+        "deployedAt": "2026-10-06T22:10:47.413Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 10.96,
+          "heightDelta": -34,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 10.96% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-service-retrofit-accessories",
+      "path": "/en/service/retrofit-accessories",
+      "title": "Retrofit & Accessories",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:27c8ef110478933d5bb1b78e9dff896241e391cb387c2a9943b8aaf5c1590161",
+        "currentStatePath": "stardust/current/pages/en-service-retrofit-accessories.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/service/retrofit-accessories",
+        "deployedAt": "2026-10-06T22:10:47.502Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.96,
+          "heightDelta": 4,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 8,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-service-technical-safety-services",
+      "path": "/en/service/technical-safety-services",
+      "title": "Technical & Safety Services from Linde Material Handling",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:e7ff851150df7a2d3598e00adfd36b8e20b80fd23c4f8f5a32f89880caea295c",
+        "currentStatePath": "stardust/current/pages/en-service-technical-safety-services.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/service/technical-safety-services",
+        "deployedAt": "2026-10-06T22:10:47.571Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 14.39,
+          "heightDelta": -11,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 14.39% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-service-training",
+      "path": "/en/service/training",
+      "title": "Training from Linde Material Handling",
+      "templateId": "en-products-e-trucks",
+      "representative": "en-products-e-trucks",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:a9a19a8b54c1f90e4dd78d99c55b8b06cbf7cb3be83e036ba5dfaf13628fcd2a",
+        "currentStatePath": "stardust/current/pages/en-service-training.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/service/training",
+        "deployedAt": "2026-10-07T00:44:08.297Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 16.31,
+          "heightDelta": 73,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 16.31% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-solutions-consulting",
+      "path": "/en/solutions/consulting",
+      "title": "Consulting",
+      "templateId": "en-about-us-press",
+      "representative": "en-about-us-press",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:5605e6919e55bb815ed91283ceaddecf61a6e42f57f234659b4f417af46afd15",
+        "currentStatePath": "stardust/current/pages/en-solutions-consulting.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "news-cards",
+        "filter"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/solutions/consulting",
+        "deployedAt": "2026-10-07T04:26:47.300Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.08,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-solutions-energy-systems",
+      "path": "/en/solutions/energy-systems",
+      "title": "Energy Systems",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:91300ec5ebe5cb7667f6eff2d647643509f3757475be487cc4d094086dbd8901",
+        "currentStatePath": "stardust/current/pages/en-solutions-energy-systems.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/solutions/energy-systems",
+        "deployedAt": "2026-10-06T22:10:47.628Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 27.6,
+          "heightDelta": 60,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 13,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 27.6% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-solutions-financing",
+      "path": "/en/solutions/financing",
+      "title": "Financing plans from Linde Material Handling",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:68cfb92d838d8254d112c83ee76de0f43acf54982e1ea76065edcae5b72d2d44",
+        "currentStatePath": "stardust/current/pages/en-solutions-financing.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/solutions/financing",
+        "deployedAt": "2026-10-06T22:10:47.726Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.65,
+          "heightDelta": 4,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 4,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-solutions-fleet-management",
+      "path": "/en/solutions/fleet-management",
+      "title": "myLinde Fleet Management Software | Linde Material Handling",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:1e139b06f5ecc403bf9cfc3f866baa4c26b975473b5c9c5760969d42904f7868",
+        "currentStatePath": "stardust/current/pages/en-solutions-fleet-management.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/solutions/fleet-management",
+        "deployedAt": "2026-10-06T22:10:47.822Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 11.38,
+          "heightDelta": 45,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 18,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 11.38% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-solutions-intralogistics-automation",
+      "path": "/en/solutions/intralogistics-automation",
+      "title": "Intralogistics and Automation | Linde Material Handling",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:bd2ba57ca55cca228a94f9ba9dc8b70edfcb5134dcde505e24b28018c506f93f",
+        "currentStatePath": "stardust/current/pages/en-solutions-intralogistics-automation.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/solutions/intralogistics-automation",
+        "deployedAt": "2026-10-06T22:10:47.888Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 27.8,
+          "heightDelta": -106,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 20,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 27.8% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-solutions-overview-html",
+      "path": "/en/solutions/overview",
+      "title": "Overview Linde Solutions",
+      "templateId": "en-about-us-press",
+      "representative": "en-about-us-press",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:a020392f2d96d9833a86ade4f932752983183bb9eba240d03c91b4bad2a1290e",
+        "currentStatePath": "stardust/current/pages/en-solutions-overview-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "news-cards",
+        "filter"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/solutions/overview",
+        "deployedAt": "2026-10-07T04:26:47.349Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.79,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 5,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-solutions-warehouse-safety",
+      "path": "/en/solutions/warehouse-safety",
+      "title": "Warehouse Safety | Linde Material Handling",
+      "templateId": "en-landingpage-e-models",
+      "representative": "en-landingpage-e-models",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:18286e20d9b87e65610c9bed13bd0288d57dc6407f886d996cb199b46078bbc8",
+        "currentStatePath": "stardust/current/pages/en-solutions-warehouse-safety.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel",
+        "columns"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/solutions/warehouse-safety",
+        "deployedAt": "2026-10-06T22:10:47.984Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 14.31,
+          "heightDelta": -2,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 11,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 14.31% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-location-finder-html",
+      "path": "/en/technical/location-finder",
+      "title": "Network Partner",
+      "templateId": "en-technical-location-finder-html",
+      "type": "unique",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/technical/Location-Finder.html",
+        "metaJson": "stardust/migrated/en/technical/Location-Finder._meta.json",
+        "sourceHash": "sha256:12521a71d6b529729d4b55e54c8b2db0aedf13874a79d70fafe098a5c6b96d54"
+      },
+      "blocks": [
+        "breadcrumb",
+        "location-finder"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/location-finder",
+        "deployedAt": "2026-10-07T04:09:30.543Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.47,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 1,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-news-detail-101184-html",
+      "path": "/en/technical/news-detail-101184",
+      "title": "Linde Roadster wins German Design Award 2019",
+      "templateId": "en-technical-news-detail-101184-html",
+      "type": "article",
+      "source": {
+        "migratedHtml": "stardust/migrated/en/technical/News-Detail_101184.html",
+        "metaJson": "stardust/migrated/en/technical/News-Detail_101184._meta.json",
+        "sourceHash": "sha256:ae65da47654734ba7b6160382cbb9141be33d6473d8c8405ab2b2649972d920b"
+      },
+      "blocks": [
+        "breadcrumb",
+        "share-bar",
+        "media-carousel",
+        "press-contact"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/news-detail-101184",
+        "deployedAt": "2026-10-06T18:37:20.151Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 13.94,
+          "heightDelta": -26,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 13.94% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-news-detail-101442-html",
+      "path": "/en/technical/news-detail-101442",
+      "title": "Intelligent solutions help in creating added value",
+      "templateId": "en-technical-news-detail-101184-html",
+      "representative": "en-technical-news-detail-101184-html",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:4ecbe21422504d14aa45cdff79339e558bd577a0c920447f6df5ef496f7b2427",
+        "currentStatePath": "stardust/current/pages/en-technical-news-detail-101442-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "share-bar",
+        "media-carousel",
+        "press-contact"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/news-detail-101442",
+        "deployedAt": "2026-10-06T20:20:22.822Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 8.45,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-news-detail-101760-html",
+      "path": "/en/technical/news-detail-101760",
+      "title": "Narrow design, broad portfolio",
+      "templateId": "en-technical-news-detail-101184-html",
+      "representative": "en-technical-news-detail-101184-html",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:e95d053fb39d64e192f080dfc6b0a19428a989e00e54b26382ba192c7d18e1c1",
+        "currentStatePath": "stardust/current/pages/en-technical-news-detail-101760-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "share-bar",
+        "media-carousel",
+        "press-contact"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/news-detail-101760",
+        "deployedAt": "2026-10-06T20:20:22.876Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 9.96,
+          "heightDelta": 8,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-news-detail-1033728-html",
+      "path": "/en/technical/news-detail-1033728",
+      "title": "Improved order picking concept",
+      "templateId": "en-technical-news-detail-101184-html",
+      "representative": "en-technical-news-detail-101184-html",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:57f6f4d060b7048a32cc537714040edd29304eccfbaa1f28c42b2f4c3e193ee6",
+        "currentStatePath": "stardust/current/pages/en-technical-news-detail-1033728-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "share-bar",
+        "media-carousel",
+        "press-contact"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/news-detail-1033728",
+        "deployedAt": "2026-10-06T20:20:22.921Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 18.86,
+          "heightDelta": -64,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 18.86% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-news-detail-105280-html",
+      "path": "/en/technical/news-detail-105280",
+      "title": "Revolution meets evolution",
+      "templateId": "en-technical-news-detail-101184-html",
+      "representative": "en-technical-news-detail-101184-html",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:92fd4f3bd34409c1bc1c147c09fe933445b09a32c162bfa2db316e5e6c344fd8",
+        "currentStatePath": "stardust/current/pages/en-technical-news-detail-105280-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "share-bar",
+        "media-carousel",
+        "press-contact"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/news-detail-105280",
+        "deployedAt": "2026-10-06T20:20:22.972Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 10.35,
+          "heightDelta": 4,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 10.35% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-news-detail-108480-html",
+      "path": "/en/technical/news-detail-108480",
+      "title": "Linde Material Handling receives large-scale order for lithium-ion trucks",
+      "templateId": "en-technical-news-detail-101184-html",
+      "representative": "en-technical-news-detail-101184-html",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:99463c7ed51901477f56b58ab7732d1d401e720428915ff600c9aed5cc79fb1e",
+        "currentStatePath": "stardust/current/pages/en-technical-news-detail-108480-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "share-bar",
+        "media-carousel",
+        "press-contact"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/news-detail-108480",
+        "deployedAt": "2026-10-06T20:20:23.018Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.76,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-news-detail-112000-html",
+      "path": "/en/technical/news-detail-112000",
+      "title": "Explosion protection from a single source",
+      "templateId": "en-technical-news-detail-101184-html",
+      "representative": "en-technical-news-detail-101184-html",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:2c70055c6db03b1d785696f2d5ea3c35cfd964b3ee60b7308f6e08c58bf8f3d6",
+        "currentStatePath": "stardust/current/pages/en-technical-news-detail-112000-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "share-bar",
+        "media-carousel",
+        "press-contact"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/news-detail-112000",
+        "deployedAt": "2026-10-06T20:20:23.065Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 15.36,
+          "heightDelta": 27,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 15.36% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-news-detail-114368-html",
+      "path": "/en/technical/news-detail-114368",
+      "title": "Service the smart way",
+      "templateId": "en-technical-news-detail-101184-html",
+      "representative": "en-technical-news-detail-101184-html",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:9be00095f600625551968acbceeda01da6a50f1e390c5f36d16d2dcbcf3fa984",
+        "currentStatePath": "stardust/current/pages/en-technical-news-detail-114368-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "share-bar",
+        "media-carousel",
+        "press-contact"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/news-detail-114368",
+        "deployedAt": "2026-10-06T20:20:23.114Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.04,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-news-detail-116352-html",
+      "path": "/en/technical/news-detail-116352",
+      "title": "For the ninth time in succession",
+      "templateId": "en-technical-news-detail-101184-html",
+      "representative": "en-technical-news-detail-101184-html",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:a43fc2894a5048b390ef9f192d1b865ce5770034ddbefc7923b521757fa90b9f",
+        "currentStatePath": "stardust/current/pages/en-technical-news-detail-116352-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "share-bar",
+        "media-carousel",
+        "press-contact"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/news-detail-116352",
+        "deployedAt": "2026-10-06T20:20:23.166Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 5.66,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-news-detail-118656-html",
+      "path": "/en/technical/news-detail-118656",
+      "title": "Trolley transport rethought",
+      "templateId": "en-technical-news-detail-101184-html",
+      "representative": "en-technical-news-detail-101184-html",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:0f282bdeaef78cd6d0a83752a000f268b80201b0bf169a005af3d8a78eecacca",
+        "currentStatePath": "stardust/current/pages/en-technical-news-detail-118656-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "share-bar",
+        "media-carousel",
+        "press-contact"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/news-detail-118656",
+        "deployedAt": "2026-10-06T20:20:23.212Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 15.85,
+          "heightDelta": 30,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 15.85% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-news-detail-119232-html",
+      "path": "/en/technical/news-detail-119232",
+      "title": "Linde Material Handling wins EcoVadis Sustainability Award",
+      "templateId": "en-technical-news-detail-101184-html",
+      "representative": "en-technical-news-detail-101184-html",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:0568bfd83f218362246fdf0e4b7bfdb65582fd13f8a3ae458eb80580dcf3e4be",
+        "currentStatePath": "stardust/current/pages/en-technical-news-detail-119232-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "share-bar",
+        "media-carousel",
+        "press-contact"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/news-detail-119232",
+        "deployedAt": "2026-10-06T20:20:23.260Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.01,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-news-detail-1254145-html",
+      "path": "/en/technical/news-detail-1254145",
+      "title": "The true winner is safety",
+      "templateId": "en-technical-news-detail-101184-html",
+      "representative": "en-technical-news-detail-101184-html",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:62580d19c1f746511ece154aa79ab57be6dc45d8fbe8103f135a079c030683bd",
+        "currentStatePath": "stardust/current/pages/en-technical-news-detail-1254145-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "share-bar",
+        "media-carousel",
+        "press-contact"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/news-detail-1254145",
+        "deployedAt": "2026-10-06T20:20:23.308Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 6.78,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-news-detail-1310802-html",
+      "path": "/en/technical/news-detail-1310802",
+      "title": "Wider choice for more efficient operation",
+      "templateId": "en-technical-news-detail-101184-html",
+      "representative": "en-technical-news-detail-101184-html",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:7db78dbbf28d28ea056b1f545c15a0bad00496c0fe806edfeb6e6ada32aedfea",
+        "currentStatePath": "stardust/current/pages/en-technical-news-detail-1310802-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "share-bar",
+        "media-carousel",
+        "press-contact"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/news-detail-1310802",
+        "deployedAt": "2026-10-06T20:20:23.356Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.08,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-news-detail-132012-html",
+      "path": "/en/technical/news-detail-132012",
+      "title": "Perfect strategic fit",
+      "templateId": "en-technical-news-detail-101184-html",
+      "representative": "en-technical-news-detail-101184-html",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:16736e74fb3d9981a2bd0d9e811b721595c462b38cae80dc23d37c2d66b41c32",
+        "currentStatePath": "stardust/current/pages/en-technical-news-detail-132012-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "share-bar",
+        "media-carousel",
+        "press-contact"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/news-detail-132012",
+        "deployedAt": "2026-10-06T20:20:23.406Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 15.32,
+          "heightDelta": 68,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 15.32% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-news-detail-1436407-html",
+      "path": "/en/technical/news-detail-1436407",
+      "title": "Early warning",
+      "templateId": "en-technical-news-detail-101184-html",
+      "representative": "en-technical-news-detail-101184-html",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:b12ea51028a6482ed155641588d052cd263ed4d03db750b96fd78975feb9f3ac",
+        "currentStatePath": "stardust/current/pages/en-technical-news-detail-1436407-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "share-bar",
+        "media-carousel",
+        "press-contact"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/news-detail-1436407",
+        "deployedAt": "2026-10-06T20:20:23.452Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 15.48,
+          "heightDelta": -46,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 3,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 15.48% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-news-detail-1445120-html",
+      "path": "/en/technical/news-detail-1445120",
+      "title": "Fit for the future",
+      "templateId": "en-technical-news-detail-101184-html",
+      "representative": "en-technical-news-detail-101184-html",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:aa25d366461bc248df84b008823ca13d5c0d4f8fd64cf1937b1cfbc97a450ca1",
+        "currentStatePath": "stardust/current/pages/en-technical-news-detail-1445120-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "share-bar",
+        "media-carousel",
+        "press-contact"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/news-detail-1445120",
+        "deployedAt": "2026-10-06T20:20:23.501Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 14.23,
+          "heightDelta": 54,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 7,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 14.23% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-news-detail-1710976-html",
+      "path": "/en/technical/news-detail-1710976",
+      "title": "Larger stand, loads of innovations and, for the first time ever, outdoor exhibition areas",
+      "templateId": "en-technical-news-detail-101184-html",
+      "representative": "en-technical-news-detail-101184-html",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:2b65d87af8b8335a878996941045be81d29a72cb1be738c84cbe566583e4521e",
+        "currentStatePath": "stardust/current/pages/en-technical-news-detail-1710976-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "share-bar",
+        "media-carousel",
+        "press-contact"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/news-detail-1710976",
+        "deployedAt": "2026-10-06T20:20:23.554Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 7.97,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    },
+    {
+      "slug": "en-technical-news-detail-18902-html",
+      "path": "/en/technical/news-detail-18902",
+      "title": "Linde opens new Remanufacturing Center for Used Trucks in the Czech Republic",
+      "templateId": "en-technical-news-detail-101184-html",
+      "representative": "en-technical-news-detail-101184-html",
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:089e68c2746270a692af232b00ed8c5a8ae8f02111477f3354a57840b1d34db2",
+        "currentStatePath": "stardust/current/pages/en-technical-news-detail-18902-html.json"
+      },
+      "blocks": [
+        "breadcrumb",
+        "share-bar",
+        "media-carousel",
+        "press-contact"
+      ],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--96d6da00--aemcoder.aem.page/en/technical/news-detail-18902",
+        "deployedAt": "2026-10-06T20:20:23.602Z",
+        "verifiedAt": "2026-10-09T02:08:24.969Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 14.54,
+          "heightDelta": -3,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": []
+          },
+          "reasons": [
+            "pixel 14.54% > 10%"
+          ],
+          "override": "DELIVERED (documented residual)",
+          "table": "stardust/replica/gates/all-both/summary.json",
+          "at": "2026-10-09T02:07:36.612Z"
+        }
+      }
+    }
+  ]
+}

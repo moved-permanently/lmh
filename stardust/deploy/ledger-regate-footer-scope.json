@@ -1,0 +1,11 @@
+{
+  "/en/landingpage/semi-automated-order-pickers": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:20:01.075Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

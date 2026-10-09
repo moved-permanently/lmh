@@ -1,0 +1,90 @@
+{
+ "source": "http://localhost:8803/stardust/migrated/en/technical/News-Detail_1254145.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The true winner is safety"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "9 Oct 2019"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Linde Material Handling receives Excellence Award at inter airport Europe 2019"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Linde Material Handling has won the Excellence Award of inter airport Europe 2019 in the category “interRAMP” for its innovative “Linde Safety Guard” assistance system which helps to protect both pedestrians and forklift drivers. The award was presented on October 8 as part of the opening ceremony at the Munich Trade Fair Center."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The Linde Safety Guard assistance system works using ultra-wideband (UWB) technology. The mobile, forklift-mounted units transmit radio signals with centimeter precision, even through walls and doors, and warn drivers and pedestrians of potential collisions via acoustic, visual and tactile signals. In this way, they prevent accidents and increase operational safety. This concept convinced the airport industry experts who voted in an online poll on a total of 55 submissions for new equipment, products and services. “We are delighted to receive the award and are confident that the system will enhance the working environment of logistics employees, helping to keep them safe and healthy, while also increasing productivity in ground handling,” said Product Manager Fabian Zimmermann, who accepted the award on behalf of Linde Material Handling."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "As in recent years, the trade fair organizers announced the Excellence Awards to honor product innovations in the four exhibition categories interTERMINAL, interRAMP, interDATA and interDESIGN. Linde Material Handling received the highest number of votes in the “interRamp” category, consequently emerging as the winner. The interRamp category encompasses the key areas of ground handling, ground support equipment and airfield construction and installations."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Conferring the Excellence Award of inter airport Europe 2019 in the category “interRAMP” (f.l.t.r.): Nicola Hamann, General Manager Mack Brooks Exhibitions Ltd., Benjamin Reis, Manager Safety Sales, and Fabian Zimmermann, Productmanager, both Linde Material Handling GmbH, Dr. Michael Kerkloh, Chairman of the Board of Directors Flughafen München GmbH, and Kay Bärenfänger, Präsident German Airport Technology & Equipment e. V."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "inter airport Europe 2019 – International Exhibition for Airport Equipment, Technology, Design & Service – is open until 11 October 2019. In addition to its range of tow tractors, intralogistics specialist Linde Material Handling is showcasing its extensive portfolio of safety solutions and assistance systems on the outdoor grounds (Stand E56). Alongside the “Linde Safety Guard” system, these include the “Linde Safety Scan”, a standardized consulting service aimed at the systematic improvement of safety in ground handling, the Linde Roadster forklift truck model which offers optimized visibility, the “Linde Safety Pilot” assistance system which acts as an intelligent passenger with electronic load diagram, the lighting solutions BlueSpot, TruckSpot, LED Stripes and VertiLight as well as the assistance system “Linde connect:zi - zone intelligence” which provides dynamic speed control for industrial trucks."
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "Trade Press"
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Heike Oder"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "+49 6021 991277",
+     "href": "tel:+49 6021 991277"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Send email",
+     "href": "mailto:heike....oder@@@@linde-mh....de"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 11,
+   "repeats": []
+  }
+ ]
+}

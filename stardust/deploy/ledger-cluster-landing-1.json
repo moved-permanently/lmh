@@ -1,0 +1,146 @@
+{
+  "/en/about-us/company": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:03:48.658Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/working-at-linde": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:03:48.658Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/agility-on-point": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:03:55.956Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/automation-summit-2025": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:03:57.000Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/compact-class-with-electric-drive": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:04:02.196Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/glasses": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:04:03.990Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/gse-expo": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:04:09.264Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/h-models": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:04:10.112Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/happy-driver": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:04:15.562Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/in-sync": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:04:17.624Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/logimat": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:04:22.422Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/next-champ": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:04:23.691Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/platform-counterbalanced-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:04:29.289Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/r-matic": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:04:29.863Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/safely-to-the-top": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:04:35.090Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/x-models": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:04:36.292Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

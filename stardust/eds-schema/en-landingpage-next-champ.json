@@ -1,0 +1,372 @@
+{
+ "source": "http://localhost:8802/stardust/migrated/en/Landingpage/Next-Champ/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Linde electric forklift trucks E14 – E20 and Xi10 – Xi20"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The time has come for a new champ."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more about the new models",
+     "href": "../../../en/Landingpage/Compact-class-with-electric-drive/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [],
+   "imgCount": 1,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Get in touch with our experts now!",
+     "href": "https://www.linde-mh.com/en/Forms-GC/Next-Champ-Form/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "THE NEXT CHAMP"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Made to win."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "To become the next champion and to earn your place as the worthy heir to a legend, you have to work hard on yourself. Linde Material Handling's new one- to two-ton series offers two models, the E14 – E20 and Xi10 – Xi20, with a total of 26 variants to tackle every challenge in the logistics process. The electric forklift trucks have been put through their paces to triumph in all disciplines."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Get to know the new models here",
+     "href": "../../../en/Landingpage/Compact-class-with-electric-drive/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "5",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Get in shape – with a newly developed chassis for optimum visibility and comfort."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Find out more about THE NEXT CHAMP",
+     "href": "../../../en/Landingpage/Compact-class-with-electric-drive/index.html#fsSectionId_2737381"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Increase impact power and agile reaction time – 90-volt technology helps you attain unparalleled performance and maximum throughput."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Find out more about THE NEXT CHAMP",
+     "href": "../../../en/Landingpage/Compact-class-with-electric-drive/index.html#fsSectionId_2737372"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Perfect your footwork – more legroom, ergonomic access, and the proven Linde double pedal."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Find out more about THE NEXT CHAMP",
+     "href": "../../../en/Landingpage/Compact-class-with-electric-drive/index.html#fsSectionId_2737371"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Enhance your endurance – by optimizing energy consumption and reducing your overall operating costs."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Find out more about THE NEXT CHAMP",
+     "href": "../../../en/Landingpage/Compact-class-with-electric-drive/index.html#fsSectionId_2737383"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Never drop your guard – with innovative safety assistance systems, such as the Reverse Assist Camera with automatic person detection."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Find out more about THE NEXT CHAMP",
+     "href": "../../../en/Landingpage/Compact-class-with-electric-drive/index.html#fsSectionId_2737382"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Event"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The NEXT CHAMP live on stage. Experience the new electric forklift trucks up close in their many diverse configurations at our roadshows."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Experience live",
+     "href": "https://www.linde-mh.com/en/About-us/Events/"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "Which champ is the right one for you?"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Get to know our 26 model variants and find your personal champion."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more now",
+     "href": "../../../en/Landingpage/Compact-class-with-electric-drive/index.html#fsSectionId_2737376"
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Technical details"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Not only a powerhouse, but also technically always ahead of the curve. Find out what makes a real champ."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "More details",
+     "href": "../../../en/Landingpage/Compact-class-with-electric-drive/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Contact our experts to arrange a consultation!",
+     "href": "https://www.linde-mh.com/en/Forms-GC/Next-Champ-Form/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The benchmark in performance and ergonomics, and featuring safety assistance systems for outstanding protection – win in every round of your logistics challenges."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde E14 – E20 and Xi10 – Xi20"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "MADE TO WIN."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

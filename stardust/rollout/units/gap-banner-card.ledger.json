@@ -1,0 +1,83 @@
+{
+  "/en/about-us/company": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T06:48:26.141Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/sustainability": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T06:48:26.142Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/gse-expo": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T06:48:26.142Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/h-models": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T06:48:32.147Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/in-sync": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T06:48:32.148Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/energy-systems": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T06:48:33.149Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/financing": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T06:48:37.870Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/fleet-management": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T06:48:38.421Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/warehouse-safety": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T06:48:38.795Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

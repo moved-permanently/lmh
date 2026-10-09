@@ -1,0 +1,755 @@
+{
+ "source": "http://localhost:8805/stardust/migrated/en/About-us/Events/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Events"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Experience the difference"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Upcoming Events",
+     "href": "#2977521"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Past Events",
+     "href": "#2977523"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Meet us in person and discover solutions that will sustainably boost efficiency, safety, and productivity in your business."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "See our high-performance products in action at our upcoming trade shows, conferences, and exclusive Linde MH events."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "We look forward to seeing you!"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.intro",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Upcoming Events"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "-"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "29. September 2026"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "01. October 2026"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Tampere, Finland"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Alihankinta Subcontracting Fair"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Additional information",
+     "href": "https://alihankinta.fi/newfront"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "-"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "01. October 2026"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "03. October 2026"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Libreville, Gabon"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "SAIL 2026"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Additional information",
+     "href": "https://www.sail.ga/"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "-"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "06. October 2026"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "08. October 2026"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "Nantes, France"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "Salon Industrie Grand-Ouest"
+    },
+    {
+     "role": "cta",
+     "order": 17,
+     "text": "Additional information",
+     "href": "https://www.industrie-nantes.com/"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "-"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "22. October 2026"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "24. October 2026"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "Aschaffenburg, Germany"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "StaplerCup Finals 2026 | Forklift World Championship"
+    },
+    {
+     "role": "cta",
+     "order": 23,
+     "text": "Additional information",
+     "href": "https://www.staplercup.com/en/"
+    },
+    {
+     "role": "body",
+     "order": 24,
+     "text": "-"
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "26. October 2026"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "27. October 2026"
+    },
+    {
+     "role": "body",
+     "order": 27,
+     "text": "Gardermoen, Norway"
+    },
+    {
+     "role": "body",
+     "order": 28,
+     "text": "Transport & Logistikk"
+    },
+    {
+     "role": "cta",
+     "order": 29,
+     "text": "Additional information",
+     "href": "https://www.nholt.no/tl/"
+    },
+    {
+     "role": "body",
+     "order": 30,
+     "text": "-"
+    },
+    {
+     "role": "body",
+     "order": 31,
+     "text": "28. October 2026"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "30. October 2026"
+    },
+    {
+     "role": "body",
+     "order": 33,
+     "text": "Kyiv, Ukraine"
+    },
+    {
+     "role": "body",
+     "order": 34,
+     "text": "InSKLAD"
+    },
+    {
+     "role": "cta",
+     "order": 35,
+     "text": "Additional information",
+     "href": "https://insklad.com.ua/en"
+    },
+    {
+     "role": "body",
+     "order": 36,
+     "text": "-"
+    },
+    {
+     "role": "body",
+     "order": 37,
+     "text": "03. November 2026"
+    },
+    {
+     "role": "body",
+     "order": 38,
+     "text": "05. November 2026"
+    },
+    {
+     "role": "body",
+     "order": 39,
+     "text": "Utrecht, Netherlands"
+    },
+    {
+     "role": "body",
+     "order": 40,
+     "text": "Logistica Next 2026"
+    },
+    {
+     "role": "cta",
+     "order": 41,
+     "text": "Additional information",
+     "href": "https://www.loginext.nl/en/logistica-next/bezoeken"
+    },
+    {
+     "role": "body",
+     "order": 42,
+     "text": "-"
+    },
+    {
+     "role": "body",
+     "order": 43,
+     "text": "11. November 2026"
+    },
+    {
+     "role": "body",
+     "order": 44,
+     "text": "12. November 2026"
+    },
+    {
+     "role": "body",
+     "order": 45,
+     "text": "Madrid, Spain"
+    },
+    {
+     "role": "body",
+     "order": 46,
+     "text": "Logistics & Automation"
+    },
+    {
+     "role": "cta",
+     "order": 47,
+     "text": "Additional information",
+     "href": "https://www.logisticsautomationmadrid.com/es/"
+    },
+    {
+     "role": "body",
+     "order": 48,
+     "text": "-"
+    },
+    {
+     "role": "body",
+     "order": 49,
+     "text": "23. November 2026"
+    },
+    {
+     "role": "body",
+     "order": 50,
+     "text": "26. November 2026"
+    },
+    {
+     "role": "body",
+     "order": 51,
+     "text": "Erbil, Iraq"
+    },
+    {
+     "role": "body",
+     "order": 52,
+     "text": "AGRO PACK"
+    },
+    {
+     "role": "cta",
+     "order": 53,
+     "text": "Additional information",
+     "href": "https://agropackiraq.com/"
+    },
+    {
+     "role": "body",
+     "order": 54,
+     "text": "-"
+    },
+    {
+     "role": "body",
+     "order": 55,
+     "text": "24. November 2026"
+    },
+    {
+     "role": "body",
+     "order": 56,
+     "text": "26. November 2026"
+    },
+    {
+     "role": "body",
+     "order": 57,
+     "text": "Grenoble, France"
+    },
+    {
+     "role": "body",
+     "order": 58,
+     "text": "SEPEM Industries"
+    },
+    {
+     "role": "cta",
+     "order": 59,
+     "text": "Additional information",
+     "href": "https://grenoble.sepem-industries.com/"
+    },
+    {
+     "role": "body",
+     "order": 60,
+     "text": "-"
+    },
+    {
+     "role": "body",
+     "order": 61,
+     "text": "01. December 2026"
+    },
+    {
+     "role": "body",
+     "order": 62,
+     "text": "03. December 2026"
+    },
+    {
+     "role": "body",
+     "order": 63,
+     "text": "Bordeaux, France"
+    },
+    {
+     "role": "body",
+     "order": 64,
+     "text": "Vinitech Sifel"
+    },
+    {
+     "role": "cta",
+     "order": 65,
+     "text": "Additional information",
+     "href": "https://www.vinitech-sifel.com/"
+    },
+    {
+     "role": "body",
+     "order": 66,
+     "text": "-"
+    },
+    {
+     "role": "body",
+     "order": 67,
+     "text": "09. December 2026"
+    },
+    {
+     "role": "body",
+     "order": 68,
+     "text": "11. December 2026"
+    },
+    {
+     "role": "body",
+     "order": 69,
+     "text": "Leeuwarden, Netherlands"
+    },
+    {
+     "role": "body",
+     "order": 70,
+     "text": "Agricultural Fair"
+    },
+    {
+     "role": "cta",
+     "order": 71,
+     "text": "Additional information",
+     "href": "https://ahlmann.nl/en/calendar/agricultural-fair-leeuwarden/"
+    },
+    {
+     "role": "body",
+     "order": 72,
+     "text": "-"
+    },
+    {
+     "role": "body",
+     "order": 73,
+     "text": "17. December 2026"
+    },
+    {
+     "role": "body",
+     "order": 74,
+     "text": "20. December 2026"
+    },
+    {
+     "role": "body",
+     "order": 75,
+     "text": "Cairo, Egypt"
+    },
+    {
+     "role": "body",
+     "order": 76,
+     "text": "Handling Expo"
+    },
+    {
+     "role": "cta",
+     "order": 77,
+     "text": "Additional information",
+     "href": "https://handlingexpo.com/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 26,
+   "repeats": [
+    {
+     "unitSelector": "DIV.calendar-event",
+     "count": 13,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 6
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Past events"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "LogiMAT 2026",
+     "href": "../../../en/Landingpage/Logimat/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "At LogiMAT 2026 in Stuttgart, visitors explored our automation and digital solutions alongside innovative vehicles and energy concept - all under our motto: \"Composed Around You.\""
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Landingpage/Logimat/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Automation Summit 2025",
+     "href": "../../../en/Landingpage/Automation-Summit-2025/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "In November, we brought together experts, customers, and partners from around Europe at our Linde Experience Hub in Aschaffenburg. The event highlighted our commitment to accessible, cost‑effective automation tailored to your needs."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/Landingpage/Automation-Summit-2025/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "StaplerCup Finals",
+     "href": "https://www.staplercup.com/en/"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Thrilling action, top‑level competition, and the world’s best forklift community – that’s the StaplerCup. Watch the best drivers compete live at the StaplerCup Finals at the LINDE MH ARENA in Aschaffenburg."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "https://www.staplercup.com/en/"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Linde Material Handling at A+A 2025",
+     "href": "../../../en/About-us/Magazine/A-A-Fair-for-Safety.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Driven by the motto “Vision ZERO. Safety in your world,” we attended the A+A in Düsseldorf. At the international trade fair and congress for personal protection and occupational health and safety, Linde MH presented a range of solutions, including the Reverse Assist Radar assistance system."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/A-A-Fair-for-Safety.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "World of Material Handling 2022",
+     "href": "https://www.worldofmaterialhandling.com/en/"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "From June 20–30, we had the pleasure of welcoming large numbers of visitors from around the world to the Mannheim May Market. In the spirit of the tagline “YOUR WAY IS OUR WAY”, our guests had the opportunity to test all of the trucks, technologies, and tools on offer from Linde MH and its partners."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "https://www.worldofmaterialhandling.com/en/"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "See you soon!"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "2"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "3"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "4"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "5"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "6"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "7"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "8"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "9"
+    }
+   ],
+   "imgCount": 9,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.media-carousel-item",
+     "count": 9,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 8,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

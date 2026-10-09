@@ -1,0 +1,303 @@
+{
+  "url": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+  "width": 1440,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "form-section__header",
+      "position": "static",
+      "height": "68.6719px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "form-section__header",
+      "position": "static",
+      "height": "68.6719px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 865,
+      "cls": "form-section__header",
+      "position": "static",
+      "height": "68.6719px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 865,
+      "cls": "form-section__header",
+      "position": "static",
+      "height": "68.6719px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 800,
+      "cls": "form-section__header",
+      "position": "static",
+      "height": "68.6719px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 500,
+      "cls": "form-section__header",
+      "position": "static",
+      "height": "68.6719px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 300,
+      "cls": "form-section__header",
+      "position": "static",
+      "height": "68.6719px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 200,
+      "cls": "form-section__header",
+      "position": "static",
+      "height": "68.6719px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 150,
+      "cls": "form-section__header",
+      "position": "static",
+      "height": "68.6719px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 120,
+      "cls": "form-section__header",
+      "position": "static",
+      "height": "68.6719px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 90,
+      "cls": "form-section__header",
+      "position": "static",
+      "height": "68.6719px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 60,
+      "cls": "form-section__header",
+      "position": "static",
+      "height": "68.6719px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 30,
+      "cls": "form-section__header",
+      "position": "static",
+      "height": "68.6719px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "form-section__header",
+      "position": "static",
+      "height": "68.6719px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": null,
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    }
+  ],
+  "widgetSamples": [],
+  "hoverSamples": [],
+  "events": {
+    "animations": [],
+    "transitions": [],
+    "classMutations": [
+      {
+        "added": [
+          "small-state"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state",
+        "y": 366
+      },
+      {
+        "added": [
+          "small-state"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state",
+        "y": 366
+      },
+      {
+        "added": [
+          "small-state"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state",
+        "y": 366
+      },
+      {
+        "added": [
+          "stickystacky-enabled",
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state.stickystacky-enabled",
+        "y": 366
+      },
+      {
+        "added": [
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state.stickystacky-enabled",
+        "y": 366
+      },
+      {
+        "added": [
+          "stickystacky-enabled",
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.subheader.subheader__breadcrumb.stickystacky-enabled",
+        "y": 366
+      },
+      {
+        "added": [
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.subheader.subheader__breadcrumb.stickystacky-enabled",
+        "y": 366
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.small",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.small",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.small",
+        "y": 60
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.normal-state",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.normal-state",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.normal-state",
+        "y": 30
+      }
+    ]
+  }
+}

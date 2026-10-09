@@ -1,0 +1,29 @@
+{
+  "/en/products/diesel-forklifts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T17:18:58.819Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/forklift-hire": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T17:18:58.819Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/forklift-truck": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T17:19:05.813Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

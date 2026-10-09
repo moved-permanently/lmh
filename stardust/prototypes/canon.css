@@ -1,0 +1,441 @@
+/* canon.css — linde-mh.com/en replica, shared layer (tokens, base type, links, buttons, icon font, header, footer, share-bar).
+   Created by the static archetype `en-legal-notes-privacy-statement` (2026-10-06). Later archetypes import this file and APPEND
+   new shared modules under a `/* module: <name> — from <slug> *​/` comment; page-specific rules live in stardust/prototypes/<slug>.css.
+
+   Lifted from: stardust/current/assets/css/index_style_bundle_lmh.css (:root @21; html/body @13807/@16110/@16259; .body-container
+   @16759/@48533; .header @45624/@48084/@48582; .stickystacky-wrapper @17258; .subheader__breadcrumb @48482/@49288; .footer family
+   @50739–@53711; .btn family @167673–@178030; .icon @13443), the computed-style census and a live measure.mjs pass at 1440 + 360.
+   Box model: every measured container family on the source (body-container, header/navigation/menu, subheader, footer, layout
+   wrappers, article column, p/ul/li) computes `box-sizing: border-box` → declared per block below, NEVER as a universal reset.
+   Root type: 16px, 18px from 640px (source `@media (min-width:640px){body,html{font-size:18px}}`). Mobile/desktop chrome breakpoint: 1024px.
+   Fonts: FF Daxline Pro (licensed) → Nunito Sans substitute, brand family first (stardust/replica/fonts.md). Noto Sans Variable and
+   LindeGlobalIconFont self-hosted as captured. Icon glyph codepoints from the census (`iconFont.glyphs`).
+   Scroll chrome: the live header morphs `normal-state` → `small-state` at scrollY ≥ 86 (source JS scrollBreakpointMax; 48 = scrollBreakpointSmall)
+   inside a fixed `.stickystacky-wrapper` — see chrome.js for the observed state machine. */
+
+/* ---------- tokens (source :root, verbatim) ---------- */
+:root {
+  --color-red: #aa0020; --color-toned-red: #cc132a; --color-darkred: #990e1f; --color-darkgrey: #222; --color-text-darkgrey: #444;
+  --color-textgrey: #4a595c; --color-toned-textgrey: #5e7175; --color-shadegrey: #e6e7eb; --color-lightgrey: #eeeff3;
+  --color-hover-lightgrey: #f5f6fa; --color-white: #fff; --color-form-lightgrey: #cccdd1; --color-form-darkgrey: #9b9b9e;
+  --color-black: #222; --color-form-validation: red; --color-green: #77b340;
+  --color-toned-green: color-mix(in srgb, var(--color-green), #fff 10%); --color-darkgreen: color-mix(in srgb, var(--color-green), #000 10%);
+  --color-primary-700: #94001d; --color-primary-900: #700016; --color-carousel-grey: #354042; --color-carousel-lightgrey: #6b6b6a;
+  --color-carousel-red: #ba1926; --color-facebook: #3b5998; --color-twitter: #000; --color-xing: #126567; --color-youtube: #cd201f;
+  --color-vimeo: #1ab7ea; --color-twitch: #6441a5; --color-whatsapp: #25d366; --color-linkedin: #0077b5; --color-googleplus: #d34836;
+  --color-baidu: #de0f17; --color-pinterest: #bd081c; --color-instagram: #e1306c; --color-blogger: #f57d00; --color-flickr: #0063dc;
+  --color-kununu: #000; --color-tiktok: #000; --color-toned-red2: #ba1926; --color-lightgrey2: #e4e5ea;
+  --font-face: "DaxlineWebPro"; --font-face-bold: "DaxlineWebPro-Bold"; --font-face-italic: "DaxlineWebPro-Italic";
+  --font-face-medi: "DaxWebPro-Medi"; --font-face-light: "DaxWebPro-Light";
+  --color-lmh-grey-200: #dcdcdf; --color-lmh-grey-300: #cccdd1;
+  /* replica additions: the substitute faces, so every stack reads brand-first then substitute */
+  --font-sub: "NunitoSans"; --font-sub-bold: "NunitoSans-Bold";
+}
+
+/* ---------- fonts ---------- */
+@font-face { font-family: "NunitoSans"; src: url(fonts/NunitoSans-400.woff2) format("woff2"); font-weight: 400; font-style: normal; font-display: swap;
+  ascent-override: 74%; descent-override: 26%; line-gap-override: 0%; }
+/* alias face: the source selects bold by FAMILY (DaxWebPro-Medi / DaxlineWebPro-Bold) at computed weight 400 — mirrored */
+@font-face { font-family: "NunitoSans-Bold"; src: url(fonts/NunitoSans-700.woff2) format("woff2"); font-weight: 700; font-style: normal; font-display: swap;
+  ascent-override: 74%; descent-override: 26%; line-gap-override: 0%; }
+@font-face { font-family: "LindeGlobalIconFont"; src: url(fonts/LindeGlobalIconFont.ttf) format("truetype"); font-weight: 400; font-style: normal; font-display: block; }
+@font-face { font-family: "NotoSans-Variable-Light"; src: url(fonts/NotoSans-Variable.woff2) format("woff2"); font-style: normal; font-weight: 300; font-variation-settings: "wdth" 85, "wght" 300; font-display: swap; }
+@font-face { font-family: "NotoSans-Variable-Regular"; src: url(fonts/NotoSans-Variable.woff2) format("woff2"); font-style: normal; font-weight: 400; font-variation-settings: "wdth" 90, "wght" 400; font-display: swap; }
+@font-face { font-family: "NotoSans-Variable-Medi"; src: url(fonts/NotoSans-Variable.woff2) format("woff2"); font-style: normal; font-weight: 650; font-variation-settings: "wdth" 82, "wght" 650; font-display: swap; }
+@font-face { font-family: "NotoSans-Variable-Bold"; src: url(fonts/NotoSans-Variable.woff2) format("woff2"); font-style: normal; font-weight: 800; font-variation-settings: "wdth" 82, "wght" 800; font-display: swap; }
+
+/* ---------- base ---------- */
+html { font-family: var(--font-face), var(--font-sub), Arial, sans-serif; color: var(--color-darkgrey); line-height: 150%; font-size: 16px;
+  font-feature-settings: "lnum" 1; height: 100%; -webkit-text-size-adjust: 100%; -webkit-tap-highlight-color: rgba(0,0,0,0);
+  -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+@media (min-width: 640px) { body, html { font-size: 18px; } }
+body { margin: 0; min-height: 100%; height: 100%; position: relative; color: var(--color-darkgrey); }
+a, a:active, a:focus, a:visited { color: var(--color-red); text-decoration: none; line-height: 1; background-color: transparent; }
+a:hover { color: var(--color-primary-700); }
+p { line-height: 1.75; }
+img { border: 0; }
+button { font: inherit; color: inherit; }
+
+.body-container { box-sizing: border-box; overflow-x: hidden; min-height: 100%; margin: auto; max-width: 1600px; position: relative; }
+@media (min-width: 1024px) { .body-container { padding-top: 48px; overflow: hidden; } }
+
+/* ---------- icon font ---------- */
+.icon { font-family: LindeGlobalIconFont; display: inline-block; vertical-align: middle; line-height: 1; font-weight: 400; font-style: normal;
+  font-size: 24px; speak: none; text-decoration: inherit; text-transform: none; text-rendering: auto; -webkit-font-smoothing: antialiased; }
+.icon-LMHIconmenublack:before { content: "\f142"; }
+.icon-LMHIconleftblack:before { content: "\f13d"; }
+.icon-LMHIconrightblack:before { content: "\f153"; }
+.icon-LMHIconclosecancelblack:before { content: "\f12d"; }
+.icon-LMHIcondownblack:before { content: "\f12f"; }
+.icon-LMHIconpinblack:before { content: "\f14b"; }
+.icon-LMHIconsearchblack:before { content: "\f154"; }
+.icon-LMHIconlogoutblack:before { content: "\f13e"; }
+.icon-LMHIconmailblack:before { content: "\f13f"; }
+.icon-LMHIconprintblack:before { content: "\f14f"; }
+.icon-LMHIconplayblack:before { content: "\f14c"; }
+.icon-linkedin:before, .btn--linkedin .icon-do-not-use:before { content: "\f107"; }
+.icon-facebook:before, .btn--facebook .icon-do-not-use:before { content: "\f103"; }
+.btn--instagram .icon-do-not-use:before { content: "\f106"; }
+.btn--youtube .icon-do-not-use:before { content: "\f196"; }
+a.external_link_icon:after { font-family: LindeGlobalIconFont; content: "\00a0\f19f"; position: relative; top: 3px; }
+li a.external_link_icon:after { color: var(--color-textgrey); }
+li a.external_link_icon:hover:after { color: var(--color-red); }
+
+/* ---------- buttons (source .btn family; the replica puts the .btn classes on the <a> itself instead of a nested div) ---------- */
+.btn { box-sizing: border-box; display: inline-block; position: relative; padding: 8px 16px; line-height: 30px; font-size: 1rem; text-align: center;
+  border: 1px solid transparent; cursor: pointer; background: none; }
+.btn--primary { background-color: var(--color-red); color: var(--color-white); }
+.btn--primary:hover { background-color: var(--color-primary-700); color: var(--color-white); }
+.btn--primary:active { background-color: var(--color-primary-900); color: var(--color-white); }
+.btn.stretch { display: block; width: 100%; }
+.btn--icon, .btn--social { height: 48px; width: 48px; padding: 12px; line-height: 0; }
+.btn--icon .icon, .btn--social .icon, .with-icon .icon { display: inline-block; height: 24px; width: 24px; margin-right: 10px; text-align: right; line-height: 24px; margin-top: 0; }
+.btn--icon .icon, .btn--social .icon { margin-right: 0; }
+.btn.no-background { background: transparent; }
+.btn--meta { color: var(--color-textgrey); width: auto; font-size: 15px; padding: 4px; height: 32px; line-height: 24px; }
+.btn--meta .icon { font-size: 16px; margin-right: 10px; }
+.btn--meta:hover { background-color: transparent; color: var(--color-red); }
+.btn--facebook, .btn--facebook:hover { color: var(--color-facebook); }
+.btn--linkedin, .btn--linkedin:hover { color: var(--color-linkedin); }
+.btn--instagram, .btn--instagram:hover { color: var(--color-instagram); }
+.btn--youtube, .btn--youtube:hover { color: var(--color-youtube); }
+a.textlink { font-family: var(--font-face-medi), var(--font-sub-bold), Arial, sans-serif; font-weight: 700; }
+
+/* ---------- header (source .header / .navigation / .menu_nav / .navigation_meta) ---------- */
+.stickystacky-wrapper { position: fixed; transform: translateY(-100%); width: 100%; z-index: 9999; left: 0; top: 0; transition: transform .5s ease-in-out; }
+.header, .header * { box-sizing: border-box; }
+.header { width: 100%; top: 0; background: var(--color-white); z-index: 901; position: relative; max-width: 1600px; height: 56px; }
+.header ul { list-style: none; margin: 0; padding: 0; }
+.btn__link { color: inherit; }
+.navigation { position: relative; background: var(--color-white); padding: 6px; height: 56px; border-bottom: 1px solid var(--color-lightgrey); }
+.navigation_logo { display: flex; align-items: flex-start; height: 56px; }
+.logo_link { display: block; padding-left: 11px; }
+.logo_link img { display: block; width: 75px; height: auto; max-width: 150px; }
+.logo_link_secondary { display: none; }
+.navigation_burger { position: absolute; right: 0; top: 0; width: 56px; height: 56px; text-align: center; line-height: 56px; color: var(--color-red); }
+.navigation_burger .btn { width: 56px; height: 56px; padding: 16px; line-height: 0; color: var(--color-darkgrey); }
+/* mobile: the menu is an off-canvas panel (live: translated beyond the overflow-hidden body); closed at t=0 → not rendered.
+   Its row rules are still declared (measured at 360) so the hidden DOM classifies like live (uppercase .95rem rows). */
+.navigation_menu { display: none; }
+.menu_nav > li { padding: 0 16px; font-size: .95rem; line-height: 56px; text-align: center; border-bottom: 1px solid var(--color-lightgrey); }
+.menu_nav > li > .menu_nav_mainitem, .menu_nav > li > .menu_homelink { text-transform: uppercase; }   /* live 360: only the top row is uppercase; submenu links stay plain */
+@media (max-width: 1023px) { .menu_nav > li.menu_mobile { text-transform: uppercase; } }   /* source @220106: the mobile "Menu" label is uppercase only below 1024px — at 1440 it is a hidden body node on live (content-diff ROLE SWAP otherwise) */
+.menu_nav .submenu { text-transform: none; }
+.btn--meta { text-transform: uppercase; line-height: 56px; padding: 0; height: 56px; text-align: left; }
+.menu_nav_mainitem { display: block; position: relative; padding: 0 40px 0 16px; text-align: left; line-height: 56px; }
+.menu_homelink { display: block; padding: 0 16px; text-align: left; color: var(--color-darkgrey); }
+.global-search { display: none; }
+.nav_v2_wrapper { display: none; }
+.submenu.hidden-desktop { display: none; }
+
+@media (min-width: 1024px) {
+  .header { height: 100px; }
+  .header.normal-state { height: 100px; }
+  .header.small-state { height: 100px; border-bottom: 1px solid var(--color-lightgrey); }
+  .navigation { padding: 0; height: 100px; }
+  .navigation_logo { position: absolute; left: 0; top: 0; width: 191px; height: 99px; display: block; }
+  .logo_link img { width: 147px; }
+  .navigation_burger { display: none; }
+  .navigation_menu { display: block; width: 100%; height: 100px; }
+  .header .menu_nav { display: flex; margin: 0 0 0 191px; padding: 0 270px 0 0; height: 100px; max-width: 100%; font-size: .95rem; line-height: 1.5; text-align: center; }
+  .menu_nav > li { display: none; padding: 0; text-transform: none; line-height: 1.5; border: 0; }
+  .menu_nav > li > .menu_nav_mainitem { text-transform: none; }
+  .btn--meta { text-transform: none; line-height: 24px; padding: 4px; height: 32px; text-align: center; }
+  .menu_nav > li.menu_main { display: flex; flex: 1 1 auto; min-width: 0; }   /* live widths 245/241/249/246: auto basis + equal grow */
+  .menu_nav_mainitem { display: flex; flex: 1 1 auto; align-items: center; justify-content: center; padding: 10px; font-size: .95rem; line-height: normal;
+    color: var(--color-darkgrey); cursor: pointer; }
+  /* meta strip: the 33px grey bar inside the body-container's 48px top padding (live: absolute, left -16px / width +32px — clipped by the
+     overflow-hidden body, so left 0 / 100% renders identically) */
+  .navigation_meta { position: absolute; top: -43px; left: 0; width: 100%; height: 33px; background: var(--color-lightgrey); }
+  .navigation_meta_sub { height: 0; }
+  .dealer-utm-contact-label-wrapper, .dealer-utm-contact-label-mobile-wrapper, .dealer-utm-contact-btn-wrapper { display: none; }
+  .header .menu_meta { display: flex; flex-direction: row-reverse; justify-content: flex-start; padding: 0; font-size: .95rem; line-height: 1.5; }
+  .menu_meta_item { display: block; }
+  .menu_meta_item > a { display: inline-block; }   /* live <a> box 88×32 = the meta button */
+  .dealer-btn-wrapper { position: absolute; right: 15px; top: 0; width: 250px; height: 0; }
+  .location-overview-button { position: absolute; top: 43px; left: 0; width: 250px; max-width: 250px; margin-top: 25px; display: block; }
+}
+
+/* ---------- subheader / breadcrumb (desktop only on the source) ---------- */
+.subheader__breadcrumb { display: none; }
+@media (min-width: 1024px) {
+  .subheader__breadcrumb { display: block; box-sizing: border-box; margin: 0 auto; padding: 0 16px; background: var(--color-white); width: 100%; height: 50px; overflow: hidden; }
+  .breadcrumb_v2_wrapper { display: flex; height: 50px; }
+  .breadcrumb_v2_main { display: flex; align-items: center; }
+  .breadcrumb-list_v2 { list-style: none; margin: 0; padding: 0; display: flex; }
+  .breadcrumb-list_v2 li { display: flex; justify-content: center; }
+  .breadcrumb-list_v2 li a { display: block; padding: 8px 0 4px; color: var(--color-black); font-size: .95rem; line-height: 1; }
+  .breadcrumb-list_v2 li a:hover, .breadcrumb-list_v2 li a.active { color: var(--color-red); }
+  .breadcrumb-list_v2 li a .icon { font-size: 15px; padding-right: 4px; color: var(--color-black); }
+}
+
+/* ---------- footer (source .footer family) ---------- */
+.layout-100 { display: block; width: 100%; box-sizing: border-box; }
+.footer-a11y-note { box-sizing: border-box; }
+.footer, .footer * { box-sizing: border-box; }
+.footer { position: relative; background: var(--color-white); margin: 72px 0 0; padding: 2.5vw 0 1vw; max-width: 1600px; border-top: 1px solid var(--color-lightgrey); }
+/* module: share-bar — from en-legal-notes-privacy-statement */
+.footer > .share-btn { position: relative; max-width: 1262px; margin: -33px 0 16px; padding: 0 0 0 16px; text-align: left; }
+.footer > .share-btn > .share-btn { margin: 0; padding-left: 16px; }
+.share-btn .share--title .btn { display: inline-block; background-color: var(--color-red); color: var(--color-white); width: 120px; outline: 8px solid var(--color-white); box-shadow: 0 1px 6px 0 rgba(0, 0, 0, .2); }   /* measured live: the shadow survives the source reset */
+.share-btn .share--title:hover .btn { background-color: var(--color-primary-700); }
+.share-btn-container { display: none; }
+@media (min-width: 1024px) {
+  .footer > .share-btn { max-width: 1216px; margin: -56px auto 16px; padding: 0; }
+  .footer > .share-btn > .share-btn { padding-left: 0; }
+}
+.footer > ul { list-style: none; margin: 0; padding: 0 8px 25px 0; text-align: right; border-bottom: 1px solid var(--color-lightgrey); font-size: .95rem; line-height: 1.5; }
+.footer > ul li { display: inline-block; padding: 8px; }
+.footer > ul > li a { color: var(--color-darkgrey); font-size: 14px; font-weight: 400; font-family: var(--font-face), var(--font-sub), Arial, sans-serif; line-height: 1; }
+.footer-socialmedia { padding: 16px 8px 16px 0; text-align: right; }
+.footer-socialmedia h6 { color: var(--color-darkgrey); display: inline; font-size: 14px; font-weight: 400; font-family: var(--font-face), var(--font-sub), Arial, sans-serif; margin: 0 12px 0 0; letter-spacing: -0.02em; /* substitute calibration for this fixed label: 83px → 79px (live), keeps the 5-icon row on one line at 360 */ }
+.footer-socialmedia > ul { display: inline; margin: 0; padding: 0; list-style: none; font-size: .95rem; line-height: 1.5; text-align: center; }
+.footer-socialmedia > ul > li { margin: 0; padding: 0; display: inline-block; background: transparent; }
+.footer-socialmedia .btn { width: 48px; height: 48px; padding: 12px; line-height: 0; background: transparent; }
+.footer-copyright { font-family: var(--font-face), var(--font-sub), Arial, sans-serif; font-size: 14px; color: var(--color-textgrey); width: 100%; position: absolute;
+  text-align: right; display: block; padding: 16px; }
+@media (min-width: 960px) { .footer-copyright { bottom: 25px; text-align: left; } }
+@media (min-width: 1024px) { .footer-copyright { width: 50%; top: 100px; } }
+.footer-a11y-note { padding: 16px; font-size: 1rem; display: block; color: var(--color-white); background-color: var(--color-black); margin: 32px auto 16px; text-align: center; }
+@media (min-width: 960px) { .footer-a11y-note { margin: 0 auto 16px; } }
+
+/* ---------- scroll-state chrome (observed live at 1440 via motion-observe: class mutations on .header / .subheader / .navigation-anchor-navigation-wrapper;
+   thresholds from the source JS: scrollBreakpointSmall 48, scrollBreakpointMax 86, headerHeightMax 100; CSS @46388/@46522/@46621/@46430/@17669) ---------- */
+.stickystacky-wrapper.stickystacky-initialized { transform: none; }   /* live moves `top` without a transition (motion-observe: 0 transitions) */
+.stickystacky-wrapper > .header, .stickystacky-wrapper > .subheader, .stickystacky-wrapper > .navigation-anchor-navigation-wrapper { margin: 0 auto; }
+.sticky-hidden { opacity: 0; }
+.header.small-state { height: 62px !important; }   /* both the sticky clone AND the in-flow original morph (observed class mutation on the original; the live document shrinks 38px once scrolled) */
+.header.small-state .menu_nav_mainitem { height: 61px !important; }
+.header.small-state .navigation_logo .logo_link { height: 50px !important; }
+.header.small-state .logo_link img { height: 50px; width: auto; }
+.header.small-state .navigation_meta .dealer-btn-wrapper > .btn__link > .btn { top: 24px !important; margin-top: 0; }
+@media (min-width: 1024px) {
+  .header.small-state { top: 0; border-bottom: 1px solid var(--color-lightgrey); }
+  .header.small-state > .navigation { height: 62px; background: var(--color-white); top: 0; }
+  .header.small-state > .navigation .navigation_logo { border-bottom: none; height: 61px; }
+  .header.small-state > .navigation .navigation_logo .logo_link { margin-top: 5px; }
+  .header.small-state .navigation_menu, .header.small-state .menu_nav { height: 62px; }
+  .header.small-state .navigation_meta { display: none; }
+  .header.small-state .dealer-btn-wrapper { display: block; position: absolute; right: 15px; top: 0; }
+}
+
+/* module: press-contact (source .teaser.teaser--card @299010/@298891/@299459/@299625) — from en-technical-news-detail-101184-html; measured 1440: card 272×324, img 270×152 inset 1px, content p16, h6 .875rem/1 #444, h3 1rem/1.25 mt .25em, text-wrapper m 1em 0, contact rows flex, textlink pl 5px */
+.teaser.teaser--card { display: flex; flex-direction: column; width: 100%; background: var(--color-lightgrey); box-shadow: none; }
+.teaser--card > .image-wrapper { display: block; position: relative; max-width: 100%; border: 1px solid var(--color-lightgrey); }   /* source @297140: the 1px inset is a border (unit-geometry classifies the wrapper as a box) */
+.teaser--card > .image-wrapper img { display: block; width: 100%; height: auto; object-fit: cover; }
+.teaser--card .teaser__content-wrapper { display: flex; flex-direction: column; flex: 1 1 auto; padding: 16px; }
+.teaser--card .teaser__content-wrapper h6 { margin: 0; font-size: .875rem; line-height: 1; font-weight: 400; color: var(--color-text-darkgrey, #444); font-family: var(--font-face-medi), var(--font-sub-bold), Arial, sans-serif; letter-spacing: -0.016em; }
+.teaser--card .teaser__content-wrapper h3 { margin: 0; font-size: 1rem; line-height: 1.25; font-weight: 400; color: var(--color-darkgrey); font-family: var(--font-face-medi), var(--font-sub-bold), Arial, sans-serif; letter-spacing: -0.016em; }
+.teaser--card .teaser__text-wrapper { display: flex; flex-direction: column; margin: 1em 0; }
+.teaser--card .teaser__text-wrapper p { margin: 0; font-size: .95rem; line-height: 1.75; max-width: 640px; }
+.teaser--card .teaser__contact__mobile, .teaser--card .teaser__contact__mail { display: flex; align-items: flex-start; }
+.teaser--card .teaser__contact__mobile .icon, .teaser--card .teaser__contact__mail .icon { display: block; width: 24px; height: 100%; font-size: 24px; line-height: 24px; flex: 0 0 24px; }
+.teaser--card .textlink { display: block; padding: 0 0 0 5px; font-size: .95rem; line-height: 1.75; letter-spacing: -0.016em; }
+.icon-LMHIconphoneblack:before { content: "\f14a"; }
+.icon-LMHIconzoominblack:before { content: "\f165"; }
+
+/* source @299708: only an h6-led h3 carries the .25em gap (press-contact yes, news card no) */
+.teaser--card .teaser__content-wrapper h6 + h3 { margin-top: .25em; }
+
+/* module: media-carousel (source .media-carousel @53749–@54568, .image-clipper--2_1_max @184121, .carousel-wrapper arrows @71693) — from en-technical-news-detail-101184-html;
+   single-slide capture state: slick hides both arrows (display:none live), one 8×8 white dot at bottom 0 */
+.carousel-wrapper { position: relative; width: 100%; }
+.media-carousel { position: relative; background: var(--color-white); }
+.media-carousel ul, .media-carousel li { list-style: none; margin: 0; padding: 0; }
+.media-carousel .slick-list { position: relative; overflow: hidden; display: block; }
+.media-carousel .slick-track { display: flex; width: 100%; }
+.media-carousel .media-carousel-item { position: relative; width: 100%; flex: 0 0 100%; }
+.image-clipper { position: relative; width: 100%; overflow: hidden; }
+.image-clipper--2_1_max { height: 50vw; max-height: 600px; padding-bottom: 0; }
+.image-clipper__contents { position: absolute; width: 100%; }
+.image-clipper--2_1_max .image-clipper__contents--middle { top: 50%; transform: translateY(-50%); }
+.media-carousel-item-image .image-wrapper-16x9 { position: relative; height: 0; padding-bottom: 56.25%; max-width: 100%; }
+.media-carousel .media-carousel-item-image img { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; height: auto; display: block; }
+.media-carousel .slick-dots { position: absolute; text-align: center; margin: 0 auto; bottom: 0; width: 100%; font-size: .95rem; line-height: 1.5; }
+.media-carousel .slick-dots > li { width: 24px; display: inline-block; }
+.media-carousel .slick-dots > li button { display: block; padding: 4px; height: 0; width: 0; line-height: 1; border: none; margin: 8px; background: var(--color-white); text-indent: -9999px; position: relative; font-size: .95rem; font-family: inherit; }   /* no overflow clip: the li's baseline must come from the indented "1" line box (live ul 33.7px tall, not the 25.65px strut) */
+.media-carousel .slick-dots > li button:after { content: ""; height: 24px; width: 24px; position: absolute; z-index: 1; top: -8px; left: -8px; }
+@media (min-width: 1024px) { .media-carousel .slick-dots > li.slick-active button { box-shadow: inset 0 -.15rem var(--color-red); } }
+.carousel-wrapper .btn--carousel-next, .carousel-wrapper .btn--carousel-prev { position: absolute !important; top: 50%; transform: translateY(-50%); z-index: 1; background: var(--color-red); color: var(--color-white); }
+.carousel-wrapper .btn--carousel-prev { left: 0; } .carousel-wrapper .btn--carousel-next { right: 0; }
+.carousel-wrapper > .slick-arrow { display: none; }   /* capture state: 1 slide → slick hides both arrows */
+
+/* module: news-card (source .teaser.teaser--card with linked 16:9 image, p.info, h3 > a, text, "Read more"; @297140 border, @299459 content, @36555 p) — from en-about-us-press;
+   measured 1440: card 280×438 in a 312-wide 25% column, image box 280×160 (outer + inner .image-wrapper both carry the 1px border), content p16, h3 1rem/1.25 with inline red a (lh 1), text 1rem/1.5 m 1em 0, "Read more" .95rem/1.75 */
+.layout--teaser .teaser.teaser--card { flex: 1 0 auto; }
+.teaser--card > .image-wrapper > a { display: block; position: relative; line-height: 1; color: var(--color-red); outline: 1px dotted transparent; outline-offset: -1px; background: var(--color-lightgrey); }   /* source @297203 */
+.teaser--card .image-wrapper-16x9 { display: block; position: relative; height: 0; padding-bottom: 56.25%; max-width: 100%; border: 1px solid var(--color-lightgrey); box-sizing: border-box; }
+.teaser--card .image-wrapper-16x9 img { position: absolute; top: 0; left: 0; width: calc(100% + 2px); height: calc(100% + 2px); display: block; margin: 0; object-fit: cover; }   /* live: img 278×158 over the 276×156 content box of the bordered 16:9 wrapper */
+.teaser--card .image-wrapper--video .image-wrapper__media-icon { font-family: LindeGlobalIconFont; display: block; position: absolute; top: 0; left: 0; z-index: 1; font-size: 40px; line-height: 1; font-weight: 400; color: var(--color-textgrey); padding: 6px 10px; -webkit-font-smoothing: antialiased; }   /* source @297490; its rgba(var(--color-white),.7) background is invalid CSS and does not render live (content-diff: glyph U+F160 44×36) */
+.teaser--card .image-wrapper--video .image-wrapper__media-icon:before { display: block; margin: -.2em; content: "\f160"; }
+.teaser--card .teaser__content-wrapper p.info { margin: 0; font-size: .875em; line-height: 1.75; max-width: 640px; color: #4a595c; }   /* live computed rgb(74,89,92) */
+.teaser--card .teaser__content-wrapper h3 a { color: var(--color-red); line-height: 1; font-family: inherit; }
+.teaser--card .teaser__content-wrapper h3 a:hover { color: var(--color-primary-700); }
+.layout--teaser .teaser--card .teaser__text-wrapper { flex: 1 1 auto; }   /* live: rows stretch to the tallest card and the text block absorbs the slack (card 1 text 112.5 = 108 + 4.5), "Read more" sits at the bottom */
+.teaser--card .teaser__content-wrapper > p { margin: 0; font-size: .95rem; line-height: 1.75; max-width: 640px; }
+.teaser--card .teaser__content-wrapper > p a { color: var(--color-red); line-height: inherit; }
+.icon-LMHIconcalendarblack:before { content: "\f129"; }
+.icon-LMHIconcheckblack:before { content: "\f12c"; }
+
+/* module: media-browser — from en-landingpage-e-models (viewer + thumbnail rail inside .layout-article--centered; the source
+   media-browser-module_style_bundle_lmh.css 404s to a direct fetch, so geometry is lifted from live computed styles at 1440:
+   .media-browser 928×412 pos rel, border 8px transparent, max-w 1440, text-align right; __master--wrapper 912×396;
+   __master/.slick-list 704×396 (= wrapper − 200 rail − 8 gap); __navigation flex column abs top0/right0 200×396, items 200×112.5
+   mb 4px; .carousel-button-wrapper ("1 / 2" + arrows) display none at desktop; .image-wrapper__media-icon hidden.
+   slick inline widths are 1440-only → neutralised so the viewer scales per breakpoint.) */
+.media-browser { position: relative; display: block; border: 8px solid transparent; max-width: 1440px; text-align: right; }
+.media-browser__master--wrapper { position: relative; width: 100%; }
+.media-browser__master { width: calc(100% - 208px); }
+.media-browser .slick-list { overflow: hidden; }
+.media-browser .slick-track { width: auto !important; display: flex; transform: none !important; }
+.media-browser__item.slick-slide { width: 100% !important; flex: 0 0 100%; }
+.media-browser__item .image-wrapper { width: 100% !important; }
+.media-browser__navigation { position: absolute; top: 0; right: 0; display: flex; flex-direction: column; width: 200px; height: 100%; overflow: hidden; }
+.media-browser__navigation .media-browser__item { position: relative; width: 200px; margin: 0 0 4px; flex: 0 0 auto; cursor: pointer; }
+.media-browser .carousel-button-wrapper { display: none; }
+.media-browser .image-wrapper__media-icon { display: none; }
+.media-browser .carousel-button-wrapper--scroll { pointer-events: none; }
+@media (max-width: 1023px) {
+  .media-browser__master { width: 100%; }
+  .media-browser__navigation, .media-browser .carousel-button-wrapper--scroll { display: none; }
+  .media-browser .carousel-button-wrapper { display: block; }
+}
+/* module: media-browser (cont.) — from en-landingpage-e-models: the viewer sits in a shrink-to-fit context once the slick inline
+   widths are neutralised → pin it to the column (live 928 @1440, 342 @360); mobile: "1 / 2" + arrows row flows under the viewer
+   (live @360: x17 w326 h48, margin-top 8px, static). */
+.media-browser { width: 100%; }
+@media (max-width: 1023px) {
+  .media-browser .carousel-button-wrapper { display: block; position: static; width: 100%; height: auto; margin: 8px 0 0; padding: 0; }
+}
+/* module: media-browser (cont. 2) — from en-landingpage-e-models: live measured .layout-article--centered > .ld-layout-item__wrapper
+   is a centered shrink-to-fit box (960 = 928 + 2×16 @1440) whose width is driven by the slick-track's inline 1408px; with the
+   track neutralised the viewer must supply that intrinsic width itself → 100vw clamped to the column. */
+.media-browser { width: 100vw; max-width: 100%; }
+
+/* module: related-teasers — from en-products-e-trucks (dark .related-content with a plain-teaser slick carousel in its captured initial state: 4×25% slides at ≥1024 in a 1248 list, 320-wide slide + 24 bottom gap at 360; source @441345–@442378, @436034–@436398, @297035–@300621, @105144–@105332; measured live 1440/360: program-measure-live.log) */
+/* related-content teaser carousel (initial slick state: slides 1–4 visible at 1440 in a 1248 list, 25% each p 1.25vw 16px; 360: 320-wide slide + 24 gap, p 1.25vw) */
+.related-content { width: 100%; }
+.related-content.layout--dark .layout-100-headline--fixed, .related-content.layout--dark h3 { color: var(--color-white); }
+.layout-teasercarousel__wrapper { display: block; position: relative; width: 100vw; max-width: 1280px; height: auto; margin: 0 auto; padding: 5vw 1.25vw; }
+.layout-teasercarousel--fixed { position: relative; height: auto; width: auto; max-width: 1280px; margin: 0 0 48px !important; padding: 5vw 1.25vw; }
+.layout-teasercarousel--fixed .slick-list { position: relative; overflow: hidden; display: block; width: 100%; }
+.layout-teasercarousel--fixed .slick-track { display: flex; justify-content: flex-start; align-items: stretch; }
+.layout-teasercarousel--fixed .ld-layout-item__wrapper { flex: 0 0 auto; width: 100%; max-width: 320px; padding: 1.25vw; margin: 0 0 24px; display: flex; flex-direction: row; align-items: stretch; height: auto; }
+.layout-teasercarousel--fixed .ld-layout-item__wrapper .teaser { height: 100%; width: 100%; }
+.teaser { display: flex; flex-direction: column; overflow: hidden; }
+.related-content.layout--dark .teaser { background: color-mix(in srgb, var(--color-textgrey), #000 5%); color: var(--color-white); }
+.related-content.layout--dark .teaser a { color: var(--color-white); border-color: var(--color-white); }
+.teaser .image-wrapper { border: 1px solid var(--color-lightgrey); }
+.teaser .image-wrapper a { display: block; outline: 1px dotted transparent; outline-offset: -1px; position: relative; background: var(--color-lightgrey); }
+.teaser .image-wrapper img { display: block; object-fit: cover; }
+.teaser .teaser__content-wrapper { padding: 16px; flex: 1 1 auto; display: flex !important; flex-direction: column; }
+.teaser .teaser__content-wrapper .h3 { font-size: 1rem; line-height: 1.25; }
+.teaser .teaser__content-wrapper .h3 a { line-height: 1; font-family: inherit; }
+.teaser .teaser__content-wrapper .teaser__text-wrapper { display: flex; flex-direction: column; flex: 1 1 auto; margin-top: 1rem; }
+.teaser .teaser__content-wrapper .teaser__text-wrapper > p { flex: 1 1 auto; }
+.teaser .teaser__content-wrapper .teaser__text-wrapper p + a { display: inline-block; margin-top: .94em; align-self: flex-start; line-height: 1; }
+.carousel-button-wrapper { max-width: 1280px; position: absolute; margin-top: calc(-48px + -1.5vw); margin-bottom: 75px; padding: 0 1.25vw; right: 0; margin-left: 1.25vw !important; margin-right: 1.25vw !important; }
+.carousel-button-wrapper button { float: right; }
+.carousel-button-wrapper .btn--carousel-next, .carousel-button-wrapper .btn--carousel-prev { background-color: var(--color-red); color: var(--color-white); }
+
+@media (min-width: 1024px) {
+  .layout-teasercarousel__wrapper { width: 100%; }
+  .layout-teasercarousel--fixed .ld-layout-item__wrapper { flex-basis: 25%; max-width: 25%; margin: 0; padding: 1.25vw 16px; }
+}
+@media (min-width: 1280px) {
+  .layout-teasercarousel__wrapper, .layout-teasercarousel--fixed { padding: 32px 16px; }
+  .layout-teasercarousel--fixed { width: calc(100% + 32px); margin-bottom: 48px !important; }
+  .carousel-button-wrapper { padding-left: calc(1.25vw + 16px); padding-right: calc(1.05vw + 16px); margin-top: -64px; width: 100%; right: auto; margin-left: 0 !important; margin-right: 0 !important; }
+}
+
+/* module: media-browser (cont. 3) — from en-landingpage-e-models: live @360 the "1 / 2" row keeps its 48px button height even
+   when the disabled arrow is display:none inline (viewer 255 = 8+183+8+48+8). */
+@media (max-width: 1023px) { .media-browser .carousel-button-wrapper { min-height: 48px; } }
+
+/* module: mwf-form — from en-forms-global-contact-form (MWF contact form template, 8 pages; source .form-section @255994, __header @256407, fieldset @256560, rows @256712/@257371/@257700/@256990/@265971/@266040/@266209/@266362, input/textarea @185559/@186171/@193898, .input-wrapper @186724/@186757, .radio @204077–@205048, __footer @266532/@266675, .mwf-hidden @266770, dropdown toggle census 1440: 608×48 #aa0020/#fff 18px pad 8/48/8/16; measured live 1440: header 640×69, rows 48/105, radio 528×72, footer 640×80 btn 73×48; .content padding-bottom 22.5px) */
+/* module: mwf-form (rules) — from en-forms-global-contact-form */
+.content { padding: 0 0 22.5px; background: var(--color-white); display: flex; flex-direction: column; align-items: center; position: relative; width: 100%; }
+.content > .clearfix { width: 100%; }
+.mwf-form fieldset, .mwf-form legend { margin: 0; padding: 0; border: 0; min-width: 0; }
+.form-section { max-width: 640px; margin: 0 auto; box-sizing: border-box; }
+.form-section__header { padding: 16px; }
+.form-section__header h3, .form-section h5 { margin: 0; font-family: var(--font-face-medi), var(--font-sub-bold), Arial, sans-serif; font-weight: 400; color: var(--color-darkgrey); }
+.form-section__header h3 { font-size: 1.5rem; line-height: 1.25; }
+.form-section h5 { font-size: 1rem; line-height: 1.5; }
+.form-section fieldset:not(:first-of-type) { margin-top: 8px; }
+.form-section .form-row-100, .form-section .form-row-50, .form-section .form-row-30-100, .form-section .form-row-100-30 { display: flex; flex-wrap: wrap; padding: 0 8px; }
+.form-section .form-row-100 .form-item, .form-section .form-row-50 .form-item, .form-section .form-row-30-100 .form-item, .form-section .form-row-100-30 .form-item { flex-grow: 10; padding: 0 8px 8px; }
+.form-section .form-item > .form-row-100 { padding: 0; }
+.form-section .label, .form-section .mwf-label { font-family: var(--font-face), var(--font-sub), Arial, sans-serif; font-size: 15px; }
+.form-section .label { display: inline; }
+.form-section .mwf-label { display: inline; line-height: 27px; }
+.form-section .mwf-required { color: var(--color-red); }
+.input-wrapper { position: relative; }
+.input-wrapper + .message, .form-item .message { display: none; }
+.form-section input[type="text"], .form-section textarea { box-sizing: border-box; color: var(--color-darkgrey); width: 100%; background-color: var(--color-white); border: 1px solid var(--color-form-lightgrey); padding: 11px 48px 8px 8px; border-radius: 0; appearance: none; min-height: 48px; font: inherit; font-size: 15px; line-height: normal; }
+.form-section input:focus, .form-section input:hover, .form-section textarea:focus, .form-section textarea:hover { border-color: var(--color-form-darkgrey); outline: 0; }
+.form-section textarea { min-height: 105px; max-width: 100%; line-height: 1.5em; display: block; resize: vertical; overflow: auto; }
+.form-section .mwf-hidden { display: none !important; opacity: 0 !important; }
+.form-section .form-item a { color: var(--color-red); text-decoration: underline; }
+.radio { position: relative; display: block; margin-left: 24px; margin-right: 40px; padding-left: 8px; overflow: visible; min-height: 48px; padding-top: 12px; }
+.radio > span { height: 24px; line-height: 24px; color: var(--color-darkgrey); }
+.radio > span p { margin: 0; font-size: .95rem; line-height: 1.75; }
+.radio input[type="radio"] { display: block; height: 24px; position: absolute; opacity: 0; padding: 0; margin: 0; z-index: -100; }
+.radio input[type="radio"] ~ span:before { content: ""; color: var(--color-darkgrey); background-color: var(--color-white); border: 1px solid var(--color-form-lightgrey); display: block; border-radius: 50%; width: 24px; height: 24px; line-height: 24px; text-align: center; font-size: 0; cursor: pointer; position: absolute; left: -24px; top: 12px; box-sizing: border-box; }
+.radio input[type="radio"]:checked ~ span:after { content: ""; background-color: var(--color-red); width: 16px; height: 16px; display: block; border-radius: 50%; position: absolute; left: -20px; top: 16px; margin: auto; }
+.radio input[type="radio"]:focus ~ span:before { border: 1px dotted var(--color-darkgrey); }
+.form-section .form-required-info { display: block; }
+/* source: footer padding 8 + .btn margin 8 8 8 16 — folded into the footer box (same 80px box, same button x) */
+.form-section__footer { display: flex; align-items: center; justify-content: flex-end; padding: 16px 16px 16px 24px; margin-top: 8px; box-sizing: border-box; min-height: 80px; }
+.form-section .form-section__footer .btn { margin: 0; border: 1px solid transparent; height: 48px; box-sizing: border-box; align-self: flex-end; font: inherit; font-size: 1rem; line-height: 30px; cursor: pointer; }
+/* dropdowns: source widget in its captured initial (closed) state — native select hidden like the source (.mwf-select hid), red toggle, 48×48 icon float right, flyout display:none */
+.mwf-select { display: none; }
+.dropdown, .dropdown-wrapper { position: relative; }
+.btn.dropdown-toggle { display: block; width: 100%; box-sizing: border-box; height: 48px; padding: 8px 48px 8px 16px; text-align: left; font: inherit; font-size: 18px; line-height: 30px; background-color: var(--color-red); color: var(--color-white); border: 1px solid transparent; cursor: pointer; }
+.btn.dropdown-toggle:hover { background-color: var(--color-primary-700); color: var(--color-white); }
+.dropdown-toggle.icon-float-right .icon { position: absolute; right: 0; top: 0; width: 48px; height: 48px; line-height: 48px; font-size: 24px; text-align: center; color: var(--color-white); margin: 0; }
+.dropdown-menu { display: none; }
+.select-wrapper { position: relative; }
+.select-wrapper select.mwf-select { box-sizing: border-box; display: inline-block; width: 100%; max-width: 100%; min-height: 48px; appearance: none; border: 1px solid var(--color-form-lightgrey); border-radius: 0; background: var(--color-white); color: var(--color-darkgrey); padding: 11px 40px 8px 8px; font: inherit; font-size: 15px; cursor: pointer; }
+.select-wrapper .icon { position: absolute; right: 8px; top: 50%; transform: translateY(-50%); font-size: 24px; pointer-events: none; }
+@media (min-width: 640px) {
+  .form-section__header h3 { font-size: 1.63rem; }
+  .form-section .form-row-50 > * { max-width: 50%; }
+  .form-section .form-row-30-100 .form-item:first-of-type { flex: 3; max-width: 24%; }
+  .form-section .form-row-100-30 .form-item:last-of-type { flex: 3; }
+  .form-section .form-row-100-30 .form-item:first-of-type { max-width: 76%; }
+}
+@media (max-width: 639px) {
+  .form-section .form-row-100, .form-section .form-row-50, .form-section .form-row-30-100, .form-section .form-row-100-30 { flex-direction: column; }
+  .form-section .label { display: block; line-height: 24px; }
+}
+/* /module: mwf-form */
+
+/* module: media-browser (cont. 4) — from en-landingpage-e-models v2: the active thumbnail in the rail carries a 2px red frame on live (crop y1040–1500 @1440; source module CSS not fetchable, lifted from the capture). */
+.media-browser__navigation .media-browser__item.active .image-wrapper { outline: 2px solid var(--color-red); outline-offset: -2px; }
+
+/* module: teaser-carousel-light — from en (home "Recent Press Releases": the light .layout-teasercarousel__wrapper variant emitted as a direct .body-container child; source @299459 .teaser .teaser__content-wrapper { padding-bottom: 24px } — the 16px all-round padding above is the dark related-content card; measured live 1440: slide 312×227, teaser 280×191, text-wrapper 280×81; 360: slide 320×181. The slick track must start LTR: a centred overflow (slide 1 at x -824 @1440 / -1420 @360) appears when the track keeps the vendors auto margins — live uses inline width 3120 (@1440) / 50000 (@360) with a negative right margin.) */
+.layout-teasercarousel--fixed .slick-track { margin: 0; justify-content: flex-start; }
+.layout-teasercarousel--fixed.slick-initialized .slick-slide { display: flex; }   /* vendors `.slick-initialized .slick-slide { display: block }` in a later page layer otherwise beats the flex wrapper above */
+.body-container > .layout-teasercarousel__wrapper .teaser .teaser__content-wrapper { padding: 0 0 24px; }
+
+/* module: media-browser (cont. 5) — from en-landingpage-e-models v2: below 1280 the live viewer is the column width (342 @360 = 100vw − row 1.25vw×2 − wrapper 1.25vw×2); the 100vw intrinsic-width hack overflowed the paddings (build 360 wide, x0; live 342, x9). */
+@media (max-width: 1279px) { .media-browser { width: calc(100vw - 5vw); } }
+
+/* module: icon-glyphs-productfinder — from en-productfinder-html */
+.icon-LMHIconforkliftblack:before{content:""}
+.icon-LMHIconneedleblack:before{content:""}
+.icon-LMHIconsfilterblack:before{content:""}
+.icon-LMHproducttypeblack:before{content:""}
+.icon-LMHapplicationblack:before{content:""}
+.icon-LMHloadcapacityblack:before{content:""}
+.icon-LMHheightblack:before{content:""}
+.icon-LMHdrivetypeblack:before{content:""}
+.icon-LMHExplosionProof:before{content:""}
+.icon-LMHpriceblack:before{content:""}
+.icon-LMHIcontaskslistblack:before{content:""}
+.icon-LMHyearofmanufacturingblack:before{content:""}
+.icon-LMHIconsettingsblack:before{content:""}
+.icon-LMHIconsaddpinblack:before{content:""}
+.icon-LMHIconsaddpinblack{opacity:.5;transform:rotate(-45deg)}
+.icon-LMHIconarrowrightblack:before{content:""}

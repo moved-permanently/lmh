@@ -1,0 +1,418 @@
+/* stylelint-disable no-descending-specificity -- rules are grouped by component, not by cascade */
+
+/* teaser-grid — source .layout-25--fixed / .layout-33--fixed / .layout-cta rows (stardust/prototypes/en.css) */
+.teaser-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 5vw 1.25vw;
+}
+
+.teaser-grid .teaser-grid-item {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  align-self: stretch;
+  box-sizing: border-box;
+  width: 100%;
+  margin-bottom: 1.5rem;
+  padding: 1.25vw;
+  overflow: visible;
+}
+
+.teaser-grid .teaser-grid-item > * {
+  width: 100%;
+}
+
+.teaser-grid .icon-forklift::before { content: "\f137"; }
+.teaser-grid .icon-fleet::before { content: "\f136"; }
+.teaser-grid .icon-service::before { content: "\f155"; }
+.teaser-grid .icon-search::before { content: "\f154"; }
+
+/* default: image cards (source .teaser.teaser--card) */
+.teaser-grid .teaser-grid-card {
+  display: flex;
+  flex: 1 0 auto;
+  flex-direction: column;
+  width: 100%;
+  background: var(--color-lightgrey);
+  box-shadow: none;
+}
+
+.teaser-grid .teaser-grid-image {
+  position: relative;
+  max-width: 100%;
+  border: 1px solid var(--color-lightgrey);
+  overflow: hidden;
+}
+
+.teaser-grid .teaser-grid-image-link {
+  display: block;
+  position: relative;
+  outline: 1px dotted transparent;
+  outline-offset: -1px;
+  background: var(--color-lightgrey);
+}
+
+.teaser-grid .teaser-grid-image-link:focus {
+  outline-color: var(--color-darkgrey);
+}
+
+.teaser-grid .teaser-grid-ratio {
+  position: static;
+  padding-bottom: 56.25%;
+  border: 1px solid var(--color-lightgrey);
+  overflow: hidden;
+  line-height: 0;
+}
+
+.teaser-grid .teaser-grid-image picture {
+  display: contents;
+}
+
+.teaser-grid .teaser-grid-image img {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.teaser-grid .teaser-grid-video-icon {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 6px 10px;
+  background: rgb(255 255 255 / 70%);
+  color: var(--color-textgrey);
+  font-family: var(--icon-font-family);
+  font-size: 40px;
+  line-height: 1;
+}
+
+.teaser-grid .teaser-grid-video-icon::before {
+  content: "\f160";
+  display: block;
+  margin: -0.2em;
+}
+
+.teaser-grid .teaser-grid-body {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  padding: 16px;
+}
+
+.teaser-grid .teaser-grid-body h3 {
+  margin: 0;
+  font-family: var(--bold-font-family);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: var(--color-darkgrey);
+}
+
+.teaser-grid .teaser-grid-body h3 a:any-link {
+  display: inline-block;
+  color: var(--color-darkgrey);
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+  text-decoration: none;
+}
+
+.teaser-grid .teaser-grid-text {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  margin: 1rem 0;
+}
+
+.teaser-grid .teaser-grid-text > p {
+  flex: 1 1 auto;
+  margin: 0;
+  max-width: 640px;
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+.teaser-grid .teaser-grid-link p {
+  margin: 0;
+  line-height: 1;
+}
+
+.teaser-grid .teaser-grid-card .teaser-grid-link a:any-link {
+  display: inline-block;
+  position: absolute;
+  right: 32px;
+  bottom: -28px;
+  box-sizing: border-box;
+  max-width: 66%;
+  height: 64px;
+  margin: 0;
+  padding: 16px;
+  border: 8px solid var(--color-white);
+  background: var(--color-lightgrey);
+  color: var(--color-red);
+  font-family: var(--bold-font-family);
+  font-size: 0.9rem;
+  font-weight: 700;
+  line-height: 1;
+  text-decoration: none;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.teaser-grid .teaser-grid-card .teaser-grid-link a:any-link:hover,
+.teaser-grid .teaser-grid-card .teaser-grid-link a:any-link:active,
+.teaser-grid .teaser-grid-icon-text .teaser-grid-link a:any-link:hover,
+.teaser-grid .teaser-grid-icon-text .teaser-grid-link a:any-link:active {
+  background-color: var(--color-primary-700);
+  color: var(--color-white);
+}
+
+/* icons variant (source .teaser--icon-text) */
+.teaser-grid.icons .teaser-grid-icon-text {
+  display: block;
+  position: relative;
+  box-sizing: border-box;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 2rem 2rem 3rem;
+  background: var(--color-lightgrey);
+  text-align: center;
+}
+
+.teaser-grid.icons .teaser-grid-icon-text .icon {
+  margin-bottom: 2rem;
+  color: var(--color-black);
+  font-size: 80px;
+}
+
+.teaser-grid.icons .teaser-grid-icon-text h3 {
+  margin: 0;
+  padding-top: 8px;
+  font-family: var(--bold-font-family);
+  font-size: 0.95rem;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.01em;
+  color: var(--color-darkgrey);
+  text-transform: none;
+}
+
+.teaser-grid.icons .teaser-grid-icon-text > p {
+  margin: 0 auto;
+  padding: 8px 0 16px;
+  max-width: 640px;
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+.teaser-grid.icons .teaser-grid-link a:any-link {
+  display: inline-block;
+  position: absolute;
+  right: 40px;
+  bottom: -25px;
+  box-sizing: border-box;
+  max-width: 66%;
+  margin: 0;
+  padding: 0.8rem;
+  border: 7px solid var(--color-white);
+  background-color: var(--color-lightgrey);
+  color: var(--color-red);
+  font-family: var(--bold-font-family);
+  font-size: 0.9rem;
+  font-weight: 700;
+  line-height: 1;
+  text-decoration: none;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+/* cta variant (source .layout-cta > a.teaser--icon.teaser--card) */
+.teaser-grid.cta .teaser-grid-item {
+  width: 50%;
+  height: 17vh;
+  overflow: unset;
+}
+
+.teaser-grid.cta .teaser-grid-cta-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  max-width: 640px;
+  margin: auto;
+  padding: 16px;
+  background: var(--color-lightgrey);
+  color: var(--color-darkgrey);
+  text-align: center;
+  text-decoration: none;
+  transform: scale(1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.teaser-grid.cta .teaser-grid-cta-card:hover {
+  transform: scale(1.05);
+}
+
+.teaser-grid.cta .teaser-grid-cta-card .icon {
+  align-self: center;
+  padding-top: 8px;
+  color: var(--color-form-darkgrey);
+  font-size: 40px;
+}
+
+.teaser-grid.cta .teaser-grid-cta-label p {
+  margin: 0;
+  padding: 8px 0;
+  max-width: none;
+  font-family: var(--bold-font-family);
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--color-darkgrey);
+}
+
+.teaser-grid.cta .teaser-grid-cta-label strong {
+  font-weight: inherit;
+}
+
+.teaser-grid.cta .teaser-grid-cta-card.highlighted {
+  background-color: var(--color-red);
+}
+
+.teaser-grid.cta .teaser-grid-cta-card.highlighted .icon,
+.teaser-grid.cta .teaser-grid-cta-card.highlighted p {
+  color: var(--color-white);
+}
+
+/* section bands around the rows: live .content padding-bottom 2.5vh after the CTA row;
+   the h1 band (.layout-100-headline--fixed > h1.homepage) is default content before the icons row */
+.teaser-grid-container:has(.teaser-grid.cta) {
+  padding-bottom: 2.5vh;
+}
+
+.teaser-grid-container > .default-content-wrapper {
+  box-sizing: border-box;
+  padding: 2rem 2rem 0;
+  text-align: center;
+}
+
+.teaser-grid-container > .default-content-wrapper h1 {
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0;
+  padding: 6.25vw 16px 1.25vw;
+  font-family: var(--bold-font-family);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: var(--color-darkgrey);
+  text-transform: none;
+}
+
+/* substitute-font calibration (Nunito Sans for FF Daxline Pro): the foundation's ≤ 639 paragraph
+   tracking (styles.css static template) keeps the icon-text and card paragraphs on the live line count */
+@media (width <= 639px) {
+  .teaser-grid.icons .teaser-grid-icon-text > p,
+  .teaser-grid .teaser-grid-text > p {
+    letter-spacing: -0.0134em;
+  }
+}
+
+@media (width >= 640px) {
+  .teaser-grid .teaser-grid-item {
+    width: 50%;
+  }
+
+  .teaser-grid.cta {
+    padding: 24px 24px 40px;
+  }
+
+  .teaser-grid.icons .teaser-grid-item {
+    width: 100%;
+  }
+
+  .teaser-grid.icons .teaser-grid-icon-text h3 {
+    letter-spacing: 0.02em;
+  }
+
+  .teaser-grid-container > .default-content-wrapper h1 {
+    font-size: 48px;
+    line-height: 1.25;
+    margin-bottom: -10px;
+    padding-bottom: 0;
+  }
+}
+
+@media (width >= 768px) {
+  .teaser-grid.cta .teaser-grid-item {
+    width: 25%;
+  }
+}
+
+@media (width >= 960px) {
+  .teaser-grid.icons .teaser-grid-item {
+    width: 33.3333%;
+  }
+
+  .teaser-grid.cta .teaser-grid-item {
+    height: unset;
+  }
+
+  .teaser-grid-container > .default-content-wrapper {
+    padding-top: 8rem;
+  }
+}
+
+@media (width >= 1024px) {
+  .teaser-grid .teaser-grid-item {
+    margin-bottom: 0;
+  }
+
+  .teaser-grid .teaser-grid-card .teaser-grid-link a:any-link {
+    bottom: -12px;
+  }
+}
+
+@media (width >= 1280px) {
+  .teaser-grid {
+    padding: 32px 16px;
+  }
+
+  .teaser-grid .teaser-grid-item {
+    width: 25%;
+    padding: 1.25vw 16px;
+  }
+
+  .teaser-grid.icons .teaser-grid-item {
+    width: 33.3333%;
+  }
+
+  .teaser-grid.cta {
+    padding: 24px 24px 40px;
+  }
+
+  .teaser-grid-container > .default-content-wrapper {
+    padding: 36px 32px 4px;
+  }
+
+  .teaser-grid-container > .default-content-wrapper h1 {
+    padding-top: 36px;
+    padding-bottom: 4px;
+  }
+}

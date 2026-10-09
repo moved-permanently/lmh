@@ -1,0 +1,107 @@
+{
+ "source": "http://localhost:8803/stardust/migrated/en/technical/News-Detail_118656.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Trolley transport rethought"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "13 Feb 2019"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Linde presents its Trolley Supply Truck – a new concept for efficient production logistics"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "It looks a bit like a tugger train, but it is much more agile and can even drive in reverse: The Trolley Supply Truck is a new vehicle concept from Linde Material Handling that combines all the advantages of a Linde logistics train together with those of a forklift truck. The design is based on Linde’s matrix concept: Both the goods transporter’s control unit and drive unit come from the modular system for Linde warehouse equipment. What is completely new, however, is the load unit which takes the form of a bar trolley with steered wheels. It allows efficiency increases of up to 30 percent to be achieved in material transport to production plants."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "“Many of our customers have already implemented forklift truck-free production supply via tugger or logistics trains,” explains Ralf Knaut, Project Manager Special Solutions at Linde Material Handling. This is because trains consisting of tow tractors and trailers are often superior to forklifts, especially in purely horizontal goods transport. They are loaded and unloaded from the side and therefore require less space than a forklift truck which is at right angles to the carriageway when setting a pallet down. In addition, the tugger trains can transport a larger amount of material to the assembly lines per journey. Both of these factors result in a lower volume of disruptive traffic, a lower risk of accidents and lower costs alongside higher productivity."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "\"However, existing factory layouts cannot always be adapted to the requirements of tugger train solutions without constraints,” Knaut points out. In many existing plants, the source or destination are located at dead ends and are therefore not accessible for tugger trains that can only drive forwards with their trailers. This is where the Trolley Supply Truck comes into play. It complements the Linde logistics train and thus ensures further optimization on short and medium distances. “This makes it another piece in the process standardization mosaic and leads to more efficient intralogistics overall,” adds Markus Schmermund, Vice President Product Management Automation & Intralogistics, Linde Material Handling."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Four meters long, 1.28 meters wide and 2.36 meters high, the Trolley Supply Truck is extremely compact and requires a carriageway width of merely 1.88 meters, including a safety clearance of 30 centimeters. If the route includes curves, a 2.30-meter-wide carriageway is sufficient for the load transporter to turn at right angles. The electrically steered wheels at both the front and rear ensure great directional stability both on straight stretches and in bends. The U-shaped load support is designed for a wide variety of goods carriers. For example, two standard Euro pallets or one double Euro pallet as well as other goods carriers such as trolleys measuring between 800 and 1600 x 1200 millimeters can be transported."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "It looks a bit like a tugger train, but it is much more agile and can even drive in reverse: The new Trolley Supply from Linde Material Handling."
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "The idea for this new vehicle concept arose following numerous customer projects and the experience gained from them. “It became increasingly clear to us that we needed an additional option, something between forklift and tugger train,” reports Knaut. The Trolley Supply Truck was presented as a prototype at the World of Material Handling customer event. “The feedback from customers was extremely positive,” the product manager continues. As a result, test runs were undertaken in various plants and in Linde Material Handling’s own forklift assembly area. These confirmed the solution’s advantages: “In the first place, users remarked on the safety benefits compared to single vehicles, because the Trolley Supply Truck offers the operator excellent visibility to the front, rear and around the vehicle. Moreover, both the reduced traffic volume and lower accident risk were noticeable, as two pallets or trolleys can be transported simultaneously,” reports the Linde product manager. Altogether, this led to efficiency gains of up to 30 percent."
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Trade Press"
+    },
+    {
+     "role": "heading",
+     "order": 10,
+     "text": "Heike Oder"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "+49 6021 991277",
+     "href": "tel:+49 6021 991277"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Send email",
+     "href": "mailto:heike....oder@@@@linde-mh....de"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 12,
+   "repeats": [
+    {
+     "unitSelector": "DIV.infobox-media",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

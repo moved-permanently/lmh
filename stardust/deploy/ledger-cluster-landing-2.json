@@ -1,0 +1,137 @@
+{
+  "/en/landingpage/x-range": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:04:43.405Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/gas-forklifts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:04:43.406Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/hand-pallet-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:04:49.457Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/heavy-duty-forklifts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:04:50.296Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/pallet-stackers": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:04:55.813Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/tugger-trains": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:04:56.545Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/genuine-spare-parts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:05:02.070Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/maintenance-repair": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:05:03.840Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/retrofit-accessories": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:05:07.624Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/technical-safety-services": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:05:09.282Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/energy-systems": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:05:13.650Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/financing": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:05:15.446Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/fleet-management": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:05:20.184Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/intralogistics-automation": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:05:21.375Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/warehouse-safety": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:05:26.291Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

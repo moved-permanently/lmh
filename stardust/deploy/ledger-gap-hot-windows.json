@@ -1,0 +1,29 @@
+{
+  "/en/landingpage/next-champ": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T22:44:48.034Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/linde-core/linde-ergonomics": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T22:58:49.094Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/diesel-forklifts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T22:45:01.480Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

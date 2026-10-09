@@ -1,0 +1,246 @@
+/* breadcrumb — source .subheader__breadcrumb (desktop only on the source) */
+.breadcrumb {
+  display: none;
+}
+
+@media (width >= 1024px) {
+  .breadcrumb {
+    display: block;
+    width: 100%;
+    height: 50px;
+    margin: 0 auto;
+    padding: 0 16px;
+    background: var(--color-white);
+    overflow: hidden;
+  }
+
+  .breadcrumb .breadcrumb-wrapper {
+    display: flex;
+    height: 50px;
+  }
+
+  .breadcrumb .breadcrumb-main {
+    display: flex;
+    align-items: center;
+  }
+
+  .breadcrumb .breadcrumb-list {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .breadcrumb .breadcrumb-list li {
+    display: flex;
+    justify-content: center;
+  }
+
+  .breadcrumb .breadcrumb-list li a {
+    display: block;
+    padding: 8px 0 4px;
+    color: var(--color-black);
+    font-size: 0.95rem;
+    line-height: 1;
+  }
+
+  .breadcrumb .breadcrumb-list li a:hover,
+  .breadcrumb .breadcrumb-list li a.active {
+    color: var(--color-red);
+  }
+
+  .breadcrumb .breadcrumb-list li a .icon {
+    padding-right: 4px;
+    color: var(--color-black);
+    font-size: 15px;
+  }
+}
+
+/* static template, section style `centered` (source .layout-article--centered: EDI, Legal, PPAP,
+   Terms-of-use, Cookie-Policy). The frozen static rules have no centered-article type scale — requested in
+   stardust/rollout/foundation-requests.md; scoped here because the breadcrumb block heads every static
+   page. Live at 1440 (gate content items): h1 54px/125% red, 0 gap to the intro (1rem/150%, 1em below),
+   h3 1.63rem/125% margin 0, share toggle 120px red button floated right of the intro, CTA row 576×56 in
+   the 640 column, article footer = 48px row "Did you enjoy…" + share toggle, 32px above/below. */
+
+/* one prose column: the wrapper padding (50px at 1440) is paid once per section, not per wrapper
+   between table blocks (cookie-policy: 10 tables → 20 wrappers; gate round 1 read Δh -1580) */
+.static main .section.centered > .default-content-wrapper:not(:first-child) {
+  padding-top: 0;
+}
+
+.static main .section.centered > .default-content-wrapper:not(:last-child) {
+  padding-bottom: 0;
+}
+
+.static main .section.centered > .default-content-wrapper > h1 {
+  margin: 0 auto;
+  font-size: 54px;
+  line-height: 1.25;
+  color: var(--color-red);
+}
+
+/* source p.intro (bundle @36555): 1.125rem / 150% / margin 0 0 1em. Only PPAP, EDI and the privacy statement
+   carry one; the delivered paragraph has no marker (legal, terms-of-use, cookie-policy would be mis-styled by a
+   positional rule — measured 2026-10-07), so the rule stays on the boilerplate's `button-container` name (inert)
+   until the static encoder authors the intro as its own `intro` section (styles.css § intro paragraphs). */
+.static main .section.centered > .default-content-wrapper > h1 + p.button-container + p {
+  margin-bottom: 1em;
+  font-size: 1.125rem;
+  line-height: 1.5;
+}
+
+/* stylelint-disable-next-line no-descending-specificity */
+.static main .section.centered > .default-content-wrapper > p:first-child {
+  margin-bottom: 0;
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+.static main .section.centered > .default-content-wrapper h3 {
+  margin: 0 auto;
+  font-size: 1.63rem;
+  line-height: 1.25;
+}
+
+/* live: an h3 after a paragraph carries one em above (edi 1440: 29.34px = the 1.63rem h3 at the 18px root;
+   edi 360: 24px = the 1.5rem h3; 0 after another heading) */
+.static main .section.centered > .default-content-wrapper > p + h3 {
+  margin-top: 1em;
+}
+
+/* intro section (styles.css § intro paragraphs): the static document carries h1 + share toggle + p.intro in a
+   `centered, intro` section and the article body in the next `centered` section (PPAP, EDI); the section
+   boundary pays no wrapper padding and the body's first paragraph is body copy, not a second intro */
+.static main .section.intro.centered > .default-content-wrapper:last-child {
+  padding-bottom: 0;
+}
+
+.static main .section.intro.centered + .section.centered > .default-content-wrapper:first-child {
+  padding-top: 0;
+}
+
+.static main .section.intro.centered + .section.centered > .default-content-wrapper > p:first-child {
+  margin-bottom: 0;
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+/* CTA row: source .layout-100--fixed > .inline-button-row--stretch inside the prose column */
+.static main .section.centered > .default-content-wrapper > p.button-container {
+  box-sizing: border-box;
+  margin: 3.75rem auto 4.75rem;
+  padding: 0 32px;
+}
+
+.static main .section.centered > .default-content-wrapper > p.button-container a.button {
+  display: block;
+  width: 100%;
+  padding: 12px 16px;
+}
+
+/* share toggle: .share-btn.pull-right below the h1 (floats right, the intro wraps around it).
+   NOTE (cluster-static round 3): this project's decorateButtons (scripts/scripts.js) classes the paragraph
+   `button-wrapper`, not the boilerplate's `button-container`, so the toggle/CTA/footer rules below are
+   inert on the served DOM. Renaming them measured correct per live but exposed a ~70 px shortfall on
+   ppap/terms-of-use (11.38 %/13.58 % FAIL, previously PASS); kept inert — no fix round left. */
+.static main .section.centered > .default-content-wrapper > h1 + p.button-container {
+  float: right;
+  width: auto;
+  margin: 0 max(0px, calc((100% - 640px) / 2)) 8px 16px;
+  padding: 0;
+}
+
+/* article footer: source .article-footer { display: flex; align-items: center; margin: 32px auto;
+   border-top: 1px solid white } p { flex: 1 } + .share-btn — two paragraphs, the toggle pulled up into
+   the text row */
+.static main .section.centered > .default-content-wrapper > p:has(+ p.button-container:last-child) {
+  display: flex;
+  box-sizing: border-box;
+  align-items: center;
+  min-height: 48px;
+  margin: 32px auto 0;
+  padding-right: 121px;
+  border-top: 1px solid var(--color-white);
+}
+
+.static main .section.centered > .default-content-wrapper > p.button-container:last-child {
+  margin: -48px auto 32px;
+  padding: 0;
+  line-height: 0;
+  text-align: right;
+}
+
+.static main .section.centered > .default-content-wrapper > h1 + p.button-container a.button,
+.static main .section.centered > .default-content-wrapper > p.button-container:last-child a.button {
+  display: inline-block;
+  width: 120px;
+  padding: 8px 0;
+  outline: 8px solid var(--color-white);
+  box-shadow: 0 1px 6px 0 rgb(0 0 0 / 20%);
+}
+
+/* below 640 the source h1 is the base rule only (bundle @32318: h1 { font-size: 1rem; line-height: 120% };
+   the 54px/125% step is @32617 min-width 640) — measured 16px/19.2px on PPAP at 360, the build read 24px/30px.
+   The share toggle (source .share-btn 342×48 block, .btn 74×48 pulled right, 8px below) uses this project's
+   `button-wrapper` paragraph class (see the note above); scoped to ≤ 639 so the gated 1440 rows stay as measured. */
+@media (width <= 639px) {
+  .static main .section.centered > .default-content-wrapper > h1 {
+    font-size: 1rem;
+    line-height: 1.2;
+  }
+
+  /* bundle @32994: .h3, h3 { 1.5rem; 125% } below 640 (1.63rem is the min-width 640 step, @34167) */
+  .static main .section.centered > .default-content-wrapper h3 {
+    font-size: 1.5rem;
+  }
+
+  /* source .share-btn.pull-right floats right of the first paragraph (edi/terms-of-use 360: the copy starts
+     at the h1's bottom edge, y 98, beside the 74×48 toggle) */
+  .static main .section.centered > .default-content-wrapper > h1 + p.button-wrapper {
+    float: right;
+    width: auto;
+    margin: 0 0 8px 16px;
+    line-height: 0;
+  }
+
+  .static main .section.centered > .default-content-wrapper > h1 + p.button-wrapper a.button {
+    display: inline-block;
+    box-sizing: border-box;
+    min-height: 48px;
+    margin: 0;
+    padding: 12px 16px;
+    line-height: 1.5;
+  }
+
+  /* article footer below 640 (measure.mjs ppap and terms-of-use 360): the source .article-footer { display: flex;
+     align-items: center; margin: 32px 0; border-top: 1px solid white } is 342 × 49 and hides its paragraph
+     ("Did you enjoy reading the article?", display: none); only the 74 × 48 share toggle stays, at the right edge
+     (x 277). The build showed the paragraph and a left-aligned 342 px toggle row (7.6 / 12 px margins) — the
+     24 / 28 px row delta of the two pages. Same `button-wrapper` class note as above; scoped to ≤ 639 and to the
+     #share toggle: the unscoped rule hid the paragraph before semi-automated-order-pickers' closing CTA (5.84 → 13.4 %). */
+  .static main .section.centered > .default-content-wrapper > p:has(+ p.button-wrapper:last-child a[href="#share"]) {
+    display: none;
+  }
+
+  .static main .section.centered > .default-content-wrapper > p.button-wrapper:last-child:has(a[href="#share"]) {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-end;
+    min-height: 49px;
+    margin: 32px 0;
+    padding: 0;
+    border-top: 1px solid var(--color-white);
+    line-height: 0;
+  }
+
+  .static main .section.centered > .default-content-wrapper > p.button-wrapper:last-child a.button[href="#share"] {
+    display: inline-block;
+    box-sizing: border-box;
+    min-height: 48px;
+    margin: 0;
+    padding: 8px 16px;
+    line-height: 30px;
+  }
+}

@@ -1,0 +1,891 @@
+{
+  "_provenance": {
+    "writtenBy": "gate-state.mjs",
+    "derivedFrom": "coverage/pages.json",
+    "at": "2026-10-08T20:02:37.299Z"
+  },
+  "pages": [
+    {
+      "slug": "en",
+      "url": "https://www.linde-mh.com/en/",
+      "title": "Homepage Linde Material Handling",
+      "type": "unique",
+      "template": "en",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en"
+    },
+    {
+      "slug": "en-about-us",
+      "url": "https://www.linde-mh.com/en/About-us/",
+      "title": "Overview About Linde",
+      "type": "listing",
+      "template": "en-about-us-press",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/about-us"
+    },
+    {
+      "slug": "en-about-us-awards",
+      "url": "https://www.linde-mh.com/en/About-us/Awards/",
+      "title": "Awards, prizes, and commendations",
+      "type": "program",
+      "template": "en-products-e-trucks",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/about-us/awards"
+    },
+    {
+      "slug": "en-about-us-certificates",
+      "url": "https://www.linde-mh.com/en/About-us/Certificates/",
+      "title": "Our Certificates",
+      "type": "program",
+      "template": "en-products-e-trucks",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/about-us/certificates"
+    },
+    {
+      "slug": "en-about-us-company",
+      "url": "https://www.linde-mh.com/en/About-us/Company/",
+      "title": "Company | Linde Material Handling",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/about-us/company"
+    },
+    {
+      "slug": "en-about-us-events",
+      "url": "https://www.linde-mh.com/en/About-us/Events/",
+      "title": "Trade Fairs and Events",
+      "type": "listing",
+      "template": "en-about-us-press",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/about-us/events"
+    },
+    {
+      "slug": "en-about-us-innovations-from-linde",
+      "url": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/",
+      "title": "Technology & Innovation",
+      "type": "listing",
+      "template": "en-about-us-press",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/about-us/innovations-from-linde"
+    },
+    {
+      "slug": "en-about-us-magazine",
+      "url": "https://www.linde-mh.com/en/About-us/Magazine/",
+      "title": "Linde Magazine",
+      "type": "listing",
+      "template": "en-about-us-press",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/about-us/magazine"
+    },
+    {
+      "slug": "en-about-us-media",
+      "url": "https://www.linde-mh.com/en/About-us/Media/",
+      "title": "Linde-MH",
+      "type": "listing",
+      "template": "en-about-us-press",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/about-us/media"
+    },
+    {
+      "slug": "en-about-us-press",
+      "url": "https://www.linde-mh.com/en/About-us/Press/",
+      "title": "Press Release Overview",
+      "type": "listing",
+      "template": "en-about-us-press",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/about-us/press"
+    },
+    {
+      "slug": "en-about-us-sustainability",
+      "url": "https://www.linde-mh.com/en/About-us/Sustainability/",
+      "title": "Sustainability at Linde Material Handling",
+      "type": "program",
+      "template": "en-products-e-trucks",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/about-us/sustainability"
+    },
+    {
+      "slug": "en-about-us-working-at-linde",
+      "url": "https://www.linde-mh.com/en/About-us/Working-at-Linde/",
+      "title": "Working at Linde",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/about-us/working-at-linde"
+    },
+    {
+      "slug": "en-edi",
+      "url": "https://www.linde-mh.com/en/EDI/",
+      "title": "EDI– Electronic Data Interchange",
+      "type": "static",
+      "template": "en-legal-notes-privacy-statement",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/edi"
+    },
+    {
+      "slug": "en-forms-agility-on-point-form",
+      "url": "https://www.linde-mh.com/en/Forms/agility-on-point-form/",
+      "title": "Linde-MH",
+      "type": "form",
+      "template": "en-forms-global-contact-form",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/forms/agility-on-point-form"
+    },
+    {
+      "slug": "en-forms-automation-campaign",
+      "url": "https://www.linde-mh.com/en/Forms/Automation-Campaign/",
+      "title": "Linde-MH",
+      "type": "form",
+      "template": "en-forms-global-contact-form",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/forms/automation-campaign"
+    },
+    {
+      "slug": "en-forms-ex-proof-form",
+      "url": "https://www.linde-mh.com/en/Forms/Ex-Proof_Form/",
+      "title": "Linde-MH",
+      "type": "form",
+      "template": "en-forms-global-contact-form",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/forms/ex-proof-form"
+    },
+    {
+      "slug": "en-forms-gc-li-ion-recycling",
+      "url": "https://www.linde-mh.com/en/Forms-GC/Li-ION-Recycling/",
+      "title": "Linde-MH",
+      "type": "form",
+      "template": "en-forms-global-contact-form",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/forms-gc/li-ion-recycling"
+    },
+    {
+      "slug": "en-forms-gc-next-champ-form",
+      "url": "https://www.linde-mh.com/en/Forms-GC/Next-Champ-Form/",
+      "title": "Linde-MH",
+      "type": "form",
+      "template": "en-forms-global-contact-form",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/forms-gc/next-champ-form"
+    },
+    {
+      "slug": "en-forms-global-contact-form",
+      "url": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+      "title": "Linde-MH",
+      "type": "form",
+      "template": "en-forms-global-contact-form",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/forms/global-contact-form"
+    },
+    {
+      "slug": "en-forms-gse-expo",
+      "url": "https://www.linde-mh.com/en/Forms/GSE-Expo/",
+      "title": "GSE Expo 2026 | Linde Material Handling",
+      "type": "form",
+      "template": "en-forms-global-contact-form",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/forms/gse-expo"
+    },
+    {
+      "slug": "en-forms-rent-a-truck",
+      "url": "https://www.linde-mh.com/en/Forms/Rent-A-Truck/",
+      "title": "Linde-MH",
+      "type": "form",
+      "template": "en-forms-global-contact-form",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/forms/rent-a-truck"
+    },
+    {
+      "slug": "en-landingpage-agility-on-point",
+      "url": "https://www.linde-mh.com/en/Landingpage/Agility-on-point/",
+      "title": "New reach trucks Ri14 – Ri18 | Linde Material Handling",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/landingpage/agility-on-point"
+    },
+    {
+      "slug": "en-landingpage-automation-summit-2025",
+      "url": "https://www.linde-mh.com/en/Landingpage/Automation-Summit-2025/",
+      "title": "Automation Summit 2025 | Linde Material Handling",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/landingpage/automation-summit-2025"
+    },
+    {
+      "slug": "en-landingpage-compact-class-with-electric-drive",
+      "url": "https://www.linde-mh.com/en/Landingpage/Compact-class-with-electric-drive/",
+      "title": "Compact class with electric drive | Linde Material Handling",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/landingpage/compact-class-with-electric-drive"
+    },
+    {
+      "slug": "en-landingpage-e-models",
+      "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+      "title": "E20 – E35 and E35 – E50 electric forklift trucks | Linde Material Handling",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/landingpage/e-models"
+    },
+    {
+      "slug": "en-landingpage-glasses",
+      "url": "https://www.linde-mh.com/en/Landingpage/Glasses/",
+      "title": "Linde order pickers",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/landingpage/glasses"
+    },
+    {
+      "slug": "en-landingpage-gse-expo",
+      "url": "https://www.linde-mh.com/en/Landingpage/GSE-Expo/",
+      "title": "Linde MH at GSE Expo Europe 2026",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/landingpage/gse-expo"
+    },
+    {
+      "slug": "en-landingpage-h-models",
+      "url": "https://www.linde-mh.com/en/Landingpage/H-models/",
+      "title": "The new IC trucks | Hydrostatic drive | Linde",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/landingpage/h-models"
+    },
+    {
+      "slug": "en-landingpage-happy-driver",
+      "url": "https://www.linde-mh.com/en/Landingpage/Happy-Driver/",
+      "title": "Happy Driver",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/landingpage/happy-driver"
+    },
+    {
+      "slug": "en-landingpage-in-sync",
+      "url": "https://www.linde-mh.com/en/Landingpage/In-Sync/",
+      "title": "In Sync with your Rhythm | Linde Material Handling",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/landingpage/in-sync"
+    },
+    {
+      "slug": "en-landingpage-logimat",
+      "url": "https://www.linde-mh.com/en/Landingpage/Logimat/",
+      "title": "Linde MH at LogiMAT 2026 – Automation & Digital Solutions",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/landingpage/logimat"
+    },
+    {
+      "slug": "en-landingpage-next-champ",
+      "url": "https://www.linde-mh.com/en/Landingpage/Next-Champ/",
+      "title": "The Next Champ",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/landingpage/next-champ"
+    },
+    {
+      "slug": "en-landingpage-platform-counterbalanced-trucks",
+      "url": "https://www.linde-mh.com/en/Landingpage/Platform-Counterbalanced-Trucks/",
+      "title": "Counterbalanced Forklift Platform",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/landingpage/platform-counterbalanced-trucks"
+    },
+    {
+      "slug": "en-landingpage-r-matic",
+      "url": "https://www.linde-mh.com/en/Landingpage/R-Matic/",
+      "title": "The R-MATIC automated reach truck",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/landingpage/r-matic"
+    },
+    {
+      "slug": "en-landingpage-safely-to-the-top",
+      "url": "https://www.linde-mh.com/en/Landingpage/Safely-to-the-top/",
+      "title": "Heights",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/landingpage/safely-to-the-top"
+    },
+    {
+      "slug": "en-landingpage-semi-automated-order-pickers",
+      "url": "https://www.linde-mh.com/en/Landingpage/Semi-automated-order-pickers/",
+      "title": "Product search I Linde Material Handling",
+      "type": "static",
+      "template": "en-legal-notes-privacy-statement",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/landingpage/semi-automated-order-pickers"
+    },
+    {
+      "slug": "en-landingpage-x-models",
+      "url": "https://www.linde-mh.com/en/Landingpage/X-models/",
+      "title": "X20 – X35 and X35 - X50 Electric Forklift Trucks",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/landingpage/x-models"
+    },
+    {
+      "slug": "en-landingpage-x-range",
+      "url": "https://www.linde-mh.com/en/Landingpage/X-Range/",
+      "title": "R14 – R17 X Reach Trucks",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/landingpage/x-range"
+    },
+    {
+      "slug": "en-legal-notes-cookie-policy",
+      "url": "https://www.linde-mh.com/en/Legal-Notes/Cookie-Policy/",
+      "title": "Cookie Note",
+      "type": "static",
+      "template": "en-legal-notes-privacy-statement",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/legal-notes/cookie-policy"
+    },
+    {
+      "slug": "en-legal-notes-legal",
+      "url": "https://www.linde-mh.com/en/Legal-Notes/Legal/",
+      "title": "Legal",
+      "type": "static",
+      "template": "en-legal-notes-privacy-statement",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/legal-notes/legal"
+    },
+    {
+      "slug": "en-legal-notes-ppap",
+      "url": "https://www.linde-mh.com/en/Legal-Notes/PPAP/",
+      "title": "Linde PPAP (Production Part Approval Process)",
+      "type": "static",
+      "template": "en-legal-notes-privacy-statement",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/legal-notes/ppap"
+    },
+    {
+      "slug": "en-legal-notes-privacy-statement",
+      "url": "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/",
+      "title": "Privacy Statement",
+      "type": "static",
+      "template": "en-legal-notes-privacy-statement",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/legal-notes/privacy-statement"
+    },
+    {
+      "slug": "en-legal-notes-terms-of-use",
+      "url": "https://www.linde-mh.com/en/Legal-Notes/Terms-of-use/",
+      "title": "Terms of use",
+      "type": "static",
+      "template": "en-legal-notes-privacy-statement",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/legal-notes/terms-of-use"
+    },
+    {
+      "slug": "en-linde-core-linde-ergonomics-html",
+      "url": "https://www.linde-mh.com/en/Linde-Core/Linde-Ergonomics.html",
+      "title": "Ergonomics at Linde Material Handling",
+      "type": "program",
+      "template": "en-products-e-trucks",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/linde-core/linde-ergonomics"
+    },
+    {
+      "slug": "en-linde-core-linde-productivity-html",
+      "url": "https://www.linde-mh.com/en/Linde-Core/Linde-Productivity.html",
+      "title": "Productivity at Linde Material Handling",
+      "type": "program",
+      "template": "en-products-e-trucks",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/linde-core/linde-productivity"
+    },
+    {
+      "slug": "en-productfinder-html",
+      "url": "https://www.linde-mh.com/en/Productfinder.html",
+      "title": "Productfinder | Linde Material Handling",
+      "type": "unique",
+      "template": "en-productfinder-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/productfinder"
+    },
+    {
+      "slug": "en-products",
+      "url": "https://www.linde-mh.com/en/Products/",
+      "title": "Overview",
+      "type": "listing",
+      "template": "en-about-us-press",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products"
+    },
+    {
+      "slug": "en-products-approved-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Approved-Trucks/",
+      "title": "Used Forklifts | Linde Material Handling",
+      "type": "program",
+      "template": "en-products-e-trucks",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/approved-trucks"
+    },
+    {
+      "slug": "en-products-automated-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Automated-Trucks/",
+      "title": "Automated industrial trucks | Linde Material Handling",
+      "type": "listing",
+      "template": "en-about-us-press",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/automated-trucks"
+    },
+    {
+      "slug": "en-products-diesel-forklifts-d344",
+      "url": "https://www.linde-mh.com/en/Products/Diesel-Forklifts/",
+      "title": "Diesel Forklift Purchase & Hire | Linde Material Handling",
+      "type": "program",
+      "template": "en-products-e-trucks",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/diesel-forklifts"
+    },
+    {
+      "slug": "en-products-e-trucks",
+      "url": "https://www.linde-mh.com/en/Products/E-Trucks/",
+      "title": "Electric forklift trucks from Linde Material Handling",
+      "type": "program",
+      "template": "en-products-e-trucks",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/e-trucks"
+    },
+    {
+      "slug": "en-products-explosion-proof-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Explosion-Proof-Trucks/",
+      "title": "Explosion Protection in Intralogistics | Linde Material Handling",
+      "type": "program",
+      "template": "en-products-e-trucks",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/explosion-proof-trucks"
+    },
+    {
+      "slug": "en-products-forklift-hire",
+      "url": "https://www.linde-mh.com/en/Products/Forklift-Hire/",
+      "title": "Forklift Hire | Linde Material Handling",
+      "type": "program",
+      "template": "en-products-e-trucks",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/forklift-hire"
+    },
+    {
+      "slug": "en-products-forklift-truck",
+      "url": "https://www.linde-mh.com/en/Products/Forklift-Truck/",
+      "title": "Forklift Trucks—Models for Any Application | Linde Material Handling",
+      "type": "program",
+      "template": "en-products-e-trucks",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/forklift-truck"
+    },
+    {
+      "slug": "en-products-gas-forklifts",
+      "url": "https://www.linde-mh.com/en/Products/Gas-forklifts/",
+      "title": "Gas Forklifts | Linde Material Handling",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/gas-forklifts"
+    },
+    {
+      "slug": "en-products-hand-pallet-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Hand-Pallet-Trucks/",
+      "title": "Hand pallet trucks | Linde Material Handling",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/hand-pallet-trucks"
+    },
+    {
+      "slug": "en-products-heavy-duty-forklifts",
+      "url": "https://www.linde-mh.com/en/Products/Heavy-Duty-Forklifts/",
+      "title": "Heavy trucks",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/heavy-duty-forklifts"
+    },
+    {
+      "slug": "en-products-ic-trucks",
+      "url": "https://www.linde-mh.com/en/Products/IC-Trucks/",
+      "title": "IC-trucks from Linde Material Handling",
+      "type": "program",
+      "template": "en-products-e-trucks",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/ic-trucks"
+    },
+    {
+      "slug": "en-products-order-pickers",
+      "url": "https://www.linde-mh.com/en/Products/Order-Pickers/",
+      "title": "Order pickers from Linde Material Handling",
+      "type": "program",
+      "template": "en-products-e-trucks",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/order-pickers"
+    },
+    {
+      "slug": "en-products-pallet-stackers",
+      "url": "https://www.linde-mh.com/en/Products/Pallet-Stackers/",
+      "title": "Pallet Stackers | Linde Material Handling",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/pallet-stackers"
+    },
+    {
+      "slug": "en-products-pallet-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Pallet-Trucks/",
+      "title": "Pallet Trucks from Linde Material Handling",
+      "type": "program",
+      "template": "en-products-e-trucks",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/pallet-trucks"
+    },
+    {
+      "slug": "en-products-productfinder",
+      "url": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "title": "Product finder",
+      "type": "unique",
+      "template": "unique",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/productfinder"
+    },
+    {
+      "slug": "en-products-reach-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Reach-Trucks/",
+      "title": "Reach Trucks from Linde Material Handling",
+      "type": "program",
+      "template": "en-products-e-trucks",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/reach-trucks"
+    },
+    {
+      "slug": "en-products-tow-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Tow-Trucks/",
+      "title": "Tow tractors and platform trucks | Linde Material Handling",
+      "type": "program",
+      "template": "en-products-e-trucks",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/tow-trucks"
+    },
+    {
+      "slug": "en-products-tugger-trains",
+      "url": "https://www.linde-mh.com/en/Products/Tugger-Trains/",
+      "title": "Tugger trains | Linde Material Handling",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/tugger-trains"
+    },
+    {
+      "slug": "en-products-very-narrow-aisle-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Very-Narrow-Aisle-Trucks/",
+      "title": "Very narrow aisle trucks from Linde Material Handling",
+      "type": "program",
+      "template": "en-products-e-trucks",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/products/very-narrow-aisle-trucks"
+    },
+    {
+      "slug": "en-service",
+      "url": "https://www.linde-mh.com/en/Service/",
+      "title": "Overview Linde Services",
+      "type": "listing",
+      "template": "en-about-us-press",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/service"
+    },
+    {
+      "slug": "en-service-genuine-spare-parts",
+      "url": "https://www.linde-mh.com/en/Service/Genuine-Spare-Parts/",
+      "title": "Genuine Spare Parts from Linde Material Handling",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/service/genuine-spare-parts"
+    },
+    {
+      "slug": "en-service-maintenance-repair",
+      "url": "https://www.linde-mh.com/en/Service/Maintenance-Repair/",
+      "title": "Maintenance and Repair",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/service/maintenance-repair"
+    },
+    {
+      "slug": "en-service-retrofit-accessories",
+      "url": "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+      "title": "Retrofit & Accessories",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/service/retrofit-accessories"
+    },
+    {
+      "slug": "en-service-technical-safety-services",
+      "url": "https://www.linde-mh.com/en/Service/Technical-Safety-Services/",
+      "title": "Technical & Safety Services from Linde Material Handling",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/service/technical-safety-services"
+    },
+    {
+      "slug": "en-service-training",
+      "url": "https://www.linde-mh.com/en/Service/Training/",
+      "title": "Training from Linde Material Handling",
+      "type": "program",
+      "template": "en-products-e-trucks",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/service/training"
+    },
+    {
+      "slug": "en-solutions-consulting",
+      "url": "https://www.linde-mh.com/en/Solutions/Consulting/",
+      "title": "Consulting",
+      "type": "listing",
+      "template": "en-about-us-press",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/solutions/consulting"
+    },
+    {
+      "slug": "en-solutions-energy-systems",
+      "url": "https://www.linde-mh.com/en/Solutions/Energy-Systems/",
+      "title": "Energy Systems",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/solutions/energy-systems"
+    },
+    {
+      "slug": "en-solutions-financing",
+      "url": "https://www.linde-mh.com/en/Solutions/Financing/",
+      "title": "Financing plans from Linde Material Handling",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/solutions/financing"
+    },
+    {
+      "slug": "en-solutions-fleet-management",
+      "url": "https://www.linde-mh.com/en/Solutions/Fleet-Management/",
+      "title": "myLinde Fleet Management Software | Linde Material Handling",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/solutions/fleet-management"
+    },
+    {
+      "slug": "en-solutions-intralogistics-automation",
+      "url": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/",
+      "title": "Intralogistics and Automation | Linde Material Handling",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/solutions/intralogistics-automation"
+    },
+    {
+      "slug": "en-solutions-overview-html",
+      "url": "https://www.linde-mh.com/en/Solutions/Overview.html",
+      "title": "Overview Linde Solutions",
+      "type": "listing",
+      "template": "en-about-us-press",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/solutions/overview"
+    },
+    {
+      "slug": "en-solutions-warehouse-safety",
+      "url": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/",
+      "title": "Warehouse Safety | Linde Material Handling",
+      "type": "landing",
+      "template": "en-landingpage-e-models",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/solutions/warehouse-safety"
+    },
+    {
+      "slug": "en-technical-location-finder-html",
+      "url": "https://www.linde-mh.com/en/technical/Location-Finder.html",
+      "title": "Network Partner",
+      "type": "unique",
+      "template": "en-technical-location-finder-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/location-finder"
+    },
+    {
+      "slug": "en-technical-news-detail-101184-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_101184.html",
+      "title": "Linde Roadster wins German Design Award 2019",
+      "type": "article",
+      "template": "en-technical-news-detail-101184-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/news-detail-101184"
+    },
+    {
+      "slug": "en-technical-news-detail-101442-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_101442.html",
+      "title": "Intelligent solutions help in creating added value",
+      "type": "article",
+      "template": "en-technical-news-detail-101184-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/news-detail-101442"
+    },
+    {
+      "slug": "en-technical-news-detail-101760-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_101760.html",
+      "title": "Narrow design, broad portfolio",
+      "type": "article",
+      "template": "en-technical-news-detail-101184-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/news-detail-101760"
+    },
+    {
+      "slug": "en-technical-news-detail-1033728-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_1033728.html",
+      "title": "Improved order picking concept",
+      "type": "article",
+      "template": "en-technical-news-detail-101184-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/news-detail-1033728"
+    },
+    {
+      "slug": "en-technical-news-detail-105280-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_105280.html",
+      "title": "Revolution meets evolution",
+      "type": "article",
+      "template": "en-technical-news-detail-101184-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/news-detail-105280"
+    },
+    {
+      "slug": "en-technical-news-detail-108480-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_108480.html",
+      "title": "Linde Material Handling receives large-scale order for lithium-ion trucks",
+      "type": "article",
+      "template": "en-technical-news-detail-101184-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/news-detail-108480"
+    },
+    {
+      "slug": "en-technical-news-detail-112000-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_112000.html",
+      "title": "Explosion protection from a single source",
+      "type": "article",
+      "template": "en-technical-news-detail-101184-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/news-detail-112000"
+    },
+    {
+      "slug": "en-technical-news-detail-114368-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_114368.html",
+      "title": "Service the smart way",
+      "type": "article",
+      "template": "en-technical-news-detail-101184-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/news-detail-114368"
+    },
+    {
+      "slug": "en-technical-news-detail-116352-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_116352.html",
+      "title": "For the ninth time in succession",
+      "type": "article",
+      "template": "en-technical-news-detail-101184-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/news-detail-116352"
+    },
+    {
+      "slug": "en-technical-news-detail-118656-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_118656.html",
+      "title": "Trolley transport rethought",
+      "type": "article",
+      "template": "en-technical-news-detail-101184-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/news-detail-118656"
+    },
+    {
+      "slug": "en-technical-news-detail-119232-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_119232.html",
+      "title": "Linde Material Handling wins EcoVadis Sustainability Award",
+      "type": "article",
+      "template": "en-technical-news-detail-101184-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/news-detail-119232"
+    },
+    {
+      "slug": "en-technical-news-detail-1254145-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_1254145.html",
+      "title": "The true winner is safety",
+      "type": "article",
+      "template": "en-technical-news-detail-101184-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/news-detail-1254145"
+    },
+    {
+      "slug": "en-technical-news-detail-1310802-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_1310802.html",
+      "title": "Wider choice for more efficient operation",
+      "type": "article",
+      "template": "en-technical-news-detail-101184-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/news-detail-1310802"
+    },
+    {
+      "slug": "en-technical-news-detail-132012-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_132012.html",
+      "title": "Perfect strategic fit",
+      "type": "article",
+      "template": "en-technical-news-detail-101184-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/news-detail-132012"
+    },
+    {
+      "slug": "en-technical-news-detail-1436407-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_1436407.html",
+      "title": "Early warning",
+      "type": "article",
+      "template": "en-technical-news-detail-101184-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/news-detail-1436407"
+    },
+    {
+      "slug": "en-technical-news-detail-1445120-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_1445120.html",
+      "title": "Fit for the future",
+      "type": "article",
+      "template": "en-technical-news-detail-101184-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/news-detail-1445120"
+    },
+    {
+      "slug": "en-technical-news-detail-1710976-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_1710976.html",
+      "title": "Larger stand, loads of innovations and, for the first time ever, outdoor exhibition areas",
+      "type": "article",
+      "template": "en-technical-news-detail-101184-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/news-detail-1710976"
+    },
+    {
+      "slug": "en-technical-news-detail-18902-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_18902.html",
+      "title": "Linde opens new Remanufacturing Center for Used Trucks in the Czech Republic",
+      "type": "article",
+      "template": "en-technical-news-detail-101184-html",
+      "status": "deployed",
+      "liveUrl": "https://main--96d6da00--aemcoder.aem.live/en/technical/news-detail-18902"
+    }
+  ]
+}

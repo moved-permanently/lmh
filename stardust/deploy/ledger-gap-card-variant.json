@@ -1,0 +1,218 @@
+{
+  "/en/about-us/events": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:05.926Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/magazine": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:05.926Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/sustainability": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:05.926Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/working-at-linde": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:05.926Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:12.713Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/compact-class-with-electric-drive": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:12.888Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/gse-expo": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:13.426Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/logimat": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:16.177Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/automated-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:18.800Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/diesel-forklifts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:21.269Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/explosion-proof-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:21.308Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/forklift-hire": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:22.645Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/forklift-truck": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:25.392Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/gas-forklifts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:28.061Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/hand-pallet-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:28.174Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/heavy-duty-forklifts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:29.728Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/pallet-stackers": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:33.304Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/reach-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:34.677Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/tugger-trains": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:35.066Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/genuine-spare-parts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:36.132Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/retrofit-accessories": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:39.816Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/consulting": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:40.648Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/intralogistics-automation": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:41.558Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/overview": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T02:29:42.796Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

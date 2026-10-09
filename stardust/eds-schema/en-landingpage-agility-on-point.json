@@ -1,0 +1,547 @@
+{
+ "source": "http://localhost:8802/stardust/migrated/en/Landingpage/Agility-on-point/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The new Linde reach trucks Ri14 – Ri18"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "AGILITY ON POINT."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Request your personal demo",
+     "href": "https://www.linde-mh.com/en/Forms/agility-on-point-form/"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [],
+   "imgCount": 1,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Find out more about the new Linde reach trucks Ri14 – Ri18",
+     "href": "../../../en/Products/Reach-Trucks/Ri14-Ri18/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Focused on what matters."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "True performance starts with focus. Not every operation needs maximum intensity – some need precision, reliability, and clever design, every single day. The new Linde reach truck focuses on what creates value: compact agility, intuitive operation, and proven quality from Linde Material Handling. Engineered for everyday performance – with agility on point."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Ri14 – Ri18",
+     "href": "../../../en/Products/Reach-Trucks/Ri14-Ri18/index.html"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Powerful and efficient standard reach truck for one to two-shift operation"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Ideal for pallet storage, use in block and rack warehouses, and internal transport of loads"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Compact design and standard integrated lithium-ion battery enable high maneuverability"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Load capacities of up to 1.8 tons and lift heights of up to 11 meters"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Experience agility on point and book your Ri14 – Ri18 test drive.",
+     "href": "https://www.linde-mh.com/en/Forms/agility-on-point-form/"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "5",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "ERGONOMICS & OPERATOR COMFORT"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Everything begins with the right posture."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "A fully decoupled driver´s workstation absorbs vibrations before they reach the driver. Thanks to fully adjustable components – from the pedal plate and steering to the seat and display – the workstation adapts perfectly to every driver. Wide entry, generous legroom, and integrated padding keep every shift comfortable."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "HANDLING & SAFETY"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Full control. At all times."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Linde Load Control delivers centimeter-precise mast operation through two integrated armrest levers. Thanks to the standard load wheel brakes, braking force is distributed across all wheels, not just the drive wheels. This results in shorter stopping distances – a genuine differentiator. Linde Curve Assist and optional Rack Protection Sensor add further layers of safety."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "CONNECTIVITY, SUSTAINABILITY & MAINTENANCE"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Built for the long run."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "The integrated 14.3 KWh li-ION battery is maintenance-free – and can be replaced with a 21.4 kWh unit when demands grow. Durable components reduce service effort, while the modern E&E architecture enables remote diagnosis and updates via the optional data transfer unit."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "PERFORMANCE & EFFICIENCY"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Compact form. Precise movement. Pure agility."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "The integrated battery enables a more compact design and an excellent turning radius – agility when it counts. Optional PowerLift and PowerDrive increase lifting and travel speeds. An optional exchange device for the Li-ion battery can ensure the truck remains operational even in more demanding multi-shift applications."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Find out more about the new Linde reach trucks Ri14 – Ri18",
+     "href": "../../../en/Products/Reach-Trucks/Ri14-Ri18/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Schedule a test drive",
+     "href": "https://www.linde-mh.com/en/Forms/agility-on-point-form/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "A.btn__link",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "FEATURES AT A GLANCE"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "ERGONOMICS & OPERATOR COMFORT"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Fully decoupled driver’s workplace and spring-loaded seat minimize vibrations"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Freedom of movement thanks to generous driver’s workplace"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Individually adjustable components ensure optimum operating comfort"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Ergonomically positioned, intuitive controls"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Wide, low entry step with anti-slip surface makes it easy to get in and out"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "HANDLING & SAFETY"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Standard load wheel brakes (all-wheel braking system) for short braking distances, which are not affected by load weight or mast position"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Linde Curve Assist automatically adjusts the driving speed to the steering angle"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Optimized all-round visibility thanks to raised seat position and improved workplace design"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Wide range of optional assistance systems & lighting options"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 5
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "CONNECTIVITY, SUSTAINABILITY & MAINTENANCE"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Robust design and maintenance-free components for maximum availability"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Easy access to all service-relevant components saves time during maintenance"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Integration into digital processes – ready for remote maintenance"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Dense, regional service network from Linde MH for fast support"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "PERFORMANCE & EFFICIENCY"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Short overall length enables precise maneuvering in confined working areas"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Easy load handling thanks to Linde Load Control and dual pedal control"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Energy-efficient lithium-ion batteries with flexible charging options for multi-shift operation"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Optional PowerLift and PowerDrive functions for higher lifting and driving speeds"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 5
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Learn more about the new reach truck Ri14 – Ri18 from Linde Material Handling",
+     "href": "../../../en/Products/Reach-Trucks/Ri14-Ri18/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "AGILITY. ON POINT."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "When human and machine move as one, performance becomes effortless. The new Linde is focused on what matters – for your operation, every day."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Ri14 – Ri18",
+     "href": "../../../en/Products/Reach-Trucks/Ri14-Ri18/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Request your test drive now!",
+     "href": "https://www.linde-mh.com/en/Forms/agility-on-point-form/"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "/en/products/explosion-proof-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-09T00:25:22.186Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

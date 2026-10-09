@@ -1,0 +1,1770 @@
+{
+ "source": "http://localhost:8804/stardust/migrated/en/Products/Forklift-Truck/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Forklift Trucks from Linde Material Handling"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The Number One Choice for Intralogistics"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Power Unit Types",
+     "href": "#2859306"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Buy, Hire, or Lease Forklift Trucks",
+     "href": "#2859311"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Product Highlights",
+     "href": "#2859315"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Load Classes",
+     "href": "#2859318"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Special versions",
+     "href": "#2859335"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Advantages at a glance",
+     "href": "#2859339"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Forklift Checklist",
+     "href": "#2859342"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Forklift Trucks from Linde MH in Operation",
+     "href": "#2859347"
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "FAQ",
+     "href": "#2859349"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 9,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Forklift trucks are the all-rounders of the intralogistics sector. Whether in warehouses, factories, or outdoor depots, their combination of high performance and versatility allows users to overcome any challenge in internal transportation and goods handling with ease."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde Material Handling has been offering a comprehensive portfolio of counterbalanced forklift trucks for over 60 years, providing the right solution for every user and every task. Linde’s developers aim to maximize productivity by providing the perfect combination of performance, operability, ergonomics, and safety. State-of-the-art drive technologies, intelligent assistance systems, and integration into software systems for fleet control and management ensure unrivaled performance and operating efficiency. Linde Material Handling’s comprehensive service network also guarantees a high level of fleet availability."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Forklift trucks from Linde Material Handling boast a wide range of designs and equipment options to suit all manner of applications and requirements. To find the perfect forklift truck for your application, you need to understand the characteristics of the different variants and performance classes available."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Read more",
+     "href": "#read_more"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Forklift Trucks from Linde MH: Tailored Power Unit Solutions for Any Application"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "When choosing the right drive system, the on-site operating conditions are crucial. What’s more, companies often need to consider environmental regulations and noise protection requirements when choosing a truck."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The experts at Linde MH tailor the drive solution precisely to the fleet size, infrastructure, operating environment, and workflows. From emission-free operation in sensitive areas to maximum performance in outdoor applications, Linde MH has the ideal for any requirement and any application."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "drive technology",
+     "href": "../../../en/Solutions/Energy-Systems/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Electric Forklift Trucks: Flexible and Emission-Free"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "For there are various technologies to choose from. Models with are proven and affordable solutions for occasional use and multi-shift operation. Forklift trucks with enable flexible working and quick opportunity charging during work breaks, removing the need for time-consuming battery changes. Electric forklift trucks with can be refueled in minutes, making them ideal for demanding multi-shift operation."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "electric forklift trucks,",
+     "href": "../../../en/Products/E-Trucks/index.html"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "lead-acid batteries"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "lithium-ion batteries",
+     "href": "../../../en/About-us/Innovations-from-Linde/Lithium-Ionen.html"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "fuel cells",
+     "href": "../../../en/About-us/Innovations-from-Linde/Fuel-Cells.html"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "2"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "3"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "4"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 3,
+      "imgs": 0,
+      "textRuns": 6
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "2"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "3"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "4"
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "IC Trucks: Powerful on Any Terrain"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Internal combustion forklift trucks with diesel or LPG engines boast impressive performance and high ground clearance, making them ideal for demanding outdoor and indoor applications, even on uneven terrain. The handle loads from 1.6 to 18 metric tons. All models also run on HVO fuel. Made from renewable raw materials, this fuel can reduce carbon emissions by up to 90 percent. The from Linde MH with a load capacity of 1.6 to 5 metric tons are also suitable for use in halls or partially covered areas thanks to their low emissions. Depending on requirements, the trucks can be fitted with portable gas cylinders or fixed tanks."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Linde diesel forklift trucks",
+     "href": "../../../en/Products/Diesel-Forklifts/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "gas forklifts",
+     "href": "../../../en/Products/Gas-forklifts/index.html"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 4,
+      "textRuns": 4
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "View all diesel and gas forklifts in the product finder",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?productTypes[]=2376&offerType=new"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "View all electric forklift trucks in the product finder",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?productTypes[]=2377&offerType=new"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "A.btn__link",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Buy, Hire, or Lease Forklift Trucks"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "When purchasing a new forklift truck, a well thought-out financing strategy is the foundation for long-term business success. Whether you buy, hire, or lease, each option has its own specific advantages. A transparent cost structure and custom terms enable sustainable investment strategies that combine economic and operational efficiency."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Buy a Forklift Truck New"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Buying a new forklift truck gives you a long-term, reliable solution with maximum availability, state-of-the-art technology, and optimal efficiency— all in a high-quality industrial truck tailored to your exact requirements."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Looking to buy a new forklift truck? Then check out our product finder",
+     "href": "../../../en/Productfinder.html"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "You can also buy selected warehouse trucks online in our ."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Don’t forget:"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "LindeShop",
+     "href": "https://www.linde-mh.shop"
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Hire a Forklift Truck"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Hiring forklift trucks is an economical option, either as a long-term alternative to purchasing or in the form of fast-access forklift trucks for temporary use or seasonal peaks. With no long-term capital commitment, this allows companies to remain flexible, react quickly to changing market requirements, and optimally adapt their fleet to current needs."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out about Linde MH forklifts for hire here.",
+     "href": "../../../en/Products/Forklift-Hire/index.html"
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Lease a Forklift Truck"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Leasing allows you to use new appliances without having to pay the full purchase price at once. This form of financing ensures predictable monthly installments, allows regular truck updates, and also includes various services on request. All of this makes leasing a predictable, future-proof solution."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Find out more about Linde MH’s leasing options here.",
+     "href": "../../../en/Solutions/Financing/index.html"
+    },
+    {
+     "role": "heading",
+     "order": 12,
+     "text": "Approved Used Trucks"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "Used forklifts from Linde MH’s Approved Trucks program are an affordable alternative to new trucks. Reconditioned and tested to the highest quality standards, the trucks offer impressively reliable performance. Choose from a wide selection of fully reconditioned trucks, individually configured to meet your specific requirements. Find out more about Allowed Used Trucks."
+    },
+    {
+     "role": "cta",
+     "order": 14,
+     "text": "Find out more here",
+     "href": "../../../en/Products/Approved-Trucks/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 0,
+      "textRuns": 6
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Then get in touch with our experts!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Product Highlights from Linde MH"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Linde Material Handling trucks are in a class of their own, whether electric or IC. The latest generation of is built on a common technological platform that can be fitted with both combustion engines or electric drives (lead-acid, lithium-ion or fuel cells). While the IC forklift trucks impress with their high performance and reliability in outdoor applications, the electric forklift trucks are emission-free and quiet with maximum maneuverability and low operating costs. This also gives rise to a new truck category: the combine the robustness and performance of IC trucks with all the advantages of an electric drive. All variants feature the familiar Linde ergonomics and innovative assistance and safety systems."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Linde counterbalanced forklift trucks",
+     "href": "../../../en/Landingpage/Platform-Counterbalanced-Trucks/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "X-models",
+     "href": "../../../en/Landingpage/X-models/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "B.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Compact Electric Trucks",
+     "href": "../../../en/Landingpage/Compact-class-with-electric-drive/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The agile E14 – E20, Ei14 – Ei20, and Xi10 – Xi20 electric counterbalanced forklift trucks offer unrivaled model diversity, superior performance, and outstanding safety and ergonomics. With the Xi14 – Xi20 R roadster completing the range, the trucks in this segment are perfect for any application up to 2 metric tons."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "../../../en/Landingpage/Compact-class-with-electric-drive/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Indoor Specialists with Electric Drive",
+     "href": "../../../en/Landingpage/E-models/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The electric forklift trucks E20 – E35 and E35 – E50 handle loads from 2 to 5 metric tons. Thanks to their unmatched agility, they are ideal for indoor use. Their compact design and maneuverability allow optimal handling performance in the warehouse even in tight spaces."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "../../../en/Landingpage/E-models/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "High-Performance Electric Trucks",
+     "href": "../../../en/Landingpage/X-models/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The X20 – X35 and X35 – X50 forklifts, with load capacities from 2 to 5 metric tons, set new performance standards for electric forklift trucks. They combine the dynamics, flexibility, and emission-free operation of an electric forklift truck with the power and robustness of an IC truck."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Learn more",
+     "href": "../../../en/Landingpage/X-models/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "IC Endurance Trucks",
+     "href": "../../../en/Landingpage/H-models/index.html"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "The H20 – H35 and H35 – H50, with load capacities from 2 to 5 metric tons, represent everything that traditionally sets Linde MH trucks apart: safety, performance, ergonomics, and robustness—still unparalleled thanks to the precision and power of the hydrostatic drive."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Learn more",
+     "href": "../../../en/Landingpage/H-models/index.html"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Forklift Models: It’s All about Load Capacity"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Choosing the right forklift truck comes down to your specific requirements. Key factors here include the weight of the goods and items that need to be moved. Every Linde forklift truck is designed according to clear principles: regardless of the respective load capacity, they must impress with maximum stability and a high residual load capacity—from agile compact models for medium loads to powerful heavy-duty forklift trucks for demanding industrial applications. Thanks to their intelligent assistance systems and wireless data transmission, our trucks set new standards in precision, safety, and connectivity."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Forklift Trucks with Load Capacity from 1 to 2 Metric Tons"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "In the 1 to 2 metric ton range, Linde MH forklift trucks are the ideal choice for light to medium transport tasks. The compact counterbalanced forklift trucks are ideal for use indoors and on lightly surfaced outdoor areas. The trucks are available in both three-wheel and four-wheel versions. For maximum productivity, up to three steering axle variants are available to match the truck perfectly to the respective ground conditions."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Xi10 – Xi20",
+     "href": "https://www.linde-mh.de/de/Produkte/E-Stapler/Xi10-Xi20/"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The Xi10 – Xi20 electric counterbalanced forklift trucks set new standards with their innovative drive technology, twelve equipment variants, and high lifting and lowering speeds. With their compact chassis and integrated Li-ION battery, they combine top performance with maneuverability."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.de/de/Produkte/E-Stapler/Xi10-Xi20/"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Xi14 – Xi20 R",
+     "href": "https://www.linde-mh.de/de/Produkte/E-Stapler/Xi14-Xi20-R/"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The Xi14 – Xi20 R roadster versions offer exceptional visibility and a high level of safety thanks to the absence of an A-pillar. For those seeking a compact electric forklift truck that maximizes maneuverability, comfort, performance, and protection, these trucks provide the ideal solution."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.de/de/Produkte/E-Stapler/Xi14-Xi20-R/"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "E14 – E20",
+     "href": "https://www.linde-mh.de/de/Produkte/E-Stapler/E14-E20/"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The E14 – E20 electric counterbalanced forklift trucks combine maneuverability and speed for outstanding handling performance. Available in fourteen variants with flexible energy options, they are the perfect choice for indoor use."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.de/de/Produkte/E-Stapler/E14-E20/"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Ei14 – Ei20",
+     "href": "https://www.linde-mh.de/de/Produkte/E-Stapler/Ei14-Ei20/"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Thanks to their integrated Li-ION battery, the Ei14 – Ei20 trucks allow easy opportunity charging without changing the battery, making them ideal for one to two-shift operation indoors. The absence of a battery tray means they offer the driver more headroom and legroom as well as a lower and wider entrance."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.de/de/Produkte/E-Stapler/Ei14-Ei20/"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "H16 – H20",
+     "href": "https://www.linde-mh.de/de/Produkte/V-Stapler/H16-H20/"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "The H16 – H20 IC counterbalanced forklift trucks impress with their versatility, maneuverability, and energy efficiency. Thanks to their robust design and ergonomic workstation, they are perfect for outdoor applications—from loading and unloading trucks to serving warehouse racking."
+    },
+    {
+     "role": "cta",
+     "order": 14,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.de/de/Produkte/V-Stapler/H16-H20/"
+    }
+   ],
+   "imgCount": 5,
+   "editableTexts": 10,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "21",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Forklift Trucks with Load Capacity from 2 to 3.5 Metric Tons"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "22",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Linde four-wheel forklifts with a load capacity of 2 to 3.5 metric tons are true all-rounders in material handling. With their wide range of applications, they reliably handle the transportation of Euro pallets, pallet cages, and bulky goods—both in warehouses and production facilities as well as outdoors."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "23",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "X20 – X35",
+     "href": "../../../en/Products/E-Trucks/X20-X35/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Thanks to their performance and robustness, the X20 – X35 electric forklift trucks provide a genuine alternative to combustion engines. Combining the strengths of both drive types, they offer a no-compromise, emission-free solution for even the most demanding applications."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/X20-X35/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "E20 – E35",
+     "href": "../../../en/Products/E-Trucks/E20-E35/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The E20 – E35 electric forklift trucks are the perfect choice for indoor use, combining a compact design and twin-motor front-wheel drive for maximum maneuverability even in narrow aisles. They also feature a spacious and ergonomic driver’s workstation."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/E20-E35/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "H20 – H35",
+     "href": "../../../en/Products/IC-Trucks/H20-H35/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The robust H20 – H35 IC counterbalanced forklift trucks impress with their high performance and ease of use, even under the most demanding conditions. They also set standards when it comes to precision, safety, and connectivity."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Learn more",
+     "href": "../../../en/Products/IC-Trucks/H20-H35/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "24",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Forklift Trucks with Load Capacity from 3.5 to 5 Metric Tons"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "25",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Forklift trucks with a load capacity of 3.5 to 5 metric tons are the ideal solution for production environments and large-scale warehouse operations. These powerful industrial forklift trucks can handle not only level warehouse floors but also outdoor applications. They are particularly at home in the building materials trade and the beverage industry."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "26",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "X35 – X50",
+     "href": "../../../en/Products/E-Trucks/X35-X50/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The X35 – X50 trucks combine the dynamics and emission-free operation of Linde electric forklift trucks with the robustness and power delivery previously only available in IC trucks with a hydrostatic drive. This makes them suitable for the most demanding indoor and outdoor applications. With a twin-motor front-wheel drive, ergonomic design, and extensive customization options, they set new standards."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/X35-X50/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "E35 – E50",
+     "href": "../../../en/Products/E-Trucks/E35-E50/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The E35 – E50 electric forklift trucks impress with their outstanding performance and versatility in indoor applications. With a twin-motor front-wheel drive, Linde combi-steering axle, and synchronous reluctance motors, they achieve maximum handling performance even in confined spaces."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/E35-E50/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "H35 – H50",
+     "href": "../../../en/Products/IC-Trucks/H35-H50/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The H35 – H50 IC trucks are powerful and robust all-rounders. Thanks to their hydrostatic drive, powerful industrial motor, and maintenance-free components, they can handle even the toughest outdoor operating conditions with maximum reliability and efficiency."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Learn more",
+     "href": "../../../en/Products/IC-Trucks/H35-H50/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "27",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Forklift Trucks with Load Capacity from 5 to 8 Metric Tons"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "28",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Forklifts for 5 to 8 metric tons are real powerhouses. Whether used in steelworks, logistics centers, or beverage wholesalers—the powerful forklift trucks from Linde MH move even the heaviest loads safely and reliably. They can even handle materials such as concrete, wood, and stone with ease, including on uneven terrain."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "29",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "E60 – E80",
+     "href": "../../../en/Products/E-Trucks/E60-E80/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The E60 – E80 electric forklift trucks are powerful solutions for heavy loads of up to 8 metric tons. Two powerful motors, electronic truck control system, and precision controls such as Linde Load Control and dual pedal control guarantee maximum performance."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/E60-E80/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "H50 – H80",
+     "href": "../../../en/Products/IC-Trucks/H50-H80/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The H50 – H80 IC trucks impress with their safe handling, high performance, and compact design. Powerful motors, hydrostatic direct drive, and intelligent design guarantee maximum efficiency and productivity for heavy loads and special applications."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "../../../en/Products/IC-Trucks/H50-H80/index.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "30",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Forklift Trucks with Load Capacity from 10 to 18 Metric Tons"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "31",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "With load capacities of up to 18 metric tons, are used wherever performance and robustness are required—from the steel industry to port logistics and paper production. Diesel-powered heavy-duty forklift trucks from Linde MH feature impressively low fuel consumption. Linde MH also offers an electric heavy-duty forklift truck that can also handle weights of up to 18 metric tons."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "heavy-duty forklift trucks",
+     "href": "../../../en/Products/Heavy-Duty-Forklifts/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "32",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "E100 – E180",
+     "href": "../../../en/Products/E-Trucks/E100-E180/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The E100 – E180 electric heavy-duty forklift trucks combine the power delivery of a diesel truck with all the benefits of an electric forklift truck. With lifting heights of up to 10 meters and a choice between lead-acid or lithium-ion batteries, they can handle even the most demanding tasks and 24/7 operations."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/E100-E180/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "H100 – H180 D",
+     "href": "../../../en/Products/IC-Trucks/H100-H180-D/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The H100 – H180 D are suitable for precise, high-speed handling of the heaviest loads. The hydrostatic drive enables movements with millimeter precision and smooth direction changes, while modern diesel engines ensure high torque and low fuel consumption."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "../../../en/Products/IC-Trucks/H100-H180-D/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "HT100 – HT180 D",
+     "href": "../../../en/Products/IC-Trucks/HT100-HT180-Ds/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The HT100 – HT180 D trucks transport heavy loads efficiently and with ease. For longer transport distances in particular, they deliver exceptional performance. Specially optimized components ensure maximum all-round visibility and enhance safety."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Learn more",
+     "href": "../../../en/Products/IC-Trucks/HT100-HT180-Ds/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "33",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Forklift Trucks for Special Operating Conditions"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "34",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Linde Material Handling also offers forklift trucks for specialist applications, enabling efficient operation even under particularly challenging or unusual conditions."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "35",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Heat and Dust-Resistant Forklift Trucks",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Cold-Store Forklift Trucks",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Explosion-proof forklifts",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "Heat and Dust-Resistant Forklift Trucks"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Linde MH IC and electric forklift trucks are designed for harsh operating conditions. Both the diesel and LPG forklifts and the powerful electric forklift trucks and can handle heat and heavy dust formation with ease. Their performance remains unaffected even when exposed to uneven floors, dirt, and temperature fluctuations. Under extreme conditions, such as in foundries, the trucks have additional protection in the form of heat and fire-resistant protective mats or high-performance dust filters."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "X20 – X35",
+     "href": "../../../en/Products/E-Trucks/X20-X35/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "X35 – X50",
+     "href": "../../../en/Products/E-Trucks/X35-X50/index.html"
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Cold-Store Forklift Trucks"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Cold-store forklift trucks are optimized for use in cold stores and deep-freeze warehouses down to -30 °C. The trucks use corrosion-resistant materials to protect against moisture and ensure their longevity. Insulated components also ensure reliable operation by protecting electronics and hydraulic systems from the cold. Heated cabs increase driving comfort and boost the driver’s productivity in the process. Energy-efficient systems reduce energy consumption despite extreme temperatures."
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Explosion-proof forklifts"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Linde Material Handling’s explosion-proof forklift trucks are specially designed for safe operation in potentially explosive atmospheres. With their ATEX certification and stringent safety standards, they are ideal for use in the chemical industry, refineries, and warehouses where explosive gases or dusts are present. Robust materials and dedicated protection systems reliably prevent sparks and ignition hazards. Thanks to their specially sealed electrical and mechanical systems, the trucks guarantee maximum safety in even the most demanding conditions."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "More about explosion-proof forklift trucks from Linde MH",
+     "href": "../../../en/Products/Explosion-Proof-Trucks/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 4
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "36",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Customized Trucks for Every Requirement"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "From load capacity and drive type to battery capacity, mast design, and a seating position optimized for visibility, Linde forklift trucks have custom solutions available ex works for almost any task. Available optional extras range from specialist attachments and ergonomic seating solutions to driver assistance systems and safety features. Individual customer requirements can also be implemented, such as trucks for drivers with disabilities or for extreme cold or hot environments."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "37",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Linde Forklift Trucks—Advantages at a Glance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "38",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Ergonomics"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The ergonomically optimized driver’s workstation with intuitive controls enables fatigue-free operation. Optimal all-round visibility and individually adjustable controls boost both comfort and productivity."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Connectivity"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Fleet management systems and digital interfaces enable the trucks to be seamlessly integrated into your digital workflows. Real-time data analysis enables predictive maintenance and ensures maximum availability."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "39",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Performance"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde MH forklift trucks impress with outstanding performance, high residual load capacity, and maximum efficiency. Innovative technologies enable precise handling even when working at a fast tempo."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Safety"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "The comprehensive safety concept of Linde trucks with a robust design, optimum visibility, low center of gravity, and intelligent assistance systems reliably protects drivers, goods, and the surrounding area."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Energy"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Thanks to the hydrostatic drive, Linde MH diesel and gas forklifts are particularly powerful. The electric forklift trucks are available with three different energy systems: lead-acid, lithium-ion, and fuel cell."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "40",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Checklist before Purchase: How to Find the Right Forklift Truck"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "41",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "To find the right forklift truck, important factors such as operating conditions, load requirements, lifting height, and scope of use should be clarified in advance. With over 60 years of expertise, Linde MH helps customers assess their specific requirements and develops customized solutions for long-term success."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "42",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Operating Environment and Ambient Conditions"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Whether indoors, outdoors, or alternating between the two, the operating environment plays a key role in choosing the right forklift truck. The ideal truck is matched to the floor surface, available space, and maneuverability requirements. This is why Linde MH forklift trucks are optimally designed for any operating environment: with superior maneuverability, compact design, and excellent all-round visibility, they can handle even the most demanding conditions safely and efficiently."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Load Requirements"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "When choosing a suitable forklift truck, it is essential to know the maximum weight of the goods to be transported, the load center distance, and the specific characteristics of the goods. Whether bulky, fragile, or standardized, these characteristics determine which attachments are best suited to the task at hand. Linde MH’s extensive portfolio has the right solution whatever your requirement. Innovative technologies for and precise control ensure maximum productivity."
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "safe load handling",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Pilot.html"
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "Lifting Height and Operating Environment"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Having a good understanding of the operating environment is key to ensuring a seamless material flow. One important aspect here is the gate clearance heights, which need to be taken into account to choose the right mast type. The size of the forklift truck also needs to match the available space and operational requirements. With intelligent mast concepts and a high residual capacity, Linde MH forklift trucks enable efficient working even at great heights. The perfect combination of technology and ergonomics ensures fatigue-free, precision handling whatever the task."
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Operating Hours and Intensity of Use"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Daily operating times, shift patterns, and the required maintenance intervals should be taken into account when choosing a forklift truck. A robust truck designed for heavy-duty use guarantees uninterrupted performance and increased operational safety. The renowned quality of Linde MH forklift trucks ensures maximum availability and longevity. Maintenance-friendly design and a comprehensive service network keep downtimes to a minimum. Smart energy concepts enable continuous use without any loss of performance."
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Maximizing Efficiency and Value"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Purchase and operating costs as well as available subsidies should be carefully analyzed, as a good price-performance ratio and energy-efficient solutions reduce costs in the long term. In light of this, Linde forklift trucks are designed for maximum efficiency. Thanks to their highly efficient power units, long maintenance intervals, and a robust design, they deliver a low total cost of ownership (TCO). The trucks’ high productivity also ensures optimal deployment of personnel, reducing the cost per unit of goods handled. Smart financing solutions and expert advice on funding opportunities complete the package."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 10,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "43",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Contact us for a consultation!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "44",
+   "items": [],
+   "imgCount": 1,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "45",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Forklift Trucks from Linde MH in Operation"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "46",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "DB Schenker tests the new Linde E16",
+     "href": "../../../en/About-us/Magazine/DB-Schenker-Schweinfurt/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "DB Schenker in Schweinfurt handles around 800 to 1,000 metric tons of goods per day in its 5,000-square meter warehouse. Given the high volumes involved, the forklifts used therefore need to meet the most stringent requirements. In testing, the latest generation of the Linde E16 stood out thanks to its impressive speed and process reliability."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/DB-Schenker-Schweinfurt/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Linde Xi20 P at Klingele Paper & Packaging",
+     "href": "../../../en/About-us/Magazine/Klingele/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "An electric forklift that is virtually tailor-made for continuous use: the new Linde Xi20 P impresses at Klingele Paper & Packaging with its exceptional performance."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Klingele/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Linde Xi20 PH at Ostendorf",
+     "href": "../../../en/About-us/Magazine/Ostendorf/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Can an electric forklift truck do the job of an internal combustion truck? The new Linde Xi20 PH leaves no doubt about the answer to that question at Ostendorf. You can find all the details in the report."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Ostendorf/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Heineken Switzerland AG",
+     "href": "../../../en/About-us/Magazine/Heineken/index.html"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Heineken Switzerland has a challenging working environment that includes heavy forklifts, tight turnarounds, large handling volumes, and jobs where people and machines are constantly working side by side. To make sure it has everything covered in terms of safety, the company has invested continuously in safety innovations right from the start. The brewery was one of the first companies to introduce the Linde Safety Guard back in 2017—and has adapted the modular solution to meet its specific needs several times since."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Heineken/index.html"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "47",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "FAQ – Frequently Asked Questions about Forklift Trucks"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "48",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "What Is a Forklift Truck?"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "A forklift truck is a motorized industrial truck and an indispensable piece of equipment in modern logistics and industry. It is used to transport and handle goods within warehouses, factories, and logistics centers. The truck consists of a motorized base frame with two adjustable fork arms that enable loads such as pallets, crates, and containers to be lifted, moved, and stacked. Forklift trucks are typically operated with different types of drive, from diesel and gas to electric. They vary in size and load capacity, from small models for light loads to large industrial trucks that can move loads up to several tons."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Technically speaking, the term “forklift truck” refers specifically to counterbalanced forklift trucks. These are industrial trucks with forks and a counterweight at the rear."
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "More broadly or colloquially, however, “forklift truck” often also includes warehouse trucks. Warehouse trucks are smaller trucks used for optimizing warehouse processes such as storage, transport, and order picking. Don’t forget: you can also purchase warehouse trucks online from the ."
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "LindeShop",
+     "href": "https://www.linde-mh.shop"
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "What Types of Forklift Truck Are There?"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Classic forklift trucks, also known as counterbalanced forklift trucks, are just one of several variants of modern industrial trucks. Counterbalanced forklift trucks pick up the load using front-mounted fork arms and have an integrated counterweight to stabilize the raised load. There are also other specialized forklift types such as rough-terrain forklifts, sideloaders, reach trucks, four-way forklifts, and multi-directional forklifts. Each of these variants is optimized for specific applications and tasks."
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Where Are Forklift Trucks Used?"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Forklift trucks are the all-rounders of the intralogistics sector. Whether in warehouses, factories, or outdoor yards, the maneuverable industrial trucks are used wherever goods need to be handled and transported. Typical areas of application include logistics, the manufacturing industry, and retail. However, forklift trucks also play a vital role in internal material flows in specialist fields such as the chemical, pharmaceutical, and oil and gas sectors. Thanks to their versatility and performance, they are indispensable tools in modern industry."
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "How Much Does a Forklift Lift?"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "The rated load capacity of a forklift truck is a decisive criterion when choosing the right model. Most forklifts can lift and transport loads between 1 and 8 metric tons. For particularly demanding applications, Linde Material Handling also offers heavy-duty forklift trucks with a load capacity of up to 18 metric tons. It is therefore important to check exactly what loads actually need to be moved in day-to-day work before purchasing a new forklift truck. That way, you can choose the right truck to reliably handle the required load capacity while remaining cost-efficient."
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "What Is the Lifting Height of a Forklift Truck?"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "The lifting height determines the height at which loads can be lifted and stored on racks. The lifting height of forklift trucks varies depending on the model and design, but is typically between 3 and 8 meters. The lifting height depends on the number and type of masts. Forklift trucks can be equipped with single, double, triple, or even quadruple masts, which influences the maximum lifting height. For specialist applications, Linde MH also offers custom versions with extra-high lifting heights."
+    },
+    {
+     "role": "heading",
+     "order": 13,
+     "text": "How Fast Can a Forklift Truck Travel?"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "The maximum possible speed of forklift trucks varies depending on the model and drive type. On public roads, forklifts are generally limited to 25 km/h—at higher speeds, a standard driver’s license is required in addition to the forklift license. To prevent accidents, Linde Material Handling offers intelligent solutions for speed control. For example, the Linde Speed Assist system automatically adjusts the maximum speed to the truck’s surroundings. State-of-the-art radar sensor technology enables quick and easy adjustment to specific operating conditions and customer requirements—both indoors and outdoors."
+    },
+    {
+     "role": "heading",
+     "order": 15,
+     "text": "How Much Does a Forklift Truck Cost?"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "The cost of a forklift truck depends on various factors, including the drive technology, load capacity, and motor or engine power of the truck. The optional equipment fitted to the truck also affects its price. To offer customers maximum flexibility, Linde MH has various financing options. In addition to purchasing, forklift trucks can also be leased, hired, or hire-purchased. Allowed Used Trucks are also available as a cost-effective alternative. Due to the many variables involved, it is not possible to provide a standard cost estimate. For a personal quote for your specific requirements, we recommend contacting us directly."
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Tip: you can also purchase warehouse trucks online from the ."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "LindeShop",
+     "href": "https://www.linde-mh.shop"
+    },
+    {
+     "role": "heading",
+     "order": 19,
+     "text": "Do You Need a Driver’s License to Drive a Forklift Truck?"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "Yes, a driver’s license is required to drive a forklift truck. Forklift license training is required to acquire the knowledge and skills needed to operate a forklift truck safely. Obtaining a forklift license not only improves safety in the workplace, but also serves as proof of qualification for professional development. As a manufacturer of forklift trucks, warehouse trucks, and solutions for industrial trucks, Linde MH offers through its dedicated service partner network."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "forklift license training",
+     "href": "../../../en/Service/Training/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 19,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 8,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 5
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

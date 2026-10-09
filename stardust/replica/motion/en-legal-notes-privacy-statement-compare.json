@@ -1,0 +1,96 @@
+{
+  "live": "stardust/replica/motion/en-legal-notes-privacy-statement.json",
+  "build": "stardust/replica/motion/en-legal-notes-privacy-statement-build.json",
+  "toleranceMs": 150,
+  "tolerancePx": 8,
+  "advisory": true,
+  "findings": 1,
+  "counts": {
+    "behaviors": 11,
+    "parity": 7,
+    "missing": 1,
+    "extra": 0,
+    "tolerance": 0,
+    "dead": 3,
+    "advisory": 0
+  },
+  "verdicts": [
+    {
+      "cls": "widget",
+      "name": ".anchor-list-button-next button",
+      "state": "dead",
+      "note": "no sampled change across the frames (track/scroll/box/indicator)",
+      "line": "motion widget .anchor-list-button-next button: dead on live — not required (no sampled change across the frames (track/scroll/box/indicator))"
+    },
+    {
+      "cls": "hover",
+      "name": ".menu_nav_mainitem",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover .menu_nav_mainitem: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "hover",
+      "name": ".navigation-anchor-navigation ul li a",
+      "state": "parity",
+      "note": "self.color; n/a",
+      "line": "motion hover .navigation-anchor-navigation ul li a: parity (self.color; n/a)"
+    },
+    {
+      "cls": "hover",
+      "name": ".footer > ul a",
+      "state": "dead",
+      "note": "no measured hover diff",
+      "line": "motion hover .footer > ul a: dead on live — not required (no measured hover diff)"
+    },
+    {
+      "cls": "hover",
+      "name": ".location-overview-button",
+      "state": "missing",
+      "note": "no hover diff on build; live changes self.background; n/a",
+      "line": "motion hover .location-overview-button: MISSING on build (no hover diff on build; live changes self.background; n/a)"
+    },
+    {
+      "cls": "hover",
+      "name": ".share--title",
+      "state": "parity",
+      "note": "self.color; n/a",
+      "line": "motion hover .share--title: parity (self.color; n/a)"
+    },
+    {
+      "cls": "class",
+      "name": "normal-state",
+      "state": "parity",
+      "note": "added 6× on live, 3× on build",
+      "line": "motion class normal-state: parity (added 6× on live, 3× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "small",
+      "state": "parity",
+      "note": "added 6× on live, 5× on build",
+      "line": "motion class small: parity (added 6× on live, 5× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "small-state",
+      "state": "parity",
+      "note": "added 6× on live, 10× on build",
+      "line": "motion class small-state: parity (added 6× on live, 10× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "sticky-hidden",
+      "state": "parity",
+      "note": "added 9× on live, 7× on build",
+      "line": "motion class sticky-hidden: parity (added 9× on live, 7× on build)"
+    },
+    {
+      "cls": "class",
+      "name": "stickystacky-enabled",
+      "state": "parity",
+      "note": "added 3× on live, 3× on build",
+      "line": "motion class stickystacky-enabled: parity (added 3× on live, 3× on build)"
+    }
+  ]
+}

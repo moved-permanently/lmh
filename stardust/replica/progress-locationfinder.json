@@ -1,0 +1,121 @@
+{
+  "status": "residual",
+  "type": "locationfinder",
+  "slug": "en-technical-location-finder-html",
+  "live": "https://www.linde-mh.com/en/technical/Location-Finder.html",
+  "prototype": "stardust/prototypes/en-technical-location-finder-html-proposed.html",
+  "css": "stardust/prototypes/en-technical-location-finder-html.css",
+  "gateMain": "#pjax-container,.header,.footer",
+  "iterations": {
+    "360": 1,
+    "1440": 2
+  },
+  "contentCap": "shell 1600 (cap-probe PASS at 2560, 0 of 2 rows failed; sections live 0 vs build 2 advisory — live content is shadow DOM)",
+  "breakpoints": {
+    "360": {
+      "result": {
+        "structuralRed": 0,
+        "visualFlags": [
+          "BLANK RENDER (known multi-root artifact, main height 56 = header root)"
+        ],
+        "pixelPct": 23.52,
+        "pixelPctMapMasked": 2.42,
+        "pixelPctTop": 1.6,
+        "pixelPctMapRegion": 60.93,
+        "pixelPctBottom": 2.79,
+        "heightDelta": 0,
+        "clipped": 0,
+        "overflow": "ok",
+        "capProbe": "n/a",
+        "unitGeometry": "n/a",
+        "pass": true,
+        "passNote": "unmasked 23.52% FAIL; pixel-compare --mask 219:400 = 2.42%; map crop (0,219,360x400) = 60.93% of its area; rows 0-219 1.60%, rows 619-1108 2.79%"
+      }
+    },
+    "1440": {
+      "result": {
+        "structuralRed": 0,
+        "visualFlags": [],
+        "pixelPct": 20.2,
+        "pixelPctMapMasked": 3.24,
+        "pixelPctLeftColumn": 3.77,
+        "pixelPctMapRegion": 71.84,
+        "heightDelta": 0,
+        "clipped": 0,
+        "overflow": "ok",
+        "capProbe": "PASS",
+        "unitGeometry": "n/a (dealer-card lives in the live shadow DOM; required:false)",
+        "pass": true,
+        "passNote": "pass only with the map mask: unmasked 20.20% FAIL; pixel-compare --mask 198:600 = 3.24%; map region crop (756,198,684x600) = 71.84% of its area = 17.4% of the page; everything else 3.66%"
+      }
+    }
+  },
+  "justified": [
+    {
+      "item": "map tiles",
+      "region": {
+        "360": "x0 y219 360x400",
+        "1440": "x756 y198 684x600"
+      },
+      "why": "live Google Maps tiles are non-deterministic and need the owner key (dynamic-features row 9); build paints the captured map box in the captured base colour #e5e3df (gm-style container bg). gate.sh has no --mask flag; masked numbers come from pixel-compare.mjs --mask on the gate PNGs plus region crops run through pixel-compare.mjs"
+    },
+    {
+      "item": "content-diff 51 🟡 EXTRA in #pjax-container (31 text + 4 img)",
+      "why": "the captured page JSON/HTML hold 0 text nodes for the component (lmh-dealer-locator renders into a shadow root); all build strings are verbatim from the live rendered component (probe of the shadow tree) and the Dealer-Finder-App-Data.json entries"
+    },
+    {
+      "item": "chrome-parity 12 PAIR deltas (Δx ≤ 8px, Δw +2..4px on header utility links and centred footer links; letterSpacing on Follow us on)",
+      "why": "substitute-font width fork, permanent (stardust/replica/fonts.md); gate.sh built-in run prints 2 REGION no match = known non-finding (static gateNote)"
+    }
+  ],
+  "residuals": [
+    {
+      "band": "1440 y0-1000 (x756-1440)",
+      "pct": 17.4,
+      "cause": "Google Maps tiles vs static map box",
+      "flaggedFor": "Phase 5 (row 9: owner key / referrer allow-list) — region mask stays justified"
+    },
+    {
+      "band": "360 y219-619",
+      "pct": 22,
+      "cause": "Google Maps tiles vs static map box",
+      "flaggedFor": "Phase 5 row 9"
+    },
+    {
+      "band": "1440 left column 3.77% / 360 non-map 1.6-2.8%",
+      "pct": 3.77,
+      "cause": "font-fork text edges; default scrollbar styling of the 450px dealer list differs from the live custom-scrollbar",
+      "flaggedFor": "none"
+    }
+  ],
+  "captureState": [
+    "map: static <div class=\"map\" role=\"region\" aria-label=\"Map\"> at the captured size (684x600 at 1440 in the right column; 360x400 at 360, mobile toggle default = map) with the captured gm container background #e5e3df; no Maps script, no key",
+    "search controls as captured: Continent select (7 options, Select Continent selected) + Country select (Select Country only, no continent chosen) — inert, no JS",
+    "dealer list: live renders all 103 global entries (data-dealerfinder-type=global) in a 450px overflow-y:scroll region; build authors the first 5 entries verbatim (Agritec Ltd, AL-Futtaim FAMCO, Al-Ghodwa Group, Alkhorayef Commercial, ALWARK UKRAINE) with their logos hotlinked from the captured data JSON; the list is display:none below 768 as on live",
+    "mobile list/map toggle rendered with map active (border-bottom 3px #aa0020), inert",
+    "wrapper tag kept as <lmh-dealer-locator class=\"location-finder\"> (display:block via CSS, no custom-element JS) so live/build root selectors match"
+  ],
+  "motion": {
+    "observed": "live: 0 animations, 0 transitions, 19 class mutations — all header/subheader/stickystacky scroll-morph classes (small-state, small, normal-state, sticky-hidden); no component motion fired",
+    "implemented": "chrome.js (existing) — nothing new",
+    "dead": [],
+    "compare": "motion class sticky-hidden: parity (added 4× on live, 3× on build) | motion class stickystacky-enabled: parity (added 2× on live, 1× on build) | motion summary: 5 parity, 0 missing, 0 extra, 0 advisory (0 out of tolerance, 0 dead or unobserved on live — not required; tolerance 150ms / 8px)"
+  },
+  "fonts": "canon stack DaxlineWebPro → Nunito Sans substitute (fonts.md); the component itself uses DaxlineWebPro, sans-serif on live — same fork",
+  "canonChanges": [],
+  "canonRequests": [],
+  "units": "dealer-card family added to stardust/replica/units.json (required:false — live units are in a shadow root)",
+  "evidence": {
+    "360": "stardust/replica/gates/en-technical-location-finder-html-360 (iter1 --full)",
+    "1440": "stardust/replica/gates/en-technical-location-finder-html-1440 (iter1, iter2 --full; chrome-live-regions.json; anchor-live.json)",
+    "capProbe": "stardust/replica/gates/en-technical-location-finder-html-2560/cap-iter.json",
+    "motion": "stardust/replica/motion/en-technical-location-finder-html.json, en-technical-location-finder-html-build.json",
+    "probe": "stardust/.work/replica/bg/lf-probe.log (live shadow-tree dump at 1440/360)"
+  },
+  "nextArchetype": [
+    "the location finder is a shadow-DOM web component (<lmh-dealer-locator>): captured JSON/HTML carry none of its content — dump the live shadow tree with a Playwright probe (run-bg) and lift Tailwind computed values; content-diff then reports every string as 🟡 EXTRA (non-structural)",
+    "gate.sh has no --mask; for volatile regions run pixel-compare.mjs --mask yA:h on the gate dir live/build PNGs and crop regions with pngjs for x-bounded numbers",
+    "Phase 5: data snapshot = GET /en/technical/Dealer-finder-app/Dealer-Finder-App-Data.json?rev=6233823 (160 kB, 371 entries, keys city,continent,country,latitude,longitude,logo,name,street,zip,phone,mail,website,typeCode); map = Google Maps JS (needs the owner key + referrer allow-list); live initial state shows all entries in a 450px scroll list, map default on mobile",
+    "keep the custom-element tag in the build with display:block so measure/anchor selectors match; live #pjax-container = 600px component + 22.5px canon .content padding (623) at 1440, 563+23 at 360"
+  ]
+}

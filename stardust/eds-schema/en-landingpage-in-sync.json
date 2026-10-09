@@ -1,0 +1,724 @@
+{
+ "source": "http://localhost:8802/stardust/migrated/en/Landingpage/In-Sync/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Automation by Linde Material Handling"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "In Sync with your Rhythm"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Your Partner",
+     "href": "#2385408"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Holistic Solution Portfolio",
+     "href": "#2385413"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Software Solutions",
+     "href": "#2385418"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [],
+   "imgCount": 1,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "WE COMPOSE SOLUTIONS AROUND YOU.​"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Automation by Linde Material Handling turns logistics into a composition.​ ​Like a mixing console, our brings together – every channel adjustable, every signal synchronized.​ With Linde Material Handling as the producer and you as the creator, the result is a track precisely tuned, seamlessly integrated, and .​"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "holistic solution portfolio"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "proven AGVs, stationary automation and software"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "always in sync with your rhythm"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Accelerate your rhythm",
+     "href": "https://www.linde-mh.com/en/Forms/Automation-Campaign/"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "5",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "PROCESSES & SERVICES THAT SET THE SPEED."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Just as the beat provides the foundation of a song, form the solid backbone of automation. At Linde Material Handling, we act like skilled sound engineers: combining , we adjust the mixing console's faders to create a perfect composure – precisely . From the first analysis to ongoing operations, our solution designers and automation experts always strike the right note – backed by . Always attuned to your needs to boost ."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "services and process competence"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "deep process knowledge with comprehensive services"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "tailored to your individual challenges"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "proven expertise, the densest service network, and global reach"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "your performance"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "YOUR PARTNER"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde Material Handling supports customers from first ideas to long-term optimization of their processes."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "End-to-end consulting: from analysis, simulation and planning to implementation and operation"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Tailored fleet concepts: leaner, more energy-efficient, safer and more productive"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "​Adaptive process design: from reconfigured layouts to fully automated sites"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Comprehensive service: 7,400 technicians at 700 locations, available 24/7"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "​This holistic approach ensures efficiency, reliability and financial viability – all from a single source.​"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Contact an automation expert near you.",
+     "href": "https://www.linde-mh.com/en/Forms/Automation-Campaign/"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 8
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Close to you"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "698"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "locations worldwide"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Peace of mind"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "7,380"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "service technicians"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Proven technology"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "1,396"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "automated solutions running"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Expertise with over"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "70"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "years of experience in intralogistics"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 12,
+   "repeats": [
+    {
+     "unitSelector": "DIV.module-fact-counter--row",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "FIND THE RIGHT SOUND WITH OUR AUTOMATION SOLUTIONS."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "form the instruments in the mix of modern intralogistics. are designed to interact seamlessly – and tuned to a perfect . This creates a harmonious material flow that makes your automation solution the steady beat of ."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Mobile and stationary automation"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Proven AGVs as well as storage and transportation solutions"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "versatile, flexible"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "integrated solution"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "long-term efficiency"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "12",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "PROVEN TECHNOLOGY"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Based on our proven technology, our mix of mobile and stationary automation solutions is robust, reliable and performance-driven.​"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "​One of the broadest portfolios on the market"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Modular, scalable and customizable"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Industrial-scale production with the flexibility of bespoke engineering"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Deeply embedded safety expertise with redundant systems and intelligent sensors"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Seamless integration of manual and automated fleets as well as storage systems"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "​The result: sustainable performance and true one-stop solutions."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Automated mobile platform (AMR)",
+     "href": "https://www.linde-mh.co.uk/en_uk/Solutions/Automation/Autonome-Mobile-Roboter/"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Facilitates horizontal goods movement, transporting pallets and rolling racks in warehouses and production environments."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.co.uk/en_uk/Solutions/Automation/Autonome-Mobile-Roboter/"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Automated pallet stacker",
+     "href": "https://www.linde-mh.co.uk/en_uk/Products/Automated-trucks/L-MATIC-core/"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Optimized for material handling in tight spaces, ground transport, conveyor belt use, and low-level storage and retrieval."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.co.uk/en_uk/Products/Automated-trucks/L-MATIC-core/"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Automated 4-way pallet shuttle system",
+     "href": "https://www.linde-mh.co.uk/en_uk/Solutions/Automation/S-MATIC-cube/"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Enables high-density storage and retrieval of Euro and industrial pallets in warehouses with limited space."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.co.uk/en_uk/Solutions/Automation/S-MATIC-cube/"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Automated pallet stacker",
+     "href": "https://www.linde-mh.co.uk/en_uk/Products/Automated-trucks/L-MATIC-HD/"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Efficiently handles Euro and industrial pallets, storing and retrieving loads in wide-aisle warehouses."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.co.uk/en_uk/Products/Automated-trucks/L-MATIC-HD/"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Automated pallet stacker with cantilevered forks",
+     "href": "https://www.linde-mh.co.uk/en_uk/Products/Automated-trucks/L-MATIC-AC-k/"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "Ideal for transporting closed carriers and receiving goods at transfer stations."
+    },
+    {
+     "role": "cta",
+     "order": 14,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.co.uk/en_uk/Products/Automated-trucks/L-MATIC-AC-k/"
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Automated reach truck",
+     "href": "https://www.linde-mh.co.uk/en_uk/Products/Automated-trucks/R-MATIC-k/"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "Performs precise load handling, transporting, storing, and retrieving goods at medium to high lifting heights."
+    },
+    {
+     "role": "cta",
+     "order": 17,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.co.uk/en_uk/Products/Automated-trucks/R-MATIC-k/"
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Automated turret truck",
+     "href": "https://www.linde-mh.co.uk/en_uk/Products/Automated-trucks/K-Matic/"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Designed for handling loads in very narrow aisles, reaching high lift heights (up to 16 meters) for storage and retrieval processes in warehouses."
+    },
+    {
+     "role": "cta",
+     "order": 20,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.co.uk/en_uk/Products/Automated-trucks/K-Matic/"
+    }
+   ],
+   "imgCount": 7,
+   "editableTexts": 14,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 7,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "15",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "MIXING IT ALL TOGETHER​"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Like a mixing console that unites all channels, ensure : processes, mobile and stationary automation or manual fleets interact and ensure that all systems . Scalable, secure and adaptable at any time – for full control and maximum .​"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "our software solutions"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "seamless integration"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "play together in perfect sync"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "transparency in real time"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "17",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "SOFTWARE SOLUTIONS"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Our software connects all layers to guarantee seamless integration and reliable intralogistics.​"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "​Quick start: Fast implementation of our AGV solution portfolio with our control software MATIC:move​"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Grow: Add more complexity and scale with MATIC:move+ as your business evolves​"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Flexible connection: Use your individual warehouse systems (WMS, SAP) or our performant inhouse WMS Linde Warehouse Manager​ to ensure your material flow"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Open interfaces and VDA-5050 compliance for interoperability and future-proof investment​"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Certified data protection and cybersecurity for maximum trust and transparency​"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "​This creates a holistic system that grows with your business, delivering measurable efficiency and long-term success."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Download the Linde Warehouse Manager brochure here.",
+     "href": "../../../media/Global-Content/08_Downloads/LMH_WarehouseManager_EN_VIEW.pdf"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 9
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "19",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Let´s compose your individual track."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde Material Handling crafts powerful automation solutions precisely composed around you. Enjoy seamless integration and unparalleled efficiency, ensuring your entire operation is always perfectly in sync with your rhythm."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Get in touch with our automation experts!",
+     "href": "https://www.linde-mh.com/en/Forms/Automation-Campaign/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  }
+ ]
+}

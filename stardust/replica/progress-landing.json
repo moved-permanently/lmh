@@ -1,0 +1,187 @@
+{
+  "status": "residual",
+  "type": "landing",
+  "slug": "en-landingpage-e-models",
+  "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+  "prototype": "stardust/prototypes/en-landingpage-e-models-proposed.html",
+  "css": "stardust/prototypes/en-landingpage-e-models.css",
+  "method": "live #pjax-container DOM lifted verbatim (scripts/aos attrs stripped, URLs absolutised, html#top + body[data-theme=default] + .subheader breadcrumb carried) and the source bundles (vendors.min, vendors-index, index_style_bundle_lmh) selector-pruned to the page class/id/attr set (438/3010 rules) with bare-tag rules scoped via :where(#pjax-container); builder kept at stardust/.work/replica/landing-lift-build.mjs",
+  "iterations": {
+    "360": 2,
+    "1440": 4
+  },
+  "contentCap": {
+    "design": 1600,
+    "probe": "PASS at 2560 - 0 of 6 rows failed",
+    "evidence": "stardust/replica/gates/en-landingpage-e-models-2560/cap-iter.json"
+  },
+  "breakpoints": {
+    "360": {
+      "iterations": 2,
+      "result": {
+        "structuralRed": 0,
+        "visualFlags": "none",
+        "pixelPct": 33.84,
+        "heightDelta": -429,
+        "clipped": "16 at iter1 (text under the content-browser fixed overlay); overlay hidden for iter2, clip-probe not re-run - needs a --full confirmation",
+        "overflow": "ok (scrollWidth 360)",
+        "capProbe": "n/a (1440 only)",
+        "unitGeometry": "8 compared vs the 1440 origin cache (known artifact, not a finding)",
+        "pass": false
+      },
+      "rounds": [
+        {
+          "iter": "iter1 --full",
+          "pixelPct": 30.89,
+          "heightDelta": -321,
+          "note": "band 0-500 56%: .content-browser__content.is-open rendered as the mobile fixed overlay"
+        },
+        {
+          "iter": "iter2",
+          "pixelPct": 33.84,
+          "heightDelta": -429
+        }
+      ]
+    },
+    "1440": {
+      "iterations": 4,
+      "result": {
+        "structuralRed": 0,
+        "visualFlags": "none (19 yellow ICON MOVED icon-font glyphs 0x0 in .header/.footer/main - same glyph, justified)",
+        "pixelPct": 12.69,
+        "heightDelta": -111,
+        "clipped": 0,
+        "overflow": "ok (scrollWidth 1440)",
+        "capProbe": "PASS",
+        "unitGeometry": "9 compared: within 45, off 6 (link widths +7..+13 px, substitute glyph widths), hidden 0, missing 0",
+        "pass": false
+      },
+      "rounds": [
+        {
+          "iter": "iter1 --full",
+          "pixelPct": 41.65,
+          "heightDelta": -5240,
+          "note": "no universal box-sizing, html#top/body[data-theme] rules dropped, breadcrumb missing, media-browser module CSS 404"
+        },
+        {
+          "iter": "iter2",
+          "pixelPct": 28.44,
+          "heightDelta": 215
+        },
+        {
+          "iter": "iter3 --full",
+          "pixelPct": 28.39,
+          "heightDelta": 192,
+          "note": "viewer width:100% ineffective - containing block is shrink-to-fit"
+        },
+        {
+          "iter": "postmotion",
+          "pixelPct": 12.69,
+          "heightDelta": -111
+        }
+      ]
+    }
+  },
+  "justified": [
+    {
+      "probe": "content",
+      "flag": "yellow ICON MOVED x19 (U+F13D/U+F142 header, U+F12D footer, U+F165 main)",
+      "why": "icon-font glyphs report 0x0 on the live side; same glyph at the same anchor in the build"
+    },
+    {
+      "probe": "content",
+      "flag": "orange font fork",
+      "why": "licensed DaxlineWebPro substituted by Nunito Sans (stardust/replica/fonts.md)",
+      "permanent": true
+    },
+    {
+      "probe": "units",
+      "flag": "6 links off by +7..+13 px width at 1440",
+      "why": "substitute glyph widths; x/y/h within tolerance"
+    }
+  ],
+  "residuals": [
+    {
+      "breakpoint": 1440,
+      "band": "y 1000-1500",
+      "pct": 19.6,
+      "cause": "media-browser viewer + thumbnail rail: source media-browser-module_style_bundle_lmh.css 404s to a direct fetch; module hand-authored from live computed geometry (canon.css module media-browser) - rail/arrow micro-styles unverified",
+      "flaggedFor": "user"
+    },
+    {
+      "breakpoint": 1440,
+      "band": "y 11500-13238",
+      "pct": 70.5,
+      "cause": "related-content dark teaser carousel: 248px card text wraps one line less with the substitute (teaser 686 -> 656) plus the height-delta offset contaminating the footer band",
+      "flaggedFor": "user"
+    },
+    {
+      "breakpoint": 1440,
+      "band": "height delta -111 px (build taller)",
+      "pct": null,
+      "cause": "UNATTRIBUTED - appeared with the viewer intrinsic-width fix (section 4 measured -162 before it, related -30); hypothesis: the .content-browser nested in section 4 now reflows at 928 instead of 640 px. Iteration cap reached; first job of the next iteration: measure.mjs section 4 children at 1440",
+      "flaggedFor": "next-iteration"
+    },
+    {
+      "breakpoint": 360,
+      "band": "11 sections +26.6 px each (one 0.95rem/1.75 line) or +53 (two lines); h2 headline +30; .content-browser list +30; total -429",
+      "pct": 33.84,
+      "cause": "permanent font fork: Nunito Sans wraps one extra line in 342 px columns (fonts.md); every section box otherwise matches live (x/w equal; hero, anchor-nav, teaser heights equal)",
+      "flaggedFor": "user",
+      "permanent": true
+    }
+  ],
+  "captureState": [
+    {
+      "what": "media-carousel hero: first slide (image-clipper 2:1) as captured",
+      "where": ".layout-passepartout .header-image"
+    },
+    {
+      "what": "media-browser viewer: slide 1 + 2-thumb rail; slick inline widths (1440-only) neutralised in CSS",
+      "where": "section 4 .media-browser"
+    },
+    {
+      "what": "content-browser panels captured open (.is-open): inline at >=640 as live; at <=1023 the panel is a fixed full-screen overlay the live 360 capture shows closed -> hidden via page CSS, DOM kept",
+      "where": ".content-browser x3 (+1 nested in section 4)"
+    },
+    {
+      "what": "related-content teasercarousel at slide 0 with the captured slick clones (aria-hidden) kept so content-diff matches live",
+      "where": ".related-content .layout-teasercarousel--fixed"
+    },
+    {
+      "what": "AOS reveal elements rendered in their final (animated-in) state; data-aos attributes and aos-* classes stripped",
+      "where": ".parallax-container, .inline-button-row"
+    }
+  ],
+  "motion": {
+    "observed": "live @1440: header small/normal-state morph; stickystacky-enabled/sticky-hidden on .header, .subheader and .navigation-anchor-navigation-wrapper; aos-animate (+opacity/transform 2s transitions) on parallax__image, parallax__text-wrapper, inline-button-row",
+    "implemented": "header morph + stickystacky classes via canon chrome.js (motion-compare: 5 parity, 3 missing, 0 extra)",
+    "dead": [],
+    "missing": [
+      "aos-animate class + opacity/transform transitions (10+10 live events): needs page JS; chrome.js is the only permitted JS -> canon REQUEST; final state replicated statically"
+    ],
+    "files": [
+      "stardust/replica/motion/en-landingpage-e-models.json",
+      "stardust/replica/motion/en-landingpage-e-models-build.json"
+    ]
+  },
+  "fonts": {
+    "substitute": "Nunito Sans (canon fonts/, stardust/replica/fonts.md)",
+    "stack": "var(--font-face), var(--font-sub), Arial, sans-serif; medi/bold -> var(--font-sub-bold)",
+    "fork": "permanent width fork: one extra wrapped line per narrow paragraph at 360; link widths +7..+13 px at 1440"
+  },
+  "canonChanges": [
+    "APPEND canon.css: module media-browser (4 appended blocks: viewer/rail geometry from live computed styles; width:100vw + max-width:100% intrinsic-width fix; mobile counter row static + min-height 48)",
+    "units.json: + landing-teaser (.layout-33--fixed.layout--teaser .teaser n3), icon-text-teaser (.teaser--icon-text n3), related-dark-teaser (advisory n2)",
+    "REQUEST: chrome.js - AOS reveal (add aos-animate on intersection for [data-aos]; source transitions opacity/transform 2s) so motion-compare stops reporting 3 MISSING on landing pages",
+    "REQUEST: capture media-browser-module_style_bundle_lmh.css via Playwright response interception (direct fetch 404s) and replace the hand-authored media-browser module"
+  ],
+  "nextArchetype": [
+    "html must carry id=top and body data-theme=default - several source rules key on them; the breadcrumb .subheader is page content placed before <main>",
+    "lift the source universal rules scoped with :where(#pjax-container) (box-sizing:border-box, img{width:100%;height:100%;display:block}, p{line-height:1.75}) - canon deliberately has no universal reset; .body-container .content{background:#fff;padding-bottom:2.5vh} must be lifted (class outside main)",
+    "slick inline widths/transforms in the captured DOM are 1440 values: neutralise per carousel (track width auto + flex, slides 100%) or override at 360 (related slides 320px)",
+    "the .layout-article--centered > .ld-layout-item__wrapper column is shrink-to-fit: any neutralised carousel inside needs an intrinsic width (100vw + max-width 100%)",
+    "content-browser panels: .is-open captured; hide at <=1023 (fixed overlay) or the 0-500 band goes 56%",
+    "use stardust/.work/replica/landing-lift-build.mjs as the lifting template (selector-pruned source rules; strip :not() before class matching)"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+ "source": "http://localhost:8803/stardust/migrated/en/technical/News-Detail_119232.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Linde Material Handling wins EcoVadis Sustainability Award"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "14 Feb 2019"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Gold for responsible corporate conduct"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Linde Material Handling is a leader in its sector – this has been the case for decades in terms of industrial trucks and goods handling. The Gold status awarded by EcoVadis means that the company has now also made it among the top echelons in the field of sustainability."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "How responsibly does a company deal with natural resources? What role do social aspects play – and what ethical values form the basis for these dealings? These and similar questions from the field of corporate social responsibility (CSR) take a central part in today’s business relationships and investment decisions. This makes it all the more important to have valid and comparable experts’ assessments that independently evaluate the sustainability management of companies. And this is exactly what the annual EcoVadis holistic ratings do."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "In its analyses, the internationally leading CSR platform considers numerous criteria from the fields of Environment, Labor & Human Rights, Ethics and Sustainable Procurement. Following its good results achieved in recent years, Linde Material Handling has now, for the first time, secured Gold status in the latest EcoVadis rating. This means that in the mechanical engineering sector, the globally operating intralogistics professionals rank among the top three percent of evaluated companies."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Linde Material Handling was awarded a gold medal by EcoVadis for its current CSR rating."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Dr. Holger Hoppe, Senior Director Sustainability Management, sees the EcoVadis rating as an impressive proof of how well Linde Material Handling is positioned as an organization in terms of occupational safety, environmental management and health protection: “We are pleased that the efforts we have made during recent years are gradually bearing fruit. However, we are still not satisfied with our achievements, but are striving for further significant improvements in all areas of assessment in the future.”"
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "Trade Press"
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Heike Oder"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "+49 6021 991277",
+     "href": "tel:+49 6021 991277"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Send email",
+     "href": "mailto:heike....oder@@@@linde-mh....de"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 11,
+   "repeats": []
+  }
+ ]
+}

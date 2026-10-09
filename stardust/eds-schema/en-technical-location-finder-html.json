@@ -1,0 +1,77 @@
+{
+ "source": "http://localhost:8791/en-technical-location-finder-html-proposed.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "location-finder__controls",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Continent"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Select Continent"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Africa"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Asia"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Australia / Oceania"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Europe"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "North America"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "South America / Central America"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Country"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Select Country"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "DIV.location-finder__field",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 8
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

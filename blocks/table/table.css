@@ -1,0 +1,98 @@
+/* table — lifted from the live CCM19 cookie-declaration tables on /en/legal-notes/cookie-policy at 1440
+   (gate content items: table 0–1440 wide, columns 400 | 320 | 720, th row 40 px, td row 52 px per
+   29.9 px line, text flush with the column start, 1.25em below the table; ccm19 app.css:
+   .ccm-cookie-declaration--embedding-assets-table { width: 100%; margin-bottom: 1.25em } th widths
+   25 % / 20 % / 45 %; site bundle: table { border-collapse: collapse; text-align: left } td, th { padding: 0 }). */
+.table {
+  width: 100%;
+  margin: 0 0 1.25em;
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+.table table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  text-align: left;
+}
+
+.table th,
+.table td {
+  padding: 0;
+  border: 0;
+  vertical-align: top;
+  text-align: left;
+}
+
+.table th {
+  padding: 5px 0;
+  font-weight: 700;
+}
+
+.table td {
+  padding: 11px 0;
+  min-width: 7rem; /* live src-1.css table td — four 112 px columns scroll at 360 (regate-steps3) */
+}
+
+.static .table th:nth-child(1) {
+  width: 27.8%;
+}
+
+.static .table th:nth-child(2) {
+  width: 22.2%;
+}
+
+.static .table th:nth-child(3) {
+  width: 50%;
+}
+
+.table td p {
+  margin: 0;
+}
+
+/* static template, `centered` section: the live declaration table is full-bleed (0–1440 at 1440),
+   not capped at the 1280 content column */
+.static main .section.centered > .table-wrapper {
+  max-width: none;
+  padding: 0;
+}
+
+@media (width <= 639px) {
+  .table {
+    overflow-x: auto;
+  }
+
+  .table th,
+  .table td {
+    padding-right: 8px;
+  }
+}
+
+/* article tables — the sustainability KPI table inside .section.article (live src-1.css: `table { width: 100% }`
+   of the 640 px .layout-article--centered column; `table td { min-width: 7rem }` → 4 × 112 = 448 px scrolling
+   inside .table-responsive { overflow: auto } at 360; `table tr { border-bottom: 1px solid lightgrey }`; the
+   header row is td.th on the live side — the document carries the `header` variant). Measured (regate-steps3):
+   1440 table 640 × 413, th row 40, td row 52; 360 table 448 × 502, th row 37, td row 73 against a 383 × 659
+   build table whose unconstrained cells (96 / 77 / 105 px) wrapped every label (+161 px). The cookie-declaration
+   column widths above are scoped to the static template so a four-column table keeps its auto layout. */
+.hero-container ~ .section.article .table {
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.section.article .table tr {
+  border-bottom: 1px solid var(--color-lightgrey);
+}
+
+/* article table cells — live src-1.css at 360: td font-size 14 px (.875em of the 16 px body), line-height 24.5
+   (1.75), rows 37 / 73 / 100 for 1 / 2 / 3 lines; at 1440 15.75 px / 27.56, rows 40 / 52 / 82. The block's
+   0.95rem cells (15.2 / 26.6 at 360) wrapped the same labels to one more line each: rows 103 / 76 / 129,
+   table 601 against the live 502 (regate-steps4). */
+.section.article .table td {
+  padding: 12px 8px 12px 0;
+  font-size: 0.875rem;
+  line-height: 1.75;
+}

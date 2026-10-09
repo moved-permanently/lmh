@@ -1,0 +1,11 @@
+{
+  "/en/about-us/press": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T23:17:54.019Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

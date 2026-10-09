@@ -1,0 +1,986 @@
+/* stylelint-disable no-descending-specificity -- rules are grouped by component, not by cascade */
+
+/* hero — source .header-image (default) and .parallax-container (banner); values from the gated
+   prototype stardust/prototypes/en-landingpage-e-models.css */
+.hero-container .hero-wrapper {
+  max-width: none;
+  padding: 0;
+}
+
+.hero {
+  width: 100%;
+  overflow: hidden;
+}
+
+.hero .hero-stage {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  background: var(--color-lightgrey);
+}
+
+.hero .hero-text {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  padding: 0 2rem 0 1.5rem;
+}
+
+.hero .hero-text h1 {
+  display: block;
+  width: 100%;
+  margin: 0 0 0.5rem;
+  font-size: 1rem;
+  line-height: 1.2;
+  letter-spacing: -0.016em;
+  color: var(--color-red);
+}
+
+.hero .hero-text p {
+  display: inline;
+  margin: 0;
+  font-family: var(--bold-font-family);
+  font-size: 2rem;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+  color: var(--color-darkgrey);
+}
+
+.hero .hero-actions {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  width: 75%;
+  margin-top: 1rem;
+}
+
+.hero .hero-actions p {
+  display: block;
+  margin: 0;
+  font: inherit;
+}
+
+.hero .hero-media {
+  position: relative;
+  flex: 1 1 58vw;
+  width: 100%;
+  overflow: hidden;
+}
+
+.hero .hero-media picture {
+  display: block;
+}
+
+.hero .hero-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.hero .hero-bottom {
+  display: none;
+  width: 81%;
+  height: 48px;
+  background: var(--color-lightgrey);
+}
+
+@media (width >= 768px) {
+  .hero .hero-text p {
+    font-size: 3rem;
+  }
+}
+
+@media (width >= 1024px) {
+  .hero .hero-stage {
+    flex-direction: row;
+  }
+
+  .hero .hero-text {
+    display: flex;
+    flex: 1 1 45%;
+    flex-direction: column;
+    justify-content: center;
+    max-height: 300px;
+    padding: 0 2rem 0 6rem;
+    overflow-y: auto;
+    background: var(--color-lightgrey);
+  }
+
+  .hero .hero-text p {
+    display: block;
+  }
+
+  .hero .hero-media {
+    flex: 1 1 55%;
+  }
+
+  .hero .hero-media picture {
+    position: relative;
+    height: 0;
+    padding-bottom: 56.25%;
+  }
+
+  .hero .hero-media img {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hero .hero-bottom {
+    display: block;
+  }
+}
+
+@media (width >= 1280px) {
+  .hero .hero-text {
+    max-height: 400px;
+  }
+}
+
+/* banner variant — source .parallax-container (16:9 stage, white text card) */
+.hero.banner .hero-stage {
+  position: relative;
+  flex-direction: column;
+  background: none;
+}
+
+.hero.banner .hero-media {
+  flex: none;
+  width: 100%;
+}
+
+.hero.banner .hero-media picture {
+  position: static;
+  height: auto;
+  padding-bottom: 0;
+}
+
+.hero.banner .hero-media img {
+  position: static;
+  height: auto;
+}
+
+.hero.banner .hero-text.hero-text-empty {
+  display: none;
+}
+
+.hero.banner .hero-text {
+  display: block;
+  flex: none;
+  max-height: none;
+  padding: 2.5vw 5vw 5vw;
+  overflow: visible;
+  background: var(--color-white);
+}
+
+.hero.banner .hero-text h3 {
+  font-size: 1.63rem;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+}
+
+.hero.banner .hero-text p {
+  display: block;
+  font-family: var(--body-font-family);
+  font-size: 0.95rem;
+  line-height: 1.75;
+  letter-spacing: -0.003em;
+}
+
+.hero.banner .hero-text p + p {
+  margin-top: 0.5em;
+}
+
+/* dash list inside the card — source .running-text ul (font .95rem, margin .5em 0, padding 0, li
+   padding-left 1.125em + margin-bottom .25em, red "–" absolute at left 0); measured financing 1440:
+   ul 17.1 / 25.65, margin 8.55, li padding-left 19.24, margin-bottom 4.275, list-style none */
+.hero.banner .hero-text ul {
+  margin: 0.5em 0;
+  padding: 0;
+  font-family: var(--body-font-family);
+  font-size: 0.95rem;
+  line-height: 1.5; /* source ul 25.65 / 17.1 at 1440, 22.8 / 15.2 at 360 — not the paragraph's 1.75 */
+  letter-spacing: -0.003em;
+  list-style: none;
+}
+
+.hero.banner .hero-text ul li {
+  position: relative;
+  margin: 0 0 0.25em;
+  padding-left: 1.125em;
+}
+
+.hero.banner .hero-text ul li::before {
+  content: "–";
+  position: absolute;
+  left: 0;
+  color: var(--color-red);
+}
+
+@media (width <= 639px) {
+  .hero.banner .hero-text h3 {
+    font-size: 1.5rem;
+  }
+
+  .hero.banner .hero-text p {
+    letter-spacing: -0.017em;
+  }
+}
+
+@media (width >= 768px) {
+  .hero.banner .hero-text {
+    position: absolute;
+    top: 0;
+    right: 45vw;
+    z-index: 1;
+    width: auto; /* source sets no width: the card shrinks to the inset (1440: 648, not the 712 cap) */
+    min-width: 45%;
+    max-width: calc(640px + 5vw);
+    max-height: 80%;
+    margin: 5vw;
+    padding: 2.5vw;
+    overflow-y: auto;
+  }
+
+  .hero.banner.right .hero-text {
+    right: auto;
+    left: 45vw;
+  }
+
+  /* bottom variant — source .text-wrapper--bottomleft / --bottomright: the card sits on the stage's
+     bottom edge (financing 1440: card y = stage bottom − 72 margin − card height) */
+  .hero.banner.bottom .hero-text {
+    top: auto;
+    bottom: 0;
+  }
+}
+
+@media (width >= 1600px) {
+  .hero.banner .hero-text {
+    right: 45%;
+  }
+
+  .hero.banner.right .hero-text {
+    right: auto;
+    left: 45%;
+  }
+}
+
+/* landing default-content rows — scoped override behind the hero stage until the foundation adds
+   `landing` section styles (stardust/rollout/foundation-requests.md, archetype-landing). Source rows:
+   .layout-100-headline--fixed (headline), .layout-article--centered (article[ intro]),
+   .layout-100--fixed > .inline-button-row (cta[ horizontal|stretch]). */
+.hero-container ~ .section.headline > div {
+  box-sizing: border-box;
+  max-width: 1280px;
+  padding: 2rem 2rem 0;
+  text-align: center;
+}
+
+.hero-container ~ .section.headline h2 {
+  max-width: 1216px;
+  margin: 0 auto;
+  font-size: 1.5rem;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+}
+
+.hero-container ~ .section.article > div {
+  box-sizing: border-box;
+  max-width: calc(960px + 2.5vw);
+  padding: 6.25vw 2.5vw;
+}
+
+.hero-container ~ .section.article :is(h2, h3, h4, h5, h6, p, ul, ol) {
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-container ~ .section.article p {
+  font-size: 0.95rem;
+  line-height: 1.75;
+  letter-spacing: -0.003em;
+}
+
+.hero-container ~ .section.article p + p {
+  margin-top: 0.5em;
+}
+
+.hero-container ~ .section.article h3 {
+  font-size: 1.63rem;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+}
+
+/* source .dom-content h2–h6: 1.5rem / 125% (measured h-models 1440: h4 27px / 33.75, 640 wide, 4 lines
+   = 135 px where the build had 45); every heading after the first in a band sits 1em below the copy
+   (measured margin-top 27px on the 2nd and 3rd h4, 0 on the first) — the pipeline splits a band
+   around a block, so a heading opening a later wrapper keeps the 1em too */
+.hero-container ~ .section.article > .default-content-wrapper :is(h4, h5, h6) {
+  font-size: 1.5rem;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+}
+
+.hero-container ~ .section.article > .default-content-wrapper :is(h4, h5, h6):not(:first-child),
+.hero-container ~ .section.article > div + .default-content-wrapper > :is(h4, h5, h6):first-child {
+  margin-top: 1em;
+}
+
+.hero-container ~ .section.article p:has(picture) {
+  margin: 8px auto;
+  line-height: 0;
+}
+
+/* source empty paragraphs inside a band: <p></p> is 0 px tall but still makes the next paragraph a
+   p + p (0.5em); the encoder authors it as <p><sup>&#8203;</sup></p> and it is hidden here, the
+   sibling combinator still sees it. <p><br></p> (one 29.9 px line) is authored as a zero-width-space
+   paragraph and keeps its line box. */
+.hero-container ~ .section.article p:has(> sup:only-child) {
+  display: none;
+}
+
+.hero-container ~ .section.article p:has(picture) a {
+  display: block;
+  line-height: 0;
+}
+
+/* a picture-only paragraph is the source's .image-wrapper (img width 100 % — bundle @268837): the figure fills the
+   640 copy column whatever the rendition's intrinsic width (measured fleet-management 1440 "Intelligent charging":
+   live poster 640 × 360, build 320 × 180 from the 320 px source rendition — gap-step-collapses) */
+.hero-container ~ .section.article p:has(> picture:only-child) :is(picture, img),
+.hero-container ~ .section.article p:has(> a:only-child > picture:only-child) :is(a, picture, img) {
+  display: block;
+  width: 100%;
+}
+
+/* the source article column continues around the gallery: no padding between them (p margin 1em
+   before, the p + p 0.5em after) */
+.hero-container ~ .section.article:has(+ .media-browser-container > .media-browser-wrapper > .media-browser:not(.content)) > div {
+  display: flow-root;
+  padding-bottom: 0;
+}
+
+.hero-container ~ .media-browser-container:has(> .media-browser-wrapper > .media-browser:not(.content)) + .section.article.continued > div {
+  padding-top: 16px;
+}
+
+.hero-container ~ .section.article.intro p {
+  margin-bottom: 1em;
+  font-size: 1.125rem;
+  line-height: 150%;
+}
+
+/* a band split at its intro paragraph(s) (encoder: `article intro` + `article continued`): no padding between
+   the two sections, so the band keeps its one-band spacing — the intro paragraph's 1em bottom margin is the gap,
+   as on the source (p.intro margin-bottom 1em, the next paragraph's .5em collapses into it) */
+.hero-container ~ .section.article.continued > div {
+  padding-top: 0;
+}
+
+.hero-container ~ .section.article:has(+ .section.article.continued) > div {
+  padding-bottom: 0;
+}
+
+/* source blockquote.doublehigh — every blockquote on the site carries the class (12 of 12 captured; the one
+   authored quote is explosion-proof "Staying Safe in the ATEX Zone"): measured 360: 20px / 30px rgb(170,0,32)
+   centred, padding 40px 20px (2em 1em), 342 wide at x 9, the attribution directly below it; 1440: 27px / 40.5px,
+   padding 54px (2em), 928 wide. The build had the body quote (18px left-aligned, 40px side margins, a 640 px p). */
+.hero-container ~ .section.article blockquote {
+  margin: 0;
+  padding: 2em 1em;
+  color: var(--color-red);
+  font-size: 1.25rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.hero-container ~ .section.article blockquote p {
+  max-width: none;
+  margin: 0;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.hero-container ~ .section.cta > div {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  max-width: 1280px;
+  padding: calc(6.25vw + 8px) 2.5vw;
+}
+
+/* source .layout-100--fixed row (5vw 1.25vw + the 1.25vw item wrapper; 32 + 18 from 1280) >
+   .inline-button-row (margin 8px 0) > .btn (48px: padding 8px 16px, line-height 30, margin 4px 0) —
+   measured sustainability 1440: row 172, 360: row 117 */
+/* the row's 8px margin is in the box padding above; the paragraphs carry none (measured h-models 1440:
+   two-button row 243 = 50 + 8 + 71 + 56 + 8 + 50 — the build's 8px paragraph margins made it 259) */
+.hero-container ~ .section.cta p.button-wrapper {
+  margin: 0;
+}
+
+.hero-container ~ .section.cta a.button {
+  margin: 4px 0;
+  padding: 8px 16px;
+  line-height: 30px;
+}
+
+/* source .btn--action (authored <em><strong>, a.button.accent): 55px — padding 16px 24px, line-height 21,
+   margin 8px 0 (measured h-models 1440: row 243 = 50 + 8 + 71 + 56 + 8 + 50; 360: 76 on two lines) */
+.hero-container ~ .section.cta a.button.accent {
+  margin: 8px 0;
+  padding: 16px 24px;
+  line-height: 21px;
+}
+
+.hero-container ~ .section.cta.horizontal > div {
+  flex-direction: row;
+  padding: 5vw 2.5vw;
+}
+
+.hero-container ~ .section.cta.stretch > div {
+  align-items: stretch;
+}
+
+.hero-container ~ .section.cta.stretch p.button-wrapper {
+  width: 100%;
+}
+
+.hero-container ~ .section.cta.stretch a.button {
+  display: block;
+  width: 100%;
+}
+
+@media (width <= 639px) {
+  /* source at 360 (measured forklift-hire): .layout-100--fixed 342 wide (9 px side margins) + 4.5 + the
+     wrapper's 4.5 = 18 px from the viewport edge, row 324; the build's 2.5vw (9 px) made the button 342 */
+  .hero-container ~ .section.cta > div {
+    padding: calc(6.25vw + 8px) 5vw;
+  }
+
+  .hero-container ~ .section.article p {
+    letter-spacing: -0.017em;
+  }
+
+  .hero-container ~ .section.article h3 {
+    font-size: 1.5rem;
+  }
+}
+
+@media (width >= 768px) {
+  .hero-container ~ .section.headline h2 {
+    font-size: 3rem;
+  }
+}
+
+@media (width >= 1280px) {
+  .hero-container ~ .section.headline > div {
+    padding: 36px 36px 4px;
+  }
+
+  .hero-container ~ .section.article > div {
+    max-width: 992px;
+    padding: 50px 32px;
+  }
+
+  /* blockquote.doublehigh at 1440: 27px / 40.5px (1.5rem at the 18px root), padding 54px all round */
+  .hero-container ~ .section.article blockquote {
+    padding: 2em;
+    font-size: 1.5rem;
+  }
+
+  .hero-container ~ .section.cta > div {
+    padding: 58px 32px;
+  }
+
+  .hero-container ~ .section.cta.horizontal > div {
+    padding: 72px 32px;
+  }
+
+  /* the 33 px horizontal buttons are a 1440 reading; below 1280 the prototype
+     renders them as .btn--action (16px 24px, line-height 1.3, margin 8px 0) */
+  .hero-container ~ .section.cta.horizontal p.button-wrapper {
+    margin: 4px 8px 4px 0;
+  }
+
+  .hero-container ~ .section.cta.horizontal a.button {
+    padding: 8px 16px;
+    line-height: 1;
+  }
+}
+
+/* landing section backgrounds (source .layout--dark / .layout--white on headline, text and layout
+   rows; cluster-landing-1). `red` is a foundation style (styles.css). */
+.hero-container ~ .section.dark {
+  background: var(--color-textgrey);
+  color: var(--color-white);
+}
+
+.hero-container ~ .section.dark a {
+  color: var(--color-white);
+}
+
+.hero-container ~ .section.white {
+  /* source .layout--white paints the light grey (measured 1440/360 maintenance-repair, financing,
+     working-at-linde: rgb(238,239,243) on the headline and the layout-50 columns bands alike) */
+  background: var(--color-lightgrey);
+}
+
+/* the dark / white / red headline bands keep the plain band padding (measured live 1440: 36px 36px 4px,
+   h 108; 360: 32px 32px 0, h 62 — financing dark, maintenance-repair white, working-at-linde red) */
+
+/* red card (source .header-image-alternate; sidecar variant — the capture drops the class): red
+   stage, white copy (measured 1440 logimat: .header-image-content bg 170,0,32; h1 #fff) */
+.hero.red .hero-stage,
+.hero.red .hero-text {
+  background: var(--color-red);
+}
+
+.hero.red .hero-text h1,
+.hero.red .hero-text p {
+  color: var(--color-white);
+}
+
+/* headline spacer — the source keeps an empty .layout-100-headline--fixed (padding 36px 36px 4px, h2
+   0px = a 40px band); the pipeline drops an empty h2 and `.section:empty` hides the section, so the
+   encoder authors a zero-width-space heading under `headline spacer` and the band is the padding */
+.hero-container ~ .section.headline.spacer > div {
+  padding: 40px 0 0;
+}
+
+.hero-container ~ .section.headline.spacer h2 {
+  display: none;
+}
+
+/* red text band (source .ld-layout-item__wrapper.layout--red > .text-container): the foundation
+   `red` style is the red HEADLINE band (8rem top, no bottom padding) — the article band keeps the
+   72px box and white copy */
+.hero-container ~ .section.article.red {
+  color: var(--color-white);
+}
+
+.hero-container ~ .section.article.red a,
+.hero-container ~ .section.article.red :is(h1, h2, h3) {
+  color: var(--color-white);
+}
+
+.hero-container ~ .section.article.red > div {
+  padding: 72px 2.5vw;
+}
+
+/* the red band's CTA (source a.btn__link > .btn inside .layout--red, measured working-at-linde 1440: 189 × 48,
+   padding 8px 16px, line-height 30, background #fff, color #aa0020, margin-top 18 on a 66px .btn__link block):
+   the pipeline's <p><strong><a> arrives as a.button.primary — red on red inside the red band until this rule */
+.hero-container ~ .section.article.red p.button-wrapper {
+  margin-top: 18px;
+  margin-bottom: 0;
+}
+
+.hero-container ~ .section.article.red a.button.primary,
+.hero-container ~ .section.article.red a.button.primary:hover,
+.hero-container ~ .section.article.red a.button.primary:focus-visible {
+  background-color: var(--color-white);
+  color: var(--color-red);
+}
+
+/* centred text band (source .text-container--center on a single-item row: the CONTAINER is centred
+   — max-width 912, padding 5vw capped at 72 — the copy stays left-aligned; measured on the source at
+   360 / 640 / 1024 / 1440 (products intro, in-sync dark h2 band): padding 18 / 32 / 51.2 / 72, h3
+   24/30 → 29.34/36.675 from 640, h2 32/40 → 54/67.5 from 640, heading margin-top 1em, text-align left) */
+.hero-container ~ .section.article.center > div {
+  max-width: 912px;
+  padding: min(5vw, 72px);
+  text-align: start;
+}
+
+.hero-container ~ .section.article.center h2 {
+  margin-top: 1em;
+}
+
+/* the h3 opening a centred band sits 1rem below the (empty) h2 slot, not 1em: measured live 1440
+   genuine-spare-parts h3 29.34px margin-top 18px (bands 348 / 288 where the build had 360 / 300);
+   the same +12 sat in the maintenance-repair band table */
+.hero-container ~ .section.article.center h3 {
+  margin-top: 1rem;
+}
+
+.hero-container ~ .section.article.center h2 {
+  font-size: 2rem;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+}
+
+@media (width >= 640px) {
+  .hero-container ~ .section.article.center h2 {
+    font-size: 3rem;
+  }
+}
+
+/* floated infobox media (source .infobox--right|--left inside .layout-article--centered: a 320×180
+   figure the copy wraps around; measured 1440 r-matic: right x720 w320 h180, margin 8px 0 8px 16px).
+   The block sits between two default-content wrappers: no padding between them, the section
+   contains the float. */
+.hero-container ~ .section.article {
+  display: flow-root;
+}
+
+/* one source band (.layout-article--centered.dom-content: 32px 16px + the 18px item wrapper) is one
+   50px box however many wrappers the pipeline splits it into around a block (infobox, table): only the
+   first wrapper pads the top, only the last pads the bottom (measured 1440 sustainability: live 680 / 476,
+   build 1227 / 724 with three / two padded wrappers) */
+.hero-container ~ .section.article > div + div {
+  padding-top: 0;
+}
+
+.hero-container ~ .section.article > div:has(+ div) {
+  padding-bottom: 0;
+}
+
+/* below 640 the source drops the float: .infobox-media is display:block, margin 8px 0, width 100% of the
+   column (live-bundle.css @267791/@22374; .infobox--left|--right get width 320 + float only from 640px —
+   measured awards 360: the figure is the 342px copy column at x 9 (the band's 4.5px + the item wrapper's
+   4.5px = 2 × 1.25vw), the copy follows below it). */
+.hero-container ~ .section.article > .infobox-wrapper:has(> .infobox.media) {
+  width: 100%;
+  max-width: none;
+  margin: 8px 0;
+  padding: 0 2.5vw;
+}
+
+/* video figure (source .infobox-media > .image-wrapper-16x9.media-player: width 50vw from 640px —
+   measured h-models 1440: 720 × 405 where the image figure keeps the 640 column; below 640 it is the
+   full column like every .infobox-media — measured h-models 360: live 342 × 192 at x 9, margin 8px 0,
+   build 180 × 101 centred (gate-all 360 line-parity hot window 2600 on h-models / x-models)) */
+@media (width >= 640px) {
+  .hero-container ~ .section.article > .infobox-wrapper:has(> .infobox.media.video) {
+    width: 50vw;
+    max-width: 50vw;
+    margin: 8px auto;
+    padding: 0;
+  }
+}
+
+@media (width >= 640px) {
+  /* only the side variants are 320 px floats; a plain .infobox-media (no side class) is the full copy column
+     (bundle @267911: width 320 is on .infobox--left/.infobox--right alone; measured fleet-management 1440:
+     the article poster 640 × 360 at x 400 — gap-step-collapses) */
+  .hero-container ~ .section.article > .infobox-wrapper:has(> .infobox.media.right),
+  .hero-container ~ .section.article > .infobox-wrapper:has(> .infobox.media.left) {
+    width: 320px;
+    max-width: 320px;
+    margin: 8px 0;
+    padding: 0;
+  }
+
+  .hero-container ~ .section.article > .infobox-wrapper:has(> .infobox.media:not(.right, .left, .video)) {
+    width: 100%;
+    max-width: 640px;
+    margin: 8px auto;
+    padding: 0;
+  }
+
+  /* the 50vw video figure fills its wrapper (measured explosion-proof 1440: wrapper 720, anchor and image 640 → 360 tall
+     against the live 405) */
+  .hero-container ~ .section.article > .infobox-wrapper:has(> .infobox.media.video) :is(p, a, picture, img) {
+    width: 100%;
+    max-width: none;
+    margin: 0;
+  }
+
+  .hero-container ~ .section.article > .infobox-wrapper:has(> .infobox.media.right) {
+    float: right;
+    margin-right: calc(50% - 320px);
+    margin-left: 16px;
+  }
+
+  .hero-container ~ .section.article > .infobox-wrapper:has(> .infobox.media.left) {
+    float: left;
+    margin-right: 16px;
+    margin-left: calc(50% - 320px);
+  }
+}
+
+/* note box inside the copy (source .infobox-text: display:block, margin 8px 0, full column below 640;
+   .infobox--right: width 320 + float right from 640px — live-bundle.css @267791/@267911/@267998; measured
+   awards: 360 figure / note box / paragraph stacked, 1440 figure left + note box right in the 640 column) */
+.hero-container ~ .section.article > .infobox-wrapper:has(> .infobox:not(.media)) {
+  width: 100%;
+  max-width: none;
+  margin: 8px 0;
+  padding: 0;
+}
+
+/* note-box typography in the article column (measured awards live: h6 24/30 at 360, 27/33.75 at 1440 =
+   .dom-content h2–h6 1.5rem/125 %; li .95rem/1.5 with the .25em gap and the 1.125em dash indent of ul.bullets,
+   the dash white inside the box; ul margin .5em 0). Below 640 the box keeps the column's 2.5vw inset
+   (live 360: box x 9 w 342) where the figure runs edge to edge. */
+.hero-container ~ .section.article > .infobox-wrapper:has(> .infobox:not(.media)) {
+  padding: 0 2.5vw;
+}
+
+/* a note box that is the band's only content keeps the band's own padding — the "first wrapper pads the top, last
+   pads the bottom" split has no sibling to hand it to (measured fleet-management 1440: live band 314 = 58 + 198 + 58,
+   build 222 = 8 + 206 + 8 — gap-step-collapses) */
+.hero-container ~ .section.article > .infobox-wrapper:has(> .infobox:not(.media)):only-child {
+  padding: 6.25vw 2.5vw;
+}
+
+@media (width >= 1280px) {
+  .hero-container ~ .section.article > .infobox-wrapper:has(> .infobox:not(.media)):only-child {
+    padding: 50px 2.5vw;
+  }
+}
+
+.hero-container ~ .section.article .infobox:not(.media) {
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.hero-container ~ .section.article .infobox:not(.media) :is(h2, h3, h4, h5, h6) {
+  margin: 0;
+  font-size: 1.5rem;
+  line-height: 1.25;
+}
+
+.hero-container ~ .section.article .infobox:not(.media) :is(ul, ol) {
+  margin: 0.5em 0;
+  padding: 0;
+  list-style: none;
+}
+
+.hero-container ~ .section.article .infobox:not(.media) li {
+  position: relative;
+  margin: 0 0 0.25em;
+  padding: 0 0 0 1.125em;
+}
+
+.hero-container ~ .section.article .infobox:not(.media) li::before {
+  content: "\2013";
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+@media (width >= 640px) {
+  .hero-container ~ .section.article > .infobox-wrapper:has(> .infobox.right:not(.media)) {
+    float: right;
+    width: 320px;
+    max-width: 320px;
+    margin: 8px calc(50% - 320px) 8px 16px;
+    padding: 0;
+  }
+
+  .hero-container ~ .section.article > .infobox-wrapper:has(> .infobox.left:not(.media)) {
+    float: left;
+    width: 320px;
+    max-width: 320px;
+    margin: 8px 16px 8px calc(50% - 320px);
+    padding: 0;
+  }
+}
+
+.hero-container ~ .section.article > .default-content-wrapper:has(+ .infobox-wrapper > .infobox.media) {
+  padding-bottom: 0;
+}
+
+.hero-container ~ .section.article > .infobox-wrapper:has(> .infobox.media) + .default-content-wrapper {
+  padding-top: 0;
+}
+
+/* source .infobox--left + p, + ul, + ol { margin-top: .5em } (measured sustainability 1440: the copy
+   starts 8.55 px below the band top, level with the floated figure's 8 px margin) */
+.hero-container ~ .section.article > .infobox-wrapper:has(> .infobox.media) + .default-content-wrapper > :is(p, ul, ol):first-child {
+  margin-top: 0.5em;
+}
+
+/* read-more (source .read-more: .read-more__content is display:none behind the "Read more" toggle;
+   measured 1440 gse-expo: intro row 376 px = 50 px chrome above/below the copy + the toggle line).
+   The encoder authors the hidden copy as `article read-more` (before the toggle, like the source)
+   and the toggle as `article read-more-toggle`; hero.js adds .expanded on click. */
+.hero-container ~ .section.article.read-more:not(.expanded) {
+  display: none;
+}
+
+.hero-container ~ .section.article:has(+ .section.article.read-more) > div {
+  /* top padding stays the generic one (6.25vw < 1280, 50px ≥ 1280): measured 360 forklift-truck, live p.intro
+     at 23 px below the band top, the build at 50 (regate-steps3) */
+  padding-bottom: 0;
+}
+
+.hero-container ~ .section.article.read-more > div {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.hero-container ~ .section.article.read-more-toggle > div {
+  padding-top: 0;
+
+  /* live .read-more { margin-bottom: 16px } + the 6.25vw band padding: measured 360 forklift-truck 63 px from the
+     toggle line top to the band end (build 77 with a flat 50px); 1440 forklift-truck and gse-expo: 66 / 67 px below the toggle line (regate-steps3) */
+  padding-bottom: calc(6.25vw + 16px);
+}
+
+@media (width >= 1280px) {
+  .hero-container ~ .section.article.read-more-toggle > div {
+    padding-bottom: 66px;
+  }
+}
+
+/* a centred band keeps its box even before a gallery row (the article-before-gallery rule above
+   zeroes the bottom padding of the running copy only; measured 1440 tugger-trains: live 476, build 318) —
+   the same min(5vw, 72px) as the band itself, not a flat 72px: at 360 the live .text-container keeps 18 px
+   below the copy (measured tugger-trains 360: 18 live, 72 build; regate-steps4) */
+.hero-container ~ .section.article.center:has(+ .media-browser-container > .media-browser-wrapper > .media-browser:not(.content)) > div {
+  padding-bottom: min(5vw, 72px);
+}
+
+/* title-only: a source header-image whose only headline is a `span.h2.p` (no h1 — Certificates,
+   Linde-Productivity, Solutions overview) carries it as the page's single <h1> with the span's
+   `.hero-text p` metrics (measured identical rects live vs build at 1440 and 360). */
+.hero.title-only .hero-text h1 {
+  display: inline;
+  margin: 0;
+  font-family: var(--bold-font-family);
+  font-size: 2rem;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+  color: var(--color-darkgrey);
+}
+
+@media (width >= 768px) {
+  .hero.title-only .hero-text h1 {
+    font-size: 3rem;
+  }
+}
+
+@media (width >= 1024px) {
+  .hero.title-only .hero-text h1 {
+    display: block;
+  }
+}
+
+/* banner CTA — the source .parallax__text-wrapper never carries a .btn (48 wrappers across the captured
+   site, 0 buttons): its links are inline text links — `<p><a>` 17.1 / 29.925 weight 400 (measured e-models
+   1440) and `<p><b><a>` weight 700 (measured warehouse-safety 1440), red, the link's <p> margin-top 8.55.
+   The pipeline's lone-link <p> arrives as a.button(.primary) inside .hero-actions — rendered back as the
+   inline text link; the 75 % grid and the button chrome belong to the default (.header-image) hero only. */
+.hero.banner .hero-text .hero-actions {
+  display: block;
+  width: auto;
+  margin-top: 0.5em;
+  font-family: var(--body-font-family);
+  font-size: 0.95rem;
+  line-height: 1.75;
+  letter-spacing: -0.003em;
+}
+
+.hero.banner .hero-text .hero-actions p {
+  margin: 0;
+}
+
+.hero.banner .hero-text .hero-actions p + p {
+  margin-top: 0.5em;
+}
+
+.hero.banner .hero-text .hero-actions a.button,
+.hero.banner .hero-text .hero-actions a.button:hover,
+.hero.banner .hero-text .hero-actions a.button:focus-visible,
+.hero.banner .hero-text .hero-actions a.button:active {
+  display: inline;
+  box-sizing: content-box;
+  width: auto;
+  max-width: none;
+  min-height: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: none;
+  color: var(--color-red);
+  font-family: var(--body-font-family);
+  font-size: inherit;
+  font-weight: 400;
+  line-height: inherit;
+  text-align: left;
+  text-decoration: none;
+  white-space: normal;
+}
+
+.hero.banner .hero-text .hero-actions a.button.primary {
+  font-family: var(--bold-font-family);
+  font-weight: 700;
+}
+
+/* large centred band (source .text-container--center.text-container--large on a single-item row, the
+   section's `large` style; measured safely-to-the-top 1440 against the build's .center band: the live
+   container is a flex column — paragraph margins do not collapse — with p 1.125em / 1.5 (20.25 / 30.375),
+   margin 0 64px 1em, p + p .5em, and an empty source <p></p> that still carries its margins (p1 → p3
+   60.75 live against 8.55 build; band 536 against 364). */
+.hero-container ~ .section.article.center.large > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero-container ~ .section.article.center.large > div > * {
+  width: 100%;
+}
+
+.hero-container ~ .section.article.center.large p {
+  margin: 0 64px 1em;
+  font-size: 1.125em;
+  line-height: 1.5;
+}
+
+.hero-container ~ .section.article.center.large p + p {
+  margin-top: 0.5em;
+}
+
+.hero-container ~ .section.article.center.large p:has(> sup:only-child) {
+  display: block;
+  height: 0;
+}
+
+/* icon-font glyph above a centred band's heading (source span.icon.icon-LMHIcons… in the Linde icon font,
+   authored as :lmhicons…: — the glyph line takes the h2 metrics in a plain band (.text-container > .icon:
+   2rem / 1.25, 3rem from 768) and the h1 metrics in a large one (.text-container--large > .icon: 1rem / 1.2,
+   54px / 1.25 from 640); measured safely-to-the-top 1440: icon line 67.5, h2 margin-top 54 below it) */
+.hero-container ~ .section.article.center p:has(> .icon[class*="icon-lmhicons"]:only-child) {
+  margin: 0 64px;
+  font-size: 2rem;
+  line-height: 1.25;
+  letter-spacing: 0;
+}
+
+.hero-container ~ .section.article.center.large p:has(> .icon[class*="icon-lmhicons"]:only-child) {
+  font-size: 1rem;
+  line-height: 1.2;
+}
+
+.hero-container ~ .section.article.center p .icon[class*="icon-lmhicons"] {
+  width: 100%;
+  font-size: inherit;
+  line-height: inherit;
+  text-align: start;
+}
+
+.hero-container ~ .section.article.center p .icon[class*="icon-lmhicons"] img {
+  display: none;
+}
+
+@media (width >= 640px) {
+  .hero-container ~ .section.article.center.large p:has(> .icon[class*="icon-lmhicons"]:only-child) {
+    font-size: 54px;
+    line-height: 1.25;
+  }
+}
+
+@media (width >= 768px) {
+  .hero-container ~ .section.article.center:not(.large) p:has(> .icon[class*="icon-lmhicons"]:only-child) {
+    font-size: 3rem;
+  }
+}

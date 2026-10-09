@@ -1,0 +1,155 @@
+{
+  "/en/about-us/awards": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:42:29.660Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/certificates": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:42:29.660Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/sustainability": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:42:35.567Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/linde-core/linde-ergonomics": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:42:38.034Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/linde-core/linde-productivity": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:42:42.412Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/approved-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:42:46.117Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/diesel-forklifts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:42:47.528Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/explosion-proof-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:42:53.133Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/forklift-hire": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:42:54.194Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/forklift-truck": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:43:00.945Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/ic-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:43:01.466Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/order-pickers": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:43:06.394Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/pallet-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:43:07.303Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/reach-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:43:12.242Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/tow-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:43:12.950Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/very-narrow-aisle-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:43:17.905Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/training": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:43:18.065Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

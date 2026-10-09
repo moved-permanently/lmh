@@ -1,0 +1,92 @@
+{
+  "status": "residual",
+  "type": "form",
+  "slug": "en-forms-global-contact-form",
+  "liveUrl": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+  "dependentPages": 8,
+  "prototype": "stardust/prototypes/en-forms-global-contact-form-proposed.html",
+  "css": "stardust/prototypes/en-forms-global-contact-form.css (page CSS holds no rules: everything is canon.css module mwf-form)",
+  "iterations": { "1440": 3, "360": 3, "1440-post-motion-pixel": 1 },
+  "contentCap": { "wrapper": 640, "formItems": 342, "register": "R-01 deferred = replicate as live" },
+  "breakpoints": {
+    "1440": {
+      "result": {
+        "structuralRed": 0,
+        "visualFlags": ["IMAGERY GAP advisory: source renders 3 imgs (logo + 2 consent/tracking pixels) vs build 1 — live #pjax-container carries no image"],
+        "pixelPct": 3.43,
+        "pixelPctIter3": 3.11,
+        "heightDelta": -8,
+        "clipped": 0,
+        "overflow": "ok (build scrollWidth 1440 = viewport)",
+        "capProbe": "PASS at 2560 (0 of 15 rows; wrapper cap live 640 = build 640) — only with --build-main \"#pjax-container\"; --main is live-side only and the default build root (main→body) FAILed the wrapper-cap row 640 vs 1600",
+        "unitGeometry": "n/a at iter3 (family declared afterwards); fieldset rows measured Δ0 at 1440 (form-measure-fs)",
+        "pass": true
+      },
+      "rounds": [
+        { "iter": "iter1 --full", "pixel": 9.21, "dh": 71, "red": 26 },
+        { "iter": "iter2 --full", "pixel": 8.58, "dh": 42, "red": 0 },
+        { "iter": "iter3 --full", "pixel": 3.11, "dh": -6, "red": 0 },
+        { "iter": "motion pixel round (CSS-only fixes: footer box, mandatory-field row, 22.5px padding)", "pixel": 3.43, "dh": -8 }
+      ]
+    },
+    "360": {
+      "result": {
+        "structuralRed": 0,
+        "visualFlags": ["BLANK RENDER = multi-root --main artifact (static gateNote)"],
+        "pixelPct": 8.67,
+        "heightDelta": -35,
+        "clipped": 0,
+        "overflow": "ok (build scrollWidth 360 = viewport)",
+        "capProbe": "n/a (1440 only)",
+        "unitGeometry": "FAIL 22 compared: 29 within, 1 off, 2 missing — 1440-origin cache artifact + the 3 hidden-input items; fieldset rows measured within 2px at 360 (form-measure-fs)",
+        "pass": false,
+        "passWithResiduals": true
+      },
+      "rounds": [
+        { "iter": "iter1 --full", "pixel": 9.22, "dh": -40, "red": 0 },
+        { "iter": "iter2", "pixel": 9.47, "dh": -45 },
+        { "iter": "iter3 --full", "pixel": 8.67, "dh": -35, "red": 0 }
+      ]
+    }
+  },
+  "justified": [
+    "FONT FORK (2 lines, Nunito Sans substitute) — permanent, stardust/replica/fonts.md",
+    "EXTRA cta Share in .footer — canon footer, gated by the static archetype",
+    "chrome-parity 1 delta = default footer region matches nothing on either side (static gateNote); header region: parity at iter3",
+    "ICON MOVED in .header: live anchors carry /en/forms/global-contact-form/ vs build /en-forms-… — path artifact"
+  ],
+  "residuals": [
+    { "band": "360 y 2000–2114", "pct": 43.1, "cause": "Δh −35: canon .footer renders 267px on the build vs 236px live at 360 on this page (+31, shared chrome); content side ≈ −4px (fieldset rows within 2px)", "flaggedFor": "canon .footer 360 height — chrome owner" },
+    { "band": "360 country row", "pct": null, "cause": "live native country <select> is 358px wide at x16 (intrinsic width, spills 14px past the viewport on live); build keeps width 100% (328px) — a live overflow bug not replicated", "flaggedFor": "form pages" },
+    { "band": "1440 Subject row", "pct": null, "cause": "flex distribution h5-item vs dropdown-item differs by 14px (intrinsic text widths of the substitute font)", "flaggedFor": "font fork" }
+  ],
+  "captureState": [
+    "dropdown widgets rendered in the captured initial (closed) state: native .mwf-select display:none like live, red .dropdown-toggle shows Select* / Mr., ul.dropdown-menu display:none; no flyout script",
+    "3 dependent dropdowns (product/service/solutions_detail) carry .mwf-hidden + disabled as captured",
+    "submission blocked: form action=\"#\", no JS (MWF endpoint belongs to the site owner — stardust/dynamic-features.md)",
+    "hidden inputs statistics / chksmlf / mwf_leadid / mwf_leadid_inmail kept with empty values (session tokens not copied); they add 3×16px like live",
+    "country list: 239 options verbatim + disabled placeholder; Title preselected Mr. as captured",
+    "consent radio unchecked; no validation messages rendered"
+  ],
+  "motion": {
+    "observed": "stardust/replica/motion/en-forms-global-contact-form.json — 0 animations, 0 transitions, 19 class mutations (header normal-state / small / small-state / sticky-hidden / stickystacky-enabled)",
+    "implemented": "nothing page-specific — canon chrome.js only; build observe 14 class mutations; motion-compare: 5 parity, 0 missing, 0 extra",
+    "dead": ["header scroll-morph: dead on live (header static across the scroll traversal on both sides) — not required"]
+  },
+  "fonts": "Nunito Sans substitute (canon fonts/), brand family first in the stack; width fork permanent — fonts.md",
+  "canonChanges": [
+    "APPEND canon.css: /* module: mwf-form — from en-forms-global-contact-form */ followed by /* module: mwf-form (rules) … */ (the first append carried only the comment): .content padding/flex, .form-section 640 wrapper, header h3/h5, fieldset/row/form-item grid, labels, inputs/textarea, radio, footer (8+8/16 margins folded into a 80px padded box), dropdown toggle/menu/select-wrapper, media 640",
+    "units.json: added family form-item (n 22, template form)",
+    "REQUEST: canon .footer measures 267px at 360 on the build vs 236px live on this page (31 of the 35px 360 Δh) — verify the footer 360 rules against form/program pages; no page-CSS workaround (shared chrome)",
+    "no change to canon-chrome.html or chrome.js"
+  ],
+  "nextArchetype": [
+    "cap-probe: pass BOTH --main \"#pjax-container\" and --build-main \"#pjax-container\"; --main is live-side only, the build root falls back to body and the wrapper-cap row FAILs (1600 vs 640)",
+    "content-diff counts the live dropdown flyout <a href=\"\"> options as CTAs and the toggle icon as U+F12F: author the widget markup (toggle button + hidden ul.dropdown-menu > li > a > span) or expect ~26 structural reds",
+    "live .form-item .label rect differs (inline vs block) between widths but the row heights match; .mwf-label is inline with a 27px line; put <640 overrides AFTER the base rule in the cascade",
+    "live hidden-input fieldsets still take 16px each (8 margin-top + 8 form-item padding) — keep them (48px of the 1440 Δh)",
+    "#pjax-container (.content) has padding-bottom 22.5px and a white background on live form pages",
+    "a later `border: 0` in the same rule silently undid the transparent .btn border (46 vs 48px) — re-grep rules after node string replaces",
+    "the 360 BLANK RENDER and the unit-geometry 360 FAIL are the known multi-root / 1440-origin artifacts"
+  ]
+}

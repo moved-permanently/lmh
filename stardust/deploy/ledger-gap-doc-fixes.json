@@ -1,0 +1,29 @@
+{
+  "/en/about-us/working-at-linde": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T18:20:22.195Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/tow-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T18:20:22.196Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/explosion-proof-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T18:24:10.368Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

@@ -1,0 +1,146 @@
+{
+ "source": "http://localhost:8805/stardust/migrated/en/Solutions/Overview.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Solutions for maximum added value"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Every company has its own individual needs and basic requirements, whether financial resources, business processes, general technology and safety standards, infrastructure or IT systems. Each type of use requires something different from products and solutions."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Well-designed products and solutions that meet one hundred percent of a company's own individual requirements are Linde Material Handling's strength, whether customer-specific energy systems, fleet management, automation, or safety."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Intralogistics and Automation",
+     "href": "../../en/Solutions/Intralogistics-Automation/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Comprehensive solutions for intralogistics and automation from Linde Material Handling: efficient and scalable. For greater productivity, flexibility, and safety in the warehouse."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../en/Solutions/Intralogistics-Automation/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "The digital control center for your fleet",
+     "href": "../../en/Solutions/Fleet-Management/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "myLinde from Linde Material Handling: Holistic fleet management for administration, fleet optimization, safety, and energy efficiency."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../en/Solutions/Fleet-Management/index.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "The Right Energy System",
+     "href": "../../en/Solutions/Energy-Systems/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "From Combustion Engine to Hydrogen Truck: Linde Material Handling offers holistic energy solutions for every need. With energy consulting from Linde, you can reduce your energy costs, increase the availability of your fleet and achieve your sustainability goals."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../en/Solutions/Energy-Systems/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Warehouse Safety",
+     "href": "../../en/Solutions/Warehouse-Safety/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Maximum safety for people and machines with the innovative safety solutions from Linde Material Handling."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../en/Solutions/Warehouse-Safety/index.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

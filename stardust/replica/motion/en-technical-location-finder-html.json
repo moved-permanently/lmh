@@ -1,0 +1,163 @@
+{
+  "url": "https://www.linde-mh.com/en/technical/Location-Finder.html",
+  "width": 1440,
+  "headerTimeline": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "widgetSamples": [],
+  "hoverSamples": [],
+  "events": {
+    "animations": [],
+    "transitions": [],
+    "classMutations": [
+      {
+        "added": [
+          "small-state"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state",
+        "y": 241
+      },
+      {
+        "added": [
+          "small-state"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state",
+        "y": 241
+      },
+      {
+        "added": [
+          "small-state"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state",
+        "y": 241
+      },
+      {
+        "added": [
+          "stickystacky-enabled",
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state.stickystacky-enabled",
+        "y": 241
+      },
+      {
+        "added": [
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state.stickystacky-enabled",
+        "y": 241
+      },
+      {
+        "added": [
+          "stickystacky-enabled",
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.subheader.subheader__breadcrumb.stickystacky-enabled",
+        "y": 241
+      },
+      {
+        "added": [
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.subheader.subheader__breadcrumb.stickystacky-enabled",
+        "y": 241
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.small",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.small",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.small",
+        "y": 60
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.normal-state",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.normal-state",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.normal-state",
+        "y": 30
+      }
+    ]
+  }
+}

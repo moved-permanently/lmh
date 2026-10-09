@@ -1,0 +1,15 @@
+{
+  "runtime": "vanilla-eds",
+  "probedAt": "2026-10-06",
+  "probedFrom": ["scripts/aem.js", "scripts/scripts.js"],
+  "blockWrapperClass": "block",
+  "blockWrapper": "div.<name>-wrapper; section gains .<name>-container; data-block-name set by decorateBlock",
+  "buttonClasses": ".button / .button.primary / .button.secondary / .button.accent, in p.button-wrapper",
+  "buttonization": "formatted-only",
+  "buttonizationNote": "decorateButtons requires an authored <strong>/<em> around the link; a bare <a> alone in a <p> stays a text link",
+  "fragmentScriptPolicy": "inert-innerHTML",
+  "emptySectionCollapse": true,
+  "templateClass": "decorateTemplateAndTheme → body.<template>",
+  "fonts": "loadFonts() loads styles/fonts.css (eager at >= 900px or on the fonts-loaded session flag, else in loadLazy)",
+  "headerFooter": "loadHeader/loadFooter build the header/footer blocks in loadLazy; nav/footer metadata override the fragment paths"
+}

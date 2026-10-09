@@ -1,0 +1,305 @@
+/* location-finder — source <lmh-dealer-locator> (live: shadow DOM, Tailwind tokens; values lifted
+   from the gated prototype stardust/prototypes/en-technical-location-finder-html.css). Static snapshot
+   (stardust/dynamic-features.md row 9): the map is a styled box at the live map's rect (684x600 at
+   1440, 360x400 at 360), the search controls, toggle and card buttons are inert. */
+main .section .location-finder-wrapper {
+  max-width: none; /* the component spans the shell like the live #pjax-container child */
+}
+
+.location-finder {
+  position: relative;
+  width: 100%;
+  font-size: 16px;
+  line-height: 24px;
+  color: #222;
+}
+
+.location-finder *,
+.location-finder *::before,
+.location-finder *::after {
+  box-sizing: border-box;
+}
+
+.location-finder p {
+  margin: 0;
+  font: inherit;
+}
+
+.location-finder .lf-layout {
+  display: flex;
+  flex-direction: column;
+}
+
+.location-finder .lf-panel {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.location-finder .lf-controls {
+  margin: 16px 16px 16px 0;
+  padding: 0 16px;
+}
+
+.location-finder .lf-controls-row {
+  display: flex;
+  align-items: flex-end;
+  width: 100%;
+}
+
+.location-finder .lf-field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  width: 100%;
+  max-width: 320px;
+  margin: 0 16px 0 0;
+  color: #334155;
+  position: relative;
+}
+
+.location-finder .lf-field p {
+  width: fit-content;
+  padding-left: 2px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.location-finder .lf-field select {
+  width: 100%;
+  appearance: none;
+  border: 0;
+  border-radius: 0;
+  background: #f1f5f9;
+  padding: 8px 16px;
+  margin: 0;
+  font: inherit;
+  font-size: 14px;
+  line-height: 20px;
+  color: #334155;
+}
+
+.location-finder .lf-toggle {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0 16px 16px;
+}
+
+.location-finder .lf-toggle ul {
+  display: flex;
+  gap: 16px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.location-finder .lf-toggle li {
+  width: 100%;
+  padding: 8px 16px;
+  background: #e5e7eb;
+  color: #000;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  text-align: center;
+  cursor: pointer;
+}
+
+.location-finder .lf-toggle li strong {
+  font-weight: inherit;
+}
+
+.location-finder .lf-toggle li.is-active {
+  border-bottom: 3px solid #aa0020;
+}
+
+.location-finder .lf-results {
+  background: #f3f4f6;
+  padding: 16px 16px 0;
+}
+
+.location-finder .lf-list {
+  display: none;
+  height: 450px;
+  overflow-y: scroll;
+  border-bottom: 4px solid transparent;
+}
+
+.location-finder .lf-list::-webkit-scrollbar {
+  width: 18px;
+}
+
+.location-finder .lf-list::-webkit-scrollbar-thumb {
+  background: #d1d5db;
+  border: 6px solid #f3f4f6;
+}
+
+.location-finder .dealer-card {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  margin: 18px 18px 18px 0;
+}
+
+.location-finder .dealer-card:first-child {
+  margin-top: 0;
+}
+
+.location-finder .dealer-card:last-child {
+  margin-bottom: 0;
+}
+
+.location-finder .dealer-card-inner {
+  display: flex;
+  flex-direction: column;
+  padding: 18px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.location-finder .dealer-card-row {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+}
+
+.location-finder .dealer-card-logo img {
+  display: block;
+  width: auto;
+  height: 72px;
+  max-width: 100%;
+  object-fit: contain;
+  object-position: left;
+  margin: 0 0 9px;
+}
+
+.location-finder .dealer-card-select {
+  margin-left: auto; /* right-aligned on live also when the card has no logo */
+  background: #404040;
+  border: 1px solid #404040;
+  color: #f1f5f9;
+  padding: 9px 18px;
+  font-size: 13.5px;
+  line-height: 18px;
+  cursor: pointer;
+}
+
+.location-finder .dealer-card-title {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 18px;
+  padding: 4.5px 0 9px;
+}
+
+.location-finder .dealer-card address {
+  font-style: normal;
+  font-size: 15.75px;
+  line-height: 22.5px;
+}
+
+.location-finder .dealer-card-details {
+  align-self: flex-end;
+  text-align: right;
+  min-width: fit-content;
+  color: #aa0020;
+  font-size: 15.75px;
+  line-height: 22.5px;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.location-finder .lf-map-col {
+  position: relative;
+  width: 100%;
+  height: 400px;
+  overflow: hidden;
+  align-self: flex-end;
+}
+
+.location-finder .lf-map {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  background: #e5e3df;
+  overflow: hidden;
+}
+
+@media (width >= 768px) {
+  .location-finder {
+    font-size: 18px;
+    line-height: 27px;
+  }
+
+  .location-finder .lf-layout {
+    flex-direction: row;
+    gap: 36px;
+  }
+
+  .location-finder .lf-panel {
+    width: 50%;
+    flex-shrink: 0;
+    height: 100%;
+  }
+
+  .location-finder .lf-controls {
+    margin: 18px 18px 36px 0;
+    padding: 0 0 0 18px;
+  }
+
+  .location-finder .lf-field {
+    gap: 4.5px;
+    max-width: 360px;
+    margin-right: 18px;
+  }
+
+  .location-finder .lf-field p {
+    padding-left: 2.25px;
+    font-size: 15.75px;
+    line-height: 22.5px;
+  }
+
+  .location-finder .lf-field select {
+    padding: 9px 18px;
+    font-size: 15.75px;
+    line-height: 22.5px;
+  }
+
+  .location-finder .lf-toggle {
+    display: none;
+  }
+
+  .location-finder .lf-results {
+    padding: 18px 18px 0;
+  }
+
+  .location-finder .lf-list {
+    display: block;
+  }
+
+  .location-finder .lf-map-col {
+    height: 600px;
+  }
+}
+
+/* the authored page heading: the live component paints none — kept for assistive tech and the
+   document outline, off-canvas without overflow clipping (no clipped text, no painted pixels) */
+.location-finder .lf-title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1px;
+  height: 1px;
+  margin: 0;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.location-finder .lf-title h1 {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1;
+  white-space: nowrap;
+}

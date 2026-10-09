@@ -1,0 +1,996 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-06T11:27:03.457Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "en-products-automated-trucks",
+  "url": "https://www.linde-mh.com/en/Products/Automated-Trucks/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-06T11:27:03.457Z",
+  "finalUrl": "https://www.linde-mh.com/en/Products/Automated-Trucks/",
+  "title": "Automated industrial trucks | Linde Material Handling",
+  "description": "More efficient, safer, more productive: Linde MH’s automated industrial trucks optimize your internal operations.",
+  "og": {
+    "title": "Automated industrial trucks",
+    "description": "Linde Material Handling offers a wide range of automated industrial trucks for flexible and scalable automation solutions. The electric forklifts, pallet trucks, and tow tractors from the MATIC series are equipped with intelligent navigation and safety technology, and work together with people in the tightest of spaces.",
+    "image": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Franz-Veit-GmbH/Franz_Veit-Automated_Trucks-L_MATIC-moving-4622_4105_B_13x18_16x9w1920.jpg",
+    "type": "article"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Automated industrial trucks"
+    },
+    {
+      "tag": "h2",
+      "text": "An overview of all automated industrial trucks"
+    },
+    {
+      "tag": "h3",
+      "text": "C-MATIC – automated mobile platform"
+    },
+    {
+      "tag": "h3",
+      "text": "C-MATIC HP – autonomous mobile robot (AMR)"
+    },
+    {
+      "tag": "h3",
+      "text": "L-MATIC core – compact pallet stacker"
+    },
+    {
+      "tag": "h3",
+      "text": "L-MATIC – Pallet Stacker"
+    },
+    {
+      "tag": "h3",
+      "text": "L-MATIC HD k – pallet stacker"
+    },
+    {
+      "tag": "h3",
+      "text": "L-MATIC AC – Counterbalanced Pallet Stacker"
+    },
+    {
+      "tag": "h3",
+      "text": "L-MATIC AC k – counterbalanced pallet stacker"
+    },
+    {
+      "tag": "h3",
+      "text": "P-MATIC – Tow Tractor"
+    },
+    {
+      "tag": "h3",
+      "text": "R-MATIC – Reach truck"
+    },
+    {
+      "tag": "h3",
+      "text": "R-MATIC k – Reach truck"
+    },
+    {
+      "tag": "h3",
+      "text": "K-MATIC – Very Narrow Aisle Truck (VNA)"
+    },
+    {
+      "tag": "h3",
+      "text": "Customized automated industrial trucks: the I-MATIC line from Linde MH"
+    },
+    {
+      "tag": "h2",
+      "text": "Fully scalable: Easy to get started, flexible as you grow"
+    },
+    {
+      "tag": "h3",
+      "text": "On-site rapid test"
+    },
+    {
+      "tag": "h3",
+      "text": "Ready to use"
+    },
+    {
+      "tag": "h3",
+      "text": "Gradual expansion"
+    },
+    {
+      "tag": "h3",
+      "text": "Full Control"
+    },
+    {
+      "tag": "h3",
+      "text": "Solutions for every level of automation"
+    },
+    {
+      "tag": "h3",
+      "text": "Automation in practice"
+    },
+    {
+      "tag": "h2",
+      "text": "More about our intralogistics and automation solutions"
+    },
+    {
+      "tag": "h3",
+      "text": "Intralogistics and Automation"
+    },
+    {
+      "tag": "h3",
+      "text": "Warehouse Automation"
+    },
+    {
+      "tag": "h3",
+      "text": "Warehouse Management System (WMS)"
+    },
+    {
+      "tag": "h3",
+      "text": "Material Flow Consulting"
+    },
+    {
+      "tag": "h6",
+      "text": "Follow us on"
+    }
+  ],
+  "body": [
+    "Products Products Overview Product Finder Product Finder Overview New Trucks Rental Trucks New Industrial Trucks New Industrial Trucks Overview Forklift Trucks Electric Forklifts Diesel Forklifts Gas Forklifts Heavy Duty Forklifts Pallet Trucks Hand Pallet Trucks Pallet Stackers Very Narrow Aisle Trucks Order Pickers Reach Trucks Tow Tractors Tugger Trains Explosion Proof Trucks Automated Trucks Forklift Hire Approved Trucks Automated Trucks Automated Trucks Overview Automated Guided Vehicles Autonomous Mobile Robots Digital Products Digital Products Fleet Management Intralogistics Software",
+    "Services Services Overview Truck Service Truck Service Maintenance & Repair Genuine Spare Parts Retrofit & Accessories Technical & Safety Services Training Financing",
+    "Solutions Solutions Overview Intralogistics & Automation Intralogistics & Automation Overview Automated Warehouse Warehouse Management System Material Flow Consulting Case Studies by Industries Fleet Management Fleet Management Overview Fleet Optimization Consulting Energy Systems Energy Systems Overview Lithium-ion Technology Fuel Cell Technology Energy Consulting Warehouse Safety Warehouse Safety Overview Light and Warning Systems Assistance Systems Safety Consulting",
+    "About us About us Overview Company Company Overview Sustainability Awards Certificates Our Innovations Working with us Working with us Overview Highschool & University Students Apprentices Recent Graduates & Professionals Magazine Events Press Media",
+    "Search",
+    "Xtranet",
+    "Products",
+    "New Industrial Trucks",
+    "Automated Trucks",
+    "Automated industrial trucks are the future of efficient material flow. They take over tiring transport tasks from employees, increase the handling volume, and reduce the error and accident rates in the warehouse.",
+    "With the electric forklift trucks, pallet trucks, tow tractors, and mobile platforms of the MATIC series, Linde Material Handling offers a wide range of advanced automation solutions. All automated industrial trucks are equipped with intelligent navigation and safety technology, while AGVs based on our proven conventional warehouse trucks can also be maneuvered using the manual controls if necessary.",
+    "The compact C-MATIC is ideal for direct pallet or table transport over short and medium distances. Thanks to QR code navigation, flexible route control, and safe handling, it navigates tight spaces with ease and ensures a reliable flow of materials even in mixed-use environments.",
+    "The C-MATIC HP moves pallets and roll cages weighing up to 1,000 kilograms over medium and long distances. It maps its own route and can navigate around obstacles on its own. No permanently installed infrastructure is required. Thanks to its flexible load-handling capabilities, it can also handle load carriers that are not ideally positioned.",
+    "The compact L-MATIC core is ideal for tight workspaces. It is suitable for floor-level transport as well as conveyor belt applications and handles the storage and retrieval of goods at low heights. Thanks to 360-degree safety scanners and quick setup, it can be easily integrated into existing workflows.",
+    "The L-MATIC automates storage and retrieval operations at low heights and handles transport along fixed routes as well as double-deck loading. Thanks to state-of-the-art navigation software, it operates flexibly as a standalone unit or as part of a fleet and interacts safely with people, vehicles, and infrastructure.",
+    "The L-MATIC HD k is designed for medium loads and lift heights of up to 3.8 meters. Comprehensive sensors for load and environment detection ensure high process reliability. For smooth 24/7 operation, the truck automatically navigates to the charging station when its charge level is low.",
+    "Thanks to its cantilever forks, the L-MATIC AC can also handle closed load carriers and operates flexibly at transfer stations without underrun protection. With lifting heights of up to 4.2 meters, it is suitable for a variety of applications and ensures smooth operation due to its comprehensive safety features.",
+    "The L-MATIC AC k combines load capacities of up to 1,400 kilograms with a stacking height of up to 3.8 meters. Thanks to its cantilever forks, it can also pick up closed load carriers directly from the floor. Comprehensive sensor technology and variable fork options enable precise handling in a wide range of applications.",
+    "The P-MATIC handles cargo transport in confined spaces and moves loads of up to 5,000 kilograms. Be it for production supply, tugger train applications, or material removal, it ensures reliable transport processes at all times – whether used as a standalone unit or as part of an autonomous fleet.",
+    "The R-MATIC handles storage and retrieval operations at heights of up to 11 meters and transports loads weighing up to 1,600 kilograms. The 3D camera system enables precise load handling, while the advanced navigation software allows for flexible use without the need for additional infrastructure.",
+    "The R-MATIC k operates at heights of up to 10 meters and can handle loads of up to 2,300 kilograms. With comprehensive safety features and seamless integration into existing processes, this automated forklift is ideal for existing facilities and can be easily deployed in fleets of any size.",
+    "The K-MATIC automates complex processes in narrow-aisle warehouses and handles lift heights of up to 14 meters. Its navigation software enables operation without the need for additional infrastructure. At the same time, its precise integration with conveyor systems or transfer stations ensures high throughput.",
+    "Applications with particularly demanding requirements call for solutions that go beyond the standard product portfolio. This is precisely why Linde Material Handling developed the I-MATIC line: customizable, automated guided vehicles (AGVs) based on proven Linde vehicle technology. The possibilities range from special attachments such as paper clamps, special forks, or roller conveyors to versions designed for extreme operating conditions, such as cold storage facilities or particularly confined spaces.",
+    "Making the move to automation doesn’t have to be a leap into the unknown. With Linde MH, you can make the transition simple, low-risk, and at your own pace. Our system adapts to your needs step by step, from the first automated sub-process to a fully autonomous fleet. This way, you maintain full control over costs at all times and see immediate benefits in your day-to-day operations.",
+    "Within a day, we’ll work with you to assess feasibility directly in your actual work environment.",
+    "Once testing is complete, your systems will be up and running in just three days and will integrate seamlessly into your processes.",
+    "Start small, with one to five trucks. Then scale up gradually as your needs grow.",
+    "Use intuitive software and digital mapping to adjust routes, safety zones, and handoff points on your own at any time.",
+    "No matter how quickly your needs grow, our solutions keep pace. The control software suite MATIC:move and MATIC:move+ for our mobile systems is highly scalable and integrates seamlessly into your existing IT infrastructure. MATIC:move+ integrates perfectly with Linde Warehouse Manager, but is also compatible with other popular WMS systems via the standard VDA 5050 interface. This allows you to manage manual, mobile, and stationary components from a single, central location.",
+    "From manufacturing and mechanical engineering to contract logistics: companies across a wide range of industries are already relying on automated intralogistics solutions from Linde Material Handling. Our customer stories show how businesses are making their processes more efficient, safer, and more cost-effective using automated industrial trucks, intelligent software, and comprehensive material flow consulting.",
+    "Comprehensive solutions for intralogistics and automation from Linde Material Handling: efficient and scalable. For greater productivity, flexibility, and safety in the warehouse.",
+    "Automated Warehouse with Linde MH: Scalable automation for efficient, safe, and flexible material flow.",
+    "The Linde Warehouse Manager is an integrated warehouse management system (WMS) that orchestrates all warehouse processes for optimal goods flow and maximum productivity.",
+    "Linde Material Handling offers its customers comprehensive system consulting in order to help them optimize their internal material flows.",
+    "Contact",
+    "Home",
+    "Legal",
+    "Terms of use",
+    "Suppliers",
+    "EDI",
+    "Privacy Statements",
+    "Cookie Settings",
+    "Vulnerability Disclosure Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Search",
+      "href": "https://www.linde-mh.com/en/Search/"
+    },
+    {
+      "label": "Xtranet",
+      "href": "https://xtranet.linde-mh.com/lmhge/"
+    },
+    {
+      "label": "Products",
+      "href": "../"
+    },
+    {
+      "label": "New Industrial Trucks",
+      "href": "../"
+    },
+    {
+      "label": "Find your automated truck here!",
+      "href": " ../Productfinder/?productTypes[]=2368&offerType=new "
+    },
+    {
+      "label": "C-MATIC – automated mobile platform",
+      "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/C-MATIC/"
+    },
+    {
+      "label": "Find out more",
+      "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/C-MATIC/"
+    },
+    {
+      "label": "C-MATIC HP – autonomous mobile robot (AMR)",
+      "href": "https://www.linde-mh.com/en/Products/Automated-Trucks/C-MATIC-HP/"
+    },
+    {
+      "label": "Find out more",
+      "href": "https://www.linde-mh.com/en/Products/Automated-Trucks/C-MATIC-HP/"
+    },
+    {
+      "label": "L-MATIC core – compact pallet stacker",
+      "href": "https://www.linde-mh.com/en/Products/Automated-Trucks/L-MATIC-core/"
+    },
+    {
+      "label": "Find out more",
+      "href": "https://www.linde-mh.com/en/Products/Automated-Trucks/L-MATIC-core/"
+    },
+    {
+      "label": "L-MATIC – Pallet Stacker",
+      "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/L-Matic/"
+    },
+    {
+      "label": "Find out more",
+      "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/L-Matic/"
+    },
+    {
+      "label": "L-MATIC HD k – pallet stacker",
+      "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/L-MATIC-HD/"
+    },
+    {
+      "label": "Find out more",
+      "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/L-MATIC-HD/"
+    },
+    {
+      "label": "L-MATIC AC – Counterbalanced Pallet Stacker",
+      "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/L-Matic-AC/"
+    },
+    {
+      "label": "Find out more",
+      "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/L-Matic-AC/"
+    },
+    {
+      "label": "L-MATIC AC k – counterbalanced pallet stacker",
+      "href": "https://www.linde-mh.com/en/Products/Automated-Trucks/L-MATIC-AC-k/"
+    },
+    {
+      "label": "Find out more",
+      "href": "https://www.linde-mh.com/en/Products/Automated-Trucks/L-MATIC-AC-k/"
+    },
+    {
+      "label": "P-MATIC – Tow Tractor",
+      "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/P-Matic/"
+    },
+    {
+      "label": "Find out more",
+      "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/P-Matic/"
+    },
+    {
+      "label": "R-MATIC – Reach truck",
+      "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/R-Matic/"
+    },
+    {
+      "label": "Find out more",
+      "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/R-Matic/"
+    },
+    {
+      "label": "R-MATIC k – Reach truck",
+      "href": "https://www.linde-mh.com/en/Products/Automated-Trucks/R-MATIC-k/"
+    },
+    {
+      "label": "Find out more",
+      "href": "https://www.linde-mh.com/en/Products/Automated-Trucks/R-MATIC-k/"
+    },
+    {
+      "label": "K-MATIC – Very Narrow Aisle Truck (VNA)",
+      "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/K-Matic/"
+    },
+    {
+      "label": "Find out more",
+      "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/K-Matic/"
+    },
+    {
+      "label": "Discover all automated industrial trucks",
+      "href": " ../Productfinder/?productTypes[]=2368&offerType=new "
+    },
+    {
+      "label": "1",
+      "href": null
+    },
+    {
+      "label": "2",
+      "href": null
+    },
+    {
+      "label": "3",
+      "href": null
+    },
+    {
+      "label": "Learn more about the I-MATIC series and contact our experts!",
+      "href": "../../Forms/Global-Contact-Form/"
+    },
+    {
+      "label": "Learn more about our intralogistics and automation solutions!",
+      "href": "../../Solutions/Intralogistics-Automation/"
+    },
+    {
+      "label": "Linde Warehouse Manager",
+      "href": "../../Solutions/Intralogistics-Automation/Warehouse-Management-System/"
+    },
+    {
+      "label": "Find out more",
+      "href": "../../Solutions/Intralogistics-Automation/User-cases-intralogistics/"
+    },
+    {
+      "label": "Intralogistics and Automation",
+      "href": "../../Solutions/Intralogistics-Automation/"
+    },
+    {
+      "label": "Find out more",
+      "href": "../../Solutions/Intralogistics-Automation/"
+    },
+    {
+      "label": "Warehouse Automation",
+      "href": "../../Solutions/Intralogistics-Automation/Automated-Warehouse/"
+    },
+    {
+      "label": "Find out more",
+      "href": "../../Solutions/Intralogistics-Automation/Automated-Warehouse/"
+    },
+    {
+      "label": "Warehouse Management System (WMS)",
+      "href": "../../Solutions/Intralogistics-Automation/Warehouse-Management-System/"
+    },
+    {
+      "label": "Find out more",
+      "href": "../../Solutions/Intralogistics-Automation/Warehouse-Management-System/"
+    },
+    {
+      "label": "Material Flow Consulting",
+      "href": "../../Solutions/Consulting/Material-Flow-Consulting/"
+    },
+    {
+      "label": "Find out more",
+      "href": "../../Solutions/Consulting/Material-Flow-Consulting/"
+    },
+    {
+      "label": "Want to learn more? Contact our automation experts!",
+      "href": "../../Forms/Global-Contact-Form/"
+    },
+    {
+      "label": "Share",
+      "href": "#123"
+    },
+    {
+      "label": "Contact",
+      "href": "../../Forms/Global-Contact-Form/"
+    },
+    {
+      "label": "Home",
+      "href": "../.."
+    },
+    {
+      "label": "Legal",
+      "href": "../../Legal-Notes/Legal/"
+    },
+    {
+      "label": "Terms of use",
+      "href": "../../Legal-Notes/Terms-of-use/"
+    },
+    {
+      "label": "Suppliers",
+      "href": "https://www.kiongroup.com/en/About-us/Suppliers/"
+    },
+    {
+      "label": "EDI",
+      "href": "../../EDI/"
+    },
+    {
+      "label": "Privacy Statements",
+      "href": "../../Legal-Notes/Privacy-Statement/"
+    },
+    {
+      "label": "Cookie Settings",
+      "href": "#"
+    },
+    {
+      "label": "Vulnerability Disclosure Policy",
+      "href": "https://www.kiongroup.com/en/Service/Vulnerability-Disclosure-Policy/"
+    }
+  ],
+  "links": [
+    "https://www.linde-mh.com/en/",
+    "https://www.linde-mh.com/en/Products/Automated-Trucks/#123",
+    "https://www.linde-mh.com/en/Products/",
+    "https://www.linde-mh.com/en/Products/Productfinder/",
+    "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/",
+    "https://www.linde-mh.com/en/Products/E-Trucks/",
+    "https://www.linde-mh.com/en/Products/Diesel-Forklifts/",
+    "https://www.linde-mh.com/en/Products/Gas-forklifts/",
+    "https://www.linde-mh.com/en/Products/Heavy-Duty-Forklifts/",
+    "https://www.linde-mh.com/en/Products/Pallet-Trucks/",
+    "https://www.linde-mh.com/en/Products/Hand-Pallet-Trucks/",
+    "https://www.linde-mh.com/en/Products/Pallet-Stackers/",
+    "https://www.linde-mh.com/en/Products/Very-Narrow-Aisle-Trucks/",
+    "https://www.linde-mh.com/en/Products/Order-Pickers/",
+    "https://www.linde-mh.com/en/Products/Reach-Trucks/",
+    "https://www.linde-mh.com/en/Products/Tow-Trucks/",
+    "https://www.linde-mh.com/en/Products/Tugger-Trains/",
+    "https://www.linde-mh.com/en/Products/Explosion-Proof-Trucks/",
+    "https://www.linde-mh.com/en/Products/Automated-Trucks/index.html",
+    "https://www.linde-mh.com/en/Products/Forklift-Hire/",
+    "https://www.linde-mh.com/en/Products/Approved-Trucks/",
+    "https://www.linde-mh.com/en/Products/Automated-Trucks/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-guided-vehicle/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Autonomous-mobile-robots/",
+    "https://www.linde-mh.com/en/Solutions/Fleet-Management/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Software/",
+    "https://www.linde-mh.com/en/Service/",
+    "https://www.linde-mh.com/en/Service/Maintenance-Repair/",
+    "https://www.linde-mh.com/en/Service/Genuine-Spare-Parts/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Technical-Safety-Services/",
+    "https://www.linde-mh.com/en/Service/Training/",
+    "https://www.linde-mh.com/en/Solutions/Financing/",
+    "https://www.linde-mh.com/en/Solutions/Overview.html",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-Warehouse/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Warehouse-Management-System/",
+    "https://www.linde-mh.com/en/Solutions/Consulting/Material-Flow-Consulting/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/User-cases-intralogistics/",
+    "https://www.linde-mh.com/en/Solutions/Consulting/Fleet-Optimization.html",
+    "https://www.linde-mh.com/en/Solutions/Energy-Systems/",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+    "https://www.linde-mh.com/en/Solutions/Energy-Systems/Energy-consulting/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Light-and-warning-systems/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Assistance-systems/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Safety-consulting/",
+    "https://www.linde-mh.com/en/About-us/",
+    "https://www.linde-mh.com/en/About-us/Company/",
+    "https://www.linde-mh.com/en/About-us/Sustainability/",
+    "https://www.linde-mh.com/en/About-us/Awards/",
+    "https://www.linde-mh.com/en/About-us/Certificates/",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/Students-Scholars/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/Apprentice/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/Professionals/",
+    "https://www.linde-mh.com/en/About-us/Magazine/",
+    "https://www.linde-mh.com/en/About-us/Events/",
+    "https://www.linde-mh.com/en/About-us/Press/",
+    "https://www.linde-mh.com/en/About-us/Media/",
+    "https://www.linde-mh.com/en/Landingpage/Platform-Counterbalanced-Trucks/",
+    "https://www.linde-mh.com/en/Products/Productfinder/?offerType=new",
+    "https://www.linde-mh.com/en/technical/Location-Finder.html",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+    "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+    "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+    "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+    "https://www.linde-mh.com/en/Search/",
+    "https://xtranet.linde-mh.com/lmhge/",
+    "https://www.linde-mh.com/en/Products/Automated-Trucks/#",
+    "https://www.linde-mh.com/en/Products/Productfinder/?productTypes[]=2368&offerType=new",
+    "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/C-MATIC/",
+    "https://www.linde-mh.com/en/Products/Automated-Trucks/C-MATIC-HP/",
+    "https://www.linde-mh.com/en/Products/Automated-Trucks/L-MATIC-core/",
+    "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/L-Matic/",
+    "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/L-MATIC-HD/",
+    "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/L-Matic-AC/",
+    "https://www.linde-mh.com/en/Products/Automated-Trucks/L-MATIC-AC-k/",
+    "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/P-Matic/",
+    "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/R-Matic/",
+    "https://www.linde-mh.com/en/Products/Automated-Trucks/R-MATIC-k/",
+    "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/K-Matic/",
+    "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+    "mailto:?body=$url",
+    "https://www.linkedin.com/shareArticle?url=$url&v=6246496",
+    "https://www.facebook.com/sharer/sharer.php?u=$url",
+    "javascript:window.print()",
+    "https://www.linde-mh.com/en/Legal-Notes/Legal/",
+    "https://www.linde-mh.com/en/Legal-Notes/Terms-of-use/",
+    "https://www.kiongroup.com/en/About-us/Suppliers/",
+    "https://www.linde-mh.com/en/EDI/",
+    "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/",
+    "https://www.kiongroup.com/en/Service/Vulnerability-Disclosure-Policy/",
+    "https://www.linkedin.com/company/36425/",
+    "https://www.facebook.com/LindeMH/",
+    "https://www.instagram.com/linde_mh/",
+    "http://www.youtube.com/user/Gabelstapler24",
+    "http://null/",
+    "https://www.ccm19.de/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.linde-mh.com/en/layoutmedia/Linde_MH_Logo_RGB.svg",
+        "alt": "",
+        "w": 250,
+        "h": 150
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Franz-Veit-GmbH/Franz_Veit-Automated_Trucks-L_MATIC-moving-4622_4105_B_13x18_16x9w1920.jpg",
+        "alt": "Automated forklifts from Linde Material Handling’s MATIC series in the warehouse.",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR8925_C-Matic-10_teaser_16x9w640.png",
+        "alt": "C-MATIC from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BRXXXX_C-Matic-HP_teaser_16x9w640.png",
+        "alt": "C-MATIC HP by Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1195_L-MATIC-core_teaser_16x9w640.png",
+        "alt": "L-MATIC core from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR133-00_L-Matic_teaser_16x9w640.png",
+        "alt": "L-MATIC from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1173-L-MATIC-16HD-k-R22_teaser_16x9w640.png",
+        "alt": "L-MATIC HD k from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1170_L-Matic_AC_teaser_16x9w640.png",
+        "alt": "L-MATIC AC from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1171_L-MATIC-AC-k_16_teaser_16x9w640.png",
+        "alt": "L-MATIC AC k from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1190_P-Matic_teaser_16x9w640.png",
+        "alt": "P-MATIC from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1120_R-Matic_V02_teaser_16x9w640.png",
+        "alt": "R-MATIC from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR5190_R-MATIC-k_LINDE_teaser_16x9w640.png",
+        "alt": "L-MATIC AC from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR5231_K-Matic_teaser_16x9w640.png",
+        "alt": "K-MATIC from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Automation/I-MATIC/I-Matic-AS-(1.5)-Core-Low-perspective-Back-R_16x9w640.jpg",
+        "alt": "The I-MATIC AS from Linde MH is an automated straddle stacker.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Automation/I-MATIC/I-Matic-CT-(1.5)-Core-Single-Roller-Low-Perspective-Front-L_16x9w640.jpg",
+        "alt": "Linde MH’s I-MATIC CT core autonomous guided vehicle (AGV) with a loading platform for automatic loading and unloading",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Automation/I-MATIC/I-Matic-CF-(1.6)-Core-Low-Perspective-Front-L_16x9w640.jpg",
+        "alt": "An I-MATIC CF pallet stacker from Linde Material Handling, suitable for use in cold storage",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Automation/I-MATIC/I-Matic-AS-(1.5)-Core-Low-perspective-Back-R_16x9w640.jpg",
+        "alt": "The I-MATIC AS from Linde MH is an automated straddle stacker.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Automation/I-MATIC/I-Matic-CT-(1.5)-Core-Single-Roller-Low-Perspective-Front-L_16x9w640.jpg",
+        "alt": "Linde MH’s I-MATIC CT core autonomous guided vehicle (AGV) with a loading platform for automatic loading and unloading",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Automation/I-MATIC/I-Matic-CF-(1.6)-Core-Low-Perspective-Front-L_16x9w640.jpg",
+        "alt": "An I-MATIC CF pallet stacker from Linde Material Handling, suitable for use in cold storage",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Automation/I-MATIC/I-Matic-AS-(1.5)-Core-Low-perspective-Back-R_16x9w640.jpg",
+        "alt": "The I-MATIC AS from Linde MH is an automated straddle stacker.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Schneider-Electric/Schneider_Electric-L_MATIC_AC-Moving-warehouse-01_16x9w1920.jpg",
+        "alt": "An L-MATIC AC from Linde MH is located in a warehouse.",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/ebm-Papst/Linde_MH_ebm-papst_Nr_10_16_9_16x9w640.jpg",
+        "alt": "Forklifts from Linde Material Handling in use in the warehouse",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Automation/Key-visuals-Automation/LMH_SolutionField_Automation_TopLevel_Icon_v1_16x9w640.jpg",
+        "alt": "Linde Material Handling employee in a warehouse with a red LED symbol of a gear wheel in the background.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Automation/Key-visuals-Automation/LMH_SolutionField_Automation_Product_v1_16x9w640.jpg",
+        "alt": "Three people are standing in front of an automated vehicle from Linde MH.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Automation/Linde-Warehouse-Manager/Software-Linde_Warehouse_Manager-WMS-Laptop_Zoom_3_16x9w640.jpg",
+        "alt": "Laptop with the Linde Warehouse Manager user interface.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Consulting/Material_flow_consulting-warehouse_2_201907_16x9w640.jpg",
+        "alt": "Material flow in a warehouse with equipment from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/HR/global-HR-Banner_Linde-KION_16x9w1920.jpg",
+        "alt": "",
+        "w": 1440,
+        "h": 810
+      }
+    ],
+    "allImgCount": 28,
+    "cssBackgrounds": [],
+    "modals": [
+      "German (Deutsch) English We use cookies and other technologies. This website uses cookies and similar functions to process end device information and personal data. The processing serves the integration of content, external services and elements of third parties, statistical analysis/measurement, personalized advertising and the integration of social media. Depending on the function, data may be passed on to third parties in the process and to third parties in countries where there is no adequate level of data protection and is processed by them, e.g. the USA. Your consent is always voluntary, not required for the use of our website and can be rejected or revoked at any time on our site. Accept all Decline Settings Imprint Privacy Policy Powered by CCM19",
+      "Please select policies to allow Technically neccessary (2) ? Here are all technically necessary scripts, cookies and other elements that are necessary for the operation of the website or the operator has a legitimate interest under DSGVO Art6, para. 1. Analytics & Marketing (5) ? Analytics cookies help us understand how visitors interact with this website by collecting and reporting information anonymously. To continuously improve our website, we track data for statistical and analytical purposes, such as the number of visits or the impact of certain pages of our web presence, and thus optimise our content. Marketing cookies are used to target advertising specifically to a user (behavioural targeting). The aim of using marketing cookies is to display advertising that is particularly relevant to the users of the website. Personalization (1) ? To better tailor the website to you, scripts run here and cookies are set. The goal is to provide a better user experience for you. Other (2) ? Here are other scripts and cookies that do not fit any of the above categories. Cancel Save"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--color-red": "#aa0020",
+    "--color-toned-red": "#cc132a",
+    "--color-darkred": "#990e1f",
+    "--color-darkgrey": "#222",
+    "--color-text-darkgrey": "#444",
+    "--color-textgrey": "#4a595c",
+    "--color-toned-textgrey": "#5e7175",
+    "--color-shadegrey": "#e6e7eb",
+    "--color-lightgrey": "#eeeff3",
+    "--color-hover-lightgrey": "#f5f6fa",
+    "--color-white": "#fff",
+    "--color-form-lightgrey": "#cccdd1",
+    "--color-form-darkgrey": "#9b9b9e",
+    "--color-black": "#222",
+    "--color-form-validation": "red",
+    "--color-green": "#77b340",
+    "--color-toned-green": "color-mix(in srgb,#77b340,#fff 10%)",
+    "--color-darkgreen": "color-mix(in srgb,#77b340,#000 10%)",
+    "--color-primary-700": "#94001d",
+    "--color-primary-900": "#700016",
+    "--color-carousel-grey": "#354042",
+    "--color-carousel-lightgrey": "#6b6b6a",
+    "--color-carousel-red": "#ba1926",
+    "--color-facebook": "#3b5998",
+    "--color-twitter": "#000",
+    "--color-xing": "#126567",
+    "--color-youtube": "#cd201f",
+    "--color-vimeo": "#1ab7ea",
+    "--color-twitch": "#6441a5",
+    "--color-whatsapp": "#25d366",
+    "--color-linkedin": "#0077b5",
+    "--color-googleplus": "#d34836",
+    "--color-baidu": "#de0f17",
+    "--color-pinterest": "#bd081c",
+    "--color-instagram": "#e1306c",
+    "--color-blogger": "#f57d00",
+    "--color-flickr": "#0063dc",
+    "--color-kununu": "#000",
+    "--color-tiktok": "#000",
+    "--color-toned-red2": "#ba1926",
+    "--color-lightgrey2": "#e4e5ea",
+    "--font-face": "\"DaxlineWebPro\"",
+    "--font-face-bold": "\"DaxlineWebPro-Bold\"",
+    "--font-face-italic": "\"DaxlineWebPro-Italic\"",
+    "--font-face-medi": "\"DaxWebPro-Medi\"",
+    "--font-face-light": "\"DaxWebPro-Light\"",
+    "--color-lmh-grey-200": "#dcdcdf",
+    "--color-lmh-grey-300": "#cccdd1",
+    "--ccm--scrollbar-width": "0px",
+    "--ccm--scrollbar-height": "0px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 27,
+    "mainTextLen": 37637,
+    "realImageCount": 27,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "epcloud.ccm19.de",
+        "path": "/consent/ccm19/public/widget",
+        "query": [
+          "apiKey",
+          "domain",
+          "gen",
+          "lang",
+          "theme",
+          "v"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/x-html-fragment",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://epcloud.ccm19.de/consent/ccm19/public/widget",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "b.clarity.ms",
+        "path": "/collect",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 3,
+        "example": "https://b.clarity.ms/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "px.ads.linkedin.com",
+        "path": "/wa/",
+        "query": [
+          "fmt",
+          "medium"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://px.ads.linkedin.com/wa/",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_p",
+          "_s",
+          "cid",
+          "dl",
+          "dma",
+          "dp",
+          "dt",
+          "en",
+          "ep.allowLinker",
+          "ep.customTask",
+          "frm",
+          "gcd",
+          "gcs",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "www.googletagmanager.com",
+        "count": 4
+      },
+      {
+        "host": "snap.licdn.com",
+        "count": 2
+      },
+      {
+        "host": "connect.facebook.net",
+        "count": 2
+      },
+      {
+        "host": "static.etracker.com",
+        "count": 1
+      },
+      {
+        "host": "epcdn.ccm19.de",
+        "count": 1
+      },
+      {
+        "host": "epcloud.ccm19.de",
+        "count": 1
+      },
+      {
+        "host": "code.etracker.com",
+        "count": 1
+      },
+      {
+        "host": "www.clarity.ms",
+        "count": 1
+      },
+      {
+        "host": "scripts.clarity.ms",
+        "count": 1
+      },
+      {
+        "host": "www.etracker.de",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 0,
+    "triggers": [
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      }
+    ],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 0,
+      "thirdPartyEndpoints": 4,
+      "thirdPartyScriptHosts": 10,
+      "inlineDataBlobs": 0,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": false
+    }
+  },
+  "screenshot": "assets/screenshots/en-products-automated-trucks.png",
+  "renderedHtml": "pages/en-products-automated-trucks.html",
+  "slots": {
+    "index-headline": "Automated industrial trucks",
+    "lead-image": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Franz-Veit-GmbH/Franz_Veit-Automated_Trucks-L_MATIC-moving-4622_4105_B_13x18_16x9w1920.jpg",
+    "intro": "Automated industrial trucks are the future of efficient material flow. They take over tiring transport tasks from employees, increase the handling volume, and reduce the error and accident rates in the warehouse.",
+    "card-grid": [
+      {
+        "title": "C-MATIC – automated mobile platform"
+      },
+      {
+        "title": "C-MATIC HP – autonomous mobile robot (AMR)"
+      },
+      {
+        "title": "L-MATIC core – compact pallet stacker"
+      },
+      {
+        "title": "L-MATIC – Pallet Stacker"
+      },
+      {
+        "title": "L-MATIC HD k – pallet stacker"
+      },
+      {
+        "title": "L-MATIC AC – Counterbalanced Pallet Stacker"
+      },
+      {
+        "title": "L-MATIC AC k – counterbalanced pallet stacker"
+      },
+      {
+        "title": "P-MATIC – Tow Tractor"
+      },
+      {
+        "title": "R-MATIC – Reach truck"
+      },
+      {
+        "title": "R-MATIC k – Reach truck"
+      },
+      {
+        "title": "K-MATIC – Very Narrow Aisle Truck (VNA)"
+      },
+      {
+        "title": "Customized automated industrial trucks: the I-MATIC line from Linde MH"
+      },
+      {
+        "title": "On-site rapid test"
+      },
+      {
+        "title": "Ready to use"
+      },
+      {
+        "title": "Gradual expansion"
+      },
+      {
+        "title": "Full Control"
+      },
+      {
+        "title": "Solutions for every level of automation"
+      },
+      {
+        "title": "Automation in practice"
+      },
+      {
+        "title": "Intralogistics and Automation"
+      },
+      {
+        "title": "Warehouse Automation"
+      },
+      {
+        "title": "Warehouse Management System (WMS)"
+      },
+      {
+        "title": "Material Flow Consulting"
+      }
+    ],
+    "filter-controls": false
+  }
+}

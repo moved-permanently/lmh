@@ -1,0 +1,687 @@
+{
+  "slug": "en-about-us-innovations-from-linde",
+  "type": "listing",
+  "renderBranch": "A'",
+  "template": "en-about-us-press",
+  "modules": [
+    "breadcrumb",
+    "hero",
+    "columns",
+    "teaser-carousel"
+  ],
+  "slotsFilled": [
+    "layout-passepartout",
+    "navigation-anchor-navigation-wrapper",
+    "layout-100--flex",
+    "layout-100-headline--fixed",
+    "layout-teasercarousel__wrapper",
+    "layout-teasercarousel__wrapper",
+    "layout-100-headline--fixed",
+    "layout-teasercarousel__wrapper",
+    "layout-100-headline--fixed",
+    "layout-teasercarousel__wrapper",
+    "layout-100-headline--fixed",
+    "layout-teasercarousel__wrapper",
+    "layout-100-headline--fixed",
+    "layout-teasercarousel__wrapper",
+    "layout-teasercarousel__wrapper",
+    "layout-teasercarousel__wrapper",
+    "layout-teasercarousel__wrapper"
+  ],
+  "canonShas": {
+    "header": null,
+    "footer": null,
+    "css": "2af9d5c8d203"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Technology &amp; Innovation",
+    "description": null,
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Technology &amp; Innovation",
+    "url": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/"
+  },
+  "migratedAt": "2026-10-07T00:15:11Z",
+  "designMdSha": "c34e48b1797a",
+  "designJsonSha": "c785ce242381",
+  "sourceCurrentSha": "382dc2113adb",
+  "sourceProposedSha": "9017b874b797",
+  "fidelityTier": "sibling",
+  "archetypeSource": "en-about-us-press",
+  "archetypeSha": "ca992e8a769c",
+  "variants": [
+    "text-band layout--red text-container-heading carousel-standalone"
+  ],
+  "gatesPassed": [
+    "variance-probe",
+    "content-count",
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "variance-probe": "sibling-variance.mjs 1440 over the 10 listing siblings vs archetype /en/About-us/Press/ (job rlist-variance, stardust/rollout/units/variance-listing.json): computed deltas only card/teaser rect width 280→384/592 (row family layout-33/50--fixed vs the archetype layout-25--fixed), teaser backgroundColor lightgrey→white (archetype cards sit on .layout--lightgrey) and 2–3 style clusters (teaser | teaser--card | teaser--icon-text) — all budgeted as declared variants of related-teasers/news-cards; Media filter rect 1154×141→1168×132 = no date control (content); every other line is presence/count (.header-intro/.filter-downloadarea absent, .header-image stage / .text-container band extra) = content-driven modules declared on the sidecar",
+    "content-count": "content-diff generic 1280, main #pjax-container (job rlist-cdiff2, stardust/.work/rollout/render-listing/cdiff-en-about-us-innovations-from-linde.log): 56 findings, 15 structural 🔴 = MISSING ICON U+F160 video play glyph on video teaser image links (logged deviation icon-dropped), 0 text/link/heading findings",
+    "content-fidelity": "verbatim from capture; deviations: 1 (icon-dropped, video play glyph ×15)"
+  },
+  "contentDeviations": [
+    {
+      "kind": "icon-dropped",
+      "source": "LindeGlobalIconFont play glyph U+F160 (20×36) on the 63 .image-wrapper--video teaser image links",
+      "target": "empty span.image-wrapper__media-icon in the migrated HTML at the same anchors",
+      "reason": "icon-font glyphs are block-rendered at delivery (archetype convention); content-diff rlist-cdiff2: 15 MISSING ICON, 0 text/link/heading findings"
+    }
+  ],
+  "assetsBundled": 1,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-guided-vehicle/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Autonomous-mobile-robots/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Software/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-Warehouse/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Warehouse-Management-System/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Consulting/Material-Flow-Consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/User-cases-intralogistics/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Consulting/Fleet-Optimization.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/Energy-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Light-and-warning-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Assistance-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Safety-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Students-Scholars/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Apprentice/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Professionals/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=new",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-guided-vehicle/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Autonomous-mobile-robots/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Software/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-Warehouse/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Warehouse-Management-System/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Consulting/Material-Flow-Consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/User-cases-intralogistics/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Consulting/Fleet-Optimization.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/Energy-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Light-and-warning-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Assistance-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Safety-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Students-Scholars/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Apprentice/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Professionals/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Search/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Dynamic-Mast-Control.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Dynamic-Mast-Control.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Dynamic-Mast-Control.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Reach-mast-R14-R25/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Reach-mast-R14-R25/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Reach-mast-R14-R25/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-VertiLight-and-Linde-LED-Stripes.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-VertiLight-and-Linde-LED-Stripes.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-VertiLight-and-Linde-LED-Stripes.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Active-Stability-Control.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Active-Stability-Control.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Active-Stability-Control.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Warehouse-Navigation.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Warehouse-Navigation.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Warehouse-Navigation.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Steer-Control/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Steer-Control/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Steer-Control/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Multifunction-lever/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Multifunction-lever/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Multifunction-lever/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "connect-charger/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "connect-charger/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "connect-charger/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-VertiLight-and-Linde-LED-Stripes.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-VertiLight-and-Linde-LED-Stripes.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-VertiLight-and-Linde-LED-Stripes.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-BlueSpot.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-BlueSpot.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-BlueSpot.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "TruckSpot.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "TruckSpot.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "TruckSpot.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Safety-Guard.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Safety-Guard.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Safety-Guard.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Door-Control/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Door-Control/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Door-Control/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Pedestrian-Warning-Band/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Pedestrian-Warning-Band/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Pedestrian-Warning-Band/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Safety-Pilot.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Safety-Pilot.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Safety-Pilot.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Reverse-Assist-Camera/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Reverse-Assist-Camera/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Reverse-Assist-Camera/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Reverse-Assist-Radar/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Reverse-Assist-Radar/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Reverse-Assist-Radar/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Rack-Protection-Sensor/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Rack-Protection-Sensor/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Rack-Protection-Sensor/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Dynamic-Mast-Control.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Dynamic-Mast-Control.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Dynamic-Mast-Control.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Reach-mast-R14-R25/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Reach-mast-R14-R25/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Reach-mast-R14-R25/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Active-Stability-Control.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Active-Stability-Control.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Active-Stability-Control.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Load-Management.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Load-Management.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Load-Management.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Aisle-Safety-Assistant.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Aisle-Safety-Assistant.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Aisle-Safety-Assistant.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Personal-Protection-System/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Personal-Protection-System/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Personal-Protection-System/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Object-Warning-System/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Object-Warning-System/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Object-Warning-System/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/index.html",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "en/About-us/Innovations-from-Linde/index.html",
+  "outputPathDefault": null,
+  "sidecar": "en/About-us/Innovations-from-Linde/_meta.json",
+  "driverVersion": "1"
+}

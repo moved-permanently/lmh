@@ -1,0 +1,52 @@
+{
+ "source": "http://localhost:8801/stardust/migrated/en/Landingpage/Semi-automated-order-pickers/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This truck is no longer available."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Have a look at our latest product portfolio in our Product Finder.",
+     "href": "../../../en/Landingpage/Productfinder/index.html?offerType=new"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

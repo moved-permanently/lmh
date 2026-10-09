@@ -1,0 +1,112 @@
+{
+ "source": "http://localhost:8803/stardust/migrated/en/technical/News-Detail_116352.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "For the ninth time in succession"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "8 Feb 2019"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Linde Material Handling wins VerkehrsRundschau Image Award"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Linde Material Handling remains the most popular intralogistics brand for customers from Germany’s transport and logistics sector. For the ninth time in a row, the goods handling specialist has won the coveted “Image Award”. This prize is based on a survey among fleet managers carried out on behalf of the VerkehrsRundschau trade magazine."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "There has never been another winner: Since 2002, when the Image Award was first announced in the “Forklift Trucks, Transloading and Warehouse Handling Equipment” category by Springer Fachmedien München GmbH with publishing house Heinrich Vogel, the Linde Material Handling brand has won the top slot every time. Nothing changed in 2019 either – Linde Material Handling once again emerged victorious."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "For the ninth time in a row, the goods handling specialist has won the coveted “Image Award” by Springer Fachmedien München GmbH with publishing house Heinrich Vogel. This prize is based on a survey among fleet managers carried out on behalf of the German VerkehrsRundschau trade magazine."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "As usual, the outcome was based on a survey among purchasing decision-makers in the transport and logistics industry, conducted on behalf of VerkehrsRundschau by the independent market research institute Kleffmann Group."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "In order to obtain the current ranking, a total of 663 individual interviews with fleet managers were conducted to establish opinions on the image of the most important providers of commercial vehicles, products and services. 110 brands or companies in twelve categories were in contention during the survey which ran from the end of September to November 2018."
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Dr. Monika Laurent-Junge, Senior Director Marketing & Communications at Linde Material Handling accepted the prize on 7 February 2019 at the VerkehrsRundschau gala event in Munich, Germany."
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Accepting the award at the VerkehrsRundschau gala event at Bayerischer Hof hotel in Munich, Dr. Monika Laurent-Junge, Senior Director Marketing & Communications at Linde Material Handling, said, “We are delighted with the enduring trust our customers have in the Linde Material Handling brand. This is both incentive and motivation for us to continue offering high-performance, reliable solutions and services for in-house goods handling.”"
+    },
+    {
+     "role": "heading",
+     "order": 10,
+     "text": "Trade Press"
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "Heike Oder"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "+49 6021 991277",
+     "href": "tel:+49 6021 991277"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Send email",
+     "href": "mailto:heike....oder@@@@linde-mh....de"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.infobox-media",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

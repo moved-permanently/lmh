@@ -1,0 +1,1007 @@
+{
+ "source": "http://localhost:8806/stardust/migrated/en/Products/Gas-forklifts/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Gas Forklifts"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Quiet Yet Powerful"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "View all our gas forklifts here",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=new&sorting%5bfield%5d=productType&sorting%5bdirection%5d=ASC&driveTypes%5b%5d=3343&driveTypes%5b%5d=40448"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "All Trucks",
+     "href": "#781373"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Features",
+     "href": "#781377"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Advantages",
+     "href": "#781379"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "FAQ",
+     "href": "#781365"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Get a Quote",
+     "href": "#781363"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Success Stories",
+     "href": "#781369"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 6,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Gas is a tried and tested fuel in industry. The gas forklifts from Linde Material Handling are reliable partners for your demanding goods and product transportation tasks, both indoors and outdoors. They offer the performance and permanent availability of a combustion engine, whilst also working exceptionally quietly and with as few emissions as possible. Even in continuous operation, they emit an absolute minimum of noise and exhaust fumes. This means that, unlike diesel forklift trucks with a comparable performance profile, they can also be used in indoor spaces such as warehouses and production halls, subject to compliance with the relevant limits."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "With their robust construction and powerful drive, gas forklifts from Linde are perfectly suited to outdoor tasks. They will keep doing the job even when faced with extreme conditions such as wind or bad weather, dust, dirt, or difficult and uneven terrain."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "The tried-and-tested operating concept, comprising dual pedal control and Linde Load Control, ensures that the gas forklifts from Linde are intuitive and responsive to handle. The dual pedal control works by using a hydrostatic drive, which transmits power directly from the truck’s engine to its drive wheels and lifting hydraulic system. This facilitates smooth start-up, swift changes of direction, and precise load handling. At the same time, Linde Load Control allows the driver to operate all the relevant mast functions with ease, via two joysticks integrated in the armrests. The operating elements have been positioned to minimize arm movements and prevent fatigue."
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Depending on the model, the gas forklifts may be operated using either propellant gas (LPG) or natural gas (CNG). In the case of gas forklifts with propellant gas, customers can choose to use either standard commercially available gas cylinders, which can be connected to the truck, or a built-in tank, which can be filled from a pump. If a truck is only to be used sporadically, then the variant with gas cylinder is the optimum solution. If the company owns a sizable gas forklift fleet and has its own fueling infrastructure on site, then the trucks with built-in tanks are usually the most economical option. The fuel gage, which works using ultrasound, enables drivers of either variant to see exactly when they need to change the cylinder or visit the pump."
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Read more",
+     "href": "#read_more"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Gas-Powered High Performers for Indoor and Outdoor Tasks"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "H16 – H20",
+     "href": "../../../en/Products/IC-Trucks/H16-H20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Constructed for excellent handling performance in tight spaces: the H16 – H20 IC trucks are suitable for a wide variety of uses."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Products/IC-Trucks/H16-H20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "H20 – H35",
+     "href": "../../../en/Products/IC-Trucks/H20-H35/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Versatile all-rounders: The H20 – H35 IC trucks are easy to integrate into company software systems – and easy to use in many areas."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/Products/IC-Trucks/H20-H35/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "H35 – H50",
+     "href": "../../../en/Products/IC-Trucks/H35-H50/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Robust and powerful: The H35 – H50 IC trucks are built for demanding continuous operation purposes in the medium payload range."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../../en/Products/IC-Trucks/H35-H50/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "H50 – H80",
+     "href": "../../../en/Products/IC-Trucks/H50-H80/index.html"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Whether in the metals industry, construction materials trade, drinks sector, or paper production: The H50 – H80 IC trucks can transport even heavy loads swiftly and precisely."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Find out more",
+     "href": "../../../en/Products/IC-Trucks/H50-H80/index.html"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Interested in acquiring a Linde gas forklift? If so, please get in touch!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Linde Gas Forklifts: High Performers, Inside and Out"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde has been setting standards for the performance and efficiency of gas-driven forklifts for many years now. With a lifting capacity of 1.4 to 8 tonnes, these high performers are at home wherever performance and versatility are required: in the logistics center for goods dispatch, in a construction company warehouse, or in wholesale goods handling. Gas forklifts combine environmentally friendly, soot-free, and low-noise transportation with extreme resilience. Thanks to their powerful drives, they even continue to deliver peak performance when moving heavy loads over long distances."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Features"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Safety",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Ergonomics",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Handling",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Service",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Connectivity",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "Safety"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Numerous ensure that your drivers and your loads are protected. These features include the optimum visibility in the driver’s cab, and a range of standard and optional assistance systems. Extra safety is ensured by a variety of design elements, such as the low center of gravity and the Linde Protector Frame, in which the overhead safety guard and the frame form a completely closed, solid protection zone. This is how Linde gas forklifts ensure the greatest possible safety in any type of workplace – for both the driver and their environment."
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Safety features",
+     "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/"
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "Ergonomics"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Linde forklifts stand for driver comfort and ergonomics. The armrests and seat are designed for optimum adaptability to the physical needs of the individual driver. The driver is thereby freed from distractions to work with concentration, even for longer periods. The rubber bearings on the axles, mast, and tilt cylinders work in harmony with the comfortable seats, designed to be easy on the back, to protect the operator from all types of vibrations. This means that drivers can even complete tasks on uneven terrain with ease."
+    },
+    {
+     "role": "heading",
+     "order": 10,
+     "text": "Handling"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "The Linde Hydrostatic System facilitates precise and sensitive control of drive performance. The maintenance-free hydraulic system allows the power of the engine to be transferred to the drive wheels and lifting hydraulic system without losses. The result is that the drivers can start up smoothly, change direction rapidly, and maneuver in tight spaces with precision. This guarantees maximum handling performance at the same time as low fuel consumption."
+    },
+    {
+     "role": "heading",
+     "order": 12,
+     "text": "Service"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "The tough construction and easy-to-service design of Linde gas forklifts result in long maintenance intervals. The combination of an extremely reliable truck and efficient ensures that downtimes in your working day are reduced to a minimum. The trucks have been designed to provide easy access to key components for quick and straightforward maintenance tasks."
+    },
+    {
+     "role": "cta",
+     "order": 14,
+     "text": "Linde Servicing",
+     "href": "https://www.linde-mh.com/en/Service/"
+    },
+    {
+     "role": "heading",
+     "order": 15,
+     "text": "Connectivity"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "With a data transmission unit fitted as standard, all Linde gas forklifts may be easily integrated into the . The digital networking and the processing and analysis of data from the trucks make them more efficient and safer. These features also serve to optimize maintenance planning, which improves availability and enhances productivity in turn. Linde gas forklifts are also equipped with the Linde Engine Protection System (LEPS) as standard. This monitors key engine parameters such as oil pressure, coolant level, and temperature. The LEPS warns the driver of any risk of damage to the engine, and indicates when maintenance work is due. In addition to the LEPS, numerous other features help to prevent downtime and associated unnecessary costs."
+    },
+    {
+     "role": "cta",
+     "order": 17,
+     "text": "Linde fleet management system",
+     "href": "https://www.linde-mh.com/en/Solutions/Fleet-Management/"
+    }
+   ],
+   "imgCount": 5,
+   "editableTexts": 11,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Overview of the Advantages of a Gas Forklift"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Effective"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The driver can perform all driving and mast functions quickly and precisely in any situation thanks to the hydrostatic drive and Linde Load Control."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Safe"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Outstanding all-round visibility and a range of assistance systems ensure greater safety in the workplace."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Comfortable"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The large cabins with their high-quality equipment resemble modern automobile interiors. This helps the driver to work quickly and comfortably."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Cost-Effective"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The Linde hydrostatic drive operates without a transmission, clutch, differential, or brakes, This keeps consumption and service costs low."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Robust"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "The combination of the hydrostatic drive and robust engine really comes to the fore in challenging continuous operation with extensive operating hours. Many components are almost or completely maintenance-free."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "View all the gas forklifts from Linde here",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=new&sorting%5bfield%5d=productType&sorting%5bdirection%5d=ASC&driveTypes%5b%5d=3343&driveTypes%5b%5d=40448"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Always the Perfect Fit"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde offers a special service for customers: Every job is different, and that’s why different design variants, add-ons, and even tailored solutions are available for each gas forklift series. This means that each and every Linde customer can exploit the full performance potential of their truck, equipped to meet their own individual requirements. Linde is also developing needs-based solutions to take into account customer requirements that extend beyond the series options. Linde can even retrofit gas forklifts that are already in service with a range of extras, from heating and AC to integrated side shifters or LED work headlamps. In this way, even existing trucks can be equipped for changes in their usage conditions."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "FAQ – Frequently Asked Questions about Gas Forklifts"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "What Is a Gas Forklift?"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "A powered by its own gas drive is termed a gas forklift. They have a human operator, and are used to transport general cargo."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "industrial truck",
+     "href": "https://www.linde-mh.com/en/Products/"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "Who is Allowed to Drive a Gas Forklift?"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "A forklift license is required to drive a gas forklift. A normal driving license is not required. Under 18s may only operate forklifts under certain conditions and under supervision."
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "How Much Does a Gas Forklift Cost?"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "The price of a gas forklift varies from model to model. The total price depends on factors such as the load capacity and equipment supplied on the truck."
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "What Equipment Options Are Available for Linde Gas Forklifts?"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Each series features a range of model variants and numerous equipment options. Linde manufactures these in series production."
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "What Are the Operating Costs Associated with a Linde Gas Forklift?"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "The model selected and its intended usage largely determine the inspection and maintenance costs to be expected. Linde gas forklifts essentially consume very little fuel, and are very inexpensive to service and maintain. Linde gas forklifts do not require a maintenance-intensive braking system, since the closed oil circuit of the low-wear hydrostatic system automatically slows the truck down when the operator releases the pedals. It is only necessary to change the hydraulic oil after 6000 operating hours. The evaporator for the propellant gas engine only has to be serviced after 3,000 operating hours."
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "How Much Fuel Does a Linde Gas Forklift Consume?"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "The fuel consumption of Linde gas forklifts depends on the model and the nature of the usage. With a consumption of between 1.9 and 6.2 kg/h, Linde trucks use the least gas in the sector."
+    },
+    {
+     "role": "heading",
+     "order": 13,
+     "text": "Which Exhaust Emissions Regulations Do Linde Gas Forklifts Satisfy?"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Exhaust emissions from gas forklifts fall under the German Ordinance on Hazardous Substances. Workplace exposure limits (WEL) are listed in the TRGS 900 (German Technical Rules for Hazardous Substances). The relevant specifications for forklift operation are the WEL for CO of 35 mg/m3, the WEL for propane of 1800 mg/m3, and the WEL for CO2 of 9100 mg/m3. Linde gas forklifts comply with the strict requirements for exhaust emissions for mobile machinery set out in EU Regulation 2016/1628/EU. What does it mean? If warehouse operators ensure compliance with TRGS 900, through the implementation of correct conditions of usage (corresponding ventilation, appropriate number of trucks, suitable intensity of operation, etc.), then Linde gas forklifts may also be used in indoor spaces."
+    },
+    {
+     "role": "heading",
+     "order": 15,
+     "text": "What Assistance Systems Does Linde Offer for Gas Forklifts?"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "A variety of assistance systems are available for Linde gas forklifts, either as standard or optional equipment. Linde Curve Assist ensures maximum protection against tipping by adjusting the driving speed in proportion to the steering angle. Linde Load Assist reduces forward tilt and lifting speed according to the lifting height. displays load center, current load weight, maximum permitted lifting height, and other important parameters, and intervenes preventively in critical situations. senses movements behind the forklift and prevents it from reversing. The system thereby protects any people moving in this space. Pedestrians are also protected by – an assistance system which locates trucks to the centimeter, sounds warning signals, and automatically reduces the forklift’s speed."
+    },
+    {
+     "role": "cta",
+     "order": 17,
+     "text": "Linde Safety Pilot",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Pilot.html"
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Reverse Assist Radar",
+     "href": "../../../en/About-us/Innovations-from-Linde/Reverse-Assist-Radar/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "Linde Safety Guard",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Guard.html"
+    },
+    {
+     "role": "heading",
+     "order": 20,
+     "text": "What Are the Advantages of the Hydrostatic Drive?"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "The hydrostatic drive is the basis of the precise, responsive power delivery of Linde gas forklifts, which is far superior to that of competitors. It ensures the supply of exactly the right amount of power required for any task, since the closed, maintenance-free hydraulic system transfers power from the engine to the drive wheels and lifting hydraulic system without losses. The axial piston variable displacement pump drives one axial piston motor per drive wheel via an oil flow. This converts the oil flow directly into a rotary motion. Two separate pedals control the direction and flow rate of the oil flow: The right pedal moves the truck forward and the left moves it backward. As a result, the forklift’s speed can be adjusted smoothly, and its direction rapidly changed, without the driver having to move their feet. This facilitates precise maneuvering in the tightest of spaces, smooth start-up, and pinpoint accuracy when loading and unloading racks."
+    },
+    {
+     "role": "heading",
+     "order": 22,
+     "text": "What Options Does Linde Offer for Digitally Networking Its Gas Forklifts?"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "Linde forklifts are fitted with a data transmission unit as standard. Depending on requirements, key truck data may be transmitted either via the mobile network or via WiFi to a company’s own server, or to Linde Material Handling’s central cloud server. Linde also offers a Truck Health Management system that reports on truck wear and any potentially developing damage. This reduces the risk of more serious consequences, and ensures consistently high truck availability. Linde gas forklifts can also be integrated into any . This allows users to optimize the utilization of their trucks, to plan servicing intervals more precisely, and to manage usage and other processes relating to drivers and forklift trucks. Linde guarantees compliance with the highest standards of data security thanks to multiple encryption in the collection, transmission, processing, and storage of information."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "fleet management system",
+     "href": "https://www.linde-mh.com/en/Solutions/Fleet-Management/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 20,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 10,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Lease, Purchase, or Rent?"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "If you have found your perfect forklift, get in touch! We will be delighted to advise you about financing your gas forklift – whether you need a high-season helper or a permanent partner: Linde has the right rental, leasing, or purchase solution for every requirement. An overview of all the options is available from the Linde consulting service."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "What can we do for you? Please feel free to get in touch!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Success Stories – Gas Forklifts in Use"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Linde Rental Solutions at Agua Mineral San Benedetto",
+     "href": "../../../en/About-us/Magazine/Agua-Mineral.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Every year at Agua Mineral San Benedetto in Valencia, 600,000 pallets are loaded onto trucks using Linde forklifts and delivered to customers. The beverage business is booming in summer. Agua Mineral then uses the flexible and reliable Linde rental service."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/Agua-Mineral.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "21",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "You can find more information about our counterbalanced forklift trucks in our brochure.",
+     "href": "../../../media/Global-Content/08_Downloads/Counterbalance-forklift-trucks-H20-H35-Broschure-EN-1910.pdf"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "22",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Diesel Forklifts",
+     "href": "https://www.linde-mh.com/en/Products/Diesel-Forklifts/"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "When it comes to diesel forklifts, Linde sets the benchmarks for productivity and efficiency. Load capacity from 1.4 to 8 tonnes: There is a Linde diesel forklift for every scenario."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/Products/Diesel-Forklifts/"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Solutions for the automotive industry",
+     "href": "../../../en/Solutions/Industries/Automotive-Industry/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Linde Material Handling supports the automotive industry in the key challenges of intralogistics: ensuring production flow, saving costs, using automation, protecting the environment."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Industries/Automotive-Industry/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "H16 – H20",
+     "href": "../../../en/Products/IC-Trucks/H16-H20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Constructed for excellent handling performance in tight spaces: the H16 – H20 IC trucks are suitable for a wide variety of uses."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/Products/IC-Trucks/H16-H20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "H50 – H80",
+     "href": "../../../en/Products/IC-Trucks/H50-H80-EVO/index.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "High handling performance, reduced service costs, and safe handling processes: all guaranteed by the Linde Material Handling H50 – H80 IC trucks."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/Products/IC-Trucks/H50-H80-EVO/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Safety First",
+     "href": "../../../en/About-us/Magazine/Safety-first.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "The numbers are impressive: Over a surface area of 126 football fields in Wismar, Egger processes in the region of million cubic meters of wood each year for HDF, MDF and OSB boards as well as laminate flooring. Since February, the wood-based materials specialist has relied on forklift trucks with Linde Safety Pilot for its logistics needs."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Safety-first.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "Automotive supplier SMP controls its vehicle fleet with Linde connect",
+     "href": "../../../en/About-us/Magazine/smp-fleetmanagement.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "The Linde connect fleet management system makes a decisive contribution to order and safety in the warehouse. Linde Material Handling has equipped the entire SMP fleet with this intelligent solution."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/smp-fleetmanagement.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "In use on the race track",
+     "href": "../../../en/About-us/Magazine/Linde-Rental-Service-for-Formula-Student-Germany.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "The Linde Rental Solutions has been ensuring fast and professional setup and dismantling as well as performing other logistics tasks at the Formula Student Germany for many years. This requires a number of challenges to be overcome."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Linde-Rental-Service-for-Formula-Student-Germany.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Powerful forklifts for tough applications",
+     "href": "../../../en/About-us/Magazine/Powerful-vehicles-for-high-performance-applications.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "For many years now, Novelis employees have been supported by various Linde vehicles - 24/7, 365 days a year, from E20 to HT160Ds."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Powerful-vehicles-for-high-performance-applications.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "A real piece of gold amongst the trash",
+     "href": "../../../en/About-us/Magazine/Willimantic-Magazine.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Paper, cardboard, mattresses, bags, plastics, cans and much more. Once used and thrown away, they all end up in a mountain of rubbish on the premises of a recycling company - a company like Willimantic Waste Paper. Here, loose waste, recyclables and bales are moved around the entire site by forklift trucks."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Willimantic-Magazine.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "IC-Trucks",
+     "href": "https://www.linde-mh.com/en/Products/IC-Trucks/"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "The hydrostatic drives of Linde Material Handling's IC trucks deliver exceptionally precise, efficient handling performance."
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/Products/IC-Trucks/"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "High-precision machine at Norrlands trä",
+     "href": "../../../en/About-us/Magazine/Norrlands-trae.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "For the past five years, a Linde H120 D has been hard at work at Norrlands trä in Älandsbro, about 400 kilometers north of Stockholm. The fleet has recently been expanded by the addition of another similar workhorse, which despite its size and weight, performs at a high level of precision."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Norrlands-trae.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "Signature Move(s)",
+     "href": "../../../en/About-us/Magazine/Porsche-Engineering/index.html"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "For decades now, Linde forklift trucks have been distinguished by their design, for which the honor goes to none other than Porsche Engineering. The most recent achievement of this progressive partnership: the new generation of Linde Counterbalanced Forklift Trucks X20 – X35 and H20 – H35."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Porsche-Engineering/index.html"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

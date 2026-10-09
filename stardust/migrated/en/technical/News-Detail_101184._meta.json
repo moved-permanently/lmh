@@ -1,0 +1,778 @@
+{
+  "slug": "en-technical-news-detail-101184-html",
+  "type": "article",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "breadcrumb",
+    "share-bar",
+    "media-carousel",
+    "press-contact"
+  ],
+  "slotsFilled": [
+    "layout-passepartout",
+    "layout-article--centered"
+  ],
+  "canonShas": {
+    "header": null,
+    "footer": null,
+    "css": "2af9d5c8d203"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Linde Roadster wins German Design Award 2019",
+    "description": null,
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Linde Roadster wins German Design Award 2019",
+    "mainEntityOfPage": "https://www.linde-mh.com/en/technical/News-Detail_101184.html"
+  },
+  "migratedAt": "2026-10-06T16:00:32Z",
+  "designMdSha": "c34e48b1797a",
+  "designJsonSha": "c785ce242381",
+  "sourceCurrentSha": "377b37bb2369",
+  "sourceProposedSha": "89ebb5961961",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [],
+  "gateEvidence": {},
+  "contentDeviations": [
+    {
+      "kind": "href-deobfuscated",
+      "source": "mailto:heike....oder@@@@linde-mh....de",
+      "target": "mailto:heike.oder@linde-mh.de",
+      "reason": "source ships the press-contact e-mail obfuscated for a client-side rewrite (.... -> . and @@@@ -> @) that does not run on EDS; the resolved address is authored"
+    }
+  ],
+  "assetsBundled": 3,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://www.linde-mh.com/en/Products/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Forklift-Truck/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Diesel-Forklifts/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Gas-forklifts/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Heavy-Duty-Forklifts/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Pallet-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Hand-Pallet-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Pallet-Stackers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Very-Narrow-Aisle-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Order-Pickers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Reach-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Tow-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Tugger-Trains/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Explosion-Proof-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Automated-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Forklift-Hire/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Approved-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Automated-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Automated-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-guided-vehicle/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Autonomous-mobile-robots/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Fleet-Management/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Fleet-Management/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Software/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Service/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Service/Maintenance-Repair/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Service/Maintenance-Repair/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Service/Genuine-Spare-Parts/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Service/Technical-Safety-Services/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Service/Training/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Financing/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Overview.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-Warehouse/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Warehouse-Management-System/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Consulting/Material-Flow-Consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/User-cases-intralogistics/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Fleet-Management/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Fleet-Management/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Consulting/Fleet-Optimization.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/Energy-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Light-and-warning-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Assistance-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Safety-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Company/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Company/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Sustainability/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Awards/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Certificates/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Students-Scholars/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Apprentice/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Professionals/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Magazine/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Media/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Forklift-Hire/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Approved-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Service/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Service/Technical-Safety-Services/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Service/Training/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Financing/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Overview.html",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Magazine/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Events/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Media/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Landingpage/Platform-Counterbalanced-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=new",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Landingpage/Platform-Counterbalanced-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Forklift-Truck/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Diesel-Forklifts/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Gas-forklifts/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Heavy-Duty-Forklifts/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Pallet-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Hand-Pallet-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Pallet-Stackers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Very-Narrow-Aisle-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Order-Pickers/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Reach-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Tow-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Tugger-Trains/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Explosion-Proof-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Automated-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Landingpage/Platform-Counterbalanced-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Automated-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Automated-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-guided-vehicle/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Autonomous-mobile-robots/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Landingpage/Platform-Counterbalanced-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Fleet-Management/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Software/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Landingpage/Platform-Counterbalanced-Trucks/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Service/Maintenance-Repair/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Service/Genuine-Spare-Parts/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-Warehouse/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Warehouse-Management-System/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Consulting/Material-Flow-Consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/User-cases-intralogistics/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Fleet-Management/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Fleet-Management/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Consulting/Fleet-Optimization.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/Energy-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Light-and-warning-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Assistance-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Safety-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Company/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Company/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Sustainability/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Awards/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Certificates/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Students-Scholars/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Apprentice/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Professionals/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Search/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Legal-Notes/Legal/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Legal-Notes/Terms-of-use/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/EDI/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/index.html",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "en/technical/News-Detail_101184.html",
+  "outputPathDefault": null,
+  "sidecar": "en/technical/News-Detail_101184._meta.json",
+  "driverVersion": "1"
+}

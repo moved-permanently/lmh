@@ -1,0 +1,65 @@
+{
+  "/en/landingpage/agility-on-point": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T04:35:39.686Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/gse-expo": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T04:35:39.686Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/in-sync": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T04:35:46.371Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/next-champ": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T04:35:46.431Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/forklift-hire": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T04:35:52.033Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/footer": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T04:35:52.772Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/nav": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T04:35:57.946Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

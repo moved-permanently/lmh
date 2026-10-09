@@ -1,0 +1,798 @@
+{
+ "source": "http://localhost:8806/stardust/migrated/en/Solutions/Warehouse-Safety/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Warehouse Safety"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Safety First"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Contact our safety experts",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Safety Consulting",
+     "href": "#2199635"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Safety Solutions for Fleets",
+     "href": "#2199640"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Light and Warning Systems",
+     "href": "#2199644"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Assistance systems",
+     "href": "#2199646"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Benefits at a Glance",
+     "href": "#2199649"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Case Studies",
+     "href": "#2199653"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 6,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "It’s impossible to overstate the importance of safety in intralogistics. In addition to substantial costs, accidents and damage can have other serious consequences. Accidents involving people in particular often lead to personal harm and lengthy recovery processes. This can also impact productivity and the smooth running of operations, which can have extremely negative knock-on effects for the company’s competitiveness."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "This is where Linde Material Handling comes in. With our wide range of innovative safety solutions, we offer the ideal technology for any application, providing optimal protection for your drivers and employees as well as the transported goods, racking, and other machinery. From the initial safety analysis to sophisticated light solutions and intelligent assistance systems through to fleet management, we provide you with comprehensive support to help you implement safe and efficient intralogistics processes."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Safety Consulting"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The Goal: Accident-free Intralogistics"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "With our “Vision Zero” initiative, we at Linde Material Handling have set ourselves the ambitious goal of reducing the number of accidents at our customers’ premises to zero. This is based on our holistic approach to safety, which aims to maximize operational safety in intralogistics and eliminate accidents altogether. To help make this vision a reality, we are developing innovative safety features for Linde trucks as well as offering comprehensive ."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "safety consulting services",
+     "href": "../../../en/Solutions/Warehouse-Safety/Safety-consulting/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Safety Solutions Tailored to Your Warehouse"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The first step towards improved safety is often a professional analysis of the current situation. Our safety experts will systematically identify hazard points in your warehouse environment and develop a customized safety concept for you, including specific recommended actions for your company. Benefit from our decades of experience!"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Click here to find out more about our safety consulting service.",
+     "href": "../../../en/Solutions/Warehouse-Safety/Safety-consulting/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Do you need a safety analysis? Contact us!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Ensuring Safety in Intralogistics"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "It’s becoming increasingly challenging to keep warehouses safe. Each year, thousands of accidents involving industrial trucks are reported, many of which occur when trucks are reversing. In this episode of the Logistics Business Conversations podcast, experts Elke Karnarski and Fabian Zimmermann from Linde Material Handling discuss the biggest safety risks in warehouses and intralogistics and what can be done to avoid them."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Safety Solutions for Fleets"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Our intelligent safety technologies and networked systems ensure optimal protection for people and machines during operation. From collision avoidance and fleet management through to automated processes, we offer sophisticated solutions to increase safety and efficiency."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Linde Safety Guard",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Digital Fleet Management",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Automation",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "Linde Safety Guard"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "In modern intralogistics systems people and industrial trucks often work side by side, in some cases under enormous time pressure. The risk of accidents is particularly high in areas where pedestrians and trucks frequently come into contact. Blind spots, areas with poor visibility, and high noise levels further increase the risk of accidents. Our Linde Safety Guard assistance system is a reliable solution to help increase the safety of drivers and pedestrians in the immediate vicinity of the truck. Warning zones are created around people, trucks, and infrastructure elements. In the event of danger, visual and acoustic warnings are emitted to warn those nearby. The warning zones can be individually adjusted."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "More about Linde Safety Guard",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Guard.html"
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Digital Fleet Management"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Our myLinde fleet management solution is packed with features that have been specially developed for safety in day-to-day warehouse operations. It can be used to set a speed limit for trucks, for example. myLinde also offers functions such as monitored access control, automatic transmission of error codes, and analysis of usage data."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "More about myLinde",
+     "href": "../../../en/Solutions/Fleet-Management/index.html"
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Automation"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Transport processes using automated guided vehicles (AGVs) can be another building block to help improve safety in internal material flows. Modern sensors for environment sensing, innovative navigation technologies, and integrated safety functions help to significantly reduce the risk of accidents. A high degree of process reliability is also ensured thanks to standardized processes."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "More about automation",
+     "href": "../../../en/Solutions/Intralogistics-Automation/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 7,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "We will be happy to advise you on the ideal safety solution for your fleet.",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Light and Warning Systems"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Good visibility for the driver and other people nearby are essential requirements for a safe warehouse. That’s why we fit our industrial trucks with state-of-the-art lighting and warning lights that are visible from distance."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Find out more",
+     "href": "../../../en/Solutions/Warehouse-Safety/Light-and-warning-systems/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Assistance systems"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Our intelligent driver assistance systems actively help the driver to avoid accidents and maneuver safely. Whether counterbalanced forklift trucks, warehouse trucks, reach trucks, or very narrow aisle trucks, Linde Material Handling offers a wide range of solutions that make drivers’ day-to-day work easier and increase safety in the warehouse."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Find out more",
+     "href": "../../../en/Solutions/Warehouse-Safety/Assistance-systems/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Eliminating the Risk of Explosions"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Explosive environments are a common occurrence in many industries, such as chemicals, pharmaceuticals, food, logistics, and recycling. In environments like this, gases, vapors, and dust can combine to create hazardous conditions. With this in mind, it is essential that industrial trucks used in these areas have the highest possible explosion protection."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Linde Material Handling GmbH provides that guarantee an adequate level of safety without compromising on efficiency and ergonomics. The portfolio includes explosion-proof versions of various counterbalanced forklift trucks, reach trucks, pallet stackers, and pallet trucks, as well as a range of safety systems with an explosion-proof design that comply with EU standard EN 1755 and the ATEX Directive 2014/34/EU. This enables Linde to ensure safe and efficient material flows, even under challenging, explosion-proof conditions."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "tailored explosion protection solutions",
+     "href": "https://www.linde-mh.com/en/Products/Explosion-Proof-Trucks/"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Safety In the Warehouse with Linde Material Handling—All the Benefits at a Glance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Significant reduction in accidents and property damage during operation"
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "Reduction in downtimes and repair costs for the fleet"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Optimization of operating processes and increased productivity"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "Compliance with legal regulations and fulfillment of duty of care"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Increased employer attractiveness thanks to safe working environment"
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "Comprehensive advice, planning, and implementation from a single source"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "High-quality and reliable safety components"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "Retrofit solution for uniform safety across the entire fleet"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "21",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Any questions? We can provide you with comprehensive advice on warehouse safety.",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "22",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Our Safety Solutions In Practice"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "23",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Heineken Switzerland AG",
+     "href": "../../../en/About-us/Magazine/Heineken/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Heineken Switzerland has a challenging working environment that includes heavy forklifts, tight turnarounds, large handling volumes, and jobs where people and machines are constantly working side by side. To make sure it has everything covered in terms of safety, the company has invested continuously in safety innovations right from the start. The brewery was one of the first companies to introduce the Linde Safety Guard back in 2017—and has adapted the modular solution to meet its specific needs several times since."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Heineken/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Thinking Ahead while Reversing",
+     "href": "../../../en/About-us/Magazine/CEMEX-Admixtures/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "It’s what you add that makes the difference— and for industry specialist CEMEX Admixtures that applies to their intralogistics as well as their construction admixtures. The fleet of forklifts at the company’s site in Salzkotten, Germany has a new addition—the AI-based Linde System Reverse Assist Camera, which has significantly improved safety levels in reversing maneuvers."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/CEMEX-Admixtures/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Perfect warning",
+     "href": "../../../en/About-us/Magazine/Coca-Cola/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "At its French plant in Les Pennes-Mirabeau, Coca-Cola European Partners France has raised its existing safety standards to a whole new level with the Linde Safety Guard assistance system by Linde Material Handling."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/Coca-Cola/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Higher is Faster Here",
+     "href": "../../../en/About-us/Magazine/Seifert-Logistics/index.html"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "The products of a well-known gardening tool manufacturer are stored up to 13 meters high at the Seifert Logistics Group in the north of Ulm, Germany. Yet despite this considerable height, the reach trucks not only load and unload the shelves extremely quickly, but also extremely safely. This is mainly thanks to Linde’s Dynamic Mast Control (DMC) assistance system."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Seifert-Logistics/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Safety Scrutinized from an Objective Perspective",
+     "href": "../../../en/About-us/Magazine/CTL/index.html"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "When it comes to potential risks in intralogistic processes, an external perspective can be worth its weight in gold, and this proved to be the case at CTL Celltechnik Lodenau in the German region of Saxony. With the help of the Linde Safety Scan, CTL was able to significantly reduce the risk of accidents in its internal goods handling."
+    },
+    {
+     "role": "cta",
+     "order": 14,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/CTL/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Safety First",
+     "href": "../../../en/About-us/Magazine/Safety-first.html"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "The numbers are impressive: Over a surface area of 126 football fields in Wismar, Egger processes in the region of million cubic meters of wood each year for HDF, MDF and OSB boards as well as laminate flooring. Since February, the wood-based materials specialist has relied on forklift trucks with Linde Safety Pilot for its logistics needs."
+    },
+    {
+     "role": "cta",
+     "order": 17,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/Safety-first.html"
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "In Action to Improve Safety",
+     "href": "../../../en/About-us/Magazine/Smurfit-Kappa-LithoPac/index.html"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Safety is of the utmost importance for Smurfit Kappa LithoPac, who are based in Nybro. The high level of safety that the company has achieved from day one is guaranteed by the Linde Safety Guard assistance system."
+    },
+    {
+     "role": "cta",
+     "order": 20,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Smurfit-Kappa-LithoPac/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Optimization is a question of chemistry",
+     "href": "../../../en/About-us/Magazine/Optimization-is-a-question-of-chemistry.html"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "Simple does not always mean trivial: proof of this is the automation project of Linde Material Handling for BASF Italia. In order to optimize efficiency and safety, a flexible, secure and fast-to-implement solution for Logistics 4.0 was integrated on the basis of an automated guided vehicle (AGV)."
+    },
+    {
+     "role": "cta",
+     "order": 23,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/Optimization-is-a-question-of-chemistry.html"
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Schenker takes full control of its forklift truck fleet",
+     "href": "../../../en/About-us/Magazine/DB-Schenker/index.html"
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "DB Schenker has full control of its forklift truck fleet thanks to Linde’s innovative fleet management system Linde connect."
+    },
+    {
+     "role": "cta",
+     "order": 26,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/DB-Schenker/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Automotive supplier SMP controls its vehicle fleet with Linde connect",
+     "href": "../../../en/About-us/Magazine/smp-fleetmanagement.html"
+    },
+    {
+     "role": "body",
+     "order": 28,
+     "text": "The Linde connect fleet management system makes a decisive contribution to order and safety in the warehouse. Linde Material Handling has equipped the entire SMP fleet with this intelligent solution."
+    },
+    {
+     "role": "cta",
+     "order": 29,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/smp-fleetmanagement.html"
+    }
+   ],
+   "imgCount": 10,
+   "editableTexts": 20,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 10,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

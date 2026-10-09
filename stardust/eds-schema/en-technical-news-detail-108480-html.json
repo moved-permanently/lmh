@@ -1,0 +1,95 @@
+{
+ "source": "http://localhost:8803/stardust/migrated/en/technical/News-Detail_108480.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Linde Material Handling receives large-scale order for lithium-ion trucks"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "23 Jan 2019"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "High-performance lithium-ion technology from Linde Material Handling soon to be used by BLG LOGISTICS"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Logistics specialist Linde Material Handling will deliver several hundred industrial trucks to BLG LOGISTICS – a renowned, internationally operating logistics service provider headquartered in Bremen, Germany. Almost a third of these trucks are pallet stackers equipped with energy-efficient lithium-ion batteries."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Maximum delivery reliability is the be-all and end-all in the automotive supply industry. That is because entire production chains at car manufacturers depend on the dependable supply of parts. The BLG Group ensures that everything arrives in the right place at the right time. Its Bremen logistics center for automotive parts stocks a wide range of vehicle components such as sheet metal parts, side wings and small components and ships them from Bremerhaven to all the world."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The industrial trucks used there must offer high availability in intensive multi-shift operation. With the electric vehicles used previously, this not only necessitated changing the lead-acid batteries on a daily basis – in addition, a large battery pool had to be kept available that took up a considerable amount of space. Having to drive to the central replacement area cost operators valuable time – as did the battery change itself. Moreover, expenses for battery service and maintenance generated ongoing costs."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "In the company’s most recent tender, the BLG fleet managers were therefore looking for potential savings – and found them in Linde Material Handling’s lithium-ion technology, a complete system comprising vehicle, battery and charger. The availability of trucks can be significantly increased by regular intermediate charging of the lithium-ion batteries, which eliminates the need for battery changes. In addition, the energy yield is up to 30 percent better than that of lead-acid batteries. Instead of a central replacement area, in the future there will be decentralized chargers near the workstations. Thus, even short breaks can be put to good use for supplying the trucks with fresh energy."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Linde Material Handling will deliver several hundred industrial trucks to BLG LOGISTICS. Almost a third of these trucks are pallet stackers equipped with energy-efficient lithium-ion batteries."
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Another advantage of Linde Material Handling's comprehensive lithium-ion solution is that not only the battery as an individual component, but also the entire system consisting of truck, battery and charger carries the CE mark of quality. Safety is also ensured by a so-called multi-level safety system, which applies at cell, module and battery level. At the same time, the intelligent battery management system ensures optimal use of the energy storage unit and prevents damage caused by overpressure, overheating and overcharging or deep discharge."
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Trade Press"
+    },
+    {
+     "role": "heading",
+     "order": 10,
+     "text": "Heike Oder"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "+49 6021 991277",
+     "href": "tel:+49 6021 991277"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Send email",
+     "href": "mailto:heike....oder@@@@linde-mh....de"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 12,
+   "repeats": []
+  }
+ ]
+}

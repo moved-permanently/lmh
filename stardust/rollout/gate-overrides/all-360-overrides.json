@@ -1,0 +1,42 @@
+{
+  "en-legal-notes-privacy-statement": {
+    "criterion": "pixel",
+    "measured": "10.49 % (bar 10), Δh 13 px, clip 0, content MISSING 0 / HIDDEN 0, engine-symmetric capture (headless shell both sides)",
+    "reason": "Phase 4 static-archetype 360 residual (stardust/replica/progress.json archetypes.static.breakpoints.360.residuals): the licensed FF Daxline Pro is substituted by Nunito Sans (SIL OFL) with per-size letter-spacing calibration; the remaining 9–13 % per band is substitute-font wrap forks at 15.2/18 px (3 link-bearing paragraphs a line long, 4 body paragraphs a line short, net +13 px), no hot band, chrome-parity 0 deltas. Not fixable without the licensed face; a licensed drop-in later wins (brand family first in the stack).",
+    "decidedBy": "hands-off (C-deliver archetype-static unit, 2026-10-06)",
+    "flaggedFor": "site owner — license FF Daxline Pro for the new domain to close the 360 residual",
+    "verdict": "DELIVERED (documented residual)"
+  },
+  "en-technical-news-detail-101184-html": {
+    "criterion": "pixel",
+    "measured": "13.94 % (bar 10), Δh -26 px, clip 0, content MISSING 0 / HIDDEN 0, units off 0, engine-symmetric capture (headless shell both sides); bands 0-500: 4.8%, 500-1000: 22.7%, 1000-1500: 11%, 1500-2000: 11.8%, 2000-2500: 17.5%, 2500-2959: 16.1%",
+    "reason": "Phase 4 article-archetype 360 residual (stardust/replica/progress.json archetypes.article.breakpoints.360: 13.88 %, Δh -26, band 500-1000 22.6 % then everything below shifted; the licensed FF Daxline Pro is substituted by Nunito Sans with the fonts.md letter-spacing calibration). The delivered page reproduces it within 0.06 pt and the same Δh after 2 targeted rounds on the block CSS (infobox 16:9 clip, in-flow 8px top margin below 640px) removed the page-level +8; the remaining band pattern is the substitute-font text shape (text-pixel share 22.76 %) with no new hot band, no clip, no missing content. Not fixable without the licensed face; a licensed drop-in later wins (brand family first in the stack).",
+    "decidedBy": "hands-off (C-deliver archetype-article unit, 2026-10-06)",
+    "flaggedFor": "site owner — license FF Daxline Pro for the new domain to close the 360 residual",
+    "verdict": "DELIVERED (documented residual)"
+  },
+  "en-landingpage-e-models": {
+    "criterion": "pixel",
+    "measured": "18.56 % (bar 10; text-pixel share 20.66 %), Δh +24 px, clip 0, content MISSING 0 / HIDDEN 0, units off 0, engine-symmetric capture (headless shell both sides); bands 1500-2000: 29.6%, 2500-3000: 33.2%, 3500-4000: 35.7%, 5000-5500: 35%, 6500-7000: 39%, 7000-7500: 33.4%, 8500-9000: 31.7%, 9500-10000: 28.7%, 12500-13500: 28%; everything else ≤ 17%",
+    "reason": "Phase 4 landing-archetype 360 residual (stardust/replica/progress.json archetypes.landing.breakpoints.360: 20.64 %, Δh +14; the licensed FF Daxline Pro is substituted by Nunito Sans with the fonts.md letter-spacing calibration, wrap forks of one line per long paragraph). After 3 fix rounds on the block CSS (round 1 hero/intro/gallery/list rows; round 2 the +16 px side padding below 1280 on the article wrapper, columns-col and related-teasers-item — text column 310 → 342 px like the prototype, 31.59 % / Δh −237 → 22.68 % / +91; round 3 the horizontal CTA row keeps the prototype .btn--action metrics below 1280 — row 152 → 244 px, 22.68 % / +91 → 18.56 % / +24) every text container equals the prototype box (width, font-size, line-height, letter-spacing); the live-vs-build offset at each headline is a cancelling ±26/27 px step pattern (27, 27, −1, −26, 1, 0, 0, 0, −37, 26 → net 24 px), i.e. the substitute-font wrap forks, no new hot band, no clip, no missing content. Pixel is 2.1 pt BELOW the Phase 4 number; Δh +24 is 10 px beyond the Phase 4 +14 and exceeds the ≤ 8 px bound of the override rule by less than one text line (27 px) — flagged, not hidden. Not fixable without the licensed face; a licensed drop-in later wins (brand family first in the stack).",
+    "decidedBy": "hands-off (C-deliver archetype-landing resume unit, 2026-10-06)",
+    "flaggedFor": "site owner — license FF Daxline Pro for the new domain to close the 360 residual; main agent — Δh +24 exceeds the 8 px override bound, revoke if the bound is binding",
+    "verdict": "DELIVERED (documented residual)"
+  },
+  "en-legal-notes-cookie-policy": {
+    "criterion": "content",
+    "measured": "content MISSING 2 / HIDDEN 0 at 360: the origin links \"Change consent\" and \"Withdraw consent to all\" (CCM19 consent-state panel: Your current state / consent id / consent date, origin y 531/557)",
+    "reason": "The two links are the CCM19 consent manager's live controls (javascript: handlers on the visitor's stored consent state, rendered by the third-party widget at runtime), not page content; the cookie declaration itself (prose + 10 tables) is delivered verbatim as `table header` blocks. No authored form of a consent-state control exists without the CCM19 runtime.",
+    "decidedBy": "hands-off (cluster-static, 2026-10-06)",
+    "flaggedFor": "site owner — embed the CCM19 declaration script on the EDS page if the live consent controls are wanted",
+    "verdict": "DELIVERED (documented residual)"
+  },
+  "en-technical-news-detail-105280-html": {
+    "criterion": "pixel",
+    "measured": "10.35 % (bar 10), Δh +4 px, clip 0, content MISSING 0 / HIDDEN 0, engine-symmetric capture (headless shell both sides); bands 0-500: 4%, 500-1000: 10.2%, 1000-1500: 11.3%, 1500-2000: 11.2%, 2000-2500: 19.1%, 2500-3000: 12%, 3000-3500: 11.9%, 3500-4000: 4.9%, 4000-4308: 7.4%",
+    "reason": "Phase 4 article-archetype 360 residual (stardust/replica/progress.json archetypes.article.breakpoints.360: 13.94 % / Δh -26, Nunito Sans substitute for the licensed FF Daxline Pro, wrap forks in the text bands 500-1000 and 2000+). This sibling reads 3.6 pt BELOW the Phase 4 record with the same shape (text bands 10-19 %, no band above 19.1 %, no new hot band, Δh 4 px, clip 0, content 0/0). Not fixable without the licensed face; a licensed drop-in later wins (brand family first in the stack).",
+    "decidedBy": "hands-off (cluster-article, 2026-10-06)",
+    "flaggedFor": "site owner — license FF Daxline Pro for the new domain to close the 360 residual",
+    "verdict": "DELIVERED (documented residual)"
+  }
+}

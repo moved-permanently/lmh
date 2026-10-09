@@ -1,0 +1,49 @@
+/* en-technical-news-detail-101184-html.css — page layer for the `article` template (18 news-detail pages). Imports canon.css (chrome, tokens, type,
+   press-contact + media-carousel modules). Lifted: .content @436547; layout grid @419810/@420584; .image-clipper @183635–@184343; .infobox-media @22374/@38061;
+   .headline-article @37970; measured live at 1440 + 360 (stardust/.work/replica/bg/art-measure-live.log, 2026-10-06). */
+
+.content, .content * { box-sizing: border-box; }
+.content { display: flex; flex-direction: column; align-items: center; position: relative; width: 100%; background: var(--color-white); padding: 0 0 22.5px; margin: 0; }
+.layout-passepartout { overflow: hidden; margin: 0; display: flex; width: 100%; }
+.layout-passepartout > .ld-layout-item__wrapper { width: 100%; }
+
+/* centred article column (live: 1280 box, 672 column = 640 + 2×16 at ≥1280; 351 at 360) */
+.layout-article--centered { display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; max-width: 1280px; width: 100%; padding: 5vw 1.25vw; margin: 0; }
+@media (min-width: 1280px) { .layout-article--centered { flex-direction: column; align-items: center; padding: 32px 16px; } }
+.layout-article--centered > .ld-layout-item__wrapper { display: block; position: relative; max-width: 960px; padding: 1.25vw; width: 100%; }
+@media (min-width: 1280px) { .layout-article--centered > .ld-layout-item__wrapper { width: auto; padding: 1.25vw 16px; } }
+
+/* article type (live computed: h1 54/67.5 red Medi; date .95rem/1.75; h3 1.63rem/1.25 mt 1em; intro 1.125rem/1.5 mb 1em; body .95rem/1.75; <640: h1 1rem/1.2, h3 1.5rem/1.25) */
+.headline-article, .layout-article--centered > .ld-layout-item__wrapper > h3 { font-family: var(--font-face-medi), var(--font-sub-bold), Arial, sans-serif; font-weight: 400; letter-spacing: -0.016em; max-width: 640px; }
+.headline-article { color: var(--color-red); font-size: 3rem; line-height: 1.25; margin: 0; }
+.layout-article--centered > .ld-layout-item__wrapper > h3 { color: var(--color-darkgrey); font-size: 1.63rem; line-height: 1.25; margin: 1em 0 0; }
+.layout-article--centered p { margin: 0; font-size: .95rem; line-height: 1.75; max-width: 640px; letter-spacing: -0.003em; }
+.layout-article--centered p + p { margin-top: .5em; }
+.layout-article--centered p.intro { font-size: 1.125rem; line-height: 1.5; margin: 0 0 1em; }
+.layout-article--centered span { display: inline; }
+.layout-article--centered span > p:first-child { margin-top: 0; }
+@media (max-width: 639px) {
+  .headline-article { font-size: 1rem; line-height: 1.2; }
+  .layout-article--centered > .ld-layout-item__wrapper > h3 { font-size: 1.5rem; }
+  .layout-article--centered p { letter-spacing: -0.017em; }
+  /* 360 iter2/iter3: -0.024em left the 15.2px first body paragraph a line long (Δh -26), -0.035em made four paragraphs a line short (Δh +54) — kept at the fonts.md calibration; residual recorded */
+  .layout-article--centered p.intro { letter-spacing: -0.0134em; }
+}
+
+/* inline media infobox (live: 320 wide floated left, m 8 16 8 0 at ≥640; full width, m 8 0 below) */
+.infobox-media { width: 100%; margin: 8px 0; }
+.infobox-media:after, .infobox-media:before { content: ""; display: table; }
+.infobox-media:after { clear: both; }
+@media (min-width: 640px) { .infobox-media.infobox--left { float: left; width: 320px; margin: 8px 16px 8px 0; } }
+.infobox-media a.image-wrapper { display: block; position: relative; max-width: 100%; line-height: 1; }
+.infobox-media .image-wrapper-16x9 { display: block; position: relative; height: 0; padding-bottom: 56.25%; max-width: 100%; overflow: hidden; }
+.infobox-media .image-wrapper-16x9 img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: block; }
+.infobox-media .btn { display: none; position: absolute; }   /* live computes display:none on the zoom button */
+.infobox-media p.caption { font-size: .875em; line-height: 1.75; font-style: italic; color: var(--color-text-darkgrey, #444); margin: .25em 0; max-width: none; }   /* live caption: DaxlineWebPro-Italic #444 (no italic cut in the substitute kit → synthesized oblique) */
+.inline-button-row { display: flex; flex-direction: column; flex-wrap: wrap; align-items: baseline; margin: 8px auto; justify-content: center; width: 100%; }
+
+/* 25% fixed grid holding the press contact — a CHILD of .layout-article--centered (live: x96 w1248 = the article box's content box; item 304 = 25% of 1216) */
+.layout-25--fixed { display: flex; flex-wrap: wrap; justify-content: center; flex-shrink: 0; padding: 5vw 1.25vw; width: 100%; max-width: 1280px; margin: 0; }
+@media (min-width: 1280px) { .layout-25--fixed { padding: 32px 16px; } }
+.layout-25--fixed > .ld-layout-item__wrapper { display: flex; position: relative; padding: 1.25vw; align-items: center; flex-direction: column; overflow: hidden; width: 100%; }
+@media (min-width: 1280px) { .layout-25--fixed > .ld-layout-item__wrapper { width: 25%; padding: 1.25vw 16px; } }

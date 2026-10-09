@@ -1,0 +1,211 @@
+/* accordion — source .accordion (1280 box, items separated by a 1px line, down-glyph on the right) */
+.accordion {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 640px; /* source: inside the 640px text column (measured 1440: live 640, build 1248) */
+  margin: 0 auto;
+  /* source: the accordion sits in the 640 text column of a .dom-content band — 5vw + 1.25vw above and
+     below (32 + 18 = 50 from 1280), 2.5vw at the sides below 1280 (measured sustainability 1440: box
+     640 at x 400, row 570 = 470 + 100; 360: box 342, headline 49, body padding 8) */
+  padding: 6.25vw 2.5vw;
+}
+
+.accordion .accordion-item {
+  border-bottom: 1px solid var(--color-lightgrey, #ddd);
+}
+
+.accordion .accordion-item:first-child {
+  border-top: 1px solid var(--color-lightgrey, #ddd);
+}
+
+.accordion .accordion-item-headline {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 12px 0;
+  cursor: pointer;
+  list-style: none;
+}
+
+.accordion .accordion-item-headline::-webkit-details-marker {
+  display: none;
+}
+
+.accordion .accordion-item-headline h3 {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+}
+
+@media (width >= 640px) {
+  .accordion .accordion-item-headline h3 {
+    font-size: 1.33rem;
+  }
+
+  .accordion .accordion-item-body {
+    padding-bottom: 16px;
+  }
+}
+
+/* source .accordion-item-headline-button > a.btn__link > .btn.with-icon.no-background > span.icon.icon-LMHIcondownblack:
+   a 58 × 49 button (padding 8px 16px, line-height 30) holding a 24 × 24 icon (bundle @13443 .icon 24px; @8117 \f12f);
+   measured fleet-management 360: button 58 × 49 at x 293, icon 24 × 24 at x 310 — the build's 40 × 30 box made the
+   headline 54 tall where the source is 49 */
+.accordion .accordion-item-toggle {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 58px;
+  min-height: 25px;
+  padding: 0 16px;
+  color: var(--color-red);
+  text-decoration: none;
+}
+
+.accordion .accordion-item-glyph {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  color: var(--color-red);
+  font-size: 24px;
+  line-height: 24px;
+  text-align: center;
+  transition: transform 0.25s ease-in-out;
+}
+
+.accordion .accordion-item-glyph::before {
+  content: "\f12f";
+  display: block;
+}
+
+.accordion .accordion-item[open] .accordion-item-glyph {
+  transform: rotateX(180deg);
+}
+
+.accordion .accordion-item-body {
+  display: flow-root;
+  padding: 0 0 8px;
+}
+
+/* in-flow media figure (source .infobox-media: display block, margin 8px 0, the full column below 640 —
+   measured fleet-management 360: 342 × 192 at x 9; the build's 200 was the paragraph's line box) */
+.accordion .accordion-item-text .accordion-item-figure {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 8px 0;
+  line-height: 0;
+}
+
+.accordion .accordion-item-text .accordion-item-figure :is(a, picture, img) {
+  display: block;
+  width: 100%;
+}
+
+.accordion .accordion-item-text .accordion-item-figure img {
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+/* from 640 the figure floats ONLY under the block variants that carry the source's side class — block token
+   `media-right` = .infobox--right (width 320, float right, margin-left 16), `media-left` = .infobox--left
+   (float left, margin-right 16; bundle @267911–@267998). A plain .infobox-media stays the full 640 column in
+   flow: measured ergonomics 1440, live 640 × 360 at x 400 inside the open item against the build's 320 × 180
+   float (−187 per open item, four accordions), fleet-management −304 (gap-step-collapses). */
+@media (width >= 640px) {
+  .accordion.media-right .accordion-item-text .accordion-item-figure,
+  .accordion.media-left .accordion-item-text .accordion-item-figure {
+    width: 320px;
+  }
+
+  .accordion.media-right .accordion-item-text .accordion-item-figure {
+    float: right;
+    margin: 8px 0 8px 16px;
+  }
+
+  .accordion.media-left .accordion-item-text .accordion-item-figure {
+    float: left;
+    margin: 8px 16px 8px 0;
+  }
+}
+
+/* wide variant (block token `wide`) — the source accordion in a full-width band whose item body is
+   .content-left (copy, inline-block, max 640) beside .content-right (figure, calc(100% − 640px), padding-left
+   48px) from 1024 (bundle @253517–@253794); below 1024 both are full-width blocks in flow. Measured
+   explosion-proof 1440: box 112/1216, copy 112/640, figure column 752/576, image 800/528, same top. */
+.accordion.wide {
+  max-width: 1216px;
+}
+
+@media (width >= 1024px) {
+  .accordion.wide .accordion-item-text {
+    display: grid;
+    grid-template-columns: 640px minmax(0, 1fr);
+    align-items: start;
+  }
+
+  .accordion.wide .accordion-item-text > * {
+    grid-column: 1;
+    max-width: 640px;
+  }
+
+  .accordion.wide .accordion-item-text > .accordion-item-figure {
+    grid-column: 2;
+    grid-row: 1 / span 40;
+    width: 100%;
+    margin: 0.5em 0 0;
+    padding-left: 48px;
+    float: none;
+  }
+}
+
+.accordion .accordion-item-text {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.accordion .accordion-item-text p {
+  font-size: 0.95rem;
+  line-height: 1.75;
+  letter-spacing: -0.003em;
+}
+
+.accordion .accordion-item-text p + p {
+  margin-top: 0.5em;
+}
+
+@media (width >= 1280px) {
+  .accordion {
+    padding: 50px 0;
+  }
+}
+
+/* lists in the item text are the source's ul.bullets (live bundle @35849 ol,ul .95rem / 150 %; @39694–@40113: .5em
+   margins, padding 0, list-style none; li 1.125em indent, .25em gap, a red en dash absolute at left 0) */
+.accordion .accordion-item-text ul,
+.accordion .accordion-item-text ol {
+  margin: 0.5em 0;
+  padding: 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  list-style: none;
+}
+
+.accordion .accordion-item-text ul li {
+  position: relative;
+  margin: 0 0 0.25em;
+  padding: 0 0 0 1.125em;
+}
+
+.accordion .accordion-item-text ul li::before {
+  content: "\2013";
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: var(--color-red);
+}

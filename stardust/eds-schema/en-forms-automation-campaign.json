@@ -1,0 +1,1372 @@
+{
+ "source": "http://localhost:8808/stardust/migrated/en/Forms/Automation-Campaign/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Your request about automation"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Title"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "*"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Ms."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Mr."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Other"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "No information"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Mr."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Ms.",
+     "href": ""
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Mr.",
+     "href": ""
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Other",
+     "href": ""
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "No information",
+     "href": ""
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "First name*"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "Surname*"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Company*"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "Street"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "Number"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Zip code*"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "Town/City*"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Phone"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "E-mail*"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "Country"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "*"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "Please select your country"
+    },
+    {
+     "role": "body",
+     "order": 24,
+     "text": "Afghanistan"
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "Albania"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Algeria"
+    },
+    {
+     "role": "body",
+     "order": 27,
+     "text": "Amer Samoa"
+    },
+    {
+     "role": "body",
+     "order": 28,
+     "text": "Andorra"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "Angola"
+    },
+    {
+     "role": "body",
+     "order": 30,
+     "text": "Anguilla"
+    },
+    {
+     "role": "body",
+     "order": 31,
+     "text": "Antartica"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "Antig & Barbu"
+    },
+    {
+     "role": "body",
+     "order": 33,
+     "text": "Argentina"
+    },
+    {
+     "role": "body",
+     "order": 34,
+     "text": "Armenia"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "Aruba"
+    },
+    {
+     "role": "body",
+     "order": 36,
+     "text": "Australia"
+    },
+    {
+     "role": "body",
+     "order": 37,
+     "text": "Austria"
+    },
+    {
+     "role": "body",
+     "order": 38,
+     "text": "Azerbaijan"
+    },
+    {
+     "role": "body",
+     "order": 39,
+     "text": "Bahamas"
+    },
+    {
+     "role": "body",
+     "order": 40,
+     "text": "Bahrain"
+    },
+    {
+     "role": "body",
+     "order": 41,
+     "text": "Bangladesh"
+    },
+    {
+     "role": "body",
+     "order": 42,
+     "text": "Barbados"
+    },
+    {
+     "role": "body",
+     "order": 43,
+     "text": "Belarus"
+    },
+    {
+     "role": "body",
+     "order": 44,
+     "text": "Belgium"
+    },
+    {
+     "role": "body",
+     "order": 45,
+     "text": "Belize"
+    },
+    {
+     "role": "body",
+     "order": 46,
+     "text": "Benin"
+    },
+    {
+     "role": "body",
+     "order": 47,
+     "text": "Bermuda"
+    },
+    {
+     "role": "body",
+     "order": 48,
+     "text": "Bhutan"
+    },
+    {
+     "role": "body",
+     "order": 49,
+     "text": "Bolivia"
+    },
+    {
+     "role": "body",
+     "order": 50,
+     "text": "Bosnia-Herzegovina"
+    },
+    {
+     "role": "body",
+     "order": 51,
+     "text": "Botswana"
+    },
+    {
+     "role": "body",
+     "order": 52,
+     "text": "Bouvet Island"
+    },
+    {
+     "role": "body",
+     "order": 53,
+     "text": "Brazil"
+    },
+    {
+     "role": "body",
+     "order": 54,
+     "text": "British Indian Ocean Territory"
+    },
+    {
+     "role": "body",
+     "order": 55,
+     "text": "Brunei Darussalam"
+    },
+    {
+     "role": "body",
+     "order": 56,
+     "text": "Bulgaria"
+    },
+    {
+     "role": "body",
+     "order": 57,
+     "text": "Burkina Faso"
+    },
+    {
+     "role": "body",
+     "order": 58,
+     "text": "Burundi"
+    },
+    {
+     "role": "body",
+     "order": 59,
+     "text": "Cambodia"
+    },
+    {
+     "role": "body",
+     "order": 60,
+     "text": "Cameroon"
+    },
+    {
+     "role": "body",
+     "order": 61,
+     "text": "Canada"
+    },
+    {
+     "role": "body",
+     "order": 62,
+     "text": "Cape Verde"
+    },
+    {
+     "role": "body",
+     "order": 63,
+     "text": "Cayman Island"
+    },
+    {
+     "role": "body",
+     "order": 64,
+     "text": "Central African Republic"
+    },
+    {
+     "role": "body",
+     "order": 65,
+     "text": "Chad"
+    },
+    {
+     "role": "body",
+     "order": 66,
+     "text": "Chile"
+    },
+    {
+     "role": "body",
+     "order": 67,
+     "text": "China, People's Republic of"
+    },
+    {
+     "role": "body",
+     "order": 68,
+     "text": "Christms Island"
+    },
+    {
+     "role": "body",
+     "order": 69,
+     "text": "Coco (Keel Island)"
+    },
+    {
+     "role": "body",
+     "order": 70,
+     "text": "Colombia"
+    },
+    {
+     "role": "body",
+     "order": 71,
+     "text": "Comoros"
+    },
+    {
+     "role": "body",
+     "order": 72,
+     "text": "Congo, Democratic Republic"
+    },
+    {
+     "role": "body",
+     "order": 73,
+     "text": "Congo, Republic"
+    },
+    {
+     "role": "body",
+     "order": 74,
+     "text": "Cook Island"
+    },
+    {
+     "role": "body",
+     "order": 75,
+     "text": "Costa Rica"
+    },
+    {
+     "role": "body",
+     "order": 76,
+     "text": "Croatia"
+    },
+    {
+     "role": "body",
+     "order": 77,
+     "text": "Cuba"
+    },
+    {
+     "role": "body",
+     "order": 78,
+     "text": "Cyprus"
+    },
+    {
+     "role": "body",
+     "order": 79,
+     "text": "Czech Republic"
+    },
+    {
+     "role": "body",
+     "order": 80,
+     "text": "Denmark"
+    },
+    {
+     "role": "body",
+     "order": 81,
+     "text": "Djibouti"
+    },
+    {
+     "role": "body",
+     "order": 82,
+     "text": "Dominica"
+    },
+    {
+     "role": "body",
+     "order": 83,
+     "text": "Dominican Republic"
+    },
+    {
+     "role": "body",
+     "order": 84,
+     "text": "East Timor"
+    },
+    {
+     "role": "body",
+     "order": 85,
+     "text": "Ecuador"
+    },
+    {
+     "role": "body",
+     "order": 86,
+     "text": "Egypt"
+    },
+    {
+     "role": "body",
+     "order": 87,
+     "text": "El Salvador"
+    },
+    {
+     "role": "body",
+     "order": 88,
+     "text": "Equat Guinea"
+    },
+    {
+     "role": "body",
+     "order": 89,
+     "text": "Eritrea"
+    },
+    {
+     "role": "body",
+     "order": 90,
+     "text": "Estonia"
+    },
+    {
+     "role": "body",
+     "order": 91,
+     "text": "Ethiopia"
+    },
+    {
+     "role": "body",
+     "order": 92,
+     "text": "Falkland Islands"
+    },
+    {
+     "role": "body",
+     "order": 93,
+     "text": "Faroe Islands"
+    },
+    {
+     "role": "body",
+     "order": 94,
+     "text": "Fiji"
+    },
+    {
+     "role": "body",
+     "order": 95,
+     "text": "Finland"
+    },
+    {
+     "role": "body",
+     "order": 96,
+     "text": "France"
+    },
+    {
+     "role": "body",
+     "order": 97,
+     "text": "French Guiana"
+    },
+    {
+     "role": "body",
+     "order": 98,
+     "text": "French Polynesia"
+    },
+    {
+     "role": "body",
+     "order": 99,
+     "text": "French Southern and Antarctic Lands"
+    },
+    {
+     "role": "body",
+     "order": 100,
+     "text": "Gabon"
+    },
+    {
+     "role": "body",
+     "order": 101,
+     "text": "Gambia"
+    },
+    {
+     "role": "body",
+     "order": 102,
+     "text": "Georgia"
+    },
+    {
+     "role": "body",
+     "order": 103,
+     "text": "Germany"
+    },
+    {
+     "role": "body",
+     "order": 104,
+     "text": "Ghana"
+    },
+    {
+     "role": "body",
+     "order": 105,
+     "text": "Gibraltar"
+    },
+    {
+     "role": "body",
+     "order": 106,
+     "text": "Greece"
+    },
+    {
+     "role": "body",
+     "order": 107,
+     "text": "Greenland"
+    },
+    {
+     "role": "body",
+     "order": 108,
+     "text": "Grenada"
+    },
+    {
+     "role": "body",
+     "order": 109,
+     "text": "Guadeloupe"
+    },
+    {
+     "role": "body",
+     "order": 110,
+     "text": "Guam"
+    },
+    {
+     "role": "body",
+     "order": 111,
+     "text": "Guatemala"
+    },
+    {
+     "role": "body",
+     "order": 112,
+     "text": "Guinea"
+    },
+    {
+     "role": "body",
+     "order": 113,
+     "text": "Guinea-Bissau"
+    },
+    {
+     "role": "body",
+     "order": 114,
+     "text": "Guyana"
+    },
+    {
+     "role": "body",
+     "order": 115,
+     "text": "Haiti"
+    },
+    {
+     "role": "body",
+     "order": 116,
+     "text": "Heard Island and McDonald Islands"
+    },
+    {
+     "role": "body",
+     "order": 117,
+     "text": "Honduras"
+    },
+    {
+     "role": "body",
+     "order": 118,
+     "text": "Hong Kong"
+    },
+    {
+     "role": "body",
+     "order": 119,
+     "text": "Hungary"
+    },
+    {
+     "role": "body",
+     "order": 120,
+     "text": "Iceland"
+    },
+    {
+     "role": "body",
+     "order": 121,
+     "text": "India"
+    },
+    {
+     "role": "body",
+     "order": 122,
+     "text": "Indonesia"
+    },
+    {
+     "role": "body",
+     "order": 123,
+     "text": "Iran"
+    },
+    {
+     "role": "body",
+     "order": 124,
+     "text": "Iraq"
+    },
+    {
+     "role": "body",
+     "order": 125,
+     "text": "Ireland"
+    },
+    {
+     "role": "body",
+     "order": 126,
+     "text": "Israel"
+    },
+    {
+     "role": "body",
+     "order": 127,
+     "text": "Italy"
+    },
+    {
+     "role": "body",
+     "order": 128,
+     "text": "Ivory Coast"
+    },
+    {
+     "role": "body",
+     "order": 129,
+     "text": "Jamaica"
+    },
+    {
+     "role": "body",
+     "order": 130,
+     "text": "Japan"
+    },
+    {
+     "role": "body",
+     "order": 131,
+     "text": "Jordan"
+    },
+    {
+     "role": "body",
+     "order": 132,
+     "text": "Kazakhstan"
+    },
+    {
+     "role": "body",
+     "order": 133,
+     "text": "Kenya"
+    },
+    {
+     "role": "body",
+     "order": 134,
+     "text": "Kiribati"
+    },
+    {
+     "role": "body",
+     "order": 135,
+     "text": "Korea, Democratic Republic"
+    },
+    {
+     "role": "body",
+     "order": 136,
+     "text": "Kosovo"
+    },
+    {
+     "role": "body",
+     "order": 137,
+     "text": "Kuwait"
+    },
+    {
+     "role": "body",
+     "order": 138,
+     "text": "Kyrgyzstan"
+    },
+    {
+     "role": "body",
+     "order": 139,
+     "text": "Laos"
+    },
+    {
+     "role": "body",
+     "order": 140,
+     "text": "Latvia"
+    },
+    {
+     "role": "body",
+     "order": 141,
+     "text": "Lebanon"
+    },
+    {
+     "role": "body",
+     "order": 142,
+     "text": "Lesotho"
+    },
+    {
+     "role": "body",
+     "order": 143,
+     "text": "Liberia"
+    },
+    {
+     "role": "body",
+     "order": 144,
+     "text": "Libya"
+    },
+    {
+     "role": "body",
+     "order": 145,
+     "text": "Liechtenstein"
+    },
+    {
+     "role": "body",
+     "order": 146,
+     "text": "Lithuania"
+    },
+    {
+     "role": "body",
+     "order": 147,
+     "text": "Luxembourg"
+    },
+    {
+     "role": "body",
+     "order": 148,
+     "text": "Macao"
+    },
+    {
+     "role": "body",
+     "order": 149,
+     "text": "Macedonia"
+    },
+    {
+     "role": "body",
+     "order": 150,
+     "text": "Madagascar"
+    },
+    {
+     "role": "body",
+     "order": 151,
+     "text": "Malawi"
+    },
+    {
+     "role": "body",
+     "order": 152,
+     "text": "Malaysia"
+    },
+    {
+     "role": "body",
+     "order": 153,
+     "text": "Maldives"
+    },
+    {
+     "role": "body",
+     "order": 154,
+     "text": "Mali"
+    },
+    {
+     "role": "body",
+     "order": 155,
+     "text": "Malta"
+    },
+    {
+     "role": "body",
+     "order": 156,
+     "text": "Marshall Islands"
+    },
+    {
+     "role": "body",
+     "order": 157,
+     "text": "Martinique"
+    },
+    {
+     "role": "body",
+     "order": 158,
+     "text": "Mauritania"
+    },
+    {
+     "role": "body",
+     "order": 159,
+     "text": "Mauritius"
+    },
+    {
+     "role": "body",
+     "order": 160,
+     "text": "Mayotte"
+    },
+    {
+     "role": "body",
+     "order": 161,
+     "text": "Mexico"
+    },
+    {
+     "role": "body",
+     "order": 162,
+     "text": "Micron, Federated States"
+    },
+    {
+     "role": "body",
+     "order": 163,
+     "text": "Moldovia"
+    },
+    {
+     "role": "body",
+     "order": 164,
+     "text": "Monaco"
+    },
+    {
+     "role": "body",
+     "order": 165,
+     "text": "Mongolia"
+    },
+    {
+     "role": "body",
+     "order": 166,
+     "text": "Montenegro"
+    },
+    {
+     "role": "body",
+     "order": 167,
+     "text": "Montserrat"
+    },
+    {
+     "role": "body",
+     "order": 168,
+     "text": "Morocco"
+    },
+    {
+     "role": "body",
+     "order": 169,
+     "text": "Mozambique"
+    },
+    {
+     "role": "body",
+     "order": 170,
+     "text": "Myanmar"
+    },
+    {
+     "role": "body",
+     "order": 171,
+     "text": "Namibia"
+    },
+    {
+     "role": "body",
+     "order": 172,
+     "text": "Nauru"
+    },
+    {
+     "role": "body",
+     "order": 173,
+     "text": "Nepal"
+    },
+    {
+     "role": "body",
+     "order": 174,
+     "text": "Nether Antil"
+    },
+    {
+     "role": "body",
+     "order": 175,
+     "text": "Netherlands"
+    },
+    {
+     "role": "body",
+     "order": 176,
+     "text": "New Caldonia"
+    },
+    {
+     "role": "body",
+     "order": 177,
+     "text": "New Zealand"
+    },
+    {
+     "role": "body",
+     "order": 178,
+     "text": "Nicaragua"
+    },
+    {
+     "role": "body",
+     "order": 179,
+     "text": "Niger"
+    },
+    {
+     "role": "body",
+     "order": 180,
+     "text": "Nigeria"
+    },
+    {
+     "role": "body",
+     "order": 181,
+     "text": "Niue"
+    },
+    {
+     "role": "body",
+     "order": 182,
+     "text": "Norfolk Island"
+    },
+    {
+     "role": "body",
+     "order": 183,
+     "text": "Northern Mariana Islands"
+    },
+    {
+     "role": "body",
+     "order": 184,
+     "text": "Norway"
+    },
+    {
+     "role": "body",
+     "order": 185,
+     "text": "Oman"
+    },
+    {
+     "role": "body",
+     "order": 186,
+     "text": "Pakistan"
+    },
+    {
+     "role": "body",
+     "order": 187,
+     "text": "Palau"
+    },
+    {
+     "role": "body",
+     "order": 188,
+     "text": "Panama"
+    },
+    {
+     "role": "body",
+     "order": 189,
+     "text": "Papua New Guinea"
+    },
+    {
+     "role": "body",
+     "order": 190,
+     "text": "Paraguay"
+    },
+    {
+     "role": "body",
+     "order": 191,
+     "text": "Peru"
+    },
+    {
+     "role": "body",
+     "order": 192,
+     "text": "Philippines"
+    },
+    {
+     "role": "body",
+     "order": 193,
+     "text": "Pitcairn"
+    },
+    {
+     "role": "body",
+     "order": 194,
+     "text": "Poland"
+    },
+    {
+     "role": "body",
+     "order": 195,
+     "text": "Portugal"
+    },
+    {
+     "role": "body",
+     "order": 196,
+     "text": "Puerto Rico"
+    },
+    {
+     "role": "body",
+     "order": 197,
+     "text": "Qatar"
+    },
+    {
+     "role": "body",
+     "order": 198,
+     "text": "Reunion"
+    },
+    {
+     "role": "body",
+     "order": 199,
+     "text": "Romania"
+    },
+    {
+     "role": "body",
+     "order": 200,
+     "text": "Rwanda"
+    },
+    {
+     "role": "body",
+     "order": 201,
+     "text": "Saint Christopher and Nevis, Federation of"
+    },
+    {
+     "role": "body",
+     "order": 202,
+     "text": "Saint Helena"
+    },
+    {
+     "role": "body",
+     "order": 203,
+     "text": "Saint Lucia"
+    },
+    {
+     "role": "body",
+     "order": 204,
+     "text": "Saint Pierre and Miquelon"
+    },
+    {
+     "role": "body",
+     "order": 205,
+     "text": "Samoa"
+    },
+    {
+     "role": "body",
+     "order": 206,
+     "text": "San Marino"
+    },
+    {
+     "role": "body",
+     "order": 207,
+     "text": "Sao Tome"
+    },
+    {
+     "role": "body",
+     "order": 208,
+     "text": "Saudi Arabia"
+    },
+    {
+     "role": "body",
+     "order": 209,
+     "text": "Senegal"
+    },
+    {
+     "role": "body",
+     "order": 210,
+     "text": "Serbia"
+    },
+    {
+     "role": "body",
+     "order": 211,
+     "text": "Seychelles"
+    },
+    {
+     "role": "body",
+     "order": 212,
+     "text": "Sierra Leone"
+    },
+    {
+     "role": "body",
+     "order": 213,
+     "text": "Singapore"
+    },
+    {
+     "role": "body",
+     "order": 214,
+     "text": "Slovakia"
+    },
+    {
+     "role": "body",
+     "order": 215,
+     "text": "Slovenia"
+    },
+    {
+     "role": "body",
+     "order": 216,
+     "text": "Solomon Island"
+    },
+    {
+     "role": "body",
+     "order": 217,
+     "text": "Somalia"
+    },
+    {
+     "role": "body",
+     "order": 218,
+     "text": "South Africa"
+    },
+    {
+     "role": "body",
+     "order": 219,
+     "text": "South Georgia and the South Sandwich Islands"
+    },
+    {
+     "role": "body",
+     "order": 220,
+     "text": "South Korea"
+    },
+    {
+     "role": "body",
+     "order": 221,
+     "text": "South Sudan"
+    },
+    {
+     "role": "body",
+     "order": 222,
+     "text": "Spain"
+    },
+    {
+     "role": "body",
+     "order": 223,
+     "text": "Sri Lanka"
+    },
+    {
+     "role": "body",
+     "order": 224,
+     "text": "Sudan"
+    },
+    {
+     "role": "body",
+     "order": 225,
+     "text": "Surinam"
+    },
+    {
+     "role": "body",
+     "order": 226,
+     "text": "Svalbard and Jan Mayen"
+    },
+    {
+     "role": "body",
+     "order": 227,
+     "text": "Swaziland"
+    },
+    {
+     "role": "body",
+     "order": 228,
+     "text": "Sweden"
+    },
+    {
+     "role": "body",
+     "order": 229,
+     "text": "Switzerland"
+    },
+    {
+     "role": "body",
+     "order": 230,
+     "text": "Syria"
+    },
+    {
+     "role": "body",
+     "order": 231,
+     "text": "Taiwan (ROC)"
+    },
+    {
+     "role": "body",
+     "order": 232,
+     "text": "Tajikistan"
+    },
+    {
+     "role": "body",
+     "order": 233,
+     "text": "Tanzania"
+    },
+    {
+     "role": "body",
+     "order": 234,
+     "text": "Thailand"
+    },
+    {
+     "role": "body",
+     "order": 235,
+     "text": "Togo"
+    },
+    {
+     "role": "body",
+     "order": 236,
+     "text": "Tokelau"
+    },
+    {
+     "role": "body",
+     "order": 237,
+     "text": "Tonga"
+    },
+    {
+     "role": "body",
+     "order": 238,
+     "text": "Trinidad and Tobago"
+    },
+    {
+     "role": "body",
+     "order": 239,
+     "text": "Tunisia"
+    },
+    {
+     "role": "body",
+     "order": 240,
+     "text": "Turkey"
+    },
+    {
+     "role": "body",
+     "order": 241,
+     "text": "Turkmenistan"
+    },
+    {
+     "role": "body",
+     "order": 242,
+     "text": "Turks & Caicos"
+    },
+    {
+     "role": "body",
+     "order": 243,
+     "text": "Tuvalu"
+    },
+    {
+     "role": "body",
+     "order": 244,
+     "text": "US Minor Outly Islands"
+    },
+    {
+     "role": "body",
+     "order": 245,
+     "text": "Uganda"
+    },
+    {
+     "role": "body",
+     "order": 246,
+     "text": "Ukraine"
+    },
+    {
+     "role": "body",
+     "order": 247,
+     "text": "United Arab Emirates"
+    },
+    {
+     "role": "body",
+     "order": 248,
+     "text": "United Kingdom"
+    },
+    {
+     "role": "body",
+     "order": 249,
+     "text": "United States"
+    },
+    {
+     "role": "body",
+     "order": 250,
+     "text": "Uruguay"
+    },
+    {
+     "role": "body",
+     "order": 251,
+     "text": "Uzbekistan"
+    },
+    {
+     "role": "body",
+     "order": 252,
+     "text": "Vanuatu"
+    },
+    {
+     "role": "body",
+     "order": 253,
+     "text": "Vatican City State"
+    },
+    {
+     "role": "body",
+     "order": 254,
+     "text": "Venezuela"
+    },
+    {
+     "role": "body",
+     "order": 255,
+     "text": "Vietnam"
+    },
+    {
+     "role": "body",
+     "order": 256,
+     "text": "Virgin Islands, British"
+    },
+    {
+     "role": "body",
+     "order": 257,
+     "text": "Virgin Islands, US"
+    },
+    {
+     "role": "body",
+     "order": 258,
+     "text": "Wallis & Futun"
+    },
+    {
+     "role": "body",
+     "order": 259,
+     "text": "West Sahara"
+    },
+    {
+     "role": "body",
+     "order": 260,
+     "text": "Yemen"
+    },
+    {
+     "role": "body",
+     "order": 261,
+     "text": "Zambia"
+    },
+    {
+     "role": "body",
+     "order": 262,
+     "text": "Zimbabwe"
+    },
+    {
+     "role": "body",
+     "order": 263,
+     "text": "Please specify your request."
+    },
+    {
+     "role": "body",
+     "order": 264,
+     "text": "I hereby declare that I consent to the use of my personal data in accordance with the ."
+    },
+    {
+     "role": "cta",
+     "order": 265,
+     "text": "General Privacy Statement",
+     "href": "../../../en/Legal-Notes/Privacy-Statement/index.html"
+    },
+    {
+     "role": "body",
+     "order": 266,
+     "text": "*Mandatory field"
+    },
+    {
+     "role": "body",
+     "order": 267,
+     "text": "Submit"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "FIELDSET.",
+     "count": 14,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

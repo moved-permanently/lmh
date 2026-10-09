@@ -1,0 +1,856 @@
+{
+ "source": "http://localhost:8802/stardust/migrated/en/About-us/Working-at-Linde/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Careers"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Become part of the team"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Career Opportunities",
+     "href": "#766324"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Career Areas",
+     "href": "#766329"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Application Process",
+     "href": "#766331"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Linde Mobility",
+     "href": "#766333"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Our Values",
+     "href": "#766335"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Contact",
+     "href": "#766339"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 6,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Get to know Linde Material Handling as an employer"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde Material Handling combines technological know-how with a high level of commitment. Our employees realize their ideas for tailor-made customer solutions, make full use of their skills, share the existing synergies of the , and in doing so shape the future of intralogistics. Whether your background is in engineering, business administration, skilled trades or administration, at Linde you can find a variety of job profiles and exciting occupational fields. What role would you like to take on with us? You will also come on board with a leading worldwide manufacturer of forklift trucks, warehouse handling equipment, and system solutions, learn all about digitalization through practice, and experience Industry 4.0 first hand: As a team player, you will work with more than 10,000 colleagues on intralogistics service providers and solutions, thereby helping to make our customers even more successful."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "KION Group",
+     "href": "https://www.kiongroup.com"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Career Opportunities"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Highschool and University Students",
+     "href": "../../../en/About-us/Working-at-Linde/Students-Scholars/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Whether you are doing an internship or writing a thesis: Your ideas are always in demand at Linde Material Handling. Apply now."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "More details",
+     "href": "../../../en/About-us/Working-at-Linde/Students-Scholars/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Apprentices",
+     "href": "../../../en/About-us/Working-at-Linde/Apprentice/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Finished school? Begin your career with an apprenticeship at Linde Material Handling."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "More details",
+     "href": "../../../en/About-us/Working-at-Linde/Apprentice/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Recent Graduates & Professionals",
+     "href": "../../../en/About-us/Working-at-Linde/Professionals/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Planning the next step in your career? Join Linde Material Handling directly and help get intralogistics moving."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "More details",
+     "href": "../../../en/About-us/Working-at-Linde/Professionals/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Find the right job at the right place"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "To the job vacancies",
+     "href": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "You can never plan for everything in a secondment or transfer; there are always unforeseen things that crop up which you have to adjust to. Flexibility is always a key factor."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Marcel Ludwig went to Basingstoke for five years, initially working in the Financial Planning & Reporting division, and later in Analysis. His secondment turned into a transfer: He decided to stay with Linde UK."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Career Areas"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Sales",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Service",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Marketing & Communication",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Human Resources",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Health, Safety & the Environment (HSE)",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Procurement",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Development & Construction",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Facility Management",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Finances & Controlling",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Logistics",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Office Management & Administration",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Production",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Quality",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Legal",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 14,
+     "text": "Sales"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "The Sales division is responsible for the international marketing of our products and services. With over 320 sales locations, the team supports our industry, commercial, and trade customers from first contact to point of sale and beyond. In collaboration with Logistics, this division guides the production of specific customer orders."
+    },
+    {
+     "role": "heading",
+     "order": 16,
+     "text": "Service"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "To help our customers to continue to perform at their best, we offer not only the products most suitable for you, but also a comprehensive service package – from servicing and repairs to truck leasing, as well as offering training courses for operators. The Service division is responsible for planning, managing and realizing these offers."
+    },
+    {
+     "role": "heading",
+     "order": 18,
+     "text": "Marketing & Communication"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "The Marketing and Communication division is the mouthpiece of the company. Their sphere of responsibility encompasses not only press releases, websites, and media events, but also communication within the company. Together with Service and Sales, this division plans marketing initiatives in order to convey our enthusiasm for the company and its products to the outside world."
+    },
+    {
+     "role": "heading",
+     "order": 20,
+     "text": "Human Resources"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "Our success is founded on employees who fit Linde both professionally and personally. However, the duties of the HR division go much further than just recruitment and are quite varied: In their day-to-day work, our HR colleagues provide both the management and employees with personnel, development, and controlling support."
+    },
+    {
+     "role": "heading",
+     "order": 22,
+     "text": "Health, Safety & the Environment (HSE)"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "We put great stock in sustainable work and management. The HSE division ensures the required working, health and environmental conditions are adhered to. This allows Linde to guarantee sustainable logistics, efficient and safe products and solutions, as well as an employee-friendly working environment. HSE tasks include the preparation and dissemination of legal information and occupational health and safety guidelines. In addition, HSE is responsible for sustainability management at Linde, as we also want to lead the way in responsible company management. In order to realize this aim in our operational business, our HSE management work according to internationally recognized and reliable management systems."
+    },
+    {
+     "role": "heading",
+     "order": 24,
+     "text": "Procurement"
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "As a strategically important division, Procurement in the KION Group is organized centrally. It covers the procurement of the systems, components, and materials needed for the production of industrial trucks. In addition, this division sources all capital assets, materials, and services that are required to run the company."
+    },
+    {
+     "role": "heading",
+     "order": 26,
+     "text": "Development & Construction"
+    },
+    {
+     "role": "body",
+     "order": 27,
+     "text": "Behind every product there is a lot of blood, sweat and brainpower. From the first draft to the production line, industrial trucks are worked on as a team: In order to develop highly customer-oriented products as quickly as possible, Development and Construction in the KION Group are organized centrally. Employees in this strategically important division take on varied, exciting and forward-looking tasks – no matter which phase of product development they are working on."
+    },
+    {
+     "role": "heading",
+     "order": 28,
+     "text": "Facility Management"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "Facility Management is responsible for the condition of our existing and new buildings, as well as our building technology. Colleagues here devise and review strategies and processes for maintenance, continually developing and refining them further. Responsibility is a top priority here: Sites and buildings must comply with relevant work safety guidelines. Facility Management therefore develops preventative measures and ensures that they are implemented on a long-term basis."
+    },
+    {
+     "role": "heading",
+     "order": 30,
+     "text": "Finances & Controlling"
+    },
+    {
+     "role": "body",
+     "order": 31,
+     "text": "The Finance & Controlling division is responsible for budget planning, quarterly and yearly financial statements as well as general financial reporting. In addition, Controlling manages Linde’s cost-effectiveness, profitability, and liquidity. In order to guarantee effective management and control for the whole company, this division also provides advice and support to management."
+    },
+    {
+     "role": "heading",
+     "order": 32,
+     "text": "Logistics"
+    },
+    {
+     "role": "body",
+     "order": 33,
+     "text": "Logistics ensures that all materials get to the right place, at the right time, and in the right quantities. In order that plants can be consistently outfitted with equipment and customer deadlines can be met, the Logistics division works closely with and across the Sales, Procurement, and Production divisions, putting together precise production programs that are updated daily."
+    },
+    {
+     "role": "heading",
+     "order": 34,
+     "text": "Office Management & Administration"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "Regardless of whether they are booking flights or coordinating meetings, employees in this division make sure that all working processes function smoothly, and are therefore the backbone of the company. This ensures a steady eye is kept on productivity and efficiency."
+    },
+    {
+     "role": "heading",
+     "order": 36,
+     "text": "Production"
+    },
+    {
+     "role": "body",
+     "order": 37,
+     "text": "From ordering through to delivery: In the Production division, orders are planned and managed with regard to delivery time, delivery reliability, quality and cost, all with the customer’s individual requirements in mind. This requires intensive cooperation between all of the specialist departments involved in the production process. They face exciting challenges every day. Linde products are produced at nine sites worldwide; in Germany alone, more than 1100 staff produce around 180 trucks every day."
+    },
+    {
+     "role": "heading",
+     "order": 38,
+     "text": "Quality"
+    },
+    {
+     "role": "body",
+     "order": 39,
+     "text": "Fundamentally: We always maintain our focus on quality. Only by delivering the quality that we promise can we sustain high levels of customer satisfaction. The Quality division’s management defines our specific regulations and standards, supports other company divisions in their work, and checks whether these regulations and standards are being adhered to across the entire company. As a strategically important division, Quality in the KION Group is organized centrally."
+    },
+    {
+     "role": "heading",
+     "order": 40,
+     "text": "Legal"
+    },
+    {
+     "role": "body",
+     "order": 41,
+     "text": "In order to protect our success, our Legal Department supports the company with comprehensive legal advice. Linde’s legal interests are handled in collaboration with the central Legal Department of KION Group AG."
+    }
+   ],
+   "imgCount": 14,
+   "editableTexts": 29,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 14,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 13,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Application Process"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "How to Apply"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Found an interesting vacancy on our job board, or want to send us an open application? We are pleased that you would like to be part of the Linde team. To find out how to apply, please look up information on the application process for the country in which you would like to work. Specific requirements can be found in the appropriate listing."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "For open applications"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "If you don’t find any vacancy that interests you currently listed, you are welcome to submit an open application. We are always looking for new employees who want to help us drive the company forward. Regardless of which division or position you are interested in – please send your documents with a clear introduction to the contact person for the country in which you would like to work. We will look over your application as quickly as possible and contact you. We welcome initiative!"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Apply here",
+     "href": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Linde Mobility"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Working Abroad"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Networking isn't just about our trucks and solutions. Networking also plays an essential role among our employees worldwide since, as a global company, we work across borders and functional units and exchange knowledge across national boundaries. For example, specialist functions are temporarily filled by experienced employees until a local successor can be found and trained. We offer a variety of operational models, such as postings of at least one year to a foreign Linde corporation, business trips of up to three months, prolonged business trips of up to six months at most, or a long-term change of working location. Transnational virtual teams, working on projects together with the help of modern communication technology, are also a part of Linde Mobility."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Our Values"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "– We do what is right"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Integrity"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "– We change and innovate"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Courage"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "– We create outstanding customer value"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Excellence"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "– We trust each other"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Collaboration"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 8
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "As a global player in the premium segment, Linde Material Handling can also offer non-engineers challenging roles and extensive development opportunities."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Philipp Dressel, Trainer at Linde Sales Academy"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "I never had the feeling that something wasn't going to succeed. With Linde Material Handling and the local dealer in the background, I simply knew that I would have support at all times."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "His career path befits his temperament: As Head of Sales Steering in the LMH Middle East Sales Support division, Mark Reilly went to Saudi Arabia for nearly two years – and then to Dubai."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Contact"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Do you have general questions about a career at Linde Material Handling?"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Please get in touch using the form below. If you require more information about a particular position, please direct your query to the contact given in the relevant listing. We will get back to you as soon as we can."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "To the contact form",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "21",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Employee Portraits"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "22",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Project and Product Manager Linde Automation",
+     "href": "../../../en/About-us/Magazine/employee_portrait_harmance.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "“This role boasts a great deal of room for both professional and personal development.”"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/employee_portrait_harmance.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Head of Truck Assembly",
+     "href": "../../../en/About-us/Magazine/Employee-portrait-Head-of-truck-assembly.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "“Working at Linde means working with a highly motivated team, which fully identifies with the product as well as the company.”"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Employee-portrait-Head-of-truck-assembly.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Trainer at Linde Sales Academy",
+     "href": "../../../en/About-us/Magazine/Employee-Portrait-Trainer-Linde-Sales-Academy.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "\"As a global player in the premium segment, Linde also offers non-engineers challenging roles and extensive development opportunities.\""
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Employee-Portrait-Trainer-Linde-Sales-Academy.html"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Production Mechanic",
+     "href": "../../../en/About-us/Magazine/Employee-Portrait-Production-Mechanics-Truck-Assembly.html"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "\"Anyone looking for a stable environment and responsible employer has come to the right place at Linde.\""
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Employee-Portrait-Production-Mechanics-Truck-Assembly.html"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "FMEA Moderator",
+     "href": "../../../en/About-us/Magazine/Employee-Portrait-FMEA-Moderator-Quality.html"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "\"I help to ensure that our products and processes are continuously improved – an exciting and varied challenge.\""
+    },
+    {
+     "role": "cta",
+     "order": 14,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Employee-Portrait-FMEA-Moderator-Quality.html"
+    }
+   ],
+   "imgCount": 5,
+   "editableTexts": 10,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

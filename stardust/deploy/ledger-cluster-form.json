@@ -1,0 +1,65 @@
+{
+  "/en/forms/agility-on-point-form": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T03:06:36.183Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/forms/automation-campaign": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T03:06:36.184Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/forms/ex-proof-form": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T03:06:41.182Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/forms/gse-expo": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T03:06:41.827Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/forms/rent-a-truck": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T03:06:46.171Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/forms-gc/li-ion-recycling": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T03:06:46.306Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/forms-gc/next-champ-form": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T03:06:50.749Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

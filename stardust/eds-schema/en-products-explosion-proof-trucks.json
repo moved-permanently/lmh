@@ -1,0 +1,1095 @@
+{
+ "source": "http://localhost:8804/stardust/migrated/en/Products/Explosion-Proof-Trucks/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Explosion protection in intralogistics"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Safely through the hazardous area"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Contact our explosion protection experts",
+     "href": "https://www.linde-mh.com/en/Forms/Ex-Proof_Form/"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Certified Safety",
+     "href": "#2830081"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Industry Examples",
+     "href": "#2830085"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Safety Solutions",
+     "href": "#2830094"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Advantages at a Glance",
+     "href": "#2830101"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "FAQ",
+     "href": "#2830103"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 5,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "No matter whether you work in chemistry, pharmaceuticals, food, logistics or recycling, explosive mixtures of gases, vapors and dust are created in numerous industries. Industrial trucks that are used in these hazardous zones must guarantee comprehensive explosion protection. At the same time, they need to be just as efficient and ergonomic as in any other area of intralogistics."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Explosion protection from Linde Material Handling is geared towards precisely these requirements. Suitable explosion-proof versions are available for numerous counterbalanced trucks, reach trucks, pallet stackers and pallet trucks. They comply with EU regulations (EN 1755) and the ATEX Directive (2014/34/EU). Linde Material Handling can provide the right truck solution tailored to the relevant processes. This means that the material flow can be processed with a high handling capacity and level of ergonomics even in explosion-protected conditions."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The Right Protection for any Potential Hazard"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The extent to which there is a risk of explosion in a production area or warehouse depends on two factors: firstly, it is necessary to consider the amount of hazardous material that combines with oxygen to form a flammable compound. Secondly, there needs to be an ignition source, which in certain circumstances triggers an explosion due to sparks or hot surfaces. Due to their electrical and mechanical components, industrial trucks can become an ignition source, which is why special equipment is a mandatory requirement in environments where there is a risk of explosion."
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "Certified Safety"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Linde MH offers certified explosion-protected trucks for all environments where an explosive atmosphere may occur occasionally (Zone 1/21) or only for short periods (Zone 2/22). The specific requirements are stipulated in the ATEX Product Directive (derived from the French term “Atmosphères Explosibles”) depending on the zone type, the explosion group of gases and dusts and according to the temperature class. As an experienced explosion protection partner, Linde MH carries out all the necessary certifications and conducts extensive quality checks on the trucks. Alongside the individual assemblies, Linde MH also certifies the entire truck for Zone 1 and Zone 21."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Schedule a consultation now",
+     "href": "https://www.linde-mh.com/en/Forms/Ex-Proof_Form/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Explosion Protection from A to Z"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde MH offers explosion-protected versions for a large selection of its series trucks for various ATEX zones, specifically tailored to the requirements of different industries."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Explosion-Protected Solutions from Linde MH for Relevant Industries"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Chemistry, Pharmaceuticals and Cosmetics"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "In addition to warehouse and transport movements, in the production departments of the chemical and pharmaceutical industry, liquids and solid materials are decanted, mixed and refined. Linde MH provides the right trucks to meet the specific requirements of these process steps. For example, the drum cradle helps to decant a liquid such as isopropanol safely and precisely. Using a remote control, the operator can control the tipping process with an optimum view of the drum, for example from a bridge. The quantity is measured by an integrated scale."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Food and Drinks"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Explosive gas or dust mixtures can be generated in food and drinks production. For example, highly flammable vapors may form due to evaporation during distillation and storage in wooden barrels. When transporting barrels, there is the additional complicating factor of the driver having a restricted view. Fortunately, Linde MH offers comprehensive safety features for ATEX-compliant environments, ranging from the and red warning lines to and the assistance system, which automatically reduces speed in response to approaching trucks."
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Reverse Assist Camera",
+     "href": "../../../en/About-us/Innovations-from-Linde/Reverse-Assist-Camera/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Linde BlueSpot",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-BlueSpot.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Linde Safety Guard",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Guard.html"
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Logistics"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Hazardous substances are stored and transported throughout the entire production process: from the storage of raw materials, the transport for further processing right though to transport and storage of the finished products. These logistical processes take place in the production plants, but substances are increasingly also being stored in external warehouses by logistics service providers. In this area, a high turnaround is just as important as safety. In addition to electric forklift trucks, Linde MH offers reach trucks and very narrow aisle trucks for fast and efficient storage and retrieval in ATEX zones 2/22."
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Recycling and the Military"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Hazardous substances are decanted, drums are emptied and containers are transported during disposal and recycling. Linde MH’s E25 – E35 electric forklift trucks ensure safe and ergonomic handling in these applications. ATEX-certified attachments such as drum clamps help with the disposal process. Military uses of industrial trucks frequently involve the transport of explosive materials or the disposal of ammunition. Linde MH’s explosion-protected trucks provide a safe foundation for this sector."
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "It’s all about that certain EXtra",
+     "href": "../../../en/About-us/Magazine/Inver-GmbH/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Inver GmbH, part of Sherwin‑Williams (the world’s largest coatings manufacturer), relies fully on Linde Material Handling’s explosion‑protection expertise at its Dresden site. This expertise includes both factory‑certified ATEX trucks and the close support provided by specially trained explosion‑protection service professionals."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Inver-GmbH/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Complete Explosion Protection from a Single Source"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Linde MH believes that users should be able to get all products and services from a single source. This applies in particular for the knowledge-intensive area of explosion protection. Linde MH offers comprehensive explosion protection packages that meet all legal requirements. Even after delivery, Linde MH is on hand to assist with an extensive service network. Service technicians trained according to international explosion protection regulations ensure that the truck is ready for operation at all times. As with the provision of spare series parts, service partners worldwide also provide spare parts for explosion-proof trucks from a supply which is available 24/7."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Download our explosion protection poster here",
+     "href": "../../../media/Global-Content/01-Products/10_Explosion-Proof-Trucks_Explosionsgeschuetze-Fahrzeuge/lmh-fmst-poster-ex_proof-EN.pdf"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Series Level Explosion Protection"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde MH’s explosion-protected trucks combine the proven advantages of series-produced trucks with precisely tailored explosion protection measures. Electrical components such as the motor, control, sensors, switches or displays are protected using various ignition protection measures."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "The mechanics are also fully protected. Spark formation is consistently avoided on prongs, brakes and hydraulics. Plastic components, such as foot mats and tires, are protected against electrostatic charges. In addition, temperature monitoring ensures that the temperatures remain below the maximum limit even when the truck is fully loaded."
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "2"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "3"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "4"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Innovative Technologies with Explosion Protection"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Implementing new features and assistance systems on explosion-protected trucks is far from straightforward; instead, they need to be adapted to comply with the relevant standards and regulations. Thanks to the close collaboration between the Linde MH standard and explosion protection development teams, innovative assistance systems, safety features, and special equipment are made available for use in ATEX zones in the shortest possible time. This means that fleet operators are able to offer their drivers the same level of operating comfort and safety for standard and explosion-proof trucks. This uniform level of equipment helps to comprehensively avoid accidents."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Contact our explosion protection experts",
+     "href": "https://www.linde-mh.com/en/Forms/Ex-Proof_Form/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Examples of Safety Solutions in the ATEX Area"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Linde Reverse and Front Assist Camera",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Linde Safety Guard",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Linde BlueSpot",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Red Warning Lines",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "myLinde Fleet Management",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Pre-Operational Check on the Truck Display",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Ex-Monitoring App",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Linde Reverse and Front Assist Camera"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "The Linde Reverse Assist Camera uses artificial intelligence to reliably detect pedestrians and is fully integrated into the truck’s display. It gives the driver multi-stage visual and audible hazard warnings when reversing and can reduce the truck’s speed automatically if required. The system is available with all the standard benefits of the new generation of counterbalanced forklift trucks for ATEX zones 1/21 and 2/22, including a Front Assist Camera. It can also be combined with the Linde Safety Guard."
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "In addition to the Reverse Assist Camera, other camera systems are available for use in explosion-risk zones. For reach trucks, cameras on the mast, the overhead guard, or the forks assist the operator in limited visibility and enable precise load handling, for example."
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Reverse-Assist-Camera/index.html"
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "Linde Safety Guard"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "The assistance system detects hazards and automatically adjusts the speed of the trucks involved. A reduced speed can also be stipulated for a particular ATEX zone or an entire Zone 2/22 hall. The Safety Guard also allows for access restrictions for ATEX zones. Drivers of non-ATEX trucks are made aware of the ATEX area by a creep speed function and visual signals."
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Guard.html"
+    },
+    {
+     "role": "heading",
+     "order": 14,
+     "text": "Linde BlueSpot"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "The Linde BlueSpot is mounted on the truck roof in a pressure-resistant housing that is approved for all ATEX zones. The blue light spot projected onto the floor warns pedestrians and other forklift drivers when trucks are approaching."
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-BlueSpot.html"
+    },
+    {
+     "role": "heading",
+     "order": 17,
+     "text": "Red Warning Lines"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "Red warning lines projected onto the floor give pedestrians a clear visual signal to keep a sufficient distance from the forklift truck. The lights are available for ATEX zones 1/21 and 2/22."
+    },
+    {
+     "role": "heading",
+     "order": 19,
+     "text": "myLinde Fleet Management"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "The myLinde fleet management system enables reliable access control and in-depth utilization analysis, including in potentially explosive atmospheres. All hardware components required for myLinde are available as explosion-protected versions with pressure-resistant enclosures. These include the data transmission unit, the RFID scanner, the numeric access control keypad, and the shock sensor."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Find out more",
+     "href": "../../../en/Solutions/Fleet-Management/index.html"
+    },
+    {
+     "role": "heading",
+     "order": 22,
+     "text": "Pre-Operational Check on the Truck Display"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "The pre-operation check for electric counterbalanced forklifts allows you to inspect the truck’s condition directly on the explosion-protected display before starting a shift or workday. A separate terminal is no longer required. With up to 50 safety criteria, the scope of the inspection can be customized to meet specific operational requirements. The driver can only start the truck once the check has been successfully completed. If critical issues like truck damage are detected, fleet managers are automatically notified so they can immediately arrange for repairs and maintenance."
+    },
+    {
+     "role": "heading",
+     "order": 24,
+     "text": "Ex-Monitoring App"
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "High truck availability is particularly important in explosion-protection areas, as these trucks cannot be replaced with standard models. The Ex-Monitoring app helps prevent downtime as much as possible by providing comprehensive real-time condition and wear monitoring. Drivers receive targeted alerts in the event of malfunctions, and the system provides predictive maintenance alerts to help prevent downtime."
+    }
+   ],
+   "imgCount": 5,
+   "editableTexts": 16,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 7,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 1,
+      "textRuns": 4
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 6,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Staying Safe in the ATEX Zone: The Linde Safety Guard in Use"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Hazardous areas in one of our explosion-protected zones have been effectively mitigated using the new explosion-protected version of the Linde Safety Guard. Pedestrians are warned in advance by flashing lights when forklifts are operating in these hazardous areas. The forklift’s speed is reduced fully automatically and with pinpoint precision. Once the truck leaves the hazardous area, its speed automatically increases again. We are all very satisfied with the Linde Safety Guard"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Ralf Froitzheim, Asset Management, BASF Personal Care and Nutrition GmbH, Düsseldorf"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "21",
+   "items": [],
+   "imgCount": 1,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "22",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Simple and Precise Drum Handling"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Drum handling is one of the most common applications for explosion-proof pallet stackers. Linde Material Handling offers both a manual and a remote-control solution for the safe handling of drums. Both versions are available for ATEX zones 1/21 and 2/22."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "2"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "23",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Contact explosion protection experts",
+     "href": "https://www.linde-mh.com/en/Forms/Ex-Proof_Form/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "24",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Advantages at a Glance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "25",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Products"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Our explosion-protected trucks are equipped with ergonomic and safety features throughout. They comply with the ATEX Directive and are in no way inferior to the series models when it comes to handling power or cost-effectiveness."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Service"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "You can also rely on our strong service network when using the trucks in a potentially explosive atmosphere. Our service technicians are extremely well trained according to international explosion protection regulations."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Innovation"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "We always ensure that our leading technological assistance systems and innovations are also available with explosion protection. This means that there is an additional increase in safety and comfort during daily goods handling."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "26",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "FAQ—Frequently Asked Questions about Explosion-Protected Trucks"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "27",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Are there any explosion-protected camera systems available for industrial trucks?"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Yes, Linde Material Handling offers specially designed explosion-protected camera systems for use in potentially explosive atmospheres that are fully compatible with our explosion-protected forklifts. They play a key role in ensuring safety, for example when reversing in Zone 1/21, maneuvering in narrow aisles, or operating in hazardous materials storage areas. The cameras significantly improve the driver’s view and thus reduce the risk of accidents, particularly in areas with limited visibility. There are solutions available for both forward and reverse travel, as well as cameras that provide a better view when storing materials. The entire product range is also available for use in Zone 2/22."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Are there explosion-protected electric forklift trucks available?"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Yes, Linde Material Handling offers a wide range of specially designed electric forklift trucks for use in potentially explosive atmospheres. These trucks are designed for ATEX zones 1/21 and 2/22 and combine the advantages of zero-emission power units with comprehensive explosion protection. Explosion-protected electric forklift trucks are most commonly used in the chemical, food, and beverage industries. They are also suitable for applications in the recycling and military sectors."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Are there ATEX-certified reach trucks available?"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Yes, Linde Material Handling offers ATEX-certified reach trucks for logistics areas with a risk of explosion. The product range includes models for all relevant zones, from typical warehouse operations in Zone 2/22 to short-distance transport from production to the warehouse in Zone 1/21. This enables goods to be stored and retrieved quickly and efficiently, even under demanding safety conditions. The reach trucks are equipped with safety measures in accordance with the ATEX directive, combining high safety standards with impressive performance."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Are there pallet trucks available in an ATEX-compliant version?"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Linde Material Handling’s product range includes a variety of explosion-protected pallet trucks for use in potentially explosive atmospheres. They range from manual to electric models, including pallet trucks (both walk-behind and platform models), pallet stackers, and special pallet stackers designed for picking up and tipping drums. This means that there is a suitable truck for every requirement, whether in the chemical and pharmaceutical sectors or in the paint and coatings industry. All models meet the highest safety standards and ensure reliable operation in ATEX environments."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "28",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "No matter whether you already have experience of your hazardous zones and the requirements, or whether you are still on the look-out for suitable solutions and the right advice. We’re happy to help you on the path to greater safety."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Contact our explosion protection experts now",
+     "href": "https://www.linde-mh.com/en/Forms/Ex-Proof_Form/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "29",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "L-MATIC HD k",
+     "href": "../../../en/Products/Automated-Trucks/L-MATIC-HD-k/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "The automated L-MATIC HD k pallet stacker from Linde MH ensures a smooth material flow in the wide aisle warehouse."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/Products/Automated-Trucks/L-MATIC-HD-k/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Safely to the Top",
+     "href": "../../../en/Landingpage/Safely-to-the-top/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Linde Material Handling optimizes safety when working at height by providing intelligent assistance systems."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/Landingpage/Safely-to-the-top/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "T14 B",
+     "href": "../../../en/Products/Pallet-Trucks/T14-B/index.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "The compact T14 B pallet truck from Linde particularly impresses as a reliable electric assistant for precise and convenient indoor handling."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/Products/Pallet-Trucks/T14-B/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "L-MATIC core",
+     "href": "../../../en/Products/Automated-Trucks/L-MATIC-core/index.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Compact, safe, and fast commissioning: the automated L-MATIC core pallet stacker from Linde is the perfect entry point into warehouse automation."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/Products/Automated-Trucks/L-MATIC-core/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "ML10 / MM10 / MM10i",
+     "href": "../../../en/Products/Pallet-Stackers/ML10-MM10/index.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "The ML10, MM10, and MM10i pallet stackers from Linde Material Handling can be used flexibly for stacking, picking, and transporting."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/Products/Pallet-Stackers/ML10-MM10/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "D08 M",
+     "href": "../../../en/Products/Pallet-Stackers/D08-M/index.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "The D08 M pedestrian double stacker from Linde ensures convenient handling in supermarkets, warehouses and on the last mile."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/Products/Pallet-Stackers/D08-M/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "D06 – D10",
+     "href": "../../../en/Products/Pallet-Stackers/D06-D10/index.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "The D06 – D10 pedestrian double pallet stackers from Linde Material Handling are ideal for use in busy, confined areas."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/Products/Pallet-Stackers/D06-D10/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "T16 L",
+     "href": "../../../en/Products/Pallet-Trucks/T16-L/index.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "The T16 L pallet truck from Linde Material Handling can be used flexibly for short transports, loading and unloading, and order picking."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../../en/Products/Pallet-Trucks/T16-L/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "Automotive supplier SMP controls its vehicle fleet with Linde connect",
+     "href": "../../../en/About-us/Magazine/smp-fleetmanagement.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "The Linde connect fleet management system makes a decisive contribution to order and safety in the warehouse. Linde Material Handling has equipped the entire SMP fleet with this intelligent solution."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/smp-fleetmanagement.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "New Intralogistics Concept for Better Processes",
+     "href": "../../../en/About-us/Magazine/New-intralogistics-concept-for-better-processes.html"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "Exact material flow processes for a highly standardized forklift truck and warehouse truck fleet: Sika Deutschland GmbH achieves this with an overall logistics concept which, despite customer-specific solutions, relies on standardization, focuses on a forklift brand, and leases equipment on the basis of full-service leases."
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/New-intralogistics-concept-for-better-processes.html"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "L10 – L16 B",
+     "href": "../../../en/Products/Pallet-Stackers/L10-L16-B/index.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "The L10 – L16 B pallet stacker from Linde Material Handling is a versatile all-rounder for efficient handling in warehouses and production."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/Products/Pallet-Stackers/L10-L16-B/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "Analyzed Efficiently",
+     "href": "../../../en/About-us/Magazine/Grass.html"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "For years, the hinge specialists at Reinheim-based Grass GmbH have been carrying out their warehouse and production logistics tasks using a forklift truck fleet that has grown gradually over time. Using a fleet optimization analysis, experts from Linde Material Handling identified an incredible amount of potential within this established structure. They standardized and reduced the fleet and, in the process, made it much more powerful, cost-efficient, and energy-saving."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Grass.html"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1819 @@
+{
+ "source": "http://localhost:8801/stardust/migrated/en/Legal-Notes/Cookie-Policy/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "This website uses cookies and similar functions to process end device information and personal data. The processing serves the integration of content, external services and elements of third parties, statistical analysis/measurement, personalized advertising and the integration of social media. Depending on the function, data may be passed on to third parties in the process and to third parties in countries where there is no adequate level of data protection and is processed by them, e.g. the USA. Your consent is always voluntary, not required for the use of our website and can be rejected or revoked at any time on our site."
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "Technically neccessary"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Cookie Consent Manager CCM19"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Papoo Software & Media GmbH"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Vendor"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Used to save the cookie consent - which cookies may be set. The status of the cookie settings can be set for you. The data is stored in categories."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Link to privacy policy"
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "https://www.ccm19.de/datenschutzerklaerung.html",
+     "href": "https://www.ccm19.de/datenschutzerklaerung.html"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Local Storage:"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Name"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Lifetime"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "ccm_consent"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "Used to store the cookie consent agreement, which specifies which cookies can be set."
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "EU: § 25 (2.2) TDDDG, Art. 6 para. 1 s. 1 lit. c GDPR Switzerland: Art. 17 sentence 1 b.2) DSG"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Legal basis"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "Bonn & Falkenstein, Germany"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Place of processing"
+    },
+    {
+     "role": "heading",
+     "order": 20,
+     "text": "Akamai"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "Akamai Technologies GmbH"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "Vendor"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "It is a cloud infrastructure and content delivery service provider that distributes, accelerates and secures online applications."
+    },
+    {
+     "role": "body",
+     "order": 24,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "Link to privacy policy"
+    },
+    {
+     "role": "cta",
+     "order": 26,
+     "text": "https://www.akamai.com/us/en/multimedia/documents/akamai/akamai-privacy-statement.pdf",
+     "href": "https://www.akamai.com/us/en/multimedia/documents/akamai/akamai-privacy-statement.pdf"
+    },
+    {
+     "role": "body",
+     "order": 27,
+     "text": "Browser information; Date and time of the visit; IP address; Device drive system; Device information; Geographical location; Visited pages; Mouse movements; Visited URL"
+    },
+    {
+     "role": "body",
+     "order": 28,
+     "text": "What data will be collected?"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "Analysis; Cloud computing; Observation"
+    },
+    {
+     "role": "body",
+     "order": 30,
+     "text": "Purpose of data collection"
+    },
+    {
+     "role": "body",
+     "order": 31,
+     "text": "Cookies:"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "Name"
+    },
+    {
+     "role": "body",
+     "order": 33,
+     "text": "Lifetime"
+    },
+    {
+     "role": "body",
+     "order": 34,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "AKA_A2"
+    },
+    {
+     "role": "body",
+     "order": 36,
+     "text": "3600"
+    },
+    {
+     "role": "body",
+     "order": 37,
+     "text": "It is used to speed up the delivery of content on a website using the adaptive acceleration feature."
+    },
+    {
+     "role": "body",
+     "order": 38,
+     "text": "EU: Art. 6 (1) f) GDPR"
+    },
+    {
+     "role": "body",
+     "order": 39,
+     "text": "Legal basis"
+    },
+    {
+     "role": "body",
+     "order": 40,
+     "text": "European Union"
+    },
+    {
+     "role": "body",
+     "order": 41,
+     "text": "Place of processing"
+    },
+    {
+     "role": "heading",
+     "order": 42,
+     "text": "Analytics & Marketing"
+    },
+    {
+     "role": "heading",
+     "order": 43,
+     "text": "Microsoft Clarity"
+    },
+    {
+     "role": "body",
+     "order": 44,
+     "text": "Microsoft Ireland Operations Limited"
+    },
+    {
+     "role": "body",
+     "order": 45,
+     "text": "Vendor"
+    },
+    {
+     "role": "body",
+     "order": 46,
+     "text": "Clarity is a tool for tracking real users who actually use your website. Features such as heatmaps, session monitoring and connections to third-party providers such as Google Analytics are available.Microsoft collects data about you through our interactions with you and our products. You provide some of this information directly, and we obtain this information by collecting information about your activities, usage and experience with our products. The information we collect depends on the context in which you interact with Microsoft and your preferences, including privacy settings and the products and features you use. We also receive information about you from third parties."
+    },
+    {
+     "role": "body",
+     "order": 47,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 48,
+     "text": "Link to privacy policy"
+    },
+    {
+     "role": "cta",
+     "order": 49,
+     "text": "https://docs.microsoft.com/en/clarity/faq#privacy",
+     "href": "https://docs.microsoft.com/en/clarity/faq#privacy"
+    },
+    {
+     "role": "body",
+     "order": 50,
+     "text": "Browser information; Referrer URL; Mouse movements; Information about the operating system; User behavior; Clicks; Country; Clicked links"
+    },
+    {
+     "role": "body",
+     "order": 51,
+     "text": "What data will be collected?"
+    },
+    {
+     "role": "body",
+     "order": 52,
+     "text": "Advertising; Cloud computing; Accept tracking; Demand-driven design of digital offerings and product development; Customer behavior analysis; Measure ad performance"
+    },
+    {
+     "role": "body",
+     "order": 53,
+     "text": "Purpose of data collection"
+    },
+    {
+     "role": "body",
+     "order": 54,
+     "text": "Cookies:"
+    },
+    {
+     "role": "body",
+     "order": 55,
+     "text": "Name"
+    },
+    {
+     "role": "body",
+     "order": 56,
+     "text": "Lifetime"
+    },
+    {
+     "role": "body",
+     "order": 57,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 58,
+     "text": "_clck"
+    },
+    {
+     "role": "body",
+     "order": 59,
+     "text": "Session"
+    },
+    {
+     "role": "body",
+     "order": 60,
+     "text": "This cookie is set by Microsoft Clarity. Cookies are used to store information about how visitors use the website and to create analysis reports on the state of the website. Collected data, including the number of visitors, their origin and the pages visited in anonymized form."
+    },
+    {
+     "role": "body",
+     "order": 61,
+     "text": "CLID"
+    },
+    {
+     "role": "body",
+     "order": 62,
+     "text": "Session"
+    },
+    {
+     "role": "body",
+     "order": 63,
+     "text": "Microsoft deletes cookies. Collect information about how visitors use the website for analysis and reporting purposes."
+    },
+    {
+     "role": "body",
+     "order": 64,
+     "text": "_clsk"
+    },
+    {
+     "role": "body",
+     "order": 65,
+     "text": "Session"
+    },
+    {
+     "role": "body",
+     "order": 66,
+     "text": "Microsoft deletes cookies. Collect information about how visitors use the website for analysis and reporting purposes."
+    },
+    {
+     "role": "body",
+     "order": 67,
+     "text": "SM"
+    },
+    {
+     "role": "body",
+     "order": 68,
+     "text": "Session"
+    },
+    {
+     "role": "body",
+     "order": 69,
+     "text": "This is a first-party cookie from Microsoft that ensures the proper functioning of the website."
+    },
+    {
+     "role": "body",
+     "order": 70,
+     "text": "ANONCHK"
+    },
+    {
+     "role": "body",
+     "order": 71,
+     "text": "Session"
+    },
+    {
+     "role": "body",
+     "order": 72,
+     "text": "Specifies whether the MUID should be transferred to the ANID cookie used for advertising. Clarity does not use ANID, so this value is always set to 0."
+    },
+    {
+     "role": "body",
+     "order": 73,
+     "text": "MR"
+    },
+    {
+     "role": "body",
+     "order": 74,
+     "text": "MUID"
+    },
+    {
+     "role": "body",
+     "order": 75,
+     "text": "Session"
+    },
+    {
+     "role": "body",
+     "order": 76,
+     "text": "Identify the unique web browser accessing Microsoft websites. These cookies are used for advertising, website analytics and other operational purposes."
+    },
+    {
+     "role": "body",
+     "order": 77,
+     "text": "forms_visit_count"
+    },
+    {
+     "role": "body",
+     "order": 78,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 79,
+     "text": "This cookie is set by Microsoft Clarity to store information about how visitors use the website and to create analysis reports on the performance of the website. The data collected includes the number of visitors, their origin and the pages visited in anonymized form."
+    },
+    {
+     "role": "body",
+     "order": 80,
+     "text": "forms_previous_session_id"
+    },
+    {
+     "role": "body",
+     "order": 81,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 82,
+     "text": "This cookie is set by Microsoft Clarity to store information about how visitors use the website and to create analysis reports on the performance of the website. The data collected includes the number of visitors, their origin and the pages visited in anonymized form."
+    },
+    {
+     "role": "body",
+     "order": 83,
+     "text": "EU: Art. 6 para. 1 s. 1 lit. a GDPR Switzerland: Art. 45c (b) TCA, Art. 17 sentence 1 a) DSG"
+    },
+    {
+     "role": "body",
+     "order": 84,
+     "text": "Legal basis"
+    },
+    {
+     "role": "body",
+     "order": 85,
+     "text": "United States of America"
+    },
+    {
+     "role": "body",
+     "order": 86,
+     "text": "Place of processing"
+    },
+    {
+     "role": "heading",
+     "order": 87,
+     "text": "LinkedIn"
+    },
+    {
+     "role": "body",
+     "order": 88,
+     "text": "LinkedIn"
+    },
+    {
+     "role": "body",
+     "order": 89,
+     "text": "Vendor"
+    },
+    {
+     "role": "body",
+     "order": 90,
+     "text": "These cookies are set by LinkedIn for advertising purposes, such as tracking visitors to display more relevant ads, allowing users to use the \"Apply to LinkedIn\" or \"Join LinkedIn\" features, collecting information about how visitors use the site, etc."
+    },
+    {
+     "role": "body",
+     "order": 91,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 92,
+     "text": "Link to privacy policy"
+    },
+    {
+     "role": "cta",
+     "order": 93,
+     "text": "https://www.linkedin.com/legal/privacy-policy",
+     "href": "https://www.linkedin.com/legal/privacy-policy"
+    },
+    {
+     "role": "body",
+     "order": 94,
+     "text": "The provider does not provide any data on this point."
+    },
+    {
+     "role": "body",
+     "order": 95,
+     "text": "What data will be collected?"
+    },
+    {
+     "role": "body",
+     "order": 96,
+     "text": "These cookies will be used in conjunction with LinkedIn."
+    },
+    {
+     "role": "body",
+     "order": 97,
+     "text": "Purpose of data collection"
+    },
+    {
+     "role": "body",
+     "order": 98,
+     "text": "Cookies:"
+    },
+    {
+     "role": "body",
+     "order": 99,
+     "text": "Name"
+    },
+    {
+     "role": "body",
+     "order": 100,
+     "text": "Lifetime"
+    },
+    {
+     "role": "body",
+     "order": 101,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 102,
+     "text": "bscookie"
+    },
+    {
+     "role": "body",
+     "order": 103,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 104,
+     "text": "This cookie allows users to share posts on their own website. In addition, these cookies show how many people have clicked on LinkedIn and the ad results."
+    },
+    {
+     "role": "body",
+     "order": 105,
+     "text": "lissc"
+    },
+    {
+     "role": "body",
+     "order": 106,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 107,
+     "text": "Used by the social networking service LinkedIn to track the use of its integrated services."
+    },
+    {
+     "role": "body",
+     "order": 108,
+     "text": "lang"
+    },
+    {
+     "role": "body",
+     "order": 109,
+     "text": "Session"
+    },
+    {
+     "role": "body",
+     "order": 110,
+     "text": "This cookie is used to set default locale/language settings."
+    },
+    {
+     "role": "body",
+     "order": 111,
+     "text": "UserMatchHistory"
+    },
+    {
+     "role": "body",
+     "order": 112,
+     "text": "Session"
+    },
+    {
+     "role": "body",
+     "order": 113,
+     "text": "These cookies are set by LinkedIn for advertising purposes, such as tracking visitors to display more relevant ads, allowing users to use the \"Apply to LinkedIn\" or \"Join LinkedIn\" features, collecting information about how visitors use the site, etc."
+    },
+    {
+     "role": "body",
+     "order": 114,
+     "text": "lidc"
+    },
+    {
+     "role": "body",
+     "order": 115,
+     "text": "1 day"
+    },
+    {
+     "role": "body",
+     "order": 116,
+     "text": "Used by the social networking service LinkedIn to track the use of its integrated services."
+    },
+    {
+     "role": "body",
+     "order": 117,
+     "text": "bcookie"
+    },
+    {
+     "role": "body",
+     "order": 118,
+     "text": "2 years"
+    },
+    {
+     "role": "body",
+     "order": 119,
+     "text": "Browser ID cookies are used to uniquely identify the device accessing LinkedIn in order to detect abuse on the platform."
+    },
+    {
+     "role": "body",
+     "order": 120,
+     "text": "AnalyticsSyncHistory"
+    },
+    {
+     "role": "body",
+     "order": 121,
+     "text": "30 days"
+    },
+    {
+     "role": "body",
+     "order": 122,
+     "text": "Used to store information about when synchronization with the lms_analytics cookie took place for users in specific countries"
+    },
+    {
+     "role": "body",
+     "order": 123,
+     "text": "li_gc"
+    },
+    {
+     "role": "body",
+     "order": 124,
+     "text": "24 months"
+    },
+    {
+     "role": "body",
+     "order": 125,
+     "text": "This cookie is used to store the customer's consent to the use of non-essential cookies."
+    },
+    {
+     "role": "body",
+     "order": 126,
+     "text": "trkCode"
+    },
+    {
+     "role": "body",
+     "order": 127,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 128,
+     "text": "LinkedIn uses this cookie to support the functionality of the \"Follow us\" invitation box."
+    },
+    {
+     "role": "body",
+     "order": 129,
+     "text": "trkInfo"
+    },
+    {
+     "role": "body",
+     "order": 130,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 131,
+     "text": "LinkedIn uses this cookie to support the functionality of the \"Follow us\" invitation box."
+    },
+    {
+     "role": "body",
+     "order": 132,
+     "text": "li_oatml"
+    },
+    {
+     "role": "body",
+     "order": 133,
+     "text": "30 days"
+    },
+    {
+     "role": "body",
+     "order": 134,
+     "text": "Collect information about how visitors use our website."
+    },
+    {
+     "role": "body",
+     "order": 135,
+     "text": "liap"
+    },
+    {
+     "role": "body",
+     "order": 136,
+     "text": "90 days"
+    },
+    {
+     "role": "body",
+     "order": 137,
+     "text": "Cookies used to connect to LinkedIn and/or enable the LinkedIn Follow function."
+    },
+    {
+     "role": "body",
+     "order": 138,
+     "text": "spectroscopyId"
+    },
+    {
+     "role": "body",
+     "order": 139,
+     "text": "Session"
+    },
+    {
+     "role": "body",
+     "order": 140,
+     "text": "These cookies are set by LinkedIn for advertising purposes, such as tracking visitors to display more relevant ads, allowing users to use the \"Apply to LinkedIn\" or \"Join LinkedIn\" features, collecting information about how visitors use the site, etc."
+    },
+    {
+     "role": "body",
+     "order": 141,
+     "text": "li_rm"
+    },
+    {
+     "role": "body",
+     "order": 142,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 143,
+     "text": "Used as part of LinkedIn's Sign In feature and set when a user clicks \"Save Sign In\" on a device to help them sign in on that device"
+    },
+    {
+     "role": "body",
+     "order": 144,
+     "text": "fcookie"
+    },
+    {
+     "role": "body",
+     "order": 145,
+     "text": "n.a."
+    },
+    {
+     "role": "body",
+     "order": 146,
+     "text": "This cookie determines whether the user is a human or a robot."
+    },
+    {
+     "role": "body",
+     "order": 147,
+     "text": "li_sugr"
+    },
+    {
+     "role": "body",
+     "order": 148,
+     "text": "n.a."
+    },
+    {
+     "role": "body",
+     "order": 149,
+     "text": "Used by LinkedIn Insight tags as a browser identifier."
+    },
+    {
+     "role": "body",
+     "order": 150,
+     "text": "rtc"
+    },
+    {
+     "role": "body",
+     "order": 151,
+     "text": "n.a."
+    },
+    {
+     "role": "body",
+     "order": 152,
+     "text": "This cookie is used to prevent abuse on LinkedIn."
+    },
+    {
+     "role": "body",
+     "order": 153,
+     "text": "Legal basis"
+    },
+    {
+     "role": "body",
+     "order": 154,
+     "text": "Vereinigte Staaten von Amerika - USA"
+    },
+    {
+     "role": "body",
+     "order": 155,
+     "text": "Place of processing"
+    },
+    {
+     "role": "heading",
+     "order": 156,
+     "text": "Google Tag Manager"
+    },
+    {
+     "role": "body",
+     "order": 157,
+     "text": "Google Ireland Limited"
+    },
+    {
+     "role": "body",
+     "order": 158,
+     "text": "Vendor"
+    },
+    {
+     "role": "body",
+     "order": 159,
+     "text": "It is a tag management system. Using Google Tag Manager, tags can be included centrally via the user interface. Tags are small pieces of code that can track activities. Script code for other tools is included via Google Tag Manager. The Tag Manager can control when certain tags are activated."
+    },
+    {
+     "role": "body",
+     "order": 160,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 161,
+     "text": "Link to privacy policy"
+    },
+    {
+     "role": "cta",
+     "order": 162,
+     "text": "https://policies.google.com/privacy?hl=en",
+     "href": "https://policies.google.com/privacy?hl=en"
+    },
+    {
+     "role": "body",
+     "order": 163,
+     "text": "Aggregated tag triggering data; Aggregated data to trigger tags; No data collected"
+    },
+    {
+     "role": "body",
+     "order": 164,
+     "text": "What data will be collected?"
+    },
+    {
+     "role": "body",
+     "order": 165,
+     "text": "Tag management; Functionality; Generate leads; Website tags management; Manage website tags; Mains analysis; Manage tags and scripts on this website; Ensuring a comfortable use of our website"
+    },
+    {
+     "role": "body",
+     "order": 166,
+     "text": "Purpose of data collection"
+    },
+    {
+     "role": "body",
+     "order": 167,
+     "text": "Cookies:"
+    },
+    {
+     "role": "body",
+     "order": 168,
+     "text": "Name"
+    },
+    {
+     "role": "body",
+     "order": 169,
+     "text": "Lifetime"
+    },
+    {
+     "role": "body",
+     "order": 170,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 171,
+     "text": "cookiePreferences"
+    },
+    {
+     "role": "body",
+     "order": 172,
+     "text": "2 years"
+    },
+    {
+     "role": "body",
+     "order": 173,
+     "text": "Cookie settings for registered users"
+    },
+    {
+     "role": "body",
+     "order": 174,
+     "text": "mat_ep"
+    },
+    {
+     "role": "body",
+     "order": 175,
+     "text": "n.a."
+    },
+    {
+     "role": "body",
+     "order": 176,
+     "text": "Collect cross-page visitor data - this data is used to increase advertising relevance."
+    },
+    {
+     "role": "body",
+     "order": 177,
+     "text": "_dc_gtm_UA-.*"
+    },
+    {
+     "role": "body",
+     "order": 178,
+     "text": "n.a."
+    },
+    {
+     "role": "body",
+     "order": 179,
+     "text": "Used by Google Tag Manager to control the loading of Google Analytics script code."
+    },
+    {
+     "role": "body",
+     "order": 180,
+     "text": "_gcl_au"
+    },
+    {
+     "role": "body",
+     "order": 181,
+     "text": "4 months"
+    },
+    {
+     "role": "body",
+     "order": 182,
+     "text": "Google Tag Manager uses cookies to track and store conversions."
+    },
+    {
+     "role": "body",
+     "order": 183,
+     "text": "_dc_gtm_UA-*"
+    },
+    {
+     "role": "body",
+     "order": 184,
+     "text": "Session"
+    },
+    {
+     "role": "body",
+     "order": 185,
+     "text": "Used by Google Tag Manager to control the loading of Google Analytics script code."
+    },
+    {
+     "role": "body",
+     "order": 186,
+     "text": "Legal basis"
+    },
+    {
+     "role": "body",
+     "order": 187,
+     "text": "Europäische Union"
+    },
+    {
+     "role": "body",
+     "order": 188,
+     "text": "Place of processing"
+    },
+    {
+     "role": "heading",
+     "order": 189,
+     "text": "Google Analytics 4"
+    },
+    {
+     "role": "body",
+     "order": 190,
+     "text": "Google Ireland Limited"
+    },
+    {
+     "role": "body",
+     "order": 191,
+     "text": "Vendor"
+    },
+    {
+     "role": "body",
+     "order": 192,
+     "text": "Collect statistics about website usage. (distance measurement)Browser information (browser type, referring/exit pages, files viewed on our website, operating system, timestamp and/or clickstream data) Usage data (views, clicks) IP address (we have enabled IP anonymization (therefore - IP masking) (your IP address so that your IP address is shortened by Google in the EU and EEA before transmission, so that no other conclusions about the person are possible. Only this anonymized IP address is transmitted to Google)."
+    },
+    {
+     "role": "body",
+     "order": 193,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 194,
+     "text": "Link to privacy policy"
+    },
+    {
+     "role": "cta",
+     "order": 195,
+     "text": "https://policies.google.com/privacy?hl=en",
+     "href": "https://policies.google.com/privacy?hl=en"
+    },
+    {
+     "role": "body",
+     "order": 196,
+     "text": "Browser information; Click path; Click path; Date and time of the visit; Location information; Internet service provider; Device information; Referrer URL; Screen resolution; Mouse movements; Anonymized IP address; Visit duration; Account data; Bounce rates; Downloads; Behavioral data; App updates"
+    },
+    {
+     "role": "body",
+     "order": 197,
+     "text": "What data will be collected?"
+    },
+    {
+     "role": "body",
+     "order": 198,
+     "text": "Analysis; Marketing"
+    },
+    {
+     "role": "body",
+     "order": 199,
+     "text": "Purpose of data collection"
+    },
+    {
+     "role": "body",
+     "order": 200,
+     "text": "Cookies:"
+    },
+    {
+     "role": "body",
+     "order": 201,
+     "text": "Name"
+    },
+    {
+     "role": "body",
+     "order": 202,
+     "text": "Lifetime"
+    },
+    {
+     "role": "body",
+     "order": 203,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 204,
+     "text": "_ga"
+    },
+    {
+     "role": "body",
+     "order": 205,
+     "text": "24 months"
+    },
+    {
+     "role": "body",
+     "order": 206,
+     "text": "Collect statistics about the use of the website. (Distance measurement)"
+    },
+    {
+     "role": "body",
+     "order": 207,
+     "text": "_gid"
+    },
+    {
+     "role": "body",
+     "order": 208,
+     "text": "24 hours"
+    },
+    {
+     "role": "body",
+     "order": 209,
+     "text": "This cookie is used to collect website usage statistics."
+    },
+    {
+     "role": "body",
+     "order": 210,
+     "text": "_gac_gb_*"
+    },
+    {
+     "role": "body",
+     "order": 211,
+     "text": "90 days"
+    },
+    {
+     "role": "body",
+     "order": 212,
+     "text": "Contains information about the event. If you have linked your Google Analytics account to your Google Ads account, the Conversions tab on the Google Ads website reads this cookie unless you disable this feature."
+    },
+    {
+     "role": "body",
+     "order": 213,
+     "text": "_ga_*"
+    },
+    {
+     "role": "body",
+     "order": 214,
+     "text": "2 years"
+    },
+    {
+     "role": "body",
+     "order": 215,
+     "text": "Used to retrieve the session status."
+    },
+    {
+     "role": "body",
+     "order": 216,
+     "text": "Legal basis"
+    },
+    {
+     "role": "body",
+     "order": 217,
+     "text": "Europäische Union"
+    },
+    {
+     "role": "body",
+     "order": 218,
+     "text": "Place of processing"
+    },
+    {
+     "role": "heading",
+     "order": 219,
+     "text": "Facebook Pixel"
+    },
+    {
+     "role": "body",
+     "order": 220,
+     "text": "Meta Platforms Ireland Ltd."
+    },
+    {
+     "role": "body",
+     "order": 221,
+     "text": "Vendor"
+    },
+    {
+     "role": "body",
+     "order": 222,
+     "text": "This is a tracking technology provided by Facebook and used by other Facebook services. It is used to track visitors' interactions with the website (\"events\") after they have clicked on advertisements offered on Facebook or other services provided by Meta (\"conversions\")."
+    },
+    {
+     "role": "body",
+     "order": 223,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 224,
+     "text": "Link to privacy policy"
+    },
+    {
+     "role": "cta",
+     "order": 225,
+     "text": "https://www.facebook.com/privacy/explanation",
+     "href": "https://www.facebook.com/privacy/explanation"
+    },
+    {
+     "role": "body",
+     "order": 226,
+     "text": "Browser information; Location information; IP address; Usage data; Device drive system; Device information; Referrer URL; Browser type; User Agent; Geographical location; Facebook User ID; HTTP header; Visited pages; Interactions with advertising, services and products; User behavior; Viewed advertisements; Respected content; Clicked elements; Marketing information; Pixel ID; Facebook cookie information; Usage/click behavior; Device ID; Non-confidential custom data; Marketing campaign success; IP address; Location information; Device information; Facebook User ID; Non-sensitive custom data; Pixel specific data; User behavior; Displays viewed; Interactions with advertising, services and products; Marketing Information; Content viewed; Browser information; Conversion targets; Visitor ID; Facebook User ID; Pixel specific data; Browser information; Location information; Device Information"
+    },
+    {
+     "role": "body",
+     "order": 227,
+     "text": "What data will be collected?"
+    },
+    {
+     "role": "body",
+     "order": 228,
+     "text": "Advertising; Analysis; Provision of fonts; Service improvement; Marketing; Personalization; Tag management; Payment; Payment; Cloud computing; Bot protection; Functionality; Retargeting; Website Security; Conversion tracking; Recommendations; Buyer protection; Feedback; Tracking; Geolocation; Accept tracking; Customer behavior analysis; Analytics; Track; Search results; Success measurement; Access measurement; Reach measurement; Manage tags and scripts on this website; Research; Site identification; Lead generation; Customer rating management; Website monitoring; Provision of online chats; Tracking ID; Facilitate payments; Improve service; Provide a market for labeled data; Trend analyses; Show advertising; Application processing; Provision of software solutions; Digital advertising; Product news; Company news; Sponsoring news; Website design; Creation of target group specific advertising graphics"
+    },
+    {
+     "role": "body",
+     "order": 229,
+     "text": "Purpose of data collection"
+    },
+    {
+     "role": "body",
+     "order": 230,
+     "text": "Cookies:"
+    },
+    {
+     "role": "body",
+     "order": 231,
+     "text": "Name"
+    },
+    {
+     "role": "body",
+     "order": 232,
+     "text": "Lifetime"
+    },
+    {
+     "role": "body",
+     "order": 233,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 234,
+     "text": "act"
+    },
+    {
+     "role": "body",
+     "order": 235,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 236,
+     "text": "Facebook cookies for website analytics, ad targeting and measurement."
+    },
+    {
+     "role": "body",
+     "order": 237,
+     "text": "_fbp"
+    },
+    {
+     "role": "body",
+     "order": 238,
+     "text": "3 months"
+    },
+    {
+     "role": "body",
+     "order": 239,
+     "text": "Facebook cookies are used for website analysis, targeting and ad measurement."
+    },
+    {
+     "role": "body",
+     "order": 240,
+     "text": "c_user"
+    },
+    {
+     "role": "body",
+     "order": 241,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 242,
+     "text": "Facebook cookies for website analytics, ad targeting and measurement."
+    },
+    {
+     "role": "body",
+     "order": 243,
+     "text": "datr"
+    },
+    {
+     "role": "body",
+     "order": 244,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 245,
+     "text": "Facebook cookies for website analytics, ad targeting and measurement."
+    },
+    {
+     "role": "body",
+     "order": 246,
+     "text": "fr"
+    },
+    {
+     "role": "body",
+     "order": 247,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 248,
+     "text": "Facebook cookies for website analytics, ad targeting and measurement."
+    },
+    {
+     "role": "body",
+     "order": 249,
+     "text": "m_pixel_ration"
+    },
+    {
+     "role": "body",
+     "order": 250,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 251,
+     "text": "Facebook cookies for website analytics, ad targeting and measurement."
+    },
+    {
+     "role": "body",
+     "order": 252,
+     "text": "pl"
+    },
+    {
+     "role": "body",
+     "order": 253,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 254,
+     "text": "Facebook cookies for website analytics, ad targeting and measurement."
+    },
+    {
+     "role": "body",
+     "order": 255,
+     "text": "presence"
+    },
+    {
+     "role": "body",
+     "order": 256,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 257,
+     "text": "Facebook cookies for website analytics, ad targeting and measurement."
+    },
+    {
+     "role": "body",
+     "order": 258,
+     "text": "sb"
+    },
+    {
+     "role": "body",
+     "order": 259,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 260,
+     "text": "Facebook cookies for website analytics, ad targeting and measurement."
+    },
+    {
+     "role": "body",
+     "order": 261,
+     "text": "spin"
+    },
+    {
+     "role": "body",
+     "order": 262,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 263,
+     "text": "Facebook cookies for website analytics, ad targeting and measurement."
+    },
+    {
+     "role": "body",
+     "order": 264,
+     "text": "wd"
+    },
+    {
+     "role": "body",
+     "order": 265,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 266,
+     "text": "Facebook cookies for website analytics, ad targeting and measurement."
+    },
+    {
+     "role": "body",
+     "order": 267,
+     "text": "xs"
+    },
+    {
+     "role": "body",
+     "order": 268,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 269,
+     "text": "Facebook cookies for website analytics, ad targeting and measurement."
+    },
+    {
+     "role": "body",
+     "order": 270,
+     "text": "AA003"
+    },
+    {
+     "role": "body",
+     "order": 271,
+     "text": "3 months"
+    },
+    {
+     "role": "body",
+     "order": 272,
+     "text": "Collect information about visitor behavior on various websites. This information is used on the website to optimize the relevance of ads."
+    },
+    {
+     "role": "body",
+     "order": 273,
+     "text": "ATN"
+    },
+    {
+     "role": "body",
+     "order": 274,
+     "text": "2 years"
+    },
+    {
+     "role": "body",
+     "order": 275,
+     "text": "Facebook does not provide a description of cookies."
+    },
+    {
+     "role": "body",
+     "order": 276,
+     "text": "EU: Art. 6 para. 1 s. 1 lit. a GDPR, Art. 49 (1) a) GDPR Switzerland: Art. 45c (b) TCA, Art. 17 sentence 1 a) DSG"
+    },
+    {
+     "role": "body",
+     "order": 277,
+     "text": "Legal basis"
+    },
+    {
+     "role": "body",
+     "order": 278,
+     "text": "European Union"
+    },
+    {
+     "role": "body",
+     "order": 279,
+     "text": "Place of processing"
+    },
+    {
+     "role": "heading",
+     "order": 280,
+     "text": "Personalization"
+    },
+    {
+     "role": "heading",
+     "order": 281,
+     "text": "3D models - Sketchfab"
+    },
+    {
+     "role": "body",
+     "order": 282,
+     "text": "Sketchfab, Inc."
+    },
+    {
+     "role": "body",
+     "order": 283,
+     "text": "Vendor"
+    },
+    {
+     "role": "body",
+     "order": 284,
+     "text": "3D models of industrial trucks are displayed via iframe on sketchfab.com."
+    },
+    {
+     "role": "body",
+     "order": 285,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 286,
+     "text": "Link to privacy policy"
+    },
+    {
+     "role": "cta",
+     "order": 287,
+     "text": "https://sketchfab.com/privacy",
+     "href": "https://sketchfab.com/privacy"
+    },
+    {
+     "role": "body",
+     "order": 288,
+     "text": "IP address; Navigation data; the general location of your device, which we usually derive from the IP address of your device; Usage information and statistics; Crash reports; Technical information about the end device"
+    },
+    {
+     "role": "body",
+     "order": 289,
+     "text": "What data will be collected?"
+    },
+    {
+     "role": "body",
+     "order": 290,
+     "text": "We would like to give you the opportunity to view our vehicles in 3D."
+    },
+    {
+     "role": "body",
+     "order": 291,
+     "text": "Purpose of data collection"
+    },
+    {
+     "role": "body",
+     "order": 292,
+     "text": "Art 6. I lit. a GDPR"
+    },
+    {
+     "role": "body",
+     "order": 293,
+     "text": "Legal basis"
+    },
+    {
+     "role": "body",
+     "order": 294,
+     "text": "European Union and United States of America"
+    },
+    {
+     "role": "body",
+     "order": 295,
+     "text": "Place of processing"
+    },
+    {
+     "role": "heading",
+     "order": 296,
+     "text": "Other"
+    },
+    {
+     "role": "heading",
+     "order": 297,
+     "text": "Vimeo"
+    },
+    {
+     "role": "body",
+     "order": 298,
+     "text": "https://vimeo.com/privacy"
+    },
+    {
+     "role": "body",
+     "order": 299,
+     "text": "Vendor"
+    },
+    {
+     "role": "body",
+     "order": 300,
+     "text": "Used to integrate Vimeo videos into the website."
+    },
+    {
+     "role": "body",
+     "order": 301,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 302,
+     "text": "Link to privacy policy"
+    },
+    {
+     "role": "cta",
+     "order": 303,
+     "text": "https://vimeo.com/privacy",
+     "href": "https://vimeo.com/privacy"
+    },
+    {
+     "role": "body",
+     "order": 304,
+     "text": "Information about interaction with the videos"
+    },
+    {
+     "role": "body",
+     "order": 305,
+     "text": "What data will be collected?"
+    },
+    {
+     "role": "body",
+     "order": 306,
+     "text": "Cookies:"
+    },
+    {
+     "role": "body",
+     "order": 307,
+     "text": "Name"
+    },
+    {
+     "role": "body",
+     "order": 308,
+     "text": "Lifetime"
+    },
+    {
+     "role": "body",
+     "order": 309,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 310,
+     "text": "vuid"
+    },
+    {
+     "role": "body",
+     "order": 311,
+     "text": "2 years"
+    },
+    {
+     "role": "body",
+     "order": 312,
+     "text": "Collects data from users to interact with the video."
+    },
+    {
+     "role": "body",
+     "order": 313,
+     "text": "player"
+    },
+    {
+     "role": "body",
+     "order": 314,
+     "text": "1 year"
+    },
+    {
+     "role": "body",
+     "order": 315,
+     "text": "Saves the user's preferences when playing embedded videos from Vimeo"
+    },
+    {
+     "role": "body",
+     "order": 316,
+     "text": "Consent, Art. 6 para. 1 lit. a DSGVO"
+    },
+    {
+     "role": "body",
+     "order": 317,
+     "text": "Legal basis"
+    },
+    {
+     "role": "heading",
+     "order": 318,
+     "text": "Google Maps"
+    },
+    {
+     "role": "body",
+     "order": 319,
+     "text": "Google Ireland Limited"
+    },
+    {
+     "role": "body",
+     "order": 320,
+     "text": "Vendor"
+    },
+    {
+     "role": "body",
+     "order": 321,
+     "text": "We have integrated maps from Google Maps to provide you with a better browsing experience on our website."
+    },
+    {
+     "role": "body",
+     "order": 322,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 323,
+     "text": "Link to privacy policy"
+    },
+    {
+     "role": "cta",
+     "order": 324,
+     "text": "http://www.google.com/intl/de/policies/privacy/",
+     "href": "http://www.google.com/intl/de/policies/privacy/"
+    },
+    {
+     "role": "body",
+     "order": 325,
+     "text": "Date and time of the visit; Location information; IP address; Usage data; URL; Search terms; Geographical location; IP address; Use of the embedded map service (clicks, moving the map view, etc.); URLs"
+    },
+    {
+     "role": "body",
+     "order": 326,
+     "text": "What data will be collected?"
+    },
+    {
+     "role": "body",
+     "order": 327,
+     "text": "Deliver content; Provision of fonts; Service improvement; Show cards; Personalization; Show content; Social media; Website Security; Displaying the cards; Improvement of Google products and service; Provide a market for labeled data"
+    },
+    {
+     "role": "body",
+     "order": 328,
+     "text": "Purpose of data collection"
+    },
+    {
+     "role": "body",
+     "order": 329,
+     "text": "Cookies:"
+    },
+    {
+     "role": "body",
+     "order": 330,
+     "text": "Name"
+    },
+    {
+     "role": "body",
+     "order": 331,
+     "text": "Lifetime"
+    },
+    {
+     "role": "body",
+     "order": 332,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 333,
+     "text": "NID"
+    },
+    {
+     "role": "body",
+     "order": 334,
+     "text": "15778800"
+    },
+    {
+     "role": "body",
+     "order": 335,
+     "text": "This cookie stores information about user preferences and information about Google Maps."
+    },
+    {
+     "role": "body",
+     "order": 336,
+     "text": "Local Storage:"
+    },
+    {
+     "role": "body",
+     "order": 337,
+     "text": "Name"
+    },
+    {
+     "role": "body",
+     "order": 338,
+     "text": "Lifetime"
+    },
+    {
+     "role": "body",
+     "order": 339,
+     "text": "Description"
+    },
+    {
+     "role": "body",
+     "order": 340,
+     "text": "goog_pem_mod"
+    },
+    {
+     "role": "body",
+     "order": 341,
+     "text": "persistent"
+    },
+    {
+     "role": "body",
+     "order": 342,
+     "text": "Used to send data about a visitor's device and behavior to Google Analytics. Track visitors across all devices and marketing channels."
+    },
+    {
+     "role": "body",
+     "order": 343,
+     "text": "Funding Choices has been integrated with Ad Manager, AdMob, and AdSense Privacy & Messaging sites to help you manage privacy decisions, monetize your content, and communicate with users to obtain consent."
+    },
+    {
+     "role": "body",
+     "order": 344,
+     "text": "Legal basis"
+    },
+    {
+     "role": "body",
+     "order": 345,
+     "text": "Europäische Union"
+    },
+    {
+     "role": "body",
+     "order": 346,
+     "text": "Place of processing"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 91,
+   "repeats": [
+    {
+     "unitSelector": "SECTION.ccm-cookie-declaration--purpose",
+     "count": 4,
+     "unit": {
+      "headings": 3,
+      "ctas": 2,
+      "imgs": 0,
+      "textRuns": 41
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "SECTION.ccm-cookie-declaration--embedding",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 18
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "SECTION.ccm-cookie-declaration--embedding",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 44
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "SECTION.ccm-cookie-declaration--embedding",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 21
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

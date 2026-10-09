@@ -1,0 +1,7 @@
+/en/about-us/awards
+/en/products/heavy-duty-forklifts
+/en/products/approved-trucks
+/en/products/explosion-proof-trucks
+/en/landingpage/compact-class-with-electric-drive
+/en/solutions/fleet-management
+/en/solutions/intralogistics-automation

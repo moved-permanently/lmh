@@ -1,0 +1,164 @@
+{
+  "/en/products/automated-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T04:59:33.666Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/diesel-forklifts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T04:59:33.666Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/e-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T04:59:40.064Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/forklift-hire": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T04:59:40.086Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/forklift-truck": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T04:59:45.100Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/gas-forklifts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T04:59:46.156Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/heavy-duty-forklifts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T04:59:51.068Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/ic-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T04:59:51.465Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/pallet-stackers": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T04:59:56.102Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/pallet-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T04:59:57.465Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/reach-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T05:00:01.091Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/tow-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T05:00:02.712Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/tugger-trains": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T05:00:06.361Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/very-narrow-aisle-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T05:00:08.088Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/energy-systems": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T05:00:12.991Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/financing": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T05:00:13.064Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T05:00:18.401Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/nav": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T05:00:19.352Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

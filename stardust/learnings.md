@@ -1,0 +1,7 @@
+# Learnings — linde-mh.com/en replica (run 96d6da00, 2026-10-06/07)
+
+- **Licensed fonts set the pixel ceiling.** FF Daxline Pro / Dax Pro could not be rehosted; the metric-matched substitute left 11–30 % pixel residual on text-heavy templates (landing, program, listing) while form, finder and most article pages passed. Decide the font question with the owner before the gate budget is spent on rounds that cannot close it.
+- **Every path fold needs a redirects row, not only duplicates.** localize-links maps source hrefs through the content tree plus redirects.tsv; a delivered page whose path was folded (`Ex-Proof_Form` → `ex-proof-form`) stayed an absolute source link until its fold was added as a row. Write the fold pairs into redirects.tsv at inventory time.
+- **optimize's source-parity tagging does not cover `single-h1`.** h1-less source pages surface as open P1s that must be resolved `accepted` by hand with the capture evidence (five here); the E-full-site h1 rule fails the same pages.
+- **autofix-aem drafts conflict with replica fidelity.** Its title/description fixers draft copy from the page; in a replica the correct value is the captured source metadata — restore from `current/pages/<slug>.json` and skip the engine's apply step.
+- **A selected page the source serves as 404 is carried as captured.** Its inbound links stay absolute to the source; redirecting them to a similar delivered page would be an unregistered behaviour change.

@@ -1,0 +1,47 @@
+{
+  "/en/linde-core/linde-ergonomics": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T14:09:44.468Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/explosion-proof-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T14:09:44.468Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/forklift-hire": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T14:09:51.870Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/ic-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T14:09:52.523Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/pallet-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T14:09:58.183Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

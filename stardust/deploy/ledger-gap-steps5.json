@@ -1,0 +1,20 @@
+{
+  "/en/landingpage/h-models": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-09T01:40:59.241Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/safely-to-the-top": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-09T01:56:32.744Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

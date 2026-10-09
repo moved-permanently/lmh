@@ -1,0 +1,11 @@
+{
+  "/en/landingpage/e-models": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T18:56:27.422Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

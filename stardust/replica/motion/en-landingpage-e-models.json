@@ -1,0 +1,346 @@
+{
+  "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+  "width": 1440,
+  "headerTimeline": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "widgetSamples": [],
+  "hoverSamples": [],
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "opacity",
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__image.aos-init.aos-animate",
+        "y": 2000,
+        "dur": "2s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__image.aos-init.aos-animate",
+        "y": 2000,
+        "dur": "2s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__text-wrapper.text-wrapper--topleft.text-wrapper--background",
+        "y": 2000,
+        "dur": "1.5s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__text-wrapper.text-wrapper--topleft.text-wrapper--background",
+        "y": 2000,
+        "dur": "1.5s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body-container > div.content > div.layout-100--fixed > div.ld-layout-item__wrapper > div.inline-button-row.inline-button-row--horizontal.aos-init",
+        "y": 6400,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body-container > div.content > div.layout-100--fixed > div.ld-layout-item__wrapper > div.inline-button-row.inline-button-row--horizontal.aos-init",
+        "y": 6400,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__text-wrapper.text-wrapper--topright.text-wrapper--background",
+        "y": 6800,
+        "dur": "1.5s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__text-wrapper.text-wrapper--topright.text-wrapper--background",
+        "y": 6800,
+        "dur": "1.5s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__image.aos-init.aos-animate",
+        "y": 6800,
+        "dur": "2s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__image.aos-init.aos-animate",
+        "y": 6800,
+        "dur": "2s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__text-wrapper.text-wrapper--topright.text-wrapper--background",
+        "y": 2400,
+        "dur": "1.5s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__text-wrapper.text-wrapper--topright.text-wrapper--background",
+        "y": 2400,
+        "dur": "1.5s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.body-container > div.content > div.layout-100--fixed > div.ld-layout-item__wrapper > div.inline-button-row.inline-button-row--horizontal.aos-init",
+        "y": 2400,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.body-container > div.content > div.layout-100--fixed > div.ld-layout-item__wrapper > div.inline-button-row.inline-button-row--horizontal.aos-init",
+        "y": 2400,
+        "dur": "0.4s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__image.aos-init",
+        "y": 2400,
+        "dur": "2s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__image.aos-init",
+        "y": 2400,
+        "dur": "2s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__image.aos-init",
+        "y": 1200,
+        "dur": "2s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__image.aos-init",
+        "y": 1200,
+        "dur": "2s"
+      },
+      {
+        "prop": "opacity",
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__text-wrapper.text-wrapper--topleft.text-wrapper--background",
+        "y": 1200,
+        "dur": "1.5s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__text-wrapper.text-wrapper--topleft.text-wrapper--background",
+        "y": 1200,
+        "dur": "1.5s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "small-state"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state",
+        "y": 366
+      },
+      {
+        "added": [
+          "small-state"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state",
+        "y": 366
+      },
+      {
+        "added": [
+          "small-state"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state",
+        "y": 366
+      },
+      {
+        "added": [
+          "stickystacky-enabled",
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state.stickystacky-enabled",
+        "y": 366
+      },
+      {
+        "added": [
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state.stickystacky-enabled",
+        "y": 366
+      },
+      {
+        "added": [
+          "stickystacky-enabled",
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.subheader.subheader__breadcrumb.stickystacky-enabled",
+        "y": 366
+      },
+      {
+        "added": [
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.subheader.subheader__breadcrumb.stickystacky-enabled",
+        "y": 366
+      },
+      {
+        "added": [
+          "stickystacky-enabled",
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.content > div.navigation-anchor-navigation-wrapper.stickystacky-enabled.sticky-hidden",
+        "y": 800
+      },
+      {
+        "added": [
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.content > div.navigation-anchor-navigation-wrapper.stickystacky-enabled.sticky-hidden",
+        "y": 800
+      },
+      {
+        "added": [
+          "aos-animate"
+        ],
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__image.aos-init.aos-animate",
+        "y": 2000
+      },
+      {
+        "added": [
+          "aos-animate"
+        ],
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__text-wrapper.text-wrapper--topleft.text-wrapper--background",
+        "y": 2000
+      },
+      {
+        "added": [
+          "aos-animate"
+        ],
+        "el": "div.body-container > div.content > div.layout-100--fixed > div.ld-layout-item__wrapper > div.inline-button-row.inline-button-row--horizontal.aos-init",
+        "y": 6400
+      },
+      {
+        "added": [
+          "aos-animate"
+        ],
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__image.aos-init.aos-animate",
+        "y": 6800
+      },
+      {
+        "added": [
+          "aos-animate"
+        ],
+        "el": "div.content > div.layout-100--flex > div.ld-layout-item__wrapper > div.parallax-container.layout--default > div.parallax__text-wrapper.text-wrapper--topright.text-wrapper--background",
+        "y": 6800
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.small",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.small",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.small",
+        "y": 60
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.normal-state",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.normal-state",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.normal-state",
+        "y": 30
+      }
+    ]
+  }
+}

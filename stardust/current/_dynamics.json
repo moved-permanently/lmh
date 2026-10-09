@@ -1,0 +1,3372 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics detect",
+  "writtenAt": "2026-10-06T16:10:19.444Z",
+  "settleMs": 5000,
+  "width": 1440,
+  "urls": [
+   "https://www.linde-mh.com/en/About-us/Awards/",
+   "https://www.linde-mh.com/en/About-us/Company/",
+   "https://www.linde-mh.com/en/About-us/Events/",
+   "https://www.linde-mh.com/en/EDI/",
+   "https://www.linde-mh.com/en/Forms/agility-on-point-form/",
+   "https://www.linde-mh.com/en/Productfinder.html",
+   "https://www.linde-mh.com/en/technical/News-Detail_101184.html"
+  ],
+  "reachSource": "stardust/current/pages"
+ },
+ "pages": {
+  "/en/About-us/Awards/": {
+   "url": "https://www.linde-mh.com/en/About-us/Awards/",
+   "status": 200,
+   "host": "www.linde-mh.com",
+   "title": "Awards, prizes, and commendations",
+   "forms": [
+    {
+     "name": "global-search__form",
+     "action": "https://www.linde-mh.com/en/About-us/Awards/#searchresults.html",
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    },
+    {
+     "name": "global-search__form",
+     "action": "https://www.linde-mh.com/en/About-us/Awards/#searchresults.html",
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [
+    {
+     "text": "Settings",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "dialog",
+      "heading": "Please select policies to allow",
+      "textLen": 1089,
+      "hasForm": true,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    }
+   ],
+   "dialogs": [
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 5,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 5,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 764,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 764,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 24,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 699,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "group",
+     "heading": "",
+     "textLen": 39,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "Please select policies to allow",
+     "textLen": 1089,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Please select policies to allow",
+     "textLen": 1089,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Please select policies to allow",
+     "textLen": 31,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 31,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 1045,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 53,
+   "media": [],
+   "iframes": [],
+   "mounts": [
+    {
+     "cls": "ccm-modal ccm-widget",
+     "attrs": [
+      "data-nosnippet"
+     ]
+    }
+   ],
+   "auth": [
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/"
+   ],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": [
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup"
+    ]
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "13",
+     "14",
+     "15",
+     "16",
+     "17",
+     "18",
+     "19",
+     "push"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "google_tag_manager",
+    "gtag",
+    "clarity"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 10,
+   "inlineFetch": false,
+   "mainText": 16555,
+   "domAddedAfterLoad": 15,
+   "hosts": {
+    "www.linde-mh.com": 56,
+    "epcdn.ccm19.de": 1,
+    "epcloud.ccm19.de": 7,
+    "static.etracker.com": 1,
+    "code.etracker.com": 1,
+    "www.googletagmanager.com": 4,
+    "www.clarity.ms": 1,
+    "connect.facebook.net": 2,
+    "www.google-analytics.com": 2,
+    "c.clarity.ms": 2,
+    "scripts.clarity.ms": 1,
+    "snap.licdn.com": 2,
+    "c.bing.com": 1,
+    "www.etracker.de": 1,
+    "px.ads.linkedin.com": 4,
+    "www.linkedin.com": 1,
+    "l.clarity.ms": 2
+   },
+   "thirdPartyHosts": [
+    "epcdn.ccm19.de",
+    "epcloud.ccm19.de",
+    "static.etracker.com",
+    "code.etracker.com",
+    "www.googletagmanager.com",
+    "www.clarity.ms",
+    "connect.facebook.net",
+    "www.google-analytics.com",
+    "c.clarity.ms",
+    "scripts.clarity.ms",
+    "snap.licdn.com",
+    "c.bing.com",
+    "www.etracker.de",
+    "px.ads.linkedin.com",
+    "www.linkedin.com",
+    "l.clarity.ms"
+   ],
+   "scripts": [
+    "https://epcdn.ccm19.de/consent/ccm19/public/app.js?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e",
+    "https://www.linde-mh.com/en/layoutmedia/vendors_max.js?v=6250246",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/runtime_bundle_lmh.js?v=6250242",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/vendors-index_bundle_lmh.js?v=6250241",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/index_bundle_lmh.js?v=6250220",
+    "https://www.linde-mh.com/en/layoutmedia/layout/libs/jquery_ui/ui/i18n/datepicker-en-GB.js?v=6215846",
+    "https://static.etracker.com/code/e.js",
+    "https://epcloud.ccm19.de/consent/ccm19/public/plugins/Ccm19ScriptPlaceholder/module.js?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf&lang=en_US&v=178732138",
+    "https://code.etracker.com/t.js?v=2026.1006.37770&et=9J3sQx",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/search-module_bundle_lmh.js?v=6250242",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/search-rest-module_bundle_lmh.js?v=6250242",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-PRZZQQ3",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-TRR2J64",
+    "https://www.googletagmanager.com/gtag/js?id=G-K7ZGPT3SWQ&cx=c&gtm=4e6a21",
+    "https://www.clarity.ms/tag/qtnyx2a6vo",
+    "https://www.googletagmanager.com/gtag/js?id=G-Z6RNT679VR&cx=c&gtm=4e6a21",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://scripts.clarity.ms/0.8.70/clarity.js",
+    "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "https://snap.licdn.com/li.lms-analytics/insight.old.min.js",
+    "https://connect.facebook.net/signals/config/498567961295969?v=2.9.414&r=stable&domain=www.linde-mh.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C",
+    "https://www.etracker.de/cntcc?&&et=9J3sQx&v=2026.1006.37770&tc=17913030209569&pagename=Awards%2C%20prizes%2C%20and%20commendations&ilevel=1&et_source_url=https%3A%2F%2Fwww.linde-mh.com%2Fen%2FAbout-us"
+   ],
+   "firstPartyApi": [],
+   "thirdPartyXhr": [
+    "GET epcloud.ccm19.de/consent/ccm19/public/widget",
+    "POST www.google-analytics.com/g/collect",
+    "POST epcloud.ccm19.de/consent/ccm19/public/statistics/consent",
+    "POST epcloud.ccm19.de/consent/ccm19/public/page_check/report",
+    "POST l.clarity.ms/collect",
+    "POST px.ads.linkedin.com/wa/"
+   ],
+   "postBodies": [
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/statistics/consent?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": "{\"ucid\":\"bad59088d5dda939\",\"lang\":\"en_US\",\"clientUserAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36\",\"clientOs\":\"Linux x86_64\",\"clientLang\":\"en-US\",\"actualUrl\":\"https://www.linde-mh.com/en/About-us/Awards/\",\"actualRef\":\"\",\"actualOpened\":1}"
+    },
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/statistics/consent?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": "{\"ucid\":\"bad59088d5dda939\",\"consent\":true,\"clickedButton\":\"acceptAll\",\"purposes\":[\"15c61c3\",\"a717ff5\",\"41ba25c\",\"7c19e32\"],\"embeddings\":[\"52935c5\",\"e245a67\",\"3c0aba7\",\"6071c37\",\"86c07bb\",\"25e2d01\",\"fa011e5\",\"da089d2\",\"805d146\",\"6eeb012\"],\"iframeConsentDomains\":[],\"tcf\":{\"p\":[],\"lip\":[],\"sf\":[],\"v\":[],\"liv\":[],\"gad\":[],\"dv\":[],\"gadDisclosed\":[],\"created\":1791303021,\"updated\":1791303021},\"lang\":\"en_"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-K7ZGPT3SWQ&gtm=45je6a21v9202402220z8854728805za20gzb854728805zd854728805xf1&_p=1791303021197&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&cid=1970220158.1",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-Z6RNT679VR&gtm=45je6a21v871331029z8854728805za20gzb854728805zd854728805xf1&_p=1791303021197&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&cid=1970220158.17",
+     "body": ""
+    },
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/page_check/report?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": "{\"c\":[\"_ga_K7ZGPT3SWQ\",\"_ga\",\"_ga_Z6RNT679VR\"],\"s\":[\"https://scripts.clarity.ms/0.8.70/clarity.js\",\"https://connect.facebook.net/en_US/fbevents.js\",\"https://snap.licdn.com/li.lms-analytics/insight.min.js\",\"https://www.googletagmanager.com/gtag/js?id=G-K7ZGPT3SWQ&cx=c&gtm=4e6a21\",\"https://www.googletagmanager.com/gtag/js?id=G-Z6RNT679VR&cx=c&gtm=4e6a21\",\"https://www.googletagmanager.com/gtm.js?id=G"
+    },
+    {
+     "url": "https://l.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003��#9r&�*�ԮvF\u001b���R�����jS}9]=Ҏ���\"��̘\"\u0019T\u0004�Y�k��w8f2ۿ��9z��(�$��\u0001D8����.��:�Q\u0016�s\u0000\u000ex8\u0010\u000e\u0007��\u001f�f��Ռ��ܲY�KVr��ٿ�6�oEmn�Y9�W�����\u0019�:�֭B2�ov��m�gggwww�U�Y6��f���g�����n����٧wu�\u001c�f��Y={��0�+�R��Z+��|ex�y�<c\u0000�R���/U\n\u000f���R�Ґ\n�\\9_r���\u0007j%�W��m�����5�rv#f��F�R0Ŭ|]��R���\u0017߼���flV���u�@1�f�v���U}��������E�ٿ-�:sa��O��U����\u001f�ݙ�v.M�?|�ӷ/�bվi���ś����M�\\5�������\u0019�r��q6�xY_�}\u001b��^��|��\u0012��Yx*�m���\feQo�Ţ[��Ͳ޵�f�"
+    },
+    {
+     "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+     "body": "H4sIAAAAAAAAA02QwYrcMBBEf2XosxTLsi3Lus0hWQx7CJlhLyGElrtnR0SWHUtmSZb99zA7IeRYFFVdr19hDZTBfbVGWWO+CcjTFtbyxFsOSwJXK6WUbgWUMDO4uh/qRjVKa21qAbTMGBI4iCERy/n6YVpmELBvERxcS1mzq6r/zYpTdfTLXuSeq+MLbpQrEPDCPofCp/CcMH7hnzvnMhI4MIo7jWqQyvYXadB6OTTUSF0P5NuBdOctCFjxmR8XpPcMdV63xK1Ubd/JllQrfa+1JEbV+8ulsQODgJDPG6YcsTCBu2DMLCCGT3i/DDfxEDCVu5hDnsC9wpr9qWBhcLJ9u7U8hvSDaUzHdf1Xc9tzDiUyOLhTisO6hd+cxQETHaZlnjkRlrCkDAKu"
+    },
+    {
+     "url": "https://l.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003ͽ��c7�.�*�\u0006�?.����d\u000f\n\u000bO��ۻv۰�3wQS((3UUZ+�\\IY?z��>�<����V�$\u0017�\u0005\u0019'�̬�o�\u000b,\\0R�G�0��9A2�������^.�g�Y��+�26����j�^\u000e�>�M|\\����_?�_���x,\u001f�~�2�\t�-�].w��=��Çg���f��}���x�|{x�������??����ts~�|�Zn��{�҇\u0018Vye��V&\u0004c^�^\u001a�V~e\u0004��,Ӵ��\u001d������V/�waeV~�rIu�^N��_��g7��j�v�ߜv�O�n�������͙��e{�;�|�W��ieW!%_Vn�<ɐVae�*�ܪ�\\Yٰ2ve��M��rq\u0015W/�w~\u0015�ʇ\u0018W��|2ie�i�K0�RV��\t@��t\u001e\\L+��ի��\u000e��\u0002⪸U��bW�?|����z�9�_��nn����v�߯ϗͅD�"
+    }
+   ],
+   "textAtLoad": 17187,
+   "mainEmptyAtLoad": false
+  },
+  "/en/About-us/Company/": {
+   "url": "https://www.linde-mh.com/en/About-us/Company/",
+   "status": 200,
+   "host": "www.linde-mh.com",
+   "title": "Company | Linde Material Handling",
+   "forms": [
+    {
+     "name": "global-search__form",
+     "action": "https://www.linde-mh.com/en/About-us/Company/#searchresults.html",
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    },
+    {
+     "name": "global-search__form",
+     "action": "https://www.linde-mh.com/en/About-us/Company/#searchresults.html",
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [
+    {
+     "text": "Settings",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "dialog",
+      "heading": "Please select policies to allow",
+      "textLen": 1089,
+      "hasForm": true,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    }
+   ],
+   "dialogs": [
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 5,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 5,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 764,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 764,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 24,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 699,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "group",
+     "heading": "",
+     "textLen": 39,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "Please select policies to allow",
+     "textLen": 1089,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Please select policies to allow",
+     "textLen": 1089,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Please select policies to allow",
+     "textLen": 31,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 31,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 1045,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 17,
+   "media": [],
+   "iframes": [],
+   "mounts": [
+    {
+     "cls": "ccm-modal ccm-widget",
+     "attrs": [
+      "data-nosnippet"
+     ]
+    }
+   ],
+   "auth": [
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/"
+   ],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": [
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup"
+    ]
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "13",
+     "14",
+     "15",
+     "16",
+     "17",
+     "18",
+     "19",
+     "20",
+     "21",
+     "push"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "google_tag_manager",
+    "gtag",
+    "clarity"
+   ],
+   "clientRendered": [
+    {
+     "cls": "module-fact-counter--content js-fact-counter red",
+     "attrs": [],
+     "text": "Worldwide over 13,000 people work for the Linde Material Han"
+    }
+   ],
+   "listingCandidates": [],
+   "inlineScripts": 10,
+   "inlineFetch": false,
+   "mainText": 11800,
+   "domAddedAfterLoad": 485,
+   "hosts": {
+    "www.linde-mh.com": 65,
+    "epcdn.ccm19.de": 1,
+    "epcloud.ccm19.de": 7,
+    "static.etracker.com": 1,
+    "code.etracker.com": 1,
+    "www.googletagmanager.com": 4,
+    "www.clarity.ms": 1,
+    "snap.licdn.com": 2,
+    "connect.facebook.net": 2,
+    "www.google-analytics.com": 2,
+    "scripts.clarity.ms": 1,
+    "px.ads.linkedin.com": 4,
+    "www.linkedin.com": 1,
+    "www.etracker.de": 2,
+    "c.clarity.ms": 2,
+    "c.bing.com": 1,
+    "b.clarity.ms": 3
+   },
+   "thirdPartyHosts": [
+    "epcdn.ccm19.de",
+    "epcloud.ccm19.de",
+    "static.etracker.com",
+    "code.etracker.com",
+    "www.googletagmanager.com",
+    "www.clarity.ms",
+    "snap.licdn.com",
+    "connect.facebook.net",
+    "www.google-analytics.com",
+    "scripts.clarity.ms",
+    "px.ads.linkedin.com",
+    "www.linkedin.com",
+    "www.etracker.de",
+    "c.clarity.ms",
+    "c.bing.com",
+    "b.clarity.ms"
+   ],
+   "scripts": [
+    "https://epcdn.ccm19.de/consent/ccm19/public/app.js?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e",
+    "https://www.linde-mh.com/en/layoutmedia/vendors_max.js?v=6250246",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/runtime_bundle_lmh.js?v=6250242",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/vendors-index_bundle_lmh.js?v=6250241",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/index_bundle_lmh.js?v=6250220",
+    "https://www.linde-mh.com/en/layoutmedia/layout/libs/jquery_ui/ui/i18n/datepicker-en-GB.js?v=6215846",
+    "https://static.etracker.com/code/e.js",
+    "https://code.etracker.com/t.js?v=2026.1006.37770&et=9J3sQx",
+    "https://epcloud.ccm19.de/consent/ccm19/public/plugins/Ccm19ScriptPlaceholder/module.js?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf&lang=en_US&v=178732138",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/search-module_bundle_lmh.js?v=6250242",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/search-rest-module_bundle_lmh.js?v=6250242",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-PRZZQQ3",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-TRR2J64",
+    "https://www.googletagmanager.com/gtag/js?id=G-Z6RNT679VR&cx=c&gtm=4e6a21",
+    "https://www.clarity.ms/tag/qtnyx2a6vo",
+    "https://www.googletagmanager.com/gtag/js?id=G-K7ZGPT3SWQ&cx=c&gtm=4e6a21",
+    "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://scripts.clarity.ms/0.8.70/clarity.js",
+    "https://snap.licdn.com/li.lms-analytics/insight.old.min.js",
+    "https://connect.facebook.net/signals/config/498567961295969?v=2.9.414&r=stable&domain=www.linde-mh.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C",
+    "https://www.etracker.de/cntcc?&&et=9J3sQx&v=2026.1006.37770&tc=17913030301327&pagename=Company%20%7C%20Linde%20Material%20Handling&ilevel=1&et_source_url=https%3A%2F%2Fwww.linde-mh.com%2Fen%2FAbout-us"
+   ],
+   "firstPartyApi": [],
+   "thirdPartyXhr": [
+    "GET epcloud.ccm19.de/consent/ccm19/public/widget",
+    "POST epcloud.ccm19.de/consent/ccm19/public/statistics/consent",
+    "POST www.google-analytics.com/g/collect",
+    "POST px.ads.linkedin.com/wa/",
+    "POST b.clarity.ms/collect",
+    "POST epcloud.ccm19.de/consent/ccm19/public/page_check/report",
+    "POST www.etracker.de/api/v6/tracking/webEvents"
+   ],
+   "postBodies": [
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/statistics/consent?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": "{\"ucid\":\"5f30e01578c72543\",\"lang\":\"en_US\",\"clientUserAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36\",\"clientOs\":\"Linux x86_64\",\"clientLang\":\"en-US\",\"actualUrl\":\"https://www.linde-mh.com/en/About-us/Company/\",\"actualRef\":\"\",\"actualOpened\":1}"
+    },
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/statistics/consent?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": "{\"ucid\":\"5f30e01578c72543\",\"consent\":true,\"clickedButton\":\"acceptAll\",\"purposes\":[\"15c61c3\",\"a717ff5\",\"41ba25c\",\"7c19e32\"],\"embeddings\":[\"52935c5\",\"e245a67\",\"3c0aba7\",\"6071c37\",\"86c07bb\",\"25e2d01\",\"fa011e5\",\"da089d2\",\"805d146\",\"6eeb012\"],\"iframeConsentDomains\":[],\"tcf\":{\"p\":[],\"lip\":[],\"sf\":[],\"v\":[],\"liv\":[],\"gad\":[],\"dv\":[],\"gadDisclosed\":[],\"created\":1791303030,\"updated\":1791303030},\"lang\":\"en_"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-Z6RNT679VR&gtm=45je6a50v871331029z8854728805za20gzb854728805zd854728805xf1&_p=1791303030296&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&cid=289566822.179",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-K7ZGPT3SWQ&gtm=45je6a21v9202402220z8854728805za20gzb854728805zd854728805xf1&_p=1791303030296&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&cid=289566822.17",
+     "body": ""
+    },
+    {
+     "url": "https://b.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003�RMo\u001aA\f�+#�\u0012���cY�r(UB/$j��\n\r0�Q�]�.\u0005�6��2lZ�X���{���~�\u0000C\u00072ɓ�\u0004$�H� |o��I��G\r\bD�|�\u0015 �jq~ʮ<~�i�]3L��񘔱Z��v�,�m\u001a�t��\u000fm�Ф�z���9�\u0002���9�1G2F\"I9�\u0002��Ht\r\r��\u0006T�\f�\u001em\u0010���3@\u0007\u0012\u0010$\u0014\u001d�J\u001cL�X�>��\u00147߈>��X\u001dN�g��܊�nW��aq\u0017���~�3qs7y�ޣ(�s\u0010���\u0015��Weh��f_oCJV'2�%Ʉ������.\u001d\n$t�=�F\u0007�+~��U\u0010S߆}����jU��\t\n\u001c��P�\u001eg�Ǣ��^�u�^v��b�߷qY\u0006(Pɿ��U���\t�\u0018t��pod5 |���H|��j��\u0003�\u0005���\u0005.Pq7b��\u000e\fKS�e\u0007\u0005�Agh���0fӾ��\u00135�׾l���P@Z�˳�\u00125\u001a�\u00063�\u00165f�\u0015"
+    },
+    {
+     "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+     "body": "H4sIAAAAAAAAA01QXYvUMBT9K8N9TmyafqTJ2yC6FkYQZ9gXEblNbmeCaVqbFFnW/e/S2UV8PBzO5zMs3iUw37pWdG37nUGyq1/yI63JzxFMKYQQsmaQ/URgSqXLSlSiKkVXMnDzhD6CgeCjIz7d3tl5AgbbGsDALeclmaL4nywoFsdh3jLfUvF+nhaMTwUw+E1D8pnO/hoxfKVfG6XcOzAwoKx1NyDXrVXcyrrlQlSaW6FFNYyt0nYEBgte6TSju2tKpTTJWnJpK81rdJoPbmx506ixabqx06MGBj5dVowpYCYHZsSQiEHwH/E1GXbw4DHmVzD5ZME8w5KGc8ZMYHj9srucfPxJro/HZflns/e5+BwIDLzNPPw5nPYnDp8x0+oxHD5hdMHHKzC4"
+    },
+    {
+     "url": "https://b.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003�ے$Gr%�+>�\u0019v��\u0011�v7C3ق��\u0000B�\u001b�\u0000��,��xFxfF#2<�\u001e�Uٳ#�X\u0011�����/��Ο�KV�����gDV�\u0000��D3+��]�njjjj�m�,>y��V~�E)K!u)TU.��z/k��.ʅ\u0010�ݟ[�(\u0017^�<��E)ʊ�[�\u001f����W�޽{��m��f�p�Z�\u000f����Oo��qy�_�n\u001f\u000e�����m��\u0017��y#�(e(�Ҕ�����R�\u0010.�R��C&��ʖ�}�����͢\\��E���l)+'+�|���R�B�\u0014U\u0015��PU%�o��~��\u001biT)J]�Y̫�(\u0017�a�ٯ��\u0007\u0011V\u001b\u0014�?���z�\u001c�z�]Ӎ�v�i�\u0003��M3\u000f�\fֻ��\u001e�V\u000f}\u0002���n�\u001c뻇z_�M�\u000e�c�����m�@\u0014d����������M�~��7�I��z_�u�b��n{8��B\u001cޯ�M���l�1�\u0012囅��"
+    },
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/page_check/report?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": "{\"c\":[\"_ga_Z6RNT679VR\",\"_ga\",\"_ga_K7ZGPT3SWQ\",\"_clck\",\"_fbp\",\"_clsk\"],\"s\":[\"https://snap.licdn.com/li.lms-analytics/insight.old.min.js\",\"https://scripts.clarity.ms/0.8.70/clarity.js\",\"https://connect.facebook.net/signals/config/498567961295969?v=2.9.414&r=stable&domain=www.linde-mh.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C"
+    },
+    {
+     "url": "https://www.etracker.de/api/v6/tracking/webEvents",
+     "body": "--#####etrackerBoundary#####\r\nContent-Disposition: form-data; name=\"et\"\r\n\r\n9J3sQx\r\n--#####etrackerBoundary#####\r\nContent-Disposition: form-data; name=\"user_id\"\r\n\r\ne5f603374f8ae2acf8c11251e5ba39ad\r\n--#####etrackerBoundary#####\r\nContent-Disposition: form-data; name=\"userData\"\r\n\r\n{\"productIdentifier\":null,\"pluginVersion\":null,\"tc\":17913030351388,\"trcl\":\"o\",\"cookie\":{\"blocked\":true,\"firstParty\":\"\",\"do"
+    },
+    {
+     "url": "https://b.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003���$9r.�*�\u0010�\u001f\u0007\u0011�N�}��b4ҌzO�\u0005�=�.J�BdfTULGE�DFVu��\u0000�)�\u0000�s�Vz��}F\u001a��q�9sЅF�gF:�H��\u001b�����,~�z1�J��X����2�CZ.�r��q\\�O��ra�v��a\\,\u0017i���>,�f9�Ň����\u0017_}����W���q��������W��W��?��V/�_����i������r�^���k燸LK�ܰ4����k�ƴ4~�s�8\u000eK3f�\\,����e� \u000e?:�\u0018�\u0007�8��g\b�%\u0006�e�4��*2?Æ)C�*��g87e��0��\u001c~�p���b�\u0001\u001ca�No�Î�\u0019���#73\r\u0003\u0018ⴙ�\u000e\u0019��\u0003\u000b�f�t>.Ͱ��\u0001�,�z��o��Uع�?<��X.⏛\u001f?�/��+�yy0���_\u0016K\u0003]\u000fc-\u001eCX.��!ٗ���W���~��OO������_����9�����"
+    }
+   ],
+   "textAtLoad": 12418,
+   "mainEmptyAtLoad": false
+  },
+  "/en/About-us/Events/": {
+   "url": "https://www.linde-mh.com/en/About-us/Events/",
+   "status": 200,
+   "host": "www.linde-mh.com",
+   "title": "Trade Fairs and Events",
+   "forms": [
+    {
+     "name": "global-search__form",
+     "action": "https://www.linde-mh.com/en/About-us/Events/#searchresults.html",
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    },
+    {
+     "name": "global-search__form",
+     "action": "https://www.linde-mh.com/en/About-us/Events/#searchresults.html",
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [
+    {
+     "text": "Settings",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "dialog",
+      "heading": "Please select policies to allow",
+      "textLen": 1089,
+      "hasForm": true,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    }
+   ],
+   "dialogs": [
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 5,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 5,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 764,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 764,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 24,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 699,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "group",
+     "heading": "",
+     "textLen": 39,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "Please select policies to allow",
+     "textLen": 1089,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Please select policies to allow",
+     "textLen": 1089,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Please select policies to allow",
+     "textLen": 31,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 31,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 1045,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 15,
+   "media": [],
+   "iframes": [],
+   "mounts": [
+    {
+     "cls": "ccm-modal ccm-widget",
+     "attrs": [
+      "data-nosnippet"
+     ]
+    }
+   ],
+   "auth": [
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.loginext.nl/en/logistica-next/bezoeken"
+   ],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": [
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup"
+    ]
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "13",
+     "14",
+     "15",
+     "16",
+     "17",
+     "18",
+     "19",
+     "20",
+     "21",
+     "push"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "google_tag_manager",
+    "gtag",
+    "clarity"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 10,
+   "inlineFetch": false,
+   "mainText": 3508,
+   "domAddedAfterLoad": 8,
+   "hosts": {
+    "www.linde-mh.com": 33,
+    "epcdn.ccm19.de": 1,
+    "epcloud.ccm19.de": 6,
+    "static.etracker.com": 1,
+    "code.etracker.com": 1,
+    "www.googletagmanager.com": 4,
+    "snap.licdn.com": 2,
+    "connect.facebook.net": 2,
+    "www.clarity.ms": 1,
+    "scripts.clarity.ms": 1,
+    "px.ads.linkedin.com": 4,
+    "www.google-analytics.com": 3,
+    "c.clarity.ms": 2,
+    "c.bing.com": 1,
+    "www.linkedin.com": 1,
+    "www.etracker.de": 1,
+    "o.clarity.ms": 2
+   },
+   "thirdPartyHosts": [
+    "epcdn.ccm19.de",
+    "epcloud.ccm19.de",
+    "static.etracker.com",
+    "code.etracker.com",
+    "www.googletagmanager.com",
+    "snap.licdn.com",
+    "connect.facebook.net",
+    "www.clarity.ms",
+    "scripts.clarity.ms",
+    "px.ads.linkedin.com",
+    "www.google-analytics.com",
+    "c.clarity.ms",
+    "c.bing.com",
+    "www.linkedin.com",
+    "www.etracker.de",
+    "o.clarity.ms"
+   ],
+   "scripts": [
+    "https://epcdn.ccm19.de/consent/ccm19/public/app.js?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e",
+    "https://www.linde-mh.com/en/layoutmedia/vendors_max.js?v=6250246",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/runtime_bundle_lmh.js?v=6250242",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/vendors-index_bundle_lmh.js?v=6250241",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/index_bundle_lmh.js?v=6250220",
+    "https://www.linde-mh.com/en/layoutmedia/layout/libs/jquery_ui/ui/i18n/datepicker-en-GB.js?v=6215846",
+    "https://static.etracker.com/code/e.js",
+    "https://code.etracker.com/t.js?v=2026.1006.37770&et=9J3sQx",
+    "https://epcloud.ccm19.de/consent/ccm19/public/plugins/Ccm19ScriptPlaceholder/module.js?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf&lang=en_US&v=178732138",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/search-rest-module_bundle_lmh.js?v=6250242",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/search-module_bundle_lmh.js?v=6250242",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-TRR2J64",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-PRZZQQ3",
+    "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://www.clarity.ms/tag/qtnyx2a6vo",
+    "https://snap.licdn.com/li.lms-analytics/insight.old.min.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-Z6RNT679VR&cx=c&gtm=4e6a50",
+    "https://www.googletagmanager.com/gtag/js?id=G-K7ZGPT3SWQ&cx=c&gtm=4e6a50",
+    "https://connect.facebook.net/signals/config/498567961295969?v=2.9.414&r=stable&domain=www.linde-mh.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C",
+    "https://scripts.clarity.ms/0.8.70/clarity.js",
+    "https://www.etracker.de/cntcc?&&et=9J3sQx&v=2026.1006.37770&tc=17913030391323&pagename=Trade%20Fairs%20and%20Events&ilevel=1&et_source_url=https%3A%2F%2Fwww.linde-mh.com%2Fen%2FAbout-us%2FEvents%2F&bl"
+   ],
+   "firstPartyApi": [],
+   "thirdPartyXhr": [
+    "GET epcloud.ccm19.de/consent/ccm19/public/widget",
+    "POST epcloud.ccm19.de/consent/ccm19/public/statistics/consent",
+    "POST www.google-analytics.com/g/collect",
+    "POST px.ads.linkedin.com/wa/",
+    "POST o.clarity.ms/collect"
+   ],
+   "postBodies": [
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/statistics/consent?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": "{\"ucid\":\"92e35ba2460f48f6\",\"lang\":\"en_US\",\"clientUserAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36\",\"clientOs\":\"Linux x86_64\",\"clientLang\":\"en-US\",\"actualUrl\":\"https://www.linde-mh.com/en/About-us/Events/\",\"actualRef\":\"\",\"actualOpened\":1}"
+    },
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/statistics/consent?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": "{\"ucid\":\"92e35ba2460f48f6\",\"consent\":true,\"clickedButton\":\"acceptAll\",\"purposes\":[\"15c61c3\",\"a717ff5\",\"41ba25c\",\"7c19e32\"],\"embeddings\":[\"52935c5\",\"e245a67\",\"3c0aba7\",\"6071c37\",\"86c07bb\",\"25e2d01\",\"fa011e5\",\"da089d2\",\"805d146\",\"6eeb012\"],\"iframeConsentDomains\":[],\"tcf\":{\"p\":[],\"lip\":[],\"sf\":[],\"v\":[],\"liv\":[],\"gad\":[],\"dv\":[],\"gadDisclosed\":[],\"created\":1791303039,\"updated\":1791303039},\"lang\":\"en_"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-Z6RNT679VR&gtm=45je6a50v871331029z8854728805za20gzb854728805zd854728805xf1&_p=1791303039229&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&cid=244968531.179",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-K7ZGPT3SWQ&gtm=45je6a50v9202402220z8854728805za20gzb854728805zd854728805xf1&_p=1791303039229&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&cid=244968531.17",
+     "body": ""
+    },
+    {
+     "url": "https://o.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003��$��'�*�9�s�ldV�?@N��բD�H�Ʀ��t��EeFU�:+#'�Twim��\nkc6fgv����+ܧ�7ᓜ�\u001c@�#+��(6�ө�\u0003\u000e�\u0003@8\u0000w��t�O^M����fR����\b��_v������ä�����1s���B��Ǆ�3�����O��޽{7[��E7���͇��nu��b�����g��j�=���'��W���}-�nj#�~S�2(6\"�i\" }-�K�2�M�ki�0�\u0016V�B\"�rz���M-U�}=Y���U��&��ZNj)�����:��~�\u0016*]O^��rR��4�z�L�$\n��j���~�l�̬�~�������_��W�=������z�����m�;3�͔�~��Ͽ��˺Z�o��7�������],�����f��΄Q�f�\u001b�̄�^����O�'ojQ����T���w�v�U�n�ͶjW�*"
+    },
+    {
+     "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+     "body": "H4sIAAAAAAAAA02PS2vcMBSF/8pw11atl1/azSIJhixKx2QTSrmS7mREbNm15JYQ8t+DZ0Lp8nD5zj3fOyzBJzDPbc3buv5ZQHJrWPITrSnMEYzgnHOpC8hhIjCi6YTiimvOlSjAzxOGCAbGED2x6fLNzRMUsK0jGLjkvCRTlv8fS4rl0c5bZlsq7/5QzKmEAv6STSHTKbxEHH/Q741S7j0YaGtXCdFIhk54Rl2jWScrZJJq21ItaiUEFLDgCz3O6K8Mx0rxCjtGliPTVrfMirZh6uw6VFaeZbMzIQ0rxjRiJg/mjGOiAsZwj7fPsIeHgDHfwhSSA/MOS7KnjJnAMP2xtzyG+Eq+j8dl+Vez7xlCHgkMDCt6OtxjWNMBoz/crKGAC01g4jaOBaSr"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-Z6RNT679VR&gtm=45je6a50v871331029z8854728805za20gzb854728805zd854728805xf1&_p=1791303039229&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAAAQ&cid=2",
+     "body": "en=scroll&ep.allowLinker=false&ep.customTask=function()%7Bfor(var%20u%3D%0A%5B%5D%2Cv%3D0%3Bv%3Carguments.length%3Bv%2B%2B)u%5Bv%5D%3D%24d(arguments%5Bv%5D%2Cb%2Cc)%3Bvar%20w%3Dnew%20kb(b%3Fb.Zd()%3Anew%20Xa)%3Bb%26%26w.je(b.kb())%3Breturn%20f(g.apply(w%2Cu))%7D&epn.percent_scrolled=25&_et=4592\r\nen=scroll&ep.allowLinker=false&ep.customTask=function()%7Bfor(var%20u%3D%0A%5B%5D%2Cv%3D0%3Bv%3Cargumen"
+    },
+    {
+     "url": "https://o.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003�}�\u001c7��$r���Ȕ��d\u000f���?�޵ۆ��مF\u0010��B�leeVgfI*/\u0016ا�\u0007؟;o�O���7.��${z`î<�d�2H�!yI��������,?K�reWƔUp.��=��?�M|X���t�~\b���x_6��reV\u0003�Y^�Ϸ�_?��Çg���j\\�\\?�<�<\u001f�Ͽ�8ܝ�w��{?�ϧ��W��f��/}0q�W��a\u0015�2�Z��>��\u0019Vn5��0��n�����Y��\u0014��\u001f��\\-���.\u001e��gq��Kk\u000e�a�2\u0014=\u0018Ӣ�\u0018W�8^�4�?<���|�v�O�w��7�\u0012��ߞoʱ�g�c����+*\u0000\u001b߼�Ûw\u0017�3ۋ��UM N\tXG\t��wns���g�\\�\u001c���r�܍7w�����/>��o�]��Li����\\����7�nO�_�/��Fσ\u0014�+\u0014=�\u001bv�/�<K���Ǎ�\u000b�u��_\u000e���u4��"
+    }
+   ],
+   "textAtLoad": 4159,
+   "mainEmptyAtLoad": false
+  },
+  "/en/EDI/": {
+   "url": "https://www.linde-mh.com/en/EDI/",
+   "status": 200,
+   "host": "www.linde-mh.com",
+   "title": "EDI– Electronic Data Interchange",
+   "forms": [
+    {
+     "name": "global-search__form",
+     "action": "https://www.linde-mh.com/en/EDI/#searchresults.html",
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    },
+    {
+     "name": "global-search__form",
+     "action": "https://www.linde-mh.com/en/EDI/#searchresults.html",
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [
+    {
+     "text": "Settings",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "dialog",
+      "heading": "Please select policies to allow",
+      "textLen": 1089,
+      "hasForm": true,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    }
+   ],
+   "dialogs": [
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 5,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 5,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 764,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 764,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 24,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 699,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "group",
+     "heading": "",
+     "textLen": 39,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "Please select policies to allow",
+     "textLen": 1089,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Please select policies to allow",
+     "textLen": 1089,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Please select policies to allow",
+     "textLen": 31,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 31,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 1045,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 15,
+   "media": [],
+   "iframes": [],
+   "mounts": [
+    {
+     "cls": "ccm-modal ccm-widget",
+     "attrs": [
+      "data-nosnippet"
+     ]
+    }
+   ],
+   "auth": [
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/"
+   ],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": [
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup"
+    ]
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "13",
+     "14",
+     "15",
+     "16",
+     "17",
+     "18",
+     "19",
+     "20",
+     "21",
+     "22",
+     "push"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "google_tag_manager",
+    "gtag",
+    "clarity"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 10,
+   "inlineFetch": false,
+   "mainText": 1916,
+   "domAddedAfterLoad": 17,
+   "hosts": {
+    "www.linde-mh.com": 18,
+    "epcdn.ccm19.de": 1,
+    "epcloud.ccm19.de": 6,
+    "static.etracker.com": 1,
+    "code.etracker.com": 1,
+    "www.googletagmanager.com": 4,
+    "www.clarity.ms": 1,
+    "connect.facebook.net": 2,
+    "snap.licdn.com": 2,
+    "c.clarity.ms": 2,
+    "scripts.clarity.ms": 1,
+    "c.bing.com": 1,
+    "www.google-analytics.com": 3,
+    "px.ads.linkedin.com": 4,
+    "www.etracker.de": 2,
+    "t.clarity.ms": 3,
+    "www.linkedin.com": 1
+   },
+   "thirdPartyHosts": [
+    "epcdn.ccm19.de",
+    "epcloud.ccm19.de",
+    "static.etracker.com",
+    "code.etracker.com",
+    "www.googletagmanager.com",
+    "www.clarity.ms",
+    "connect.facebook.net",
+    "snap.licdn.com",
+    "c.clarity.ms",
+    "scripts.clarity.ms",
+    "c.bing.com",
+    "www.google-analytics.com",
+    "px.ads.linkedin.com",
+    "www.etracker.de",
+    "t.clarity.ms",
+    "www.linkedin.com"
+   ],
+   "scripts": [
+    "https://epcdn.ccm19.de/consent/ccm19/public/app.js?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e",
+    "https://www.linde-mh.com/en/layoutmedia/vendors_max.js?v=6250246",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/runtime_bundle_lmh.js?v=6250242",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/vendors-index_bundle_lmh.js?v=6250241",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/index_bundle_lmh.js?v=6250220",
+    "https://www.linde-mh.com/en/layoutmedia/layout/libs/jquery_ui/ui/i18n/datepicker-en-GB.js?v=6215846",
+    "https://static.etracker.com/code/e.js",
+    "https://epcloud.ccm19.de/consent/ccm19/public/plugins/Ccm19ScriptPlaceholder/module.js?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf&lang=en_US&v=178732138",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/search-rest-module_bundle_lmh.js?v=6250242",
+    "https://code.etracker.com/t.js?v=2026.1006.37770&et=9J3sQx",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/search-module_bundle_lmh.js?v=6250242",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-PRZZQQ3",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-TRR2J64",
+    "https://www.googletagmanager.com/gtag/js?id=G-Z6RNT679VR&cx=c&gtm=4e6a21",
+    "https://www.clarity.ms/tag/qtnyx2a6vo",
+    "https://www.googletagmanager.com/gtag/js?id=G-K7ZGPT3SWQ&cx=c&gtm=4e6a21",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "https://scripts.clarity.ms/0.8.70/clarity.js",
+    "https://connect.facebook.net/signals/config/498567961295969?v=2.9.414&r=stable&domain=www.linde-mh.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C",
+    "https://snap.licdn.com/li.lms-analytics/insight.old.min.js",
+    "https://www.etracker.de/cntcc?&&et=9J3sQx&v=2026.1006.37770&tc=17913030483449&pagename=EDI%E2%80%93%20Electronic%20Data%20Interchange&ilevel=1&et_source_url=https%3A%2F%2Fwww.linde-mh.com%2Fen%2FEDI%2"
+   ],
+   "firstPartyApi": [],
+   "thirdPartyXhr": [
+    "GET epcloud.ccm19.de/consent/ccm19/public/widget",
+    "POST www.google-analytics.com/g/collect",
+    "POST epcloud.ccm19.de/consent/ccm19/public/statistics/consent",
+    "POST t.clarity.ms/collect",
+    "POST px.ads.linkedin.com/wa/",
+    "POST www.etracker.de/api/v6/tracking/webEvents"
+   ],
+   "postBodies": [
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/statistics/consent?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": "{\"ucid\":\"71480f1a424ef9c1\",\"lang\":\"en_US\",\"clientUserAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36\",\"clientOs\":\"Linux x86_64\",\"clientLang\":\"en-US\",\"actualUrl\":\"https://www.linde-mh.com/en/EDI/\",\"actualRef\":\"\",\"actualOpened\":1}"
+    },
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/statistics/consent?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": "{\"ucid\":\"71480f1a424ef9c1\",\"consent\":true,\"clickedButton\":\"acceptAll\",\"purposes\":[\"15c61c3\",\"a717ff5\",\"41ba25c\",\"7c19e32\"],\"embeddings\":[\"52935c5\",\"e245a67\",\"3c0aba7\",\"6071c37\",\"86c07bb\",\"25e2d01\",\"fa011e5\",\"da089d2\",\"805d146\",\"6eeb012\"],\"iframeConsentDomains\":[],\"tcf\":{\"p\":[],\"lip\":[],\"sf\":[],\"v\":[],\"liv\":[],\"gad\":[],\"dv\":[],\"gadDisclosed\":[],\"created\":1791303048,\"updated\":1791303048},\"lang\":\"en_"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-Z6RNT679VR&gtm=45je6a21v871331029z8854728805za20gzb854728805zd854728805xf1&_p=1791303048362&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&cid=239699192.179",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-K7ZGPT3SWQ&gtm=45je6a21v9202402220z8854728805za20gzb854728805zd854728805xf1&_p=1791303048362&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&cid=239699192.17",
+     "body": ""
+    },
+    {
+     "url": "https://t.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003�S�N�0\u0010��h�@\u001a\u001c�\u001d�B�(����\u0005P+E\u00112�ٵ6�,�a�UQ���/�����K����̙KNf����\u001a8+Y�\u0001\t9��\b��?>\b����@�^�~\u0005\b�\u00037m���\u0007f!,��4]�V�s��{�\u00193�\"�>=>��� hدk��D�2�B���Z\u0011\u0012m,\u0015�\u001b�(�\"R(*�U\u0002\u0015mO!Q���T��+���Qp^\u0012���n��\u0005��\u0000��(\t+AU�`MB��\u0010\u000e�&�5p@��l=�j��u]�S�x���]r���C�P�Wy��\u001c,���l�O]H�,�̓�ӓ��g�tnn�\u000f������궳�x8\u001b��MII�Yɉ3\u0012ɹ�уۆC�����(���ɯ\u001f?��Κ0�ޙ�H\u0007�L|���i?��`�5��\u0003\bviZόYP�ڨ�\u0018tp��0h3��_Z�ߵ/��o�[Z,`:=���\u0016��0��ig��.���?���%�ܺ��`z�\t"
+    },
+    {
+     "url": "https://t.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003�ے$��%�+6�;\\���\u0013�Kugs�ua�t\u0015Y�J6�'+%���\"\u001e��~���Ȉ�?�H����/������\u001c\u0005`����,69���bV�Q�T\r\u0006S\u0000G��:�g����EXx1kU+�n����_Nۇ��s��Y;�����}���9��j3ke+����?~��Ň\u000f\u001f\u0016��v���n\u0017��݋~��/_���mg��7o�R�ie+�\u0011��ʧ�E!Z��������m�(�Zٚ��\f-�O�n��?,V��m�e�ffߟ��?}�_.�\u0014�\u001d$�}3�������]�]\u0014ޟfos�\u0002\u001a��u&��u�iCk��־}���PU�ֶ���헳v��������ͬ���W�����嬝\u001d\u001f���������7���v��֫���~��6���e�����;\u001e)��aӿ�ϗ˻���<�6���0��^�n?k����5����������ִ��}�"
+    },
+    {
+     "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+     "body": "H4sIAAAAAAAAA01Q3UrDMBh9lfFdJzZt0zbNnbA5CrsQN7wRka/Jty2YprXJEBHBd/ANfRKZinh5OJzfV5icjaDvVC1UXd8ziGZ2U7qlOboxgM6FEKKQDJIbCHTetHkpSiFbWRUM7DigC6DBu2CJD8cLMw7A4DR70HBMaYo6y/6TGYVstewyYPBMfXSJtu4Q0N/Q04li6ixoKIsmV40x3BiSvKkKwWVle461aSsUvVLSAIMJD7QZ0f5q9hX2peJ5ISWXQiiusMl5JfZEqKqqyRUwcHE3Y4geE1nQe/SRGHh3hT/JcAZrhyH9gMFFA/oVpthvEyYCzeXb2WXjwiPZLlxO05/Nuc/OJU+gYbXsPt8/FitPJs1jcGaxxISLLiSazRHDgYDBkQbQ4eQ9"
+    },
+    {
+     "url": "https://www.etracker.de/api/v6/tracking/webEvents",
+     "body": "--#####etrackerBoundary#####\r\nContent-Disposition: form-data; name=\"et\"\r\n\r\n9J3sQx\r\n--#####etrackerBoundary#####\r\nContent-Disposition: form-data; name=\"user_id\"\r\n\r\n55501a5dd278a74241c591f6c64fd1e6\r\n--#####etrackerBoundary#####\r\nContent-Disposition: form-data; name=\"userData\"\r\n\r\n{\"productIdentifier\":null,\"pluginVersion\":null,\"tc\":17913030532940,\"trcl\":\"o\",\"cookie\":{\"blocked\":true,\"firstParty\":\"\",\"do"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-Z6RNT679VR&gtm=45je6a21v871331029z8854728805za20gzb854728805zd854728805xf1&_p=1791303048362&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAAAQ&cid=2",
+     "body": "en=scroll&ep.allowLinker=false&ep.customTask=function()%7Bfor(var%20u%3D%0A%5B%5D%2Cv%3D0%3Bv%3Carguments.length%3Bv%2B%2B)u%5Bv%5D%3D%24d(arguments%5Bv%5D%2Cb%2Cc)%3Bvar%20w%3Dnew%20kb(b%3Fb.Zd()%3Anew%20Xa)%3Bb%26%26w.je(b.kb())%3Breturn%20f(g.apply(w%2Cu))%7D&epn.percent_scrolled=25&_et=8\r\nen=scroll&ep.allowLinker=false&ep.customTask=function()%7Bfor(var%20u%3D%0A%5B%5D%2Cv%3D0%3Bv%3Carguments."
+    },
+    {
+     "url": "https://t.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003�}�\u001c���$r\u0000�XdJ�o�\u0007¢�m�{������BS\u0010��BR��2˙YR�\u0017\u000b�S�\u0001���[�I\u0016�\\��eԇ���\rCu\u000e��AF\u001e����Z���^.�g�Y\u001a�+��ή�\u001d�j������v\u0013�\u001f���)�\u000f�Ç�j���pu�[��j���o����gϟ����n��\u001e�7o�]\u001dn������Wϗ\u0017��f��˗ޗ��+��������K�]^�a�V�*\u000f�ji�;�ˇ��g���n���2]����\u0010w���/���a�e�2�_\\˟b���\u0007k[~\u0013��?�9�{��2��sf�Z�\u000f����e����͟�����C��\u00177忩���'�{cV&��w�d���ů����|�\u001b����)��\u001e\t�\u0010�Y����ٚ �>AL��\u0004)��\u0013dzIO%(��G��Z�x���#���\u0015�n����\u0015l��aX����v���.V/��fe"
+    }
+   ],
+   "textAtLoad": 2611,
+   "mainEmptyAtLoad": false
+  },
+  "/en/Forms/agility-on-point-form/": {
+   "url": "https://www.linde-mh.com/en/Forms/agility-on-point-form/",
+   "status": 200,
+   "host": "www.linde-mh.com",
+   "title": "Linde-MH",
+   "forms": [
+    {
+     "name": "global-search__form",
+     "action": "https://www.linde-mh.com/en/Forms/agility-on-point-form/#searchresults.html",
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    },
+    {
+     "name": "global-search__form",
+     "action": "https://www.linde-mh.com/en/Forms/agility-on-point-form/#searchresults.html",
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    },
+    {
+     "name": "commandEN2749431",
+     "action": null,
+     "method": "post",
+     "role": "",
+     "inChrome": false,
+     "fields": 13,
+     "signature": [
+      "select:title",
+      "text:name",
+      "text:surname",
+      "text:company",
+      "text:street",
+      "text:no",
+      "text:zipcode",
+      "text:city",
+      "text:phone",
+      "text:email",
+      "select:countryGlobal",
+      "textarea:message"
+     ],
+     "hidden": [
+      "statistics",
+      "chksmlf",
+      "mwf_leadid",
+      "mwf_leadid_inmail",
+      "useCountryService",
+      "useCountryService"
+     ],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": true
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [
+    {
+     "text": "Mr.",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "listbox",
+      "heading": "",
+      "textLen": 25,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Settings",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "dialog",
+      "heading": "Please select policies to allow",
+      "textLen": 1089,
+      "hasForm": true,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    }
+   ],
+   "dialogs": [
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 5,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 5,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 764,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 764,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 24,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 699,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "group",
+     "heading": "",
+     "textLen": 39,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "Please select policies to allow",
+     "textLen": 1089,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Please select policies to allow",
+     "textLen": 1089,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Please select policies to allow",
+     "textLen": 31,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 31,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 1045,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 15,
+   "media": [],
+   "iframes": [],
+   "mounts": [
+    {
+     "cls": "ccm-modal ccm-widget",
+     "attrs": [
+      "data-nosnippet"
+     ]
+    }
+   ],
+   "auth": [
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/"
+   ],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": [
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup"
+    ]
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "13",
+     "14",
+     "15",
+     "16",
+     "17",
+     "18",
+     "19",
+     "20",
+     "21",
+     "22",
+     "23",
+     "push"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "google_tag_manager",
+    "gtag",
+    "clarity"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 11,
+   "inlineFetch": false,
+   "mainText": 3346,
+   "domAddedAfterLoad": 244,
+   "hosts": {
+    "www.linde-mh.com": 20,
+    "epcdn.ccm19.de": 1,
+    "epcloud.ccm19.de": 7,
+    "static.etracker.com": 1,
+    "code.etracker.com": 1,
+    "www.googletagmanager.com": 4,
+    "www.clarity.ms": 1,
+    "connect.facebook.net": 2,
+    "snap.licdn.com": 2,
+    "www.google-analytics.com": 5,
+    "scripts.clarity.ms": 1,
+    "px.ads.linkedin.com": 4,
+    "www.etracker.de": 2,
+    "www.linkedin.com": 1,
+    "k.clarity.ms": 3,
+    "c.clarity.ms": 2,
+    "c.bing.com": 1
+   },
+   "thirdPartyHosts": [
+    "epcdn.ccm19.de",
+    "epcloud.ccm19.de",
+    "static.etracker.com",
+    "code.etracker.com",
+    "www.googletagmanager.com",
+    "www.clarity.ms",
+    "connect.facebook.net",
+    "snap.licdn.com",
+    "www.google-analytics.com",
+    "scripts.clarity.ms",
+    "px.ads.linkedin.com",
+    "www.etracker.de",
+    "www.linkedin.com",
+    "k.clarity.ms",
+    "c.clarity.ms",
+    "c.bing.com"
+   ],
+   "scripts": [
+    "https://epcdn.ccm19.de/consent/ccm19/public/app.js?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e",
+    "https://www.linde-mh.com/en/layoutmedia/vendors_max.js?v=6250246",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/runtime_bundle_lmh.js?v=6250242",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/vendors-index_bundle_lmh.js?v=6250241",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/index_bundle_lmh.js?v=6250220",
+    "https://www.linde-mh.com/en/layoutmedia/layout/libs/jquery_ui/ui/i18n/datepicker-en-GB.js?v=6215846",
+    "https://static.etracker.com/code/e.js",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/search-module_bundle_lmh.js?v=6250242",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/search-rest-module_bundle_lmh.js?v=6250242",
+    "https://code.etracker.com/t.js?v=2026.1006.37770&et=9J3sQx",
+    "https://epcloud.ccm19.de/consent/ccm19/public/plugins/Ccm19ScriptPlaceholder/module.js?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf&lang=en_US&v=178732138",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-PRZZQQ3",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-TRR2J64",
+    "https://www.googletagmanager.com/gtag/js?id=G-Z6RNT679VR&cx=c&gtm=4e6a21",
+    "https://www.clarity.ms/tag/qtnyx2a6vo",
+    "https://www.googletagmanager.com/gtag/js?id=G-K7ZGPT3SWQ&cx=c&gtm=4e6a21",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "https://scripts.clarity.ms/0.8.70/clarity.js",
+    "https://snap.licdn.com/li.lms-analytics/insight.old.min.js",
+    "https://connect.facebook.net/signals/config/498567961295969?v=2.9.414&r=stable&domain=www.linde-mh.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C",
+    "https://www.etracker.de/cntcc?&&et=9J3sQx&v=2026.1006.37770&tc=17913030573718&pagename=Linde-MH&ilevel=1&et_source_url=https%3A%2F%2Fwww.linde-mh.com%2Fen%2FForms%2Fagility-on-point-form%2F&block_cook"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "POST",
+     "host": "www.linde-mh.com",
+     "path": "/mwf_live/servlet/form",
+     "query": [],
+     "status": 200,
+     "contentType": "text/html",
+     "example": "https://www.linde-mh.com/mwf_live/servlet/form"
+    },
+    {
+     "method": "POST",
+     "host": "www.linde-mh.com",
+     "path": "/mwf_live/servlet/rest",
+     "query": [
+      "_input",
+      "_mwfToken:EN2749431",
+      "_service",
+      "_uid"
+     ],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://www.linde-mh.com/mwf_live/servlet/rest"
+    }
+   ],
+   "thirdPartyXhr": [
+    "GET epcloud.ccm19.de/consent/ccm19/public/widget",
+    "POST epcloud.ccm19.de/consent/ccm19/public/cron",
+    "POST epcloud.ccm19.de/consent/ccm19/public/statistics/consent",
+    "POST www.google-analytics.com/g/collect",
+    "POST k.clarity.ms/collect",
+    "POST px.ads.linkedin.com/wa/",
+    "POST www.etracker.de/api/v6/tracking/webEvents"
+   ],
+   "postBodies": [
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/cron?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": ""
+    },
+    {
+     "url": "https://www.linde-mh.com/mwf_live/servlet/form",
+     "body": "_parentUrl=https%3A%2F%2Fwww.linde-mh.com%2Fen%2FForms%2Fagility-on-point-form%2F&_dateForm=dd.mm.y&_country=gb&_view=webform&_fd=GY-o4eEnBHK_iaAlR0jR-b-SvpxhVlosBJIWSJA-i9I2ShWdZwGtO7sgDXfeaowhaQ2n_fWtM5uKqonEq4i_THrA3ZPtq5NsEQI6zICkzudPYewZr3sVRc8-dwPwFcv3yjWtuC1F8QXeZbP2KY4pXeA3-HwiZ26-3XR7fiMd5yyqALsQq2fQDoTx2zzHCMMKE53Q-YHw1_4Lm2T04oEgDzgBCetdlQMnAqBfu0glgsh7HJS0v66qgOTH2liocnBj8LPSLzlBoYO1d8"
+    },
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/statistics/consent?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": "{\"ucid\":\"b802b1138f8dab04\",\"lang\":\"en_US\",\"clientUserAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36\",\"clientOs\":\"Linux x86_64\",\"clientLang\":\"en-US\",\"actualUrl\":\"https://www.linde-mh.com/en/Forms/agility-on-point-form/\",\"actualRef\":\"\",\"actualOpened\":1}"
+    },
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/statistics/consent?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": "{\"ucid\":\"b802b1138f8dab04\",\"consent\":true,\"clickedButton\":\"acceptAll\",\"purposes\":[\"15c61c3\",\"a717ff5\",\"41ba25c\",\"7c19e32\"],\"embeddings\":[\"52935c5\",\"e245a67\",\"3c0aba7\",\"6071c37\",\"86c07bb\",\"25e2d01\",\"fa011e5\",\"da089d2\",\"805d146\",\"6eeb012\"],\"iframeConsentDomains\":[],\"tcf\":{\"p\":[],\"lip\":[],\"sf\":[],\"v\":[],\"liv\":[],\"gad\":[],\"dv\":[],\"gadDisclosed\":[],\"created\":1791303057,\"updated\":1791303057},\"lang\":\"en_"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-Z6RNT679VR&gtm=45je6a21v871331029z8854728805za20gzb854728805zd854728805xf1&_p=1791303057394&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&cid=903885725.179",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-K7ZGPT3SWQ&gtm=45je6a21v9202402220z8854728805za20gzb854728805zd854728805xf1&_p=1791303057394&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&cid=903885725.17",
+     "body": ""
+    },
+    {
+     "url": "https://k.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003�R�n�@\u0010�\u0015k�Zib��ŗ�T\"AP\u0013^�\n�ժ2�&1�%�\u000eqA���8\t\u0012��}9;gf�̜�\t\u001e�\u0016D���\u0000$\u0014H�\u0010���� ��{\u0003\bt�r\u0018*F�p<��s\"\u001f�����F��t\nˢ��I�\u000f�M\u0015�:z״U\u0017廢,��ISO\u000eMQ��m�V\u00118�\u001c��R�)��\u00023!\u001cZ� �?\u0001�\"9��Li��Ӈ\u0015�\u0005\u0001\b\u0002܅aI\u0016�͏�,�Ȅ\"��L�&X\u0014�q\b�4~��mpw8����r_��QI����~��\\`P\u0016�>x����m0����]7۷M�#2*\u0014a*H�$�U����R\u000e\u000e\t���A���X����\f-�z���\u0006-P5T�׎���1⬼�u�����\u001eǁ/\u001a-�=�+\u0019\u0005\b\u001f���.x����5\u0005��,��H;�ܞ\u0018$hA�\u0018��\u001d��\u0002\u0014w|�14�صPq�6/;��\u0016�%�d��\u0012&Ɍ\u001c�R�\u0004j�\t\u001a�H�l8\u0019��ǔ\u001a�a.F"
+    },
+    {
+     "url": "https://k.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003��k�$��.�\u0015��;��=\u001e��7��l\u0019U$EZ�\"M,IӷXV�\u0019�\u0019�Ȉ�xdUj��\u001eƬ\u0017p���.�R������\u0007����QQU����\u001c��\u0007�\u0007���\r���̺�_�n��VH�\n!�ٿ\u001f��\u001feo�v�v&n\u0007���\r~�\u001fO����\u0015mGf����ᳳ�\u000f\u001f>,6��j��\\/����a{��ns8�֛��~���ow��q~��ߜ�޶�~�ٛ7B�ַB�\u0015θ��\u001b\u0014B�\"b���\u001f��������m�H%[�*Ѿ������O\u001f�˾?\u0006q3{�*پ�Y��� ���X-�w\u001f���m�ܡ��l�խj�nu�Z��V�ֿ}��n���\b���\u0017�v��o�����f��nO\u0017�������\u001d�\u000f��~+Js���ﾝ����������M��:\u001f��v���\u0003E:�o���|����\u000f��n�����\u000f���������O�\u0003�����>F"
+    },
+    {
+     "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+     "body": "H4sIAAAAAAAAA01QTYvbMBD9L3PW1JKtyI5ue+huDSmUJuyllCJL42SoLKuWQlmW/e8l2VJ6fLx5X/MKmUMB+20wcjDmu4DiN871mbbCawKrpJSy1QIqLwRW9XvVyU7uBi13AsK6OE5gIXIKhMvlg18XEHDdIli41JqLbZr/yYZS87huS2ncmSPXF1wT5pVTxXndlgYE/KapcKUjn5OLX+nXlUodA1gw0lPn9h610Qq7sCfstQ7Yy5a6yagQjAMB2Z3psLpw1/STmox3O+xV26KeJo/DnlqUxqlBz14arUAAl9PmUomuUgA7u1hIQORH954MN/DELtV3sHDxYF8hl+lYXSWwqN9uLgdOPymM6SHnfza3PieukcDC4f6Kz59AwIUWsOkao4Byn3p6"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-Z6RNT679VR&gtm=45je6a21v871331029za20gzb854728805zd854728805xf1&_p=1791303057394&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&cid=9038857",
+     "body": ""
+    },
+    {
+     "url": "https://www.linde-mh.com/mwf_live/servlet/rest?_service=CountriesRestService&_uid=EN2749431&_input=countryGlobal&_mwfToken%3aEN2749431=29E3A5C9DC8117D3708E6F88E429447E",
+     "body": "no=&city=&title=herr&message=&zipcode=&phone=&surname=&street=&name=&company=&email="
+    },
+    {
+     "url": "https://k.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003�\\�n\u001cɑ�\u0015����E���ĥ� \u0016kI�\u0018\u0003;cx�O\u0004!��%�W}��M]�X���O�,��**[�\"�%�i\u0004\u0011B_�2####�9���Vm��eU��9Օ�.��B\u0000p�_\u000eۏ\u001f�\u0002��*W��6|���W�\u000f��7��yWw��7������O߿�^m�۳͛��n��>�aw��?]ܬ֫�ǳ���v��\u001e�^��6O�+W-��//\u0013�\u000b����]H.zp�!��G\u0017\u0010|�_�o|�����fqh+W�\t�\u000b\u001e}�\u001a}�r�2���)��\u0013��j��\r�(��m����O�KLλ�.�O�P���]^oϗˍoί���aqX-����b���\u001b�ֻ���p��n?5�\u000e�������|��?���n��aq�Yl\u00177G���v�]ܞ�W�C��r�ݶ����Ų}�۽=߶��F�\u0016����a���O�w����؉�\u000f�뽌�m{�\u001a\u001a{l���^\rq"
+    }
+   ],
+   "textAtLoad": 1062,
+   "mainEmptyAtLoad": false
+  },
+  "/en/Productfinder.html": {
+   "url": "https://www.linde-mh.com/en/Productfinder.html",
+   "status": 200,
+   "host": "www.linde-mh.com",
+   "title": "Product finder",
+   "forms": [
+    {
+     "name": "global-search__form",
+     "action": "https://www.linde-mh.com/en/Productfinder.html?offerType=new&sorting[field]=productType&sorting[direction]=ASC#searchresults.html",
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    },
+    {
+     "name": "global-search__form",
+     "action": "https://www.linde-mh.com/en/Productfinder.html?offerType=new&sorting[field]=productType&sorting[direction]=ASC#searchresults.html",
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    }
+   ],
+   "controlGroups": [
+    {
+     "container": "body",
+     "controls": 30,
+     "names": [
+      "model",
+      "Pallet Trucks",
+      "Tow Tractors",
+      "Reach Trucks",
+      "Very Narrow Aisle Trucks",
+      "Pallet Stackers",
+      "Order Pickers",
+      "Electric Forklifts",
+      "Diesel / Gas Forklifts",
+      "Heavy Duty Forklifts",
+      "Tugger Trains",
+      "Automated Trucks"
+     ],
+     "submit": null
+    },
+    {
+     "container": "div.form_control_input",
+     "controls": 2,
+     "names": [],
+     "submit": null
+    }
+   ],
+   "triggers": [
+    {
+     "text": "Settings",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "dialog",
+      "heading": "Please select policies to allow",
+      "textLen": 1089,
+      "hasForm": true,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    }
+   ],
+   "dialogs": [
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 5,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 5,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 764,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 764,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 24,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 699,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "group",
+     "heading": "",
+     "textLen": 39,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "Please select policies to allow",
+     "textLen": 1089,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Please select policies to allow",
+     "textLen": 1089,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Please select policies to allow",
+     "textLen": 31,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 31,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 1045,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 15,
+   "media": [],
+   "iframes": [],
+   "mounts": [
+    {
+     "cls": "ccm-modal ccm-widget",
+     "attrs": [
+      "data-nosnippet"
+     ]
+    }
+   ],
+   "auth": [
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/"
+   ],
+   "commerce": {
+    "cart": true,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": [
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup"
+    ]
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "13",
+     "14",
+     "15",
+     "16",
+     "17",
+     "18",
+     "19",
+     "20",
+     "21",
+     "22",
+     "23",
+     "push"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "google_tag_manager",
+    "gtag",
+    "clarity"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 10,
+   "inlineFetch": false,
+   "mainText": 1969,
+   "domAddedAfterLoad": 38,
+   "hosts": {
+    "www.linde-mh.com": 43,
+    "epcdn.ccm19.de": 1,
+    "epcloud.ccm19.de": 7,
+    "static.etracker.com": 1,
+    "code.etracker.com": 1,
+    "www.googletagmanager.com": 4,
+    "www.clarity.ms": 1,
+    "snap.licdn.com": 2,
+    "connect.facebook.net": 2,
+    "www.google-analytics.com": 5,
+    "scripts.clarity.ms": 1,
+    "px.ads.linkedin.com": 5,
+    "www.etracker.de": 2,
+    "www.linkedin.com": 1,
+    "r.clarity.ms": 5,
+    "c.clarity.ms": 2,
+    "c.bing.com": 1
+   },
+   "thirdPartyHosts": [
+    "epcdn.ccm19.de",
+    "epcloud.ccm19.de",
+    "static.etracker.com",
+    "code.etracker.com",
+    "www.googletagmanager.com",
+    "www.clarity.ms",
+    "snap.licdn.com",
+    "connect.facebook.net",
+    "www.google-analytics.com",
+    "scripts.clarity.ms",
+    "px.ads.linkedin.com",
+    "www.etracker.de",
+    "www.linkedin.com",
+    "r.clarity.ms",
+    "c.clarity.ms",
+    "c.bing.com"
+   ],
+   "scripts": [
+    "https://epcdn.ccm19.de/consent/ccm19/public/app.js?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e",
+    "https://www.linde-mh.com/en/layoutmedia/vendors_max.js?v=6250246",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/runtime_bundle_lmh.js?v=6250242",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/vendors-index_bundle_lmh.js?v=6250241",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/index_bundle_lmh.js?v=6250220",
+    "https://www.linde-mh.com/en/layoutmedia/layout/libs/jquery_ui/ui/i18n/datepicker-en-GB.js?v=6215846",
+    "https://epcloud.ccm19.de/consent/ccm19/public/plugins/Ccm19ScriptPlaceholder/module.js?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf&lang=en_US&v=178732138",
+    "https://static.etracker.com/code/e.js",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/search-module_bundle_lmh.js?v=6250242",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/search-rest-module_bundle_lmh.js?v=6250242",
+    "https://code.etracker.com/t.js?v=2026.1006.37770&et=9J3sQx",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/vendors-productFinder-module_bundle_lmh.js?v=6250242",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/productFinder-module_bundle_lmh.js?v=6250242",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/productFinder-module-productPageUsed-module_bundle_lmh.js?v=6250242",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/vendors-productFinder-module-wizard-module_bundle_lmh.js?v=6250242",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/light-range-module-productFinder-module_bundle_lmh.js?v=6250242",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-PRZZQQ3",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-TRR2J64",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/quote-checkout-button-module_bundle_lmh.js?v=6250242",
+    "https://www.googletagmanager.com/gtag/js?id=G-Z6RNT679VR&cx=c&gtm=4e6a21",
+    "https://www.clarity.ms/tag/qtnyx2a6vo",
+    "https://www.googletagmanager.com/gtag/js?id=G-K7ZGPT3SWQ&cx=c&gtm=4e6a21",
+    "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://snap.licdn.com/li.lms-analytics/insight.old.min.js",
+    "https://connect.facebook.net/signals/config/498567961295969?v=2.9.414&r=stable&domain=www.linde-mh.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C",
+    "https://scripts.clarity.ms/0.8.70/clarity.js",
+    "https://www.etracker.de/cntcc?&&et=9J3sQx&v=2026.1006.37770&tc=17913030661647&pagename=Product%20finder&ilevel=1&et_source_url=https%3A%2F%2Fwww.linde-mh.com%2Fen%2FProductfinder.html&block_cookies=tr"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "GET",
+     "host": "www.linde-mh.com",
+     "path": "/lmhnewproductsearch_cloud/execute",
+     "query": [
+      "capacityPoints",
+      "fl",
+      "fq",
+      "query",
+      "rows",
+      "sortBy",
+      "sortOrder",
+      "ts",
+      "wt"
+     ],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://www.linde-mh.com/lmhnewproductsearch_cloud/execute"
+    },
+    {
+     "method": "GET",
+     "host": "www.linde-mh.com",
+     "path": "/en/layoutmedia/layout/hbs/productfinder-producttile.hbs",
+     "query": [
+      "v"
+     ],
+     "status": 200,
+     "contentType": "",
+     "example": "https://www.linde-mh.com/en/layoutmedia/layout/hbs/productfinder-producttile.hbs"
+    }
+   ],
+   "thirdPartyXhr": [
+    "GET epcloud.ccm19.de/consent/ccm19/public/widget",
+    "POST epcloud.ccm19.de/consent/ccm19/public/statistics/consent",
+    "POST www.google-analytics.com/g/collect",
+    "POST r.clarity.ms/collect",
+    "POST px.ads.linkedin.com/wa/",
+    "POST epcloud.ccm19.de/consent/ccm19/public/page_check/report",
+    "POST www.etracker.de/api/v6/tracking/webEvents"
+   ],
+   "postBodies": [
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/statistics/consent?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": "{\"ucid\":\"c710d9fd39140b40\",\"lang\":\"en_US\",\"clientUserAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36\",\"clientOs\":\"Linux x86_64\",\"clientLang\":\"en-US\",\"actualUrl\":\"https://www.linde-mh.com/en/Productfinder.html\",\"actualRef\":\"\",\"actualOpened\":1}"
+    },
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/statistics/consent?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": "{\"ucid\":\"c710d9fd39140b40\",\"consent\":true,\"clickedButton\":\"acceptAll\",\"purposes\":[\"15c61c3\",\"a717ff5\",\"41ba25c\",\"7c19e32\"],\"embeddings\":[\"52935c5\",\"e245a67\",\"3c0aba7\",\"6071c37\",\"86c07bb\",\"25e2d01\",\"fa011e5\",\"da089d2\",\"805d146\",\"6eeb012\"],\"iframeConsentDomains\":[],\"tcf\":{\"p\":[],\"lip\":[],\"sf\":[],\"v\":[],\"liv\":[],\"gad\":[],\"dv\":[],\"gadDisclosed\":[],\"created\":1791303066,\"updated\":1791303066},\"lang\":\"en_"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-Z6RNT679VR&gtm=45je6a50v871331029z8854728805za20gzb854728805zd854728805xf1&_p=1791303066228&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&cid=1873620973.17",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-K7ZGPT3SWQ&gtm=45je6a21v9202402220z8854728805za20gzb854728805zd854728805xf1&_p=1791303066228&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&cid=1873620973.1",
+     "body": ""
+    },
+    {
+     "url": "https://r.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003�k�#ɑ&x\u0015_�L/��@��Q��#�$�U�Ud\t3�\\NVJ�\u0007�\u0011\u0001&\u0002\u000e\u0002��\f����aE�\u0000�o�o�G�IV>53��ǳ�8�k��L��fjfj/�����Y?���L,�Y+[�J%�ٟ�ۻϪs�ì�ɻk�\u0017f��n��o�.S8��]\u001d���\u0017�^}��i�YoW���j�\u001c�_��W�����x\u0001x��:^of\u001f�Y7���{\u0019��JcD+��\u001f��V�R&$\n�\u0000\u0015Z��\u0012�6����7og�����31��)����w�_֛M��.D��]�l�]oo>7��;s��͗�ݦ�C�/��+��B��g�����m���c���_~\u001c~�|�w�M8���\u000f��+i�B,��b!U����\u001c}�����\u001f_|ݾ�eB�(�\u000fml������o�ն�g�J���\u0015>\u001d��\u000b���q����\u000f�\u0012\u000fqR�}?���ô�gu����z��~"
+    },
+    {
+     "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+     "body": "H4sIAAAAAAAAA02PzWrkMBCEX2Wps5SR/23dckiCIYewM+SyLEtbamVEZNmxNCwh5N3DzIRlj9VdXV3fB1ZvE/SvvlV92/4WSGbza37mLfklQhdKKVXWAtnPDF10Q1GpSrVdWZQCdpnJR2gEHy3L+XhjlhkCpy1A45jzmvRu9/9yx3H3tC32ZLI7j7ebY54DBP7ylHzmvX+JFH7y24lTHi003DR0ZVWRNANb6QqlZNu4RjYNszFkJ2tqCKz0wo8L2cuNdUVV1K6QtnaTrGsuJfEwSNNSxapziisLAZ8OG8UUKLOFdhQSCwR/T9fPOIsHTzFfxeyTgf7AmqZ9pszQsv48pzz6+Mp2jLfr+i/m3Ofgc2BofAP/uBJD4MgzdDyFIJAuwIf39WK8fbj7"
+    },
+    {
+     "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+     "body": "H4sIAAAAAAAAA01Q0WrcMBD8lbIPfZJysi1LtuAIR2mDIQ+ld+QlHGVtre5EZNm1dIQS8u/FdyH0cXdmZ2fmDWZvE5jnRolGqSODNCx+zk+0JD9FMIUQQpSSQfYjgSl0W1SiEkqrtmBgpxF9BAPBR0t8PN8N0wgMLksAA+ec52Q2m//BDcXNz2WylyG7db3cnfMY7ifnaDn8nWkb6fVrmpbs4+nZeQr2uJ1v/BX+hKxfaMh+isftbv8NGLxSn3ymvT9FDL/oz4VS7iwYoLodamlrToXVHGuLnPpKc9GU0pZayrJugcGMJ3qc0F5vrCuqQrqCW+l6LiWVHKlt+aCwIqGdoMoCA58OC8YUMJMF4zAkYhD8D7x9hnV48BjzbRh9GsC8wZz6fcZMYLh8"
+    },
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/page_check/report?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": "{\"c\":[\"_ga\",\"_ga_K7ZGPT3SWQ\",\"_fbp\",\"_clck\",\"_ga_Z6RNT679VR\",\"_clsk\"],\"s\":[\"https://snap.licdn.com/li.lms-analytics/insight.old.min.js\",\"https://scripts.clarity.ms/0.8.70/clarity.js\",\"https://connect.facebook.net/signals/config/498567961295969?v=2.9.414&r=stable&domain=www.linde-mh.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C81%2C82%2C161%2C"
+    },
+    {
+     "url": "https://r.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003�k�$Ǒ&x\u0015�h�^��#��\u000ftg��E��4@BX`s9��\u0014�\b��`E�\u0007#\"�*92#s�\u0011�\u0003̿پ�\u001e�'Y���<�<� ��k\t0\u0011������K��j�e��>{;\u0013���b��V�R�v������܇a���ݍ�\u000b3kg���\u001f�f�j\u0005�3�>\u001ew��^�����b�ޮ����b9ܼ귯��\u000f����\u0012�~q}����py�￻��g����\u001e��q��z{��7�wg�\u0014\u001e䑴Z���q=lߝ}����];�f��}+��JcD+���ڷZ�R&$\n�\u0000\u0015Z�_�U�\u0015�i�Ŀ>���R\u0005�*#c��P\u001c��\u0011�l�}X_u�~�ήլU�\"%-�T�ڷR�V�vv��,��ڷE<�����S�*�U\u0019/f�޵o�B�9_2�S\u000e��O\u0010�\u0015��v���r�P�og�\fZo6�+�\u0010�O�o)���z����|\n�ܙ�6��v��w��?����"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-Z6RNT679VR&gtm=45je6a50v871331029z8854728805za20gzb854728805zd854728805xf1&_p=1791303066228&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAAAQ&cid=1",
+     "body": ""
+    },
+    {
+     "url": "https://r.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003�\\�n\u001c�r}\u0015b\u0003�G0+�W��\u0001!�e�\u0016 �\n�ob�!�\u0015��\u0016Z-u�+�N\u0010 �\u0010�\u000f\u0011���$����YI�E$\u000b0��f��O�T����?\u0017��W�\u000bw��+n1�ɻ0y\u000fnZ��������?�,����Mػ��\u0016���~��%^���ū����W���߿������7��]ݼ9]�N��o��]\u001d^ �����f��7/^��?��v}�~���7��f����f�������G���7���as��������ŴX-�:?o�Lu�)�)�\u0002\u0017ӹ\u000f\u0010������G�\u0016���-.\u0010v~J��K}�B��s���\u000e&7��m���?\u0019����y�S�Ҕ&��T&?��N\u0001��#�S���\u0002~rS�0����i�\u0016g��<�+�`�\u0011��7��u1-����[�8^noVכ��۷��n�?�˸\\��\u000e��׋��\u001c\u0003�)���?���RmHnt�"
+    },
+    {
+     "url": "https://www.etracker.de/api/v6/tracking/webEvents",
+     "body": "--#####etrackerBoundary#####\r\nContent-Disposition: form-data; name=\"et\"\r\n\r\n9J3sQx\r\n--#####etrackerBoundary#####\r\nContent-Disposition: form-data; name=\"user_id\"\r\n\r\n0cfa324be0d8583a488248d2e3f4f27c\r\n--#####etrackerBoundary#####\r\nContent-Disposition: form-data; name=\"userData\"\r\n\r\n{\"productIdentifier\":null,\"pluginVersion\":null,\"tc\":17913030711298,\"trcl\":\"o\",\"cookie\":{\"blocked\":true,\"firstParty\":\"\",\"do"
+    }
+   ],
+   "textAtLoad": 2733,
+   "mainEmptyAtLoad": false
+  },
+  "/en/technical/News-Detail_101184.html": {
+   "url": "https://www.linde-mh.com/en/technical/News-Detail_101184.html",
+   "status": 200,
+   "host": "www.linde-mh.com",
+   "title": "Linde Roadster wins German Design Award 2019",
+   "forms": [
+    {
+     "name": "global-search__form",
+     "action": "https://www.linde-mh.com/en/technical/News-Detail_101184.html#searchresults.html",
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    },
+    {
+     "name": "global-search__form",
+     "action": "https://www.linde-mh.com/en/technical/News-Detail_101184.html#searchresults.html",
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [
+    {
+     "text": "Settings",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "dialog",
+      "heading": "Please select policies to allow",
+      "textLen": 1089,
+      "hasForm": true,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "?",
+     "href": null,
+     "marker": "data-ccm-modal",
+     "inChrome": false,
+     "titleOnTrigger": null,
+     "target": null
+    }
+   ],
+   "dialogs": [
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 188,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 5,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 182,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 182,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 182,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 764,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 764,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 24,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "We use cookies and other technologies.",
+     "textLen": 699,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "group",
+     "heading": "",
+     "textLen": 39,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "Please select policies to allow",
+     "textLen": 1089,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Please select policies to allow",
+     "textLen": 1089,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 17,
+   "media": [],
+   "iframes": [],
+   "mounts": [
+    {
+     "cls": "ccm-modal ccm-widget",
+     "attrs": [
+      "data-nosnippet"
+     ]
+    }
+   ],
+   "auth": [
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/"
+   ],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [],
+    "switcher": [
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+     "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup"
+    ]
+   },
+   "cms": {
+    "dataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "13",
+     "14",
+     "15",
+     "16",
+     "17",
+     "18",
+     "19",
+     "20",
+     "21",
+     "22",
+     "push"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "google_tag_manager",
+    "gtag",
+    "clarity"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 10,
+   "inlineFetch": false,
+   "mainText": 2854,
+   "domAddedAfterLoad": 4,
+   "hosts": {
+    "www.linde-mh.com": 21,
+    "epcdn.ccm19.de": 1,
+    "epcloud.ccm19.de": 7,
+    "static.etracker.com": 1,
+    "code.etracker.com": 1,
+    "www.googletagmanager.com": 4,
+    "www.clarity.ms": 1,
+    "snap.licdn.com": 2,
+    "connect.facebook.net": 2,
+    "scripts.clarity.ms": 1,
+    "px.ads.linkedin.com": 4,
+    "www.google-analytics.com": 3,
+    "www.linkedin.com": 1,
+    "www.etracker.de": 2,
+    "c.clarity.ms": 2,
+    "c.bing.com": 1,
+    "y.clarity.ms": 3
+   },
+   "thirdPartyHosts": [
+    "epcdn.ccm19.de",
+    "epcloud.ccm19.de",
+    "static.etracker.com",
+    "code.etracker.com",
+    "www.googletagmanager.com",
+    "www.clarity.ms",
+    "snap.licdn.com",
+    "connect.facebook.net",
+    "scripts.clarity.ms",
+    "px.ads.linkedin.com",
+    "www.google-analytics.com",
+    "www.linkedin.com",
+    "www.etracker.de",
+    "c.clarity.ms",
+    "c.bing.com",
+    "y.clarity.ms"
+   ],
+   "scripts": [
+    "https://epcdn.ccm19.de/consent/ccm19/public/app.js?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e",
+    "https://www.linde-mh.com/en/layoutmedia/vendors_max.js?v=6250246",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/runtime_bundle_lmh.js?v=6250242",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/vendors-index_bundle_lmh.js?v=6250241",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/index_bundle_lmh.js?v=6250220",
+    "https://www.linde-mh.com/en/layoutmedia/layout/libs/jquery_ui/ui/i18n/datepicker-en-GB.js?v=6215846",
+    "https://static.etracker.com/code/e.js",
+    "https://epcloud.ccm19.de/consent/ccm19/public/plugins/Ccm19ScriptPlaceholder/module.js?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf&lang=en_US&v=178732138",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/search-rest-module_bundle_lmh.js?v=6250242",
+    "https://www.linde-mh.com/en/layoutmedia/layout/js/search-module_bundle_lmh.js?v=6250242",
+    "https://code.etracker.com/t.js?v=2026.1006.37770&et=9J3sQx",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-TRR2J64",
+    "https://www.googletagmanager.com/gtm.js?id=GTM-PRZZQQ3",
+    "https://www.clarity.ms/tag/qtnyx2a6vo",
+    "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://snap.licdn.com/li.lms-analytics/insight.old.min.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-Z6RNT679VR&cx=c&gtm=4e6a50",
+    "https://www.googletagmanager.com/gtag/js?id=G-K7ZGPT3SWQ&cx=c&gtm=4e6a50",
+    "https://scripts.clarity.ms/0.8.70/clarity.js",
+    "https://connect.facebook.net/signals/config/498567961295969?v=2.9.414&r=stable&domain=www.linde-mh.com&hme=a4c28c8787325ac3f8f9eac68364f47df2a8c4266e43177443e5d7f6289c9774&ex_m=117%2C240%2C170%2C27%2C",
+    "https://www.etracker.de/cntcc?&&et=9J3sQx&v=2026.1006.37770&tc=17913030750355&pagename=Linde%20Roadster%20wins%20German%20Design%20Award%202019&ilevel=1&et_source_url=https%3A%2F%2Fwww.linde-mh.com%2F"
+   ],
+   "firstPartyApi": [],
+   "thirdPartyXhr": [
+    "GET epcloud.ccm19.de/consent/ccm19/public/widget",
+    "POST epcloud.ccm19.de/consent/ccm19/public/statistics/consent",
+    "POST www.google-analytics.com/g/collect",
+    "POST px.ads.linkedin.com/wa/",
+    "POST y.clarity.ms/collect",
+    "POST epcloud.ccm19.de/consent/ccm19/public/page_check/report",
+    "POST www.etracker.de/api/v6/tracking/webEvents"
+   ],
+   "postBodies": [
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/statistics/consent?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": "{\"ucid\":\"eb5640b590babc67\",\"lang\":\"en_US\",\"clientUserAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36\",\"clientOs\":\"Linux x86_64\",\"clientLang\":\"en-US\",\"actualUrl\":\"https://www.linde-mh.com/en/technical/News-Detail_101184.html\",\"actualRef\":\"\",\"actualOpened\":1}"
+    },
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/statistics/consent?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": "{\"ucid\":\"eb5640b590babc67\",\"consent\":true,\"clickedButton\":\"acceptAll\",\"purposes\":[\"15c61c3\",\"a717ff5\",\"41ba25c\",\"7c19e32\"],\"embeddings\":[\"52935c5\",\"e245a67\",\"3c0aba7\",\"6071c37\",\"86c07bb\",\"25e2d01\",\"fa011e5\",\"da089d2\",\"805d146\",\"6eeb012\"],\"iframeConsentDomains\":[],\"tcf\":{\"p\":[],\"lip\":[],\"sf\":[],\"v\":[],\"liv\":[],\"gad\":[],\"dv\":[],\"gadDisclosed\":[],\"created\":1791303075,\"updated\":1791303075},\"lang\":\"en_"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-Z6RNT679VR&gtm=45je6a50v871331029z8854728805za20gzb854728805zd854728805xf1&_p=1791303075061&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&cid=342329558.179",
+     "body": ""
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-K7ZGPT3SWQ&gtm=45je6a50v9202402220z8854728805za20gzb854728805zd854728805xf1&_p=1791303075061&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&cid=342329558.17",
+     "body": ""
+    },
+    {
+     "url": "https://y.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003��$��&�*>�;\u0012��\u0011�\u0003Tg�QEQ�6o+R��\u0014��<#<3]\u0015\u0011\u001e�Ke��fL�fm�f���̼���I־\u0003�� �RŖ����\n�\u000en�8\u001c8\u0000>\u0000�y��>~5k\u0016~�Y-�\u0016��g8n���־\u001df�L��o\u000e'?�g����~\u001d�����x�\u001d>~����n�n��],�͋n���-o���]����;�?�m��\u0014�\u0010^/n����u=kg\u001f�z%B�k�uS+�����ij!\"\u0012�&\u0002���u�\n�S������Y�j���Y3{�$(ث�W�\u001f���}a\u0016M���!�ϫ/���]���K�V}�ۭ��uW��\u001f_\u0018�\u0016�V\u001f�����e]��7]��n�f�Y�y׮�����v?l�\u0017¨E���h\u0016BVߵ���O�g�kQ������W�/\u0011���Ю\u000e�n_���C��n�i�էݡ��V�ܵ�U%\u001b\u0011f��P��u��o�C\u0011L"
+    },
+    {
+     "url": "https://px.ads.linkedin.com/wa/?medium=fetch&fmt=g",
+     "body": "H4sIAAAAAAAAA02Q3WrcMBCFX8XMtZWV5F/pbiHNYlhKyS65KSWMpfFaRJZdS8tSQt69eFNKbgYOw3xzznmHxdkI+mdb87auf+UQzeqW9EJrdHMALTjnXJY5JDcRaNEoUfCCN5XiTQ52ntAF0OBdsMSm8cHME+RwXT1oGFNaot7tvi53FHaJzBicQb/7TrfIHimh86+CC9GWD2OaPORwoz66RCd3Ceif6feVYuosaOipwNJiz3hVK4aDqpmQUrFC1o1sjeVUNJDDghc6zmjvNwPJsq6UZE1lBlZaJVhLJTI7FE1bDb1QdQ85uHheMUSPiSzoAX2kHLx7ws/PsImDw5A+xeSiAf0OS+xPCROBZuXHRjm68Ea2C/tl+Y/Z/Jxd8gQajlsf2fOMNiZa"
+    },
+    {
+     "url": "https://epcloud.ccm19.de/consent/ccm19/public/page_check/report?apiKey=401c6d50ada2558fe6b9fd84ba9041ae88d5fda4e53e87b7&domain=e8fdf7e&gen=2&theme=468badf",
+     "body": "{\"c\":[\"_ga\",\"_ga_K7ZGPT3SWQ\",\"_clck\",\"_fbp\",\"_ga_Z6RNT679VR\",\"_clsk\"],\"s\":[\"https://snap.licdn.com/li.lms-analytics/insight.old.min.js\",\"https://scripts.clarity.ms/0.8.70/clarity.js\",\"https://www.googletagmanager.com/gtag/js?id=G-K7ZGPT3SWQ&cx=c&gtm=4e6a50\",\"https://www.googletagmanager.com/gtag/js?id=G-Z6RNT679VR&cx=c&gtm=4e6a50\",\"https://connect.facebook.net/signals/config/498567961295969?v=2.9."
+    },
+    {
+     "url": "https://y.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003��Ѯ� \f����\t\u0010Ґ^�z/\u0010E\u0013#,E%$K�I�i�>ў���v2�\f��߶�E�N-q�Y�\t\u0012Br\b)\u001a��\u0014��4Ƿ�@b���\tT��m\t\u0004\u0001~7:�4���ض�\u0005\u001f{w\u0018��Nc�b��=GoM(��m=|q���Mp!�b�4\u0006�@�Nm[�\rd\u0003\u000e\r�8BC�\u0012B\u001e����\u001f.SRp�AѼ��$G��$H^k�������Q\u0014\u0004�R\u001c���\u00115����5��vY.� ����U\u0010�Ͷ���Q4�����$o�K��\u0017����t�A;��3�\u0005l0�O;\u001b���a����\u0019F\u0013���~�?���Y���bt6�\u001fƺ��taѥ����i}U�o��k\u001e��z\u001f�D\u001e�\u0007\u0013Mؓ��{j�������8$J��\u001a\n%jT�\u0010�R�)�! +T�_�Rv��?q�.��\u0002\u0000\u0000"
+    },
+    {
+     "url": "https://www.etracker.de/api/v6/tracking/webEvents",
+     "body": "--#####etrackerBoundary#####\r\nContent-Disposition: form-data; name=\"et\"\r\n\r\n9J3sQx\r\n--#####etrackerBoundary#####\r\nContent-Disposition: form-data; name=\"user_id\"\r\n\r\nbe1a43495afc4ee7f5e8b8232726f675\r\n--#####etrackerBoundary#####\r\nContent-Disposition: form-data; name=\"userData\"\r\n\r\n{\"productIdentifier\":null,\"pluginVersion\":null,\"tc\":17913030799926,\"trcl\":\"o\",\"cookie\":{\"blocked\":true,\"firstParty\":\"\",\"do"
+    },
+    {
+     "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-Z6RNT679VR&gtm=45je6a50v871331029z8854728805za20gzb854728805zd854728805xf1&_p=1791303075061&gcs=G111&gcd=13r3r3r3r5l1&npa=0&dma=0&_eu=AAAAAAQ&cid=3",
+     "body": "en=scroll&ep.allowLinker=false&ep.customTask=function()%7Bfor(var%20u%3D%0A%5B%5D%2Cv%3D0%3Bv%3Carguments.length%3Bv%2B%2B)u%5Bv%5D%3D%24d(arguments%5Bv%5D%2Cb%2Cc)%3Bvar%20w%3Dnew%20kb(b%3Fb.Zd()%3Anew%20Xa)%3Bb%26%26w.je(b.kb())%3Breturn%20f(g.apply(w%2Cu))%7D&epn.percent_scrolled=25&_et=417\r\nen=scroll&ep.allowLinker=false&ep.customTask=function()%7Bfor(var%20u%3D%0A%5B%5D%2Cv%3D0%3Bv%3Cargument"
+    },
+    {
+     "url": "https://y.clarity.ms/collect",
+     "body": "\u001f�\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003���c7�5�*�>�\f$���^\rc஋�3��vu� +�PD(3թ��%E�Ӄ\u0001���\u0007�~N�U=�`-��l��d]\u001aN\u0018��H\u001en\u001e�g��$���v��\u0017���Y\u001c�+�2��7.���q9|�e܄���ji>�ޝ��r��\u001f��r�/Wf5���������?����g���f��}�������������aw������y���e�ۿ2�1�}��r�_�\\-7�߼xἳ��2�\r+k��r�¹�VfX�հJðZ�q{����\u0010>\u000b�������,WKwm���\u001f�m>s��r}�9^-W\u0006��-~\f��\u001fR�o<\u0012\u0018�e��\r\u001b����]�uw�햫�=nO��|�Yx�wg���P�\u0007oZ�q���!��\u0007��������{���lo��\u001a��qe�jLi\u0015�ae��V��jy9�o�� \u001e�W.X\u0006\u0018�0�\u0001�u\b`�X\u0002D7K!��|\u0000\u0014"
+    }
+   ],
+   "textAtLoad": 3549,
+   "mainEmptyAtLoad": false
+  }
+ },
+ "findings": [
+  {
+   "id": "a-unknown-third-party-host-epcloud-ccm19-de",
+   "class": "A",
+   "feature": "unknown third-party host epcloud.ccm19.de",
+   "hint": "inspect",
+   "evidence": [
+    "epcloud.ccm19.de"
+   ],
+   "pages": [
+    "/en/About-us/Awards/",
+    "/en/About-us/Company/",
+    "/en/About-us/Events/",
+    "/en/EDI/",
+    "/en/Forms/agility-on-point-form/",
+    "/en/Productfinder.html",
+    "/en/technical/News-Detail_101184.html"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-px-ads-linkedin-com",
+   "class": "A",
+   "feature": "unknown third-party host px.ads.linkedin.com",
+   "hint": "inspect",
+   "evidence": [
+    "px.ads.linkedin.com"
+   ],
+   "pages": [
+    "/en/About-us/Awards/",
+    "/en/About-us/Company/",
+    "/en/About-us/Events/",
+    "/en/EDI/",
+    "/en/Forms/agility-on-point-form/",
+    "/en/Productfinder.html",
+    "/en/technical/News-Detail_101184.html"
+   ]
+  },
+  {
+   "id": "a-cms-app-settings-object-datalayer",
+   "class": "A",
+   "feature": "CMS / app settings object dataLayer",
+   "hint": "settings",
+   "evidence": [],
+   "pages": [
+    "/en/About-us/Awards/",
+    "/en/About-us/Company/",
+    "/en/About-us/Events/",
+    "/en/EDI/",
+    "/en/Forms/agility-on-point-form/",
+    "/en/Productfinder.html",
+    "/en/technical/News-Detail_101184.html"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-www-etracker-de",
+   "class": "A",
+   "feature": "unknown third-party host www.etracker.de",
+   "hint": "inspect",
+   "evidence": [
+    "www.etracker.de"
+   ],
+   "pages": [
+    "/en/About-us/Company/",
+    "/en/EDI/",
+    "/en/Forms/agility-on-point-form/",
+    "/en/Productfinder.html",
+    "/en/technical/News-Detail_101184.html"
+   ]
+  },
+  {
+   "id": "a-first-party-api-post-mwf-live-servlet-rest",
+   "class": "A",
+   "feature": "first-party API POST /mwf_live/servlet/rest",
+   "api": {
+    "method": "POST",
+    "path": "/mwf_live/servlet/rest"
+   },
+   "hint": "api",
+   "evidence": [
+    "POST /mwf_live/servlet/rest?_input,_mwfToken:EN2749431,_service,_uid → 200"
+   ],
+   "pages": [
+    "/en/Forms/agility-on-point-form/"
+   ],
+   "reach": {
+    "pages": 6,
+    "of": 99
+   }
+  },
+  {
+   "id": "cr-client-rendered-slot-module-fact-counter-content-js-fact-",
+   "class": "CR",
+   "feature": "client-rendered slot module-fact-counter--content js-fact-counter red",
+   "hint": "client-rendered",
+   "evidence": [
+    "Worldwide over 13,000 people work for the Linde Material Han"
+   ],
+   "pages": [
+    "/en/About-us/Company/"
+   ]
+  },
+  {
+   "id": "f-form-global-search-form-origin-en-about-us-awards-1-fields",
+   "class": "F",
+   "feature": "form \"global-search__form\" → origin /en/About-us/Awards/ (1 fields)",
+   "signature": [
+    "text:"
+   ],
+   "hint": "forms",
+   "evidence": [
+    "text:"
+   ],
+   "pages": [
+    "/en/About-us/Awards/"
+   ]
+  },
+  {
+   "id": "f-form-global-search-form-origin-en-about-us-company-1-field",
+   "class": "F",
+   "feature": "form \"global-search__form\" → origin /en/About-us/Company/ (1 fields)",
+   "signature": [
+    "text:"
+   ],
+   "hint": "forms",
+   "evidence": [
+    "text:"
+   ],
+   "pages": [
+    "/en/About-us/Company/"
+   ]
+  },
+  {
+   "id": "f-form-global-search-form-origin-en-about-us-events-1-fields",
+   "class": "F",
+   "feature": "form \"global-search__form\" → origin /en/About-us/Events/ (1 fields)",
+   "signature": [
+    "text:"
+   ],
+   "hint": "forms",
+   "evidence": [
+    "text:"
+   ],
+   "pages": [
+    "/en/About-us/Events/"
+   ]
+  },
+  {
+   "id": "f-form-global-search-form-origin-en-edi-1-fields",
+   "class": "F",
+   "feature": "form \"global-search__form\" → origin /en/EDI/ (1 fields)",
+   "signature": [
+    "text:"
+   ],
+   "hint": "forms",
+   "evidence": [
+    "text:"
+   ],
+   "pages": [
+    "/en/EDI/"
+   ]
+  },
+  {
+   "id": "f-form-global-search-form-origin-en-forms-agility-on-point-f",
+   "class": "F",
+   "feature": "form \"global-search__form\" → origin /en/Forms/agility-on-point-form/ (1 fields)",
+   "signature": [
+    "text:"
+   ],
+   "hint": "forms",
+   "evidence": [
+    "text:"
+   ],
+   "pages": [
+    "/en/Forms/agility-on-point-form/"
+   ]
+  },
+  {
+   "id": "f-form-commanden2749431-no-action-js-wired-13-fields",
+   "class": "F",
+   "feature": "form \"commandEN2749431\" → no action (JS-wired) (13 fields)",
+   "signature": [
+    "select:title",
+    "text:name",
+    "text:surname",
+    "text:company",
+    "text:street",
+    "text:no",
+    "text:zipcode",
+    "text:city",
+    "text:phone",
+    "text:email",
+    "select:countryGlobal",
+    "textarea:message"
+   ],
+   "hint": "client-compute?",
+   "evidence": [
+    "select:title,text:name,text:surname,text:company,text:street,text:no,text:zipcode,text:city,text:phone,text:email,select:countryGlobal,textarea:message",
+    "statistics,chksmlf,mwf_leadid,mwf_leadid_inmail,useCountryService,useCountryService"
+   ],
+   "pages": [
+    "/en/Forms/agility-on-point-form/"
+   ]
+  },
+  {
+   "id": "f-form-global-search-form-origin-en-productfinder-html-1-fie",
+   "class": "F",
+   "feature": "form \"global-search__form\" → origin /en/Productfinder.html (1 fields)",
+   "signature": [
+    "text:"
+   ],
+   "hint": "forms",
+   "evidence": [
+    "text:"
+   ],
+   "pages": [
+    "/en/Productfinder.html"
+   ]
+  },
+  {
+   "id": "f-form-less-control-group-in-body-30-controls",
+   "class": "F",
+   "feature": "form-less control group in body (30 controls)",
+   "hint": "client-compute?",
+   "evidence": [
+    "model,Pallet Trucks,Tow Tractors,Reach Trucks,Very Narrow Aisle Trucks,Pallet Stackers,Order Pickers,Electric Forklifts,Diesel / Gas Forklifts,Heavy Duty Forklifts,Tugger Trains,Automated Trucks"
+   ],
+   "pages": [
+    "/en/Productfinder.html"
+   ]
+  },
+  {
+   "id": "f-form-less-control-group-in-div-form-control-input-2-contro",
+   "class": "F",
+   "feature": "form-less control group in div.form_control_input (2 controls)",
+   "hint": "client-compute?",
+   "evidence": [],
+   "pages": [
+    "/en/Productfinder.html"
+   ]
+  },
+  {
+   "id": "f-form-global-search-form-origin-en-technical-news-detail-10",
+   "class": "F",
+   "feature": "form \"global-search__form\" → origin /en/technical/News-Detail_101184.html (1 fields)",
+   "signature": [
+    "text:"
+   ],
+   "hint": "forms",
+   "evidence": [
+    "text:"
+   ],
+   "pages": [
+    "/en/technical/News-Detail_101184.html"
+   ]
+  },
+  {
+   "id": "i18n-locale-variants-en-us-en-us-en-us-en-us-en-us",
+   "class": "I18N",
+   "feature": "locale variants en-US,en-US,en-US,en-US,en-US",
+   "hint": "locale",
+   "evidence": [
+    "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup"
+   ],
+   "pages": [
+    "/en/About-us/Awards/",
+    "/en/About-us/Company/",
+    "/en/About-us/Events/",
+    "/en/EDI/",
+    "/en/Forms/agility-on-point-form/",
+    "/en/Productfinder.html",
+    "/en/technical/News-Detail_101184.html"
+   ]
+  },
+  {
+   "id": "m-modal-trigger-data-ccm-modal-dialog-form",
+   "class": "M",
+   "feature": "modal trigger data-ccm-modal → dialog:form",
+   "hint": "modal",
+   "evidence": [
+    "Settings",
+    "?"
+   ],
+   "pages": [
+    "/en/About-us/Awards/",
+    "/en/About-us/Company/",
+    "/en/About-us/Events/",
+    "/en/EDI/",
+    "/en/Forms/agility-on-point-form/",
+    "/en/Productfinder.html",
+    "/en/technical/News-Detail_101184.html"
+   ],
+   "reach": {
+    "pages": 495,
+    "of": 99
+   }
+  },
+  {
+   "id": "m-modal-trigger-aria-haspopup-listbox-content",
+   "class": "M",
+   "feature": "modal trigger aria-haspopup → listbox:content",
+   "hint": "modal",
+   "evidence": [
+    "Mr."
+   ],
+   "pages": [
+    "/en/Forms/agility-on-point-form/"
+   ],
+   "reach": {
+    "pages": 12,
+    "of": 99
+   }
+  },
+  {
+   "id": "s-first-party-api-get-lmhnewproductsearch-cloud-execute",
+   "class": "S",
+   "feature": "first-party API GET /lmhnewproductsearch_cloud/execute",
+   "api": {
+    "method": "GET",
+    "path": "/lmhnewproductsearch_cloud/execute"
+   },
+   "hint": "search",
+   "evidence": [
+    "GET /lmhnewproductsearch_cloud/execute?capacityPoints,fl,fq,query,rows,sortBy,sortOrder,ts,wt → 200"
+   ],
+   "pages": [
+    "/en/Productfinder.html"
+   ],
+   "reach": {
+    "pages": 2,
+    "of": 99
+   }
+  },
+  {
+   "id": "t-unknown-third-party-host-epcdn-ccm19-de",
+   "class": "T",
+   "feature": "unknown third-party host epcdn.ccm19.de",
+   "hint": "inspect",
+   "evidence": [
+    "epcdn.ccm19.de"
+   ],
+   "pages": [
+    "/en/About-us/Awards/",
+    "/en/About-us/Company/",
+    "/en/About-us/Events/",
+    "/en/EDI/",
+    "/en/Forms/agility-on-point-form/",
+    "/en/Productfinder.html",
+    "/en/technical/News-Detail_101184.html"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-static-etracker-com",
+   "class": "T",
+   "feature": "unknown third-party host static.etracker.com",
+   "hint": "inspect",
+   "evidence": [
+    "static.etracker.com"
+   ],
+   "pages": [
+    "/en/About-us/Awards/",
+    "/en/About-us/Company/",
+    "/en/About-us/Events/",
+    "/en/EDI/",
+    "/en/Forms/agility-on-point-form/",
+    "/en/Productfinder.html",
+    "/en/technical/News-Detail_101184.html"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-code-etracker-com",
+   "class": "T",
+   "feature": "unknown third-party host code.etracker.com",
+   "hint": "inspect",
+   "evidence": [
+    "code.etracker.com"
+   ],
+   "pages": [
+    "/en/About-us/Awards/",
+    "/en/About-us/Company/",
+    "/en/About-us/Events/",
+    "/en/EDI/",
+    "/en/Forms/agility-on-point-form/",
+    "/en/Productfinder.html",
+    "/en/technical/News-Detail_101184.html"
+   ]
+  },
+  {
+   "id": "t-tag-manager-google-tag-manager",
+   "class": "T",
+   "feature": "tag manager: Google Tag Manager",
+   "role": "tag manager: Google Tag Manager",
+   "hint": "tags",
+   "evidence": [
+    "www.googletagmanager.com"
+   ],
+   "pages": [
+    "/en/About-us/Awards/",
+    "/en/About-us/Company/",
+    "/en/About-us/Events/",
+    "/en/EDI/",
+    "/en/Forms/agility-on-point-form/",
+    "/en/Productfinder.html",
+    "/en/technical/News-Detail_101184.html"
+   ]
+  },
+  {
+   "id": "t-analytics-session-replay",
+   "class": "T",
+   "feature": "analytics: session replay",
+   "role": "analytics: session replay",
+   "hint": "tags",
+   "evidence": [
+    "www.clarity.ms",
+    "c.clarity.ms",
+    "scripts.clarity.ms",
+    "l.clarity.ms",
+    "b.clarity.ms",
+    "o.clarity.ms",
+    "t.clarity.ms",
+    "k.clarity.ms",
+    "r.clarity.ms",
+    "y.clarity.ms"
+   ],
+   "pages": [
+    "/en/About-us/Awards/",
+    "/en/About-us/Company/",
+    "/en/About-us/Events/",
+    "/en/EDI/",
+    "/en/Forms/agility-on-point-form/",
+    "/en/Productfinder.html",
+    "/en/technical/News-Detail_101184.html"
+   ]
+  },
+  {
+   "id": "t-marketing-ad-retargeting-pixel",
+   "class": "T",
+   "feature": "marketing: ad / retargeting pixel",
+   "role": "marketing: ad / retargeting pixel",
+   "hint": "tags",
+   "evidence": [
+    "connect.facebook.net",
+    "snap.licdn.com"
+   ],
+   "pages": [
+    "/en/About-us/Awards/",
+    "/en/About-us/Company/",
+    "/en/About-us/Events/",
+    "/en/EDI/",
+    "/en/Forms/agility-on-point-form/",
+    "/en/Productfinder.html",
+    "/en/technical/News-Detail_101184.html"
+   ]
+  },
+  {
+   "id": "t-analytics-google-analytics-ads",
+   "class": "T",
+   "feature": "analytics: Google Analytics / Ads",
+   "role": "analytics: Google Analytics / Ads",
+   "hint": "tags",
+   "evidence": [
+    "www.google-analytics.com"
+   ],
+   "pages": [
+    "/en/About-us/Awards/",
+    "/en/About-us/Company/",
+    "/en/About-us/Events/",
+    "/en/EDI/",
+    "/en/Forms/agility-on-point-form/",
+    "/en/Productfinder.html",
+    "/en/technical/News-Detail_101184.html"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-c-bing-com",
+   "class": "T",
+   "feature": "unknown third-party host c.bing.com",
+   "hint": "inspect",
+   "evidence": [
+    "c.bing.com"
+   ],
+   "pages": [
+    "/en/About-us/Awards/",
+    "/en/About-us/Company/",
+    "/en/About-us/Events/",
+    "/en/EDI/",
+    "/en/Forms/agility-on-point-form/",
+    "/en/Productfinder.html",
+    "/en/technical/News-Detail_101184.html"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-www-linkedin-com",
+   "class": "T",
+   "feature": "unknown third-party host www.linkedin.com",
+   "hint": "inspect",
+   "evidence": [
+    "www.linkedin.com"
+   ],
+   "pages": [
+    "/en/About-us/Awards/",
+    "/en/About-us/Company/",
+    "/en/About-us/Events/",
+    "/en/EDI/",
+    "/en/Forms/agility-on-point-form/",
+    "/en/Productfinder.html",
+    "/en/technical/News-Detail_101184.html"
+   ]
+  },
+  {
+   "id": "t-third-party-mount-div-data-nosnippet-tag-manager-injected-",
+   "class": "T",
+   "feature": "third-party mount <div data-nosnippet> (tag-manager-injected widget)",
+   "hint": "tags",
+   "evidence": [
+    "data-nosnippet"
+   ],
+   "pages": [
+    "/en/About-us/Awards/",
+    "/en/About-us/Company/",
+    "/en/About-us/Events/",
+    "/en/EDI/",
+    "/en/Forms/agility-on-point-form/",
+    "/en/Productfinder.html",
+    "/en/technical/News-Detail_101184.html"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-www-etracker-de",
+   "class": "T",
+   "feature": "unknown third-party host www.etracker.de",
+   "hint": "inspect",
+   "evidence": [
+    "www.etracker.de"
+   ],
+   "pages": [
+    "/en/About-us/Awards/",
+    "/en/About-us/Events/"
+   ]
+  },
+  {
+   "id": "x-sign-in-account-links",
+   "class": "X",
+   "feature": "sign-in / account links",
+   "hint": "decided-out",
+   "evidence": [
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/"
+   ],
+   "pages": [
+    "/en/About-us/Awards/",
+    "/en/About-us/Company/",
+    "/en/About-us/Events/",
+    "/en/EDI/",
+    "/en/Forms/agility-on-point-form/",
+    "/en/Productfinder.html",
+    "/en/technical/News-Detail_101184.html"
+   ]
+  },
+  {
+   "id": "x-commerce-signals-cart-true-prices-0",
+   "class": "X",
+   "feature": "commerce signals (cart: true, prices: 0)",
+   "hint": "decided-out",
+   "evidence": [],
+   "pages": [
+    "/en/Productfinder.html"
+   ]
+  }
+ ],
+ "reach": {
+  "pagesWithEvidence": 99,
+  "of": 99,
+  "endpoints": {
+   "GET epcloud.ccm19.de/consent/ccm19/public/widget": 99,
+   "POST epcloud.ccm19.de/consent/ccm19/public/cron": 38,
+   "POST t.clarity.ms/collect": 30,
+   "POST px.ads.linkedin.com/wa/": 99,
+   "POST www.google-analytics.com/g/collect": 99,
+   "POST g.clarity.ms/collect": 31,
+   "POST b.clarity.ms/collect": 31,
+   "POST epcloud.ccm19.de/consent/ccm19/public/page_check/report": 25,
+   "POST www.etracker.de/api/v6/tracking/webEvents": 54,
+   "POST epcloud.ccm19.de/consent/ccm19/public/statistics/consent": 4,
+   "POST f.clarity.ms/collect": 3,
+   "POST www.linde-mh.com/mwf_live/servlet/form": 8,
+   "POST www.linde-mh.com/mwf_live/servlet/rest": 6,
+   "POST o.clarity.ms/collect": 4,
+   "GET epcloud.ccm19.de/consent/ccm19/public/cookie-declaration": 1,
+   "GET www.linde-mh.com/lmhnewproductsearch_cloud/execute": 2,
+   "GET www.linde-mh.com/en/layoutmedia/layout/hbs/productfinder-producttile.hbs": 2,
+   "GET maps.googleapis.com/maps/api/mapsjs/gen_204": 1,
+   "GET maps.googleapis.com/maps/api/mapsjs/mapConfigs:batchGet": 1,
+   "POST maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo": 1,
+   "GET mapsresources-pa.googleapis.com/v1/featureMaps": 1,
+   "GET www.linde-mh.com/en/technical/Dealer-finder-app/Dealer-Finder-App-Data.json": 1
+  },
+  "searchFormPages": 0,
+  "formPages": 8,
+  "triggerPages": {
+   "data-ccm-modal": 495,
+   "aria-haspopup": 12
+  }
+ }
+}

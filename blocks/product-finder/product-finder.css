@@ -1,0 +1,1031 @@
+/* product-finder — static snapshot of the finder (source .productfinder-selector / .productfinder /
+   .product-tile); values lifted from the gated prototype stardust/prototypes/en-productfinder-html.css
+   (index + light-range finder bundles). Live measured 1440: selector 227, tile 525 (details 275),
+   filter rail 320, grid x 320 w 1120; 360: selector 120, tile 280 wide / 495 tall. */
+.product-finder-container .product-finder-wrapper {
+  max-width: none;
+  padding: 0;
+}
+
+.product-finder {
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.product-finder *,
+.product-finder *::before,
+.product-finder *::after {
+  box-sizing: border-box;
+}
+
+.product-finder .pf-hidden {
+  display: none;
+}
+
+.product-finder ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* the foundation's p { line-height: 1.75 } must not size the finder's one-line labels */
+.product-finder p {
+  margin: 0;
+  line-height: inherit;
+}
+
+/* glyphs (LindeGlobalIconFont codepoints from the finder bundle) */
+.product-finder .pf-icon-forklift::before { content: "\f137"; }
+.product-finder .pf-icon-calendar::before { content: "\f129"; }
+.product-finder .pf-icon-needle::before { content: "\f145"; }
+.product-finder .pf-icon-sfilter::before { content: "\f173"; }
+.product-finder .pf-icon-producttype::before { content: "\f18b"; }
+.product-finder .pf-icon-application::before { content: "\f112"; }
+.product-finder .pf-icon-loadcapacity::before { content: "\f189"; }
+.product-finder .pf-icon-height::before { content: "\f123"; }
+.product-finder .pf-icon-drivetype::before { content: "\f11a"; }
+.product-finder .pf-icon-explosionproof::before { content: "\f19b"; }
+.product-finder .pf-icon-price::before { content: "\f18a"; }
+.product-finder .pf-icon-taskslist::before { content: "\f15b"; }
+.product-finder .pf-icon-yearofmanufacturing::before { content: "\f191"; }
+.product-finder .pf-icon-settings::before { content: "\f156"; }
+.product-finder .pf-icon-addpin::before { content: "\f167"; }
+.product-finder .pf-icon-arrowright::before { content: "\f127"; }
+.product-finder .pf-icon-down::before { content: "\f12f"; }
+.product-finder .pf-icon-left::before { content: "\f13d"; }
+
+/* buttons (canon .btn family) */
+.product-finder .pf-btn {
+  display: inline-block;
+  position: relative;
+  padding: 8px 16px;
+  line-height: 30px;
+  font-size: 1rem;
+  text-align: center;
+  border: 1px solid transparent;
+  cursor: pointer;
+  background: none;
+}
+
+.product-finder .pf-btn p {
+  display: inline;
+}
+
+.product-finder a.pf-btn:any-link {
+  color: inherit;
+  text-decoration: none;
+  margin: 0;
+  max-width: none;
+}
+
+.product-finder a.pf-btn-primary:any-link {
+  color: var(--color-white);
+}
+
+.product-finder a.pf-btn-icon:any-link {
+  padding: 12px;
+}
+
+.product-finder .pf-btn-icon {
+  height: 48px;
+  width: 48px;
+  padding: 12px;
+  line-height: 0;
+}
+
+.product-finder .pf-btn-icon .icon {
+  display: inline-block;
+  height: 24px;
+  width: 24px;
+  line-height: 24px;
+  margin: 0;
+}
+
+.product-finder .pf-btn-plain {
+  background: transparent;
+}
+
+.product-finder .pf-btn-primary {
+  background-color: var(--color-red);
+  color: var(--color-white);
+}
+
+.product-finder .pf-btn-grey {
+  background-color: var(--color-lightgrey);
+}
+
+.product-finder .pf-counter {
+  position: absolute;
+  top: 0.25em;
+  right: 0.25em;
+  display: block;
+  font-size: 0.875rem;
+  line-height: 0;
+  border-radius: 0.625em;
+  padding: 0.625em 0.25em;
+  font-weight: 600;
+  min-width: 1.25em;
+  background: var(--color-red);
+  color: var(--color-white);
+}
+
+/* selector band */
+.product-finder .pf-selector {
+  position: relative;
+  display: block;
+  width: 100%;
+  background: var(--color-white);
+}
+
+.product-finder .pf-selector-wrap {
+  position: relative;
+  width: 100%;
+  padding: 0;
+  background: var(--color-white);
+  overflow: hidden;
+  height: 100%;
+}
+
+.product-finder .pf-tabs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 120px;
+  margin: 0 2rem 0 0;
+  white-space: nowrap;
+  font-size: 2rem;
+}
+
+.product-finder .pf-tab {
+  position: relative;
+  display: inline-block;
+  width: auto;
+  height: 2rem;
+  padding: 0 32px;
+  border-bottom: 1px solid var(--color-white);
+  line-height: 48px;
+  cursor: pointer;
+}
+
+.product-finder .pf-tab-icon {
+  display: none;
+  color: var(--color-red);
+  width: 45px;
+  text-align: center;
+}
+
+.product-finder .pf-tab-name {
+  display: flex;
+  font-size: 1.5rem;
+}
+
+.product-finder .pf-tab-name div,
+.product-finder .pf-tab-name p {
+  display: inline;
+}
+
+.product-finder .pf-tab-label {
+  max-width: 75vw;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.product-finder .pf-tab-count {
+  font-size: 0.7rem;
+  font-weight: 400;
+  color: #6a6b6e;
+  padding-top: 0.1rem;
+  margin-left: 0.3rem;
+}
+
+.product-finder .pf-tab-active {
+  color: var(--color-red);
+}
+
+.product-finder .pf-tab-active .pf-tab-name {
+  font-weight: 600;
+}
+
+@media (width >= 1024px) {
+  .product-finder .pf-selector-wrap {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    height: auto;
+    overflow: visible;
+    background: linear-gradient(180deg, var(--color-lightgrey) 65%, var(--color-white) 0);
+    padding-top: 75px;
+  }
+
+  .product-finder .pf-tabs {
+    flex-direction: row;
+    height: auto;
+    margin: 0;
+    font-size: inherit;
+    gap: 1rem;
+    box-shadow: 0 0 0 18px var(--color-white);
+    background-color: var(--color-white);
+  }
+
+  .product-finder .pf-tab {
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    width: 300px;
+    height: auto;
+    padding: 32px 0 32px 16px;
+    background: var(--color-lightgrey);
+    border-bottom: 4px solid var(--color-lightgrey);
+    line-height: normal;
+  }
+
+  .product-finder .pf-tab-active,
+  .product-finder .pf-tab:hover {
+    color: inherit;
+    border-bottom: 4px solid var(--color-red);
+  }
+
+  .product-finder .pf-tab-icon {
+    display: inline-block;
+    margin: auto auto 1rem;
+  }
+
+  .product-finder .pf-tab-icon .icon {
+    font-size: 2rem;
+  }
+
+  .product-finder .pf-tab-name {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    gap: 0.25em;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.15;
+  }
+
+  .product-finder .pf-tab-name:hover {
+    color: var(--color-red);
+  }
+
+  .product-finder .pf-tab-count {
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: #6a6b6e;
+    padding-top: 0;
+    margin-left: 0;
+  }
+}
+
+/* toolbar (mobile compare / filter buttons; empty 48 px band on desktop) */
+.product-finder .pf-toolbar {
+  position: static;
+  background: var(--color-white);
+  z-index: 1;
+  padding: 0;
+}
+
+.product-finder .pf-toolbar-inner {
+  position: absolute;
+  top: 1rem;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0;
+  z-index: 2;
+}
+
+.product-finder .pf-toolbar-btn {
+  margin-bottom: 0.3rem;
+  background: var(--color-red);
+  color: var(--color-white);
+}
+
+@media (width >= 1024px) {
+  .product-finder .pf-toolbar {
+    padding: 0 16px;
+  }
+
+  .product-finder .pf-toolbar-inner {
+    position: static;
+    flex-direction: row;
+    max-width: 1280px;
+    margin: auto;
+    min-height: 48px;
+  }
+
+  .product-finder .pf-toolbar-btn {
+    display: none;
+  }
+}
+
+/* finder: filter rail + results */
+.product-finder .pf-finder {
+  width: 100%;
+  display: flex;
+  align-items: stretch;
+  flex-wrap: nowrap;
+  min-height: calc(100vh - 148px);
+}
+
+.product-finder .pf-rail {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100vh;
+  padding: 0;
+  margin-bottom: 16px;
+  background: var(--color-white);
+  z-index: 9999;
+  transform: translate(100%);
+}
+
+.product-finder .pf-groups {
+  height: calc(100vh - 49px);
+  padding-bottom: 32px;
+  overflow: auto;
+  overflow-x: hidden;
+}
+
+.product-finder .pf-rail-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.product-finder .pf-rail-spinner {
+  width: 30px;
+  height: 25px;
+  margin-right: 8px;
+}
+
+.product-finder .pf-search input {
+  width: 100%;
+  height: 48px;
+  margin: 0;
+  padding: 8px 16px;
+  border: 1px solid var(--color-form-lightgrey);
+  border-left-color: transparent;
+  border-right-color: transparent;
+  background: var(--color-white);
+  font: inherit;
+}
+
+.product-finder .pf-group {
+  position: static;
+  width: 100%;
+  border-bottom: 1px solid var(--color-lightgrey);
+}
+
+.product-finder .pf-group-header {
+  cursor: pointer;
+  min-height: 45px;
+  line-height: 45px;
+  border-top: 3px solid transparent;
+}
+
+.product-finder .pf-group-header > div {
+  display: inline-block;
+}
+
+.product-finder .pf-group-icon {
+  color: var(--color-red);
+  margin-right: 8px;
+}
+
+.product-finder .pf-group-name {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.product-finder .pf-group-name p {
+  display: inline;
+}
+
+.product-finder .pf-group-add {
+  color: var(--color-red);
+  width: 45px;
+  text-align: center;
+  float: right;
+}
+
+.product-finder .pf-group-flyout {
+  display: block;
+  position: absolute;
+  inset: 49px 0 0;
+  width: 100%;
+  height: calc(100vh - 49px);
+  margin: auto;
+  padding: 0 16px;
+  background: var(--color-white);
+  overflow: auto;
+  overflow-x: hidden;
+  transform: translate(100%);
+  z-index: 1;
+}
+
+.product-finder .pf-group-reset {
+  text-align: right;
+}
+
+.product-finder .pf-group-extra {
+  position: relative;
+  width: calc(100% + 32px);
+  left: -16px;
+  bottom: -16px;
+  padding: 16px;
+  background: var(--color-shadegrey);
+  z-index: 1;
+}
+
+.product-finder .pf-group-extra-title {
+  font-weight: 600;
+}
+
+.product-finder .pf-group-extra-text {
+  margin-bottom: 8px;
+}
+
+.product-finder .pf-reset {
+  text-align: right;
+}
+
+/* checkbox options (closed flyout: never painted at rest) */
+.product-finder .pf-checkbox {
+  display: block;
+  position: relative;
+  margin: 0 0 0 24px;
+  padding: 12px 0 0 8px;
+  min-height: 48px;
+  min-width: 120px;
+  font-size: 15px;
+  color: var(--color-darkgrey);
+  cursor: pointer;
+}
+
+.product-finder .pf-checkbox input {
+  display: block;
+  position: absolute;
+  height: 24px;
+  margin: 0;
+  padding: 0;
+  opacity: 0;
+  z-index: -100;
+}
+
+.product-finder .pf-checkbox span {
+  display: block;
+  height: 24px;
+  line-height: 24px;
+}
+
+.product-finder .pf-checkbox span::before {
+  content: "";
+  display: block;
+  float: left;
+  width: 24px;
+  height: 24px;
+  margin: 0 8px 0 -32px;
+  border: 1px solid var(--color-form-lightgrey);
+  background: var(--color-white);
+}
+
+.product-finder .pf-checkbox input:checked ~ span::before {
+  content: "\f12c";
+  font-family: var(--icon-font-family);
+  font-size: 22px;
+  line-height: 22px;
+  text-align: center;
+  color: var(--color-white);
+  background: var(--color-red);
+  border-color: var(--color-red);
+}
+
+/* range options */
+.product-finder .pf-range {
+  display: flex;
+  flex-direction: column;
+}
+
+.product-finder .pf-range-sliders {
+  position: relative;
+  height: 30px;
+  cursor: pointer;
+}
+
+.product-finder .pf-range-sliders input {
+  appearance: none;
+  position: absolute;
+  width: 100%;
+  height: 8px;
+  min-height: 8px;
+  padding: 0;
+  border: none;
+  background: linear-gradient(to right, #990e1f 0, #eeeff3 0);
+}
+
+.product-finder .pf-range-fields {
+  display: flex;
+  gap: 10px;
+  margin-top: 8px;
+}
+
+.product-finder .pf-range-field {
+  position: relative;
+  flex: 1;
+}
+
+.product-finder .pf-range-field input {
+  width: 100%;
+  padding-right: 40px;
+}
+
+.product-finder .pf-range-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+.product-finder .pf-range-unit {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--color-text-darkgrey);
+  pointer-events: none;
+  font-size: 0.9rem;
+}
+
+.product-finder .pf-text-fields .pf-filter {
+  margin-top: 16px;
+}
+
+.product-finder .pf-text-fields input {
+  width: 100%;
+}
+
+/* compare panel (desktop rail foot; inert — no commerce on the target) */
+.product-finder .pf-compare {
+  display: none;
+  flex-direction: column;
+  width: 304px;
+  margin: 8px;
+  background: var(--color-white);
+}
+
+.product-finder .pf-compare-header {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 48px;
+  min-height: 48px;
+  flex: 0 0 48px;
+  line-height: 48px;
+}
+
+.product-finder .pf-compare-count {
+  min-width: 32px;
+  width: 32px;
+  height: 32px;
+  min-height: 32px;
+  margin-left: 8px;
+  border-radius: 40px;
+  background-color: #ba1926;
+  color: var(--color-white);
+  text-align: center;
+  font-size: 21px;
+  line-height: 35px;
+  font-family: var(--bold-font-family);
+}
+
+.product-finder .pf-compare-title {
+  flex: 1 1 100%;
+  min-height: 32px;
+  padding-left: 8px;
+  font-size: 18px;
+  line-height: 32px;
+  font-family: var(--bold-font-family);
+}
+
+.product-finder .pf-compare-header .icon {
+  display: none;
+}
+
+.product-finder .pf-compare-dropzone {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 100px;
+  height: 100px;
+  min-height: 50px;
+  margin: 0 8px;
+  padding: 16px;
+  border: 1px dashed var(--color-form-lightgrey);
+  text-align: center;
+  color: var(--color-textgrey);
+}
+
+.product-finder .pf-compare-dropzone .icon {
+  flex: 0 0 auto;
+  margin: 0 16px 0 0;
+}
+
+.product-finder .pf-compare-drop-text {
+  flex: 1 1 100%;
+  font-size: 15px;
+}
+
+.product-finder .pf-compare-content {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 100%;
+  margin-top: 8px;
+}
+
+.product-finder .pf-compare-actions {
+  padding: 16px 8px 8px;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.product-finder .pf-compare-actions > * {
+  display: block;
+}
+
+.product-finder .pf-compare-actions > * + * {
+  margin-top: 8px;
+}
+
+.product-finder .pf-compare-actions .pf-btn {
+  display: block;
+  width: 100%;
+}
+
+/* results */
+.product-finder .pf-products {
+  flex: 1 1 75%;
+  min-width: 0;
+}
+
+.product-finder .pf-sort {
+  display: inline-block;
+  float: right;
+  margin: 2.5vw 2.5vw 0;
+}
+
+.product-finder .pf-grid {
+  clear: both;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 280px);
+  gap: 2rem;
+  justify-content: center;
+  margin: 0;
+  padding: calc(2.5vw - 8px);
+}
+
+.product-finder .pf-tile {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 calc(50% - 16px);
+  min-width: 280px;
+  max-width: 280px;
+  margin: 8px;
+}
+
+.product-finder .pf-tile-image {
+  min-width: 280px;
+  height: 100%;
+  align-self: center;
+  z-index: 5;
+}
+
+.product-finder .pf-tile-link {
+  display: block;
+  width: 280px;
+  opacity: 1;
+}
+
+.product-finder .pf-tile-ratio {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  padding-bottom: 100%;
+}
+
+.product-finder .pf-tile-ratio > picture,
+.product-finder .pf-tile-ratio > img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: auto;
+  transform: translateY(5%);
+}
+
+.product-finder .pf-tile-ratio picture img {
+  position: static;
+  width: 100%;
+  height: auto;
+  transform: none;
+}
+
+/* live index bundle: the mobile tile image sits 15 % down (measured translateY 42 px at 280) */
+@media (width < 640px) {
+  .product-finder .pf-tile-ratio > picture,
+  .product-finder .pf-tile-ratio > img {
+    transform: translateY(15%);
+  }
+}
+
+.product-finder .pf-tile-details {
+  position: relative;
+  flex: 1 1 auto;
+  min-height: 275px;
+  height: 100%;
+  margin-top: -60px;
+  padding: 60px 8px 3rem 16px;
+  background: var(--color-lightgrey);
+}
+
+.product-finder .pf-tile-pin {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 5;
+}
+
+.product-finder .pf-tile-pin-link {
+  display: block;
+  color: inherit;
+}
+
+.product-finder .pf-tile-pin .icon {
+  opacity: 0.5;
+  transform: rotate(-45deg);
+}
+
+.product-finder .pf-tile-type {
+  display: inline-block;
+  position: relative;
+  max-width: 90%;
+}
+
+.product-finder .pf-tile-type p {
+  display: inline-block;
+  max-width: 100%;
+  padding: 6px 10px;
+  background-color: var(--color-textgrey);
+  color: var(--color-white);
+  font-size: 0.8rem;
+  line-height: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* the live tile h3 has no margin and a 1.32 line box (38 px at 1440); the +23 px Phase 4 residual
+   was the global heading margin */
+.product-finder .pf-tile-details :is(h2, h3, h4) {
+  margin: 0;
+  max-width: calc(100% - 48px);
+  font-size: 1.7rem;
+  line-height: 1.32;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.product-finder .pf-tile-details :is(h2, h3, h4) a {
+  color: var(--color-black);
+  font-family: var(--bold-font-family);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.product-finder .pf-tile-details :is(h2, h3, h4) a:hover {
+  color: var(--color-red);
+}
+
+.product-finder .pf-tile-specs {
+  width: 100%;
+}
+
+.product-finder .pf-tile-specs li {
+  margin-top: 2px;
+  color: var(--color-black);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.product-finder .pf-tile-specs .icon {
+  font-size: 20px;
+  vertical-align: top;
+  margin-right: 5px;
+}
+
+.product-finder .pf-tile-buttons {
+  position: absolute;
+  right: 0.5rem;
+  bottom: -3rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: right;
+  gap: 10px;
+  width: 40vw;
+  max-width: 300px;
+  margin: 0 auto 25px;
+  padding: 15px;
+}
+
+.product-finder .pf-tile-buttons p {
+  display: flex;
+  flex: 0 1 auto;
+  min-width: 0;
+}
+
+.product-finder .pf-tile-buttons a.pf-tile-button {
+  display: inline-block;
+  flex: 0 1 auto;
+  min-width: 0;
+  margin: 0;
+  padding: 12px 18px;
+  border: none;
+  border-radius: 0;
+  background-color: var(--color-red);
+  color: var(--color-white);
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  box-shadow: 0 0 0 8px var(--color-white);
+  cursor: pointer;
+}
+
+.product-finder .pf-tile-buttons a.pf-tile-button:hover {
+  background-color: var(--color-primary-700);
+  color: var(--color-white);
+}
+
+.product-finder .pf-tile-button-icon {
+  display: inline;
+  vertical-align: middle;
+  margin-right: 0;
+}
+
+.product-finder .pf-tile-button-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+  font-size: 1rem;
+}
+
+.product-finder .pf-more {
+  display: table;
+  margin: 0 auto;
+}
+
+.product-finder .pf-closing {
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 36px;
+}
+
+@media (width < 400px) {
+  .product-finder .pf-tile-buttons a.pf-tile-button {
+    padding: 12px;
+  }
+}
+
+@media (width >= 400px) {
+  .product-finder .pf-tile-button-icon {
+    display: none;
+  }
+
+  .product-finder .pf-tile-button-label {
+    position: static;
+    display: inline;
+    width: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    clip-path: none;
+    white-space: normal;
+  }
+}
+
+@media (width >= 640px) {
+  .product-finder .pf-grid {
+    grid-template-columns: repeat(auto-fill, 360px);
+    justify-content: space-around;
+  }
+
+  .product-finder .pf-tile {
+    min-width: 330px;
+    max-width: 350px;
+  }
+
+  .product-finder .pf-tile-image {
+    min-width: 330px;
+  }
+
+  .product-finder .pf-tile-link {
+    width: 310px;
+  }
+
+  .product-finder .pf-tile-buttons {
+    width: 100%;
+  }
+}
+
+@media (width >= 1024px) {
+  .product-finder .pf-finder {
+    padding: 8px;
+  }
+
+  .product-finder .pf-rail {
+    position: relative;
+    flex: 1 1 25%;
+    top: auto;
+    bottom: auto;
+    height: auto;
+    min-height: 900px;
+    min-width: 320px;
+    max-width: 320px;
+    margin-bottom: 0;
+    padding: 16px 0 0 16px;
+    transform: none;
+    z-index: auto;
+  }
+
+  .product-finder .pf-groups {
+    height: auto;
+    padding-bottom: 0;
+    overflow: visible;
+  }
+
+  .product-finder .pf-rail-header {
+    display: none;
+  }
+
+  .product-finder .pf-search input {
+    border-left-color: var(--color-form-lightgrey);
+    border-right-color: var(--color-form-lightgrey);
+  }
+
+  .product-finder .pf-group {
+    position: relative;
+  }
+
+  .product-finder .pf-group-add {
+    text-align: right;
+  }
+
+  .product-finder .pf-group-flyout {
+    position: static;
+    height: auto;
+    max-height: 0;
+    padding: 0;
+    opacity: 0;
+    overflow: hidden;
+    transform: none;
+  }
+
+  .product-finder .pf-compare {
+    display: flex;
+  }
+
+  .product-finder .pf-sort {
+    margin: 16px 32px 0;
+  }
+
+  .product-finder .pf-grid {
+    margin: -8px;
+    padding: 0 36px 4rem;
+  }
+
+  .product-finder .pf-closing {
+    min-height: 64px;
+  }
+}

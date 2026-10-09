@@ -1,0 +1,138 @@
+{
+ "source": "http://localhost:8803/stardust/migrated/en/technical/News-Detail_18902.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Linde opens new Remanufacturing Center for Used Trucks in the Czech Republic!"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "4 Oct 2017"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Refurbishment of up to 1,500 used Linde trucks for Central and Eastern Europe"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Linde Material Handling has opened a new remanufacturing center in Velké Bílovice near Brno. The plant specializes in the refurbishment of used industrial trucks for the Central and Eastern European sales region, employing state-of-the-art technologies, such as digitally connected systems, to track the reconditioning status of every individual forklift."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The center in Velké Bílovice currently comprises an area of more than 4,500 square meters and offers reconditioning capacity for 1,000 forklifts annually. In addition, there is an option of expanding to a total area of 6,250 square meters which would allow for an increase in capacity to 1,500 forklifts. At present, around 40 staff work at the new plant."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "All used trucks are refurbished according to Linde’s international “Approved Trucks” quality standards to ensure that all customers receive products of the same high quality, regardless of where in the world they are located. Linde offers three reconditioning standards – Linde Plus, Linde Super and Linde Ultra – to meet individual budgetary and application needs."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Linde Material Handling has opened a new remanufacturing center in Velké Bílovice near Brno in the Czech Republic. The plant specializes in the refurbishment of used industrial trucks for the Central and Eastern European sales region."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "All trucks refurbished in Brno are returns from Linde’s own long-term and short-term rental fleets. This means that they have been carefully looked after by trained technicians throughout their initial service life and come with a complete and documented service history. All repairs are carried out using original Linde spare parts exclusively. When the trucks leave the remanufacturing center, they comply with all the safety requirements for material handling equipment set by European legislation."
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "With the opening of the new remanufacturing center, Linde Material Handling continues the expansion of its used truck business. “We want to get even closer to our customers and provide them with the widest possible selection of material handling solutions,” says Christophe Lautray, member of Linde Material Handling’s Executive Board and Managing Director Sales & Service, adding, “Linde Approved Trucks are a high-quality, cost-effective option for our customers.”"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Cutting the red ribbon (from left): Marie Vlkova, mayor of the city Velke Bilovice, Christophe Lautray, Member of the Board and managing director Sales and Service Linde Material Handling and Jindrich Kotyza, managing director Linde Material Handling Česká republika."
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "The plant in Velké Bílovice is Linde MH’s fourth site in the Czech Republic. Linde Pohony (LiPo) produces steering axles as well as electric and hydrostatic drive axles for the KION Group in Český Krumlov. Joint venture JULI, which is also based near Brno, engages in the production of electric motors, and Linde reach trucks have been manufactured at Stříbro, near Pilsen, since 2016. At present, Linde Material Handling employs almost 1,500 people in the Czech Republic."
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "(Available subtitles: English, German):"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Video"
+    },
+    {
+     "role": "heading",
+     "order": 13,
+     "text": "Trade Press"
+    },
+    {
+     "role": "heading",
+     "order": 14,
+     "text": "Heike Oder"
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "+49 6021 991277",
+     "href": "tel:+49 6021 991277"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "Send email",
+     "href": "mailto:heike....oder@@@@linde-mh....de"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 15,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 14,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.infobox-media",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

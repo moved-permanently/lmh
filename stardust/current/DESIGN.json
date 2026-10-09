@@ -1,0 +1,1479 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-10-06T11:59:18.800Z",
+    "readArtifacts": [
+      "stardust/current/DESIGN.md",
+      "stardust/current/_brand-extraction.json",
+      "stardust/current/_modules-draft.json"
+    ],
+    "synthesizedInputs": [],
+    "stardustVersion": "0.27.0"
+  },
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-06T11:59:18.800Z",
+  "title": "Design System: Linde Material Handling",
+  "extensions": {
+    "colorMeta": {
+      "primary": {
+        "role": "primary",
+        "displayName": "Linde Red",
+        "canonical": "#aa0020",
+        "tonalRamp": [
+          "#cc132a",
+          "#aa0020",
+          "#94001d",
+          "#700016"
+        ]
+      },
+      "text-primary": {
+        "role": "neutral",
+        "displayName": "Text Dark",
+        "canonical": "#222222",
+        "tonalRamp": [
+          "#6a6b6e",
+          "#4a595c",
+          "#444444",
+          "#222222"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Surface",
+        "canonical": "#eeeff3",
+        "tonalRamp": [
+          "#f5f6fa",
+          "#eeeff3",
+          "#e6e7eb",
+          "#dcdcdf",
+          "#cccdd1"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "h1 and h2 section headlines (54px)."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "h3 card and teaser titles."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "copy at 1440; body-mobile at 360."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "button labels, bold."
+      }
+    },
+    "shadows": [
+      {
+        "name": "ambient-low",
+        "value": "rgba(0, 0, 0, 0.2) 0px 1px 6px 0px",
+        "purpose": "raised cards and dropdowns"
+      },
+      {
+        "name": "ambient-tight",
+        "value": "rgba(0, 0, 0, 0.2) 0px 1px 3px 0px",
+        "purpose": "sticky sub-nav, chips"
+      },
+      {
+        "name": "ambient-dark",
+        "value": "rgba(34, 34, 34, 0.2) 0px 2px 3px 0px",
+        "purpose": "icon buttons"
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-standard",
+        "value": "ease",
+        "purpose": "AOS scroll-reveal (data-aos-duration 400ms) on section content; button hover has no transition except background .25s on the header."
+      }
+    ],
+    "breakpoints": {
+      "containerMaxWidth": "1600px",
+      "probeWidth": 2560,
+      "shellMaxWidth": "1600px",
+      "caps": [
+        {
+          "kind": "shell",
+          "px": 1600,
+          "via": "max-width",
+          "selector": "body > div.body-container",
+          "pages": [
+            "https://www.linde-mh.com/en/",
+            "https://www.linde-mh.com/en/Landingpage/E-models/",
+            "https://www.linde-mh.com/en/Products/E-Trucks/",
+            "https://www.linde-mh.com/en/About-us/Press/",
+            "https://www.linde-mh.com/en/technical/News-Detail_101184.html",
+            "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+            "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/"
+          ]
+        },
+        {
+          "kind": "content",
+          "px": 1280,
+          "via": "max-width",
+          "selector": "#pjax-container > div.layout-passepartout.layout--download > div.layout--lightgrey > div.layout-25--fixed.layout--left",
+          "pages": [
+            "https://www.linde-mh.com/en/About-us/Press/",
+            "https://www.linde-mh.com/en/technical/News-Detail_101184.html"
+          ]
+        },
+        {
+          "kind": "content",
+          "px": 640,
+          "via": "max-width",
+          "selector": "#pjax-container > div.clearfix.module > div.mwf-form > form.form-section.mwf-initialized",
+          "pages": [
+            "https://www.linde-mh.com/en/Forms/Global-Contact-Form/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1600,
+          "via": "other",
+          "selector": "div.innerWrap.slick-initialized > div.slick-list.draggable > div.slick-track > div.media-carousel-item.slick-slide",
+          "pages": [
+            "https://www.linde-mh.com/en/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1280,
+          "via": "max-width",
+          "selector": "#pjax-container > div.layout-passepartout > div.layout-cta.layout-25-split--fixed",
+          "pages": [
+            "https://www.linde-mh.com/en/",
+            "https://www.linde-mh.com/en/Landingpage/E-models/",
+            "https://www.linde-mh.com/en/Products/E-Trucks/",
+            "https://www.linde-mh.com/en/About-us/Press/",
+            "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1216,
+          "via": "max-width",
+          "selector": "#pjax-container > div.layout--red > h2",
+          "pages": [
+            "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1154,
+          "via": "fixed",
+          "selector": "div.layout-passepartout.layout--download > div.layout--shadegrey > div > div.filter-downloadarea",
+          "pages": [
+            "https://www.linde-mh.com/en/About-us/Press/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 960,
+          "via": "max-width",
+          "selector": "div > div.ld-layout-item__wrapper.layout--default > div.layout-article--centered.dom-content > div.ld-layout-item__wrapper",
+          "pages": [
+            "https://www.linde-mh.com/en/Landingpage/E-models/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 912,
+          "via": "fixed",
+          "selector": "div.ld-layout-item__wrapper > span > div.media-browser > div.media-browser__master--wrapper",
+          "pages": [
+            "https://www.linde-mh.com/en/Landingpage/E-models/",
+            "https://www.linde-mh.com/en/Products/E-Trucks/",
+            "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 814,
+          "via": "fixed",
+          "selector": "div.layout--teaser > div.ld-layout-item__wrapper.ld-layout-teaser__wrapper > div.teaser > div.teaser__content-wrapper",
+          "pages": [
+            "https://www.linde-mh.com/en/Landingpage/E-models/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 730,
+          "via": "fixed",
+          "selector": "#pjax-container > div > div.ld-layout-item__wrapper > div.inline-button-row.inline-button-row--horizontal",
+          "pages": [
+            "https://www.linde-mh.com/en/Landingpage/E-models/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 704,
+          "via": "fixed",
+          "selector": "span > div.media-browser > div.media-browser__master--wrapper > div.media-browser__master.slick-initialized",
+          "pages": [
+            "https://www.linde-mh.com/en/Landingpage/E-models/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 672,
+          "via": "fixed",
+          "selector": "div > div.ld-layout-item__wrapper.layout--default > div.layout-article--centered.dom-content > div.ld-layout-item__wrapper",
+          "pages": [
+            "https://www.linde-mh.com/en/Landingpage/E-models/",
+            "https://www.linde-mh.com/en/About-us/Press/",
+            "https://www.linde-mh.com/en/technical/News-Detail_101184.html",
+            "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 640,
+          "via": "max-width",
+          "selector": "div.slick-track > div.media-carousel-item.slick-slide > div.media-carousel-item-content > div.media-carousel-item-text",
+          "pages": [
+            "https://www.linde-mh.com/en/",
+            "https://www.linde-mh.com/en/Landingpage/E-models/",
+            "https://www.linde-mh.com/en/Products/E-Trucks/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 586,
+          "via": "fixed",
+          "selector": "div.layout--shadegrey > div > div.filter-downloadarea > div.form-item",
+          "pages": [
+            "https://www.linde-mh.com/en/About-us/Press/",
+            "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 517,
+          "via": "fixed",
+          "selector": "form.form-section.mwf-initialized > fieldset > div > div.form-item",
+          "pages": [
+            "https://www.linde-mh.com/en/Forms/Global-Contact-Form/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 480,
+          "via": "fixed",
+          "selector": "div.media-carousel-item.slick-slide > div.media-carousel-item-content > div.media-carousel-item-text > div.item-wrapper.prmMod-true",
+          "pages": [
+            "https://www.linde-mh.com/en/",
+            "https://www.linde-mh.com/en/About-us/Press/",
+            "https://www.linde-mh.com/en/Forms/Global-Contact-Form/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 416,
+          "via": "fixed",
+          "selector": "#pjax-container > div.layout-33--fixed.layout--teaser > div.ld-layout-item__wrapper.ld-layout-teaser__wrapper",
+          "pages": [
+            "https://www.linde-mh.com/en/Landingpage/E-models/",
+            "https://www.linde-mh.com/en/About-us/Press/",
+            "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 370,
+          "via": "fixed",
+          "selector": "div > div.ld-layout-item__wrapper > div.inline-button-row.inline-button-row--horizontal > a.btn__link",
+          "pages": [
+            "https://www.linde-mh.com/en/Landingpage/E-models/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 342,
+          "via": "fixed",
+          "selector": "form.form-section.mwf-initialized > fieldset > div > div.form-item",
+          "pages": [
+            "https://www.linde-mh.com/en/Forms/Global-Contact-Form/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 308,
+          "via": "fixed",
+          "selector": "#pjax-container > div.layout-passepartout > div.layout-cta.layout-25-split--fixed > div.ld-layout-item__wrapper.ld-layout-teaser__wrapper",
+          "pages": [
+            "https://www.linde-mh.com/en/",
+            "https://www.linde-mh.com/en/Landingpage/E-models/",
+            "https://www.linde-mh.com/en/Products/E-Trucks/",
+            "https://www.linde-mh.com/en/About-us/Press/",
+            "https://www.linde-mh.com/en/technical/News-Detail_101184.html",
+            "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+            "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 282,
+          "via": "fixed",
+          "selector": "form.form-section.mwf-initialized > fieldset > div > div.form-item",
+          "pages": [
+            "https://www.linde-mh.com/en/Forms/Global-Contact-Form/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 245,
+          "via": "fixed",
+          "selector": "div.teaser.teaser--card > div.teaser__content-wrapper > h3 > a",
+          "pages": [
+            "https://www.linde-mh.com/en/About-us/Press/"
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "url": "https://www.linde-mh.com/en/",
+          "section": 0,
+          "selector": "#pjax-container > div.layout-passepartout > div.ld-layout-item__wrapper.layout--default",
+          "px": 1600
+        },
+        {
+          "url": "https://www.linde-mh.com/en/",
+          "section": 1,
+          "selector": "#pjax-container > div.layout-passepartout > div.layout-cta.layout-25-split--fixed",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 0,
+          "selector": "#pjax-container > div.layout-passepartout",
+          "px": null
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 1,
+          "selector": "#pjax-container > div.stickystacky-enabled",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 2,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 3,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 4,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 5,
+          "selector": "#pjax-container > div",
+          "px": null
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 6,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 7,
+          "selector": "#pjax-container > div.layout-50-reverse--fixed",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 8,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 9,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 10,
+          "selector": "#pjax-container > div.layout-50--fixed",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 11,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 12,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 13,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 14,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 15,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 16,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 17,
+          "selector": "#pjax-container > div",
+          "px": null
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 18,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 19,
+          "selector": "#pjax-container > div.layout-50-reverse--fixed",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 20,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 21,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 22,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 23,
+          "selector": "#pjax-container > div.layout-33--fixed.layout--teaser",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 24,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 25,
+          "selector": "#pjax-container > div.layout-33--fixed.layout--teaser",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 26,
+          "selector": "#pjax-container > div.layout-50--fixed.layout--teaser",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 27,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 28,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 29,
+          "selector": "#pjax-container > div.layout--teaser",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "section": 30,
+          "selector": "#pjax-container > div.related-content.layout--dark",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Products/E-Trucks/",
+          "section": 0,
+          "selector": "#pjax-container > div.layout-passepartout",
+          "px": null
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Products/E-Trucks/",
+          "section": 1,
+          "selector": "#pjax-container > div",
+          "px": 640
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Products/E-Trucks/",
+          "section": 2,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Products/E-Trucks/",
+          "section": 3,
+          "selector": "#pjax-container > div.layout-40-60-reverse--flex",
+          "px": null
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Products/E-Trucks/",
+          "section": 4,
+          "selector": "#pjax-container > div",
+          "px": 640
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Products/E-Trucks/",
+          "section": 5,
+          "selector": "#pjax-container > div.layout-50--flex",
+          "px": 640
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Products/E-Trucks/",
+          "section": 6,
+          "selector": "#pjax-container > div",
+          "px": 640
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Products/E-Trucks/",
+          "section": 7,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Products/E-Trucks/",
+          "section": 8,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Products/E-Trucks/",
+          "section": 9,
+          "selector": "#pjax-container > div",
+          "px": 640
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Products/E-Trucks/",
+          "section": 10,
+          "selector": "#pjax-container > div.related-content.layout--dark",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/Press/",
+          "section": 0,
+          "selector": "#pjax-container > div.layout-passepartout.layout--download > div.ld-layout-item__wrapper.header-intro",
+          "px": 672
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/Press/",
+          "section": 1,
+          "selector": "#pjax-container > div.layout-passepartout.layout--download > div.layout--shadegrey",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/Press/",
+          "section": 2,
+          "selector": "#pjax-container > div.layout-passepartout.layout--download > div.layout--lightgrey",
+          "px": 312
+        },
+        {
+          "url": "https://www.linde-mh.com/en/technical/News-Detail_101184.html",
+          "section": 0,
+          "selector": "#pjax-container > div.layout-passepartout",
+          "px": null
+        },
+        {
+          "url": "https://www.linde-mh.com/en/technical/News-Detail_101184.html",
+          "section": 1,
+          "selector": "#pjax-container > div.layout-article--centered",
+          "px": 672
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+          "section": 0,
+          "selector": "div.clearfix.module > div.mwf-form > form.form-section.mwf-initialized > header.form-section__header",
+          "px": null
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+          "section": 1,
+          "selector": "div.clearfix.module > div.mwf-form > form.form-section.mwf-initialized > fieldset",
+          "px": 342
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+          "section": 2,
+          "selector": "div.clearfix.module > div.mwf-form > form.form-section.mwf-initialized > fieldset",
+          "px": null
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+          "section": 3,
+          "selector": "div.clearfix.module > div.mwf-form > form.form-section.mwf-initialized > fieldset",
+          "px": 312
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+          "section": 4,
+          "selector": "div.clearfix.module > div.mwf-form > form.form-section.mwf-initialized > fieldset",
+          "px": 312
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+          "section": 5,
+          "selector": "div.clearfix.module > div.mwf-form > form.form-section.mwf-initialized > fieldset",
+          "px": null
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+          "section": 6,
+          "selector": "div.clearfix.module > div.mwf-form > form.form-section.mwf-initialized > fieldset",
+          "px": 474
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+          "section": 7,
+          "selector": "div.clearfix.module > div.mwf-form > form.form-section.mwf-initialized > fieldset",
+          "px": 517
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+          "section": 8,
+          "selector": "div.clearfix.module > div.mwf-form > form.form-section.mwf-initialized > fieldset",
+          "px": null
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+          "section": 9,
+          "selector": "div.clearfix.module > div.mwf-form > form.form-section.mwf-initialized > fieldset",
+          "px": 312
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+          "section": 10,
+          "selector": "div.clearfix.module > div.mwf-form > form.form-section.mwf-initialized > fieldset",
+          "px": 528
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+          "section": 11,
+          "selector": "div.clearfix.module > div.mwf-form > form.form-section.mwf-initialized > div.form-row-50",
+          "px": 312
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+          "section": 12,
+          "selector": "div.clearfix.module > div.mwf-form > form.form-section.mwf-initialized > div.form-section__footer",
+          "px": null
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/",
+          "section": 0,
+          "selector": "#pjax-container > div.stickystacky-enabled",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/",
+          "section": 1,
+          "selector": "#pjax-container > div.layout--red",
+          "px": 1216
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/",
+          "section": 2,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/",
+          "section": 3,
+          "selector": "#pjax-container > div.layout--red",
+          "px": 1216
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/",
+          "section": 4,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/",
+          "section": 5,
+          "selector": "#pjax-container > div.layout--red",
+          "px": 1216
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/",
+          "section": 6,
+          "selector": "#pjax-container > div",
+          "px": 1280
+        }
+      ],
+      "capRegister": [
+        "contentMaxWidth differs between archetypes: 1600 (https://www.linde-mh.com/en/), 1600 (https://www.linde-mh.com/en/Landingpage/E-models/), 1600 (https://www.linde-mh.com/en/Products/E-Trucks/), 1280 (https://www.linde-mh.com/en/About-us/Press/), 1280 (https://www.linde-mh.com/en/technical/News-Detail_101184.html), 640 (https://www.linde-mh.com/en/Forms/Global-Contact-Form/), 1600 (https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/) — decide per template in the inconsistency register",
+        "module cap 1600px on a single section (div.innerWrap.slick-initialized > div.slick-list.draggable > div.slick-track > div.media-carousel-item.slick-slide, https://www.linde-mh.com/en/) — intent or mistake? register it",
+        "module cap 342px on a single section (form.form-section.mwf-initialized > fieldset > div > div.form-item, https://www.linde-mh.com/en/Forms/Global-Contact-Form/) — intent or mistake? register it"
+      ],
+      "capProvenance": {
+        "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+        "writtenAt": "2026-10-06T11:59:55.461Z",
+        "baseWidth": 1440,
+        "urls": [
+          "https://www.linde-mh.com/en/",
+          "https://www.linde-mh.com/en/Landingpage/E-models/",
+          "https://www.linde-mh.com/en/Products/E-Trucks/",
+          "https://www.linde-mh.com/en/About-us/Press/",
+          "https://www.linde-mh.com/en/technical/News-Detail_101184.html",
+          "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+          "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/"
+        ]
+      }
+    },
+    "componentStyle": {
+      "buttonPrimary": {
+        "background": "#aa0020",
+        "color": "#ffffff",
+        "hoverBackground": "#94001d",
+        "radius": "0",
+        "weight": 700,
+        "sizePx": 16.2,
+        "sources": [
+          "census aggregate.hover[5]",
+          "customProps --color-red / --color-primary-700"
+        ]
+      },
+      "buttonSecondary": {
+        "background": "#eeeff3",
+        "color": "#222222",
+        "hoverBackground": "#94001d",
+        "hoverColor": "#ffffff",
+        "sources": [
+          "census aggregate.hover[4]"
+        ]
+      },
+      "buttonGhost": {
+        "background": "transparent",
+        "hoverBackground": "#f5f6fa",
+        "hoverColor": "#aa0020",
+        "sources": [
+          ".btn:hover in index_style_bundle_lmh.css",
+          "census aggregate.hover[1]"
+        ]
+      },
+      "link": {
+        "color": "#aa0020",
+        "hoverColor": "#94001d",
+        "bodyLinkColor": "#222222",
+        "bodyLinkHover": "#aa0020",
+        "sources": [
+          "census aggregate.hover[0]",
+          "census aggregate.hover[3]"
+        ]
+      }
+    },
+    "motifs": {
+      "borderRadius": {
+        "mode": "100%",
+        "occurrences": [
+          {
+            "value": "100%",
+            "count": 72
+          },
+          {
+            "value": "40px",
+            "count": 4
+          },
+          {
+            "value": "8.75px",
+            "count": 4
+          }
+        ],
+        "note": "100% = circular icon buttons; cards and buttons are square-cornered (0)"
+      },
+      "shadows": [
+        {
+          "value": "rgba(0, 0, 0, 0.2) 0px 1px 6px 0px",
+          "count": 176
+        },
+        {
+          "value": "rgba(0, 0, 0, 0.2) 0px 1px 3px 0px",
+          "count": 118
+        },
+        {
+          "value": "rgba(34, 34, 34, 0.2) 0px 2px 3px 0px",
+          "count": 80
+        }
+      ],
+      "gradients": [
+        {
+          "value": "linear-gradient(to right, rgb(153, 14, 31) 0%, rgb(153, 14, 31) 0%, rgb(238, 239, 243) 0%, rgb(238, 239, 243) 100%)",
+          "count": 8
+        },
+        {
+          "value": "linear-gradient(0deg, rgb(238, 239, 243), rgba(0, 0, 0, 0))",
+          "count": 5
+        },
+        {
+          "value": "linear-gradient(0deg, rgb(255, 255, 255), rgba(255, 255, 255, 0))",
+          "count": 5
+        },
+        {
+          "value": "linear-gradient(rgb(238, 239, 243) 65%, rgb(255, 255, 255) 0px)",
+          "count": 2
+        }
+      ],
+      "patterns": [
+        "hero-with-image",
+        "card",
+        "icon-tile",
+        "accordion",
+        "sticky-subnav",
+        "teaser-carousel",
+        "share-button"
+      ]
+    },
+    "voice": {
+      "heroHeadline": "Agility on Point",
+      "heroKicker": "The New Linde Reach Trucks Ri14 – Ri18",
+      "heroCta": "Find out more",
+      "heroImage": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/People/office-working-3540_16x9w1920.jpg",
+      "heroMedium": {
+        "kind": "image-carousel",
+        "note": "hero is a rotating teaser carousel of still key visuals (no video)"
+      },
+      "firstParagraph": "Efficient forklift trucks are the backbone of efficient intra-company logistics. Together with intelligent software and comprehensive service packages, operators achieve lasting competitive advantages.",
+      "companyParagraph": "At Linde Material Handling, we develop high-performance material flow solutions tailored to individual customer needs, enabling users to achieve sustainable competitive advantages. In over 120 years of company history, Linde Material Handling has become one of the world's largest manufacturers of forklifts and warehouse equipment. With innovations such as the hydrostatic drive and highly effective assistance systems, we are the technology leader in the industry.",
+      "ctaSamples": [
+        "Learn more",
+        "Find out more",
+        "Find a Truck"
+      ],
+      "toneGuess": "technical-confident",
+      "linkList": [
+        "Products",
+        "Services",
+        "Solutions",
+        "About us"
+      ]
+    },
+    "iconFont": {
+      "family": "LindeGlobalIconFont",
+      "file": "stardust/current/assets/fonts/LindeGlobalIconFont.woff2",
+      "glyphs": [
+        {
+          "class": "clear-input",
+          "codepoint": "U+F12D",
+          "count": 196
+        },
+        {
+          "class": "icon icon-LMHIconclosecancelblack",
+          "codepoint": "U+F12D",
+          "count": 196
+        },
+        {
+          "class": "icon icon-LMHIcondownblack",
+          "codepoint": "U+F12F",
+          "count": 196
+        },
+        {
+          "class": "icon icon-LMHIconleftblack",
+          "codepoint": "U+F13D",
+          "count": 196
+        },
+        {
+          "class": "icon icon-LMHIconlogoutblack",
+          "codepoint": "U+F13E",
+          "count": 196
+        },
+        {
+          "class": "icon icon-LMHIconmenublack",
+          "codepoint": "U+F142",
+          "count": 196
+        },
+        {
+          "class": "icon icon-LMHIconpinblack",
+          "codepoint": "U+F14B",
+          "count": 196
+        },
+        {
+          "class": "icon icon-LMHIconrightblack",
+          "codepoint": "U+F153",
+          "count": 196
+        },
+        {
+          "class": "icon icon-LMHIconsearchblack",
+          "codepoint": "U+F154",
+          "count": 196
+        },
+        {
+          "class": "nav_v2_menu_right icon icon-LMHIconrightblack",
+          "codepoint": "U+F153",
+          "count": 196
+        },
+        {
+          "class": "icon icon-LMHIconmailblack",
+          "codepoint": "U+F13F",
+          "count": 171
+        },
+        {
+          "class": "icon icon-linkedin",
+          "codepoint": "U+F107",
+          "count": 163
+        },
+        {
+          "class": "icon icon-facebook",
+          "codepoint": "U+F103",
+          "count": 156
+        },
+        {
+          "class": "icon icon-do-not-use",
+          "codepoint": "U+F107",
+          "count": 145
+        },
+        {
+          "class": "icon icon-LMHIconprintblack",
+          "codepoint": "U+F14F",
+          "count": 143
+        },
+        {
+          "class": "icon icon-do-not-use",
+          "codepoint": "U+F103",
+          "count": 134
+        },
+        {
+          "class": "icon icon-do-not-use",
+          "codepoint": "U+F106",
+          "count": 119
+        },
+        {
+          "class": "menu_nav_mainitem nav_v2_mainitem",
+          "codepoint": "U+F153",
+          "count": 98
+        },
+        {
+          "class": "menu_nav_subitem 1",
+          "codepoint": "U+F153",
+          "count": 98
+        },
+        {
+          "class": "icon icon-do-not-use",
+          "codepoint": "U+F196",
+          "count": 80
+        },
+        {
+          "class": "icon icon-LMHIconupblack",
+          "codepoint": "U+F15C",
+          "count": 57
+        },
+        {
+          "class": "image-wrapper__media-icon",
+          "codepoint": "U+F160",
+          "count": 49
+        },
+        {
+          "class": "icon icon-LMHIconplayblack",
+          "codepoint": "U+F14C",
+          "count": 48
+        },
+        {
+          "class": "icon icon-LMHIconzoominblack",
+          "codepoint": "U+F165",
+          "count": 48
+        },
+        {
+          "class": "media-player__media-icon",
+          "codepoint": "U+F14C",
+          "count": 44
+        },
+        {
+          "class": "icon icon-LMHIconphoneblack",
+          "codepoint": "U+F14A",
+          "count": 36
+        },
+        {
+          "class": "icon icon--64 icon-LMHIconssafety",
+          "codepoint": "U+F181",
+          "count": 29
+        },
+        {
+          "class": "icon icon-LMHIcondownloadblack",
+          "codepoint": "U+F130",
+          "count": 25
+        },
+        {
+          "class": "icon icon--64 icon-LMHIconsgrowthblack",
+          "codepoint": "U+F174",
+          "count": 21
+        },
+        {
+          "class": "icon icon--64 icon-LMHIconfleetblack",
+          "codepoint": "U+F136",
+          "count": 16
+        },
+        {
+          "class": "icon icon-LMHIconforkliftblack",
+          "codepoint": "U+F137",
+          "count": 16
+        },
+        {
+          "class": "icon icon--64 icon-LMHIconscomfortblack",
+          "codepoint": "U+F16E",
+          "count": 14
+        },
+        {
+          "class": "icon icon-LMHIconinfoblack",
+          "codepoint": "U+F13B",
+          "count": 13
+        },
+        {
+          "class": "icon icon--64 icon-LMHIconsdigitizationblack",
+          "codepoint": "U+F170",
+          "count": 12
+        },
+        {
+          "class": "selected",
+          "codepoint": "U+F12C",
+          "count": 12
+        },
+        {
+          "class": "icon icon--64 icon-LMHIconsautomationblack",
+          "codepoint": "U+F169",
+          "count": 11
+        },
+        {
+          "class": "icon icon--64 icon-LMHIconarrowupblack",
+          "codepoint": "U+F128",
+          "count": 10
+        },
+        {
+          "class": "icon icon--64 icon-LMHIconsindividualizationblack",
+          "codepoint": "U+F175",
+          "count": 9
+        },
+        {
+          "class": "icon icon--64 icon-LMHIconmaintenanceblack",
+          "codepoint": "U+F140",
+          "count": 8
+        },
+        {
+          "class": "icon icon--64 icon-LMHIcontaskslistblack",
+          "codepoint": "U+F15B",
+          "count": 8
+        }
+      ]
+    },
+    "fonts": {
+      "files": [
+        {
+          "file": "stardust/current/assets/fonts/LindeGlobalIconFont.woff2",
+          "family": "DaxlineWebPro",
+          "licensing": "commercial (FF Daxline Pro, FontFont/Monotype) — do not rehost"
+        },
+        {
+          "file": "stardust/current/assets/fonts/NotoSans-Variable.woff2",
+          "family": "NotoSans-Variable",
+          "licensing": "open (OFL)"
+        },
+        {
+          "file": "stardust/current/assets/fonts/daxlinewebpro_1.woff2",
+          "family": "DaxlineWebPro",
+          "licensing": "commercial (FF Daxline Pro, FontFont/Monotype) — do not rehost"
+        },
+        {
+          "file": "stardust/current/assets/fonts/daxlinewebpro_bold_1.woff2",
+          "family": "DaxlineWebPro-Bold",
+          "licensing": "commercial (FF Daxline Pro, FontFont/Monotype) — do not rehost"
+        },
+        {
+          "file": "stardust/current/assets/fonts/daxlinewebpro_bolditalic_1.woff2",
+          "family": "DaxlineWebPro-BoldItalic",
+          "licensing": "commercial (FF Daxline Pro, FontFont/Monotype) — do not rehost"
+        },
+        {
+          "file": "stardust/current/assets/fonts/daxlinewebpro_italic_1.woff2",
+          "family": "DaxlineWebPro-Italic",
+          "licensing": "commercial (FF Daxline Pro, FontFont/Monotype) — do not rehost"
+        }
+      ],
+      "declaredNotCaptured": [
+        "DaxWebPro-Medi",
+        "DaxWebPro-Light",
+        "Outfit-*"
+      ],
+      "policy": "licensed Dax family is never rehosted; brand names first in the stack, metric-matched substitute behind"
+    },
+    "modules": [
+      {
+        "id": "candidate-site-header",
+        "name": "site-header",
+        "signals": [
+          "ctas: Search/Xtranet on 99/99 pages",
+          "logo_link on every page"
+        ],
+        "slots": [
+          {
+            "name": "logo",
+            "type": "image",
+            "required": true
+          },
+          {
+            "name": "primary-nav",
+            "type": "links",
+            "required": true
+          },
+          {
+            "name": "cta",
+            "type": "link",
+            "required": false
+          },
+          {
+            "name": "utility-links",
+            "type": "links",
+            "required": false
+          }
+        ],
+        "instances": "all 99 pages",
+        "selector": ".header .navigation",
+        "status": "candidate",
+        "confidence": "high"
+      },
+      {
+        "id": "candidate-site-footer",
+        "name": "site-footer",
+        "signals": [
+          "h6 'Follow us on' on 99/99 pages",
+          "legal CTA set (Legal, Terms of use, Suppliers, EDI, Privacy Statements, Cookie Settings, Vulnerability Disclosure Policy) on 96/99"
+        ],
+        "slots": [
+          {
+            "name": "copyright",
+            "type": "text"
+          },
+          {
+            "name": "legal-links",
+            "type": "links"
+          },
+          {
+            "name": "social-links",
+            "type": "links"
+          },
+          {
+            "name": "a11y-note",
+            "type": "text"
+          }
+        ],
+        "instances": "all 99 pages",
+        "selector": ".footer",
+        "status": "candidate",
+        "confidence": "high"
+      },
+      {
+        "id": "candidate-related-teasers",
+        "name": "related-teasers",
+        "signals": [
+          "h3 'This may also interest you' on 34 pages"
+        ],
+        "slots": [
+          {
+            "name": "heading",
+            "type": "text"
+          },
+          {
+            "name": "cards[]",
+            "type": "card: image+title+text+link"
+          }
+        ],
+        "instances": "34 pages (news articles, program pages)",
+        "status": "candidate",
+        "confidence": "high"
+      },
+      {
+        "id": "candidate-press-contact",
+        "name": "press-contact",
+        "signals": [
+          "h6 'Trade Press' + h3 'Heike Oder' + tel/email CTAs on 18/18 article pages"
+        ],
+        "slots": [
+          {
+            "name": "label",
+            "type": "text"
+          },
+          {
+            "name": "name",
+            "type": "text"
+          },
+          {
+            "name": "phone",
+            "type": "link"
+          },
+          {
+            "name": "email",
+            "type": "link"
+          }
+        ],
+        "instances": "18 news-detail pages",
+        "status": "candidate",
+        "confidence": "high"
+      },
+      {
+        "id": "candidate-share-bar",
+        "name": "share-bar",
+        "signals": [
+          "CTA 'Share' on 86 pages"
+        ],
+        "slots": [
+          {
+            "name": "label",
+            "type": "text"
+          }
+        ],
+        "instances": "86 pages",
+        "selector": ".share-btn",
+        "status": "candidate",
+        "confidence": "high"
+      },
+      {
+        "id": "candidate-benefits-grid",
+        "name": "benefits-grid",
+        "signals": [
+          "h2 'Your Benefits at a Glance' (6) / 'Benefits at a Glance' (3) + repeated h3 Safety/Performance/Cost-Effective/Comfortable/Effective/Robust"
+        ],
+        "slots": [
+          {
+            "name": "heading",
+            "type": "text"
+          },
+          {
+            "name": "items[]",
+            "type": "icon+title+text"
+          }
+        ],
+        "instances": "9+ program/landing pages",
+        "status": "candidate",
+        "confidence": "medium"
+      },
+      {
+        "id": "candidate-model-range-cards",
+        "name": "model-range-cards",
+        "signals": [
+          "h3 model ranges (H20 – H35, E14 – E20, Xi10 – Xi20 …) repeated on 3–4 pages each"
+        ],
+        "slots": [
+          {
+            "name": "cards[]",
+            "type": "image+range+spec-text+link"
+          }
+        ],
+        "instances": "product category and landing pages",
+        "status": "candidate",
+        "confidence": "medium"
+      },
+      {
+        "id": "candidate-testimonials",
+        "name": "testimonials",
+        "signals": [
+          "h2 'Testimonials' on 3 pages + customer h3s (Heineken Switzerland AG, DB Schenker…)"
+        ],
+        "slots": [
+          {
+            "name": "heading",
+            "type": "text"
+          },
+          {
+            "name": "quotes[]",
+            "type": "image+title+text+link"
+          }
+        ],
+        "instances": "3+ landing pages",
+        "status": "candidate",
+        "confidence": "medium"
+      },
+      {
+        "id": "candidate-features",
+        "name": "features",
+        "signals": [
+          "h2 'Features' on 5 pages"
+        ],
+        "slots": [
+          {
+            "name": "heading",
+            "type": "text"
+          },
+          {
+            "name": "items[]",
+            "type": "image+title+text"
+          }
+        ],
+        "instances": "5 landing pages",
+        "status": "candidate",
+        "confidence": "medium"
+      },
+      {
+        "id": "candidate-quick-links",
+        "name": "quick-link-tiles",
+        "signals": [
+          "home CTA tiles Rent a Truck / Find a Truck / Fleet Optimization / Working with us (layout-25--fixed)"
+        ],
+        "slots": [
+          {
+            "name": "tiles[]",
+            "type": "icon+label+link"
+          }
+        ],
+        "instances": "home",
+        "status": "candidate",
+        "confidence": "medium"
+      },
+      {
+        "id": "candidate-contact-form",
+        "name": "contact-form",
+        "signals": [
+          "8 forms posting to their own page URL; shared field set Subject/Message/Title/Name/Surname/Company/Street/Number/Zip/City/Country/Phone/E-Mail/consent"
+        ],
+        "slots": [
+          {
+            "name": "heading",
+            "type": "text"
+          },
+          {
+            "name": "fields[]",
+            "type": "form-field"
+          },
+          {
+            "name": "consent",
+            "type": "checkbox+link"
+          },
+          {
+            "name": "submit",
+            "type": "button"
+          }
+        ],
+        "instances": "8 form pages",
+        "status": "candidate",
+        "confidence": "high"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Red call-to-action button; hover darkens.",
+      "html": "<a class=\"btn btn--primary\" href=\"#\">Find out more</a>",
+      "css": ".btn--primary{background:#aa0020;color:#fff;font:700 16.2px/1.2 DaxlineWebPro-Bold,Arial,sans-serif;padding:14px 24px;border:0;border-radius:0}.btn--primary:hover{background:#94001d}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Grey button; hover inverts to red.",
+      "html": "<a class=\"btn btn--secondary\" href=\"#\">Learn more</a>",
+      "css": ".btn--secondary{background:#eeeff3;color:#222;font:700 16.2px/1.2 DaxlineWebPro-Bold,Arial,sans-serif;padding:14px 24px;border:0;border-radius:0}.btn--secondary:hover{background:#94001d;color:#fff}"
+    },
+    {
+      "name": "Icon Button",
+      "kind": "button",
+      "refersTo": "icon-button",
+      "description": "48px white circle with an icon-font glyph.",
+      "html": "<button class=\"btn btn--icon\"><span class=\"icon icon-LMHIconrightblack\"></span></button>",
+      "css": ".btn--icon{width:48px;height:48px;border-radius:100%;background:#fff;border:0;box-shadow:rgba(34,34,34,.2) 0 2px 3px 0}"
+    },
+    {
+      "name": "Teaser Card",
+      "kind": "card",
+      "refersTo": "card",
+      "description": "16:9 image, h3 title, copy, red text link.",
+      "html": "<article class=\"teaser\"><img alt=\"\"><h3>Title</h3><p>Copy</p><a href=\"#\">Learn more</a></article>",
+      "css": ".teaser{background:#fff;border-radius:0}.teaser h3{font:400 29.34px/1.2 DaxWebPro-Medi,Arial,sans-serif;color:#222}.teaser a{color:#aa0020}.teaser a:hover{color:#94001d}"
+    },
+    {
+      "name": "Site Header",
+      "kind": "nav",
+      "refersTo": "nav-link",
+      "description": "Sticky white header, 100px desktop / 56px mobile, red Location Overview CTA.",
+      "html": "<div class=\"header\"><div class=\"navigation\">…</div></div>",
+      "css": ".header{position:sticky;top:0;background:#fff;height:100px}@media(max-width:1023px){.header{height:56px}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Red Fleet in a White Hall",
+    "overview": "White canvas, one brand red for action and brand, cool greys for text and surfaces, large industrial photography, Dax Pro typography at weight 400.",
+    "keyCharacteristics": [
+      "One accent, one neutral family, white canvas",
+      "Square corners; circles only for icon buttons",
+      "Dax Pro medium headings, Daxline regular body",
+      "Fixed CMS row layouts (100/33/25, carousel)",
+      "Sticky white header with red CTA"
+    ],
+    "rules": [
+      {
+        "name": "The One Red Rule",
+        "body": "Red marks action and brand only.",
+        "section": "colors"
+      },
+      {
+        "name": "The Medium-Heading Rule",
+        "body": "Headings never bold; hierarchy by size.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat-By-Default Rule",
+        "body": "Shadows only on floating controls.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do keep red for action and brand only",
+      "Do keep headings at weight 400",
+      "Do keep 0-radius controls",
+      "Do keep the 72px section rhythm"
+    ],
+    "donts": [
+      "Don't introduce gradients or rounded cards",
+      "Don't rehost the licensed Dax fonts",
+      "Don't add colours beyond the captured palette"
+    ]
+  }
+}

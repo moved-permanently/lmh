@@ -1,0 +1,451 @@
+{
+ "source": "http://localhost:8804/stardust/migrated/en/Service/Training/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Training"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Well-trained Without Fail"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Trained forklift drivers are a fundamental requirement for safe and smooth operation. Responsibility for this lies with the relevant operator. This also applies from a legal perspective in many places. Numerous regulations on safety at work and industrial safety and accident prevention stipulate that equipment operators must be properly trained. In particular, trained employees are better able to avoid accidents and damage, and the associated operational downtimes. Your Linde service partners offer training and development opportunities for various industrial trucks and for everyday logistics operations. The training events can be held on-site or at your Linde service partner's locations."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Forklift Driver Training"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "In many countries, forklift driver training is a mandatory requirement for being able to operate a forklift truck. However, apart from this purely legal requirement, there are a multitude of other reasons why well-trained drivers are of benefit to companies. Drivers that are familiar with the trucks and the safety precautions cause fewer accidents. This reduces the damage to forklifts and goods as well as downtimes caused by trucks being damaged. Moreover, the training events teach drivers how to use their trucks productively and in an energy-saving manner. This includes knowledge of load ratios, tilt stability, care, and servicing as well as the causes of accidents and what to do in the event of an accident. Forklift driver training includes a theoretical and practical section, which each end in an examination."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Benefits of Forklift Driver Training at a Glance"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Legally compliant operation of trucks"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Increase in safety and productivity"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Reduction of damage to goods, equipment, and forklift trucks"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Optimization of battery life"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Training on-site or at a Linde location"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Customized training packages"
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Posters for Daily Checking"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "The regular care of forklifts, as taught in the training, is often neglected in everyday operations. As a way of providing assistance, Linde supplies two posters for the daily checking of IC trucks and electric forklift trucks. Displayed in a visible location, they remind and support drivers in caring for their trucks on a regular basis."
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "You can obtain these posters from your Linde dealer."
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "To your dealer",
+     "href": "../../../en/technical/Location-Finder.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 5,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 7
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Abseiling Training from Order Picking Forklifts"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Abseiling training ensures that operators of order picking forklifts are perfectly prepared for emergency situations. Participants learn how emergency abseiling equipment works, about the abseiling process, and what to do during a rescue operation."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Training for Pedestrian Industrial Trucks"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "\"Pedestrian industrial trucks,\" such as electric hand lift trucks, are practical and nimble assistants for logistics operations, making them an extremely popular choice. Although their operation is straightforward and intuitive, statistically, they are responsible for most accidents. It is therefore crucial that employees are aware of the dangers and know how to operate these trucks correctly. The relevant training offered by Linde teaches participants everything they need to know about topics such as:"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Stability"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Examples of accidents"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Correct operation"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Daily operational test"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Correct charging of the battery"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Care and servicing"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "A listening ear for every situation",
+     "href": "../../../en/About-us/Magazine/A-listening-ear/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Psychological counseling at Linde MH: discrete, open, and accessible to everyone."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/A-listening-ear/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Thinking Ahead while Reversing",
+     "href": "../../../en/About-us/Magazine/CEMEX-Admixtures/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "It’s what you add that makes the difference— and for industry specialist CEMEX Admixtures that applies to their intralogistics as well as their construction admixtures. The fleet of forklifts at the company’s site in Salzkotten, Germany has a new addition—the AI-based Linde System Reverse Assist Camera, which has significantly improved safety levels in reversing maneuvers."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/CEMEX-Admixtures/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Pedestrian Warning Band for Maximum Safety",
+     "href": "../../../en/About-us/Innovations-from-Linde/Pedestrian-Warning-Band/index.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "The smart technology in the band warns pedestrians of potential dangers early using light signals, vibrations, and acoustic warnings, thereby maximizing safety."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Pedestrian-Warning-Band/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Conserving Resources",
+     "href": "../../../en/About-us/Magazine/Conserving-Resources/index.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Less is more: Linde Material Handling relies on an innovative platform concept for forklift trucks. The same components for combustion engines and electric drives increase sustainability."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Conserving-Resources/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Linde is the favourite of the industry",
+     "href": "../../../en/About-us/Magazine/MM-Research.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "For users, Linde Material Handling is the most popular material handling equipment manufacturer. This was the result of a survey conducted by the trade journal MM Logistik. Respondents praised the quality, performance and availability of the vehicles. Linde also scores highly in terms of service and training."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/MM-Research.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "Forklift trucks for dirty work",
+     "href": "../../../en/About-us/Magazine/Carolus_Trees.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "The forklift trucks used at Carolus Trees have to be tough – and most importantly, they can’t be afraid to get cold and dirty. Linde forklifts take this all in their stride."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Carolus_Trees.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "Electric power packs help to quench thirst",
+     "href": "../../../en/About-us/Magazine/Wuellner-Carolinenbrunnen.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "Heavy loads, demanding shift work, extensive terrain – and that with electric forklifts? What may sound quite unusual for some logistics specialists at first glance is everyday life at Mineralquellen Wüllner in Bielefeld."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Wuellner-Carolinenbrunnen.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "A real piece of gold amongst the trash",
+     "href": "../../../en/About-us/Magazine/Willimantic-Magazine.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "Paper, cardboard, mattresses, bags, plastics, cans and much more. Once used and thrown away, they all end up in a mountain of rubbish on the premises of a recycling company - a company like Willimantic Waste Paper. Here, loose waste, recyclables and bales are moved around the entire site by forklift trucks."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Willimantic-Magazine.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "Full of tricks",
+     "href": "../../../en/About-us/Magazine/Frueh-Koelsch.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Cölner Hofbräu P. Josef Früh KG in Cologne-Feldkassel brews and loads thousands of litres of Kölsch every day. Real hard work for Linde's lithium-ion forklifts, which passed their trial run at the company with flying colors."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Frueh-Koelsch.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "Analyzed Efficiently",
+     "href": "../../../en/About-us/Magazine/Grass.html"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "For years, the hinge specialists at Reinheim-based Grass GmbH have been carrying out their warehouse and production logistics tasks using a forklift truck fleet that has grown gradually over time. Using a fleet optimization analysis, experts from Linde Material Handling identified an incredible amount of potential within this established structure. They standardized and reduced the fleet and, in the process, made it much more powerful, cost-efficient, and energy-saving."
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Grass.html"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "Linde Rental Solutions at Agua Mineral San Benedetto",
+     "href": "../../../en/About-us/Magazine/Agua-Mineral.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "Every year at Agua Mineral San Benedetto in Valencia, 600,000 pallets are loaded onto trucks using Linde forklifts and delivered to customers. The beverage business is booming in summer. Agua Mineral then uses the flexible and reliable Linde rental service."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Agua-Mineral.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "Safety Scrutinized from an Objective Perspective",
+     "href": "../../../en/About-us/Magazine/CTL/index.html"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "When it comes to potential risks in intralogistic processes, an external perspective can be worth its weight in gold, and this proved to be the case at CTL Celltechnik Lodenau in the German region of Saxony. With the help of the Linde Safety Scan, CTL was able to significantly reduce the risk of accidents in its internal goods handling."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/CTL/index.html"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

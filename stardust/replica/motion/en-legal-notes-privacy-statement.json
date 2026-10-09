@@ -1,0 +1,407 @@
+{
+  "url": "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/",
+  "width": 1440,
+  "headerTimeline": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".anchor-list-button-next button",
+      "frames": [
+        {
+          "t": 20137.400000000373,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 20340.60000000056,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 20542.800000000745,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 20745.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": ".menu_nav_mainitem",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(34, 34, 34)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(34, 34, 34)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".navigation-anchor-navigation ul li a",
+      "changed": [
+        "self.color"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(34, 34, 34)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(170, 0, 32)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".footer > ul a",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(34, 34, 34)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(34, 34, 34)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".location-overview-button",
+      "changed": [
+        "self.background"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(170, 0, 32)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(148, 0, 29)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".share--title",
+      "changed": [
+        "self.color"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(170, 0, 32)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(148, 0, 29)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "events": {
+    "animations": [],
+    "transitions": [],
+    "classMutations": [
+      {
+        "added": [
+          "small-state"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state",
+        "y": 366
+      },
+      {
+        "added": [
+          "small-state"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state",
+        "y": 366
+      },
+      {
+        "added": [
+          "small-state"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state",
+        "y": 366
+      },
+      {
+        "added": [
+          "stickystacky-enabled",
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state.stickystacky-enabled",
+        "y": 366
+      },
+      {
+        "added": [
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.header.small-state.stickystacky-enabled",
+        "y": 366
+      },
+      {
+        "added": [
+          "stickystacky-enabled",
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.subheader.subheader__breadcrumb.stickystacky-enabled",
+        "y": 366
+      },
+      {
+        "added": [
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.subheader.subheader__breadcrumb.stickystacky-enabled",
+        "y": 366
+      },
+      {
+        "added": [
+          "stickystacky-enabled",
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.content > div.navigation-anchor-navigation-wrapper.stickystacky-enabled.sticky-hidden",
+        "y": 366
+      },
+      {
+        "added": [
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.content > div.navigation-anchor-navigation-wrapper.stickystacky-enabled.sticky-hidden",
+        "y": 366
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.small",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.small",
+        "y": 60
+      },
+      {
+        "added": [
+          "small"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.small",
+        "y": 60
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.sticky-hidden",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.normal-state",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.normal-state",
+        "y": 30
+      },
+      {
+        "added": [
+          "normal-state"
+        ],
+        "el": "html > body > div.body-container > div.stickystacky-wrapper.stickystacky-initialized > div.header.normal-state",
+        "y": 30
+      },
+      {
+        "added": [
+          "small-state"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.small-state",
+        "y": 12448
+      },
+      {
+        "added": [
+          "small-state"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.small-state",
+        "y": 12448
+      },
+      {
+        "added": [
+          "small-state"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.small-state",
+        "y": 12448
+      },
+      {
+        "added": [
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.header.stickystacky-enabled.small-state",
+        "y": 12448
+      },
+      {
+        "added": [
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.subheader.subheader__breadcrumb.stickystacky-enabled",
+        "y": 12448
+      },
+      {
+        "added": [
+          "sticky-hidden"
+        ],
+        "el": "html > body > div.body-container > div.content > div.navigation-anchor-navigation-wrapper.stickystacky-enabled.sticky-hidden",
+        "y": 12448
+      }
+    ]
+  }
+}

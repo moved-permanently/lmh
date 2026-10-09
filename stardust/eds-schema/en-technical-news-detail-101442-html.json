@@ -1,0 +1,105 @@
+{
+ "source": "http://localhost:8803/stardust/migrated/en/technical/News-Detail_101442.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Intelligent solutions help in creating added value"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "19 Nov 2018"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "LogiMAT 2019: Linde Material Handling demonstrates how businesses can boost their success using Industry 4.0 technologies"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Flexible automation, digital applications, custom-fit drive systems – these are the topics Linde Material Handling is employing to make its customers’ in-house goods handling even more effective. Under the slogan “Moving the future together”, the intralogistics specialist will be presenting its latest products, solutions and services to trade visitors at its LogiMAT stand in Hall 10, B21. The exhibits on show there are all designed to achieve noticeable increases in efficiency. At the same time, Linde Material Handling is presenting itself as an intralogistics company with comprehensive project business, whose range of services extends all the way from planning through to the implementation of complete solutions for storage and transport systems. Additionally, these are linked these with intelligent warehouse management software so that all expansion stages from manually operated, semi-automated to fully automated systems are covered."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "“Many companies are already on their way to further developing their intralogistics towards Industry 4.0 and are looking for suitable products and systems,” says Torsten Rochelmeyer, Head of Marketing Central Europe at Linde Material Handling. And these come primarily from the five major fields: automation, digitization, energy, safety and intralogistics. A large number of experts will be on hand at the exhibition stand to provide trade visitors with explanations regarding the growing portfolio of industrial trucks and warehouse equipment, safety features, apps and energy systems. “The possibilities for making in-house material flows more effective and efficient are many times greater today than they were just a few years ago,” emphasizes Rochelmeyer. “At the same time, it is essential to reduce complexity and make profitable use of the growing flood of data.”"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Digitization remains the major driver in intralogistics. It goes hand in hand with a fusion of vehicles – i.e. hardware – and digital solutions. This makes forklifts and warehouse equipment not only safer and more communicative, but also more economical and productive. One example in this regard is the “Zone Intelligence” assistance system. This new module of Linde’s “connect” fleet management system will make its debut at LogiMAT. It is based on ultra-wideband technology and ensures greater safety by eliminating potential hazards in warehouse and production areas by means of speed reductions."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Under the slogan “Moving the future together”, intralogistics specialist Linde Material Handling will be presenting its latest products, solutions and services, all of which are designed to achieve noticeable increases in efficiency."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The new Service Manager App is another example of how progressing digitization can be used to improve transparency and make processes more efficient. With this mobile application, fleet managers can enter service orders into the Linde service network around the clock via smartphone and are continuously informed about the current order status until completion."
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "The demand for different forms of automation has grown strongly. Linde Material Handling has greatly expanded its portfolio on offer in order to develop tailor-made solutions together with its customers. It now ranges from flexible, automated warehouse equipment to fully automated systems and software solutions to comprehensive consulting and project expertise. Anyone wanting to can start the virtual planning of their new warehouse directly on the trade fair stand."
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Linde Material Handling is giving significant importance to the topic of energy, the focus being on lithium-ion battery technology. Incoming orders here have risen significantly in 2018. Now that the range of lithium-ion models in the load range up to eight tons is complete, developments in 2019 will concentrate on digital consulting tools as well as battery designs and charging technology. Simultaneously, Linde Material Handling is pushing ahead with the development of future-oriented fuel cell technology for industrial trucks. The range of corresponding models is continuously being expanded and the company already offers one of the largest hydrogen-powered fleets in Europe."
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Another focus is on ensuring the highest possible level of operational safety. However, this cannot be achieved with just one single measure. Linde Material Handling offers a correspondingly wide range of solutions, all of which contribute to the company’s comprehensive safety concept “Vision Zero – Safety in your world”. A wide variety of assistance systems, lighting solutions, apps, access control, special models such as the vision-optimized Linde Roadster or the well-structured “Safety Scan” consultation are available: All of these contribute to avoiding risks for people, preventing damage to vehicles, equipment and goods and thus turning the vision of accident-free logistics into reality."
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "Trade Press"
+    },
+    {
+     "role": "heading",
+     "order": 12,
+     "text": "Heike Oder"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "+49 6021 991277",
+     "href": "tel:+49 6021 991277"
+    },
+    {
+     "role": "cta",
+     "order": 14,
+     "text": "Send email",
+     "href": "mailto:heike....oder@@@@linde-mh....de"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 14,
+   "repeats": []
+  }
+ ]
+}

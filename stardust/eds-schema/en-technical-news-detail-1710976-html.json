@@ -1,0 +1,100 @@
+{
+ "source": "http://localhost:8803/stardust/migrated/en/technical/News-Detail_1710976.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Larger stand, loads of innovations and, for the first time ever, outdoor exhibition areas"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "3 Dec 2019"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Linde Material Handling at LogiMAT 2020"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Occupying several exhibition areas totaling around 875 square meters, Linde Material Handling will be showing visitors to LogiMAT 2020 how to further optimize their intralogistics processes and make them fit for the future. Dozens of sales consultants and experts from the fields of energy, safety, digitization and intralogistics/automation will be on hand to answer questions and provide information on the material handling specialist’s growing range of products and solutions. Linde’s exhibition highlight will be its new, fully networked IC forklift in the load capacity range from 2 to 3.5 tons which will be making its public debut at the trade fair. In focus too will be innovative warehouse trucks as well as safety and software solutions."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Linde Material Handling is opening a new chapter in its LogiMAT history by using two additional outdoor areas in close proximity to its exhibition stand in Hall 10 (B21). Located between Hall 8 and Hall 10 and in Rothaus Park between Hall 9 and Hall 10 respectively, these areas will be used for both live demonstrations and for presenting a broader selection of the company’s growing product and solution portfolio. “With this larger area, we can offer our customers and prospects significant added value,” says Dr. Monika Laurent-Junge, Senior Director Marketing & Communications and responsible for planning Linde Material Handling’s trade fair appearance. “While live demonstrations from the fields of warehouse and systems technology or automation will be held on a regular basis at our main exhibition stand, outside we will be presenting the advantages of our latest diesel, LPG and CNG forklifts in their typical outdoor applications.”"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Only seldom in the past has Linde Material Handling brought along so many innovations to Stuttgart. First and foremost among these are the new Linde H20 to H35 IC forklift trucks. They have been completely redesigned from the ground up and are delivered fully networked ex works so that they are prepared for all Industry 4.0 applications. They impress with optimum driver visibility and industry-leading ergonomic and safety standards. And that’s not all: No other forklift in this class is more economical, more sustainable, produces lower emissions and is easier to maintain and more productive overall."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "In the area of warehouse technology, Linde Material Handling offers an extensive range of order pickers. A total of 24 models are available to choose from so that there is the right solution to meet every customer-specific requirement. The latest addition is the Linde V08 medium-lift order picker. This is recommended for use when regularly picking from the first and second rack levels (up to a height of 2.80 meters). The new series is offered in two different versions: In the Linde V08-01 model, the operating platform is firmly connected to the load arms, both move upwards simultaneously and the operator has free access to the load arms. On the second model, the Linde V08-02, the driver platform is closed at the rear and has an integrated backrest. An auxiliary lift for the load arms ensures that the operator can easily place the goods removed from the rack onto pallets."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Intralogistics specialist Linde Material Handling will be presenting a number of new products at the LogiMAT trade fair, held in Stuttgart from March 10-12, 2020."
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Another new product presented to the public for the first time at LogiMAT is the cloud-based version of the “Linde connect” fleet management system. With “connect:cloud”, logistics managers can not only access the application and all fleet data from anywhere but also benefit from a further advantage: the need-based booking of individual modules or functions. As online fleet management software, connect:cloud supplements the connect:desk solution, in which all data remain with the customer’s company. The basic connect:cloud package for customers includes the access control and vehicle localization functions and various reporting features (operating hours analysis, occupancy journal, etc.)."
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "The protection of employees against accidents remains an important priority in every company. Linde Material Handling has developed an interactive warning vest in order to come a step closer to its self-imposed vision of “zero accidents”. This innovative garment, which has already won the Dekra Award for outstanding safety solutions, features integrated LED strips. These significantly increase their luminosity and start flashing as soon as a forklift truck approaches. The vest, which acts as a bodyguard to alert drivers at an early stage to potential dangers and protect them from serious collisions, is based on the innovative assistance system Linde Safety Guard."
+    },
+    {
+     "role": "heading",
+     "order": 10,
+     "text": "Trade Press"
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "Heike Oder"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "+49 6021 991277",
+     "href": "tel:+49 6021 991277"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Send email",
+     "href": "mailto:heike....oder@@@@linde-mh....de"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 13,
+   "repeats": []
+  }
+ ]
+}

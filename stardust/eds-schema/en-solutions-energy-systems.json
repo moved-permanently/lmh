@@ -1,0 +1,1308 @@
+{
+ "source": "http://localhost:8806/stardust/migrated/en/Solutions/Energy-Systems/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Holistic energy solutions from Linde Material Handling"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The Right Energy System"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Energy Consulting",
+     "href": "#785299"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Energy Systems",
+     "href": "#785304"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Charge Management",
+     "href": "#785309"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Use Cases",
+     "href": "#765483"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "To rise to the business challenges of the future, you need to optimize how you use your energy today. That is why more and more companies are asking which energy system will best enable them to square productivity with environmental protection. The credo in intralogistics is: Maximize efficiency, reduce costs, increase sustainability."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "From our many years of experience, we know that “One fits all” does not work. That is why we at Linde offer a comprehensive portfolio of different drives, batteries, chargers, and software tools, and tailor them to your individual goals. We provide expert consulting services to ensure that individual factors such as fleet size, network infrastructure, work processes, and production targets are taken into account."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Whatever the optimal solution for you is, be it a classic combustion engine, lead-acid battery, lithium-ion drive or fuel cell. With us, you get the best technology for your needs – for maximum performance and sustainability."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "With optimal advice for the optimal solution"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Every company has different requirements and expectations. That’s why Linde takes a holistic approach to energy consulting. We analyze where you’re starting from, taking into account aspects such as fleet, operations, infrastructure and sustainability goals, and focus on specific requirements rather than individual technologies or products."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "We help you to choose the right drive system, support you with resource planning for your trucks, provide a tailor-made design of your energy infrastructure, and optimize your charging cycles. This brings a number of advantages:"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Up to 40% reduction in energy costs"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Optimization of the availability of your fleet"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Avoidance of power peaks in the power supply"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "A simplified charging process for your drivers"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Support in achieving your sustainability goals"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Better use of your own energy sources"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Find out more about Linde’s energy consulting here.",
+     "href": "../../../en/Solutions/Energy-Systems/Energy-consulting/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Energy Quick Check"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Use our Energy Quick Check to take stock of your company’s energy systems quickly and easily. Find out which technologies are suitable for your specific use case in just a few clicks. Give it a go now:"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Which technology fits your requirements?"
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "Energy Quick Check"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Start now"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "Which energy system do you currently use predominantly in your fleet?"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Combustion Engine"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Lead-acid Batteries"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Lithium-ion Batteries"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Fuel Cells"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Back"
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "How large is your fleet?"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "1-5 trucks"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "6-20 trucks"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "21-50 trucks"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "More than 50 trucks"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Back"
+    },
+    {
+     "role": "heading",
+     "order": 15,
+     "text": "In which shift model do you use your trucks?"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "1-shift model"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "2-shift model"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "Multi-shift model"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Back"
+    },
+    {
+     "role": "heading",
+     "order": 20,
+     "text": "Is it possible to have short breaks during operation for recharging or refuelling?"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "Maximum one interruption per shift"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "Several pre-scheduled interruptions"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "Flexible interruptions possible anytime"
+    },
+    {
+     "role": "body",
+     "order": 24,
+     "text": "Back"
+    },
+    {
+     "role": "heading",
+     "order": 25,
+     "text": "Where are the trucks operated?"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Only indoor"
+    },
+    {
+     "role": "body",
+     "order": 27,
+     "text": "Only outdoor"
+    },
+    {
+     "role": "body",
+     "order": 28,
+     "text": "Indoor and outdoor"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "Back"
+    },
+    {
+     "role": "heading",
+     "order": 30,
+     "text": "How intensively are your trucks utilized?"
+    },
+    {
+     "role": "body",
+     "order": 31,
+     "text": "Light duty"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "Medium duty"
+    },
+    {
+     "role": "body",
+     "order": 33,
+     "text": "Heavy duty"
+    },
+    {
+     "role": "body",
+     "order": 34,
+     "text": "Back"
+    },
+    {
+     "role": "heading",
+     "order": 35,
+     "text": "What is the average utilization rate of the trucks?"
+    },
+    {
+     "role": "body",
+     "order": 36,
+     "text": "Less than 1.000 operating hours per year"
+    },
+    {
+     "role": "body",
+     "order": 37,
+     "text": "1.000 – 2.000 operating hours per year"
+    },
+    {
+     "role": "body",
+     "order": 38,
+     "text": "More than 2.000 operating hours per year"
+    },
+    {
+     "role": "body",
+     "order": 39,
+     "text": "Back"
+    },
+    {
+     "role": "heading",
+     "order": 40,
+     "text": "Would you invest more money for a more sustainable energy system?"
+    },
+    {
+     "role": "body",
+     "order": 41,
+     "text": "Yes, sustainability is very important for my company."
+    },
+    {
+     "role": "body",
+     "order": 42,
+     "text": "Sustainability and profitability should be balanced."
+    },
+    {
+     "role": "body",
+     "order": 43,
+     "text": "No, profitability is the top priority."
+    },
+    {
+     "role": "body",
+     "order": 44,
+     "text": "Back"
+    },
+    {
+     "role": "heading",
+     "order": 45,
+     "text": "Which factor is ultimately decisive for your purchasing decision?"
+    },
+    {
+     "role": "body",
+     "order": 46,
+     "text": "Low initial investment"
+    },
+    {
+     "role": "body",
+     "order": 47,
+     "text": "Low energy costs"
+    },
+    {
+     "role": "body",
+     "order": 48,
+     "text": "The optimal technical solution for my individual requirements"
+    },
+    {
+     "role": "body",
+     "order": 49,
+     "text": "Back"
+    },
+    {
+     "role": "heading",
+     "order": 50,
+     "text": "Energy Quick Check"
+    },
+    {
+     "role": "body",
+     "order": 51,
+     "text": "Top 3 Results by points"
+    },
+    {
+     "role": "body",
+     "order": 52,
+     "text": "Combustion Engine (Diesel, CNG or LPG)"
+    },
+    {
+     "role": "body",
+     "order": 53,
+     "text": "0%"
+    },
+    {
+     "role": "body",
+     "order": 54,
+     "text": "Lead-acid Batteries"
+    },
+    {
+     "role": "body",
+     "order": 55,
+     "text": "0%"
+    },
+    {
+     "role": "body",
+     "order": 56,
+     "text": "Lithium-ion Batteries"
+    },
+    {
+     "role": "body",
+     "order": 57,
+     "text": "0%"
+    },
+    {
+     "role": "body",
+     "order": 58,
+     "text": "Fuel Cell"
+    },
+    {
+     "role": "body",
+     "order": 59,
+     "text": "0%"
+    },
+    {
+     "role": "body",
+     "order": 60,
+     "text": "Share"
+    },
+    {
+     "role": "body",
+     "order": 61,
+     "text": "Contact your Dealer"
+    }
+   ],
+   "imgCount": 10,
+   "editableTexts": 12,
+   "repeats": [
+    {
+     "unitSelector": "DIV.wizard-question",
+     "count": 9,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 6
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.wizard-result",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Are you looking for the right energy system? Our energy experts will be happy to advise you!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Overview of our energy systems"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Li-ION Technology",
+     "href": "../../../en/About-us/Innovations-from-Linde/Lithium-Ionen.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Lithium-ion batteries have a high energy density and deliver up to 30 percent more power than lead-acid batteries. They can be recharged at any time, which enables flexible 24/7 use without the need to change batteries. A multi-level safety system ensures maximum performance even under difficult conditions."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Lithium-Ionen.html"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "Lead-acid Batteries"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Lead-acid batteries are a cost-effective and reliable energy system based on proven technology. Easy battery replacement makes the trucks ideal for round-the-clock operation. You are guaranteed to find the truck that best meets your requirements in our wide range of models."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Diesel Engine",
+     "href": "https://www.linde-mh.com/en/Products/Diesel-forklifts/"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Our fuel-efficient diesel engines guarantee high handling capacities and maximum availability even under the toughest conditions. To reduce CO₂ emissions further, the trucks can be completely or partially powered by biofuels without additional conversion."
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Find out more",
+     "href": "https://www.linde-mh.com/en/Products/Diesel-forklifts/"
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Fuel Cells",
+     "href": "../../../en/About-us/Innovations-from-Linde/Fuel-Cells.html"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Fuel cells convert hydrogen into electricity, without emitting any CO₂. The trucks can be refueled quickly and easily, which guarantees maximum availability. Fuel cells are maintenance-free and therefore offer a long-lasting, reliable solution."
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Fuel-Cells.html"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Gas Drive",
+     "href": "../../../en/Products/Gas-forklifts/index.html"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Gas-powered forklift trucks combine the power of an internal combustion engine with lower emissions. They are particularly quiet and provide a pleasant working environment. Owing to the lower exhaust emissions, gas forklifts are also suitable for indoor use. Depending on the model, they may be operated using either a propellant or natural gas."
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Find out more",
+     "href": "../../../en/Products/Gas-forklifts/index.html"
+    }
+   ],
+   "imgCount": 5,
+   "editableTexts": 10,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Everything from a single source, everything from Linde"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The integration of truck and energy system is a key factor in the energy efficiency and performance of forklift trucks and warehouse handling equipment. That is why we offer pallet trucks and stackers, tow tractors, reach trucks, electric forklift trucks, order pickers, narrow-aisle trucks, tugger trains, and our automated trucks with lead-acid and lithium-ion batteries and the associated chargers from our own development and production. It is also why we developed our own hydrogen technology and now manufacture the drive system for our pallet stackers and trucks, electric forklift trucks, tractors, order pickers and tugger trains with fuel cells."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "You can find the right Linde truck for your specific requirements here.",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=null"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Find the optimal energy solution with energy consulting from Linde.",
+     "href": "../../../en/Solutions/Energy-Systems/Energy-consulting/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Charge management"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The from Linde is an intelligent charge management system for electrically powered industrial trucks. It networks multiple chargers to monitor and coordinate current power consumption. The availability of the trucks in the overall process is largely decided at the charging station. However, charging several trucks at the same time can lead to peaks in consumption and thus to high costs. Linde offers an efficient solution with the connect:charger."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "connect:charger",
+     "href": "../../../en/About-us/Innovations-from-Linde/connect-charger/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Gain a competitive advantage now with energy consulting from Linde Material Handling.",
+     "href": "../../../en/Solutions/Energy-Systems/Energy-consulting/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Want to find out more about energy solutions from Linde? Then get in touch!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "A.btn__link",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Energy at work"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Electric forklifts in their element",
+     "href": "../../../en/About-us/Magazine/Gerolsteiner/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "First came one test machine, then another two were added—and the aim is that soon, the entire fleet of 8-tonners will be powered by environmentally friendly lithium-ion technology. At leading mineral water producers Gerolsteiner, the Linde E80 offers impressive proof that electric forklift trucks have no trouble matching up to their combustion-powered equivalents."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Gerolsteiner/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Unbeatable Handling and Zero Emissions Guaranteed",
+     "href": "../../../en/About-us/Magazine/Liebherr/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "With the ultimate goal of electrifying their entire fleet in the future, the specialists at Liebherr have tested the E160 electric forklift truck in action over the course of several weeks."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Liebherr/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "An Combustion Engine Stronghold Converts to Electric",
+     "href": "../../../en/About-us/Magazine/WDI-Hamm-Linde-X50/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "It started with E and continues with X: The company Westfälische Drahtindustrie (WDI) is pushing for a switch from internal combustion to electric forklift trucks at its central German plant in Hamm. The Linde X50 puts in a convincing performance during the four-week field test, even with heavy loads."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/WDI-Hamm-Linde-X50/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "System: changed",
+     "href": "../../../en/About-us/Magazine/Emons/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "How do you make your intralogistics more economical, cleaner, and more sustainable? For Emons Spedition GmbH, the answer was clear: by switching from LPG forklifts to lithium-ion units in the general cargo warehouse in Großbeeren."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Emons/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Between Charges: Opportunity Charging",
+     "href": "../../../en/About-us/Magazine/Fritz-Group/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "More flexible, cost-effective, and robust: In the highly frequented general cargo warehouse in Heilbronn, the Fritz Group has switched its industrial trucks from lead-acid battery operation to modern Linde lithium-ion technology."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Fritz-Group/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "A thirst for innovation",
+     "href": "../../../en/About-us/Magazine/Veltins.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Anyone brewing and bottling millions of hectoliters of Pilsener beer, shandy, malt beer, apple beer and other mixed beer beverages needs powerful intralogistics systems to get the drinks onto the street. C. & A. Veltins, a brewery with a rich tradition, has put its faith in forklifts from Linde Material Handling for this demanding role."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Veltins.html"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Innovative battery technology for forklift trucks",
+     "href": "../../../en/About-us/Magazine/Innovative-battery-technology.html"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Electric drives are the future of mobility. This applies not only to cars, but also to forklift trucks. The key to this are new battery concepts, primarily based on lithium-ion technology. What are the advantages and disadvantages of different types of batteries? Where is the lithium-ion battery going? And how can users make the best possible use of them?"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Innovative-battery-technology.html"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "21",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Compact top performer",
+     "href": "../../../en/Products/E-Trucks/E14-E20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Maximum indoor goods handling: The Linde E14 – E20 with swivel steering axle are super-agile and come with a wide range of energy solutions."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/E14-E20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Ei14 – Ei20",
+     "href": "../../../en/Products/E-Trucks/Ei14-Ei20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The Ei14 – Ei20 electric forklift trucks with integrated Li-ION battery combine agility and comfort for efficient use in standard indoor applications."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Ei14-Ei20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Flexible All-Rounder",
+     "href": "../../../en/Products/E-Trucks/E16-E20-P/index.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Efficient load handling: Linde E16 – E20 P electric forklift trucks are maneuverable, flexible and offer numerous energy options."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/E16-E20-P/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Xi16 – Xi20 P (four-wheeled forklift truck)",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-P/index.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Powerful, robust, agile, and spacious: The counterbalance forklift trucks Xi16 – Xi20 P from Linde set new standards as a four-wheeled version."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-P/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Solutions for the automotive industry",
+     "href": "../../../en/Solutions/Industries/Automotive-Industry/index.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Linde Material Handling supports the automotive industry in the key challenges of intralogistics: ensuring production flow, saving costs, using automation, protecting the environment."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Industries/Automotive-Industry/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "Flying starts on the ground",
+     "href": "../../../en/About-us/Magazine/Airport-Logistics.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Ground handling is a challenge for airport logistics. The demands on industrial trucks and logistics solutions are correspondingly high. Demand is for robust vehicles that enable fast and safe handling and are increasingly focusing on alternative drive systems."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Airport-Logistics.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "Theo Egberts’s Performance Test",
+     "href": "../../../en/About-us/Magazine/Theo-Egberts-Xi/index.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "Forklift expert confirms: Linde sets new records for performance, ergonomics, and energy efficiency with its new Xi models."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Theo-Egberts-Xi/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Linde Roadster Xi16 – Xi20 RP",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-RP/index.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "The Xi16 – Xi20 RP electric counterbalanced forklift truck combines unparalleled all-round visibility, maneuverability, and safety for maximum efficiency."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-RP/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "Linde Roadster Xi14 – Xi20 R",
+     "href": "../../../en/Products/E-Trucks/Xi14-Xi20-R/index.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Pioneering visibility, compact maneuverability, and high performance: The Xi14 – Xi20 electric counterbalanced forklift trucks from Linde Material Handling."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Xi14-Xi20-R/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "Xi10 – Xi20 (three-wheeled forklift truck)",
+     "href": "../../../en/Products/E-Trucks/Xi10-Xi20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "As a three-wheeled version, the counterbalance forklift trucks Xi10 – Xi20 from Linde set new standards when it comes to performance, maneuverability and space."
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Xi10-Xi20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "A Refreshing Performance",
+     "href": "../../../en/About-us/Magazine/Ensinger/index.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "The best of both worlds – for the best that nature has to offer. That’s the best way to describe the pilot run of the new Linde X35 at German soft drinks manufacturer, Ensinger Mineral-Heilquellen. The new electric forklift truck performance class impressed the managers of the long-established mineral water brand, not only in terms of sustainability, but also with its outstanding performance."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Ensinger/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "Signature Move(s)",
+     "href": "../../../en/About-us/Magazine/Porsche-Engineering/index.html"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "For decades now, Linde forklift trucks have been distinguished by their design, for which the honor goes to none other than Porsche Engineering. The most recent achievement of this progressive partnership: the new generation of Linde Counterbalanced Forklift Trucks X20 – X35 and H20 – H35."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Porsche-Engineering/index.html"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

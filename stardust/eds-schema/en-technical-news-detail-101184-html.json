@@ -1,0 +1,108 @@
+{
+ "source": "http://localhost:8803/stardust/.work/rollout/archetype-article/proto/en-technical-news-detail-101184-html-proposed.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "media-carousel",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "article",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Linde Roadster wins German Design Award 2019"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "15 Nov 2018"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Vision-optimized vehicle concept without A-pillar"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Attractive design meets extraordinary visibility: This double benefit offered by Linde Material Handling’s Roadster impressed the jury at the prestigious German Design Award. The international panel of experts selected the vision-optimized version of the successful electric counterbalance truck series, Linde E20-E35, as one of the 2019 winners in the Utility Vehicles category."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Wanted: High-end products with outstanding design quality that are trailblazers in the design landscape. Found: The Roadster from Linde Material Handling!"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The Linde Roadster, a vision-optimized version of the successful electric counterbalance truck series Linde E20-E35, has won the German Design Award in the Utility Vehicles category."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "The unique vehicle concept had already caused a minor revolution in forklift construction when it made its debut in 2016. Through special design modifications, the developers at Linde Material Handling had managed to completely eliminate the need for the usual A-pillar: The overhead tilt cylinders absorb the lifting forces and direct them backwards via the overhead guard frame. Thanks to this creative solution, Linde Roadster drivers enjoy an almost unlimited all-round view, which makes their work not only much easier but also significantly safer."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "This is exactly how the jury of the German Design Awards justified the award and named the truck, which is unique in the industry, a “Winner” in the Utility Vehicles category. Prior to this, international design experts from business, science and the design industry had scrutinized around 5,400 submissions. The German Design Award has been presented annually by the German Design Council since 2012 and is one of the most recognized design competitions worldwide."
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "“We are delighted to receive this special award. It shows that it is absolutely worthwhile to keep on challenging what already exists and – in the interests of our customers – tread new paths that provide clear added value in material handling,” emphasizes Christophe Lautray, Chief Sales Officer, Linde Material Handling."
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "For the Linde Roadster, this is its second top-class award this year: Back in January, this special model variant won the renowned French industrial design award “Observeur du design 2018” offered by APCI (Agence pour la promotion de la création industrielle)."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 10,
+   "repeats": []
+  },
+  {
+   "section": "press-contact",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Trade Press"
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "Heike Oder"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "+49 6021 991277",
+     "href": "tel:+49 6021 991277"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Send email",
+     "href": "mailto:heike....oder@@@@linde-mh....de"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": []
+  }
+ ]
+}

@@ -1,0 +1,449 @@
+{
+ "source": "http://localhost:8806/stardust/migrated/en/Products/Hand-Pallet-Trucks/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Hand pallet trucks"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "A Handy Piece of Kit"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find a truck",
+     "href": "https://www.linde-mh.de/de/Produktfinder/?offerType=new&sorting[field]=productType&sorting[direction]=ASC&driveTypes[]=3340&productTypes[]=2375"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Our standard design",
+     "href": "#777628"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Hand pallet truck with weighing scales",
+     "href": "#777630"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Hand pallet truck with scissor lift",
+     "href": "#777625"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Hand pallet trucks are a versatile piece of kit and a must for any warehouse. Agile and easy-to-operate, these trucks are the perfect choice whenever you need to transport large volumes of goods or heavy loads quickly and efficiently over short distances. Narrow aisles, tight lorry loading areas, and steep ramps pose no problem for them. In fact, tight spaces are where the manual hand pallet trucks from Linde Material Handling excel thanks to their compact design and high precision controls."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Most hand pallet trucks are operated using a tiller. The tiller on the Linde models is designed for one-handed operation and features an ergonomic handle which makes it easy to maneuver even the heaviest loads. The tiller also boasts a large steering angle, which enables the operator to accurately position the truck in tight spaces. Little effort is required when pulling and pushing Linde’s hand pallet trucks because the wheels exert very little rolling resistance on the ground. The trucks are also sturdily built and their hydraulics protected against dust ingress, so they are ideally designed for long operating hours in demanding conditions."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Hand Pallet Trucks from Linde"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "M25",
+     "href": "../../../en/Products/Pallet-Trucks/M25/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The M25 pallet lift truck has a particularly rugged construction and can therefore can take 25 percent more weight than comparable models."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "../../../en/Products/Pallet-Trucks/M25/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "M25 Scale+",
+     "href": "../../../en/Products/Pallet-Trucks/M25-Scale/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The M25 Scale+ pallet lift truck also has a high load capacity and a scale system to precisely document the load quantity."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "../../../en/Products/Pallet-Trucks/M25-Scale/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "M10 X/XE",
+     "href": "../../../en/Products/Pallet-Trucks/M10-X-XE/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The M10 X and M10 XE pallet trucks from Linde Material Handling lift the fork to the ideal working height using a scissor lift. This enables flexible use for transport, order picking, or use as a work platform."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Learn more",
+     "href": "../../../en/Products/Pallet-Trucks/M10-X-XE/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "View all our hand pallet trucks here!",
+     "href": "../../../en/Product-Finder/index.html?offerType=new&sorting[field]=productType&sorting[direction]=ASC&productTypes[]=2375"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "A Handy Addition to any Warehouse"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Hand pallet trucks are durable, versatile, and easy to operate. With the right product you can transport all kinds of loads quickly and easily – and that’s where Linde comes in. All our hand pallet trucks have a solid steel chassis, so that operators can take full advantage of the maximum load capacity and keep throughput rates high at all times. Intuitive controls and an ergonomic design also make it easy for operators to maneuver and lift even the heaviest loads. The tips of the forks of all Linde hand pallet trucks are fitted with rollers to help them slot smoothly into pallets and smaller loads weighing up to 200 kg can be lifted quickly and efficiently using the quick-lift function."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The perfect hand pallet truck for every requirement"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde’s range of hand pallet trucks offers something for every operating environment. Customization options include different fork lengths and special polyurethane tires for environments where noise levels need to be kept to a minimum. Specialist models are also available with scissor lifts and integrated weighing scales, so no matter what the task, you’re sure to find exactly the right hand pallet truck for you."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Setting the Standard – the M25"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Need to transport goods quickly and efficiently over short distances? Then Linde’s versatile M25 hand pallet truck is the one for you. With a maximum load capacity of 2,500 kg, the M25 can carry around 25% more weight than comparable models, thanks to its robust steel chassis. Its hydraulics are also protected against dust ingress, so it is well equipped to handle even the most demanding warehouse environments."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The tiller boasts a steering angle of 105 degrees, so maneuvering in tight spaces is no problem at all. Plus, the wide tiller handle envelopes the operator’s hands and protects them against knocks when maneuvering. The low-lying chassis also helps prevent foot injuries. In its standard stainless steel design, the truck is fitted with open prongs, which are ideal for use in operating environments where humidity levels are high. The enhanced stainless steel design with closed prongs is suitable for environments where hygiene is paramount."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more about the M25",
+     "href": "../../../en/Products/Pallet-Trucks/M25/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Punching above its Weight – the M25 Scale+"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "With the M25 Scale+ from Linde, you can combine weighing and transport tasks into one easy step. This specialist hand pallet truck comes with integrated weighing scales that can accurately weigh and, if necessary, digitally record the weight of goods to an accuracy of up to 0.5 kg. No need to traipse over to a separate precision balance; instead you can combine two tasks in one and considerably increase your handling capacity."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "These hand pallet truck models also boast an exceptionally high load capacity – up to a maximum of 2500 kg – thanks to their robust and warp-resistant design. The rubber wheels help reduce vibrations and ensure a smooth ride, and the small rollers on the fork tips mean the forks slot almost effortlessly into the pallets."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more about the M25 Scale +",
+     "href": "../../../en/Products/Pallet-Trucks/M25-Scale/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Reaching New Heights – the M10 X and M10 XE"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Linde’s M10 X and M10 XE hand pallet trucks are two specialist models with an integrated scissor lift. The scissor lift function enables the operator to raise the forks to a comfortable height – up to 800 mm – in order to reduce the strain on their back. The two models differ slightly from one another: The scissor lift on the M10 X is controlled manually using the tiller, whereas the M10 XE has an electric lift, so the operator can lift pallets and goods to the required height at the push of a button."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Both models boast a reinforced tiller and robust, warp-resistant chassis, designed to support loads of up to 1000 kg. Small anchors on the left and right of the back wheels provide extra stability when the lift is raised over 400 mm. The scissor lift function really comes into its own when using the hand pallet truck as a mobile workstation or when picking goods in confined spaces."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more about the M10 X and M10 XE",
+     "href": "../../../en/Products/Pallet-Trucks/M10-X-XE/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "View all our hand pallet trucks here!",
+     "href": "../../../en/Product-Finder/index.html?offerType=new&sorting[field]=productType&sorting[direction]=ASC&productTypes[]=2375"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "T14 B",
+     "href": "../../../en/Products/Pallet-Trucks/T14-B/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "The compact T14 B pallet truck from Linde particularly impresses as a reliable electric assistant for precise and convenient indoor handling."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/Products/Pallet-Trucks/T14-B/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "T16 L",
+     "href": "../../../en/Products/Pallet-Trucks/T16-L/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The T16 L pallet truck from Linde Material Handling can be used flexibly for short transports, loading and unloading, and order picking."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/Products/Pallet-Trucks/T16-L/index.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

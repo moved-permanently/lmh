@@ -1,0 +1,1531 @@
+{
+ "source": "http://localhost:8806/stardust/migrated/en/Solutions/Intralogistics-Automation/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Intralogistics and Automation"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Composed Around You"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Want to boost your operations? Get in touch with us!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Offer",
+     "href": "#2428880"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Products",
+     "href": "#2428900"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Scalability",
+     "href": "#2428903"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Software",
+     "href": "#2428906"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Case Studies",
+     "href": "#2428911"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 5,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Goods handling in intralogistics is changing rapidly. Volumes and requirements are increasing, and processes are becoming more complex. The shortage of skilled workers is adding to this pressure. Companies therefore need to organize their material and goods flows in a flexible, efficient, and reliable way, while keeping an eye on their costs. There is a growing demand for intralogistics solutions that can be seamlessly integrated into value chains and adapted to changing conditions."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "This is exactly where Linde Material Handling comes in."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "With the digitalization and automation of intralogistics—using software-controlled guided vehicles, conveyor technology, and storage systems, with intelligent warehouse management to optimize all goods flows and processes. System solutions that increase efficiency, reduce costs, minimize errors and are tailored to the individual requirements of your company—"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Composed Around You."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.intro",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Advantages of Digitalization and Automation"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "There are many ways to improve the performance of your intralogistics. These include , storage areas, or warehouse layouts, and designing efficient goods flows. However, two of the most important levers are digitalization and automation. Together, they ensure transparency and efficiency throughout the entire system."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "optimizing vehicle fleets",
+     "href": "../../../en/Solutions/Fleet-Management/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "lays the groundwork for efficient processes by connecting data and material flows, thereby creating transparency and controllability."
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Digitalization"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "builds on this foundation to optimize processes, conserve resources, and enhance the performance of intralogistics."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Automation"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 6
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Increase throughput"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "More efficient throughput allows you to move larger quantities of goods in less time and make optimal use of your existing resources."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Optimize space"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Stationary automated systems reduce space requirements as they enable greater storage capacity in the same space."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Reduce costs"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Automation permanently reduces intralogistics costs by minimizing errors and optimizing the reliability of your processes."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Ensure transparency"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Comprehensive data enables targeted performance analyses and shows you potential areas for improvement."
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "Increase safety"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Automated processes reduce damage and accidents, thereby increasing safety throughout the entire operation."
+    },
+    {
+     "role": "heading",
+     "order": 10,
+     "text": "Relieve employees"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Automated processes relieve your employees so that they can concentrate on value-adding tasks."
+    }
+   ],
+   "imgCount": 6,
+   "editableTexts": 12,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 6,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Find out more about our intralogistics and automation solutions!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Automation with Linde Material Handling"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "For over 70 years, Linde MH has been synonymous with technically advanced forklift trucks and warehouse technology. Today, we offer companies of all sizes tailor-made intralogistics solutions, from goods receipt to dispatch. Our automation expertise is based on this experience. It combines the latest cutting-edge technology in renowned Linde quality with a deep understanding of intralogistics processes."
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "Hardware expertise meets process knowledge"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Whether small or large, compact or complex, a single work step, or a networked complete system, thanks to our process expertise, we know which parts of the material flow are perfect for automation. Our aim is to gain a precise understanding of processes, challenges, and objectives. From analysis and implementation to service and further development, we provide everything from a single source. This results in tailor-made solutions—"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Composed Around You!"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "In safe hands"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde MH relies on proven industrial components and combines its own technologies with carefully selected partner products. From consulting and planning to service and training, you receive comprehensive support tailored to your needs."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Always close by"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "With 7,500 service technicians and around 2,000 sales advisors, Linde MH is close to its customers worldwide. Over 100 intralogistics and automation experts support our advisors on site in developing solutions. Software support, servicing, and spare parts for the hardware are available at all times."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Proven expertise"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Decades of intralogistics experience in all relevant industries and over 1,400 automated systems in operation make Linde MH a strong partner for any task. Close cooperation with leading suppliers ensures tailor-made solutions."
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Automation that Pays Off"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Solutions from Linde Material Handling quickly pay for themselves:"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Investment break-even in less than three years"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Up to 40 per cent higher productivity"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Around 70 per cent fewer workplace accidents"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Operating costs reduced permanently by 10 to 20 per cent"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Looking Ahead: Robot Automates Order Picking"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "With the Robotic Case Picker (RoCaP), Linde MH is solving one of the biggest challenges in intralogistics: the automation of order picking. The autonomous vehicle combines artificial intelligence with sophisticated camera and gripping technology to independently perform complex palletizing and depalletizing processes in mixed operation. Initial successful practical tests at ROSSMANN mark the beginning of a new era in warehouse automation."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/technical/News-Detail_5327488.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Our Offer for You"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Linde Material Handling provides everything you need to optimize your intralogistics and successfully automate your processes. We provide everything from a single source, with competent, holistic design. Our services form the basis for efficient, customized solutions. We support you throughout the process, from planning to commissioning, whether you are constructing new premises or upgrading existing ones. Our comprehensive guarantees the availability and performance of your systems. Flexible ensures that your investment remains easy to plan and economical."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Consulting",
+     "href": "../../../en/Solutions/Intralogistics-Automation/index.html#fsSectionId_2428882"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Implementation",
+     "href": "../../../en/Solutions/Intralogistics-Automation/index.html#fsSectionId_2428886"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Service",
+     "href": "../../../en/Solutions/Intralogistics-Automation/index.html#fsSectionId_2428892"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Financing",
+     "href": "../../../en/Solutions/Intralogistics-Automation/index.html#fsSectionId_2428896"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "B.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Consulting"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Analysis and Target Vision"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Based on your objectives and current processes, we work with you to develop the optimal target state for your intralogistics. We use existing data and, if necessary, collect our own data on site to record and analyze all and requirements along the handling processes. This enables us to determine the individual optimization and automation potential for your operational processes."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "material flows",
+     "href": "../../../en/Solutions/Consulting/Material-Flow-Consulting/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Concept and Planning"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Based on an analysis of the current situation and your objectives, we develop a concept that combines material flow planning, fleet optimization, warehouse layout, and suitable automation components. Simulation and visualization help to verify the optimal future setup. Transparent cost and implementation planning with a view to ROI and TCO shows when your investment will pay off and what added value it will create in the long term."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "More about material flow consulting",
+     "href": "../../../en/Solutions/Consulting/Material-Flow-Consulting/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Implementation"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "21",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Smoothly to the Finished Plant"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Whether you are planning a completely new facility or want to modernize your existing infrastructure, as a general contractor, we accompany you right up to the handover of the turnkey facility. Plus, in transparent coordination with your internal project management team, we ensure the precise implementation of each process step—from the first shelf to testing and commissioning of the entire system solution."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "2"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "22",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Complete project management"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "A designated contact person is available throughout the entire project to coordinate all involved parties and maintain an overview. This ensures that all work steps mesh seamlessly."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Employee training"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "To ensure smooth and safe operation of the automated systems, Linde MH trains your employees before the systems are handed over. This ensures that your team is familiar with all functions, processes, and safety aspects and can operate the new technology right from the start."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Reliability and service"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Thanks to careful planning, we consistently implement projects within the agreed time frame and budget. We also provide our customers with particularly close support during the start-up phase after commissioning. Enhanced service support ensures that operations run smoothly from day one."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "23",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Contact our automation experts to improve your warehouse efficiency.",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "24",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Automation in Existing Systems"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Automating existing systems appropriately and precisely is one of our greatest strengths. We seamlessly integrate automated systems into your existing processes and buildings—without disrupting ongoing operations. Manual and automated processes can be operated in parallel. Our broad enables you to gradually and intelligently expand or replace manual fleets with automated solutions. This means that every investment becomes a building block for sustainable productivity gains, perfectly adapted to your existing structures and individual requirements."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "product portfolio",
+     "href": "../../../en/Solutions/Intralogistics-Automation/Automated-Warehouse/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "25",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Contact us and get started with automation today.",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "26",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Service and Further Development"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "27",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Reliable and Future-Proof"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "First-class servicing is key to ensuring that your intralogistics remain available and efficient at all times. Linde MH offers a comprehensive service network, fast spare parts supply, flexible service contracts, and targeted support in all project phases. We also provide reliable support for stationary systems from partner companies. This ensures that your automation solutions remain efficient, safe, and technically up to date in the long term."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "2"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "28",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Wide service network"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Around 7,500 service technicians at 700 locations guarantee fast assistance, usually on site within 30 minutes."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "High spare parts availability"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Spare parts are available worldwide via regional distribution centers at short notice, even for automated components."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Spare parts packages"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The local service unit stocks specific spare parts for the customer’s system solution."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Customized service"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Individual support as a full service or according to an individual service level agreement (SLA)."
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "Remote support"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Technical support is available 24/7 via hotline, ticket system, and remote access."
+    },
+    {
+     "role": "heading",
+     "order": 10,
+     "text": "Conversion and retrofitting"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Systems are adapted or expanded to meet new requirements as needed."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 12,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 6,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "29",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Learn more about our intralogistics and automation solutions",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "30",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Financing"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "31",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "At Linde MH, successful automation starts with sound financial planning. During the consultation and design phase, we detail and discuss all costs, from hardware and software to commissioning, operation, and servicing. This provides a reliable foundation for your investment decision."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "We offer a variety of financing models, including full-service leasing. We also help you select suitable financing partners."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "32",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Learn more about our financing solutions",
+     "href": "../../../en/Solutions/Financing/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "33",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Products from Linde MH"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "34",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Our Portfolio: the Right Solution for Every Need"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde MH’s are as diverse as our customers’ requirements. With our extensive experience in mobile applications, a high level of expertise in automating existing systems, and well-designed solutions for new construction projects, we offer the right product selection for every need."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "automation solutions",
+     "href": "../../../en/Solutions/Intralogistics-Automation/Automated-Warehouse/index.html"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "These include automated Linde industrial trucks ( ), autonomous mobile robots ( ), and configurable AGVs. Where high throughput and compaction are possible, we use stationary solutions, such as , container storage systems, conveyor technology, and storage and retrieval machines."
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "AGVs",
+     "href": "../../../en/Solutions/Intralogistics-Automation/Automated-guided-vehicle/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "AMRs",
+     "href": "../../../en/Solutions/Intralogistics-Automation/Autonomous-mobile-robots/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "automated pallet shuttle systems",
+     "href": "../../../en/Solutions/Intralogistics-Automation/S-MATIC-cube/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "We combine this wide variety of mobile and stationary systems flexibly to create individual scenarios and cover all processes, from incoming to outgoing goods."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 4,
+      "imgs": 0,
+      "textRuns": 8
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "35",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Mobile systems"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Autonomous mobile robots (AMRs) and automated guided vehicles (AGVs) ensure flexible and efficient handling and transport of a wide variety of goods and load carriers."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Stationary systems"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Shuttle systems, compact warehouses, automated small parts warehouses, and storage and retrieval machines enable optimal use of space and high throughput in material flow."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Additional components"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Modern conveyor technology, ergonomic picking stations, and racking systems from proven Linde partners round off the complete range of our automation solutions."
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "36",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "One-stop warehouse automation: Discover our portfolio!",
+     "href": "../../../en/Solutions/Intralogistics-Automation/Automated-Warehouse/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "37",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "38",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Systems that Grow with You"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Automation solutions from Linde MH can be quickly integrated, flexibly expanded, and seamlessly adapted to existing processes. You can start with just one to five vehicles. From there, you can gradually expand and adapt the system to your business’s growing automation needs, all the way to a fully automated system."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "39",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Flexible start"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Thanks to the Linde MATIC:move control software, your automation can start with individual process steps and just a few vehicles, even without a WMS connection. With digital mapping and visualization of the routes in the control software, you can use the AGVs safely and efficiently. Your employees can easily add routes or stations themselves at any time."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "On-site feasibility test"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Automated guided vehicles (AGVs) and autonomous mobile robots (AMRs) can be tested on site in trial operation. This allows the feasibility to be realistically assessed within a day. Once the tasks for AGVs or AMRs have been defined after successful testing and the integration of the devices into existing processes has been designed, commissioning usually takes place within three days."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Seamless integration"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Whether for new construction projects or existing facilities, all components (from mobile and stationary systems to the control software Linde MATIC:move and MATIC:move+) are optimally coordinated and can be easily integrated into existing processes and IT systems thanks to the VDA 5050 interface."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Maximum Flexibility"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The control software Linde MATIC:move+ for Linde MH’s AGVs is flexibly scalable and can be used with our WMS , or can also be easily integrated into other higher-level warehouse management systems via the standard VDA 5050 interface. The Linde Warehouse Manager coordinates the interaction between manual and automated systems."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Linde Warehouse Manager",
+     "href": "../../../en/Solutions/Intralogistics-Automation/Warehouse-Management-System/index.html"
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Continuous development"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "We are constantly expanding our product range and adapting it to new requirements. By working with technology partners and leveraging the resources of the KION Group, we can offer our customers modern, high-performance, and future-proof solutions."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 10,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "40",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Software for Intralogistics and Automation"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "41",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Efficiency through Digitalization"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Whether manual or automated, the use of software systems is a prerequisite for efficient intralogistics processes. Linde MH’s warehouse management system (WMS), , links the data flows of the supply chain with the physical processes in the warehouse. This allows all processes to be optimally controlled, monitored, and analyzed."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Linde Warehouse Manager",
+     "href": "../../../en/Solutions/Intralogistics-Automation/Warehouse-Management-System/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "42",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Learn more about the Linde Warehouse Manager!",
+     "href": "../../../en/Solutions/Intralogistics-Automation/Warehouse-Management-System/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "43",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Central control of all processes"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The controls both manual and automated processes and coordinates all material flows in the warehouse, from storage and picking to shipping."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Linde WMS",
+     "href": "../../../en/Solutions/Intralogistics-Automation/Warehouse-Management-System/index.html"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "Transparency and inventory management"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Inventories as well as incoming and outgoing goods are fully recorded and managed. All processes are clearly documented and can be traced at any time."
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "Networking with other systems"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Interfaces can be used to connect the forklift guidance system, the integrated forklift guidance system for manual vehicles, and the control software for automated systems. Integration into the company’s ERP system is also possible."
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Open interfaces and system diversity"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "The is VDA 5050-compatible, allowing automated guided vehicles and control software from different manufacturers to communicate with each other. The solution is compatible with all common WMS systems."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Linde WMS",
+     "href": "../../../en/Solutions/Intralogistics-Automation/Warehouse-Management-System/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "44",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Intralogistics and automation solutions composed around you: Consult us now!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "45",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Forward Thinking: AI Innovations for the Warehouse of Tomorrow"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Together with NVIDIA and Accenture, Linde Material Handling is developing AI solutions for the future of material flows. At the heart of these solutions are real-time localization of all vehicles and digital twins that create virtual warehouse images for optimal process control. AI-supported orchestration perfectly coordinates manual and automated fleets. The result is a material flow with revolutionary transparency, efficiency, and flexibility for a decisive competitive advantage."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/Revolutionizing-the-Warehouse-with-AI/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "46",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Intralogistics automation in practice"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "47",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Simon Hegele Boosts Efficiency with Warehouse Automation",
+     "href": "../../../en/About-us/Magazine/Simon-Hegele/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "What’s the best way to address the shortage of skilled workers in logistics? Simon Hegele has turned to warehouse automation from Linde MH—and it’s a real success story."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Simon-Hegele/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Automation that Cuts No Corners",
+     "href": "../../../en/About-us/Magazine/Oechsler/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Long distances, narrow spaces, steep ramps—all combined in a busy environment with people and trucks working side by side. At the Ansbach headquarters of the German plastics specialist Oechsler AG, three Linde L-MATIC HDs ensure the consistently efficient flow of goods around the clock."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Oechsler/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "A Sweeping Success",
+     "href": "../../../en/About-us/Magazine/TST/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Automation made easy: This was the challenge facing TST GmbH in Düsseldorf (Germany). Armed with the expertise and technology from Linde, it was possible to overcome this challenge in a short space of time."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/TST/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Where there is an obstacle, there is also a way",
+     "href": "../../../en/About-us/Magazine/Franz-Veit/index.html"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "The most fascinating equations are known to be the ones with multiple unknown variables. One such variable was to be found in the “Automation” chapter of the Requirements Specification from paper specialists Franz Veit. How can the transportation tasks be reliably handled in a production and warehousing environment whose face is constantly changing?"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Franz-Veit/index.html"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "48",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Discover Intralogistics and Automation Solutions for Your Sector",
+     "href": "../../../en/Solutions/Intralogistics-Automation/User-cases-intralogistics/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+  "overall": "In progress",
+  "steps": [
+    [
+      "Analyzing your site",
+      "Done"
+    ],
+    [
+      "Capturing brand and design",
+      "Done"
+    ],
+    [
+      "Rebuilding page templates",
+      "Done"
+    ],
+    [
+      "Checking fidelity",
+      "In progress"
+    ],
+    [
+      "Migrating your pages",
+      "Done"
+    ]
+  ],
+  "templates": [
+    [
+      "en",
+      "Home page",
+      "Minor differences",
+      "Being refined"
+    ],
+    [
+      "en-landingpage-e-models",
+      "Campaign and product landing pages",
+      "Being refined",
+      "Being refined"
+    ],
+    [
+      "en-products-e-trucks",
+      "Product, service and solution pages",
+      "Being refined",
+      "Being refined"
+    ],
+    [
+      "en-technical-news-detail-101184-html",
+      "News articles",
+      "Yes",
+      "Minor differences"
+    ],
+    [
+      "en-about-us-press",
+      "Overview and listing pages",
+      "Being refined",
+      "Being refined"
+    ],
+    [
+      "en-forms-global-contact-form",
+      "Contact and request forms",
+      "Yes",
+      "Yes"
+    ],
+    [
+      "en-legal-notes-privacy-statement",
+      "Legal and information pages",
+      "Yes",
+      "Minor differences"
+    ],
+    [
+      "en-productfinder-html",
+      "Product finder",
+      "Yes",
+      "Yes"
+    ],
+    [
+      "unique",
+      "Product finder",
+      "Yes",
+      "Yes"
+    ],
+    [
+      "en-technical-location-finder-html",
+      "Location finder",
+      "Yes",
+      "Yes"
+    ]
+  ],
+  "now": "All pages are live on the preview site. We are refining the remaining pages one building block at a time, measuring each block against your current site at desktop and mobile widths: the icon tiles and the events calendar were brought in line this round, and the bullet lists and expandable sections are next.",
+  "next": "The remaining pages are checked again after each block is corrected, and the page list above updates as they come through."
+}

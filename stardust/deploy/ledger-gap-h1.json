@@ -1,0 +1,38 @@
+{
+  "/en/about-us/certificates": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T17:54:05.600Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/linde-core/linde-productivity": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T17:54:05.600Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/overview": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T17:54:12.402Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/semi-automated-order-pickers": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T18:08:55.247Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

@@ -1,0 +1,2598 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-06T11:19:06.076Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "en-about-us-magazine",
+  "url": "https://www.linde-mh.com/en/About-us/Magazine/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-06T11:19:06.076Z",
+  "finalUrl": "https://www.linde-mh.com/en/About-us/Magazine/",
+  "title": "Linde Magazine",
+  "description": "Take a look at the Magazin and learn more about truck reportages and application reports as well as the newest trends of intralogistics. ",
+  "og": {
+    "title": "Linde Magazine",
+    "description": "Exciting application reports and videos as well as articles about technology and different industry sectors.",
+    "image": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/ic_truck-outdated_product-loading-construction-116_16x9w1920.jpg",
+    "type": "article"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Magazine"
+    },
+    {
+      "tag": "h2",
+      "text": "Customer Case Studies"
+    },
+    {
+      "tag": "h3",
+      "text": "It’s all about that certain EXtra"
+    },
+    {
+      "tag": "h3",
+      "text": "ABS Safety Implements Automation at a Brownfield Site"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Reverse Assist Radar at Michelin Tyre PLC"
+    },
+    {
+      "tag": "h3",
+      "text": "DB Schenker tests the new Linde E16"
+    },
+    {
+      "tag": "h3",
+      "text": "Performance Yes, Load Peaks No"
+    },
+    {
+      "tag": "h3",
+      "text": "Heineken Switzerland AG"
+    },
+    {
+      "tag": "h3",
+      "text": "Top Performance Down Under"
+    },
+    {
+      "tag": "h3",
+      "text": "Higher is Faster Here"
+    },
+    {
+      "tag": "h3",
+      "text": "Who Dares Wins"
+    },
+    {
+      "tag": "h3",
+      "text": "Fertile Ground for Healthy Growth"
+    },
+    {
+      "tag": "h3",
+      "text": "Thinking Ahead while Reversing"
+    },
+    {
+      "tag": "h3",
+      "text": "A Sweeping Success"
+    },
+    {
+      "tag": "h3",
+      "text": "The Seventh R Is a V"
+    },
+    {
+      "tag": "h3",
+      "text": "Fully Equipped for the Future"
+    },
+    {
+      "tag": "h3",
+      "text": "An Combustion Engine Stronghold Converts to Electric"
+    },
+    {
+      "tag": "h3",
+      "text": "Unbeatable Handling and Zero Emissions Guaranteed"
+    },
+    {
+      "tag": "h3",
+      "text": "Electric forklifts in their element"
+    },
+    {
+      "tag": "h3",
+      "text": "Where there is an obstacle, there is also a way"
+    },
+    {
+      "tag": "h3",
+      "text": "Sparking an Idea at FLN Neuruppin"
+    },
+    {
+      "tag": "h3",
+      "text": "Narrow Aisles, Wide Choice"
+    },
+    {
+      "tag": "h3",
+      "text": "An inspiring debut"
+    },
+    {
+      "tag": "h3",
+      "text": "Quiet but Powerful"
+    },
+    {
+      "tag": "h3",
+      "text": "The X Factor"
+    },
+    {
+      "tag": "h3",
+      "text": "Schenker takes full control of its forklift truck fleet"
+    },
+    {
+      "tag": "h3",
+      "text": "Seeing Everything, Everywhere"
+    },
+    {
+      "tag": "h3",
+      "text": "Stable yet flexible"
+    },
+    {
+      "tag": "h3",
+      "text": "“A Whole New Driving Experience”"
+    },
+    {
+      "tag": "h3",
+      "text": "Safety Scrutinized from an Objective Perspective"
+    },
+    {
+      "tag": "h3",
+      "text": "Between Charges: Opportunity Charging"
+    },
+    {
+      "tag": "h3",
+      "text": "It Doesn’t Just Look Good on Paper"
+    },
+    {
+      "tag": "h3",
+      "text": "In Action to Improve Safety"
+    },
+    {
+      "tag": "h3",
+      "text": "Keeping Goods Moving"
+    },
+    {
+      "tag": "h3",
+      "text": "Rack and roll"
+    },
+    {
+      "tag": "h3",
+      "text": "System: changed"
+    },
+    {
+      "tag": "h3",
+      "text": "More Fish for Life"
+    },
+    {
+      "tag": "h3",
+      "text": "A Refreshing Performance"
+    },
+    {
+      "tag": "h3",
+      "text": "Two value creators in full swing"
+    },
+    {
+      "tag": "h3",
+      "text": "Perfect warning"
+    },
+    {
+      "tag": "h3",
+      "text": "Efficiency Maximized"
+    },
+    {
+      "tag": "h3",
+      "text": "Automated around the world"
+    },
+    {
+      "tag": "h3",
+      "text": "Made to Measure"
+    },
+    {
+      "tag": "h3",
+      "text": "Analyzed Efficiently"
+    },
+    {
+      "tag": "h3",
+      "text": "A thirst for innovation"
+    },
+    {
+      "tag": "h3",
+      "text": "High-precision machine at Norrlands trä"
+    },
+    {
+      "tag": "h3",
+      "text": "Full of tricks"
+    },
+    {
+      "tag": "h3",
+      "text": "A powerful steel in the fire"
+    },
+    {
+      "tag": "h3",
+      "text": "Electric power packs help to quench thirst"
+    },
+    {
+      "tag": "h3",
+      "text": "Forklift trucks for dirty work"
+    },
+    {
+      "tag": "h3",
+      "text": "Highest Standards, Best Prospects"
+    },
+    {
+      "tag": "h3",
+      "text": "\"Remove before flight\""
+    },
+    {
+      "tag": "h3",
+      "text": "Wine Time is Rental Time"
+    },
+    {
+      "tag": "h3",
+      "text": "No forklifts, no fan mile"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Rental Solutions at Agua Mineral San Benedetto"
+    },
+    {
+      "tag": "h3",
+      "text": "Automotive supplier SMP controls its vehicle fleet with Linde connect"
+    },
+    {
+      "tag": "h3",
+      "text": "Opel Vienna turns to automation"
+    },
+    {
+      "tag": "h3",
+      "text": "Powerful forklifts for tough applications"
+    },
+    {
+      "tag": "h3",
+      "text": "Alpine intralogistics"
+    },
+    {
+      "tag": "h3",
+      "text": "Reliable allrounder"
+    },
+    {
+      "tag": "h3",
+      "text": "You can rely on them!"
+    },
+    {
+      "tag": "h3",
+      "text": "The Most Natural Thing in the World"
+    },
+    {
+      "tag": "h3",
+      "text": "Optimization is a question of chemistry"
+    },
+    {
+      "tag": "h3",
+      "text": "A real piece of gold amongst the trash"
+    },
+    {
+      "tag": "h3",
+      "text": "Almost As Fast As Formula 1"
+    },
+    {
+      "tag": "h3",
+      "text": "A breath of fresh air in logistics at Heidelberg"
+    },
+    {
+      "tag": "h3",
+      "text": "In use on the race track"
+    },
+    {
+      "tag": "h3",
+      "text": "Goods transport with automated fleet"
+    },
+    {
+      "tag": "h3",
+      "text": "Seamless shift changes for fresh goods"
+    },
+    {
+      "tag": "h3",
+      "text": "Individualised solutions for the paper industry"
+    },
+    {
+      "tag": "h3",
+      "text": "Safety First"
+    },
+    {
+      "tag": "h3",
+      "text": "New Intralogistics Concept for Better Processes"
+    },
+    {
+      "tag": "h3",
+      "text": "Automated trucks are an excellent solution at Fagerhult"
+    },
+    {
+      "tag": "h2",
+      "text": "Interviews"
+    },
+    {
+      "tag": "h3",
+      "text": "Revolutionizing the Warehouse with AI"
+    },
+    {
+      "tag": "h3",
+      "text": "How Does Automation Work? An Interview with Louis Vieira"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Energy Navigator: Software-supported energy consulting"
+    },
+    {
+      "tag": "h3",
+      "text": "The Next Big Thing"
+    },
+    {
+      "tag": "h3",
+      "text": "Automatically lifted up"
+    },
+    {
+      "tag": "h3",
+      "text": "Automation: Automation in existing structures requires a considered approach"
+    },
+    {
+      "tag": "h3",
+      "text": "Autonomous or manual?"
+    },
+    {
+      "tag": "h3",
+      "text": "We are the systems integrator for internal material flow"
+    },
+    {
+      "tag": "h3",
+      "text": "Automation meets future"
+    },
+    {
+      "tag": "h3",
+      "text": "Future topics and trends in the material handling equipment industry"
+    },
+    {
+      "tag": "h2",
+      "text": "Events"
+    },
+    {
+      "tag": "h3",
+      "text": "Seeing danger coming"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Material Handling at A+A 2025"
+    },
+    {
+      "tag": "h3",
+      "text": "Optimizing the entire process chain"
+    },
+    {
+      "tag": "h3",
+      "text": "Seeing danger coming"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Material Handling at A+A 2025"
+    },
+    {
+      "tag": "h3",
+      "text": "Optimizing the entire process chain"
+    },
+    {
+      "tag": "h3",
+      "text": "Three cheers for it!"
+    },
+    {
+      "tag": "h3",
+      "text": "Precision and speed required"
+    },
+    {
+      "tag": "h2",
+      "text": "Features"
+    },
+    {
+      "tag": "h3",
+      "text": "Solar Power for Poland"
+    },
+    {
+      "tag": "h3",
+      "text": "A listening ear for every situation"
+    },
+    {
+      "tag": "h3",
+      "text": "A new building for future-oriented spare parts supply"
+    },
+    {
+      "tag": "h3",
+      "text": "Social Engagement"
+    },
+    {
+      "tag": "h3",
+      "text": "Conserving Resources"
+    },
+    {
+      "tag": "h3",
+      "text": "Milestone on the way to autonomous outdoor forklifts"
+    },
+    {
+      "tag": "h3",
+      "text": "Signature Move(s)"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde solutions for the beverage industry"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Solutions for the 3PL Sector"
+    },
+    {
+      "tag": "h3",
+      "text": "50 years of Linde electric forklift trucks"
+    },
+    {
+      "tag": "h3",
+      "text": "“In a word—spectacular!”"
+    },
+    {
+      "tag": "h3",
+      "text": "One-millionth counterbalance truck produced in Aschaffenburg"
+    },
+    {
+      "tag": "h3",
+      "text": "From field to fork"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Virtual Showroom App"
+    },
+    {
+      "tag": "h3",
+      "text": "Facing down the standstill together"
+    },
+    {
+      "tag": "h3",
+      "text": "Innovative battery technology for forklift trucks"
+    },
+    {
+      "tag": "h3",
+      "text": "Robots as employee of the month"
+    },
+    {
+      "tag": "h3",
+      "text": "Flying starts on the ground"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde and the Love"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde is the favourite of the industry"
+    },
+    {
+      "tag": "h3",
+      "text": "From Güldner to the Linde MH headquarters: An industry with a rich history"
+    },
+    {
+      "tag": "h2",
+      "text": "Employee Portraits"
+    },
+    {
+      "tag": "h3",
+      "text": "Project and Product Manager Linde Automation"
+    },
+    {
+      "tag": "h3",
+      "text": "Head of Truck Assembly"
+    },
+    {
+      "tag": "h3",
+      "text": "Trainer at Linde Sales Academy"
+    },
+    {
+      "tag": "h3",
+      "text": "Production Mechanic"
+    },
+    {
+      "tag": "h6",
+      "text": "Follow us on"
+    }
+  ],
+  "body": [
+    "Products Products Overview Product Finder Product Finder Overview New Trucks Rental Trucks New Industrial Trucks New Industrial Trucks Overview Forklift Trucks Electric Forklifts Diesel Forklifts Gas Forklifts Heavy Duty Forklifts Pallet Trucks Hand Pallet Trucks Pallet Stackers Very Narrow Aisle Trucks Order Pickers Reach Trucks Tow Tractors Tugger Trains Explosion Proof Trucks Automated Trucks Forklift Hire Approved Trucks Automated Trucks Automated Trucks Overview Automated Guided Vehicles Autonomous Mobile Robots Digital Products Digital Products Fleet Management Intralogistics Software",
+    "Services Services Overview Truck Service Truck Service Maintenance & Repair Genuine Spare Parts Retrofit & Accessories Technical & Safety Services Training Financing",
+    "Solutions Solutions Overview Intralogistics & Automation Intralogistics & Automation Overview Automated Warehouse Warehouse Management System Material Flow Consulting Case Studies by Industries Fleet Management Fleet Management Overview Fleet Optimization Consulting Energy Systems Energy Systems Overview Lithium-ion Technology Fuel Cell Technology Energy Consulting Warehouse Safety Warehouse Safety Overview Light and Warning Systems Assistance Systems Safety Consulting",
+    "About us About us Overview Company Company Overview Sustainability Awards Certificates Our Innovations Working with us Working with us Overview Highschool & University Students Apprentices Recent Graduates & Professionals Magazine Events Press Media",
+    "Search",
+    "Xtranet",
+    "About us",
+    "Magazine",
+    "Customer Case Studies",
+    "Interviews",
+    "Events",
+    "Features",
+    "Employee Portraits",
+    "Inver GmbH, part of Sherwin‑Williams (the world’s largest coatings manufacturer), relies fully on Linde Material Handling’s explosion‑protection expertise at its Dresden site. This expertise includes both factory‑certified ATEX trucks and the close support provided by specially trained explosion‑protection service professionals.",
+    "Smart automation allows even seemingly unsuitable spaces to be used for logistics. One impressive example of this resulted from ABS Safety’s collaboration with Linde MH.",
+    "How to ensure safety in the hectic daily workflows of industrial intralogistics? In Stoke-on-Trent (UK), Michelin Tyre PLC is benefiting from the Linde Reverse Assist Radar.",
+    "DB Schenker in Schweinfurt handles around 800 to 1,000 metric tons of goods per day in its 5,000-square meter warehouse. Given the high volumes involved, the forklifts used therefore need to meet the most stringent requirements. In testing, the latest generation of the Linde E16 stood out thanks to its impressive speed and process reliability.",
+    "The logistics and fulfillment service provider Arvato uses the Linde connect:charger to prevent costly load peaks.",
+    "Heineken Switzerland has a challenging working environment that includes heavy forklifts, tight turnarounds, large handling volumes, and jobs where people and machines are constantly working side by side. To make sure it has everything covered in terms of safety, the company has invested continuously in safety innovations right from the start. The brewery was one of the first companies to introduce the Linde Safety Guard back in 2017—and has adapted the modular solution to meet its specific needs several times since.",
+    "Around 250 soldiers, over 200 tons of material loaded in more than 50 sea containers, and – right at the center of it all – Linde Material Handling rental forklift trucks in action on the other side of the world. In summer 2022, the Aschaffenburg-based goods flow specialist, together with its local network partner Forklift Solutions, supported the German Air Force in a multi-week exercise in the Australian Northern Territory.",
+    "The products of a well-known gardening tool manufacturer are stored up to 13 meters high at the Seifert Logistics Group in the north of Ulm, Germany. Yet despite this considerable height, the reach trucks not only load and unload the shelves extremely quickly, but also extremely safely. This is mainly thanks to Linde’s Dynamic Mast Control (DMC) assistance system.",
+    "The first step does not have to be the hardest, even when heavy loads come into play. In 2015, the renowned Radeberger Group, working with Linde Material Handling, was one of the first companies in the beverage industry to move from internal combustion engines to electrically powered trucks—right up to the highest payload classes.",
+    "Italian company Madi Ventura has been a key player in the world of nuts and dried fruits for more than 80 years. Recently, they worked with Linde MH to overhaul and future-proof intralogistics at the main site near Milan—including by implementing flexible, scalable automation solutions.",
+    "It’s what you add that makes the difference— and for industry specialist CEMEX Admixtures that applies to their intralogistics as well as their construction admixtures. The fleet of forklifts at the company’s site in Salzkotten, Germany has a new addition—the AI-based Linde System Reverse Assist Camera, which has significantly improved safety levels in reversing maneuvers.",
+    "Automation made easy: This was the challenge facing TST GmbH in Düsseldorf (Germany). Armed with the expertise and technology from Linde, it was possible to overcome this challenge in a short space of time.",
+    "Flying high: The Linde V modular ensures greater safety and speed when picking orders high up at Richter+Frenzel.",
+    "“More Possibilities”: For global market leader in innovative scaffolding systems Wilhelm Layher GmbH & Co KG, this customer promise is at the heart of everything they do. And the catchy slogan applies to intralogistics too, as demonstrated by the use of the X-series electric forklift trucks from Linde MH. At the company’s main location, they easily shoulder the same loads as their internal combustion colleagues – and may soon become a permanent fixture in the fleet.",
+    "It started with E and continues with X: The company Westfälische Drahtindustrie (WDI) is pushing for a switch from internal combustion to electric forklift trucks at its central German plant in Hamm. The Linde X50 puts in a convincing performance during the four-week field test, even with heavy loads.",
+    "With the ultimate goal of electrifying their entire fleet in the future, the specialists at Liebherr have tested the E160 electric forklift truck in action over the course of several weeks.",
+    "First came one test machine, then another two were added—and the aim is that soon, the entire fleet of 8-tonners will be powered by environmentally friendly lithium-ion technology. At leading mineral water producers Gerolsteiner, the Linde E80 offers impressive proof that electric forklift trucks have no trouble matching up to their combustion-powered equivalents.",
+    "The most fascinating equations are known to be the ones with multiple unknown variables. One such variable was to be found in the “Automation” chapter of the Requirements Specification from paper specialists Franz Veit. How can the transportation tasks be reliably handled in a production and warehousing environment whose face is constantly changing?",
+    "A new rack system, more space and new industrial trucks were on the wish list. This resulted in a complete system change to digital warehouse management using Linde Warehouse Navigator – including practically error-free order picking, reduced supply times and increased satisfaction. A visit to the fire protection specialist FLN Neuruppin.",
+    "150,000 different items, and up to 60,000 storage and retrieval tasks every day: At its site in Hamm in Germany, Arvato Supply Chain Solutions is set to soon achieve this mammoth feat of logistics at peak times, on behalf of a major beauty sector customer. The backbone of the high-performance distribution center is cutting-edge very narrow aisle technology from Linde Material Handling.",
+    "More than 200,000 books leave Hachette UK's distribution center near Oxford every day. For picking at up to 17.7 meters a very special truck is used: a combination of a Linde K truck and a Linde V modular.",
+    "A heavy truck with an electric drive—will that work? This was the question asked by Asset VRS, a leading provider and manufacturer of vehicle restraint systems in the UK. But it didn’t take long for the Linde E160, with its Li-ION battery, to demonstrate its considerable advantages.",
+    "What are the three most important properties of a counterbalanced forklift truck? For the logistics experts at Eibach Oberflächentechnik GmbH (EOT) in Lüdenscheid, Germany, there is only one answer: performance, performance, performance. In a recent field test, the new Linde X35 gave a convincing demonstration of just how well an electric forklift can perform in the tough loading business.",
+    "DB Schenker has full control of its forklift truck fleet thanks to Linde’s innovative fleet management system Linde connect.",
+    "We all know transparency trumps all in contract logistics. Even better if this can be generated as efficiently as possible: Transport and logistics service provider Gebrüder Schröder GmbH & Co. KG relies on the Linde Warehouse Navigator, which not only speeds up and simplifies processes on site, but also visualizes stock levels in real time for customers too.",
+    "The e-commerce professionals at Wagner eCommerce Group are now using Linde K trucks in their new narrow aisle warehouse—equipped with Active Stability Control—which saves them from having to lay expensive special flooring.",
+    "Day in, day out, huge quantities of material are transported at Westfälische Drahtindustrie (WDI) in Hamm, Germany. With the E30 test truck from Linde, the company now has its very first electric forklift truck in operation to be equipped with a revolutionary steering system – and it is thoroughly impressed.",
+    "When it comes to potential risks in intralogistic processes, an external perspective can be worth its weight in gold, and this proved to be the case at CTL Celltechnik Lodenau in the German region of Saxony. With the help of the Linde Safety Scan, CTL was able to significantly reduce the risk of accidents in its internal goods handling.",
+    "More flexible, cost-effective, and robust: In the highly frequented general cargo warehouse in Heilbronn, the Fritz Group has switched its industrial trucks from lead-acid battery operation to modern Linde lithium-ion technology.",
+    "There’s tough, then there’s the paper industry: At the paper producer Smurfit Kappa Wrexen Paper & Board, the counterbalanced trucks run with a full load almost non-stop—day and night, whether in oppressive heat or biting cold. An extreme deployment scenario, where the new Linde H50 diesel powerhouse was able to show what it can do even before its market launch.",
+    "Safety is of the utmost importance for Smurfit Kappa LithoPac, who are based in Nybro. The high level of safety that the company has achieved from day one is guaranteed by the Linde Safety Guard assistance system.",
+    "If demand, and therefore the production volume, increases, this is actually a cause for celebration. But how can you manage the increased flow of goods without burdening employees with more and more repetitive transport assignments? At the plastics processor Poloplast, the answer is automation, made by Linde.",
+    "The LINHARDT Group is a leading specialist in packaging, and at its headquarters in the German town of Viechtach, it’s all action in the high rack warehouse. Thanks to Linde technology, efficiency and ergonomics are on the up now too.",
+    "How do you make your intralogistics more economical, cleaner, and more sustainable? For Emons Spedition GmbH, the answer was clear: by switching from LPG forklifts to lithium-ion units in the general cargo warehouse in Großbeeren.",
+    "Together with Dutch Linde network partner Motrac, large fishery company Parlevliet & Van der Plas has brought its intralogistics right up to date at several sites. The high quality of Linde’s trucks, as well as solutions to ensure comprehensive safety and comfort, were a key factor in the decision to work together.",
+    "The best of both worlds – for the best that nature has to offer. That’s the best way to describe the pilot run of the new Linde X35 at German soft drinks manufacturer, Ensinger Mineral-Heilquellen. The new electric forklift truck performance class impressed the managers of the long-established mineral water brand, not only in terms of sustainability, but also with its outstanding performance.",
+    "Two Linde L-MATIC pallet stackers make their rounds between the warehouse and dispatch at Austrian sanitary equipment specialist HOLTER. Meanwhile, the human colleagues get to focus entirely on their actual work: value-adding order picking.",
+    "At its French plant in Les Pennes-Mirabeau, Coca-Cola European Partners France has raised its existing safety standards to a whole new level with the Linde Safety Guard assistance system by Linde Material Handling.",
+    "Our dispatch logistics are good, but how can we make them even better? This was the challenge facing ebm-papst, a leading producer of fan and motor products, at its site in Mulfingen, Germany. The answer: Fully automate one of its material flow processes using trusted expertise from Linde. The project has proven a huge success, so much so that transport volumes have exceeded expectations and further automation projects are being planned for the future.",
+    "With the introduction of two automated L-MATIC AC pallet stackers from Linde Material Handling, Schneider Electric, a leading company for digital energy and automation solutions, improved the overall efficiency of their logistics center in Sant Boi de Llobregat in Spain.",
+    "The task: To transform a former production hall into a high-performance logistics center within just a few months. The solution: A comprehensive approach, close collaboration—and the right project partner. Model: The new spare parts logistics solution from construction machinery specialists Yanmar Compact Equipment Europe at the plant in Rothenburg ob der Tauber, Bavaria.",
+    "For years, the hinge specialists at Reinheim-based Grass GmbH have been carrying out their warehouse and production logistics tasks using a forklift truck fleet that has grown gradually over time. Using a fleet optimization analysis, experts from Linde Material Handling identified an incredible amount of potential within this established structure. They standardized and reduced the fleet and, in the process, made it much more powerful, cost-efficient, and energy-saving.",
+    "Anyone brewing and bottling millions of hectoliters of Pilsener beer, shandy, malt beer, apple beer and other mixed beer beverages needs powerful intralogistics systems to get the drinks onto the street. C. & A. Veltins, a brewery with a rich tradition, has put its faith in forklifts from Linde Material Handling for this demanding role.",
+    "For the past five years, a Linde H120 D has been hard at work at Norrlands trä in Älandsbro, about 400 kilometers north of Stockholm. The fleet has recently been expanded by the addition of another similar workhorse, which despite its size and weight, performs at a high level of precision.",
+    "Cölner Hofbräu P. Josef Früh KG in Cologne-Feldkassel brews and loads thousands of litres of Kölsch every day. Real hard work for Linde's lithium-ion forklifts, which passed their trial run at the company with flying colors.",
+    "To produce perfect rings for wind turbines, heat and pressure are required robust and Linde forklift trucks are perfectly designed to work in these precise environments.",
+    "Heavy loads, demanding shift work, extensive terrain – and that with electric forklifts? What may sound quite unusual for some logistics specialists at first glance is everyday life at Mineralquellen Wüllner in Bielefeld.",
+    "The forklift trucks used at Carolus Trees have to be tough – and most importantly, they can’t be afraid to get cold and dirty. Linde forklifts take this all in their stride.",
+    "Those responsible for pallet handling at Mondi are relying on combination narrow aisle trucks from Linde and have been testing the latest generation of the Linde K model series since spring 2017.",
+    "A Linde tugger train ensures the material supply for production. It stops for the loading and / or unloading of the various aircraft parts, from the small screw to the larger metal parts, at 30 fixed stations.",
+    "When the grape harvest starts, the French company SICSOE needs more vehicles than usual. Only in this way can it guarantee a smooth and fast logistics process in the high harvest season. The Fenwick-Linde Short Termal service helps.",
+    "Every four years the biggest Public Viewing Germany takes place on the Fan Mile in Berlin. This event would not be possible without the use of Linde forklifts.",
+    "Every year at Agua Mineral San Benedetto in Valencia, 600,000 pallets are loaded onto trucks using Linde forklifts and delivered to customers. The beverage business is booming in summer. Agua Mineral then uses the flexible and reliable Linde rental service.",
+    "The Linde connect fleet management system makes a decisive contribution to order and safety in the warehouse. Linde Material Handling has equipped the entire SMP fleet with this intelligent solution.",
+    "The Opel plant in Aspern, Austria, is the first Opel location to commission fully automatic vehicles for longer distances. In doing so, the carmaker relies entirely on Linde's expertise. The challenge was to integrate autonomous driving into the existing systems.",
+    "For many years now, Novelis employees have been supported by various Linde vehicles - 24/7, 365 days a year, from E20 to HT160Ds.",
+    "In the restaurant Giggijoch you can order fresh cakes, yeast dumplings and strawberries at an altitude of 2,283 metres and an outside temperature of minus 12 degrees in the Ötztal Alps. A Linde tugger train supplies the mountain restaurant in Sölden with fresh food every day.",
+    "The NORA Centre Wolfsburg has committed itself to the fast delivery of original Volkswagen Group spare parts and other brands. Internal logistics plays an important role in meeting the demanding deadlines for customers. Crucial players are Linde electric forklifts, which prove their worth every day in the race against time - lately also equipped with Linde lithium-ion batteries.",
+    "Production runs 24 hours a day. The 130 m long corrugated board machine swallows paper raw material round the clock. Every day, around 900,000 square meters of corrugated board are produced and processed. That's why a completely reliable fleet of forklift trucks is so important. A total of 60 vehicles, mainly electric forklifts, from Linde Material Handling are in use at Werner Kenkel.",
+    "The main factory of the French metal packaging manufacturer Massilly in Cluny relies on extensive automation in the production process. Until recently the final process step, transporting the pallets to the warehouse, was conducted manually. This task is now also being performed by automated industrial trucks, with great success. Representatives of the company are now traveling to Cluny to see for themselves the benefits of Linde robotics equipment.",
+    "Simple does not always mean trivial: proof of this is the automation project of Linde Material Handling for BASF Italia. In order to optimize efficiency and safety, a flexible, secure and fast-to-implement solution for Logistics 4.0 was integrated on the basis of an automated guided vehicle (AGV).",
+    "Paper, cardboard, mattresses, bags, plastics, cans and much more. Once used and thrown away, they all end up in a mountain of rubbish on the premises of a recycling company - a company like Willimantic Waste Paper. Here, loose waste, recyclables and bales are moved around the entire site by forklift trucks.",
+    "For four years now, the Renault Sport Formula 1 team has been using Linde forklift trucks to load all of the equipment, and to assist with construction at the racetrack, right across Europe. So far, the partnership with the rental truck team - Short Term Rental - at Linde UK has proved to be both reliable and flexible for Renault.",
+    "In times of increasingly individualized customer requirements, intralogistics must also gradually adapt to the changed production conditions. How this can be achieved by a global industrial company is shown by the example of Heidelberger Druckmaschinen AG (Heidelberg) in Wiesloch/Walldorf.",
+    "The Linde Rental Solutions has been ensuring fast and professional setup and dismantling as well as performing other logistics tasks at the Formula Student Germany for many years. This requires a number of challenges to be overcome.",
+    "Every year, the Marketing Department and Management Board of Wolf GmbH, a systems supplier for heating, ventilation, air-conditioning and solar technology based in Mainburg, Lower Bavaria, develop a motto that aims to give employees orientation and motivation. “Courage to embrace change”, the message for 2016, could not be more appropriate with regard to the purchase of the company’s first robot industrial truck.",
+    "Many bakeries already offer freshly baked bread rolls at 6 o’clock in the morning. Frequently, ingredients have to be delivered during the night to achieve that. That’s the responsibility of wholesalers like Gusto AG in Hohenpolding near Munich. Recently, Linde order pickers with lithium-ion batteries were deployed at the firm to perform the logistics work involved.",
+    "The standard medication boxes available on the market often have quite a story behind them. For example, they may have once been a drinks carton and therefore more or less come straight from your rubbish bin. Transforming them into something valuable and appealing, doesn’t take much at Barcelona Cartonboard: a separating facility, a paper machine – and a dozen high-performance forklift trucks.",
+    "The numbers are impressive: Over a surface area of 126 football fields in Wismar, Egger processes in the region of million cubic meters of wood each year for HDF, MDF and OSB boards as well as laminate flooring. Since February, the wood-based materials specialist has relied on forklift trucks with Linde Safety Pilot for its logistics needs.",
+    "Exact material flow processes for a highly standardized forklift truck and warehouse truck fleet: Sika Deutschland GmbH achieves this with an overall logistics concept which, despite customer-specific solutions, relies on standardization, focuses on a forklift brand, and leases equipment on the basis of full-service leases.",
+    "Quiet as mice, Linde’s automated trucks transport fittings at Fagerhults Belysning. The investment in automated trucks at the well-known company has been a success.",
+    "Linde Material Handling is working with NVIDIA and Accenture to develop forward-thinking AI-based solutions for efficient and safe warehouse processes.",
+    "What automation strategy can help companies to achieve success? An interview with Louis Vieira, Head of Sales Automation & Intralogistics Germany at Linde Material Handling.",
+    "In this interview, energy expert Stefan Roth, Product Manager Energy Solutions at Linde Material Handling in Germany, speaks about the Linde Energy Navigator and its benefits.",
+    "In this Linde interview, Stefan Prokosch talks about the future of electric forklift trucks, hydrogen drive systems, and the huge potential of digitalization.",
+    "The C-MATIC and C-MATIC HP autonomous mobile robots are compact, highly efficient building blocks for automated material flow. Philipp Stephan, Product Manager Automation and Intralogistic Solutions, explains their strengths and what they should be used for.",
+    "Automation in existing structures? According to Markus Schmermund, Vice President Automation & Intralogistics Solutions at Linde, more and more automated logistic applications are being given the green light. In this interview, Linde expert Markus Schmermund explains the key factors that matter when it comes to automating existing processes - and provides fascinating insights into the current state of the development.",
+    "Automation promises greater efficiency in production logistics. However, in some cases a manual or partially autonomous scenario can be more cost-effective than fully autonomous operation. Digitalization expert Frank Heptner explains what makes the difference.",
+    "Automation is one of the trending topics in intralogistics. In this interview, Tobias Zierhut, Head of Product Management Warehouse Trucks, explains why data will play a key role in the future of warehouse technology, and why Linde Material Handling sees itself as the market leader in robotics.",
+    "Frank Heptner, Senior Director Consultancy and Projects Intralogistics Solutions at Linde Material Handling, talks about digital networking, automation and the future of intralogistics.",
+    "The 19th VDI Industrial Trucks Conference took place in Baden-Baden. The focus was on topics such as automation, driver assistance systems, battery technology and occupational safety. Alexander Schmidt, Senior Product Manager for reach trucks and tractors at Linde, also gave a lecture on the Linde assistance system Dynamic Mast Control.",
+    "In a presentation at the German Material Flow Congress of the VDI-Wissensforum, experts from Linde and Comnovo explain their networked solution for greater safety in intralogistics. By interlinking with the environment, industrial trucks detect hazards even before they arise.",
+    "Driven by the motto “Vision ZERO. Safety in your world,” we attended the A+A in Düsseldorf. At the international trade fair and congress for personal protection and occupational health and safety, Linde MH presented a range of solutions, including the Reverse Assist Radar assistance system.",
+    "Under the motto \"Leading logistics - today's innovative solutions for tomorrow's logistics\", the Material Handling Symposium took place in Aschaffenburg on September 14, 2017. The focus was on questions concerning the future viability of logistics.",
+    "In a presentation at the German Material Flow Congress of the VDI-Wissensforum, experts from Linde and Comnovo explain their networked solution for greater safety in intralogistics. By interlinking with the environment, industrial trucks detect hazards even before they arise.",
+    "Driven by the motto “Vision ZERO. Safety in your world,” we attended the A+A in Düsseldorf. At the international trade fair and congress for personal protection and occupational health and safety, Linde MH presented a range of solutions, including the Reverse Assist Radar assistance system.",
+    "Under the motto \"Leading logistics - today's innovative solutions for tomorrow's logistics\", the Material Handling Symposium took place in Aschaffenburg on September 14, 2017. The focus was on questions concerning the future viability of logistics.",
+    "Linde Material Handling celebrates 70 years of reach trucks.",
+    "The 13th ForkliftCup took place in Aschaffenburg from 12 to 16 September 2017. For one weekend everything revolved around the topic of driving a forklift truck and the necessary precision and speed.",
+    "The KION plant in Kołbaskowo, which manufactures products for Linde Material Handling, is relying on a new photovoltaic system to achieve sustainable CO₂ reductions.",
+    "Psychological counseling at Linde MH: discrete, open, and accessible to everyone.",
+    "The new KION Regional Distribution Center Central Europe (KION RDC CE) is not only a high-performance hub for spare parts, but also a prime example of integrated intralogistics solutions from Linde MH and KION Group sister company Dematic.",
+    "Linde Material Handling helps around the world with financial and in-kind donations as well as active local support. Employees are committed to helping those in need in times of disaster and in everyday life.",
+    "Less is more: Linde Material Handling relies on an innovative platform concept for forklift trucks. The same components for combustion engines and electric drives increase sustainability.",
+    "The development of self-driving counterbalanced trucks for outdoor applications is considered the supreme discipline of automation. Linde Material Handling has taken on this challenge - and was able to present concrete results of a research project running for more than three years at the beginning of December 2023. After further tests, the developed technology carriers are supposed to prove themselves under real conditions.",
+    "For decades now, Linde forklift trucks have been distinguished by their design, for which the honor goes to none other than Porsche Engineering. The most recent achievement of this progressive partnership: the new generation of Linde Counterbalanced Forklift Trucks X20 – X35 and H20 – H35.",
+    "High handling volumes, short delivery periods, increasing price pressure, seasonal fluctuation and challenging safety regulations mean that there is no margin for error in the beverage industry. Linde provides support with optimized intralogistics solutions.",
+    "Linde offers solutions for 3PL service providers: solving staff shortages, increasing the flexibility of vehicle fleets, using big data, maximizing safety, and increasing energy efficiency.",
+    "Linde Material Handling celebrates 50 years of electric forklift trucks and shows what the market leader in this segment has to offer for the future.",
+    "Specialist journalist and renowned forklift expert Theo Egberts has thoroughly tested the H25 diesel and X25 electric forklift trucks from Linde Material Handling. Result: Both models achieve historic performance records, setting new standards in their payload classes.",
+    "Linde Material Handling has been manufacturing counterbalance trucks at its Aschaffenburg, Germany production site since back in 1959. In March, the one-millionth vehicle rolled off the assembly line and has since been ceremoniously handed over to customer company Colorobbia España S.A., one of the largest facilities in the world for the production of frits, pigments and other products for the ceramics and glass industry.",
+    "How Linde Material Handling and the KION Group ensure that the catering sector receives fresh produce.",
+    "The Virtual Showroom app from Linde Material Handling has been available for iOS and Android systems since last year. The app gives smartphone and tablets users a 360° interactive experience, enabling them to play around with 27 virtual industrial trucks against any background, with options to rotate, shrink, enlarge, and much more.",
+    "‘We keep the world moving’ is the official claim of Linde Material Handling’s parent company, the KION Group. However, in the midst of the current pandemic, it is much more than “just” a motto. It is a promise to the customers of Linde and the KION Group, to which both feel more committed than ever.",
+    "Electric drives are the future of mobility. This applies not only to cars, but also to forklift trucks. The key to this are new battery concepts, primarily based on lithium-ion technology. What are the advantages and disadvantages of different types of batteries? Where is the lithium-ion battery going? And how can users make the best possible use of them?",
+    "With the Robotics4Retail survey, the EHI Retail Institute is investigating how robotics and automation are revolutionizing intralogistics. Who are the drivers of automation and what comprehensive solutions and industrial trucks does Linde offer?",
+    "Ground handling is a challenge for airport logistics. The demands on industrial trucks and logistics solutions are correspondingly high. Demand is for robust vehicles that enable fast and safe handling and are increasingly focusing on alternative drive systems.",
+    "Because he loves the ergonomic design and the simple controls, Marcell Lange has had his Linde truck tattooed. So he found a way to express his enthusiasm for forklifts.",
+    "For users, Linde Material Handling is the most popular material handling equipment manufacturer. This was the result of a survey conducted by the trade journal MM Logistik. Respondents praised the quality, performance and availability of the vehicles. Linde also scores highly in terms of service and training.",
+    "The year is 1956. In Aschaffenburg the company Güldner Motorenwerke is adding an administration building to its foundry on Schweinheimer Strasse. The rich industrial history of Linde Material Handling.",
+    "“This role boasts a great deal of room for both professional and personal development.”",
+    "“Working at Linde means working with a highly motivated team, which fully identifies with the product as well as the company.”",
+    "\"As a global player in the premium segment, Linde also offers non-engineers challenging roles and extensive development opportunities.\"",
+    "\"Anyone looking for a stable environment and responsible employer has come to the right place at Linde.\"",
+    "Contact",
+    "Home",
+    "Legal",
+    "Terms of use",
+    "Suppliers",
+    "EDI",
+    "Privacy Statements",
+    "Cookie Settings",
+    "Vulnerability Disclosure Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Search",
+      "href": "https://www.linde-mh.com/en/Search/"
+    },
+    {
+      "label": "Xtranet",
+      "href": "https://xtranet.linde-mh.com/lmhge/"
+    },
+    {
+      "label": "About us",
+      "href": "../"
+    },
+    {
+      "label": "Customer Case Studies",
+      "href": "#787082"
+    },
+    {
+      "label": "Interviews",
+      "href": "#787085"
+    },
+    {
+      "label": "Events",
+      "href": "#787086"
+    },
+    {
+      "label": "Features",
+      "href": "#787087"
+    },
+    {
+      "label": "Employee Portraits",
+      "href": "#765676"
+    },
+    {
+      "label": "It’s all about that certain EXtra",
+      "href": "Inver-GmbH/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Inver-GmbH/"
+    },
+    {
+      "label": "ABS Safety Implements Automation at a Brownfield Site",
+      "href": "ABS-Safety/"
+    },
+    {
+      "label": "Read success story",
+      "href": "ABS-Safety/"
+    },
+    {
+      "label": "Linde Reverse Assist Radar at Michelin Tyre PLC",
+      "href": "Michelin-Tyre-PLC/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Michelin-Tyre-PLC/"
+    },
+    {
+      "label": "DB Schenker tests the new Linde E16",
+      "href": "DB-Schenker-Schweinfurt/"
+    },
+    {
+      "label": "Read success story",
+      "href": "DB-Schenker-Schweinfurt/"
+    },
+    {
+      "label": "Performance Yes, Load Peaks No",
+      "href": "Arvato-connect-charger/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Arvato-connect-charger/"
+    },
+    {
+      "label": "Heineken Switzerland AG",
+      "href": "Heineken/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Heineken/"
+    },
+    {
+      "label": "Top Performance Down Under",
+      "href": "Bundeswehr/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Bundeswehr/"
+    },
+    {
+      "label": "Higher is Faster Here",
+      "href": "Seifert-Logistics/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Seifert-Logistics/"
+    },
+    {
+      "label": "Who Dares Wins",
+      "href": "Radeberger/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Radeberger/"
+    },
+    {
+      "label": "Fertile Ground for Healthy Growth",
+      "href": "Madi-Ventura/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Madi-Ventura/"
+    },
+    {
+      "label": "Thinking Ahead while Reversing",
+      "href": "CEMEX-Admixtures/"
+    },
+    {
+      "label": "Read success story",
+      "href": "CEMEX-Admixtures/"
+    },
+    {
+      "label": "A Sweeping Success",
+      "href": "TST/"
+    },
+    {
+      "label": "Read success story",
+      "href": "TST/"
+    },
+    {
+      "label": "The Seventh R Is a V",
+      "href": "Richter-Frenzel/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Richter-Frenzel/"
+    },
+    {
+      "label": "Fully Equipped for the Future",
+      "href": "Layher/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Layher/"
+    },
+    {
+      "label": "An Combustion Engine Stronghold Converts to Electric",
+      "href": "WDI-Hamm-Linde-X50/"
+    },
+    {
+      "label": "Read success story",
+      "href": "WDI-Hamm-Linde-X50/"
+    },
+    {
+      "label": "Unbeatable Handling and Zero Emissions Guaranteed",
+      "href": "Liebherr/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Liebherr/"
+    },
+    {
+      "label": "Electric forklifts in their element",
+      "href": "Gerolsteiner/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Gerolsteiner/"
+    },
+    {
+      "label": "Where there is an obstacle, there is also a way",
+      "href": "Franz-Veit/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Franz-Veit/"
+    },
+    {
+      "label": "Sparking an Idea at FLN Neuruppin",
+      "href": "FLN-Neuruppin/"
+    },
+    {
+      "label": "Read success story",
+      "href": "FLN-Neuruppin/"
+    },
+    {
+      "label": "Narrow Aisles, Wide Choice",
+      "href": "Arvato/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Arvato/"
+    },
+    {
+      "label": "An inspiring debut",
+      "href": "Hachette/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Hachette/"
+    },
+    {
+      "label": "Quiet but Powerful",
+      "href": "Asset-VRS/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Asset-VRS/"
+    },
+    {
+      "label": "The X Factor",
+      "href": "EOT/"
+    },
+    {
+      "label": "Read success story",
+      "href": "EOT/"
+    },
+    {
+      "label": "Schenker takes full control of its forklift truck fleet",
+      "href": "DB-Schenker/"
+    },
+    {
+      "label": "Read success story",
+      "href": "DB-Schenker/"
+    },
+    {
+      "label": "Seeing Everything, Everywhere",
+      "href": "Schroeder/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Schroeder/"
+    },
+    {
+      "label": "Stable yet flexible",
+      "href": "Wagner-eCommerce/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Wagner-eCommerce/"
+    },
+    {
+      "label": "“A Whole New Driving Experience”",
+      "href": "WDI-Hamm/"
+    },
+    {
+      "label": "Read success story",
+      "href": "WDI-Hamm/"
+    },
+    {
+      "label": "Safety Scrutinized from an Objective Perspective",
+      "href": "CTL/"
+    },
+    {
+      "label": "Read success story",
+      "href": "CTL/"
+    },
+    {
+      "label": "Between Charges: Opportunity Charging",
+      "href": "Fritz-Group/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Fritz-Group/"
+    },
+    {
+      "label": "It Doesn’t Just Look Good on Paper",
+      "href": "Smurfit-Kappa/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Smurfit-Kappa/"
+    },
+    {
+      "label": "In Action to Improve Safety",
+      "href": "Smurfit-Kappa-LithoPac/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Smurfit-Kappa-LithoPac/"
+    },
+    {
+      "label": "Keeping Goods Moving",
+      "href": "Poloplast/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Poloplast/"
+    },
+    {
+      "label": "Rack and roll",
+      "href": "LINHARDT/"
+    },
+    {
+      "label": "Read success story",
+      "href": "LINHARDT/"
+    },
+    {
+      "label": "System: changed",
+      "href": "Emons/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Emons/"
+    },
+    {
+      "label": "More Fish for Life",
+      "href": "PP-Group/"
+    },
+    {
+      "label": "Read success story",
+      "href": "PP-Group/"
+    },
+    {
+      "label": "A Refreshing Performance",
+      "href": "Ensinger/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Ensinger/"
+    },
+    {
+      "label": "Two value creators in full swing",
+      "href": "Holter/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Holter/"
+    },
+    {
+      "label": "Perfect warning",
+      "href": "Coca-Cola/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Coca-Cola/"
+    },
+    {
+      "label": "Efficiency Maximized",
+      "href": "ebm-papst/"
+    },
+    {
+      "label": "Read success story",
+      "href": "ebm-papst/"
+    },
+    {
+      "label": "Automated around the world",
+      "href": "Schneider-Electric/"
+    },
+    {
+      "label": "Read success story",
+      "href": "Schneider-Electric/"
+    },
+    {
+      "label": "Made to Measure",
+      "href": "Yanmar.html"
+    },
+    {
+      "label": "Read success story",
+      "href": "Yanmar.html"
+    },
+    {
+      "label": "Analyzed Efficiently",
+      "href": "Grass.html"
+    },
+    {
+      "label": "Read success story",
+      "href": "Grass.html"
+    },
+    {
+      "label": "A thirst for innovation",
+      "href": "Veltins.html"
+    },
+    {
+      "label": "Read success story",
+      "href": "Veltins.html"
+    },
+    {
+      "label": "High-precision machine at Norrlands trä",
+      "href": "Norrlands-trae.html"
+    },
+    {
+      "label": "Read success story",
+      "href": "Norrlands-trae.html"
+    },
+    {
+      "label": "Full of tricks",
+      "href": "Frueh-Koelsch.html"
+    },
+    {
+      "label": "Read success story",
+      "href": "Frueh-Koelsch.html"
+    },
+    {
+      "label": "A powerful steel in the fire",
+      "href": "Bohemia-Rings.html"
+    },
+    {
+      "label": "Read success story",
+      "href": "Bohemia-Rings.html"
+    }
+  ],
+  "links": [
+    "https://www.linde-mh.com/en/",
+    "https://www.linde-mh.com/en/About-us/Magazine/#123",
+    "https://www.linde-mh.com/en/Products/",
+    "https://www.linde-mh.com/en/Products/Productfinder/",
+    "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/",
+    "https://www.linde-mh.com/en/Products/E-Trucks/",
+    "https://www.linde-mh.com/en/Products/Diesel-Forklifts/",
+    "https://www.linde-mh.com/en/Products/Gas-forklifts/",
+    "https://www.linde-mh.com/en/Products/Heavy-Duty-Forklifts/",
+    "https://www.linde-mh.com/en/Products/Pallet-Trucks/",
+    "https://www.linde-mh.com/en/Products/Hand-Pallet-Trucks/",
+    "https://www.linde-mh.com/en/Products/Pallet-Stackers/",
+    "https://www.linde-mh.com/en/Products/Very-Narrow-Aisle-Trucks/",
+    "https://www.linde-mh.com/en/Products/Order-Pickers/",
+    "https://www.linde-mh.com/en/Products/Reach-Trucks/",
+    "https://www.linde-mh.com/en/Products/Tow-Trucks/",
+    "https://www.linde-mh.com/en/Products/Tugger-Trains/",
+    "https://www.linde-mh.com/en/Products/Explosion-Proof-Trucks/",
+    "https://www.linde-mh.com/en/Products/Automated-Trucks/",
+    "https://www.linde-mh.com/en/Products/Forklift-Hire/",
+    "https://www.linde-mh.com/en/Products/Approved-Trucks/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-guided-vehicle/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Autonomous-mobile-robots/",
+    "https://www.linde-mh.com/en/Solutions/Fleet-Management/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Software/",
+    "https://www.linde-mh.com/en/Service/",
+    "https://www.linde-mh.com/en/Service/Maintenance-Repair/",
+    "https://www.linde-mh.com/en/Service/Genuine-Spare-Parts/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Technical-Safety-Services/",
+    "https://www.linde-mh.com/en/Service/Training/",
+    "https://www.linde-mh.com/en/Solutions/Financing/",
+    "https://www.linde-mh.com/en/Solutions/Overview.html",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-Warehouse/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Warehouse-Management-System/",
+    "https://www.linde-mh.com/en/Solutions/Consulting/Material-Flow-Consulting/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/User-cases-intralogistics/",
+    "https://www.linde-mh.com/en/Solutions/Consulting/Fleet-Optimization.html",
+    "https://www.linde-mh.com/en/Solutions/Energy-Systems/",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+    "https://www.linde-mh.com/en/Solutions/Energy-Systems/Energy-consulting/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Light-and-warning-systems/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Assistance-systems/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Safety-consulting/",
+    "https://www.linde-mh.com/en/About-us/",
+    "https://www.linde-mh.com/en/About-us/Company/",
+    "https://www.linde-mh.com/en/About-us/Sustainability/",
+    "https://www.linde-mh.com/en/About-us/Awards/",
+    "https://www.linde-mh.com/en/About-us/Certificates/",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/Students-Scholars/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/Apprentice/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/Professionals/",
+    "https://www.linde-mh.com/en/About-us/Magazine/index.html",
+    "https://www.linde-mh.com/en/About-us/Events/",
+    "https://www.linde-mh.com/en/About-us/Press/",
+    "https://www.linde-mh.com/en/About-us/Media/",
+    "https://www.linde-mh.com/en/Landingpage/Platform-Counterbalanced-Trucks/",
+    "https://www.linde-mh.com/en/Products/Productfinder/?offerType=new",
+    "https://www.linde-mh.com/en/technical/Location-Finder.html",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+    "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+    "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+    "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+    "https://www.linde-mh.com/en/Search/",
+    "https://xtranet.linde-mh.com/lmhge/",
+    "https://www.linde-mh.com/en/About-us/Magazine/#",
+    "https://www.linde-mh.com/en/About-us/Magazine/#787082",
+    "https://www.linde-mh.com/en/About-us/Magazine/#787085",
+    "https://www.linde-mh.com/en/About-us/Magazine/#787086",
+    "https://www.linde-mh.com/en/About-us/Magazine/#787087",
+    "https://www.linde-mh.com/en/About-us/Magazine/#765676",
+    "https://www.linde-mh.com/en/About-us/Magazine/Inver-GmbH/",
+    "https://www.linde-mh.com/en/About-us/Magazine/ABS-Safety/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Michelin-Tyre-PLC/",
+    "https://www.linde-mh.com/en/About-us/Magazine/DB-Schenker-Schweinfurt/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Arvato-connect-charger/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Heineken/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Bundeswehr/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Seifert-Logistics/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Radeberger/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Madi-Ventura/",
+    "https://www.linde-mh.com/en/About-us/Magazine/CEMEX-Admixtures/",
+    "https://www.linde-mh.com/en/About-us/Magazine/TST/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Richter-Frenzel/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Layher/",
+    "https://www.linde-mh.com/en/About-us/Magazine/WDI-Hamm-Linde-X50/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Liebherr/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Gerolsteiner/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Franz-Veit/",
+    "https://www.linde-mh.com/en/About-us/Magazine/FLN-Neuruppin/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Arvato/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Hachette/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Asset-VRS/",
+    "https://www.linde-mh.com/en/About-us/Magazine/EOT/",
+    "https://www.linde-mh.com/en/About-us/Magazine/DB-Schenker/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Schroeder/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Wagner-eCommerce/",
+    "https://www.linde-mh.com/en/About-us/Magazine/WDI-Hamm/",
+    "https://www.linde-mh.com/en/About-us/Magazine/CTL/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Fritz-Group/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Smurfit-Kappa/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Smurfit-Kappa-LithoPac/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Poloplast/",
+    "https://www.linde-mh.com/en/About-us/Magazine/LINHARDT/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Emons/",
+    "https://www.linde-mh.com/en/About-us/Magazine/PP-Group/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Ensinger/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Holter/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Coca-Cola/",
+    "https://www.linde-mh.com/en/About-us/Magazine/ebm-papst/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Schneider-Electric/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Yanmar.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Grass.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Veltins.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Norrlands-trae.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Frueh-Koelsch.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Bohemia-Rings.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Wuellner-Carolinenbrunnen.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Carolus_Trees.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Highest-standards-Best-prospects.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Remove-before-flight.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/SICSOE-Linde-Fenwick.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Fan-mile.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Agua-Mineral.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/smp-fleetmanagement.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Opel-Vienna.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Powerful-vehicles-for-high-performance-applications.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Alpine-intralogistics.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/reliable-durability-NORA-Centre.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/You-can-rely-on-them.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/The-most-natural-thing-in-the-world.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Optimization-is-a-question-of-chemistry.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Willimantic-Magazine.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Almost-as-fast-as-the-Formula-1.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Frischer-Wind-in-der-Logistik-von-Heidelberg.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Linde-Rental-Service-for-Formula-Student-Germany.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Goods-transport-with-automatic-fleet.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Order-pickers-with-lithium-ion-batteries.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Individualised-solutions-for-the-paper-industry.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Safety-first.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/New-intralogistics-concept-for-better-processes.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Fagerhult.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Revolutionizing-the-Warehouse-with-AI/",
+    "https://www.linde-mh.com/en/About-us/Magazine/How-automation-works/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Software-supported-energy-consulting/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Interview-Stefan-Prokosch/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Automatically-lifted-up/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Interview-Automation/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Product-Automation-Interview-Magazine.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/We-are-the-system-integrator-for-the-internal-material-flow.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/automation-meets-the-future.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/forklift-conference-2017.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Material-Flow-Conference.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/A-A-Fair-for-Safety.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/MH-Symposium-2017.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/70-years-of-reach-trucks/",
+    "https://www.linde-mh.com/en/About-us/Magazine/StaplerCup-2017.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Solar-power-for-Poland/",
+    "https://www.linde-mh.com/en/About-us/Magazine/A-listening-ear/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Future-oriented-spare-parts-supply/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Social-Engagement/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Conserving-Resources/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Cooperative-autonomous-intralogistics-systems/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Porsche-Engineering/",
+    "https://www.linde-mh.com/en/About-us/Magazine/50-Years-Linde-E-Trucks/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Theo-Egberts/",
+    "https://www.linde-mh.com/en/technical/News-Detail_4580928.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Customer-Story-Dinner/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Linde-Showroom-App.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/crucial-role-within-the-system.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Innovative-battery-technology.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Robots-as-employee-of-the-month.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Airport-Logistics.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Forklift-Tattoo.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/MM-Research.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Changeable-industrial-history-From-the-Gueldner-to-the-Linde-MH-Headquarter.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/employee_portrait_harmance.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Employee-portrait-Head-of-truck-assembly.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Employee-Portrait-Trainer-Linde-Sales-Academy.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Employee-Portrait-Production-Mechanics-Truck-Assembly.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/Employee-Portrait-FMEA-Moderator-Quality.html",
+    "mailto:?body=$url",
+    "https://www.linkedin.com/shareArticle?url=$url&v=6247450",
+    "https://www.facebook.com/sharer/sharer.php?u=$url",
+    "javascript:window.print()",
+    "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+    "https://www.linde-mh.com/en/Legal-Notes/Legal/",
+    "https://www.linde-mh.com/en/Legal-Notes/Terms-of-use/",
+    "https://www.kiongroup.com/en/About-us/Suppliers/",
+    "https://www.linde-mh.com/en/EDI/",
+    "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/",
+    "https://www.kiongroup.com/en/Service/Vulnerability-Disclosure-Policy/",
+    "https://www.linkedin.com/company/36425/",
+    "https://www.facebook.com/LindeMH/",
+    "https://www.instagram.com/linde_mh/",
+    "http://www.youtube.com/user/Gabelstapler24",
+    "http://null/",
+    "https://www.ccm19.de/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.linde-mh.com/en/layoutmedia/Linde_MH_Logo_RGB.svg",
+        "alt": "",
+        "w": 250,
+        "h": 150
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/ic_truck-outdated_product-loading-construction-116_16x9w1920.jpg",
+        "alt": "ic-truck loading another truck",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Inver-GmbH-Sherwin-Williams/4697_838_CX_16x9w640.jpg",
+        "alt": "Linde MH E25 explosion-proof electric forklift truck in the Inver GmbH warehouse",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/ABS-Safety/4698_5017_CX_16x9w640.jpg",
+        "alt": "Several C-MATIC automated mobile platforms from Linde MH move goods around the ABS Safety warehouse. ",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Michelin-UK/Stoke-EDC-Warehouse-026_16x9w640.jpg",
+        "alt": "A warehouse worker at Michelin Tyre PLCE driving a Linde E20 forklift in reverse.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/DB-Schenker/fahrer_von_db_schenke_faehrt_rueckwaerts_16x9w640.jpg",
+        "alt": "DB Schenker employee loads truck with Linde E16 electric forklift truck",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Arvato-connect-charger/Linde_MH_Schmalganggeraet_K_in_Lagerhalle_16x9w640.jpg",
+        "alt": "Linde MH very narrow aisle truck K in the warehouse at Arvato.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Heineken/Stapler-bei-Heineken_16x9w640.jpg",
+        "alt": "Linde E80 forklift loading a truck at Heineken",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Bundeswehr/KAKADU_Gabelstapler_Hildemann_160_16x9w640.jpg",
+        "alt": "Linde MH forklift trucks in action with the German Air Force in Australia",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Seifert-Logistics/Seifert_Logistics_Lager_4645_3280_CX_16x9w640.jpg",
+        "alt": "Linde reach trucks in use at Seifert Logistics",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Radeberger/Radeberger-Brauerei_E80_16x9w640.jpg",
+        "alt": "Linde electric forklift truck in use at Radeberger",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Media-Germany/04-About-Linde/Magazine/Madi-Ventura/Case_Study-Madi_Ventura-L_Matic-3_16x9w640.jpg",
+        "alt": "Two Linde L-MATIC trucks in operation at Madi Ventura",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Safety/Reverse-Assist-Camera/CEMEX-etruck-x25-stacking-manufactoring-4648_298_16x9w640.jpg",
+        "alt": "Linde X25 forklift loading a CEMEX truck",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/TST/TST-Automation-L_Matic-Logistics-4623_4871_B_13x18_low_16x9w640.jpg",
+        "alt": "The L-MATIC in operation at TST",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Richter-Frenzel/Richter_Frenzel-V_modular-4626_8268_CX_16_9_16x9w640.jpg",
+        "alt": "The Right Truck: The Linde V Modular at Richter+Frenzel.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Layher/layher-x_truck-x50-stacking-manufactoring-7214_16x9w640.jpg",
+        "alt": " At Layher, the X-series electric forklift trucks from Linde easily shoulder the same loads as their internal combustion colleagues.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/WDI-Hamm-X50/WDI_Hamm-X50-moving-4631_1684_CX_16x9w640.jpg",
+        "alt": "The company Westfälische Drahtindustrie is testing the Linde X50 for heavy loads.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Liebherr/Liebherr-E160-driving_cabin-MZ7_8802_16x9w640.jpg",
+        "alt": "Linde Material Handling E160 electric forklift truck undergoes field test at Liebherr.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Gerolsteiner/gerolsteiner-e_truck-E80-moving-beverage-3710_16x9w640.jpg",
+        "alt": "The Linde E80 electric forklift truck at Gerolsteiner",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Franz-Veit-GmbH/Franz_Veit-Automated_Trucks-L_MATIC-moving-4622_4105_B_13x18_16x9w640.jpg",
+        "alt": "The Linde L-MATIC pallet stacker in use at Franz Veit GmbH.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/FLN-Neuruppin/FLN_Neuruppin_DSC_4011_16x9w640.jpg",
+        "alt": "Fire extinguishers at the fire protection expert FLN Neuruppin",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Arvato/arvato-order_picking-K_truck-logistics-02_16x9w640.jpg",
+        "alt": "The K trucks in the new Arvato Supply Chain Solutions distribution center",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Hachette/Hachette-order_picker-v_modular-order_picking-051_16x9w640.jpg",
+        "alt": "Linde Material Handling developed the new KV truck together with Hachette UK.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Asset-VRS/Asset_VRS-e_truck-E160-moving-manufacturing-175_16x9w640.jpg",
+        "alt": "E160 electric heavy trucks from Linde Material Handling at Asset VRS.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/EOT/EOT-E_Truck-X35-Stacking-4589_10929_16x9w640.jpg",
+        "alt": "X35 Electric Forklift Truck in the Warehouse at EOT",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/DB-Schenker/schenker_e_truck_connect-1_16x9w640.jpg",
+        "alt": "Linde forklift truck at work with DB Schenker.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Media-Germany/04-About-Linde/Magazine/Schroeder/linde_schroeder_highres_DSC_2273_13x18_16x9w640.jpg",
+        "alt": "The Linde Warehouse Navigator in action in the dark",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Wagner-eCommerce/Wagner-very_narrow_aisle-K-(active_stability_control)-moving-storage-4617_1083_CX_16x9w640.jpg",
+        "alt": "Linde K truck in action in Wagner eCommerce warehouse",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/02-Service/Applications/12XX-Platform/e_truck-E30-moving-manufacturing-4592_4857_16x9w640.jpg",
+        "alt": "The new E30 electric forklift truck from Linde Material Handling undergoes field test at WDI Hamm",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/CTL/CTL-Production_hazards_overview-8_16x9w640.jpg",
+        "alt": "Overview of the high-risk areas in the production department at CTL",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Fritz-Group/Fritz_Group-E_Truck-E16-Loading-Logistics-9282_16x9w640.jpg",
+        "alt": "Linde Material Handling E16 electric forklift truck at work with the Fritz Group",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Smurfit-Kappa/smurfit_kappa-H50-lifting-paper_wood-4602_8101_16x9w640.jpg",
+        "alt": "A Linde Material Handling H50 counterbalanced forklift truck at Smurfit Kappa",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Smurfit-Kappa-LithoPac/linde_safety_guard_smurfit_kappa_lithopac_16x9w640.png",
+        "alt": "The Safety Guard from Linde Material Handling at Smurfit Kappa LithoPac",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Poloplast/Poloplast-automated_trucks-L-Matic-moving-9720_16x9w640.jpg",
+        "alt": "Autonomous L-MATIC Pallet Stackers from Linde Material Handling at Poloplast",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Linhardt-Gruppe/linhardt_gruppe-VNA_K-warehouse-7261_16x9w640.jpg",
+        "alt": "The K combination truck from Linde Material Handling in use at Linhardt",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Emons/emons_spedition-e_trucks-E20-lifting-028_16x9w640.jpg",
+        "alt": "Linde Material Handling electric forklift trucks in operation at Emons",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/P-P/P-P-E_Truck-E40-Moving-Fish_Industry-Y8A0278DJvD_16x9w640.jpg",
+        "alt": "E40 electric forklift truck transports goods in the P&amp;P warehouse",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Ensinger/Ensinger-E_Truck-X35-Moving-Beverage-4584_3991_16x9w640.jpg",
+        "alt": "X35 electric forklift truck from Linde Material Handling transports drinks crates in the Ensinger warehouse",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Holter/Holter-Automated_Truck-L_MATIC-Moving-Warehouse-9367_16x9w640.jpg",
+        "alt": "Two L-MATICs from Linde Material Handling in use at Austrian sanitary equipment specialist HOLTER",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Coca-Cola/LMH-Coca-Cola-Trafficlight-078_16x9w640.jpg",
+        "alt": "A forklift truck by Linde Material Handling waits at a Linde Safety Guard traffic light in the plant operated by Coca-Cola European Partners France.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/ebm-Papst/ebm_papst-automated_truck-L_Matic-moving-warehouse-30_16x9w640.jpg",
+        "alt": "Two L-MATICs from Linde Material Handling in operation at the ebm-papst warehouse in Mulfingen",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Schneider-Electric/Schneider_Electric-L_MATIC_AC-Moving-warehouse-01_16x9w640.jpg",
+        "alt": "Schneider Electric uses two automated L-MATIC AC pallet stackers from Linde Material Handling.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Yanmar/Yanmar-warehouse-6373_16x9w640.jpg",
+        "alt": "Yanmar Compact Equipment Europe invests in logistics solutions from Linde Material Handling.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Grass/Grass-Elektric_Forklift_Truck-E35-Moving-Manufacturing-8763_16x9w640.jpg",
+        "alt": "Linde Material Handling E35 electric forklift truck transports materials to production at Reinheim-based Grass GmbH.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Veltins/e_truck-E30-Moving-Beverage-154231_16x9w640.jpg",
+        "alt": "Linde Material Handling E30 electric forklift truck at work with Veltins brewery",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Norrland/ic_truck-H100_H180-172320_16x9w640.jpg",
+        "alt": "IC-truck H120 D from Linde Material Handling in use at Norrlands trä",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Frueh-Koelsch/FruehKoelsch-E_Truck-E80-Order_Picking-Beverage-27_16x9w640.jpg",
+        "alt": "Electric forklift E80 from Linde Material Handling in use at Cölner Hofbräu P. Josef Früh KG in Cologne-Feldkassel",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Bohemia-Rings/Bohemiarings_H160_Moving_083_16x9w640.jpg",
+        "alt": "The H160 on the premises of Bohemia Rings.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Wuellner_Carolinenbrunnen/Wuellener_E-Truck_Moving_2626_2_16x9w640.jpg",
+        "alt": "An electric forklift drives over the grounds of Mineralquellen Wüllner GmbH and Co. KG in Bielefeld.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Carolus-Trees/Carolus_Trees_e_Truck-E-30_Loading_DSC2377_16x9w640.jpg",
+        "alt": "An electric forklift from Linde loads trees. ",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Mondi/Mondi-DSC_9794_16x9w640.jpg",
+        "alt": "K truck in usw at Mondi",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Pilatus/Pilatus-loading-P_80-035_16x9w640.jpg",
+        "alt": "Tugger train from Linde at Pilatus",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/SICSOE-Fenwick/SICSOE_Warehouse_1_16x9w640.jpg",
+        "alt": "Truck in the SICSOE warehouse",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Fan-Mile/Fanmeile-Linde-04_16x9w640.jpg",
+        "alt": "Linde forklifts in use at the fan mile in Berlin",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Agua-Mineral/Agua-Mineral-ic_truck-loading-food-and-beverage-0085_1_16x9w640.jpg",
+        "alt": "A hired V-forklift from Linde transports a pallet of water boxes from Agua Mineral in the warehouseLager",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/SMP-connect-story/smp-connect-fleetmanagement-0514-englisch_16x9w640.jpg",
+        "alt": "Marie-Luise Wolf from SMP uses the Linde connect software for fleet management.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Opel-Wien/opel-automated-truck-p_matic-moving-1G5A5963_16x9w640.jpg",
+        "alt": "Automated tow trucks from Linde",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Novelis/novelis-ic_truck-moving-4232_876_B_16x9w640.jpg",
+        "alt": "A Linde counterbalanced forklift truck loads the blast furnace at Novelis.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Alpine-logictics/Alpine_Intralogictics-IMG_6260-1_1_16x9w640.jpg",
+        "alt": "Alpine intralogistics at Sölden",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/NORA-Centrum-Wolfsburg/nora_order-picker_logistics_40_16x9w640.jpg",
+        "alt": "NORA Center Wolfsburg",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Kenkel/Kenkel-order_picking-AG012_16x9w640.jpg",
+        "alt": "E-Trucks from Linde in use at Kenkel",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Massily/production-portrait-8084_16x9w640.jpg",
+        "alt": "Christophe Marteau, Massilly",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/BASF/automation_truck-moving-construction-6893_16x9w640.jpg",
+        "alt": "Production meeting at BASF",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Willimantic/wilimantic-ic_truck-moving-waste-0192_16x9w640.jpg",
+        "alt": "ic-trucks move the rubbish piles at the Willimantic recycling company",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Formel-1/renault_formula-1_0010_16x9w640.jpg",
+        "alt": "Renault Formula1",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Heidelberger-Druckmaschinen-AG/heidelberger_druckmaschinen-fleet_overview-parking_station-manufacturing-6220_16x9w640.jpg",
+        "alt": "Linde trucks at Heidelberger Druckmaschinen AG ",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Formula-Student-Germany/formula_student_germany-ic_truck-moving-3566_16x9w640.jpg",
+        "alt": "Linde rental truck lifts race car with special device",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Wolf-GmbH/wolf_gmbh-automated_truck-L_Matic-moving-manufacturing-7021_16x9w640.jpg",
+        "alt": "Automated Linde trucks at Wolf GmbH",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Gusto-AG/gusto_ag-order_picker-lithium_ion_plug-4037_16x9w640.jpg",
+        "alt": "Staff of Gusto AG charges order picker with lithium-ion battery",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Barcelona-Cartonboard/barcelona_cartonboard-ic_truck-stacking-paper_wood-1040081_16x9w640.jpg",
+        "alt": "ic-trucks stacking load at Barcelona Cartonboard",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Egger/ic_truck-moving-construction-9571_16x9w640.jpg",
+        "alt": "IC Forklift Truck, Warehouse, Logistics, Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Sika/pallet_stacker-moving-construction-0622_16x9w640.jpg",
+        "alt": "Pallet stacker in use at Sika Deutschland GmbH",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Media-Sweden/05-Media/linde_autotruck_16x9w640.jpg",
+        "alt": "Linde’s automated truck at Fagerhults Belysning",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Cooperation-NVIDIA-warehouse-of-the-future/LogiMAT_2025-NVIDIA-Omniverse-0187_16x9w640.jpg",
+        "alt": "Two Linde Material Handling trucks transporting loads at LogiMAT 2025.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Oechsler/Begegnungsverkehr-der-Linde-L-MATIC-HD_16x9w640.jpg",
+        "alt": "Two L-MATIC trucks from Linde Material Handling pass each other safely.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Energy/Key-visuals-Energy/LMH_KeyVisual_SolutionFields_Energy_DSC01134_16x9w640.jpg",
+        "alt": "Stefan Roth, Product Manager Energy Solutions at Linde Material Handling in Germany",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Interview-Stefan-Prokosch/womh22-Stefan_Prokosch-051_16x9w640.jpg",
+        "alt": "Stefan Prokosch, Vice President Brand Management at Linde",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/WoMH-2022/Blog/womh-C_MATIC_HP-350_16x9w640.jpg",
+        "alt": "Automated load carrier C-MATIC HP from Linde Material Handling at WoMH 2022.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Media-Germany/04-About-Linde/Magazine/Interview-Markus-Schmermund/Markus-Schmermund-2017_2677_16x9w640.jpg",
+        "alt": "Markus Schmermund, Vice President Automation &amp; Intralogistics Solutions at Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Logimat-2018-Heptner/Linde_Logimat-Heptner-9687_16x9w640.jpg",
+        "alt": "Frank Heptner in conversation",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Interviews/Fair_Logimat-Customer_Meeting_170314a4f0507_16x9w640.jpg",
+        "alt": "Logimat, Automation, Tobias Zierhut",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/automated_truck-L_MATIC_AC-moving-4440_5511_CX_16x9w640.jpg",
+        "alt": "L-MATIC from Linde in use in the manufacturing hall",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/Temporaere-Bilder-bis-Launch/VDI-Flurfoerderzeugtagung_16x9w640.jpg",
+        "alt": "VDI Industrial Trucks Conference 2017",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/People/Safety_Scan_Consulting_6665_B_16x9w640.jpg",
+        "alt": "Linde&#39;s safety adviser at the crossroads and a reach truck with Bluespot crosses the line.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Safety/Reverse-Assist-Radar/Reverse_assist_radar-X30-240405-10_16x9w640.jpg",
+        "alt": "The Linde X30 electric forklift truck reverses out of an aisle, with a pedestrian walking to the rear.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/MH-Symposium-2017/mh_symposium-2017-2158_16x9w640.jpg",
+        "alt": "Material Handling Symposium 2017",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/People/Safety_Scan_Consulting_6665_B_16x9w640.jpg",
+        "alt": "Linde&#39;s safety adviser at the crossroads and a reach truck with Bluespot crosses the line.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Safety/Reverse-Assist-Radar/Reverse_assist_radar-X30-240405-10_16x9w640.jpg",
+        "alt": "The Linde X30 electric forklift truck reverses out of an aisle, with a pedestrian walking to the rear.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/MH-Symposium-2017/mh_symposium-2017-2158_16x9w640.jpg",
+        "alt": "Material Handling Symposium 2017",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/70-years-of-reach-trucks/Lansing_Bagnall-reach_truck_FRER-4_16x9w640.jpg",
+        "alt": "Reach truck FRER 2 from Lansing Bagnall at work in 1958.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Staplercup-2017/staplercup-forkliftdriver-championship-7053_16x9w640.jpg",
+        "alt": "StaplerCup 2017 in Aschaffenburg",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Solar-power-Kolbaskowo/plant-kolbaskowo-KION_4(1)-1_16x9w640.jpg",
+        "alt": "The plant in Kołbaskowo, Poland, which manufactures products for Linde MH, featuring a large outdoor photovoltaic system.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/listening-ear/Office-Meeting_2_16x9w640.jpg",
+        "alt": "Two people are talking in an office",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Regional-Distribution-Center-Kahl/2-LindeMH_RDC_Kahl_am_Main-6_16x9w640.jpg",
+        "alt": "Aerial view of the KION Regional Distribution Center Central Europe in Kahl am Main",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/Landingpage-Social-Commitment/Linde_Solidaria-Social_Commitment-WP5A9939_16x9w640.jpg",
+        "alt": "Two people from the Linde MH initiative &#34;Linde Solidaria&#34;.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/X20-X35/E_Truck-X35-Stacking-4588_832_16x9w640.jpg",
+        "alt": "X35 electric forklift from Linde MH",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/KNaIS/KAnIS-automated_truck-stacking-1867_16x9w640.jpg",
+        "alt": "Autonomous counterbalanced truck from Linde in outdoor use.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/beverage/ic_truck-h30-beverage-4578_607_CX_16x9w640.jpg",
+        "alt": "Linde Material Handling counterbalanced forklift truck in use in the beverage industry",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Third-Party-Logistics/E16_Moving_9282_16x9w640.jpg",
+        "alt": "Linde industrial trucks in use in the warehouse",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/50-years-of-electric-forklift-trucks/E_Truck-History-50_Years-01_16x9w640.jpg",
+        "alt": "Evolution of Linde Material Handling&#39;s electric forklift trucks",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Performance-tests-Theo-Egberts/andersom_testing-counterbalance__trucks-H25_X25-9_16x9w640.jpg",
+        "alt": "The New H25 Diesel and X25 Electric Forklift Trucks from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Press_Releases/2021/05-2021/_HR_1722-2_16_9_16x9w640.jpg",
+        "alt": "One-millionth counterbalance truck produced by Linde Material Handling.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Customer-Story-Dinner/LMH-Customer_Story_Dinner-01_16x9w640.jpg",
+        "alt": "Layed table in front of a warehouse",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Linde-Showroom-App/LMH-Virtual_Showroom_App-iPad-Warehouse-02_16x9w640.jpg",
+        "alt": "Linde Material Handling’s Virtual Showroom app enables sales people and customers to visualize a choice of 27 virtual industrial trucks against any backdrop.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Applications/ic_truck-moving-retail-4549_1438_16x9w640.jpg",
+        "alt": "Linde forklift trucks in action at toilet paper manufacturer",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/pallet_stacker_L16_moving_lithium_ion-4421_5115_CX_16x9w640.jpg",
+        "alt": "Pallet stackers from Linde in operation",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/automated_truck-towing-retail-4291_D_16x9w640.jpg",
+        "alt": "Automated Linde tow tractor with Linde load train for line supply in production",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/e_truck-loading-freight_forwarding-3699_8872_16x9w640.jpg",
+        "alt": "Linde trucks in action at the airport",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Forklift-Tattoo/Linde_Forklift_Tattoo_16x9w640.jpg",
+        "alt": "The tattoo is tattooed on Marcell Lange&#39;s arm.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/02-Service/People/consulting-warehouse_planning-4374_0611_16x9w640.jpg",
+        "alt": "Consulting from Linde",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Denkmalschutzbroschuere/Aschaffenburg_Gueldner_building_171256_16x9w640.jpg",
+        "alt": "LMH industrial site in Aschaffenburg",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Wir-bei-Linde/Yanis-Harmance-Project-und-Product-Manager-Automation_16x9w640.jpg",
+        "alt": "Yanis Harmance, Project and Product Manager Linde Automation",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Wir-bei-Linde/Roth_16x9w640.jpg",
+        "alt": "Bernd Roth, Head of Truck Assembly",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Wir-bei-Linde/Philipp-Dressel_Trainer-Linde-Sales-Academy_16x9w640.jpg",
+        "alt": "Philipp Dressel, Trainer at Linde Sales Academy",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Wir-bei-Linde/Blaha_16x9w640.jpg",
+        "alt": "Christian Blaha, Production Mechanic in Truck Assembly",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Wir-bei-Linde/Wichmann_16x9w640.jpg",
+        "alt": "René Wichmann, FMEA Moderator in the Quality division",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/HR/global-HR-Banner_Linde-KION_16x9w1920.jpg",
+        "alt": "",
+        "w": 1440,
+        "h": 810
+      }
+    ],
+    "allImgCount": 119,
+    "cssBackgrounds": [],
+    "modals": [
+      "German (Deutsch) English We use cookies and other technologies. This website uses cookies and similar functions to process end device information and personal data. The processing serves the integration of content, external services and elements of third parties, statistical analysis/measurement, personalized advertising and the integration of social media. Depending on the function, data may be passed on to third parties in the process and to third parties in countries where there is no adequate level of data protection and is processed by them, e.g. the USA. Your consent is always voluntary, not required for the use of our website and can be rejected or revoked at any time on our site. Accept all Decline Settings Imprint Privacy Policy Powered by CCM19",
+      "Please select policies to allow Technically neccessary (2) ? Here are all technically necessary scripts, cookies and other elements that are necessary for the operation of the website or the operator has a legitimate interest under DSGVO Art6, para. 1. Analytics & Marketing (5) ? Analytics cookies help us understand how visitors interact with this website by collecting and reporting information anonymously. To continuously improve our website, we track data for statistical and analytical purposes, such as the number of visits or the impact of certain pages of our web presence, and thus optimise our content. Marketing cookies are used to target advertising specifically to a user (behavioural targeting). The aim of using marketing cookies is to display advertising that is particularly relevant to the users of the website. Personalization (1) ? To better tailor the website to you, scripts run here and cookies are set. The goal is to provide a better user experience for you. Other (2) ? Here are other scripts and cookies that do not fit any of the above categories. Cancel Save"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--color-red": "#aa0020",
+    "--color-toned-red": "#cc132a",
+    "--color-darkred": "#990e1f",
+    "--color-darkgrey": "#222",
+    "--color-text-darkgrey": "#444",
+    "--color-textgrey": "#4a595c",
+    "--color-toned-textgrey": "#5e7175",
+    "--color-shadegrey": "#e6e7eb",
+    "--color-lightgrey": "#eeeff3",
+    "--color-hover-lightgrey": "#f5f6fa",
+    "--color-white": "#fff",
+    "--color-form-lightgrey": "#cccdd1",
+    "--color-form-darkgrey": "#9b9b9e",
+    "--color-black": "#222",
+    "--color-form-validation": "red",
+    "--color-green": "#77b340",
+    "--color-toned-green": "color-mix(in srgb,#77b340,#fff 10%)",
+    "--color-darkgreen": "color-mix(in srgb,#77b340,#000 10%)",
+    "--color-primary-700": "#94001d",
+    "--color-primary-900": "#700016",
+    "--color-carousel-grey": "#354042",
+    "--color-carousel-lightgrey": "#6b6b6a",
+    "--color-carousel-red": "#ba1926",
+    "--color-facebook": "#3b5998",
+    "--color-twitter": "#000",
+    "--color-xing": "#126567",
+    "--color-youtube": "#cd201f",
+    "--color-vimeo": "#1ab7ea",
+    "--color-twitch": "#6441a5",
+    "--color-whatsapp": "#25d366",
+    "--color-linkedin": "#0077b5",
+    "--color-googleplus": "#d34836",
+    "--color-baidu": "#de0f17",
+    "--color-pinterest": "#bd081c",
+    "--color-instagram": "#e1306c",
+    "--color-blogger": "#f57d00",
+    "--color-flickr": "#0063dc",
+    "--color-kununu": "#000",
+    "--color-tiktok": "#000",
+    "--color-toned-red2": "#ba1926",
+    "--color-lightgrey2": "#e4e5ea",
+    "--font-face": "\"DaxlineWebPro\"",
+    "--font-face-bold": "\"DaxlineWebPro-Bold\"",
+    "--font-face-italic": "\"DaxlineWebPro-Italic\"",
+    "--font-face-medi": "\"DaxWebPro-Medi\"",
+    "--font-face-light": "\"DaxWebPro-Light\"",
+    "--color-lmh-grey-200": "#dcdcdf",
+    "--color-lmh-grey-300": "#cccdd1",
+    "--ccm--scrollbar-width": "0px",
+    "--ccm--scrollbar-height": "0px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 118,
+    "mainTextLen": 66174,
+    "realImageCount": 117,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "epcloud.ccm19.de",
+        "path": "/consent/ccm19/public/widget",
+        "query": [
+          "apiKey",
+          "domain",
+          "gen",
+          "lang",
+          "theme",
+          "v"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/x-html-fragment",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://epcloud.ccm19.de/consent/ccm19/public/widget",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "epcloud.ccm19.de",
+        "path": "/consent/ccm19/public/cron",
+        "query": [
+          "apiKey",
+          "domain",
+          "gen",
+          "theme"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://epcloud.ccm19.de/consent/ccm19/public/cron",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "b.clarity.ms",
+        "path": "/collect",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 3,
+        "example": "https://b.clarity.ms/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "px.ads.linkedin.com",
+        "path": "/wa/",
+        "query": [
+          "fmt",
+          "medium"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://px.ads.linkedin.com/wa/",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_p",
+          "_s",
+          "cid",
+          "dl",
+          "dma",
+          "dp",
+          "dt",
+          "en",
+          "ep.allowLinker",
+          "ep.customTask",
+          "frm",
+          "gcd",
+          "gcs",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.etracker.de",
+        "path": "/api/v6/tracking/webEvents",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.etracker.de/api/v6/tracking/webEvents",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "www.googletagmanager.com",
+        "count": 4
+      },
+      {
+        "host": "snap.licdn.com",
+        "count": 2
+      },
+      {
+        "host": "connect.facebook.net",
+        "count": 2
+      },
+      {
+        "host": "static.etracker.com",
+        "count": 1
+      },
+      {
+        "host": "epcdn.ccm19.de",
+        "count": 1
+      },
+      {
+        "host": "epcloud.ccm19.de",
+        "count": 1
+      },
+      {
+        "host": "code.etracker.com",
+        "count": 1
+      },
+      {
+        "host": "www.clarity.ms",
+        "count": 1
+      },
+      {
+        "host": "www.etracker.de",
+        "count": 1
+      },
+      {
+        "host": "scripts.clarity.ms",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 0,
+    "triggers": [
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      }
+    ],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 0,
+      "thirdPartyEndpoints": 6,
+      "thirdPartyScriptHosts": 10,
+      "inlineDataBlobs": 0,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": false
+    }
+  },
+  "screenshot": "assets/screenshots/en-about-us-magazine.png",
+  "renderedHtml": "pages/en-about-us-magazine.html",
+  "slots": {
+    "index-headline": "Magazine",
+    "lead-image": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/ic_truck-outdated_product-loading-construction-116_16x9w1920.jpg",
+    "intro": "Inver GmbH, part of Sherwin‑Williams (the world’s largest coatings manufacturer), relies fully on Linde Material Handling’s explosion‑protection expertise at its Dresden site. This expertise includes both factory‑certified ATEX trucks and the close support provided by specially trained explosion‑protection service professionals.",
+    "card-grid": [
+      {
+        "title": "It’s all about that certain EXtra"
+      },
+      {
+        "title": "ABS Safety Implements Automation at a Brownfield Site"
+      },
+      {
+        "title": "Linde Reverse Assist Radar at Michelin Tyre PLC"
+      },
+      {
+        "title": "DB Schenker tests the new Linde E16"
+      },
+      {
+        "title": "Performance Yes, Load Peaks No"
+      },
+      {
+        "title": "Heineken Switzerland AG"
+      },
+      {
+        "title": "Top Performance Down Under"
+      },
+      {
+        "title": "Higher is Faster Here"
+      },
+      {
+        "title": "Who Dares Wins"
+      },
+      {
+        "title": "Fertile Ground for Healthy Growth"
+      },
+      {
+        "title": "Thinking Ahead while Reversing"
+      },
+      {
+        "title": "A Sweeping Success"
+      },
+      {
+        "title": "The Seventh R Is a V"
+      },
+      {
+        "title": "Fully Equipped for the Future"
+      },
+      {
+        "title": "An Combustion Engine Stronghold Converts to Electric"
+      },
+      {
+        "title": "Unbeatable Handling and Zero Emissions Guaranteed"
+      },
+      {
+        "title": "Electric forklifts in their element"
+      },
+      {
+        "title": "Where there is an obstacle, there is also a way"
+      },
+      {
+        "title": "Sparking an Idea at FLN Neuruppin"
+      },
+      {
+        "title": "Narrow Aisles, Wide Choice"
+      },
+      {
+        "title": "An inspiring debut"
+      },
+      {
+        "title": "Quiet but Powerful"
+      },
+      {
+        "title": "The X Factor"
+      },
+      {
+        "title": "Schenker takes full control of its forklift truck fleet"
+      },
+      {
+        "title": "Seeing Everything, Everywhere"
+      },
+      {
+        "title": "Stable yet flexible"
+      },
+      {
+        "title": "“A Whole New Driving Experience”"
+      },
+      {
+        "title": "Safety Scrutinized from an Objective Perspective"
+      },
+      {
+        "title": "Between Charges: Opportunity Charging"
+      },
+      {
+        "title": "It Doesn’t Just Look Good on Paper"
+      },
+      {
+        "title": "In Action to Improve Safety"
+      },
+      {
+        "title": "Keeping Goods Moving"
+      },
+      {
+        "title": "Rack and roll"
+      },
+      {
+        "title": "System: changed"
+      },
+      {
+        "title": "More Fish for Life"
+      },
+      {
+        "title": "A Refreshing Performance"
+      },
+      {
+        "title": "Two value creators in full swing"
+      },
+      {
+        "title": "Perfect warning"
+      },
+      {
+        "title": "Efficiency Maximized"
+      },
+      {
+        "title": "Automated around the world"
+      },
+      {
+        "title": "Made to Measure"
+      },
+      {
+        "title": "Analyzed Efficiently"
+      },
+      {
+        "title": "A thirst for innovation"
+      },
+      {
+        "title": "High-precision machine at Norrlands trä"
+      },
+      {
+        "title": "Full of tricks"
+      },
+      {
+        "title": "A powerful steel in the fire"
+      },
+      {
+        "title": "Electric power packs help to quench thirst"
+      },
+      {
+        "title": "Forklift trucks for dirty work"
+      },
+      {
+        "title": "Highest Standards, Best Prospects"
+      },
+      {
+        "title": "\"Remove before flight\""
+      },
+      {
+        "title": "Wine Time is Rental Time"
+      },
+      {
+        "title": "No forklifts, no fan mile"
+      },
+      {
+        "title": "Linde Rental Solutions at Agua Mineral San Benedetto"
+      },
+      {
+        "title": "Automotive supplier SMP controls its vehicle fleet with Linde connect"
+      },
+      {
+        "title": "Opel Vienna turns to automation"
+      },
+      {
+        "title": "Powerful forklifts for tough applications"
+      },
+      {
+        "title": "Alpine intralogistics"
+      },
+      {
+        "title": "Reliable allrounder"
+      },
+      {
+        "title": "You can rely on them!"
+      },
+      {
+        "title": "The Most Natural Thing in the World"
+      },
+      {
+        "title": "Optimization is a question of chemistry"
+      },
+      {
+        "title": "A real piece of gold amongst the trash"
+      },
+      {
+        "title": "Almost As Fast As Formula 1"
+      },
+      {
+        "title": "A breath of fresh air in logistics at Heidelberg"
+      },
+      {
+        "title": "In use on the race track"
+      },
+      {
+        "title": "Goods transport with automated fleet"
+      },
+      {
+        "title": "Seamless shift changes for fresh goods"
+      },
+      {
+        "title": "Individualised solutions for the paper industry"
+      },
+      {
+        "title": "Safety First"
+      },
+      {
+        "title": "New Intralogistics Concept for Better Processes"
+      },
+      {
+        "title": "Automated trucks are an excellent solution at Fagerhult"
+      },
+      {
+        "title": "Revolutionizing the Warehouse with AI"
+      },
+      {
+        "title": "How Does Automation Work? An Interview with Louis Vieira"
+      },
+      {
+        "title": "Linde Energy Navigator: Software-supported energy consulting"
+      },
+      {
+        "title": "The Next Big Thing"
+      },
+      {
+        "title": "Automatically lifted up"
+      },
+      {
+        "title": "Automation: Automation in existing structures requires a considered approach"
+      },
+      {
+        "title": "Autonomous or manual?"
+      },
+      {
+        "title": "We are the systems integrator for internal material flow"
+      },
+      {
+        "title": "Automation meets future"
+      },
+      {
+        "title": "Future topics and trends in the material handling equipment industry"
+      },
+      {
+        "title": "Seeing danger coming"
+      },
+      {
+        "title": "Linde Material Handling at A+A 2025"
+      },
+      {
+        "title": "Optimizing the entire process chain"
+      },
+      {
+        "title": "Seeing danger coming"
+      },
+      {
+        "title": "Linde Material Handling at A+A 2025"
+      },
+      {
+        "title": "Optimizing the entire process chain"
+      },
+      {
+        "title": "Three cheers for it!"
+      },
+      {
+        "title": "Precision and speed required"
+      },
+      {
+        "title": "Solar Power for Poland"
+      },
+      {
+        "title": "A listening ear for every situation"
+      },
+      {
+        "title": "A new building for future-oriented spare parts supply"
+      },
+      {
+        "title": "Social Engagement"
+      },
+      {
+        "title": "Conserving Resources"
+      },
+      {
+        "title": "Milestone on the way to autonomous outdoor forklifts"
+      },
+      {
+        "title": "Signature Move(s)"
+      },
+      {
+        "title": "Linde solutions for the beverage industry"
+      },
+      {
+        "title": "Linde Solutions for the 3PL Sector"
+      },
+      {
+        "title": "50 years of Linde electric forklift trucks"
+      },
+      {
+        "title": "“In a word—spectacular!”"
+      },
+      {
+        "title": "One-millionth counterbalance truck produced in Aschaffenburg"
+      },
+      {
+        "title": "From field to fork"
+      },
+      {
+        "title": "Linde Virtual Showroom App"
+      },
+      {
+        "title": "Facing down the standstill together"
+      },
+      {
+        "title": "Innovative battery technology for forklift trucks"
+      },
+      {
+        "title": "Robots as employee of the month"
+      },
+      {
+        "title": "Flying starts on the ground"
+      },
+      {
+        "title": "Linde and the Love"
+      },
+      {
+        "title": "Linde is the favourite of the industry"
+      },
+      {
+        "title": "From Güldner to the Linde MH headquarters: An industry with a rich history"
+      },
+      {
+        "title": "Project and Product Manager Linde Automation"
+      },
+      {
+        "title": "Head of Truck Assembly"
+      },
+      {
+        "title": "Trainer at Linde Sales Academy"
+      },
+      {
+        "title": "Production Mechanic"
+      }
+    ],
+    "filter-controls": false
+  }
+}

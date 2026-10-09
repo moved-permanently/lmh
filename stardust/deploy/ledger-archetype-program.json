@@ -1,0 +1,11 @@
+{
+  "/en/products/e-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:42:22.701Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

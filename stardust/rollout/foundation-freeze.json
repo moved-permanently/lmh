@@ -1,0 +1,30 @@
+{
+  "frozenAt": "2026-10-07T08:42:32.718Z",
+  "root": ".",
+  "paths": [
+    "styles/",
+    "fonts/",
+    "blocks/header/",
+    "blocks/footer/",
+    "head.html",
+    "scripts/"
+  ],
+  "files": {
+    "blocks/footer/footer.css": "7db372571487bfff32fbfbce86811fe7f8ca73d6cb06995ab83bedaec06a08bd",
+    "blocks/footer/footer.js": "e89a01c31cb57026130eb085fb0dee9ca1eee7ed45cdb9c74e9964e158b806ce",
+    "blocks/header/header.css": "1c2559ab93f9d646087e297dfc2b3a80472497ca70117201a2b55baf4e375359",
+    "blocks/header/header.js": "fbaff287f929a166426774d94dd5c43796dbc69079c846fecf62fce38687c5df",
+    "fonts/LindeGlobalIconFont.ttf": "08bad741fd4d3ab55594b2508e6d11c38bceda0a7d8062c008ef16e6ceac263f",
+    "fonts/NotoSans-Variable.woff2": "e30fe55bc615a405377c86ef627742bcba7dddbb0053a1dbe34860cae1ecc92c",
+    "fonts/NunitoSans-400.woff2": "29e3890496844a9ea81975c52771c587c872b4eb317026422d1995b88d21b57d",
+    "fonts/NunitoSans-700.woff2": "29e3890496844a9ea81975c52771c587c872b4eb317026422d1995b88d21b57d",
+    "head.html": "febf320b5244a1634f688726999064ba4b95335ec71ef14628d4806501baca65",
+    "scripts/aem.js": "014479db98bd56d25c248ff45aa705752d871a9eff0484c5620f00cf58b42ae6",
+    "scripts/consent-check.js": "ac21f825288cfc82c52a6acd9c57bbb76a2017ee1b06319d493244f32751249a",
+    "scripts/consented.js": "8a0ec7239cfab36c9bbfd8e7cde178c6c9061f68da8539879411ee9fa09b18ab",
+    "scripts/scripts.js": "37a4ff7ea928527190755f06b28a34a3ceb9af15ce290dea6e711df2c4d52a94",
+    "styles/fonts.css": "9427a1963cd442fab7d846e5e347cfd2c84b17f05e8ee71a239a6c0478e4a3be",
+    "styles/lazy-styles.css": "391d6721991eb169fa04d7c71d9b597361d76c24ab8a3d5f1dcb47457d8ca2d6",
+    "styles/styles.css": "f202a7f1b399e08f05427583a8a91e1e8ca94a6a252d97d80a7a3a431fa0eb0a"
+  }
+}

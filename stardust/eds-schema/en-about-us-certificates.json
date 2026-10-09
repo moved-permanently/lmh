@@ -1,0 +1,531 @@
+{
+ "source": "http://localhost:8804/stardust/migrated/en/About-us/Certificates/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Our Certificates"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Quality Management",
+     "href": "#766299"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Environmental Management",
+     "href": "#766296"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Occupational Health and Safety",
+     "href": "#766301"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Energy Management",
+     "href": "#766306"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Quality requirements for fusion welding",
+     "href": "#766311"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "TISAX Certification",
+     "href": "#784992"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Information Security - ISO 27001",
+     "href": "#787133"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 7,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Management systems are a generally accepted standard in many companies and form the basis for stability and continuous improvement of processes. We at Linde Material Handling work according to these standards at all our sites. This ensures that we act in accordance with the same environmental, safety and energy management standards internationally and offer the same level of quality to all our customers."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Quality Management - ISO 9001"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The ISO 9001 standard represents the minimum requirements of a Quality Management System. The purpose of this standard is to increase customer satisfaction through the deliverance of quality products and services."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Certificate ISO 9001:2015 (Linde Material Handling, Aschaffenburg)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_9001_2015_Linde_MH_EN.pdf"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Certificate ISO 9001:2015 (Fenwick Linde, Chatellerault)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_9001_2015_Fenwick-Linde_FR.pdf"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Certificate ISO 9001:2015 (Linde Pohony, Stribro)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_9001_2015_KION_Stribro_EN.pdf"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Certificate ISO 9001:2015 (Linde Pohony, Cesky Krumlov)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_9001_2015_Linde_Pohony_EN.pdf"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "A.btn__link",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Environmental Management - ISO 14001"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "ISO 14001 sets out the criteria for an Environmental Management System (EMS). The main aim is to assist companies in continually improving their environmental performance, while complying with any applicable legislation."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Certificate ISO 14001:2015 (Linde Material Handling, Aschaffenburg)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_14001_2015_Linde-MH_EN.pdf"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Certificate ISO 14001:2015 (Fenwick Linde, Chatellerault)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_14001_2015_Fenwick-Linde_FR.pdf"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Certificate ISO 14001:2015 (Linde Pohony, Stribro)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_14001_2015_KION_Stribro_EN.pdf"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Certificate ISO 14001:2015 (Linde Pohony, Cesky Krumlov)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_14001_2015_Linde_Pohony_EN.pdf"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "A.btn__link",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Occupational Health and Safety - ISO 45001"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "An occupational health and safety management system is intended to serve companies in a process-oriented manner to prevent accidents at work, work-related injuries and illnesses in their operations and to protect the health of employees in the workplace in general. OHSAS 18001 (Occupational Health and Safety Assessment Series) contains a number of requirements in this regard. It will be replaced by the new ISO 45001 during a three-year transition period. ISO 45001 brings together occupational health and safety and company health management."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Certificate ISO 45001:2018 (Linde Material Handling, Aschaffenburg)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_45001_2018_Linde_MH_EN.pdf"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Certificate ISO 45001:2018 (Fenwick Linde, Chatellerault)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_45001_2018_Fenwick-Linde_FR.pdf"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Certificate ISO 45001:2018 (Linde Pohony, Stribro)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_45001_2018_KION_Stribro_EN.pdf"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Certificate ISO 45001:2018 (Linde Pohony, Cesky Krumlov)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_45001_2018_Linde_Pohony_EN.pdf"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "A.btn__link",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Energy Management - ISO 50001"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "ISO 50001 is a specification created by the International Organization for Standardization (ISO) for an energy management system. The standard aims to help organizations continually reduce their energy use, and therefore their energy costs and their greenhouse gas emissions."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Certificate ISO 50001:2011 (Linde Material Handling, Aschaffenburg)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_50001_2018_Linde_MH_EN.pdf"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Certificate ISO 50001:2011 (Fenwick Linde, Chatellerault)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_50001_2018_Fenwick-Linde_FR.pdf"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "A.btn__link",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Quality requirements for fusion welding - ISO 3834"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "ISO 3834 defines comprehensive quality requirements for fusion welding of metallic materials both in workshops and at field installation sites."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Certificate ISO 3834-2:2006 (Linde Material Handling, Aschaffenburg)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_3834_2_Linde_MH_EN.pdf"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Certificate ISO 3834-2 (Fenwick Linde, Chatellerault)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_3834_2_Fenwick-Linde_EN.pdf"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Certificate ISO 3834-2 (Linde Pohony, Stribro)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_3834_2_KION_Stribro_EN.pdf"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "A.btn__link",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "TISAX Certification"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The TISAX certification (Trusted Information Security Assessment Exchange) is an industry standard defined and maintained by the German Association of the Automotive Industry (VDA) and ENX. The certification is based on the requirements of the VDA Information Security Assessment (ISA) and confirms that a company's information security management system fulfills defined security levels and demonstrates a high level of information security."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "21",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "TISAX Certification (Linde Material Handling, Aschaffenburg)",
+     "href": "../../../media/Global-Content/08_Downloads/Certificates/TISAX-LMH.pdf"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "22",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Information Security"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "23",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "ISO 27001 is an international standard for information security management systems (ISMS). It specifies the requirements for the introduction, implementation, maintenance and continuous improvement of an information security management system, taking into account the context of an organization. The development, provision and operation of the my Linde software portal and the features it contains, as well as the Linde connect:desk fleet management solution and the directly associated IT platforms and IT services at the Linde Material Handling locations mentioned, are certified."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "24",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Certificate ISO/IEC 27001:2022 (Linde Material Handling, Aschaffenburg)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_IEC_27001_2022_Linde_MH_EN.pdf"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Certificate ISO/IEC 27001:2022 (Linde Material Handling Ibérica, Barcelona)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_IEC_27001_2022_LMH_Iberica_EN.pdf"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Certificate ISO/IEC 27001:2022 (KION)",
+     "href": "../../../media/Global-Content/04-About-Linde/Certificates/ISO_IEC_27001_2022_KION_EN.pdf"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "A.btn__link",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

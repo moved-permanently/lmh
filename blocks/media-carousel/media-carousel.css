@@ -1,0 +1,165 @@
+/* media-carousel — source .carousel-wrapper > .media-carousel (canon.css module: media-carousel,
+   .image-clipper--2_1_max @184121, arrows @71693). Full-bleed band: the source .layout-passepartout
+   spans the shell, so the section wrapper escapes the 1280px cap (foundation request). */
+.media-carousel-container > .media-carousel-wrapper {
+  max-width: none;
+}
+
+.media-carousel {
+  position: relative;
+  width: 100%;
+  background: var(--color-white);
+}
+
+.media-carousel .media-carousel-list {
+  position: relative;
+  display: block;
+  overflow: hidden;
+}
+
+.media-carousel .media-carousel-track {
+  display: flex;
+  width: 100%;
+}
+
+.media-carousel .media-carousel-item {
+  position: relative;
+  display: none;
+  width: 100%;
+  flex: 0 0 100%;
+}
+
+.media-carousel .media-carousel-item.active {
+  display: block;
+}
+
+/* 2:1 clipper, 600px max: the 16:9 picture is centred vertically and cropped */
+.media-carousel .media-carousel-clipper {
+  position: relative;
+  width: 100%;
+  height: 50vw;
+  max-height: 600px;
+  overflow: hidden;
+}
+
+.media-carousel .media-carousel-contents {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  transform: translateY(-50%);
+}
+
+/* source .image-clipper__contents--top / --bottom (block variants `top` / `bottom`): the slide
+   is aligned to the clipper edge instead of centred (measure.mjs 112000 @1440: live contents
+   y -12 = bottom-aligned 810 in the 600 clipper, eds centred at 93) */
+.media-carousel.top .media-carousel-contents {
+  top: 0;
+  transform: none;
+}
+
+.media-carousel.bottom .media-carousel-contents {
+  top: auto;
+  bottom: 0;
+  transform: none;
+}
+
+.media-carousel .media-carousel-image {
+  position: relative;
+  height: 0;
+  max-width: 100%;
+  padding-bottom: 56.25%;
+}
+
+.media-carousel .media-carousel-image picture {
+  display: block;
+}
+
+.media-carousel .media-carousel-image img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: block;
+  width: 100%;
+  height: auto;
+  transform: translate(-50%, -50%);
+}
+
+.media-carousel .media-carousel-caption p {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+/* dots: live shows one 8px white dot even for a single slide */
+.media-carousel .media-carousel-dots {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  list-style: none;
+}
+
+.media-carousel .media-carousel-dots > li {
+  display: inline-block;
+  width: 24px;
+  height: 33px;
+  vertical-align: top;
+}
+
+.media-carousel .media-carousel-dots > li button {
+  position: relative;
+  display: block;
+  width: 0;
+  height: 0;
+  margin: 8px;
+  padding: 4px;
+  border: none;
+  background: var(--color-white);
+  cursor: pointer;
+}
+
+.media-carousel .media-carousel-dots > li button::after {
+  content: "";
+  position: absolute;
+  top: -8px;
+  left: -8px;
+  z-index: 1;
+  width: 24px;
+  height: 24px;
+}
+
+@media (width >= 1024px) {
+  .media-carousel .media-carousel-dots > li.active button {
+    box-shadow: inset 0 -0.15rem var(--color-red);
+  }
+}
+
+/* arrows (only rendered for 2+ slides; the source hides them for one) */
+.media-carousel .media-carousel-arrow {
+  position: absolute;
+  top: 50%;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  padding: 0;
+  border: 0;
+  background: var(--color-red);
+  color: var(--color-white);
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+
+.media-carousel .media-carousel-prev {
+  left: 0;
+}
+
+.media-carousel .media-carousel-next {
+  right: 0;
+}

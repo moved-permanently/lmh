@@ -1,0 +1,2671 @@
+{
+  "archetype": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+  "width": 1440,
+  "tolerance": 2,
+  "probes": {
+    "form": "form.form-section",
+    "header": ".form-section__header",
+    "h5": ".form-item h5",
+    "label": "label.label",
+    "input": ".input-wrapper input",
+    "textarea": "textarea",
+    "toggle": ".dropdown-toggle",
+    "native": ".select-wrapper select",
+    "radio": "label.radio",
+    "checkbox": "label.checkbox",
+    "required": ".form-required-info",
+    "submit": ".form-section__footer button",
+    "row50": ".form-row-50",
+    "row100": ".form-row-100"
+  },
+  "archetypeRaw": {
+    "sections": [],
+    "probes": {
+      "form": {
+        "sel": "form.form-section",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 640,
+            "h": 1232
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "0px 0px 0px 0px",
+          "font": "daxlinewebpro 18px/27px 400",
+          "borderRadius": "0px",
+          "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "What can we do for you? Subject: Products Services Solutions"
+      },
+      "header": {
+        "sel": ".form-section__header",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 640,
+            "h": 69
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "16px 16px 16px 16px",
+          "font": "daxlinewebpro 18px/27px 400",
+          "borderRadius": "0px",
+          "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "What can we do for you?"
+      },
+      "h5": {
+        "sel": ".form-item h5",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 266,
+            "h": 27
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "0px 0px 0px 0px",
+          "font": "daxwebpro-medi 18px/27px 400",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Subject:"
+      },
+      "label": {
+        "sel": "label.label",
+        "count": 10,
+        "first": {
+          "rect": {
+            "w": 608,
+            "h": 27
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "0px 0px 0px 0px",
+          "font": "daxlinewebpro 15px/27px 400",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Your Message *"
+      },
+      "input": {
+        "sel": ".input-wrapper input",
+        "count": 9,
+        "first": {
+          "rect": {
+            "w": 296,
+            "h": 48
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "11px 8px 8px 8px",
+          "font": "daxlinewebpro 15px/27px 400",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": ""
+      },
+      "textarea": {
+        "sel": "textarea",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 608,
+            "h": 105
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgb(255, 255, 255)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "11px 8px 8px 8px",
+          "font": "daxlinewebpro 15px/22.5px 400",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": ""
+      },
+      "toggle": {
+        "sel": ".dropdown-toggle",
+        "count": 2,
+        "first": {
+          "rect": {
+            "w": 326,
+            "h": 48
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgb(170, 0, 32)",
+          "color": "rgb(255, 255, 255)",
+          "padding": "8px 48px 8px 16px",
+          "font": "daxlinewebpro 18px/30px 400",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Select*"
+      },
+      "native": {
+        "sel": ".select-wrapper select",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 608,
+            "h": 48
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "padding": "8px 16px 8px 16px",
+          "font": "daxlinewebpro 18px/27px 400",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Please select your country AfghanistanAlbaniaAlgeriaAmer Sam"
+      },
+      "radio": {
+        "sel": "label.radio",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 528,
+            "h": 72
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "12px 0px 0px 8px",
+          "font": "daxlinewebpro 15px/27px 400",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "I hereby declare that I consent to the use of my personal da"
+      },
+      "checkbox": {
+        "sel": "label.checkbox",
+        "count": 0
+      },
+      "required": {
+        "sel": ".form-required-info",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 312,
+            "h": 35
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "0px 8px 8px 8px",
+          "font": "daxlinewebpro 15px/27px 400",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "*Mandatory field"
+      },
+      "submit": {
+        "sel": ".form-section__footer button",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 73,
+            "h": 48
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgb(170, 0, 32)",
+          "color": "rgb(255, 255, 255)",
+          "padding": "8px 16px 8px 16px",
+          "font": "daxlinewebpro 18px/30px 400",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Send"
+      },
+      "row50": {
+        "sel": ".form-row-50",
+        "count": 5,
+        "first": {
+          "rect": {
+            "w": 640,
+            "h": 83
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "0px 8px 0px 8px",
+          "font": "daxlinewebpro 18px/27px 400",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Title * Mr. Mrs. Other No information Mr.Mr.Mrs.OtherNo info"
+      },
+      "row100": {
+        "sel": ".form-row-100",
+        "count": 12,
+        "first": {
+          "rect": {
+            "w": 640,
+            "h": 56
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "0px 8px 0px 8px",
+          "font": "daxlinewebpro 18px/27px 400",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Subject: Products Services Solutions Career Press Other Sele"
+      }
+    }
+  },
+  "siblings": [
+    {
+      "url": "https://www.linde-mh.com/en/Forms/agility-on-point-form/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "form",
+          "msg": "rect{h 1232 → 1190}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h5",
+          "msg": "rect{w 266 → 608, h 27 → 54}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "label",
+          "msg": "rect{w 608 → 296}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "toggle",
+          "msg": "2 → 1 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "toggle",
+          "msg": "rect{w 326 → 296}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "submit",
+          "msg": "rect{w 73 → 89}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "row100",
+          "msg": "12 → 9 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "row100",
+          "msg": "rect{h 56 → 62}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "form": {
+            "sel": "form.form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 1190
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Schedule a test drive Enter your contact details—we will get"
+          },
+          "header": {
+            "sel": ".form-section__header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 69
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "16px 16px 16px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Schedule a test drive"
+          },
+          "h5": {
+            "sel": ".form-item h5",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 54
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Enter your contact details—we will get in touch with you sho"
+          },
+          "label": {
+            "sel": "label.label",
+            "count": 10,
+            "first": {
+              "rect": {
+                "w": 296,
+                "h": 27
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "First name*"
+          },
+          "input": {
+            "sel": ".input-wrapper input",
+            "count": 9,
+            "first": {
+              "rect": {
+                "w": 296,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "11px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": ""
+          },
+          "textarea": {
+            "sel": "textarea",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 105
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "11px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/22.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": ""
+          },
+          "toggle": {
+            "sel": ".dropdown-toggle",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 296,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(170, 0, 32)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "8px 48px 8px 16px",
+              "font": "daxlinewebpro 18px/30px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Mr."
+          },
+          "native": {
+            "sel": ".select-wrapper select",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "8px 16px 8px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Please select your country AfghanistanAlbaniaAlgeriaAmer Sam"
+          },
+          "radio": {
+            "sel": "label.radio",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 528,
+                "h": 72
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "12px 0px 0px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "I hereby declare that I consent to the use of my personal da"
+          },
+          "checkbox": {
+            "sel": "label.checkbox",
+            "count": 0
+          },
+          "required": {
+            "sel": ".form-required-info",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 312,
+                "h": 35
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "*Mandatory field"
+          },
+          "submit": {
+            "sel": ".form-section__footer button",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 89,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(170, 0, 32)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "8px 16px 8px 16px",
+              "font": "daxlinewebpro 18px/30px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Submit"
+          },
+          "row50": {
+            "sel": ".form-row-50",
+            "count": 5,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 83
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 0px 8px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Title * Ms. Mr. Other No information Mr.Ms.Mr.OtherNo inform"
+          },
+          "row100": {
+            "sel": ".form-row-100",
+            "count": 9,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 62
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 0px 8px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Enter your contact details—we will get in touch with you sho"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Forms/Automation-Campaign/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "form",
+          "msg": "rect{h 1232 → 1120}"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "h5",
+          "msg": "\".form-item h5\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "label",
+          "msg": "rect{w 608 → 296}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "toggle",
+          "msg": "2 → 1 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "toggle",
+          "msg": "rect{w 326 → 296}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "submit",
+          "msg": "rect{w 73 → 89}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "row100",
+          "msg": "12 → 8 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "row100",
+          "msg": "rect{h 56 → 83}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "form": {
+            "sel": "form.form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 1120
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Your request about automation Title * Ms. Mr. Other No infor"
+          },
+          "header": {
+            "sel": ".form-section__header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 69
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "16px 16px 16px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Your request about automation"
+          },
+          "h5": {
+            "sel": ".form-item h5",
+            "count": 0
+          },
+          "label": {
+            "sel": "label.label",
+            "count": 10,
+            "first": {
+              "rect": {
+                "w": 296,
+                "h": 27
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "First name*"
+          },
+          "input": {
+            "sel": ".input-wrapper input",
+            "count": 9,
+            "first": {
+              "rect": {
+                "w": 296,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "11px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": ""
+          },
+          "textarea": {
+            "sel": "textarea",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 105
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "11px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/22.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": ""
+          },
+          "toggle": {
+            "sel": ".dropdown-toggle",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 296,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(170, 0, 32)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "8px 48px 8px 16px",
+              "font": "daxlinewebpro 18px/30px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Mr."
+          },
+          "native": {
+            "sel": ".select-wrapper select",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "8px 16px 8px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Please select your country AfghanistanAlbaniaAlgeriaAmer Sam"
+          },
+          "radio": {
+            "sel": "label.radio",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 528,
+                "h": 72
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "12px 0px 0px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "I hereby declare that I consent to the use of my personal da"
+          },
+          "checkbox": {
+            "sel": "label.checkbox",
+            "count": 0
+          },
+          "required": {
+            "sel": ".form-required-info",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 312,
+                "h": 35
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "*Mandatory field"
+          },
+          "submit": {
+            "sel": ".form-section__footer button",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 89,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(170, 0, 32)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "8px 16px 8px 16px",
+              "font": "daxlinewebpro 18px/30px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Submit"
+          },
+          "row50": {
+            "sel": ".form-row-50",
+            "count": 5,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 83
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 0px 8px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Title * Ms. Mr. Other No information Mr.Ms.Mr.OtherNo inform"
+          },
+          "row100": {
+            "sel": ".form-row-100",
+            "count": 8,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 83
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 0px 8px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Company*"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Forms/Ex-Proof_Form/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "form",
+          "msg": "rect{h 1232 → 1184}; heading h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34) → null"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "header",
+          "msg": "\".form-section__header\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "h5",
+          "msg": "1 → 2 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h5",
+          "msg": "rect{w 266 → 608, h 27 → 54}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "label",
+          "msg": "10 → 8 matches"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "input",
+          "msg": "9 → 7 matches"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "toggle",
+          "msg": "2 → 1 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "toggle",
+          "msg": "rect{w 326 → 296}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "radio",
+          "msg": "1 → 3 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "radio",
+          "msg": "rect{w 528 → 34, h 72 → 48}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "submit",
+          "msg": "rect{w 73 → 89}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "row100",
+          "msg": "12 → 11 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "row100",
+          "msg": "rect{h 56 → 142}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "form": {
+            "sel": "form.form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 1184
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Do you know the ATEX zone of the potentially explosive area "
+          },
+          "header": {
+            "sel": ".form-section__header",
+            "count": 0
+          },
+          "h5": {
+            "sel": ".form-item h5",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 54
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Do you know the ATEX zone of the potentially explosive area "
+          },
+          "label": {
+            "sel": "label.label",
+            "count": 8,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 27
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Your comment"
+          },
+          "input": {
+            "sel": ".input-wrapper input",
+            "count": 7,
+            "first": {
+              "rect": {
+                "w": 296,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "11px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": ""
+          },
+          "textarea": {
+            "sel": "textarea",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 105
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "11px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/22.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": ""
+          },
+          "toggle": {
+            "sel": ".dropdown-toggle",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 296,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(170, 0, 32)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "8px 48px 8px 16px",
+              "font": "daxlinewebpro 18px/30px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Mr."
+          },
+          "native": {
+            "sel": ".select-wrapper select",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "8px 16px 8px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Select AfghanistanAlbaniaAlgeriaAmer SamoaAndorraAngolaAngui"
+          },
+          "radio": {
+            "sel": "label.radio",
+            "count": 3,
+            "first": {
+              "rect": {
+                "w": 34,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "12px 0px 0px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Yes"
+          },
+          "checkbox": {
+            "sel": "label.checkbox",
+            "count": 0
+          },
+          "required": {
+            "sel": ".form-required-info",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 312,
+                "h": 35
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "*Mandatory field"
+          },
+          "submit": {
+            "sel": ".form-section__footer button",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 89,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(170, 0, 32)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "8px 16px 8px 16px",
+              "font": "daxlinewebpro 18px/30px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Submit"
+          },
+          "row50": {
+            "sel": ".form-row-50",
+            "count": 5,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 83
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 0px 8px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Anrede * Ms. Mr. Other No information Mr.Ms.Mr.OtherNo infor"
+          },
+          "row100": {
+            "sel": ".form-row-100",
+            "count": 11,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 142
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 0px 8px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Do you know the ATEX zone of the potentially explosive area "
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Forms-GC/Li-ION-Recycling/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "form",
+          "msg": "rect{h 1232 → 859}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "header",
+          "msg": "rect{h 69 → 142}"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "h5",
+          "msg": "\".form-item h5\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "label",
+          "msg": "10 → 7 matches"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "input",
+          "msg": "9 → 6 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "input",
+          "msg": "rect{w 296 → 608}"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "textarea",
+          "msg": "\"textarea\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "toggle",
+          "msg": "2 → 1 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "toggle",
+          "msg": "rect{w 326 → 608}"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "native",
+          "msg": "\".select-wrapper select\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "radio",
+          "msg": "1 → 3 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "radio",
+          "msg": "rect{w 528 → 123, h 72 → 48}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "row50",
+          "msg": "5 → 3 matches"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "row100",
+          "msg": "12 → 8 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "row100",
+          "msg": "rect{h 56 → 83}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "form": {
+            "sel": "form.form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 859
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "We require the following data from you to ensure that the ba"
+          },
+          "header": {
+            "sel": ".form-section__header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 142
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "16px 16px 16px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "We require the following data from you to ensure that the ba"
+          },
+          "h5": {
+            "sel": ".form-item h5",
+            "count": 0
+          },
+          "label": {
+            "sel": "label.label",
+            "count": 7,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 27
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Condition of battery**"
+          },
+          "input": {
+            "sel": ".input-wrapper input",
+            "count": 6,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "11px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": ""
+          },
+          "textarea": {
+            "sel": "textarea",
+            "count": 0
+          },
+          "toggle": {
+            "sel": ".dropdown-toggle",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(170, 0, 32)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "8px 48px 8px 16px",
+              "font": "daxlinewebpro 18px/30px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Select*"
+          },
+          "native": {
+            "sel": ".select-wrapper select",
+            "count": 0
+          },
+          "radio": {
+            "sel": "label.radio",
+            "count": 3,
+            "first": {
+              "rect": {
+                "w": 123,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "12px 0px 0px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Fully functional"
+          },
+          "checkbox": {
+            "sel": "label.checkbox",
+            "count": 0
+          },
+          "required": {
+            "sel": ".form-required-info",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 312,
+                "h": 35
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "*Mandatory field"
+          },
+          "submit": {
+            "sel": ".form-section__footer button",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 71,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(170, 0, 32)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "8px 16px 8px 16px",
+              "font": "daxlinewebpro 18px/30px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Next"
+          },
+          "row50": {
+            "sel": ".form-row-50",
+            "count": 3,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 83
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 0px 8px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Battery voltage in volts (V)** Capacity (Ah)**"
+          },
+          "row100": {
+            "sel": ".form-row-100",
+            "count": 8,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 83
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 0px 8px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Number of batteries* * 1 2 3 Select*123"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Forms-GC/Next-Champ-Form/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "form",
+          "msg": "rect{h 1232 → 1163}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h5",
+          "msg": "rect{w 266 → 296}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "toggle",
+          "msg": "2 → 1 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "toggle",
+          "msg": "rect{w 326 → 296}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "submit",
+          "msg": "rect{w 73 → 89}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "row50",
+          "msg": "5 → 6 matches"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "row100",
+          "msg": "12 → 8 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "row100",
+          "msg": "rect{h 56 → 140}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "form": {
+            "sel": "form.form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 1163
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Get to know our Next Champ! Please specify your request. Tit"
+          },
+          "header": {
+            "sel": ".form-section__header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 69
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "16px 16px 16px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Get to know our Next Champ!"
+          },
+          "h5": {
+            "sel": ".form-item h5",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 296,
+                "h": 27
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "*Required"
+          },
+          "label": {
+            "sel": "label.label",
+            "count": 10,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 27
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Please specify your request."
+          },
+          "input": {
+            "sel": ".input-wrapper input",
+            "count": 9,
+            "first": {
+              "rect": {
+                "w": 296,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "11px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": ""
+          },
+          "textarea": {
+            "sel": "textarea",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 105
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "11px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/22.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": ""
+          },
+          "toggle": {
+            "sel": ".dropdown-toggle",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 296,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(170, 0, 32)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "8px 48px 8px 16px",
+              "font": "daxlinewebpro 18px/30px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Mr."
+          },
+          "native": {
+            "sel": ".select-wrapper select",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "8px 16px 8px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Please select your country AfghanistanAlbaniaAlgeriaAmer Sam"
+          },
+          "radio": {
+            "sel": "label.radio",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 528,
+                "h": 72
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "12px 0px 0px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "I hereby declare that I consent to the use of my personal da"
+          },
+          "checkbox": {
+            "sel": "label.checkbox",
+            "count": 0
+          },
+          "required": {
+            "sel": ".form-required-info",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 312,
+                "h": 35
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "*Mandatory field"
+          },
+          "submit": {
+            "sel": ".form-section__footer button",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 89,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(170, 0, 32)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "8px 16px 8px 16px",
+              "font": "daxlinewebpro 18px/30px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Submit"
+          },
+          "row50": {
+            "sel": ".form-row-50",
+            "count": 6,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 83
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 0px 8px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Title * Ms. Mr. Other No information Mr.Ms.Mr.OtherNo inform"
+          },
+          "row100": {
+            "sel": ".form-row-100",
+            "count": 8,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 140
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 0px 8px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Please specify your request."
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Forms/GSE-Expo/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "form",
+          "msg": "rect{h 1232 → 945}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "h5",
+          "msg": "1 → 3 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h5",
+          "msg": "rect{w 266 → 608}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "label",
+          "msg": "10 → 8 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "label",
+          "msg": "rect{w 608 → 592, h 27 → 0}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "input",
+          "msg": "9 → 6 matches"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "textarea",
+          "msg": "\"textarea\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "toggle",
+          "msg": "\".dropdown-toggle\" matches 2 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "native",
+          "msg": "\".select-wrapper select\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "EXTRA",
+          "probe": "checkbox",
+          "msg": "\"label.checkbox\" matches 0 on the archetype, 4 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "row50",
+          "msg": "5 → 4 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "row100",
+          "msg": "rect{h 56 → 0}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "form": {
+            "sel": "form.form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 945
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Your visit to GSE Expo I would like to request a free ticket"
+          },
+          "header": {
+            "sel": ".form-section__header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 69
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "16px 16px 16px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Your visit to GSE Expo"
+          },
+          "h5": {
+            "sel": ".form-item h5",
+            "count": 3,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 27
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "I would like to request a free ticket to the trade show"
+          },
+          "label": {
+            "sel": "label.label",
+            "count": 8,
+            "first": {
+              "rect": {
+                "w": 592,
+                "h": 0
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": ""
+          },
+          "input": {
+            "sel": ".input-wrapper input",
+            "count": 6,
+            "first": {
+              "rect": {
+                "w": 296,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "11px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": ""
+          },
+          "textarea": {
+            "sel": "textarea",
+            "count": 0
+          },
+          "toggle": {
+            "sel": ".dropdown-toggle",
+            "count": 0
+          },
+          "native": {
+            "sel": ".select-wrapper select",
+            "count": 0
+          },
+          "radio": {
+            "sel": "label.radio",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 528,
+                "h": 72
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "12px 0px 0px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "I hereby declare that I consent to the use of my personal da"
+          },
+          "checkbox": {
+            "sel": "label.checkbox",
+            "count": 4,
+            "first": {
+              "rect": {
+                "w": 496,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "12px 0px 0px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Yes"
+          },
+          "required": {
+            "sel": ".form-required-info",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 312,
+                "h": 35
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "*Mandatory field"
+          },
+          "submit": {
+            "sel": ".form-section__footer button",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 73,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(170, 0, 32)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "8px 16px 8px 16px",
+              "font": "daxlinewebpro 18px/30px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Send"
+          },
+          "row50": {
+            "sel": ".form-row-50",
+            "count": 4,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 83
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 0px 8px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "First Name* Last Name*"
+          },
+          "row100": {
+            "sel": ".form-row-100",
+            "count": 12,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 0
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 0px 8px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": ""
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Forms/Rent-A-Truck/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "form",
+          "msg": "rect{h 1232 → 1217}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "h5",
+          "msg": "rect{w 266 → 608}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "toggle",
+          "msg": "2 → 1 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "toggle",
+          "msg": "rect{w 326 → 296}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "submit",
+          "msg": "rect{w 73 → 89}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "row50",
+          "msg": "5 → 4 matches"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "row100",
+          "msg": "12 → 11 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "row100",
+          "msg": "rect{h 56 → 140}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "form": {
+            "sel": "form.form-section",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 1217
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Your rental enquiry Do you have further remarks? Your Contac"
+          },
+          "header": {
+            "sel": ".form-section__header",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 69
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "16px 16px 16px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Your rental enquiry"
+          },
+          "h5": {
+            "sel": ".form-item h5",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 27
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Your Contact Details"
+          },
+          "label": {
+            "sel": "label.label",
+            "count": 10,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 27
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Do you have further remarks?"
+          },
+          "input": {
+            "sel": ".input-wrapper input",
+            "count": 9,
+            "first": {
+              "rect": {
+                "w": 296,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "11px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": ""
+          },
+          "textarea": {
+            "sel": "textarea",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 105
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(255, 255, 255)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "11px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/22.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": ""
+          },
+          "toggle": {
+            "sel": ".dropdown-toggle",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 296,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(170, 0, 32)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "8px 48px 8px 16px",
+              "font": "daxlinewebpro 18px/30px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Mr."
+          },
+          "native": {
+            "sel": ".select-wrapper select",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 608,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "8px 16px 8px 16px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Select AfghanistanAlbaniaAlgeriaAmer SamoaAndorraAngolaAngui"
+          },
+          "radio": {
+            "sel": "label.radio",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 528,
+                "h": 72
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "12px 0px 0px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "I hereby declare that I consent to the use of my personal da"
+          },
+          "checkbox": {
+            "sel": "label.checkbox",
+            "count": 0
+          },
+          "required": {
+            "sel": ".form-required-info",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 312,
+                "h": 35
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 8px 8px",
+              "font": "daxlinewebpro 15px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "*Mandatory field"
+          },
+          "submit": {
+            "sel": ".form-section__footer button",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 89,
+                "h": 48
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(170, 0, 32)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "8px 16px 8px 16px",
+              "font": "daxlinewebpro 18px/30px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Submit"
+          },
+          "row50": {
+            "sel": ".form-row-50",
+            "count": 4,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 83
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 0px 8px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Title * Mr. Mrs. Other No information Mr.Mr.Mrs.OtherNo info"
+          },
+          "row100": {
+            "sel": ".form-row-100",
+            "count": 11,
+            "first": {
+              "rect": {
+                "w": 640,
+                "h": 140
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 8px 0px 8px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Do you have further remarks?"
+          }
+        }
+      }
+    }
+  ],
+  "summary": {
+    "siblings": 7,
+    "varying": 7,
+    "probesVarying": [
+      "form",
+      "h5",
+      "label",
+      "toggle",
+      "submit",
+      "row100",
+      "header",
+      "input",
+      "radio",
+      "textarea",
+      "native",
+      "row50",
+      "checkbox"
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "/en/technical/news-detail-101442": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:19:17.665Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/technical/news-detail-101760": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:55:24.403Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/technical/news-detail-1033728": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:19:23.165Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/technical/news-detail-105280": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:19:23.170Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/technical/news-detail-108480": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:19:28.194Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/technical/news-detail-112000": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:55:24.403Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/technical/news-detail-114368": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:55:30.064Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/technical/news-detail-116352": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:55:30.453Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/technical/news-detail-118656": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T21:34:59.292Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/technical/news-detail-119232": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:19:37.551Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/technical/news-detail-1254145": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:55:34.694Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/technical/news-detail-1310802": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:19:41.934Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/technical/news-detail-132012": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T21:34:59.292Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/technical/news-detail-1436407": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:55:39.766Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/technical/news-detail-1445120": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:19:50.691Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/technical/news-detail-1710976": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:19:50.817Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/technical/news-detail-18902": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:55:39.824Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

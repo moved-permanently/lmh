@@ -1,0 +1,77 @@
+{
+  "_provenance": { "writtenBy": "stardust:dynamics", "writtenAt": "2026-10-07T07:10:00Z", "origin": "https://main--96d6da00--aemcoder.aem.live" },
+  "method": "Replica run over the 99 selected /en/ pages: every host-bound or vendor-bound feature ships its captured settled state as a static snapshot (finders, counters, listings), the request form is rebuilt natively with submission disabled, consent manager / tags / Maps key are owner decisions and load nothing on the new host; checks replay flows that exist on the interim tier and prove that no vendor or source-origin request leaks.",
+  "features": [
+    { "id": "consent-ccm19", "feature": "CCM19 consent manager", "class": "T/M", "pages": 99,
+      "disposition": "embed-passthrough", "reproducibility": "needs-business-decision",
+      "status": "scaffolded-awaiting-owner",
+      "owner": "Configure a CCM19 property for the new host (which modal, which services); the footer Settings link then opens it.",
+      "checks": [
+        { "type": "consent-gate", "path": "/en", "forbiddenHosts": ["epcloud.ccm19.de", "epcdn.ccm19.de"] },
+        { "type": "dom-count", "path": "/en", "selector": "footer a[href*='#'], footer a[href*='ccm'], footer .footer a", "min": 1 }
+      ] },
+    { "id": "tags-analytics", "feature": "Tag manager and analytics (GTM, GA/Ads, etracker, session replay, LinkedIn, Bing)", "class": "T", "pages": 99,
+      "disposition": "embed-passthrough", "reproducibility": "needs-business-decision",
+      "status": "scaffolded-awaiting-owner",
+      "owner": "Decide which tags run on the new host; property ids remain the owner's. Until then no tag loads.",
+      "checks": [
+        { "type": "consent-gate", "path": "/en", "forbiddenHosts": ["www.googletagmanager.com", "www.google-analytics.com", "googleads.g.doubleclick.net", "code.etracker.com", "static.etracker.com", "www.etracker.com", "snap.licdn.com", "px.ads.linkedin.com", "bat.bing.com"] },
+        { "type": "no-page-errors", "paths": ["/en", "/en/forms/global-contact-form", "/en/productfinder", "/en/technical/location-finder", "/en/about-us/company", "/en/about-us/press", "/en/products/e-trucks"] }
+      ] },
+    { "id": "settings-datalayer", "feature": "dataLayer settings object", "class": "A", "pages": 99,
+      "disposition": "static-snapshot", "reproducibility": "self", "status": "done",
+      "verifiedBy": "read only at detect time: keys named the endpoints and vendors; nothing shipped", "checks": [] },
+    { "id": "contact-form-mwf", "feature": "Request / contact form (per-page field sets) posting to /mwf_live/servlet/rest", "class": "F/A", "pages": 8,
+      "disposition": "rebuild-native (UI) + data-fed (submission)", "reproducibility": "needs-backend",
+      "status": "scaffolded-awaiting-owner",
+      "owner": "Route /mwf_live/servlet/rest same-origin on production or name the production endpoint; until then submission is disabled and the authored notice is shown.",
+      "checks": [
+        { "type": "dom-count", "path": "/en/forms/global-contact-form", "selector": ".mwf-form form input, .mwf-form form select, .mwf-form form textarea", "min": 12 },
+        { "type": "dom-count", "path": "/en/forms/global-contact-form", "selector": ".mwf-form form button[type='submit']", "min": 1 },
+        { "type": "dom-count", "path": "/en/forms/agility-on-point-form", "selector": ".mwf-form form input, .mwf-form form select, .mwf-form form textarea", "min": 10 },
+        { "type": "consent-gate", "path": "/en/forms/global-contact-form", "forbiddenHosts": ["www.linde-mh.com"] }
+      ] },
+    { "id": "custom-select", "feature": "Custom select / listbox on form pages", "class": "M", "pages": 12,
+      "disposition": "rebuild-native", "reproducibility": "self", "status": "done",
+      "verifiedBy": "native <select class=mwf-select> per dropdown with the captured closed-state toggle; option texts mirrored from the authored list",
+      "checks": [ { "type": "dom-count", "path": "/en/forms/global-contact-form", "selector": ".mwf-form select.mwf-select", "min": 1 } ] },
+    { "id": "global-search", "feature": "Header search form", "class": "F/S", "pages": 99,
+      "disposition": "static-snapshot", "reproducibility": "needs-business-decision", "status": "decided-out",
+      "owner": "Add the search results page to scope; then index-backed search over /query-index.json.", "checks": [] },
+    { "id": "product-finder", "feature": "Product finder (filters + results via /lmhnewproductsearch_cloud/execute)", "class": "S/F", "pages": 2,
+      "disposition": "static-snapshot (interim) → data-fed", "reproducibility": "needs-business-decision",
+      "status": "interim",
+      "owner": "Same-origin routing of the product-search API on production, or approval to snapshot the catalogue under data/product-finder/.",
+      "checks": [
+        { "type": "dom-count", "path": "/en/productfinder", "selector": ".product-finder h3 a", "min": 4 },
+        { "type": "dom-count", "path": "/en/productfinder", "selector": ".product-finder .pf-checkbox", "min": 5 },
+        { "type": "dom-count", "path": "/en/products/productfinder", "selector": ".product-finder h3 a", "min": 4 },
+        { "type": "consent-gate", "path": "/en/productfinder", "forbiddenHosts": ["www.linde-mh.com"] }
+      ] },
+    { "id": "location-finder-data", "feature": "Location finder dealer data (Dealer-Finder-App-Data.json)", "class": "D", "pages": 1,
+      "disposition": "static-snapshot (interim) → data-fed", "reproducibility": "self",
+      "status": "interim",
+      "owner": "Approve a dealer-data snapshot under data/location-finder/ (or same-origin routing of the source JSON) to make the finder searchable.",
+      "checks": [
+        { "type": "dom-count", "path": "/en/technical/location-finder", "selector": ".location-finder .lf-field select", "min": 1 },
+        { "type": "dom-count", "path": "/en/technical/location-finder", "selector": ".location-finder .dealer-card-title", "min": 2 }
+      ] },
+    { "id": "location-finder-map", "feature": "Embedded Google Map on the location finder", "class": "V", "pages": 1,
+      "disposition": "embed-passthrough", "reproducibility": "needs-credential",
+      "status": "scaffolded-awaiting-owner",
+      "owner": "Add the new host to the Maps browser key's referrer allow-list; the map box is static until then.",
+      "checks": [ { "type": "consent-gate", "path": "/en/technical/location-finder", "forbiddenHosts": ["maps.googleapis.com", "maps.gstatic.com", "mapsresources-pa.googleapis.com"] } ] },
+    { "id": "locale-trees", "feature": "Locale alternates and language switcher", "class": "I18N", "pages": 99,
+      "disposition": "decided-out", "reproducibility": "needs-business-decision", "status": "decided-out",
+      "owner": "Locale scope for later waves; alternates keep pointing at the source origin.", "checks": [] },
+    { "id": "compare-list", "feature": "Product-finder compare / watch list", "class": "X", "pages": 2,
+      "disposition": "decided-out", "reproducibility": "needs-backend", "status": "decided-out", "checks": [] },
+    { "id": "fact-counter", "feature": "Scroll-triggered count-up counters (settled values rendered static)", "class": "CR", "pages": 2,
+      "disposition": "static-snapshot (settled DOM)", "reproducibility": "self", "status": "done",
+      "verifiedBy": "Company: 13,000 · 700 · 100 · 8,500; In-Sync: 698 · 7,380 · 1,396 · 70 — settled values in the delivered documents",
+      "checks": [
+        { "type": "dom-count", "path": "/en/about-us/company", "selector": "main strong, main h2, main h3, main p", "min": 4 },
+        { "type": "dom-count", "path": "/en/landingpage/in-sync", "selector": "main strong, main h2, main h3, main p", "min": 4 }
+      ] }
+  ]
+}

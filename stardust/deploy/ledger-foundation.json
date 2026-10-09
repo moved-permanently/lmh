@@ -1,0 +1,29 @@
+{
+  "/en/legal-notes/privacy-statement": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T16:40:04.933Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/footer": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T16:40:04.933Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/nav": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T16:40:10.436Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

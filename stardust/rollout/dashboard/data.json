@@ -1,0 +1,958 @@
+{
+  "generatedAt": "2026-10-09T07:34:18.058Z",
+  "target": "aem-eds",
+  "site": {
+    "sourceUrl": "https://www.linde-mh.com/en/",
+    "liveHost": "main--96d6da00--aemcoder.aem.live"
+  },
+  "stageCount": {
+    "identified": 99,
+    "prototyped": 98,
+    "deployed": 98,
+    "optimised": 0
+  },
+  "stageExclusive": {
+    "identified": 1,
+    "prototyped": 0,
+    "deployed": 98,
+    "optimised": 0
+  },
+  "pages": [
+    {
+      "slug": "en",
+      "path": "/en",
+      "stage": "deployed",
+      "templateId": "en",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us",
+      "path": "/en/about-us",
+      "stage": "deployed",
+      "templateId": "en-about-us-press",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-awards",
+      "path": "/en/about-us/awards",
+      "stage": "deployed",
+      "templateId": "en-products-e-trucks",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-certificates",
+      "path": "/en/about-us/certificates",
+      "stage": "deployed",
+      "templateId": "en-products-e-trucks",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-company",
+      "path": "/en/about-us/company",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-events",
+      "path": "/en/about-us/events",
+      "stage": "deployed",
+      "templateId": "en-about-us-press",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-innovations-from-linde",
+      "path": "/en/about-us/innovations-from-linde",
+      "stage": "deployed",
+      "templateId": "en-about-us-press",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-magazine",
+      "path": "/en/about-us/magazine",
+      "stage": "deployed",
+      "templateId": "en-about-us-press",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-media",
+      "path": "/en/about-us/media",
+      "stage": "deployed",
+      "templateId": "en-about-us-press",
+      "isTemplate": false,
+      "openFindings": 3
+    },
+    {
+      "slug": "en-about-us-press",
+      "path": "/en/about-us/press",
+      "stage": "deployed",
+      "templateId": "en-about-us-press",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-sustainability",
+      "path": "/en/about-us/sustainability",
+      "stage": "deployed",
+      "templateId": "en-products-e-trucks",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-about-us-working-at-linde",
+      "path": "/en/about-us/working-at-linde",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-edi",
+      "path": "/en/edi",
+      "stage": "deployed",
+      "templateId": "en-legal-notes-privacy-statement",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-forms-gc-li-ion-recycling",
+      "path": "/en/forms-gc/li-ion-recycling",
+      "stage": "deployed",
+      "templateId": "en-forms-global-contact-form",
+      "isTemplate": false,
+      "openFindings": 4
+    },
+    {
+      "slug": "en-forms-gc-next-champ-form",
+      "path": "/en/forms-gc/next-champ-form",
+      "stage": "deployed",
+      "templateId": "en-forms-global-contact-form",
+      "isTemplate": false,
+      "openFindings": 4
+    },
+    {
+      "slug": "en-forms-agility-on-point-form",
+      "path": "/en/forms/agility-on-point-form",
+      "stage": "deployed",
+      "templateId": "en-forms-global-contact-form",
+      "isTemplate": false,
+      "openFindings": 4
+    },
+    {
+      "slug": "en-forms-automation-campaign",
+      "path": "/en/forms/automation-campaign",
+      "stage": "deployed",
+      "templateId": "en-forms-global-contact-form",
+      "isTemplate": false,
+      "openFindings": 4
+    },
+    {
+      "slug": "en-forms-ex-proof-form",
+      "path": "/en/forms/ex-proof-form",
+      "stage": "deployed",
+      "templateId": "en-forms-global-contact-form",
+      "isTemplate": false,
+      "openFindings": 4
+    },
+    {
+      "slug": "en-forms-global-contact-form",
+      "path": "/en/forms/global-contact-form",
+      "stage": "deployed",
+      "templateId": "en-forms-global-contact-form",
+      "isTemplate": true,
+      "openFindings": 4
+    },
+    {
+      "slug": "en-forms-gse-expo",
+      "path": "/en/forms/gse-expo",
+      "stage": "deployed",
+      "templateId": "en-forms-global-contact-form",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-forms-rent-a-truck",
+      "path": "/en/forms/rent-a-truck",
+      "stage": "deployed",
+      "templateId": "en-forms-global-contact-form",
+      "isTemplate": false,
+      "openFindings": 4
+    },
+    {
+      "slug": "en-landingpage-agility-on-point",
+      "path": "/en/landingpage/agility-on-point",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-landingpage-automation-summit-2025",
+      "path": "/en/landingpage/automation-summit-2025",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-landingpage-compact-class-with-electric-drive",
+      "path": "/en/landingpage/compact-class-with-electric-drive",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-landingpage-e-models",
+      "path": "/en/landingpage/e-models",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-landingpage-glasses",
+      "path": "/en/landingpage/glasses",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-landingpage-gse-expo",
+      "path": "/en/landingpage/gse-expo",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-landingpage-h-models",
+      "path": "/en/landingpage/h-models",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-landingpage-happy-driver",
+      "path": "/en/landingpage/happy-driver",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-landingpage-in-sync",
+      "path": "/en/landingpage/in-sync",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-landingpage-logimat",
+      "path": "/en/landingpage/logimat",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-landingpage-next-champ",
+      "path": "/en/landingpage/next-champ",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-landingpage-platform-counterbalanced-trucks",
+      "path": "/en/landingpage/platform-counterbalanced-trucks",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-landingpage-r-matic",
+      "path": "/en/landingpage/r-matic",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-landingpage-safely-to-the-top",
+      "path": "/en/landingpage/safely-to-the-top",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-landingpage-semi-automated-order-pickers",
+      "path": "/en/landingpage/semi-automated-order-pickers",
+      "stage": "deployed",
+      "templateId": "en-legal-notes-privacy-statement",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-landingpage-x-models",
+      "path": "/en/landingpage/x-models",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-landingpage-x-range",
+      "path": "/en/landingpage/x-range",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-legal-notes-cookie-policy",
+      "path": "/en/legal-notes/cookie-policy",
+      "stage": "deployed",
+      "templateId": "en-legal-notes-privacy-statement",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-legal-notes-legal",
+      "path": "/en/legal-notes/legal",
+      "stage": "deployed",
+      "templateId": "en-legal-notes-privacy-statement",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-legal-notes-ppap",
+      "path": "/en/legal-notes/ppap",
+      "stage": "deployed",
+      "templateId": "en-legal-notes-privacy-statement",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-legal-notes-privacy-statement",
+      "path": "/en/legal-notes/privacy-statement",
+      "stage": "deployed",
+      "templateId": "en-legal-notes-privacy-statement",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-legal-notes-terms-of-use",
+      "path": "/en/legal-notes/terms-of-use",
+      "stage": "deployed",
+      "templateId": "en-legal-notes-privacy-statement",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-linde-core-linde-ergonomics-html",
+      "path": "/en/linde-core/linde-ergonomics",
+      "stage": "deployed",
+      "templateId": "en-products-e-trucks",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-linde-core-linde-productivity-html",
+      "path": "/en/linde-core/linde-productivity",
+      "stage": "deployed",
+      "templateId": "en-products-e-trucks",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-productfinder-html",
+      "path": "/en/productfinder",
+      "stage": "deployed",
+      "templateId": "en-productfinder-html",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products",
+      "path": "/en/products",
+      "stage": "deployed",
+      "templateId": "en-about-us-press",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-products-approved-trucks",
+      "path": "/en/products/approved-trucks",
+      "stage": "deployed",
+      "templateId": "en-products-e-trucks",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products-automated-trucks",
+      "path": "/en/products/automated-trucks",
+      "stage": "deployed",
+      "templateId": "en-about-us-press",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products-diesel-forklifts-d344",
+      "path": "/en/products/diesel-forklifts",
+      "stage": "deployed",
+      "templateId": "en-products-e-trucks",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products-diesel-forklifts",
+      "path": "/en/Products/Diesel-forklifts",
+      "stage": "identified",
+      "templateId": "program",
+      "isTemplate": false,
+      "openFindings": 0
+    },
+    {
+      "slug": "en-products-e-trucks",
+      "path": "/en/products/e-trucks",
+      "stage": "deployed",
+      "templateId": "en-products-e-trucks",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products-explosion-proof-trucks",
+      "path": "/en/products/explosion-proof-trucks",
+      "stage": "deployed",
+      "templateId": "en-products-e-trucks",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products-forklift-hire",
+      "path": "/en/products/forklift-hire",
+      "stage": "deployed",
+      "templateId": "en-products-e-trucks",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products-forklift-truck",
+      "path": "/en/products/forklift-truck",
+      "stage": "deployed",
+      "templateId": "en-products-e-trucks",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products-gas-forklifts",
+      "path": "/en/products/gas-forklifts",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products-hand-pallet-trucks",
+      "path": "/en/products/hand-pallet-trucks",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products-heavy-duty-forklifts",
+      "path": "/en/products/heavy-duty-forklifts",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products-ic-trucks",
+      "path": "/en/products/ic-trucks",
+      "stage": "deployed",
+      "templateId": "en-products-e-trucks",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products-order-pickers",
+      "path": "/en/products/order-pickers",
+      "stage": "deployed",
+      "templateId": "en-products-e-trucks",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products-pallet-stackers",
+      "path": "/en/products/pallet-stackers",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products-pallet-trucks",
+      "path": "/en/products/pallet-trucks",
+      "stage": "deployed",
+      "templateId": "en-products-e-trucks",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products-productfinder",
+      "path": "/en/products/productfinder",
+      "stage": "deployed",
+      "templateId": "unique",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products-reach-trucks",
+      "path": "/en/products/reach-trucks",
+      "stage": "deployed",
+      "templateId": "en-products-e-trucks",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products-tow-trucks",
+      "path": "/en/products/tow-trucks",
+      "stage": "deployed",
+      "templateId": "en-products-e-trucks",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products-tugger-trains",
+      "path": "/en/products/tugger-trains",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-products-very-narrow-aisle-trucks",
+      "path": "/en/products/very-narrow-aisle-trucks",
+      "stage": "deployed",
+      "templateId": "en-products-e-trucks",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-service",
+      "path": "/en/service",
+      "stage": "deployed",
+      "templateId": "en-about-us-press",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-service-genuine-spare-parts",
+      "path": "/en/service/genuine-spare-parts",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-service-maintenance-repair",
+      "path": "/en/service/maintenance-repair",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-service-retrofit-accessories",
+      "path": "/en/service/retrofit-accessories",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-service-technical-safety-services",
+      "path": "/en/service/technical-safety-services",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-service-training",
+      "path": "/en/service/training",
+      "stage": "deployed",
+      "templateId": "en-products-e-trucks",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-solutions-consulting",
+      "path": "/en/solutions/consulting",
+      "stage": "deployed",
+      "templateId": "en-about-us-press",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-solutions-energy-systems",
+      "path": "/en/solutions/energy-systems",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-solutions-financing",
+      "path": "/en/solutions/financing",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-solutions-fleet-management",
+      "path": "/en/solutions/fleet-management",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-solutions-intralogistics-automation",
+      "path": "/en/solutions/intralogistics-automation",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-solutions-overview-html",
+      "path": "/en/solutions/overview",
+      "stage": "deployed",
+      "templateId": "en-about-us-press",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-solutions-warehouse-safety",
+      "path": "/en/solutions/warehouse-safety",
+      "stage": "deployed",
+      "templateId": "en-landingpage-e-models",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-technical-location-finder-html",
+      "path": "/en/technical/location-finder",
+      "stage": "deployed",
+      "templateId": "en-technical-location-finder-html",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-technical-news-detail-101184-html",
+      "path": "/en/technical/news-detail-101184",
+      "stage": "deployed",
+      "templateId": "en-technical-news-detail-101184-html",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-technical-news-detail-101442-html",
+      "path": "/en/technical/news-detail-101442",
+      "stage": "deployed",
+      "templateId": "en-technical-news-detail-101184-html",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-technical-news-detail-101760-html",
+      "path": "/en/technical/news-detail-101760",
+      "stage": "deployed",
+      "templateId": "en-technical-news-detail-101184-html",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-technical-news-detail-1033728-html",
+      "path": "/en/technical/news-detail-1033728",
+      "stage": "deployed",
+      "templateId": "en-technical-news-detail-101184-html",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-technical-news-detail-105280-html",
+      "path": "/en/technical/news-detail-105280",
+      "stage": "deployed",
+      "templateId": "en-technical-news-detail-101184-html",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-technical-news-detail-108480-html",
+      "path": "/en/technical/news-detail-108480",
+      "stage": "deployed",
+      "templateId": "en-technical-news-detail-101184-html",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-technical-news-detail-112000-html",
+      "path": "/en/technical/news-detail-112000",
+      "stage": "deployed",
+      "templateId": "en-technical-news-detail-101184-html",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-technical-news-detail-114368-html",
+      "path": "/en/technical/news-detail-114368",
+      "stage": "deployed",
+      "templateId": "en-technical-news-detail-101184-html",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-technical-news-detail-116352-html",
+      "path": "/en/technical/news-detail-116352",
+      "stage": "deployed",
+      "templateId": "en-technical-news-detail-101184-html",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-technical-news-detail-118656-html",
+      "path": "/en/technical/news-detail-118656",
+      "stage": "deployed",
+      "templateId": "en-technical-news-detail-101184-html",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-technical-news-detail-119232-html",
+      "path": "/en/technical/news-detail-119232",
+      "stage": "deployed",
+      "templateId": "en-technical-news-detail-101184-html",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-technical-news-detail-1254145-html",
+      "path": "/en/technical/news-detail-1254145",
+      "stage": "deployed",
+      "templateId": "en-technical-news-detail-101184-html",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-technical-news-detail-1310802-html",
+      "path": "/en/technical/news-detail-1310802",
+      "stage": "deployed",
+      "templateId": "en-technical-news-detail-101184-html",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-technical-news-detail-132012-html",
+      "path": "/en/technical/news-detail-132012",
+      "stage": "deployed",
+      "templateId": "en-technical-news-detail-101184-html",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-technical-news-detail-1436407-html",
+      "path": "/en/technical/news-detail-1436407",
+      "stage": "deployed",
+      "templateId": "en-technical-news-detail-101184-html",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-technical-news-detail-1445120-html",
+      "path": "/en/technical/news-detail-1445120",
+      "stage": "deployed",
+      "templateId": "en-technical-news-detail-101184-html",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "en-technical-news-detail-1710976-html",
+      "path": "/en/technical/news-detail-1710976",
+      "stage": "deployed",
+      "templateId": "en-technical-news-detail-101184-html",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "en-technical-news-detail-18902-html",
+      "path": "/en/technical/news-detail-18902",
+      "stage": "deployed",
+      "templateId": "en-technical-news-detail-101184-html",
+      "isTemplate": false,
+      "openFindings": 2
+    }
+  ],
+  "templates": [
+    {
+      "id": "en",
+      "archetype": "en",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "en-about-us-press",
+      "archetype": "en-about-us-press",
+      "pageCount": 11,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 11,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "en-forms-global-contact-form",
+      "archetype": "en-forms-global-contact-form",
+      "pageCount": 8,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 8,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "en-landingpage-e-models",
+      "archetype": "en-landingpage-e-models",
+      "pageCount": 32,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 32,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "en-legal-notes-privacy-statement",
+      "archetype": "en-legal-notes-privacy-statement",
+      "pageCount": 7,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 7,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "en-productfinder-html",
+      "archetype": "en-productfinder-html",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "en-products-e-trucks",
+      "archetype": "en-products-e-trucks",
+      "pageCount": 18,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 18,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "en-technical-location-finder-html",
+      "archetype": "en-technical-location-finder-html",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "en-technical-news-detail-101184-html",
+      "archetype": "en-technical-news-detail-101184-html",
+      "pageCount": 18,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 18,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "unique",
+      "archetype": "en-products-productfinder",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    }
+  ],
+  "blocks": {
+    "total": 17,
+    "converted": 17
+  },
+  "quality": {
+    "overall": 100,
+    "dimensions": {
+      "brand-tensions": null,
+      "design-ux": null,
+      "accessibility": null,
+      "seo": 100,
+      "content-conversion": null,
+      "ai-search": 100,
+      "cross-page": 100
+    },
+    "severity": {
+      "P1": 0,
+      "P2": 0,
+      "P3": 0
+    },
+    "history": [
+      67,
+      94,
+      100
+    ]
+  },
+  "findings": {
+    "byFixability": {
+      "out-of-scope": 120
+    },
+    "byAutofix": {}
+  }
+}

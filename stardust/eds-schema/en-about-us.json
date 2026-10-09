@@ -1,0 +1,259 @@
+{
+ "source": "http://localhost:8805/stardust/migrated/en/About-us/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Facts and information about Linde Material Handling"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Get to know us!"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Would you like to know more about our company, or perhaps you are interested in working for Linde? This section contains some facts and information about our company, and will give you the chance to find out what makes Linde a leading innovator and what career opportunities we offer school leavers, graduates and experienced professionals."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Head to the press area for company news as well as product and event news for journalists, where you can read interesting field reports and articles about different fields of technology and industry, and take a look at the magazine."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Company",
+     "href": "../../en/About-us/Company/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "As the world's leading manufacturer of forklift trucks and bearing technology, Linde Material Handling has set standards with regard to productivity, safety, and ergonomics for more than 70 years."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../en/About-us/Company/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Become part of the team",
+     "href": "../../en/About-us/Working-at-Linde/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Linde Material Handling offers diverse career opportunities: Join us as a professional, graduate, student or pupil. Apply here."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../en/About-us/Working-at-Linde/index.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Technology & Innovation",
+     "href": "../../en/About-us/Innovations-from-Linde/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Like the company's founders in the past, the engineers and technicians of Linde Material Handling are developing efficient intralogistics solutions with ingenuity."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../en/About-us/Innovations-from-Linde/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Sustainability at Linde Material Handling",
+     "href": "../../en/About-us/Sustainability/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Solutions from Linde Material Handling combine environmental protection with cost-effectiveness—and put sustainability into practice."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../en/About-us/Sustainability/index.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Our Certificates",
+     "href": "../../en/About-us/Certificates/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Management systems form the basis for stability and continuous improvement of processes. Linde Material Handling works according to these standards at all sites."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../en/About-us/Certificates/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Linde Magazine",
+     "href": "../../en/About-us/Magazine/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Exciting application reports and videos as well as articles about technology and different industry sectors."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../en/About-us/Magazine/index.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Press",
+     "href": "../../en/About-us/Press/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Here you find current press releases. For your orientation you can sort the releases by topics."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../en/About-us/Press/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Events",
+     "href": "../../en/About-us/Events/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Are you interested in high-performance products and innovative solutions from Linde MH? If so, why not come meet us in person? You can find all the upcoming dates here."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../en/About-us/Events/index.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

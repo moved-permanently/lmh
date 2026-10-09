@@ -1,0 +1,1773 @@
+{
+  "slug": "en-about-us-magazine",
+  "type": "listing",
+  "renderBranch": "A'",
+  "template": "en-about-us-press",
+  "modules": [
+    "breadcrumb",
+    "hero",
+    "related-teasers",
+    "teaser-carousel"
+  ],
+  "slotsFilled": [
+    "layout-passepartout",
+    "navigation-anchor-navigation-wrapper",
+    "layout-100-headline--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-50--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-50--fixed",
+    "layout-50--fixed",
+    "layout-50--fixed",
+    "layout-33--fixed",
+    "layout-100-headline--fixed",
+    "layout-100--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-100-headline--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-50--fixed",
+    "layout-100-headline--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-33--fixed",
+    "layout-100-headline--fixed",
+    "layout-teasercarousel__wrapper"
+  ],
+  "canonShas": {
+    "header": null,
+    "footer": null,
+    "css": "2af9d5c8d203"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Linde Magazine",
+    "description": null,
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Linde Magazine",
+    "url": "https://www.linde-mh.com/en/About-us/Magazine/"
+  },
+  "migratedAt": "2026-10-07T00:15:11Z",
+  "designMdSha": "c34e48b1797a",
+  "designJsonSha": "c785ce242381",
+  "sourceCurrentSha": "23550930ec04",
+  "sourceProposedSha": "ad9ce4f196a0",
+  "fidelityTier": "sibling",
+  "archetypeSource": "en-about-us-press",
+  "archetypeSha": "ca992e8a769c",
+  "variants": [
+    "teaser--card carousel-standalone"
+  ],
+  "gatesPassed": [
+    "variance-probe",
+    "content-count",
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "variance-probe": "sibling-variance.mjs 1440 over the 10 listing siblings vs archetype /en/About-us/Press/ (job rlist-variance, stardust/rollout/units/variance-listing.json): computed deltas only card/teaser rect width 280→384/592 (row family layout-33/50--fixed vs the archetype layout-25--fixed), teaser backgroundColor lightgrey→white (archetype cards sit on .layout--lightgrey) and 2–3 style clusters (teaser | teaser--card | teaser--icon-text) — all budgeted as declared variants of related-teasers/news-cards; Media filter rect 1154×141→1168×132 = no date control (content); every other line is presence/count (.header-intro/.filter-downloadarea absent, .header-image stage / .text-container band extra) = content-driven modules declared on the sidecar",
+    "content-count": "content-diff generic 1280, main #pjax-container (job rlist-cdiff2, stardust/.work/rollout/render-listing/cdiff-en-about-us-magazine.log): 185 findings, 18 structural 🔴 = MISSING ICON U+F160 video play glyph on video teaser image links (logged deviation icon-dropped), 0 text/link/heading findings",
+    "content-fidelity": "verbatim from capture; deviations: 1 (icon-dropped, video play glyph ×18)"
+  },
+  "contentDeviations": [
+    {
+      "kind": "icon-dropped",
+      "source": "LindeGlobalIconFont play glyph U+F160 (20×36) on the 237 .image-wrapper--video teaser image links",
+      "target": "empty span.image-wrapper__media-icon in the migrated HTML at the same anchors",
+      "reason": "icon-font glyphs are block-rendered at delivery (archetype convention); content-diff rlist-cdiff2: 18 MISSING ICON, 0 text/link/heading findings"
+    }
+  ],
+  "assetsBundled": 1,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-guided-vehicle/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Autonomous-mobile-robots/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Software/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-Warehouse/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Warehouse-Management-System/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Consulting/Material-Flow-Consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/User-cases-intralogistics/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Consulting/Fleet-Optimization.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/Energy-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Light-and-warning-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Assistance-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Safety-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Students-Scholars/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Apprentice/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Professionals/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=new",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-guided-vehicle/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Autonomous-mobile-robots/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Software/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-Warehouse/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Warehouse-Management-System/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Consulting/Material-Flow-Consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/User-cases-intralogistics/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Consulting/Fleet-Optimization.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/Energy-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Light-and-warning-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Assistance-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Safety-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Students-Scholars/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Apprentice/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Professionals/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Search/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Inver-GmbH/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Inver-GmbH/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Inver-GmbH/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "ABS-Safety/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "ABS-Safety/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "ABS-Safety/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Michelin-Tyre-PLC/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Michelin-Tyre-PLC/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Michelin-Tyre-PLC/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "DB-Schenker-Schweinfurt/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "DB-Schenker-Schweinfurt/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "DB-Schenker-Schweinfurt/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Arvato-connect-charger/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Arvato-connect-charger/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Arvato-connect-charger/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Heineken/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Heineken/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Heineken/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Bundeswehr/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Bundeswehr/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Bundeswehr/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Seifert-Logistics/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Seifert-Logistics/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Seifert-Logistics/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Radeberger/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Radeberger/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Radeberger/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Madi-Ventura/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Madi-Ventura/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Madi-Ventura/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "CEMEX-Admixtures/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "CEMEX-Admixtures/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "CEMEX-Admixtures/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "TST/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "TST/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "TST/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Richter-Frenzel/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Richter-Frenzel/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Richter-Frenzel/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Layher/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Layher/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Layher/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "WDI-Hamm-Linde-X50/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "WDI-Hamm-Linde-X50/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "WDI-Hamm-Linde-X50/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Liebherr/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Liebherr/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Liebherr/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Gerolsteiner/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Gerolsteiner/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Gerolsteiner/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Franz-Veit/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Franz-Veit/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Franz-Veit/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "FLN-Neuruppin/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "FLN-Neuruppin/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "FLN-Neuruppin/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Arvato/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Arvato/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Arvato/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Hachette/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Hachette/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Hachette/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Asset-VRS/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Asset-VRS/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Asset-VRS/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "EOT/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "EOT/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "EOT/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "DB-Schenker/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "DB-Schenker/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "DB-Schenker/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Schroeder/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Schroeder/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Schroeder/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Wagner-eCommerce/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Wagner-eCommerce/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Wagner-eCommerce/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "WDI-Hamm/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "WDI-Hamm/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "WDI-Hamm/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "CTL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "CTL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "CTL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Fritz-Group/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Fritz-Group/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Fritz-Group/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Smurfit-Kappa/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Smurfit-Kappa/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Smurfit-Kappa/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Smurfit-Kappa-LithoPac/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Smurfit-Kappa-LithoPac/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Smurfit-Kappa-LithoPac/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Poloplast/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Poloplast/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Poloplast/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "LINHARDT/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "LINHARDT/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "LINHARDT/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Emons/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Emons/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Emons/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "PP-Group/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "PP-Group/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "PP-Group/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Ensinger/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Ensinger/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Ensinger/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Holter/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Holter/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Holter/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Coca-Cola/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Coca-Cola/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Coca-Cola/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "ebm-papst/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "ebm-papst/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "ebm-papst/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Schneider-Electric/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Schneider-Electric/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Schneider-Electric/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Yanmar.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Yanmar.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Yanmar.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Grass.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Grass.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Grass.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Veltins.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Veltins.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Veltins.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Norrlands-trae.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Norrlands-trae.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Norrlands-trae.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Frueh-Koelsch.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Frueh-Koelsch.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Frueh-Koelsch.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Bohemia-Rings.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Bohemia-Rings.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Bohemia-Rings.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Wuellner-Carolinenbrunnen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Wuellner-Carolinenbrunnen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Wuellner-Carolinenbrunnen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Carolus_Trees.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Carolus_Trees.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Carolus_Trees.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Highest-standards-Best-prospects.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Highest-standards-Best-prospects.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Highest-standards-Best-prospects.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Remove-before-flight.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Remove-before-flight.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Remove-before-flight.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "SICSOE-Linde-Fenwick.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "SICSOE-Linde-Fenwick.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "SICSOE-Linde-Fenwick.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Fan-mile.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Fan-mile.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Fan-mile.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Agua-Mineral.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Agua-Mineral.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Agua-Mineral.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "smp-fleetmanagement.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "smp-fleetmanagement.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "smp-fleetmanagement.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Opel-Vienna.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Opel-Vienna.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Opel-Vienna.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Powerful-vehicles-for-high-performance-applications.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Powerful-vehicles-for-high-performance-applications.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Powerful-vehicles-for-high-performance-applications.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Alpine-intralogistics.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Alpine-intralogistics.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Alpine-intralogistics.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "reliable-durability-NORA-Centre.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "reliable-durability-NORA-Centre.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "reliable-durability-NORA-Centre.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "You-can-rely-on-them.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "You-can-rely-on-them.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "You-can-rely-on-them.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "The-most-natural-thing-in-the-world.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "The-most-natural-thing-in-the-world.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "The-most-natural-thing-in-the-world.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Optimization-is-a-question-of-chemistry.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Optimization-is-a-question-of-chemistry.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Optimization-is-a-question-of-chemistry.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Willimantic-Magazine.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Willimantic-Magazine.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Willimantic-Magazine.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Almost-as-fast-as-the-Formula-1.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Almost-as-fast-as-the-Formula-1.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Almost-as-fast-as-the-Formula-1.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Frischer-Wind-in-der-Logistik-von-Heidelberg.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Frischer-Wind-in-der-Logistik-von-Heidelberg.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Frischer-Wind-in-der-Logistik-von-Heidelberg.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Rental-Service-for-Formula-Student-Germany.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Rental-Service-for-Formula-Student-Germany.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Rental-Service-for-Formula-Student-Germany.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Goods-transport-with-automatic-fleet.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Goods-transport-with-automatic-fleet.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Goods-transport-with-automatic-fleet.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Order-pickers-with-lithium-ion-batteries.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Order-pickers-with-lithium-ion-batteries.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Order-pickers-with-lithium-ion-batteries.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Individualised-solutions-for-the-paper-industry.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Individualised-solutions-for-the-paper-industry.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Individualised-solutions-for-the-paper-industry.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Safety-first.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Safety-first.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Safety-first.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "New-intralogistics-concept-for-better-processes.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "New-intralogistics-concept-for-better-processes.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "New-intralogistics-concept-for-better-processes.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Fagerhult.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Fagerhult.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Fagerhult.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Revolutionizing-the-Warehouse-with-AI/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Revolutionizing-the-Warehouse-with-AI/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Revolutionizing-the-Warehouse-with-AI/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "How-automation-works/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "How-automation-works/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "How-automation-works/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Software-supported-energy-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Software-supported-energy-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Software-supported-energy-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Interview-Stefan-Prokosch/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Interview-Stefan-Prokosch/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Interview-Stefan-Prokosch/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Automatically-lifted-up/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Automatically-lifted-up/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Automatically-lifted-up/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Interview-Automation/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Interview-Automation/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Interview-Automation/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Product-Automation-Interview-Magazine.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Product-Automation-Interview-Magazine.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Product-Automation-Interview-Magazine.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "We-are-the-system-integrator-for-the-internal-material-flow.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "We-are-the-system-integrator-for-the-internal-material-flow.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "We-are-the-system-integrator-for-the-internal-material-flow.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "automation-meets-the-future.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "automation-meets-the-future.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "automation-meets-the-future.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "forklift-conference-2017.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "forklift-conference-2017.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "forklift-conference-2017.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Material-Flow-Conference.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Material-Flow-Conference.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Material-Flow-Conference.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "A-A-Fair-for-Safety.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "A-A-Fair-for-Safety.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "A-A-Fair-for-Safety.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "MH-Symposium-2017.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "MH-Symposium-2017.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "MH-Symposium-2017.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Material-Flow-Conference.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Material-Flow-Conference.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Material-Flow-Conference.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "A-A-Fair-for-Safety.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "A-A-Fair-for-Safety.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "A-A-Fair-for-Safety.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "MH-Symposium-2017.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "MH-Symposium-2017.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "MH-Symposium-2017.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "70-years-of-reach-trucks/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "70-years-of-reach-trucks/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "70-years-of-reach-trucks/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "StaplerCup-2017.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "StaplerCup-2017.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "StaplerCup-2017.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Solar-power-for-Poland/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Solar-power-for-Poland/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Solar-power-for-Poland/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "A-listening-ear/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "A-listening-ear/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "A-listening-ear/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Future-oriented-spare-parts-supply/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Future-oriented-spare-parts-supply/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Future-oriented-spare-parts-supply/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Social-Engagement/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Social-Engagement/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Social-Engagement/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Conserving-Resources/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Conserving-Resources/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Conserving-Resources/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Cooperative-autonomous-intralogistics-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Cooperative-autonomous-intralogistics-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Cooperative-autonomous-intralogistics-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Porsche-Engineering/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Porsche-Engineering/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Porsche-Engineering/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "../../Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "../../Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "../../Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "../../Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "../../Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "../../Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "50-Years-Linde-E-Trucks/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "50-Years-Linde-E-Trucks/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "50-Years-Linde-E-Trucks/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Theo-Egberts/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Theo-Egberts/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Theo-Egberts/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/technical/News-Detail_4580928.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/technical/News-Detail_4580928.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/technical/News-Detail_4580928.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Customer-Story-Dinner/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Customer-Story-Dinner/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Customer-Story-Dinner/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Showroom-App.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Showroom-App.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Linde-Showroom-App.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "crucial-role-within-the-system.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "crucial-role-within-the-system.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "crucial-role-within-the-system.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Innovative-battery-technology.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Innovative-battery-technology.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Innovative-battery-technology.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Robots-as-employee-of-the-month.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Robots-as-employee-of-the-month.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Robots-as-employee-of-the-month.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Airport-Logistics.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Airport-Logistics.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Airport-Logistics.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Forklift-Tattoo.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Forklift-Tattoo.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Forklift-Tattoo.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "MM-Research.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "MM-Research.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "MM-Research.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Changeable-industrial-history-From-the-Gueldner-to-the-Linde-MH-Headquarter.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Changeable-industrial-history-From-the-Gueldner-to-the-Linde-MH-Headquarter.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Changeable-industrial-history-From-the-Gueldner-to-the-Linde-MH-Headquarter.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "employee_portrait_harmance.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "employee_portrait_harmance.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "employee_portrait_harmance.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Employee-portrait-Head-of-truck-assembly.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Employee-portrait-Head-of-truck-assembly.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Employee-portrait-Head-of-truck-assembly.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Employee-Portrait-Trainer-Linde-Sales-Academy.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Employee-Portrait-Trainer-Linde-Sales-Academy.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Employee-Portrait-Trainer-Linde-Sales-Academy.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Employee-Portrait-Production-Mechanics-Truck-Assembly.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Employee-Portrait-Production-Mechanics-Truck-Assembly.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Employee-Portrait-Production-Mechanics-Truck-Assembly.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Employee-Portrait-FMEA-Moderator-Quality.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Employee-Portrait-FMEA-Moderator-Quality.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "Employee-Portrait-FMEA-Moderator-Quality.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/index.html",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "en/About-us/Magazine/index.html",
+  "outputPathDefault": null,
+  "sidecar": "en/About-us/Magazine/_meta.json",
+  "driverVersion": "1"
+}

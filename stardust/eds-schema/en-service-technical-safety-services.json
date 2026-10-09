@@ -1,0 +1,509 @@
+{
+ "source": "http://localhost:8806/stardust/migrated/en/Service/Technical-Safety-Services/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Technical & Safety Services"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Guaranteed to Be on the Safe Side"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "As well as guaranteeing smooth operation, in many cases the safety of industrial trucks is also a legal obligation. The relevant requirements are constantly changing. Linde Material Handling keeps track of it all and promptly performs the prescribed checks for you. For example, these include the checks in accordance with FEM 4.004, which are required in Europe, rack checks, and battery and charger checks. In addition, in many locations, Linde offers a tire service, advises on optimal energy consumption, and handles the value-preserving cleaning of forklift trucks and warehouse handling equipment."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Legal Certainty with an Annual Check"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Legislators generally require forklift trucks and warehouse handling equipment to be checked comprehensively by experts at least once a year. For example, in Europe, the checks are prescribed by the provisions in the FEM 4.004 guideline. The implementation of FEM 4.004 is regulated by national legislation. The inspections relate to all essential elements and functions of all types of industrial trucks as well as hand lift trucks, cranes, and workshop hoisting platforms. Up to 100 points need to be diligently checked, starting from the lifting equipment through to the drive unit and the brakes as well as the seats, batteries, and signs. The Linde service team handles the entire annual check – working in a country-specific and professional way, and providing seamless documentation."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "For You, this Means:"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Full legal certainty"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Automatic compliance with the manufacturer's specifications"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Sustainable and permanent safety for your employees"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "An overview of the precise condition of the fleet"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Timely checks thanks to a reminder service"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "The Linde experts also provide a recommendation on which defects should be rectified promptly to avoid potential consequential damage. This means that the benefits of the check are two-fold."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 5,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Compliant Rack Checks: No Damage Remains Undetected"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The often narrow paths in warehouses make racks a typical point of collision for forklift trucks. They are often also exposed to high product weights. As a result, legislators have also stipulated regular checks for racks, generally worldwide. This means that racks need to be inspected annually for impact damage, depressions, and defective fastenings, for example. In Europe, the specific check is defined in DIN EN 15635. Numerous Linde service partners can take care of your rack checks to ensure compliance and legal certainty. This occurs during operation and without interruptions. In addition, we will of course also help you to rectify any defects."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Always Ready for Operation with the Tire Service"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Fully functioning tires are not just a legal requirement – they also ensure the efficient and safe handling of the forklift. The Linde tire service performs necessary tire changes, keeping downtimes to a minimum. The use of a replacement rim means that the tire is quickly installed and we are happy to dispose of old tires upon request."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Checked Batteries Last Longer"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Did you know that the battery accounts for around a third of the overall costs of an electric forklift truck? Just as important is a fully functioning and, above all, durable battery. Only then can high costs be avoided. Insufficient maintenance and cleaning can destroy the battery, reduce driving times, and accelerate discharging. Time-consuming interim charging then becomes unavoidable. The Linde battery service detects defects at an early stage, extends the service life of batteries, minimizes downtimes, and prevents expensive repairs."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Checking Chargers"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Charger checks are required by law, and they also improve the service life and in turn the cost-effectiveness of forklift trucks. Numerous Linde service partners can check your chargers on a regular basis upon request. This guarantees optimum battery charging, and ensures that your forklifts operate efficiently and are always ready for use."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Energy Consulting Saves Costs"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Energy consumption is an economic issue and is also relevant for a company's sustainability. Linde provides energy consumption consulting services, depending on the relevant operating conditions, at numerous sites. This covers the selection of the appropriate battery size and type as well as the number of batteries and chargers to be used, for example. Depending on the operating environment, it may, for example, make sense to use a central charging station. Our experts help you to optimize your consumption costs and structure your energy supply with a view to the future."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Everyday Assistance with the Battery Service Board"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Aside from the necessary checks, forklift drivers can also make a contribution to the preservation of the batteries on a daily basis. The Linde battery service board provides protection and assistance during the daily charging and checking of lead-acid batteries. The board ensures that the necessary maintenance accessories, such as safety goggles, gloves, and eye washes, are available at a central location. Furthermore, it also provides instructions on how to charge lead-acid batteries in twelve languages. The service board therefore improves safety in the workplace and speeds up care and maintenance work on the battery."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "For the service board contact your dealer",
+     "href": "../../../en/technical/Location-Finder.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Clean Lasts Longer"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Companies often seem to view the cleaning of forklift trucks and warehouse handling equipment as an imposition, so it is generally neglected. Employees either don't have time or operators are reluctant to pay for professional cleaning. However, this is where savings are made at the wrong end. A lack of cleaning results in high losses in value. Ultimately, an attractive appearance is an incentive for employees to handle equipment with care. Contamination also increases wear."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Linde offers regular professional forklift truck cleaning at many locations. This relieves companies and their employees of this tedious obligation, yet the forklift trucks are always clean and shiny."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "A listening ear for every situation",
+     "href": "../../../en/About-us/Magazine/A-listening-ear/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Psychological counseling at Linde MH: discrete, open, and accessible to everyone."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/A-listening-ear/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Linde Solutions for the 3PL Sector",
+     "href": "../../../en/Solutions/Industries/3PL/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Linde offers solutions for 3PL service providers: solving staff shortages, increasing the flexibility of vehicle fleets, using big data, maximizing safety, and increasing energy efficiency."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Industries/3PL/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Conserving Resources",
+     "href": "../../../en/About-us/Magazine/Conserving-Resources/index.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Less is more: Linde Material Handling relies on an innovative platform concept for forklift trucks. The same components for combustion engines and electric drives increase sustainability."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Conserving-Resources/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Linde is the favourite of the industry",
+     "href": "../../../en/About-us/Magazine/MM-Research.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "For users, Linde Material Handling is the most popular material handling equipment manufacturer. This was the result of a survey conducted by the trade journal MM Logistik. Respondents praised the quality, performance and availability of the vehicles. Linde also scores highly in terms of service and training."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/MM-Research.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Forklift trucks for dirty work",
+     "href": "../../../en/About-us/Magazine/Carolus_Trees.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "The forklift trucks used at Carolus Trees have to be tough – and most importantly, they can’t be afraid to get cold and dirty. Linde forklifts take this all in their stride."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Carolus_Trees.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "Electric power packs help to quench thirst",
+     "href": "../../../en/About-us/Magazine/Wuellner-Carolinenbrunnen.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Heavy loads, demanding shift work, extensive terrain – and that with electric forklifts? What may sound quite unusual for some logistics specialists at first glance is everyday life at Mineralquellen Wüllner in Bielefeld."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Wuellner-Carolinenbrunnen.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "A real piece of gold amongst the trash",
+     "href": "../../../en/About-us/Magazine/Willimantic-Magazine.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "Paper, cardboard, mattresses, bags, plastics, cans and much more. Once used and thrown away, they all end up in a mountain of rubbish on the premises of a recycling company - a company like Willimantic Waste Paper. Here, loose waste, recyclables and bales are moved around the entire site by forklift trucks."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Willimantic-Magazine.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Full of tricks",
+     "href": "../../../en/About-us/Magazine/Frueh-Koelsch.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "Cölner Hofbräu P. Josef Früh KG in Cologne-Feldkassel brews and loads thousands of litres of Kölsch every day. Real hard work for Linde's lithium-ion forklifts, which passed their trial run at the company with flying colors."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Frueh-Koelsch.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "Analyzed Efficiently",
+     "href": "../../../en/About-us/Magazine/Grass.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "For years, the hinge specialists at Reinheim-based Grass GmbH have been carrying out their warehouse and production logistics tasks using a forklift truck fleet that has grown gradually over time. Using a fleet optimization analysis, experts from Linde Material Handling identified an incredible amount of potential within this established structure. They standardized and reduced the fleet and, in the process, made it much more powerful, cost-efficient, and energy-saving."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Grass.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "Linde Rental Solutions at Agua Mineral San Benedetto",
+     "href": "../../../en/About-us/Magazine/Agua-Mineral.html"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "Every year at Agua Mineral San Benedetto in Valencia, 600,000 pallets are loaded onto trucks using Linde forklifts and delivered to customers. The beverage business is booming in summer. Agua Mineral then uses the flexible and reliable Linde rental service."
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Agua-Mineral.html"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "Linde Virtual Showroom App",
+     "href": "../../../en/About-us/Magazine/Linde-Showroom-App.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "The Virtual Showroom app from Linde Material Handling has been available for iOS and Android systems since last year. The app gives smartphone and tablets users a 360° interactive experience, enabling them to play around with 27 virtual industrial trucks against any background, with options to rotate, shrink, enlarge, and much more."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Linde-Showroom-App.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "Consulting",
+     "href": "https://www.linde-mh.com/en/Solutions/Consulting/"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "Linde offers a comprehensive consulting service for thorough evaluation. The service ranges from analysis and simulation to fleet redesign."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/Solutions/Consulting/"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

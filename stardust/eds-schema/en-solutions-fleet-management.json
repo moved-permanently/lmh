@@ -1,0 +1,812 @@
+{
+ "source": "http://localhost:8806/stardust/migrated/en/Solutions/Fleet-Management/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "myLinde comprehensive fleet management software"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The digital control center for your fleet"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Contact the experts",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Fleet Management with myLinde",
+     "href": "#1845908"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Safety and energy solutions",
+     "href": "#1845912"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Benefits at a Glance",
+     "href": "#1845916"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "FAQ",
+     "href": "#1845921"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Professional fleet management is crucial for cost-efficient and safe intralogistics. With myLinde, Linde Material Handling offers fleet operators an integrated solution for comprehensive fleet management. It enables the efficient management of all trucks and drivers and at the same time provides transparent data on usage, service, and capacity utilization. But that's not all: myLinde provides powerful additional safety and energy management functions."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [],
+   "imgCount": 1,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "More than fleet management for maximum efficiency"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "From truck and driver management to monitoring and analysis of all truck data: myLinde is the heart of the entire fleet management system. The user-friendly software is suitable both for experienced fleet managers and casual users who only require individual functions."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Thanks to its modular structure, myLinde offers maximum flexibility and can be perfectly adapted to the requirements of your company. You only pay for the functions that you actually use. As a cloud-based solution, myLinde supports a wide variety of devices. Automatic updates ensure trouble-free operations."
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "The integration of the assistance system effectively increases occupational safety. At the same time, the integration of the in myLinde allows you to monitor the energy consumption of your trucks in order to save costs and increase the sustainability of your fleet."
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Linde Safety Guard",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Guard.html"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "connect:charger",
+     "href": "../../../en/About-us/Innovations-from-Linde/connect-charger/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 0,
+      "textRuns": 6
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Schedule your personal myLinde consultation",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Fleet manager"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Management of operating times, driving authorizations, and maintenance intervals as well as analysis of shock events."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Safety officer"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Data-based evaluation of near-accidents for targeted improvements in occupational safety."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "HSE manager"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Transparent CO₂ savings, comparison of drive technologies and intelligent peak load management"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Efficient management, intelligent control: core competencies of myLinde"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "With myLinde fleet management software, you can increase the performance and efficiency of your fleet. Thanks to comprehensive administration, usage control, fleet optimization, and service functions, you can maintain an overview at all times with optimal control of your trucks."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Administration"
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "Truck Management"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "With myLinde, you always retain full control over your fleet and drivers. For example, you can define an expiration date for each driver and thus specify the time period for which they are allowed to use a particular truck. In addition, you can divide your warehouse into different areas with just a few clicks and assign trucks and drivers to the corresponding zones."
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "Driver Management"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The extensive management functions support you in organizing your fleet. Import driver data, create new drivers and define maximum speeds and driving permit times. The software manages driving licenses and driver data and automatically notifies you when a driver's license needs to be renewed or a health check refreshed."
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "Usage control"
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "PreOp Check"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "With the pre-operational check in our myLinde fleet management software, you can monitor the condition of your trucks before each commissioning. With individual checklists, you can keep track of the condition of your fleet and optimize maintenance. This reduces downtime due to wear and tear and increases efficiency. At the same time, the risk of driver accidents is minimized by ensuring roadworthiness."
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "Shock Detection"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "The myLinde shock detection system provides comprehensive information about the condition of the truck after collisions. Specify the shock intensity at which you are notified and find out from which direction the shock hit the truck. The system also provides important additional information about the collision."
+    },
+    {
+     "role": "heading",
+     "order": 10,
+     "text": "Fleet Optimization"
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "Analyses and Reports"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "The intelligent analysis tools in myLinde provide well-founded deployment analyses and give you a quick overview of truck usage and fleet utilization. Using reports on operating hours, you can identify free capacity and optimize the composition of the fleet in order to minimize downtime and empty runs."
+    },
+    {
+     "role": "heading",
+     "order": 13,
+     "text": "Charging Management"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "When using electric forklift trucks, myLinde fleet management software helps you to monitor the charging status of your trucks and develop sensible charging habits. This enables you to avoid total battery discharge and optimally plan the necessary charging processes."
+    },
+    {
+     "role": "heading",
+     "order": 15,
+     "text": "Service"
+    },
+    {
+     "role": "heading",
+     "order": 16,
+     "text": "Operating Manuals"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "The myLinde digital service makes it easier to maintain and service your industrial trucks. Product manuals are available online anytime and anywhere so that technical information can be called up quickly."
+    },
+    {
+     "role": "heading",
+     "order": 18,
+     "text": "Spare Parts Catalog"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Thanks to the integrated spare parts catalog, myLinde fleet management software helps you to quickly and easily identify the spare parts you need at any time. This shortens service times and minimizes downtime."
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 20,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 4,
+     "unit": {
+      "headings": 3,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 5
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Anytime, anywhere: fleet management made easy"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Our myLinde fleet management software is cloud-based and can be used on a wide variety of devices. Local installations and updates on site are not required, which significantly reduces maintenance costs. Instead, automatic updates ensure smooth processes without system interruptions. Customizable dashboards provide you with the information you need at a glance, making your day-to-day work easier."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "For users of our on-premise software Linde connect"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Current software versions:"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "connect:desk 2.11.0"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "connect:composer 2.3.19"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "One step further: safe and energy-efficient with myLinde"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "myLinde offers comprehensive functions for fleet management and is constantly undergoing further development. The seamless integration of special safety and energy solutions is unique."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "2"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Optimize safety: Linde Safety Guard in myLinde"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Additional safety is provided by the integration of . This innovative safety system creates virtual safety zones around employees, trucks, and infrastructure and warns everyone involved of impending danger. myLinde records and analyzes this data, enabling the evaluation of near misses. In this way, previously undetected safety risks can be uncovered, traffic routing optimized, and productivity increased. The central management of all Safety Guard devices simplifies administration and control. The devices in use are displayed in the software, and their functionality can be continuously checked and monitored. Configurable messages provide information on the status of the Safety Guard units, enabling even more precise control."
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Linde Safety Guard",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Guard.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 2,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Intelligent charging management: Linde connect:charger and myLinde"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The can also be integrated into myLinde for optimized charging and energy management. It connects several chargers via a central control unit and thus coordinates the charging processes. Peak shaving avoids load peaks and reduces energy costs. The prioritization of charging processes ensures optimum availability of the fleet. Detailed consumption data shows additional savings potential. At the same time, the analysis of CO₂ emissions helps you to achieve your sustainability goals."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Linde connect:charger",
+     "href": "../../../en/About-us/Innovations-from-Linde/connect-charger/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The advantages of myLinde at a glance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Transparency"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Valuable data for optimizing capacity utilization, safety, and avoiding damage."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Performance"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Driver assignments and fleet analytics for the best possible use of the fleet."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "User-friendliness"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Intuitive operation for fleet management and the use of safety and energy functions."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Service"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Prevents overloading and damage."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Safety"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Increasing occupational safety and protecting employees and trucks before accidents happen."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Energy efficiency"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Reduction of energy costs and carbon footprint through optimized energy consumption and intelligent charging management."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Arrange a consultation now and increase your fleet efficiency",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "21",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Together towards success: advice and support"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde MH offers all the support you need to launch and use myLinde. All the necessary hardware components, for example for data transmission or access control, are already installed at the factory or can be easily retrofitted. Our experts are also available to advise you at any time. They will analyze your individual requirements and make recommendations as to which system functions can be used most effectively."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Optimize your fleet – talk to us!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "22",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "FAQ – Frequently asked questions about fleet management"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "23",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "What is fleet management?"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Fleet management encompasses the administration, organization, and coordination of a truck fleet. The aim is to use the trucks as efficiently as possible, minimize costs, and comply with legal requirements. This includes tasks such as deployment planning, truck maintenance and servicing, keeping logbooks, controlling, and reporting. Fleet management of industrial trucks also focuses on issues such as occupational safety, employee protection, and energy efficiency. Software solutions such as myLinde support companies in mastering all these tasks and managing their fleet optimally."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "For whom are fleet management systems relevant?"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Fleet management systems are relevant for all companies that use industrial trucks – from SMEs to large corporations. Users come from different areas of the company: Fleet managers are responsible for managing the trucks, safety officers take care of occupational safety, HSE managers are responsible for issues such as sustainability and energy efficiency. With fleet management software such as myLinde, all these user groups can find the right functions for their daily work. Thanks to its modular structure, the solution can be flexibly adapted to company-specific requirements."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "What are the challenges in modern fleet management?"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Fleet managers today face a variety of challenges: These include rising costs and staff shortages as well as growing requirements for safety, compliance, and real-time data management. To cope with these complex tasks, powerful software solutions are indispensable. myLinde helps companies to manage their fleet efficiently, reduce costs, and increase safety at the same time. Thanks to comprehensive functions, simple operation and flexible expansion options, fleet managers are ideally equipped for current and future challenges with myLinde."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "How can a company make its fleet more sustainable?"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Sustainable fleet management starts at various points: Predictive maintenance helps to extend the service life of trucks. Intelligent charging strategies such as peak shaving help to reduce energy consumption. Charging processes can also be prioritized according to demand in order to optimize fleet availability. Continuous monitoring of CO₂ emissions creates transparency and makes it possible to identify potential savings. With these and other functions, fleet management systems such as myLinde help to reduce energy costs and emissions and achieve sustainability goals."
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "What are the advantages of fleet management when it comes to safety?"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Fleet management software such as myLinde makes an important contribution to greater occupational safety. The management of driver licenses alone increases safety. Thanks to shock monitoring and documentation, it is also possible to identify key hazards. In addition, myLinde offers the option of integrating the Linde Safety Guard assistance system and thus analyzing data on near-accidents. This allows unrecognized safety risks to be identified and traffic management in the warehouse to be improved."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 10,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "24",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Further information"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "25",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Your Intelligent Charge Management",
+     "href": "../../../en/About-us/Innovations-from-Linde/connect-charger/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The Linde Material Handling connect:charger provides a cost-effective and intelligent solution for managing the charging of electric industrial trucks."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Innovations-from-Linde/connect-charger/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Linde Safety Guard",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Guard.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Wherever industrial trucks are in use, there exists a complex interplay between man and machine. Linde Safety Guard is an innovative assistance system which increases safety for both truck operators and pedestrians in the vicinity of the truck."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Guard.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

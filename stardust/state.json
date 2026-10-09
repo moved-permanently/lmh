@@ -1,0 +1,3775 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:migrate",
+    "writtenAt": "2026-10-07T07:00:05Z",
+    "stardustVersion": "0.27.0"
+  },
+  "site": {
+    "originUrl": "https://www.linde-mh.com/en/",
+    "deployUrl": null,
+    "extractedAt": "2026-10-06T11:48:53.209Z",
+    "pageCap": 100,
+    "totalDiscovered": 510,
+    "crawled": 99,
+    "captureGaps": [
+      {
+        "root": "/en",
+        "slug": "en",
+        "linked": 87,
+        "uncaptured": [
+          "/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+          "/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+          "/en/About-us/Working-at-Linde/Apprentice",
+          "/en/About-us/Working-at-Linde/Professionals",
+          "/en/About-us/Working-at-Linde/Students-Scholars",
+          "/en/Search",
+          "/en/Solutions/Consulting/Fleet-Optimization.html",
+          "/en/Solutions/Consulting/Material-Flow-Consulting",
+          "/en/Solutions/Energy-Systems/Energy-consulting",
+          "/en/Solutions/Industries/3PL",
+          "/en/Solutions/Industries/beverage-industry",
+          "/en/Solutions/Intralogistics-Automation/Automated-Warehouse",
+          "/en/Solutions/Intralogistics-Automation/Automated-guided-vehicle",
+          "/en/Solutions/Intralogistics-Automation/Autonomous-mobile-robots",
+          "/en/Solutions/Intralogistics-Automation/S-MATIC-cube",
+          "/en/Solutions/Intralogistics-Automation/Software",
+          "/en/Solutions/Intralogistics-Automation/User-cases-intralogistics",
+          "/en/Solutions/Intralogistics-Automation/Warehouse-Management-System",
+          "/en/Solutions/Warehouse-Safety/Assistance-systems",
+          "/en/Solutions/Warehouse-Safety/Light-and-warning-systems",
+          "/en/Solutions/Warehouse-Safety/Safety-consulting",
+          "/en/index.html",
+          "/en/technical/News-Detail_5350720.html",
+          "/en/technical/News-Detail_5355776.html",
+          "/en/technical/News-Detail_5356032.html",
+          "/en/technical/News-Detail_5356992.html",
+          "/en/technical/News-Detail_5359296.html",
+          "/en/technical/News-Detail_5360704.html",
+          "/en/technical/News-Detail_5362688.html",
+          "/en/technical/News-Detail_5364992.html",
+          "/en/technical/News-Detail_5370752.html",
+          "/en/technical/News-Detail_5376128.html"
+        ]
+      },
+      {
+        "root": "/en/EDI",
+        "slug": "en-edi",
+        "linked": 1,
+        "uncaptured": [
+          "/en/EDI/index.html"
+        ]
+      }
+    ]
+  },
+  "direction": null,
+  "handsOff": true,
+  "flow": "replica",
+  "flowChosenAt": "2026-10-06T11:37:28.666Z",
+  "flowSource": "user-phrase",
+  "pages": [
+    {
+      "slug": "en-about-us-awards",
+      "url": "https://www.linde-mh.com/en/About-us/Awards/",
+      "title": "Awards, prizes, and commendations",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:18:25.281Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:08:32Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-awards.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/About-us/Awards/index.html"
+    },
+    {
+      "slug": "en-about-us-certificates",
+      "url": "https://www.linde-mh.com/en/About-us/Certificates/",
+      "title": "Our Certificates",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:18:23.537Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:08:32Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-certificates.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/About-us/Certificates/index.html"
+    },
+    {
+      "slug": "en-about-us-company",
+      "url": "https://www.linde-mh.com/en/About-us/Company/",
+      "title": "Company | Linde Material Handling",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:18:25.281Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T20:09:37Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-company.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/About-us/Company/index.html"
+    },
+    {
+      "slug": "en-about-us-events",
+      "url": "https://www.linde-mh.com/en/About-us/Events/",
+      "title": "Trade Fairs and Events",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:18:30.593Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T00:15:11Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-events.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/About-us/Events/index.html"
+    },
+    {
+      "slug": "en-about-us-innovations-from-linde",
+      "url": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/",
+      "title": "Technology & Innovation",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:19:02.121Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T00:15:11Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-innovations-from-linde.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/About-us/Innovations-from-Linde/index.html"
+    },
+    {
+      "slug": "en-about-us-magazine",
+      "url": "https://www.linde-mh.com/en/About-us/Magazine/",
+      "title": "Linde Magazine",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:19:06.076Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T00:15:11Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-magazine.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/About-us/Magazine/index.html"
+    },
+    {
+      "slug": "en-about-us-media",
+      "url": "https://www.linde-mh.com/en/About-us/Media/",
+      "title": "Linde-MH",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:19:09.560Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T00:15:11Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-media.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/About-us/Media/index.html"
+    },
+    {
+      "slug": "en-about-us-press",
+      "url": "https://www.linde-mh.com/en/About-us/Press/",
+      "title": "Press Release Overview",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:19:45.620Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-10-06T14:15:05Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-10-06T14:15:05Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-press.json",
+      "prototypePath": "stardust/prototypes/en-about-us-press-proposed.html",
+      "migratedPath": "stardust/migrated/en/About-us/Press/index.html"
+    },
+    {
+      "slug": "en-about-us-sustainability",
+      "url": "https://www.linde-mh.com/en/About-us/Sustainability/",
+      "title": "Sustainability at Linde Material Handling",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:19:45.569Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:08:32Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-sustainability.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/About-us/Sustainability/index.html"
+    },
+    {
+      "slug": "en-about-us-working-at-linde",
+      "url": "https://www.linde-mh.com/en/About-us/Working-at-Linde/",
+      "title": "Working at Linde",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:19:48.252Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T20:09:37Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us-working-at-linde.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/About-us/Working-at-Linde/index.html"
+    },
+    {
+      "slug": "en-about-us",
+      "url": "https://www.linde-mh.com/en/About-us/",
+      "title": "Overview About Linde",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:17:10.929Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T00:15:11Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-about-us.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/About-us/index.html"
+    },
+    {
+      "slug": "en-edi",
+      "url": "https://www.linde-mh.com/en/EDI/",
+      "title": "EDI– Electronic Data Interchange",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:17:10.061Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T18:26:00Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-edi.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/EDI/index.html"
+    },
+    {
+      "slug": "en-forms-agility-on-point-form",
+      "url": "https://www.linde-mh.com/en/Forms/agility-on-point-form/",
+      "title": "Linde-MH",
+      "type": "form",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:20:24.029Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T02:37:56Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-forms-agility-on-point-form.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Forms/agility-on-point-form/index.html"
+    },
+    {
+      "slug": "en-forms-automation-campaign",
+      "url": "https://www.linde-mh.com/en/Forms/Automation-Campaign/",
+      "title": "Linde-MH",
+      "type": "form",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:20:57.139Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T02:37:56Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-forms-automation-campaign.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Forms/Automation-Campaign/index.html"
+    },
+    {
+      "slug": "en-forms-ex-proof-form",
+      "url": "https://www.linde-mh.com/en/Forms/Ex-Proof_Form/",
+      "title": "Linde-MH",
+      "type": "form",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:20:57.232Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T02:37:56Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-forms-ex-proof-form.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Forms/Ex-Proof_Form/index.html"
+    },
+    {
+      "slug": "en-forms-gc-li-ion-recycling",
+      "url": "https://www.linde-mh.com/en/Forms-GC/Li-ION-Recycling/",
+      "title": "Linde-MH",
+      "type": "form",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:20:21.279Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T02:37:56Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-forms-gc-li-ion-recycling.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Forms-GC/Li-ION-Recycling/index.html"
+    },
+    {
+      "slug": "en-forms-gc-next-champ-form",
+      "url": "https://www.linde-mh.com/en/Forms-GC/Next-Champ-Form/",
+      "title": "Linde-MH",
+      "type": "form",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:20:21.431Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T02:37:56Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-forms-gc-next-champ-form.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Forms-GC/Next-Champ-Form/index.html"
+    },
+    {
+      "slug": "en-forms-global-contact-form",
+      "url": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+      "title": "Linde-MH",
+      "type": "form",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:20:59.689Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-10-06T15:27:59Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-forms-global-contact-form.json",
+      "prototypePath": "stardust/prototypes/en-forms-global-contact-form-proposed.html",
+      "migratedPath": "stardust/migrated/en/Forms/Global-Contact-Form/index.html"
+    },
+    {
+      "slug": "en-forms-gse-expo",
+      "url": "https://www.linde-mh.com/en/Forms/GSE-Expo/",
+      "title": "GSE Expo 2026 | Linde Material Handling",
+      "type": "form",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:21:32.932Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T02:37:56Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-forms-gse-expo.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Forms/GSE-Expo/index.html"
+    },
+    {
+      "slug": "en-forms-rent-a-truck",
+      "url": "https://www.linde-mh.com/en/Forms/Rent-A-Truck/",
+      "title": "Linde-MH",
+      "type": "form",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:21:33.802Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T02:37:56Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-forms-rent-a-truck.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Forms/Rent-A-Truck/index.html"
+    },
+    {
+      "slug": "en-landingpage-agility-on-point",
+      "url": "https://www.linde-mh.com/en/Landingpage/Agility-on-point/",
+      "title": "New reach trucks Ri14 – Ri18 | Linde Material Handling",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:21:36.034Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T20:09:37Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-agility-on-point.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/Agility-on-point/index.html"
+    },
+    {
+      "slug": "en-landingpage-automation-summit-2025",
+      "url": "https://www.linde-mh.com/en/Landingpage/Automation-Summit-2025/",
+      "title": "Automation Summit 2025 | Linde Material Handling",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:22:09.612Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T20:09:37Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-automation-summit-2025.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/Automation-Summit-2025/index.html"
+    },
+    {
+      "slug": "en-landingpage-compact-class-with-electric-drive",
+      "url": "https://www.linde-mh.com/en/Landingpage/Compact-class-with-electric-drive/",
+      "title": "Compact class with electric drive | Linde Material Handling",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:22:11.084Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T20:09:37Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-compact-class-with-electric-drive.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/Compact-class-with-electric-drive/index.html"
+    },
+    {
+      "slug": "en-landingpage-e-models",
+      "url": "https://www.linde-mh.com/en/Landingpage/E-models/",
+      "title": "E20 – E35 and E35 – E50 electric forklift trucks",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:22:13.633Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-10-06T14:54:05Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-e-models.json",
+      "prototypePath": "stardust/prototypes/en-landingpage-e-models-proposed.html",
+      "migratedPath": "stardust/migrated/en/Landingpage/E-models/index.html"
+    },
+    {
+      "slug": "en-landingpage-glasses",
+      "url": "https://www.linde-mh.com/en/Landingpage/Glasses/",
+      "title": "Linde order pickers",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:22:45.645Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T20:09:37Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:02Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-glasses.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/Glasses/index.html"
+    },
+    {
+      "slug": "en-landingpage-gse-expo",
+      "url": "https://www.linde-mh.com/en/Landingpage/GSE-Expo/",
+      "title": "Linde MH at GSE Expo Europe 2026",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:22:47.725Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T20:09:37Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-gse-expo.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/GSE-Expo/index.html"
+    },
+    {
+      "slug": "en-landingpage-h-models",
+      "url": "https://www.linde-mh.com/en/Landingpage/H-models/",
+      "title": "The new IC trucks | Hydrostatic drive | Linde",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:22:51.480Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T20:09:37Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-h-models.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/H-models/index.html"
+    },
+    {
+      "slug": "en-landingpage-happy-driver",
+      "url": "https://www.linde-mh.com/en/Landingpage/Happy-Driver/",
+      "title": "Happy Driver",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:23:23.100Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:18:03Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-happy-driver.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/Happy-Driver/index.html"
+    },
+    {
+      "slug": "en-landingpage-in-sync",
+      "url": "https://www.linde-mh.com/en/Landingpage/In-Sync/",
+      "title": "In Sync with your Rhythm | Linde Material Handling",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:23:25.170Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:18:03Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-in-sync.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/In-Sync/index.html"
+    },
+    {
+      "slug": "en-landingpage-logimat",
+      "url": "https://www.linde-mh.com/en/Landingpage/Logimat/",
+      "title": "Linde MH at LogiMAT 2026 – Automation & Digital Solutions",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:23:28.800Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:18:03Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-logimat.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/Logimat/index.html"
+    },
+    {
+      "slug": "en-landingpage-next-champ",
+      "url": "https://www.linde-mh.com/en/Landingpage/Next-Champ/",
+      "title": "The Next Champ",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:24:00.107Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:18:03Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-next-champ.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/Next-Champ/index.html"
+    },
+    {
+      "slug": "en-landingpage-platform-counterbalanced-trucks",
+      "url": "https://www.linde-mh.com/en/Landingpage/Platform-Counterbalanced-Trucks/",
+      "title": "Counterbalanced Forklift Platform",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:24:02.139Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:18:03Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-platform-counterbalanced-trucks.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/Platform-Counterbalanced-Trucks/index.html"
+    },
+    {
+      "slug": "en-landingpage-r-matic",
+      "url": "https://www.linde-mh.com/en/Landingpage/R-Matic/",
+      "title": "The R-MATIC automated reach truck",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:24:06.039Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:18:03Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-r-matic.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/R-Matic/index.html"
+    },
+    {
+      "slug": "en-landingpage-safely-to-the-top",
+      "url": "https://www.linde-mh.com/en/Landingpage/Safely-to-the-top/",
+      "title": "Heights",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:24:36.494Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:18:03Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-safely-to-the-top.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/Safely-to-the-top/index.html"
+    },
+    {
+      "slug": "en-landingpage-semi-automated-order-pickers",
+      "url": "https://www.linde-mh.com/en/Landingpage/Semi-automated-order-pickers/",
+      "title": "Product search I Linde Material Handling",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:24:37.876Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T18:26:00Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-semi-automated-order-pickers.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/Semi-automated-order-pickers/index.html"
+    },
+    {
+      "slug": "en-landingpage-x-models",
+      "url": "https://www.linde-mh.com/en/Landingpage/X-models/",
+      "title": "X20 – X35 and X35 - X50 Electric Forklift Trucks",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:24:43.282Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:18:03Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-x-models.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/X-models/index.html"
+    },
+    {
+      "slug": "en-landingpage-x-range",
+      "url": "https://www.linde-mh.com/en/Landingpage/X-Range/",
+      "title": "R14 – R17 X Reach Trucks",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:25:13.045Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:33:36Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-landingpage-x-range.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Landingpage/X-Range/index.html"
+    },
+    {
+      "slug": "en-legal-notes-cookie-policy",
+      "url": "https://www.linde-mh.com/en/Legal-Notes/Cookie-Policy/",
+      "title": "Cookie Note",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:25:14.886Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T18:26:00Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-legal-notes-cookie-policy.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Legal-Notes/Cookie-Policy/index.html"
+    },
+    {
+      "slug": "en-legal-notes-legal",
+      "url": "https://www.linde-mh.com/en/Legal-Notes/Legal/",
+      "title": "Legal",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:25:18.883Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T18:26:00Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-legal-notes-legal.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Legal-Notes/Legal/index.html"
+    },
+    {
+      "slug": "en-legal-notes-ppap",
+      "url": "https://www.linde-mh.com/en/Legal-Notes/PPAP/",
+      "title": "Linde PPAP (Production Part Approval Process)",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:25:48.709Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T18:26:00Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-legal-notes-ppap.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Legal-Notes/PPAP/index.html"
+    },
+    {
+      "slug": "en-legal-notes-privacy-statement",
+      "url": "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/",
+      "title": "Privacy Statement",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:25:51.193Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-10-06T13:26:43Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-10-06T13:26:43Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-legal-notes-privacy-statement.json",
+      "prototypePath": "stardust/prototypes/en-legal-notes-privacy-statement-proposed.html",
+      "migratedPath": "stardust/migrated/en/Legal-Notes/Privacy-Statement/index.html"
+    },
+    {
+      "slug": "en-legal-notes-terms-of-use",
+      "url": "https://www.linde-mh.com/en/Legal-Notes/Terms-of-use/",
+      "title": "Terms of use",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:25:54.416Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T18:26:00Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-legal-notes-terms-of-use.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Legal-Notes/Terms-of-use/index.html"
+    },
+    {
+      "slug": "en-linde-core-linde-ergonomics-html",
+      "url": "https://www.linde-mh.com/en/Linde-Core/Linde-Ergonomics.html",
+      "title": "Ergonomics at Linde Material Handling",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:26:26.683Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:08:32Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-linde-core-linde-ergonomics-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Linde-Core/Linde-Ergonomics.html"
+    },
+    {
+      "slug": "en-linde-core-linde-productivity-html",
+      "url": "https://www.linde-mh.com/en/Linde-Core/Linde-Productivity.html",
+      "title": "Productivity at Linde Material Handling",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:26:27.443Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:08:32Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-linde-core-linde-productivity-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Linde-Core/Linde-Productivity.html"
+    },
+    {
+      "slug": "en-productfinder-html",
+      "url": "https://www.linde-mh.com/en/Productfinder.html",
+      "title": "Product finder",
+      "type": "unique",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:17:47.344Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-10-06T15:44:44Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-productfinder-html.json",
+      "prototypePath": "stardust/prototypes/en-productfinder-html-proposed.html",
+      "migratedPath": "stardust/migrated/en/Productfinder.html"
+    },
+    {
+      "slug": "en-products-approved-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Approved-Trucks/",
+      "title": "Used Forklifts | Linde Material Handling",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:26:30.752Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:08:32Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-approved-trucks.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Approved-Trucks/index.html"
+    },
+    {
+      "slug": "en-products-automated-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Automated-Trucks/",
+      "title": "Automated industrial trucks | Linde Material Handling",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:27:03.457Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T00:15:11Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-automated-trucks.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Automated-Trucks/index.html"
+    },
+    {
+      "slug": "en-products-diesel-forklifts-d344",
+      "url": "https://www.linde-mh.com/en/Products/Diesel-Forklifts/",
+      "title": "Diesel Forklift Purchase & Hire | Linde Material Handling",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:27:07.447Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:08:32Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-06T23:35:19Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-diesel-forklifts-d344.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "en-products-diesel-forklifts",
+      "url": "https://www.linde-mh.com/en/Products/Diesel-forklifts/",
+      "title": "Diesel Forklift Purchase & Hire | Linde Material Handling",
+      "type": "program",
+      "status": "extracted",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:27:04.483Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-diesel-forklifts.json",
+      "prototypePath": null,
+      "migratedPath": null
+    },
+    {
+      "slug": "en-products-e-trucks",
+      "url": "https://www.linde-mh.com/en/Products/E-Trucks/",
+      "title": "Electric forklift trucks from Linde Material Handling",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:27:39.607Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-10-06T14:54:56Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-e-trucks.json",
+      "prototypePath": "stardust/prototypes/en-products-e-trucks-proposed.html",
+      "migratedPath": "stardust/migrated/en/Products/E-Trucks/index.html"
+    },
+    {
+      "slug": "en-products-explosion-proof-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Explosion-Proof-Trucks/",
+      "title": "Explosion Protection in Intralogistics | Linde Material Handling",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:27:42.003Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:08:32Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-explosion-proof-trucks.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Explosion-Proof-Trucks/index.html"
+    },
+    {
+      "slug": "en-products-forklift-hire",
+      "url": "https://www.linde-mh.com/en/Products/Forklift-Hire/",
+      "title": "Forklift Hire | Linde Material Handling",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:27:44.646Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:08:32Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-forklift-hire.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Forklift-Hire/index.html"
+    },
+    {
+      "slug": "en-products-forklift-truck",
+      "url": "https://www.linde-mh.com/en/Products/Forklift-Truck/",
+      "title": "Forklift Trucks—Models for Any Application | Linde Material Handling",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:28:17.001Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:27:58Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-forklift-truck.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Forklift-Truck/index.html"
+    },
+    {
+      "slug": "en-products-gas-forklifts",
+      "url": "https://www.linde-mh.com/en/Products/Gas-forklifts/",
+      "title": "Gas Forklifts | Linde Material Handling",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:28:19.973Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:33:36Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-gas-forklifts.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Gas-forklifts/index.html"
+    },
+    {
+      "slug": "en-products-hand-pallet-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Hand-Pallet-Trucks/",
+      "title": "Hand pallet trucks | Linde Material Handling",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:28:22.569Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:33:36Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-hand-pallet-trucks.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Hand-Pallet-Trucks/index.html"
+    },
+    {
+      "slug": "en-products-heavy-duty-forklifts",
+      "url": "https://www.linde-mh.com/en/Products/Heavy-Duty-Forklifts/",
+      "title": "Heavy trucks",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:28:54.163Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:33:36Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-heavy-duty-forklifts.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Heavy-Duty-Forklifts/index.html"
+    },
+    {
+      "slug": "en-products-ic-trucks",
+      "url": "https://www.linde-mh.com/en/Products/IC-Trucks/",
+      "title": "IC-trucks from Linde Material Handling",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:28:56.846Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:27:58Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:03Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-ic-trucks.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/IC-Trucks/index.html"
+    },
+    {
+      "slug": "en-products-order-pickers",
+      "url": "https://www.linde-mh.com/en/Products/Order-Pickers/",
+      "title": "Order pickers from Linde Material Handling",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:28:59.617Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:27:58Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-order-pickers.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Order-Pickers/index.html"
+    },
+    {
+      "slug": "en-products-pallet-stackers",
+      "url": "https://www.linde-mh.com/en/Products/Pallet-Stackers/",
+      "title": "Pallet Stackers | Linde Material Handling",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:29:30.609Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:33:36Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-pallet-stackers.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Pallet-Stackers/index.html"
+    },
+    {
+      "slug": "en-products-pallet-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Pallet-Trucks/",
+      "title": "Pallet Trucks from Linde Material Handling",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:29:33.054Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:27:58Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-pallet-trucks.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Pallet-Trucks/index.html"
+    },
+    {
+      "slug": "en-products-productfinder",
+      "url": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "title": "Product finder",
+      "type": "unique",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:29:36.290Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T04:39:31Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T04:40:12Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-productfinder.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Productfinder/index.html"
+    },
+    {
+      "slug": "en-products-reach-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Reach-Trucks/",
+      "title": "Reach Trucks from Linde Material Handling",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:30:07.217Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:27:58Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-reach-trucks.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Reach-Trucks/index.html"
+    },
+    {
+      "slug": "en-products-tow-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Tow-Trucks/",
+      "title": "Tow tractors and platform trucks | Linde Material Handling",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:30:09.752Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:27:58Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-tow-trucks.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Tow-Trucks/index.html"
+    },
+    {
+      "slug": "en-products-tugger-trains",
+      "url": "https://www.linde-mh.com/en/Products/Tugger-Trains/",
+      "title": "Tugger trains | Linde Material Handling",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:30:13.961Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:33:36Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-tugger-trains.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Tugger-Trains/index.html"
+    },
+    {
+      "slug": "en-products-very-narrow-aisle-trucks",
+      "url": "https://www.linde-mh.com/en/Products/Very-Narrow-Aisle-Trucks/",
+      "title": "Very narrow aisle trucks from Linde Material Handling",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:30:43.694Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:27:58Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products-very-narrow-aisle-trucks.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/Very-Narrow-Aisle-Trucks/index.html"
+    },
+    {
+      "slug": "en-products",
+      "url": "https://www.linde-mh.com/en/Products/",
+      "title": "Overview",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:17:47.380Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T00:15:11Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-products.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Products/index.html"
+    },
+    {
+      "slug": "en-service-genuine-spare-parts",
+      "url": "https://www.linde-mh.com/en/Service/Genuine-Spare-Parts/",
+      "title": "Genuine Spare Parts from Linde Material Handling",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:30:46.419Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:33:36Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-service-genuine-spare-parts.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Service/Genuine-Spare-Parts/index.html"
+    },
+    {
+      "slug": "en-service-maintenance-repair",
+      "url": "https://www.linde-mh.com/en/Service/Maintenance-Repair/",
+      "title": "Maintenance and Repair",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:30:50.860Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:33:36Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-service-maintenance-repair.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Service/Maintenance-Repair/index.html"
+    },
+    {
+      "slug": "en-service-retrofit-accessories",
+      "url": "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+      "title": "Retrofit & Accessories",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:31:21.056Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:39:09Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-service-retrofit-accessories.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Service/Retrofit-Accessories/index.html"
+    },
+    {
+      "slug": "en-service-technical-safety-services",
+      "url": "https://www.linde-mh.com/en/Service/Technical-Safety-Services/",
+      "title": "Technical & Safety Services from Linde Material Handling",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:31:23.319Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:39:09Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-service-technical-safety-services.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Service/Technical-Safety-Services/index.html"
+    },
+    {
+      "slug": "en-service-training",
+      "url": "https://www.linde-mh.com/en/Service/Training/",
+      "title": "Training from Linde Material Handling",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:31:26.973Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T23:27:58Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-service-training.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Service/Training/index.html"
+    },
+    {
+      "slug": "en-service",
+      "url": "https://www.linde-mh.com/en/Service/",
+      "title": "Overview Linde Services",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:17:47.882Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T00:15:11Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-service.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Service/index.html"
+    },
+    {
+      "slug": "en-solutions-consulting",
+      "url": "https://www.linde-mh.com/en/Solutions/Consulting/",
+      "title": "Consulting",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:31:58.745Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T00:15:11Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-solutions-consulting.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Solutions/Consulting/index.html"
+    },
+    {
+      "slug": "en-solutions-energy-systems",
+      "url": "https://www.linde-mh.com/en/Solutions/Energy-Systems/",
+      "title": "Energy Systems",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:31:59.887Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:39:09Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-solutions-energy-systems.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Solutions/Energy-Systems/index.html"
+    },
+    {
+      "slug": "en-solutions-financing",
+      "url": "https://www.linde-mh.com/en/Solutions/Financing/",
+      "title": "Financing plans from Linde Material Handling",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:32:04.009Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:39:09Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-solutions-financing.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Solutions/Financing/index.html"
+    },
+    {
+      "slug": "en-solutions-fleet-management",
+      "url": "https://www.linde-mh.com/en/Solutions/Fleet-Management/",
+      "title": "myLinde Fleet Management Software | Linde Material Handling",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:32:35.870Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:39:09Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-solutions-fleet-management.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Solutions/Fleet-Management/index.html"
+    },
+    {
+      "slug": "en-solutions-intralogistics-automation",
+      "url": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/",
+      "title": "Intralogistics and Automation | Linde Material Handling",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:32:37.499Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:39:09Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-solutions-intralogistics-automation.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Solutions/Intralogistics-Automation/index.html"
+    },
+    {
+      "slug": "en-solutions-overview-html",
+      "url": "https://www.linde-mh.com/en/Solutions/Overview.html",
+      "title": "Overview Linde Solutions",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:32:40.048Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-07T00:15:11Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-solutions-overview-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Solutions/Overview.html"
+    },
+    {
+      "slug": "en-solutions-warehouse-safety",
+      "url": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/",
+      "title": "Warehouse Safety | Linde Material Handling",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:33:13.876Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T21:39:09Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-solutions-warehouse-safety.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/Solutions/Warehouse-Safety/index.html"
+    },
+    {
+      "slug": "en-technical-location-finder-html",
+      "url": "https://www.linde-mh.com/en/technical/Location-Finder.html",
+      "title": "Network Partner",
+      "type": "unique",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:33:14.010Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-10-06T15:45:03Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-location-finder-html.json",
+      "prototypePath": "stardust/prototypes/en-technical-location-finder-html-proposed.html",
+      "migratedPath": "stardust/migrated/en/technical/Location-Finder.html"
+    },
+    {
+      "slug": "en-technical-news-detail-101184-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_101184.html",
+      "title": "Linde Roadster wins German Design Award 2019",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:33:16.446Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-10-06T14:15:05Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-10-06T14:15:05Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-news-detail-101184-html.json",
+      "prototypePath": "stardust/prototypes/en-technical-news-detail-101184-html-proposed.html",
+      "migratedPath": "stardust/migrated/en/technical/News-Detail_101184.html"
+    },
+    {
+      "slug": "en-technical-news-detail-101442-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_101442.html",
+      "title": "Intelligent solutions help in creating added value",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:33:50.051Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T19:36:56Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-news-detail-101442-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/technical/News-Detail_101442.html"
+    },
+    {
+      "slug": "en-technical-news-detail-101760-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_101760.html",
+      "title": "Narrow design, broad portfolio",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:33:50.440Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T19:36:56Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-news-detail-101760-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/technical/News-Detail_101760.html"
+    },
+    {
+      "slug": "en-technical-news-detail-1033728-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_1033728.html",
+      "title": "Improved order picking concept",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:33:53.220Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T19:36:56Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-news-detail-1033728-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/technical/News-Detail_1033728.html"
+    },
+    {
+      "slug": "en-technical-news-detail-105280-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_105280.html",
+      "title": "Revolution meets evolution",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:34:26.455Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T19:36:56Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-news-detail-105280-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/technical/News-Detail_105280.html"
+    },
+    {
+      "slug": "en-technical-news-detail-108480-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_108480.html",
+      "title": "Linde Material Handling receives large-scale order for lithium-ion trucks",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:34:26.791Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T19:36:56Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-news-detail-108480-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/technical/News-Detail_108480.html"
+    },
+    {
+      "slug": "en-technical-news-detail-112000-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_112000.html",
+      "title": "Explosion protection from a single source",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:34:29.955Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T19:36:56Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-news-detail-112000-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/technical/News-Detail_112000.html"
+    },
+    {
+      "slug": "en-technical-news-detail-114368-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_114368.html",
+      "title": "Service the smart way",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:35:03.277Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T19:36:56Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:04Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-news-detail-114368-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/technical/News-Detail_114368.html"
+    },
+    {
+      "slug": "en-technical-news-detail-116352-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_116352.html",
+      "title": "For the ninth time in succession",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:35:03.815Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T19:36:56Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:05Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-news-detail-116352-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/technical/News-Detail_116352.html"
+    },
+    {
+      "slug": "en-technical-news-detail-118656-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_118656.html",
+      "title": "Trolley transport rethought",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:35:06.422Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T19:36:56Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:05Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-news-detail-118656-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/technical/News-Detail_118656.html"
+    },
+    {
+      "slug": "en-technical-news-detail-119232-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_119232.html",
+      "title": "Linde Material Handling wins EcoVadis Sustainability Award",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:35:39.471Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T19:46:16Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:05Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-news-detail-119232-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/technical/News-Detail_119232.html"
+    },
+    {
+      "slug": "en-technical-news-detail-1254145-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_1254145.html",
+      "title": "The true winner is safety",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:35:40.632Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T19:46:16Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:05Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-news-detail-1254145-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/technical/News-Detail_1254145.html"
+    },
+    {
+      "slug": "en-technical-news-detail-1310802-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_1310802.html",
+      "title": "Wider choice for more efficient operation",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:35:43.097Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T19:46:16Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:05Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-news-detail-1310802-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/technical/News-Detail_1310802.html"
+    },
+    {
+      "slug": "en-technical-news-detail-132012-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_132012.html",
+      "title": "Perfect strategic fit",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:36:16.136Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T19:46:16Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:05Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-news-detail-132012-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/technical/News-Detail_132012.html"
+    },
+    {
+      "slug": "en-technical-news-detail-1436407-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_1436407.html",
+      "title": "Early warning",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:36:17.639Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T19:46:16Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:05Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-news-detail-1436407-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/technical/News-Detail_1436407.html"
+    },
+    {
+      "slug": "en-technical-news-detail-1445120-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_1445120.html",
+      "title": "Fit for the future",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:36:19.624Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T19:46:16Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:05Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-news-detail-1445120-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/technical/News-Detail_1445120.html"
+    },
+    {
+      "slug": "en-technical-news-detail-1710976-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_1710976.html",
+      "title": "Larger stand, loads of innovations and, for the first time ever, outdoor exhibition areas",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:36:53.521Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T19:46:16Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:05Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-news-detail-1710976-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/technical/News-Detail_1710976.html"
+    },
+    {
+      "slug": "en-technical-news-detail-18902-html",
+      "url": "https://www.linde-mh.com/en/technical/News-Detail_18902.html",
+      "title": "Linde opens new Remanufacturing Center for Used Trucks in the Czech Republic",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:36:54.384Z"
+        },
+        {
+          "status": "directed",
+          "at": "2026-10-06T19:46:16Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:05Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en-technical-news-detail-18902-html.json",
+      "prototypePath": null,
+      "migratedPath": "stardust/migrated/en/technical/News-Detail_18902.html"
+    },
+    {
+      "slug": "en",
+      "url": "https://www.linde-mh.com/en/",
+      "title": "Homepage Linde Material Handling",
+      "type": "unique",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-10-06T11:17:10.915Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-10-06T15:28:19Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-10-07T07:00:05Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/en.json",
+      "prototypePath": "stardust/prototypes/en-proposed.html",
+      "migratedPath": "stardust/migrated/en/index.html"
+    }
+  ],
+  "migrate": {
+    "at": "2026-10-07T04:39:31Z",
+    "outputDir": "stardust/migrated/",
+    "selfContained": true,
+    "pageMap": [
+      {
+        "sourceUrl": "/en/About-us/Awards/",
+        "outputPath": "en/About-us/Awards/index.html",
+        "slug": "en-about-us-awards",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/About-us/Certificates/",
+        "outputPath": "en/About-us/Certificates/index.html",
+        "slug": "en-about-us-certificates",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/About-us/Company/",
+        "outputPath": "en/About-us/Company/index.html",
+        "slug": "en-about-us-company",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/About-us/Events/",
+        "outputPath": "en/About-us/Events/index.html",
+        "slug": "en-about-us-events",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/About-us/Innovations-from-Linde/",
+        "outputPath": "en/About-us/Innovations-from-Linde/index.html",
+        "slug": "en-about-us-innovations-from-linde",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/About-us/Magazine/",
+        "outputPath": "en/About-us/Magazine/index.html",
+        "slug": "en-about-us-magazine",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/About-us/Media/",
+        "outputPath": "en/About-us/Media/index.html",
+        "slug": "en-about-us-media",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/About-us/Press/",
+        "outputPath": "en/About-us/Press/index.html",
+        "slug": "en-about-us-press",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/About-us/Sustainability/",
+        "outputPath": "en/About-us/Sustainability/index.html",
+        "slug": "en-about-us-sustainability",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/About-us/Working-at-Linde/",
+        "outputPath": "en/About-us/Working-at-Linde/index.html",
+        "slug": "en-about-us-working-at-linde",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/About-us/",
+        "outputPath": "en/About-us/index.html",
+        "slug": "en-about-us",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/EDI/",
+        "outputPath": "en/EDI/index.html",
+        "slug": "en-edi",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Forms/agility-on-point-form/",
+        "outputPath": "en/Forms/agility-on-point-form/index.html",
+        "slug": "en-forms-agility-on-point-form",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Forms/Automation-Campaign/",
+        "outputPath": "en/Forms/Automation-Campaign/index.html",
+        "slug": "en-forms-automation-campaign",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Forms/Ex-Proof_Form/",
+        "outputPath": "en/Forms/Ex-Proof_Form/index.html",
+        "slug": "en-forms-ex-proof-form",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Forms-GC/Li-ION-Recycling/",
+        "outputPath": "en/Forms-GC/Li-ION-Recycling/index.html",
+        "slug": "en-forms-gc-li-ion-recycling",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Forms-GC/Next-Champ-Form/",
+        "outputPath": "en/Forms-GC/Next-Champ-Form/index.html",
+        "slug": "en-forms-gc-next-champ-form",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Forms/Global-Contact-Form/",
+        "outputPath": "en/Forms/Global-Contact-Form/index.html",
+        "slug": "en-forms-global-contact-form",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Forms/GSE-Expo/",
+        "outputPath": "en/Forms/GSE-Expo/index.html",
+        "slug": "en-forms-gse-expo",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Forms/Rent-A-Truck/",
+        "outputPath": "en/Forms/Rent-A-Truck/index.html",
+        "slug": "en-forms-rent-a-truck",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Landingpage/Agility-on-point/",
+        "outputPath": "en/Landingpage/Agility-on-point/index.html",
+        "slug": "en-landingpage-agility-on-point",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Landingpage/Automation-Summit-2025/",
+        "outputPath": "en/Landingpage/Automation-Summit-2025/index.html",
+        "slug": "en-landingpage-automation-summit-2025",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Landingpage/Compact-class-with-electric-drive/",
+        "outputPath": "en/Landingpage/Compact-class-with-electric-drive/index.html",
+        "slug": "en-landingpage-compact-class-with-electric-drive",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Landingpage/E-models/",
+        "outputPath": "en/Landingpage/E-models/index.html",
+        "slug": "en-landingpage-e-models",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Landingpage/Glasses/",
+        "outputPath": "en/Landingpage/Glasses/index.html",
+        "slug": "en-landingpage-glasses",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Landingpage/GSE-Expo/",
+        "outputPath": "en/Landingpage/GSE-Expo/index.html",
+        "slug": "en-landingpage-gse-expo",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Landingpage/H-models/",
+        "outputPath": "en/Landingpage/H-models/index.html",
+        "slug": "en-landingpage-h-models",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Landingpage/Happy-Driver/",
+        "outputPath": "en/Landingpage/Happy-Driver/index.html",
+        "slug": "en-landingpage-happy-driver",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Landingpage/In-Sync/",
+        "outputPath": "en/Landingpage/In-Sync/index.html",
+        "slug": "en-landingpage-in-sync",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Landingpage/Logimat/",
+        "outputPath": "en/Landingpage/Logimat/index.html",
+        "slug": "en-landingpage-logimat",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Landingpage/Next-Champ/",
+        "outputPath": "en/Landingpage/Next-Champ/index.html",
+        "slug": "en-landingpage-next-champ",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Landingpage/Platform-Counterbalanced-Trucks/",
+        "outputPath": "en/Landingpage/Platform-Counterbalanced-Trucks/index.html",
+        "slug": "en-landingpage-platform-counterbalanced-trucks",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Landingpage/R-Matic/",
+        "outputPath": "en/Landingpage/R-Matic/index.html",
+        "slug": "en-landingpage-r-matic",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Landingpage/Safely-to-the-top/",
+        "outputPath": "en/Landingpage/Safely-to-the-top/index.html",
+        "slug": "en-landingpage-safely-to-the-top",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Landingpage/Semi-automated-order-pickers/",
+        "outputPath": "en/Landingpage/Semi-automated-order-pickers/index.html",
+        "slug": "en-landingpage-semi-automated-order-pickers",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Landingpage/X-models/",
+        "outputPath": "en/Landingpage/X-models/index.html",
+        "slug": "en-landingpage-x-models",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Landingpage/X-Range/",
+        "outputPath": "en/Landingpage/X-Range/index.html",
+        "slug": "en-landingpage-x-range",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Legal-Notes/Cookie-Policy/",
+        "outputPath": "en/Legal-Notes/Cookie-Policy/index.html",
+        "slug": "en-legal-notes-cookie-policy",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Legal-Notes/Legal/",
+        "outputPath": "en/Legal-Notes/Legal/index.html",
+        "slug": "en-legal-notes-legal",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Legal-Notes/PPAP/",
+        "outputPath": "en/Legal-Notes/PPAP/index.html",
+        "slug": "en-legal-notes-ppap",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Legal-Notes/Privacy-Statement/",
+        "outputPath": "en/Legal-Notes/Privacy-Statement/index.html",
+        "slug": "en-legal-notes-privacy-statement",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Legal-Notes/Terms-of-use/",
+        "outputPath": "en/Legal-Notes/Terms-of-use/index.html",
+        "slug": "en-legal-notes-terms-of-use",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Linde-Core/Linde-Ergonomics.html",
+        "outputPath": "en/Linde-Core/Linde-Ergonomics.html",
+        "slug": "en-linde-core-linde-ergonomics-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Linde-Core/Linde-Productivity.html",
+        "outputPath": "en/Linde-Core/Linde-Productivity.html",
+        "slug": "en-linde-core-linde-productivity-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Productfinder.html",
+        "outputPath": "en/Productfinder.html",
+        "slug": "en-productfinder-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/Approved-Trucks/",
+        "outputPath": "en/Products/Approved-Trucks/index.html",
+        "slug": "en-products-approved-trucks",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/Automated-Trucks/",
+        "outputPath": "en/Products/Automated-Trucks/index.html",
+        "slug": "en-products-automated-trucks",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/Diesel-Forklifts/",
+        "outputPath": "en/Products/Diesel-Forklifts/index.html",
+        "slug": "en-products-diesel-forklifts-d344",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/Diesel-forklifts/",
+        "outputPath": "en/Products/Diesel-forklifts/index.html",
+        "slug": "en-products-diesel-forklifts",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/E-Trucks/",
+        "outputPath": "en/Products/E-Trucks/index.html",
+        "slug": "en-products-e-trucks",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/Explosion-Proof-Trucks/",
+        "outputPath": "en/Products/Explosion-Proof-Trucks/index.html",
+        "slug": "en-products-explosion-proof-trucks",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/Forklift-Hire/",
+        "outputPath": "en/Products/Forklift-Hire/index.html",
+        "slug": "en-products-forklift-hire",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/Forklift-Truck/",
+        "outputPath": "en/Products/Forklift-Truck/index.html",
+        "slug": "en-products-forklift-truck",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/Gas-forklifts/",
+        "outputPath": "en/Products/Gas-forklifts/index.html",
+        "slug": "en-products-gas-forklifts",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/Hand-Pallet-Trucks/",
+        "outputPath": "en/Products/Hand-Pallet-Trucks/index.html",
+        "slug": "en-products-hand-pallet-trucks",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/Heavy-Duty-Forklifts/",
+        "outputPath": "en/Products/Heavy-Duty-Forklifts/index.html",
+        "slug": "en-products-heavy-duty-forklifts",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/IC-Trucks/",
+        "outputPath": "en/Products/IC-Trucks/index.html",
+        "slug": "en-products-ic-trucks",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/Order-Pickers/",
+        "outputPath": "en/Products/Order-Pickers/index.html",
+        "slug": "en-products-order-pickers",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/Pallet-Stackers/",
+        "outputPath": "en/Products/Pallet-Stackers/index.html",
+        "slug": "en-products-pallet-stackers",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/Pallet-Trucks/",
+        "outputPath": "en/Products/Pallet-Trucks/index.html",
+        "slug": "en-products-pallet-trucks",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/Productfinder/",
+        "outputPath": "en/Products/Productfinder/index.html",
+        "slug": "en-products-productfinder",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/Reach-Trucks/",
+        "outputPath": "en/Products/Reach-Trucks/index.html",
+        "slug": "en-products-reach-trucks",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/Tow-Trucks/",
+        "outputPath": "en/Products/Tow-Trucks/index.html",
+        "slug": "en-products-tow-trucks",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/Tugger-Trains/",
+        "outputPath": "en/Products/Tugger-Trains/index.html",
+        "slug": "en-products-tugger-trains",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/Very-Narrow-Aisle-Trucks/",
+        "outputPath": "en/Products/Very-Narrow-Aisle-Trucks/index.html",
+        "slug": "en-products-very-narrow-aisle-trucks",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Products/",
+        "outputPath": "en/Products/index.html",
+        "slug": "en-products",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Service/Genuine-Spare-Parts/",
+        "outputPath": "en/Service/Genuine-Spare-Parts/index.html",
+        "slug": "en-service-genuine-spare-parts",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Service/Maintenance-Repair/",
+        "outputPath": "en/Service/Maintenance-Repair/index.html",
+        "slug": "en-service-maintenance-repair",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Service/Retrofit-Accessories/",
+        "outputPath": "en/Service/Retrofit-Accessories/index.html",
+        "slug": "en-service-retrofit-accessories",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Service/Technical-Safety-Services/",
+        "outputPath": "en/Service/Technical-Safety-Services/index.html",
+        "slug": "en-service-technical-safety-services",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Service/Training/",
+        "outputPath": "en/Service/Training/index.html",
+        "slug": "en-service-training",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Service/",
+        "outputPath": "en/Service/index.html",
+        "slug": "en-service",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Solutions/Consulting/",
+        "outputPath": "en/Solutions/Consulting/index.html",
+        "slug": "en-solutions-consulting",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Solutions/Energy-Systems/",
+        "outputPath": "en/Solutions/Energy-Systems/index.html",
+        "slug": "en-solutions-energy-systems",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Solutions/Financing/",
+        "outputPath": "en/Solutions/Financing/index.html",
+        "slug": "en-solutions-financing",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Solutions/Fleet-Management/",
+        "outputPath": "en/Solutions/Fleet-Management/index.html",
+        "slug": "en-solutions-fleet-management",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Solutions/Intralogistics-Automation/",
+        "outputPath": "en/Solutions/Intralogistics-Automation/index.html",
+        "slug": "en-solutions-intralogistics-automation",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Solutions/Overview.html",
+        "outputPath": "en/Solutions/Overview.html",
+        "slug": "en-solutions-overview-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/Solutions/Warehouse-Safety/",
+        "outputPath": "en/Solutions/Warehouse-Safety/index.html",
+        "slug": "en-solutions-warehouse-safety",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/Location-Finder.html",
+        "outputPath": "en/technical/Location-Finder.html",
+        "slug": "en-technical-location-finder-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/News-Detail_101184.html",
+        "outputPath": "en/technical/News-Detail_101184.html",
+        "slug": "en-technical-news-detail-101184-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/News-Detail_101442.html",
+        "outputPath": "en/technical/News-Detail_101442.html",
+        "slug": "en-technical-news-detail-101442-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/News-Detail_101760.html",
+        "outputPath": "en/technical/News-Detail_101760.html",
+        "slug": "en-technical-news-detail-101760-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/News-Detail_1033728.html",
+        "outputPath": "en/technical/News-Detail_1033728.html",
+        "slug": "en-technical-news-detail-1033728-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/News-Detail_105280.html",
+        "outputPath": "en/technical/News-Detail_105280.html",
+        "slug": "en-technical-news-detail-105280-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/News-Detail_108480.html",
+        "outputPath": "en/technical/News-Detail_108480.html",
+        "slug": "en-technical-news-detail-108480-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/News-Detail_112000.html",
+        "outputPath": "en/technical/News-Detail_112000.html",
+        "slug": "en-technical-news-detail-112000-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/News-Detail_114368.html",
+        "outputPath": "en/technical/News-Detail_114368.html",
+        "slug": "en-technical-news-detail-114368-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/News-Detail_116352.html",
+        "outputPath": "en/technical/News-Detail_116352.html",
+        "slug": "en-technical-news-detail-116352-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/News-Detail_118656.html",
+        "outputPath": "en/technical/News-Detail_118656.html",
+        "slug": "en-technical-news-detail-118656-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/News-Detail_119232.html",
+        "outputPath": "en/technical/News-Detail_119232.html",
+        "slug": "en-technical-news-detail-119232-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/News-Detail_1254145.html",
+        "outputPath": "en/technical/News-Detail_1254145.html",
+        "slug": "en-technical-news-detail-1254145-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/News-Detail_1310802.html",
+        "outputPath": "en/technical/News-Detail_1310802.html",
+        "slug": "en-technical-news-detail-1310802-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/News-Detail_132012.html",
+        "outputPath": "en/technical/News-Detail_132012.html",
+        "slug": "en-technical-news-detail-132012-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/News-Detail_1436407.html",
+        "outputPath": "en/technical/News-Detail_1436407.html",
+        "slug": "en-technical-news-detail-1436407-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/News-Detail_1445120.html",
+        "outputPath": "en/technical/News-Detail_1445120.html",
+        "slug": "en-technical-news-detail-1445120-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/News-Detail_1710976.html",
+        "outputPath": "en/technical/News-Detail_1710976.html",
+        "slug": "en-technical-news-detail-1710976-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/technical/News-Detail_18902.html",
+        "outputPath": "en/technical/News-Detail_18902.html",
+        "slug": "en-technical-news-detail-18902-html",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/en/",
+        "outputPath": "en/index.html",
+        "slug": "en",
+        "outputPathDefault": null
+      }
+    ],
+    "totalAssetsBundled": 15,
+    "bundledAssets": [
+      "canon.css",
+      "chrome.js",
+      "en-about-us-press.css",
+      "en-forms-global-contact-form.css",
+      "en-landingpage-e-models.css",
+      "en-legal-notes-privacy-statement.css",
+      "en-productfinder-html.css",
+      "en-products-e-trucks.css",
+      "en-technical-location-finder-html.css",
+      "en-technical-news-detail-101184-html.css",
+      "en.css",
+      "fonts/LindeGlobalIconFont.ttf",
+      "fonts/NotoSans-Variable.woff2",
+      "fonts/NunitoSans-400.woff2",
+      "fonts/NunitoSans-700.woff2"
+    ],
+    "pages": [
+      {
+        "slug": "en-about-us-press",
+        "file": "stardust/migrated/en/About-us/Press/index.html",
+        "assetsBundled": 7
+      },
+      {
+        "slug": "en-legal-notes-privacy-statement",
+        "file": "stardust/migrated/en/Legal-Notes/Privacy-Statement/index.html",
+        "assetsBundled": 3
+      },
+      {
+        "slug": "en-technical-news-detail-101184-html",
+        "file": "stardust/migrated/en/technical/News-Detail_101184.html",
+        "assetsBundled": 3
+      },
+      {
+        "slug": "en-forms-global-contact-form",
+        "file": "stardust/migrated/en/Forms/Global-Contact-Form/index.html",
+        "assetsBundled": 7
+      },
+      {
+        "slug": "en-landingpage-e-models",
+        "file": "stardust/migrated/en/Landingpage/E-models/index.html",
+        "assetsBundled": 3
+      },
+      {
+        "slug": "en-productfinder-html",
+        "file": "stardust/migrated/en/Productfinder.html",
+        "assetsBundled": 3
+      },
+      {
+        "slug": "en-products-e-trucks",
+        "file": "stardust/migrated/en/Products/E-Trucks/index.html",
+        "assetsBundled": 3
+      },
+      {
+        "slug": "en-technical-location-finder-html",
+        "file": "stardust/migrated/en/technical/Location-Finder.html",
+        "assetsBundled": 3
+      },
+      {
+        "slug": "en",
+        "file": "stardust/migrated/en/index.html",
+        "assetsBundled": 3
+      },
+      {
+        "slug": "en-edi",
+        "file": "stardust/migrated/en/EDI/index.html",
+        "assetsBundled": 5
+      },
+      {
+        "slug": "en-landingpage-semi-automated-order-pickers",
+        "file": "stardust/migrated/en/Landingpage/Semi-automated-order-pickers/index.html",
+        "assetsBundled": 5
+      },
+      {
+        "slug": "en-legal-notes-cookie-policy",
+        "file": "stardust/migrated/en/Legal-Notes/Cookie-Policy/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-legal-notes-legal",
+        "file": "stardust/migrated/en/Legal-Notes/Legal/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-legal-notes-ppap",
+        "file": "stardust/migrated/en/Legal-Notes/PPAP/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-legal-notes-terms-of-use",
+        "file": "stardust/migrated/en/Legal-Notes/Terms-of-use/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-technical-news-detail-101442-html",
+        "file": "stardust/migrated/en/technical/News-Detail_101442.html",
+        "assetsBundled": 5
+      },
+      {
+        "slug": "en-technical-news-detail-101760-html",
+        "file": "stardust/migrated/en/technical/News-Detail_101760.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-technical-news-detail-1033728-html",
+        "file": "stardust/migrated/en/technical/News-Detail_1033728.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-technical-news-detail-105280-html",
+        "file": "stardust/migrated/en/technical/News-Detail_105280.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-technical-news-detail-108480-html",
+        "file": "stardust/migrated/en/technical/News-Detail_108480.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-technical-news-detail-112000-html",
+        "file": "stardust/migrated/en/technical/News-Detail_112000.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-technical-news-detail-114368-html",
+        "file": "stardust/migrated/en/technical/News-Detail_114368.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-technical-news-detail-116352-html",
+        "file": "stardust/migrated/en/technical/News-Detail_116352.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-technical-news-detail-118656-html",
+        "file": "stardust/migrated/en/technical/News-Detail_118656.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-technical-news-detail-119232-html",
+        "file": "stardust/migrated/en/technical/News-Detail_119232.html",
+        "assetsBundled": 5
+      },
+      {
+        "slug": "en-technical-news-detail-1254145-html",
+        "file": "stardust/migrated/en/technical/News-Detail_1254145.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-technical-news-detail-1310802-html",
+        "file": "stardust/migrated/en/technical/News-Detail_1310802.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-technical-news-detail-132012-html",
+        "file": "stardust/migrated/en/technical/News-Detail_132012.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-technical-news-detail-1436407-html",
+        "file": "stardust/migrated/en/technical/News-Detail_1436407.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-technical-news-detail-1445120-html",
+        "file": "stardust/migrated/en/technical/News-Detail_1445120.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-technical-news-detail-1710976-html",
+        "file": "stardust/migrated/en/technical/News-Detail_1710976.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-technical-news-detail-18902-html",
+        "file": "stardust/migrated/en/technical/News-Detail_18902.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-about-us-company",
+        "file": "stardust/migrated/en/About-us/Company/index.html",
+        "assetsBundled": 5
+      },
+      {
+        "slug": "en-about-us-working-at-linde",
+        "file": "stardust/migrated/en/About-us/Working-at-Linde/index.html",
+        "assetsBundled": 5
+      },
+      {
+        "slug": "en-landingpage-agility-on-point",
+        "file": "stardust/migrated/en/Landingpage/Agility-on-point/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-landingpage-automation-summit-2025",
+        "file": "stardust/migrated/en/Landingpage/Automation-Summit-2025/index.html",
+        "assetsBundled": 5
+      },
+      {
+        "slug": "en-landingpage-compact-class-with-electric-drive",
+        "file": "stardust/migrated/en/Landingpage/Compact-class-with-electric-drive/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-landingpage-glasses",
+        "file": "stardust/migrated/en/Landingpage/Glasses/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-landingpage-gse-expo",
+        "file": "stardust/migrated/en/Landingpage/GSE-Expo/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-landingpage-h-models",
+        "file": "stardust/migrated/en/Landingpage/H-models/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-landingpage-happy-driver",
+        "file": "stardust/migrated/en/Landingpage/Happy-Driver/index.html",
+        "assetsBundled": 5
+      },
+      {
+        "slug": "en-landingpage-in-sync",
+        "file": "stardust/migrated/en/Landingpage/In-Sync/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-landingpage-logimat",
+        "file": "stardust/migrated/en/Landingpage/Logimat/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-landingpage-next-champ",
+        "file": "stardust/migrated/en/Landingpage/Next-Champ/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-landingpage-platform-counterbalanced-trucks",
+        "file": "stardust/migrated/en/Landingpage/Platform-Counterbalanced-Trucks/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-landingpage-r-matic",
+        "file": "stardust/migrated/en/Landingpage/R-Matic/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-landingpage-safely-to-the-top",
+        "file": "stardust/migrated/en/Landingpage/Safely-to-the-top/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-landingpage-x-models",
+        "file": "stardust/migrated/en/Landingpage/X-models/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-landingpage-x-range",
+        "file": "stardust/migrated/en/Landingpage/X-Range/index.html",
+        "assetsBundled": 5
+      },
+      {
+        "slug": "en-products-gas-forklifts",
+        "file": "stardust/migrated/en/Products/Gas-forklifts/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-products-hand-pallet-trucks",
+        "file": "stardust/migrated/en/Products/Hand-Pallet-Trucks/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-products-heavy-duty-forklifts",
+        "file": "stardust/migrated/en/Products/Heavy-Duty-Forklifts/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-products-pallet-stackers",
+        "file": "stardust/migrated/en/Products/Pallet-Stackers/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-products-tugger-trains",
+        "file": "stardust/migrated/en/Products/Tugger-Trains/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-service-genuine-spare-parts",
+        "file": "stardust/migrated/en/Service/Genuine-Spare-Parts/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-service-maintenance-repair",
+        "file": "stardust/migrated/en/Service/Maintenance-Repair/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-service-retrofit-accessories",
+        "file": "stardust/migrated/en/Service/Retrofit-Accessories/index.html",
+        "assetsBundled": 5
+      },
+      {
+        "slug": "en-service-technical-safety-services",
+        "file": "stardust/migrated/en/Service/Technical-Safety-Services/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-solutions-energy-systems",
+        "file": "stardust/migrated/en/Solutions/Energy-Systems/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-solutions-financing",
+        "file": "stardust/migrated/en/Solutions/Financing/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-solutions-fleet-management",
+        "file": "stardust/migrated/en/Solutions/Fleet-Management/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-solutions-intralogistics-automation",
+        "file": "stardust/migrated/en/Solutions/Intralogistics-Automation/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-solutions-warehouse-safety",
+        "file": "stardust/migrated/en/Solutions/Warehouse-Safety/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-about-us-awards",
+        "file": "stardust/migrated/en/About-us/Awards/index.html",
+        "assetsBundled": 5
+      },
+      {
+        "slug": "en-about-us-certificates",
+        "file": "stardust/migrated/en/About-us/Certificates/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-about-us-sustainability",
+        "file": "stardust/migrated/en/About-us/Sustainability/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-linde-core-linde-ergonomics-html",
+        "file": "stardust/migrated/en/Linde-Core/Linde-Ergonomics.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-linde-core-linde-productivity-html",
+        "file": "stardust/migrated/en/Linde-Core/Linde-Productivity.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-products-approved-trucks",
+        "file": "stardust/migrated/en/Products/Approved-Trucks/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-products-explosion-proof-trucks",
+        "file": "stardust/migrated/en/Products/Explosion-Proof-Trucks/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-products-forklift-hire",
+        "file": "stardust/migrated/en/Products/Forklift-Hire/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-products-forklift-truck",
+        "file": "stardust/migrated/en/Products/Forklift-Truck/index.html",
+        "assetsBundled": 5
+      },
+      {
+        "slug": "en-products-ic-trucks",
+        "file": "stardust/migrated/en/Products/IC-Trucks/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-products-order-pickers",
+        "file": "stardust/migrated/en/Products/Order-Pickers/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-products-pallet-trucks",
+        "file": "stardust/migrated/en/Products/Pallet-Trucks/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-products-reach-trucks",
+        "file": "stardust/migrated/en/Products/Reach-Trucks/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-products-tow-trucks",
+        "file": "stardust/migrated/en/Products/Tow-Trucks/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-products-very-narrow-aisle-trucks",
+        "file": "stardust/migrated/en/Products/Very-Narrow-Aisle-Trucks/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-service-training",
+        "file": "stardust/migrated/en/Service/Training/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-about-us",
+        "file": "stardust/migrated/en/About-us/index.html",
+        "assetsBundled": 5
+      },
+      {
+        "slug": "en-about-us-events",
+        "file": "stardust/migrated/en/About-us/Events/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-about-us-innovations-from-linde",
+        "file": "stardust/migrated/en/About-us/Innovations-from-Linde/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-about-us-magazine",
+        "file": "stardust/migrated/en/About-us/Magazine/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-about-us-media",
+        "file": "stardust/migrated/en/About-us/Media/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-products",
+        "file": "stardust/migrated/en/Products/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-products-automated-trucks",
+        "file": "stardust/migrated/en/Products/Automated-Trucks/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-service",
+        "file": "stardust/migrated/en/Service/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-solutions-consulting",
+        "file": "stardust/migrated/en/Solutions/Consulting/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-solutions-overview-html",
+        "file": "stardust/migrated/en/Solutions/Overview.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-forms-agility-on-point-form",
+        "file": "stardust/migrated/en/Forms/agility-on-point-form/index.html",
+        "assetsBundled": 5
+      },
+      {
+        "slug": "en-forms-automation-campaign",
+        "file": "stardust/migrated/en/Forms/Automation-Campaign/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-forms-ex-proof-form",
+        "file": "stardust/migrated/en/Forms/Ex-Proof_Form/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-forms-gc-li-ion-recycling",
+        "file": "stardust/migrated/en/Forms-GC/Li-ION-Recycling/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-forms-gc-next-champ-form",
+        "file": "stardust/migrated/en/Forms-GC/Next-Champ-Form/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-forms-gse-expo",
+        "file": "stardust/migrated/en/Forms/GSE-Expo/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-forms-rent-a-truck",
+        "file": "stardust/migrated/en/Forms/Rent-A-Truck/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "en-products-productfinder",
+        "file": "stardust/migrated/en/Products/Productfinder/index.html",
+        "assetsBundled": 5
+      }
+    ],
+    "missingAssets": [],
+    "cleanedAssets": [],
+    "lastRun": {
+      "at": "2026-10-07T04:39:31Z",
+      "rendered": [
+        "en-products-productfinder"
+      ],
+      "unchanged": [],
+      "refused": [],
+      "passthrough": []
+    }
+  }
+}

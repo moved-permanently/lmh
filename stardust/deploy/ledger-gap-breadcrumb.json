@@ -1,0 +1,272 @@
+{
+  "/en/about-us/company": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:26:58.502Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/events": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:26:58.503Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/innovations-from-linde": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:26:58.503Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/magazine": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:26:58.503Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/media": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:04.634Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/press": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:04.723Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/working-at-linde": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:05.449Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:07.262Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/agility-on-point": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:11.514Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/glasses": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:12.081Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/h-models": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:12.639Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/r-matic": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:17.246Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/x-range": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:17.363Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/automated-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:18.202Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/gas-forklifts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:18.275Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/hand-pallet-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:22.553Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/pallet-stackers": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:23.480Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/tugger-trains": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:23.524Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:23.669Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/genuine-spare-parts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:28.156Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/maintenance-repair": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:28.375Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/retrofit-accessories": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:28.670Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/technical-safety-services": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:29.133Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:33.237Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/energy-systems": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:33.730Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/financing": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:34.209Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/fleet-management": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:34.603Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/intralogistics-automation": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:38.276Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/overview": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:39.217Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/warehouse-safety": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T05:27:39.473Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

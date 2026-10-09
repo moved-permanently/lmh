@@ -1,0 +1,657 @@
+{
+ "source": "http://localhost:8805/stardust/migrated/en/Products/Automated-Trucks/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Automated industrial trucks"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Technology in flux"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find your automated truck here!",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?productTypes[]=2368&offerType=new"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Automated industrial trucks are the future of efficient material flow. They take over tiring transport tasks from employees, increase the handling volume, and reduce the error and accident rates in the warehouse."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "With the electric forklift trucks, pallet trucks, tow tractors, and mobile platforms of the MATIC series, Linde Material Handling offers a wide range of advanced automation solutions. All automated industrial trucks are equipped with intelligent navigation and safety technology, while AGVs based on our proven conventional warehouse trucks can also be maneuvered using the manual controls if necessary."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "An overview of all automated industrial trucks"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "C-MATIC – automated mobile platform",
+     "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/C-MATIC/"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The compact C-MATIC is ideal for direct pallet or table transport over short and medium distances. Thanks to QR code navigation, flexible route control, and safe handling, it navigates tight spaces with ease and ensures a reliable flow of materials even in mixed-use environments."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/C-MATIC/"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "C-MATIC HP – autonomous mobile robot (AMR)",
+     "href": "../../../en/Products/Automated-Trucks/C-MATIC-HP/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The C-MATIC HP moves pallets and roll cages weighing up to 1,000 kilograms over medium and long distances. It maps its own route and can navigate around obstacles on its own. No permanently installed infrastructure is required. Thanks to its flexible load-handling capabilities, it can also handle load carriers that are not ideally positioned."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/Products/Automated-Trucks/C-MATIC-HP/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "L-MATIC core – compact pallet stacker",
+     "href": "../../../en/Products/Automated-Trucks/L-MATIC-core/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The compact L-MATIC core is ideal for tight workspaces. It is suitable for floor-level transport as well as conveyor belt applications and handles the storage and retrieval of goods at low heights. Thanks to 360-degree safety scanners and quick setup, it can be easily integrated into existing workflows."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../../en/Products/Automated-Trucks/L-MATIC-core/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "L-MATIC – Pallet Stacker",
+     "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/L-Matic/"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "The L-MATIC automates storage and retrieval operations at low heights and handles transport along fixed routes as well as double-deck loading. Thanks to state-of-the-art navigation software, it operates flexibly as a standalone unit or as part of a fleet and interacts safely with people, vehicles, and infrastructure."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Find out more",
+     "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/L-Matic/"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "L-MATIC HD k – pallet stacker",
+     "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/L-MATIC-HD/"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The L-MATIC HD k is designed for medium loads and lift heights of up to 3.8 meters. Comprehensive sensors for load and environment detection ensure high process reliability. For smooth 24/7 operation, the truck automatically navigates to the charging station when its charge level is low."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/L-MATIC-HD/"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "L-MATIC AC – Counterbalanced Pallet Stacker",
+     "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/L-Matic-AC/"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Thanks to its cantilever forks, the L-MATIC AC can also handle closed load carriers and operates flexibly at transfer stations without underrun protection. With lifting heights of up to 4.2 meters, it is suitable for a variety of applications and ensures smooth operation due to its comprehensive safety features."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/L-Matic-AC/"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "L-MATIC AC k – counterbalanced pallet stacker",
+     "href": "../../../en/Products/Automated-Trucks/L-MATIC-AC-k/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The L-MATIC AC k combines load capacities of up to 1,400 kilograms with a stacking height of up to 3.8 meters. Thanks to its cantilever forks, it can also pick up closed load carriers directly from the floor. Comprehensive sensor technology and variable fork options enable precise handling in a wide range of applications."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../../en/Products/Automated-Trucks/L-MATIC-AC-k/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "P-MATIC – Tow Tractor",
+     "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/P-Matic/"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "The P-MATIC handles cargo transport in confined spaces and moves loads of up to 5,000 kilograms. Be it for production supply, tugger train applications, or material removal, it ensures reliable transport processes at all times – whether used as a standalone unit or as part of an autonomous fleet."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Find out more",
+     "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/P-Matic/"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "R-MATIC – Reach truck",
+     "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/R-Matic/"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The R-MATIC handles storage and retrieval operations at heights of up to 11 meters and transports loads weighing up to 1,600 kilograms. The 3D camera system enables precise load handling, while the advanced navigation software allows for flexible use without the need for additional infrastructure."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/R-Matic/"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "R-MATIC k – Reach truck",
+     "href": "../../../en/Products/Automated-Trucks/R-MATIC-k/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The R-MATIC k operates at heights of up to 10 meters and can handle loads of up to 2,300 kilograms. With comprehensive safety features and seamless integration into existing processes, this automated forklift is ideal for existing facilities and can be easily deployed in fleets of any size."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/Products/Automated-Trucks/R-MATIC-k/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "K-MATIC – Very Narrow Aisle Truck (VNA)",
+     "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/K-Matic/"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The K-MATIC automates complex processes in narrow-aisle warehouses and handles lift heights of up to 14 meters. Its navigation software enables operation without the need for additional infrastructure. At the same time, its precise integration with conveyor systems or transfer stations ensures high throughput."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "https://www.linde-mh.de/de/Produkte/Automatisierte-Fahrzeuge/K-Matic/"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Discover all automated industrial trucks",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?productTypes[]=2368&offerType=new"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Customized automated industrial trucks: the I-MATIC line from Linde MH"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Applications with particularly demanding requirements call for solutions that go beyond the standard product portfolio. This is precisely why Linde Material Handling developed the I-MATIC line: customizable, automated guided vehicles (AGVs) based on proven Linde vehicle technology. The possibilities range from special attachments such as paper clamps, special forks, or roller conveyors to versions designed for extreme operating conditions, such as cold storage facilities or particularly confined spaces."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "2"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "3"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Learn more about the I-MATIC series and contact our experts!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Fully scalable: Easy to get started, flexible as you grow"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Making the move to automation doesn’t have to be a leap into the unknown. With Linde MH, you can make the transition simple, low-risk, and at your own pace. Our system adapts to your needs step by step, from the first automated sub-process to a fully autonomous fleet. This way, you maintain full control over costs at all times and see immediate benefits in your day-to-day operations."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Learn more about our intralogistics and automation solutions!",
+     "href": "../../../en/Solutions/Intralogistics-Automation/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "On-site rapid test"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Within a day, we’ll work with you to assess feasibility directly in your actual work environment."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Ready to use"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Once testing is complete, your systems will be up and running in just three days and will integrate seamlessly into your processes."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Gradual expansion"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Start small, with one to five trucks. Then scale up gradually as your needs grow."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Full Control"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Use intuitive software and digital mapping to adjust routes, safety zones, and handoff points on your own at any time."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Solutions for every level of automation"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "No matter how quickly your needs grow, our solutions keep pace. The control software suite MATIC:move and MATIC:move+ for our mobile systems is highly scalable and integrates seamlessly into your existing IT infrastructure. MATIC:move+ integrates perfectly with , but is also compatible with other popular WMS systems via the standard VDA 5050 interface. This allows you to manage manual, mobile, and stationary components from a single, central location."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Linde Warehouse Manager",
+     "href": "../../../en/Solutions/Intralogistics-Automation/Warehouse-Management-System/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Automation in practice"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "From manufacturing and mechanical engineering to contract logistics: companies across a wide range of industries are already relying on automated intralogistics solutions from Linde Material Handling. Our customer stories show how businesses are making their processes more efficient, safer, and more cost-effective using automated industrial trucks, intelligent software, and comprehensive material flow consulting."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Solutions/Intralogistics-Automation/User-cases-intralogistics/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "More about our intralogistics and automation solutions"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Intralogistics and Automation",
+     "href": "../../../en/Solutions/Intralogistics-Automation/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Comprehensive solutions for intralogistics and automation from Linde Material Handling: efficient and scalable. For greater productivity, flexibility, and safety in the warehouse."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Solutions/Intralogistics-Automation/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Warehouse Automation",
+     "href": "../../../en/Solutions/Intralogistics-Automation/Automated-Warehouse/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Automated Warehouse with Linde MH: Scalable automation for efficient, safe, and flexible material flow."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/Solutions/Intralogistics-Automation/Automated-Warehouse/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Warehouse Management System (WMS)",
+     "href": "../../../en/Solutions/Intralogistics-Automation/Warehouse-Management-System/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The Linde Warehouse Manager is an integrated warehouse management system (WMS) that orchestrates all warehouse processes for optimal goods flow and maximum productivity."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../../en/Solutions/Intralogistics-Automation/Warehouse-Management-System/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Material Flow Consulting",
+     "href": "../../../en/Solutions/Consulting/Material-Flow-Consulting/index.html"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Linde Material Handling offers its customers comprehensive system consulting in order to help them optimize their internal material flows."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Find out more",
+     "href": "../../../en/Solutions/Consulting/Material-Flow-Consulting/index.html"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Want to learn more? Contact our automation experts!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  }
+ ]
+}

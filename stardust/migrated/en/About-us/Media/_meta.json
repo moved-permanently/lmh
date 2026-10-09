@@ -1,0 +1,982 @@
+{
+  "slug": "en-about-us-media",
+  "type": "listing",
+  "renderBranch": "A'",
+  "template": "en-about-us-press",
+  "modules": [
+    "breadcrumb",
+    "filter",
+    "news-cards"
+  ],
+  "slotsFilled": [
+    "layout-passepartout"
+  ],
+  "canonShas": {
+    "header": null,
+    "footer": null,
+    "css": "2af9d5c8d203"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Linde-MH",
+    "description": null,
+    "canonical": null,
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Linde-MH",
+    "url": "https://www.linde-mh.com/en/About-us/Media/"
+  },
+  "migratedAt": "2026-10-07T00:15:11Z",
+  "designMdSha": "c34e48b1797a",
+  "designJsonSha": "c785ce242381",
+  "sourceCurrentSha": "c1ef1dcf7f33",
+  "sourceProposedSha": "c24d40b319ac",
+  "fidelityTier": "sibling",
+  "archetypeSource": "en-about-us-press",
+  "archetypeSha": "ca992e8a769c",
+  "variants": [
+    "filter-heading card-download cta-icon"
+  ],
+  "gatesPassed": [
+    "variance-probe",
+    "content-count",
+    "content-fidelity"
+  ],
+  "gateEvidence": {
+    "variance-probe": "sibling-variance.mjs 1440 over the 10 listing siblings vs archetype /en/About-us/Press/ (job rlist-variance, stardust/rollout/units/variance-listing.json): computed deltas only card/teaser rect width 280→384/592 (row family layout-33/50--fixed vs the archetype layout-25--fixed), teaser backgroundColor lightgrey→white (archetype cards sit on .layout--lightgrey) and 2–3 style clusters (teaser | teaser--card | teaser--icon-text) — all budgeted as declared variants of related-teasers/news-cards; Media filter rect 1154×141→1168×132 = no date control (content); every other line is presence/count (.header-intro/.filter-downloadarea absent, .header-image stage / .text-container band extra) = content-driven modules declared on the sidecar",
+    "content-count": "content-diff generic 1280, main #pjax-container (job rlist-cdiff2, stardust/.work/rollout/render-listing/cdiff-en-about-us-media.log): 160 findings, 159 structural 🔴 = ICON DIFF U+F130 download glyph vs empty icon box on the 159 download buttons (logged deviation icon-dropped), 0 text/link/heading findings; text nodes source 320 / build 320",
+    "content-fidelity": "verbatim from capture; deviations: 1 (icon-dropped, download glyph ×159)"
+  },
+  "contentDeviations": [
+    {
+      "kind": "icon-dropped",
+      "source": "LindeGlobalIconFont glyph U+F130 (48×48) inside the 159 download buttons (span.icon.icon-LMHIcondownloadblack)",
+      "target": "empty icon box (0×0) in the migrated HTML at the same 159 anchors (\"Download file\")",
+      "reason": "icon-font glyphs are block-rendered at delivery (same convention as the archetype's hidden icons); the class name is carried verbatim so the cluster encoder keys the glyph — content-diff rlist-cdiff2: 159 ICON DIFF, 0 other structural findings"
+    }
+  ],
+  "assetsBundled": 1,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-guided-vehicle/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Autonomous-mobile-robots/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Software/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-Warehouse/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Warehouse-Management-System/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Consulting/Material-Flow-Consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/User-cases-intralogistics/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Consulting/Fleet-Optimization.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/Energy-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Light-and-warning-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Assistance-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Safety-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Students-Scholars/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Apprentice/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Professionals/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=new",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental",
+      "reason": "in-inventory-not-migrated"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-guided-vehicle/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Autonomous-mobile-robots/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Software/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-Warehouse/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Warehouse-Management-System/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Consulting/Material-Flow-Consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/User-cases-intralogistics/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Consulting/Fleet-Optimization.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/Energy-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Light-and-warning-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Assistance-systems/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Safety-consulting/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Students-Scholars/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Apprentice/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/Professionals/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Search/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Approved-Trucks-Brochure_international.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Safety/Linde_Safety_Guard_Brochure_EN.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Safety/Linde_Safety_Pilot_Brochure_EN.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/01-Products/05_Very-Narrow-Aisle_Schmalganggeraete-VNA/Linde_VNA_Brochure_EN.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/LMH_Rental-Solutions-Brochure_international.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Distance-Beeper-Declaration_of_Conformity_0009734947_Linde.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Portable-Unit-Declaration_of_Conformity_0009734938-_Linde.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Sensor-Truck-Unit_7917416036_Linde.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity-Static-Unit_0009734929_Linde.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Truck-Unit-Small-2-zi_0009469007_08_20_Linde.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Truck-Unit-Small_0009469000_Linde.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Truck-Unit_0009460934_Linde.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Distance-Vest-Declaration_of_Conformity_0009734948_Linde.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Vest-Unit_Declaration_of_Conformity_0009734939_Linde.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Zone-Marker_0009469001_Linde.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_a_5224_en_b_0821.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_c_matic_8925_en_e_1025_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_c_matic_hp_10_8928_en_b_0523_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_d06_d10_d08m_1162_en_c_0725__view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_d06_d10_d08m_1162_en_c_0725__view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_d12_d14_sp_ap_hp_1161_en_b_0524_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_d12_d14_sp_ap_hp_1161_en_b_0524_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_d12s_d12sf_br1164_en_c_0517.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_d12_d14_1173_en_a_0221_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_d12_d14_ap_1173_en_a_0221_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_d12_d14_sp_ap_hp_1161_en_b_0524_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_e10_8917_e_a_1219.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_e100_e180_1471_en_d_0726.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_e14_e20_1251_en_b_0825_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_e16_e20_p_1251_en_b_0825_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_e20_e35_1252_en_a_0621_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_e35_e50_1254_en_a_0723_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_e60_e80_1279_en_b_0224_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_eg16_eg20_1275_02_en_b_0623_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_eg25__eg35_1276_02_en_b_1223_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_ei14_ei20_ei16_ei20_p_1251_en_a_0226_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_ei14_ei20_ei16_ei20_p_1251_en_a_0226_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_h100_h180_1401_en_d_1020_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_h16_h20_391_en_j_1024_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_h20_h35_1202_en_c_1020_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_h35_h50_1204_en_b_0724_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_h50_h80_396_04_en_p_0924_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_ht100_d_ht180_d_1411_en_i_0523_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_k_5231_en_c_0821_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_k_matic_5231_en_a_0224_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l_matic_br133_en_a_0216.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l_matic_ac_1170_en_c_1024_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l_matic_ac_k_1171_en_b_1225_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_tb_l_matic_hd_hdk_1173_01_en_b_0224_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_tb_l_matic_hd_hdk_1173_01_en_b_0224_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l_matic_core_1195_01_en_b_0425_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l06_l16_ac_1171_01_en_a_0819.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l10_l12b_as_4596_en_a_0724_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l10_l16b_4596_en_b_0624_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l14_l16_as_ap_1173_en_a_0221_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l14_16r_br1174_en_a_0617.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l14rw_l16rw_br1174_en_a_0618.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l14_l16_sp_1177_00_en_c_0524_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_1173_l14_20_0315_ind_b.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_l14_l20_ap_1173_01_en_c_1023_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_lt06_lt10_mw_8971_en_b_0726.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_lt10_wx_8974_en_a_0126_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_lt10_lt20c_b_bm_8970_01_en_a_1021_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_lt16_ch_bmh_8972_en_a_1123_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_m10x_m10xe_br033_en_a_0215.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_m25_br033_01_en_a_0318.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_m25_scale_en_052013.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_mm10_ml10_1167_en_d_1225_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_mp13_br8904_en_a_0818.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_mt15_c_1131_02_en_d_0325_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_mv01_8905_en_c_0623_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n16li_1115_en_b_0325_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n20c_d_4589_en_a_1121_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n20c_l_4590_en_a_1121_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n20c_lx_br4590_00_en_a_0419.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n20c_lol_br4589_00_en_a_0419.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n20d_1115_en_c_1124_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n20lol_1115_en_b_0325_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n20_xl_1115_en_b_0325_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n20_n25_4600_en_a_0226.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_n20c_4587_en_d_1124_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_p_matic_br1190_en_a_0216.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_p120_p350_5007_10_en_c_0322_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_p20_1193_en_c_0425_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_p40_p60_c_p40_c_b_4595_en_b_0625_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_p60_p80_1191_01_en_c_0523_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_r_matic_1120_en_b_0623_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_r_matic_k_5190_en_a_0425_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_r14_17x_br116_03_en_f_1216.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_r14_r20g_1120_en_e_1020_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_r14_r25_hd_w_n_1120_en_d_1224_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_r20_r25_f_8923_en_b_0125_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_ri14_ri18_1121_en_b_0526.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_t_matic_core_1153_en_a_0726.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_t14b_1132_en_b_0625_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_t14s_t20_25_s_sf_br1154_en_f_0417.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_t14_t20_1155_en_c_0624_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_t16_l_1155_en_a_0924_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_t16_t20_p_1155_en_b_0725_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_t20_25_ap_sp_1156_en_d_0625_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_t20_25r_br1154_en_a_0517.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_t20rw_t25rw_br1154_en_a_0618.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_t20_25_ap_sp_1156_en_d_0625_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_t20_25sr_br1154_en_a_0517.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_t25_t30_1153_en_b_0620_web.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_v_vmodular_5214_en_a_0123_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_v_vmodular_5214_en_a_0123_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_v08__4594_en_e_0721_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_v10_br5021_en_f_0119.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_w20_w30_5007_10_en_b_0122_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_x20_x35_1252_en_a_0621_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_x35_x50_1254_en_a_0323_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_xi10_xi20_1251_en_b_0825_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_xi14_xi20_r_xi16_xi20_rp_1251_en_b_0625_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_xi16_xi20_p_1251_en_b_0825_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Datasheets/EN_ds_xi14_xi20_r_xi16_xi20_rp_1251_en_b_0625_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Safety/Linde-Safety-Guard-(BG-CS-DA-EL-ET-FI)-Manual.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Safety/Linde-Safety-Guard-(DE-EN-ES-FR-IT-PT)-Manual.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Safety/Linde-Safety-Guard-(IS-HR-HU-LT-LV-NL-NO)-Manual.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Safety/Linde-Safety-Guard-(PL-RU-SK-SL-SV-TR-ZH)-Manual.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/UM_Linde-Warning-Projector_EN_FR_DE_IT_ES_PT_NL_EL_DA_SV_NO_FI_CS.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/UM_Linde-Warning-Projector_PL_TR_RU_LV_LT_ET_SL_SK_RO_HU_HR_BG_ZH.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Nutzungsinformationen-LWP-85-Pro-Geraetesteuerungsanschluss-DE-EN.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Linde-connect/Linde-connect-charger-(CS-HU-NL-PL-SK-SL)-Manual.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Linde-connect/Linde-connect-charger-(DE-EN-ES-FR-IT-PT)-Manual.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Motion-Detection/UM_Motion-Detection_current-truck-series_BG_CS_DA_EL_ET_FI_2110.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Motion-Detection/UM_Motion-Detection_current-truck-series_DE_EN_ES_FR_IT_PT_2110.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Motion-Detection/UM_Motion-Detection_current-truck-series_IS_HR_HU_LT_LV_NL_NO_2110.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Motion-Detection/UM_Motion-Detection_current-truck-series_PL_RO_RU_SK_SL_SV_TR_2110.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Linde_Rescue_Guide_Lithium-Ion-Battery_EN.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_b_heavy_trucks_e100_180_1471_en_a_1022_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_b_electric_counterbalance_trucks__e14_e20_xi10_xi20_en_a_1024_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_b_electric_counterbalance_trucks__e14_e20_xi10_xi20_en_a_1024_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_e_trucks_brochure.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_1401_h100_h180_en_a_0620.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_h20_h35_1202_01_en_a_1019.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_ht100_ht180_1411_en_a_1020.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_b_vna_guideline_en_b_1022_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_robotics_en_a_0216.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_robotics_en_a_0216.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_2_25t_tractor_range_en_d_0716.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_x_range_r14_r17x_en_d_0319.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_r14_r20_br1120_en_a_0213.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_b_electric_counterbalance_trucks__e14_e20_xi10_xi20_en_a_1024_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Brochures/EN_b_electric_counterbalance_trucks__e14_e20_xi10_xi20_en_a_1024_view.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/VR_Application_H20-H35_1202/VR_1202_TermsOfUse_Formatiert.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/08_Downloads/Virtual_Showroom_App/Terms_of_use_VirtualShowroom.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/media/Global-Content/01-Products/11_Automated-Trucks_Automatisierte-Stapler/Terms-of-Use/Linde_MH_Terms_of_use_telematics_EN.pdf",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/index.html",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "en/About-us/Media/index.html",
+  "outputPathDefault": null,
+  "sidecar": "en/About-us/Media/_meta.json",
+  "driverVersion": "1"
+}

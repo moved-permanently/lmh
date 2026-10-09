@@ -1,0 +1,176 @@
+{
+  "archetype": "en-landingpage-e-models",
+  "live": "https://www.linde-mh.com/en/Landingpage/E-models/",
+  "pages": 32,
+  "type": "landing",
+  "status": "residual",
+  "regime": "prototype",
+  "gatedAt": "2026-10-06",
+  "prototype": "stardust/prototypes/en-landingpage-e-models-proposed.html",
+  "css": "stardust/prototypes/en-landingpage-e-models.css",
+  "method": "clean re-author (v2)",
+  "methodNote": "Markup generated from OUR templates (stardust/.work/replica/landing-v2/build.mjs) fed with the captured content model (verbatim text, hrefs, hotlinked image src/srcset/alt) — no live DOM copied, no inline slick styles, no page-level stylesheet port; source class vocabulary kept only where the lifted CSS keys on it. Page CSS = program page layer (shared rows/hero/content-browser, already lifted) + landing modules lifted per selector (provenance in the CSS header). The v1 DOM-lift files are parked in stardust/.work/replica/landing-domlift/ as reference only.",
+  "iterations": {
+    "360": [
+      "v2a --full",
+      "v2b"
+    ],
+    "1440": [
+      "v2a --full",
+      "v2b --full",
+      "v2c --full",
+      "v2confirm --full",
+      "v2postmotion (pixel, after CSS-only fixes)"
+    ]
+  },
+  "contentCap": {
+    "design": "1600 (landing/shell)",
+    "probe": "cap-probe PASS at 2560 — 0 of 6 rows failed; root 'main' matched nothing → body fallback (as on program); 2 advisory module index warnings against chrome elements",
+    "evidence": "stardust/replica/gates/en-landingpage-e-models-2560/cap-iter.json"
+  },
+  "breakpoints": {
+    "360": {
+      "result": {
+        "structuralRed": 0,
+        "visualFlags": "1 = BLANK RENDER multi-root --main artifact (static gateNote)",
+        "pixelPct": 20.64,
+        "heightDelta": 14,
+        "clipped": 0,
+        "overflow": "ok (scrollWidth 360)",
+        "capProbe": "n/a (1440 only)",
+        "unitGeometry": "1440-origin cache artifact (all off; measure --width 360 shows section Δh 0 for hero, anchor nav, headline rows, content browsers, 50/50-reverse rows)",
+        "pass": false
+      },
+      "evidence": "stardust/replica/gates/en-landingpage-e-models-360/{content-diff,visual-diff,clip}-v2a.txt; bg logs landing2-360-v2a/v2b, landing2-measure-360"
+    },
+    "1440": {
+      "result": {
+        "structuralRed": 0,
+        "visualFlags": 0,
+        "pixelPct": 7.05,
+        "heightDelta": -27,
+        "clipped": 0,
+        "overflow": "ok (scrollWidth 1440)",
+        "capProbe": "PASS",
+        "unitGeometry": "9 units; 41 within, 9 off (33-row image +5/-2: the .25rem image margin was wrong for the 33 row → scoped to the 100 row after v2confirm; 16:9 box 2px shorter than live), 1 'missing' = media-icon span matched by position",
+        "pass": true
+      },
+      "evidence": "stardust/replica/gates/en-landingpage-e-models-1440/{content-diff,visual-diff,clip,units}-v2confirm.txt; bg log landing2-1440-v2confirm",
+      "postMotion": {
+        "label": "v2postmotion",
+        "pixelPct": 7.05,
+        "heightDelta": -27,
+        "note": "pixel round after the CSS-only fixes that followed v2confirm (33-row image margin scope, parallax p margin); markup unchanged → content/clip numbers from v2confirm hold"
+      }
+    }
+  },
+  "justified": [
+    {
+      "what": "font fork (Nunito Sans substitute) — body/teaser text wraps ±1 line per column; 1440: related dark teaser 686→657, light teaser content wrapper, 100-row teaser −7; 360: most 342px columns ±26.6px",
+      "cite": "stardust/replica/fonts.md; program archetype residual"
+    },
+    {
+      "what": "AOS reveal elements (parallax image/text, inline-button-row zoom-in) rendered in their final state; the live capture holds mid-animation states (opacity .26–.38, scale .6 → the horizontal button row measures 730×43 on live vs 1216×73)",
+      "cite": "capture-state policy (recreation-procedure § Asset harvest and the capture-state policy); measure logs landing2-measure-1440/-360"
+    },
+    {
+      "what": "gate.sh built-in chrome-parity '2 deltas' = no-landmark REGION artifact; .header 1440×100 / .footer ×207 measured Δ0 at 1440 and 360 (landing2-measure2-1440, landing2-measure-360)",
+      "cite": "archetypes.static.gateNote"
+    }
+  ],
+  "residuals": [
+    {
+      "breakpoint": 1440,
+      "band": "y 1000–1500",
+      "pct": 19.6,
+      "cause": "media-browser viewer photo texture: geometry matches (viewer 704×396, rail 200×396, items 200×113, Δ0); crop y1040–1500 shows the same composition — remaining diff is image texture/sub-pixel + rail micro-styles (source media-browser module CSS 404s); active-thumb red frame added (canon cont. 4)",
+      "flaggedFor": "user"
+    },
+    {
+      "breakpoint": 1440,
+      "band": "height delta −27 px (build shorter)",
+      "pct": null,
+      "cause": "font fork: related carousel −29 (one line less in 248px cards), light teaser 16:9 boxes −2 ×4, 100-row teaser −7; all section boxes otherwise Δ0 (hero, anchor nav, headline rows, 3 content browsers, 50/50-reverse rows, parallax, articles)",
+      "flaggedFor": "user"
+    },
+    {
+      "breakpoint": 1440,
+      "band": "y 13000–13211 (footer stitch)",
+      "pct": 37.3,
+      "cause": "height-delta tail offset (−27) over the footer band",
+      "flaggedFor": "user"
+    },
+    {
+      "breakpoint": 360,
+      "band": "all text bands 500–13500 (16–46 %)",
+      "pct": 20.64,
+      "cause": "permanent font fork at 342px columns: ±1 line per paragraph accumulates into a drifting vertical offset (crop y6500–7200: identical module, build ~50px lower); Δh net +14 (Safety article +26, icon-text +27 ×5 vs Ergonomics −26, teasers −29 ×4, related −30); section boxes match (x/w equal; hero 311, anchor nav, headline rows, content browsers, 50/50-reverse rows Δh 0)",
+      "flaggedFor": "user"
+    },
+    {
+      "breakpoint": 360,
+      "band": "height delta +14 px (build taller)",
+      "pct": null,
+      "cause": "font-fork line deltas (see above); no structural box differs after the <1024 teaser-wrapper margin (L337) and media-browser column width (canon cont. 5) fixes",
+      "flaggedFor": "user"
+    }
+  ],
+  "captureState": [
+    {
+      "what": "hero .header-image: single captured image (16:9, 1440w rendition hotlinked), no btn-wrapper content",
+      "where": ".layout-passepartout .header-image"
+    },
+    {
+      "what": "media-browser: slide 1 visible + 2-thumb rail, thumb 1 active (red frame); '1 / 2' arrow row only <1024; no slick inline styles",
+      "where": "section 4 .media-browser"
+    },
+    {
+      "what": "content-browser panels: first panel .is-open (inline at ≥640, image→h3 gap 16px), all other panels + close/prev/next + overflow buttons present but display:none (as live); ≤639 panels hidden",
+      "where": ".content-browser ×3"
+    },
+    {
+      "what": "related-content teaser carousel at slide 0, 12 real slides (no clones), 4 visible at 1440 / 1 at 360, next arrow enabled, prev disabled",
+      "where": ".related-content .layout-teasercarousel--fixed"
+    },
+    {
+      "what": "anchor nav: next arrow visible (live 48×48 red at x1312), prev disabled/hidden; list overflows at 1440 like live",
+      "where": ".navigation-anchor-navigation"
+    },
+    {
+      "what": "AOS elements in final state (see justified)",
+      "where": ".parallax-container ×2, .inline-button-row--horizontal"
+    }
+  ],
+  "motion": {
+    "observed": "live: header morph classes normal-state/small/small-state/sticky-hidden/stickystacky-enabled (scroll), AOS aos-animate ×5 with opacity+transform transitions ×10 (parallax image/text, button row); no widget/hover samples",
+    "implemented": "header morph via chrome.js (parity on all 5 classes: motion-compare 5 parity, 0 extra)",
+    "dead": [
+      "AOS reveal (aos-animate + opacity/transform) — needs page JS; chrome.js is the only permitted JS → rendered in final state; motion-compare: 3 MISSING on build"
+    ],
+    "files": [
+      "stardust/replica/motion/en-landingpage-e-models.json",
+      "stardust/replica/motion/en-landingpage-e-models-build.json"
+    ]
+  },
+  "fonts": {
+    "substitute": "Nunito Sans (fonts.md)",
+    "stack": "\"DaxlineWebPro\", \"NunitoSans\", Arial, sans-serif (canon)",
+    "fork": "permanent width fork — see fonts.md; drives both breakpoints' residuals"
+  },
+  "canonChanges": [
+    "canon.css += module media-browser (cont. 4): active thumbnail 2px red frame (lifted from the capture crop)",
+    "canon.css += module media-browser (cont. 5): @media (max-width:1279px) .media-browser { width: calc(100vw - 5vw) } — column width below 1280 (342 @360)",
+    "units.json: landing-teaser, icon-text-teaser, related-dark-teaser selectors/notes updated (read-merge-write)",
+    "no canon-chrome.html / chrome.js edits; no chrome REQUESTs from this page (header/footer Δ0)"
+  ],
+  "nextArchetype": [
+    "generate markup from a content model + own templates (stardust/.work/replica/landing-v2/build.mjs pattern): verbatim text/hrefs/img attrs from the capture, no DOM copy, no inline styles — content-diff reaches 0 🔴 once hidden live controls (overflow/close/prev/next buttons) exist in the build DOM (display:none) and arrow buttons carry no aria-label (named buttons are not paired with live's bare ones)",
+    "every .ld-layout-item__wrapper in fixed rows has padding-top/bottom 1.25vw (source L514; 18px @1440) — the program CSS's 16px is only right for its own rows; nested .layout-100--fixed inside an article keeps its full 32/16 + 18/16 padding",
+    "light teaser rows (.layout--teaser) are equal-height: give .teaser flex:1 0 auto inside the column wrapper; <1024 the wrapper has margin-bottom 1.5rem (L337); only the .layout-100--fixed teaser image has margin-top .25rem",
+    "image-bearing content-browser panels: 16px gap between the 16:9 image and the h3; equal-height JS is matched by the open panel being the tallest here",
+    "live anchor nav: links .95rem line-height 1 (49px), next arrow visible red 48×48 at 1440; the ul is 100px tall inside a 50px overflow:hidden bar",
+    "keep the authored empty <p></p> separators — they carry collapsed p+p margins (13px each) even at 0 height",
+    "AOS mid-animation states in the live capture (opacity .26–.38, zoom .6) cost pixels in 2 bands and cannot be matched without page JS — record as justified, do not chase",
+    "lazy-loading must stay off: off-screen slides inside overflow:hidden never load → visual-diff IMAGE DID NOT LOAD flags"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "/en/about-us/events": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:58:28.156Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/innovations-from-linde": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:58:28.156Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/magazine": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:58:34.409Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/media": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:58:35.143Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:58:46.509Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/automated-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:58:49.456Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:58:52.036Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:58:55.706Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/consulting": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:58:56.562Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/overview": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T00:59:00.796Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

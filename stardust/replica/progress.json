@@ -1,0 +1,1379 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:replica",
+    "phase": "recreate",
+    "breakpoints": [
+      1440,
+      360
+    ],
+    "protoBase": "http://localhost:8791/"
+  },
+  "archetypes": {
+    "static": {
+      "archetype": "en-legal-notes-privacy-statement",
+      "live": "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/",
+      "pages": 7,
+      "status": "residual",
+      "prototype": "stardust/prototypes/en-legal-notes-privacy-statement-proposed.html",
+      "css": [
+        "stardust/prototypes/canon.css",
+        "stardust/prototypes/en-legal-notes-privacy-statement.css"
+      ],
+      "chrome": "stardust/prototypes/canon-chrome.html",
+      "js": "stardust/prototypes/chrome.js",
+      "gatedAt": "2026-10-06",
+      "regime": "prototype",
+      "gateMain": "#pjax-container,.header,.footer",
+      "gateNote": "live has no landmarks: chrome roots are .header/.footer — pass them in --main (content-diff) and as --region header=.header --region footer=.footer --no-defaults (chrome-parity). gate.sh --full's built-in chrome-parity therefore prints '✗ 2 REGION no match' on every round — not a finding; the class-scoped runs are the evidence (chrome-live-regions.json).",
+      "iterations": {
+        "360": 3,
+        "1440": 3,
+        "confirmations": {
+          "360": [
+            "confirm (motion layer)",
+            "confirm2 (label calibration)"
+          ],
+          "1440": [
+            "confirm (motion layer)",
+            "confirm2 (calibration)",
+            "confirm3/confirm4 (morph scoping check + revert)"
+          ]
+        }
+      },
+      "breakpoints": {
+        "360": {
+          "iterations": 3,
+          "result": {
+            "structuralRed": 0,
+            "visualFlags": "1 justified (instrument)",
+            "pixelPct": 10.5,
+            "heightDelta": 13,
+            "clipped": 0,
+            "overflow": "ok (360 = viewport)",
+            "capProbe": "n/a (1440 row)",
+            "chromeHeaderPct": 0.42,
+            "chromeFooterPct": 3.38,
+            "pass": false
+          },
+          "verdict": "stardust/.work/replica/bg/static-360-confirm2.log (pixel), static-360-iter3 (content/clip), chrome-parity-360.log (0 deltas)",
+          "justified": [
+            {
+              "probe": "content",
+              "flag": "🟡 ICON MOVED ×18",
+              "why": "as 1440 (hash-link anchors)",
+              "permanent": true
+            },
+            {
+              "probe": "visual",
+              "flag": "BLANK RENDER: build main height 56",
+              "why": "visual-diff resolves the multi-root --main list to its first DOM match (.header, 56px); #pjax-container is 16.4k px tall (measure.mjs) — instrument artifact of the class-scoped roots"
+            }
+          ],
+          "residuals": [
+            {
+              "band": "whole page, 9–13% per 500px band (no hot band)",
+              "pct": 10.5,
+              "cause": "substitute-font wrap forks at 15.2/18px: 3 link-bearing paragraphs wrap a line long, 4 body paragraphs a line short, 1 intro short (net +13px) — Daxline advances snap narrower at these sizes (fonts.md table 2); every section box, padding and type metric matches live",
+              "flaggedFor": "user"
+            },
+            {
+              "region": "footer",
+              "pct": 3.38,
+              "cause": "substitute label widths on right-aligned wrapping link rows (1–4px shifts) + glyph outlines; chrome-parity 0 deltas; texture thick 40% so NOT a justified glyph-noise pass",
+              "parity": "stardust/.work/replica/bg/chrome-parity-360.log",
+              "flaggedFor": "user"
+            },
+            {
+              "region": "height",
+              "pct": null,
+              "cause": "|Δh| 13px > 8px bar — same wrap forks",
+              "flaggedFor": "user"
+            }
+          ],
+          "captureState": [
+            {
+              "what": "mobile header does not morph at 360 (live stitched height = DOM height); chrome.js is inert below 1024px (observed branch is desktop-only)",
+              "where": ".header"
+            }
+          ]
+        },
+        "1440": {
+          "iterations": 3,
+          "result": {
+            "structuralRed": 0,
+            "visualFlags": "1 justified",
+            "pixelPct": 5.19,
+            "heightDelta": 0,
+            "clipped": 0,
+            "overflow": "ok (1440 = viewport)",
+            "capProbe": "PASS at 2560 (0 of 8 rows failed)",
+            "chromeHeaderPct": 0.88,
+            "chromeFooterPct": 1.56,
+            "pass": true
+          },
+          "verdict": "stardust/.work/replica/bg/static-1440-confirm4.log (pixel), static-1440-confirm (content/visual/clip), chrome-parity-1440c.log (class-scoped regions)",
+          "justified": [
+            {
+              "probe": "content",
+              "flag": "🟡 ICON MOVED ×18 (U+F13D/F142/F12D, 0×0 hidden glyphs)",
+              "why": "icons inside href=\"#123\" links: content-diff anchors them on the resolved page URL, which differs per side by construction (same glyph, same element)",
+              "permanent": true
+            },
+            {
+              "probe": "visual",
+              "flag": "IMAGERY GAP: source renders 3 images, build renders 1",
+              "why": "the 2 extra live images are the dismissed job-redirect popup banner and the CCM19 consent-dialog language SVG — not page content"
+            },
+            {
+              "probe": "content",
+              "flag": "🟠 font fork (width probe) on headings/nav/footer labels",
+              "why": "FF Daxline Pro licensed → Nunito Sans substitute (fonts.md)",
+              "permanent": true
+            },
+            {
+              "probe": "chrome-parity",
+              "flag": "header: Search/Xtranet Δx −2/−4 Δw +2; footer: 10 labels Δx −4..−8 Δw +2..+4",
+              "why": "substitute label widths (+2.8%) on right-aligned rows; family/size/weight/line-height/colour/boxes all paired",
+              "permanent": true
+            },
+            {
+              "probe": "chrome-parity (gate.sh built-in)",
+              "flag": "✗ 2 delta(s) REGION no element matches header/footer",
+              "why": "instrument default landmarks absent on live; class-scoped run exits with width-only deltas (above)"
+            }
+          ],
+          "residuals": [
+            {
+              "band": "y 8000–8500",
+              "pct": 27.1,
+              "cause": "second headline (54px bold) re-breaks under the substitute: live \"…business partners (customers / & suppliers)\" vs build \"…business partners / (customers & suppliers)\" (3 lines both, same band height) + 4px local offset from two cancelling paragraph wraps (#40 −1 line, #120 +1 line)",
+              "flaggedFor": "user"
+            },
+            {
+              "region": "paragraph wraps",
+              "pct": null,
+              "cause": "substitute-font: 1 body paragraph wraps a line short, 1 intro paragraph a line long (net 0); 12 link-bearing paragraphs match after the 74/26 ascent/descent override",
+              "flaggedFor": "user"
+            }
+          ],
+          "captureState": [
+            {
+              "what": "live stitched capture: once scrolled the live in-flow .header shrinks to 62px (small-state) so chunks 2+ sit 34–38px above their y0 DOM position; the build reproduces the same in-flow morph (chrome.js) so the captures stay symmetric — footer crops must be anchored per side",
+              "where": "whole page below the header"
+            },
+            {
+              "what": "CCM19 consent + job-redirect popup dismissed on live (--dismiss)",
+              "where": "overlays"
+            }
+          ]
+        }
+      },
+      "motion": {
+        "observed": "stardust/replica/motion/en-legal-notes-privacy-statement.json (1440: 0 animations, 0 transitions, 27 class mutations, 1 widget poke, 5 hovers); build: …-build.json; compare: …-compare.json (7 parity, 1 missing*, 0 extra)",
+        "implemented": [
+          "stickystacky header machine (chrome.js): .header/.subheader/.navigation-anchor-navigation-wrapper cloned into the fixed .stickystacky-wrapper once scrolled under the stack; originals get stickystacky-enabled sticky-hidden; wrapper slides out on scroll-down / in on scroll-up proportionally to the scrolled distance; header normal-state ≤48 → small 48–86 (height 100+(48−y)) → small-state ≥86 (62px, in-flow original too); thresholds 48/86/100 from index_bundle_lmh.js; desktop ≥1024 only (observed branch)",
+          "hover: anchor-nav link colour → red; .btn--primary (Location Overview) background → primary-700; share link colour → primary-700 (all three fired live)"
+        ],
+        "dead": [
+          ".menu_nav_mainitem hover (no live diff) — not implemented",
+          ".footer > ul a hover (no live diff) — invented rule removed",
+          "transition on wrapper top — live moves it without transition; none implemented"
+        ],
+        "deferred": [
+          "anchor-nav next button: runtime trace stardust/.work/replica/bg/anchor-click-live.log — click scrolls the list +100px over ~300ms and reveals the prev button; NOT implemented in the prototype (brief restricts prototype JS to the chrome morph) → delivery block JS"
+        ],
+        "notes": [
+          "*compare says .location-overview-button hover MISSING on build; a direct hover probe (hover-probe-build.log) shows rgb(170,0,32) → rgb(148,0,29) — observer state, rule verified"
+        ]
+      },
+      "fonts": {
+        "substitute": "Nunito Sans (SIL OFL) for FF Daxline Pro; alias face NunitoSans-Bold for the DaxWebPro-Medi/DaxlineWebPro-Bold family slots; ascent/descent override 74/26 (normal line box 1.0em like Daxline); per-size letter-spacing calibration on richtext/headline text only (fonts.md table 2); chrome text uncalibrated except the fixed label \"Follow us on\" (−0.02em)",
+        "fork": "permanent: +0.3% body / +2.8% labels / +3.2% bold at 17–54px, +3–4% at 15.2/18px (advance snapping) — wraps and right-aligned rows fork; recorded per breakpoint above",
+        "table": "stardust/replica/fonts.md"
+      },
+      "canonChanges": [
+        "created canon.css (tokens verbatim from :root; base type 16/18px@640; links; .btn family; icon font glyph map from census; header desktop+mobile incl. meta strip, small-state; subheader/breadcrumb; footer + share-bar module; scroll-state chrome rules)",
+        "created canon-chrome.html (header + footer fragment, generated from the captured DOM by stardust/.work/replica/gen-static.mjs: live wrapping a.btn__link > div.btn kept for role parity, ids/styles/data-attrs dropped, hrefs absolute, title attrs kept)",
+        "created chrome.js (stickystacky state machine, see motion.implemented)",
+        "fonts/: NunitoSans-400/700.woff2 (Google Fonts), NotoSans-Variable.woff2, LindeGlobalIconFont.ttf (the captured .woff2 is not a valid woff2 — magic W\\314WU — the browser falls through to the .ttf; served ttf verified)",
+        "icon-font load failure on the first round was this invalid woff2 (stitch-shot FONT LOAD FAILED) — fixed by the ttf"
+      ],
+      "units": "none declared — the static template has no repeated-unit family (stardust/replica/units.json untouched)",
+      "nextArchetype": [
+        "copy canon-chrome.html verbatim; keep <div class=\"header\">/<div class=\"footer\"> (no landmarks, like live) and gate with --main \"#pjax-container,.header,.footer\"",
+        "run chrome-parity with --no-defaults --region header=.header --region footer=.footer --live-cache <gate>/chrome-live-regions.json",
+        "footer crops must be anchored per side (live chunks 2+ sit ~34px above DOM once the header has morphed): scan the a11y band edge in each PNG",
+        "the mobile menu is display:none in the prototype (off-canvas closed); its row rules exist so hidden DOM classifies like live",
+        "visual-diff BLANK RENDER at 360 is the multi-root --main artifact; measure #pjax-container directly if a clean visual read is needed"
+      ]
+    },
+    "landing": {
+      "archetype": "en-landingpage-e-models",
+      "live": "https://www.linde-mh.com/en/Landingpage/E-models/",
+      "pages": 32,
+      "type": "landing",
+      "status": "residual",
+      "regime": "prototype",
+      "gatedAt": "2026-10-06",
+      "prototype": "stardust/prototypes/en-landingpage-e-models-proposed.html",
+      "css": "stardust/prototypes/en-landingpage-e-models.css",
+      "method": "clean re-author (v2)",
+      "methodNote": "Markup generated from OUR templates (stardust/.work/replica/landing-v2/build.mjs) fed with the captured content model (verbatim text, hrefs, hotlinked image src/srcset/alt) — no live DOM copied, no inline slick styles, no page-level stylesheet port; source class vocabulary kept only where the lifted CSS keys on it. Page CSS = program page layer (shared rows/hero/content-browser, already lifted) + landing modules lifted per selector (provenance in the CSS header). The v1 DOM-lift files are parked in stardust/.work/replica/landing-domlift/ as reference only.",
+      "iterations": {
+        "360": [
+          "v2a --full",
+          "v2b"
+        ],
+        "1440": [
+          "v2a --full",
+          "v2b --full",
+          "v2c --full",
+          "v2confirm --full",
+          "v2postmotion (pixel, after CSS-only fixes)"
+        ]
+      },
+      "contentCap": {
+        "design": "1600 (landing/shell)",
+        "probe": "cap-probe PASS at 2560 — 0 of 6 rows failed; root 'main' matched nothing → body fallback (as on program); 2 advisory module index warnings against chrome elements",
+        "evidence": "stardust/replica/gates/en-landingpage-e-models-2560/cap-iter.json"
+      },
+      "breakpoints": {
+        "360": {
+          "result": {
+            "structuralRed": 0,
+            "visualFlags": "1 = BLANK RENDER multi-root --main artifact (static gateNote)",
+            "pixelPct": 20.64,
+            "heightDelta": 14,
+            "clipped": 0,
+            "overflow": "ok (scrollWidth 360)",
+            "capProbe": "n/a (1440 only)",
+            "unitGeometry": "1440-origin cache artifact (all off; measure --width 360 shows section Δh 0 for hero, anchor nav, headline rows, content browsers, 50/50-reverse rows)",
+            "pass": false
+          },
+          "evidence": "stardust/replica/gates/en-landingpage-e-models-360/{content-diff,visual-diff,clip}-v2a.txt; bg logs landing2-360-v2a/v2b, landing2-measure-360"
+        },
+        "1440": {
+          "result": {
+            "structuralRed": 0,
+            "visualFlags": 0,
+            "pixelPct": 7.05,
+            "heightDelta": -27,
+            "clipped": 0,
+            "overflow": "ok (scrollWidth 1440)",
+            "capProbe": "PASS",
+            "unitGeometry": "9 units; 41 within, 9 off (33-row image +5/-2: the .25rem image margin was wrong for the 33 row → scoped to the 100 row after v2confirm; 16:9 box 2px shorter than live), 1 'missing' = media-icon span matched by position",
+            "pass": true
+          },
+          "evidence": "stardust/replica/gates/en-landingpage-e-models-1440/{content-diff,visual-diff,clip,units}-v2confirm.txt; bg log landing2-1440-v2confirm",
+          "postMotion": {
+            "label": "v2postmotion",
+            "pixelPct": 7.05,
+            "heightDelta": -27,
+            "note": "pixel round after the CSS-only fixes that followed v2confirm (33-row image margin scope, parallax p margin); markup unchanged → content/clip numbers from v2confirm hold"
+          }
+        }
+      },
+      "justified": [
+        {
+          "what": "font fork (Nunito Sans substitute) — body/teaser text wraps ±1 line per column; 1440: related dark teaser 686→657, light teaser content wrapper, 100-row teaser −7; 360: most 342px columns ±26.6px",
+          "cite": "stardust/replica/fonts.md; program archetype residual"
+        },
+        {
+          "what": "AOS reveal elements (parallax image/text, inline-button-row zoom-in) rendered in their final state; the live capture holds mid-animation states (opacity .26–.38, scale .6 → the horizontal button row measures 730×43 on live vs 1216×73)",
+          "cite": "capture-state policy (recreation-procedure § Asset harvest and the capture-state policy); measure logs landing2-measure-1440/-360"
+        },
+        {
+          "what": "gate.sh built-in chrome-parity '2 deltas' = no-landmark REGION artifact; .header 1440×100 / .footer ×207 measured Δ0 at 1440 and 360 (landing2-measure2-1440, landing2-measure-360)",
+          "cite": "archetypes.static.gateNote"
+        }
+      ],
+      "residuals": [
+        {
+          "breakpoint": 1440,
+          "band": "y 1000–1500",
+          "pct": 19.6,
+          "cause": "media-browser viewer photo texture: geometry matches (viewer 704×396, rail 200×396, items 200×113, Δ0); crop y1040–1500 shows the same composition — remaining diff is image texture/sub-pixel + rail micro-styles (source media-browser module CSS 404s); active-thumb red frame added (canon cont. 4)",
+          "flaggedFor": "user"
+        },
+        {
+          "breakpoint": 1440,
+          "band": "height delta −27 px (build shorter)",
+          "pct": null,
+          "cause": "font fork: related carousel −29 (one line less in 248px cards), light teaser 16:9 boxes −2 ×4, 100-row teaser −7; all section boxes otherwise Δ0 (hero, anchor nav, headline rows, 3 content browsers, 50/50-reverse rows, parallax, articles)",
+          "flaggedFor": "user"
+        },
+        {
+          "breakpoint": 1440,
+          "band": "y 13000–13211 (footer stitch)",
+          "pct": 37.3,
+          "cause": "height-delta tail offset (−27) over the footer band",
+          "flaggedFor": "user"
+        },
+        {
+          "breakpoint": 360,
+          "band": "all text bands 500–13500 (16–46 %)",
+          "pct": 20.64,
+          "cause": "permanent font fork at 342px columns: ±1 line per paragraph accumulates into a drifting vertical offset (crop y6500–7200: identical module, build ~50px lower); Δh net +14 (Safety article +26, icon-text +27 ×5 vs Ergonomics −26, teasers −29 ×4, related −30); section boxes match (x/w equal; hero 311, anchor nav, headline rows, content browsers, 50/50-reverse rows Δh 0)",
+          "flaggedFor": "user"
+        },
+        {
+          "breakpoint": 360,
+          "band": "height delta +14 px (build taller)",
+          "pct": null,
+          "cause": "font-fork line deltas (see above); no structural box differs after the <1024 teaser-wrapper margin (L337) and media-browser column width (canon cont. 5) fixes",
+          "flaggedFor": "user"
+        }
+      ],
+      "captureState": [
+        {
+          "what": "hero .header-image: single captured image (16:9, 1440w rendition hotlinked), no btn-wrapper content",
+          "where": ".layout-passepartout .header-image"
+        },
+        {
+          "what": "media-browser: slide 1 visible + 2-thumb rail, thumb 1 active (red frame); '1 / 2' arrow row only <1024; no slick inline styles",
+          "where": "section 4 .media-browser"
+        },
+        {
+          "what": "content-browser panels: first panel .is-open (inline at ≥640, image→h3 gap 16px), all other panels + close/prev/next + overflow buttons present but display:none (as live); ≤639 panels hidden",
+          "where": ".content-browser ×3"
+        },
+        {
+          "what": "related-content teaser carousel at slide 0, 12 real slides (no clones), 4 visible at 1440 / 1 at 360, next arrow enabled, prev disabled",
+          "where": ".related-content .layout-teasercarousel--fixed"
+        },
+        {
+          "what": "anchor nav: next arrow visible (live 48×48 red at x1312), prev disabled/hidden; list overflows at 1440 like live",
+          "where": ".navigation-anchor-navigation"
+        },
+        {
+          "what": "AOS elements in final state (see justified)",
+          "where": ".parallax-container ×2, .inline-button-row--horizontal"
+        }
+      ],
+      "motion": {
+        "observed": "live: header morph classes normal-state/small/small-state/sticky-hidden/stickystacky-enabled (scroll), AOS aos-animate ×5 with opacity+transform transitions ×10 (parallax image/text, button row); no widget/hover samples",
+        "implemented": "header morph via chrome.js (parity on all 5 classes: motion-compare 5 parity, 0 extra)",
+        "dead": [
+          "AOS reveal (aos-animate + opacity/transform) — needs page JS; chrome.js is the only permitted JS → rendered in final state; motion-compare: 3 MISSING on build"
+        ],
+        "files": [
+          "stardust/replica/motion/en-landingpage-e-models.json",
+          "stardust/replica/motion/en-landingpage-e-models-build.json"
+        ]
+      },
+      "fonts": {
+        "substitute": "Nunito Sans (fonts.md)",
+        "stack": "\"DaxlineWebPro\", \"NunitoSans\", Arial, sans-serif (canon)",
+        "fork": "permanent width fork — see fonts.md; drives both breakpoints' residuals"
+      },
+      "canonChanges": [
+        "canon.css += module media-browser (cont. 4): active thumbnail 2px red frame (lifted from the capture crop)",
+        "canon.css += module media-browser (cont. 5): @media (max-width:1279px) .media-browser { width: calc(100vw - 5vw) } — column width below 1280 (342 @360)",
+        "units.json: landing-teaser, icon-text-teaser, related-dark-teaser selectors/notes updated (read-merge-write)",
+        "no canon-chrome.html / chrome.js edits; no chrome REQUESTs from this page (header/footer Δ0)"
+      ],
+      "nextArchetype": [
+        "generate markup from a content model + own templates (stardust/.work/replica/landing-v2/build.mjs pattern): verbatim text/hrefs/img attrs from the capture, no DOM copy, no inline styles — content-diff reaches 0 🔴 once hidden live controls (overflow/close/prev/next buttons) exist in the build DOM (display:none) and arrow buttons carry no aria-label (named buttons are not paired with live's bare ones)",
+        "every .ld-layout-item__wrapper in fixed rows has padding-top/bottom 1.25vw (source L514; 18px @1440) — the program CSS's 16px is only right for its own rows; nested .layout-100--fixed inside an article keeps its full 32/16 + 18/16 padding",
+        "light teaser rows (.layout--teaser) are equal-height: give .teaser flex:1 0 auto inside the column wrapper; <1024 the wrapper has margin-bottom 1.5rem (L337); only the .layout-100--fixed teaser image has margin-top .25rem",
+        "image-bearing content-browser panels: 16px gap between the 16:9 image and the h3; equal-height JS is matched by the open panel being the tallest here",
+        "live anchor nav: links .95rem line-height 1 (49px), next arrow visible red 48×48 at 1440; the ul is 100px tall inside a 50px overflow:hidden bar",
+        "keep the authored empty <p></p> separators — they carry collapsed p+p margins (13px each) even at 0 height",
+        "AOS mid-animation states in the live capture (opacity .26–.38, zoom .6) cost pixels in 2 bands and cannot be matched without page JS — record as justified, do not chase",
+        "lazy-loading must stay off: off-screen slides inside overflow:hidden never load → visual-diff IMAGE DID NOT LOAD flags"
+      ],
+      "previousAttempt": {
+        "method": "DOM lift (deviation; parked in stardust/.work/replica/landing-domlift/)",
+        "breakpoints": {
+          "360": {
+            "pixelPct": 33.84,
+            "heightDelta": -429
+          },
+          "1440": {
+            "pixelPct": 12.69,
+            "heightDelta": -111
+          }
+        },
+        "record": "stardust/replica/progress-landing.json"
+      }
+    },
+    "program": {
+      "archetype": "en-products-e-trucks",
+      "live": "https://www.linde-mh.com/en/Products/E-Trucks/",
+      "pages": 19,
+      "status": "residual",
+      "type": "program",
+      "prototype": "stardust/prototypes/en-products-e-trucks-proposed.html",
+      "css": "stardust/prototypes/en-products-e-trucks.css",
+      "iterations": {
+        "360": 3,
+        "1440": 3,
+        "1440-motion-confirm": 1
+      },
+      "contentCap": 1600,
+      "breakpoints": {
+        "360": {
+          "result": {
+            "structuralRed": 1,
+            "visualFlags": "BLANK RENDER advisory = multi-root --main artifact (static.nextArchetype)",
+            "pixelPct": 9.78,
+            "heightDelta": -4,
+            "clipped": 0,
+            "overflow": "ok (scrollWidth 360)",
+            "capProbe": "n/a (1440 only)",
+            "unitGeometry": "gate units FAIL is the 1440-origin-cache artifact; measure.mjs --width 360: slide/teaser/image/content boxes Δ0",
+            "pass": true
+          },
+          "evidence": "stardust/replica/gates/en-products-e-trucks-360/ (iter1 20.92%/Δh-75 → iter2 12.03%/Δh-4 → iter3 9.78%/Δh-4 PASS)"
+        },
+        "1440": {
+          "result": {
+            "structuralRed": 1,
+            "visualFlags": "none (built-in chrome-parity REGION no match ×2 = default-selector artifact, see static.gateNote)",
+            "pixelPct": 15.28,
+            "heightDelta": 63,
+            "clipped": 0,
+            "overflow": "ok (scrollWidth 1440)",
+            "capProbe": "PASS at 2560 (0 of 6 rows failed; wrapper cap 1600 = 1600)",
+            "unitGeometry": "related-teaser 5/5 and content-browser-item sizes equal (280×657, 320×49); Δy only from upstream Δh",
+            "pass": false
+          },
+          "evidence": "stardust/replica/gates/en-products-e-trucks-1440/ (iter1 32.59%/Δh284 → iter2 15.22%/Δh64 → iter3 15.22% → motion-confirm 15.28%/Δh63)"
+        }
+      },
+      "justified": [
+        "🔴 ROLE SWAP [.header] \"New Industrial Trucks\" cta→body: lives in canon-chrome.html (copied verbatim, not editable from this archetype) — recorded as REQUEST in canonChanges; present on every round at both widths",
+        "🟠 font fork (Nunito Sans substitute, fonts.md): body p at 17.1px renders one line short in the first text section (150→120) and in every related-teaser paragraph (419→389); layout-50 columns +33 — permanent, justified",
+        "chrome-parity REGION no match ×2 from gate.sh --full defaults (live has no landmarks) — not a finding"
+      ],
+      "residuals": [
+        {
+          "breakpoint": 1440,
+          "band": "1500–2000",
+          "pct": 36.2,
+          "cause": "40-60 row: live capture carries the sticky breadcrumb clone mid-band; red column paragraphs re-wrap (font fork) and spill below the 40vw box on both sides; image rendition 1024 vs 1055 wide (srcset pick)",
+          "flaggedFor": "font substitute; stitch artifact"
+        },
+        {
+          "breakpoint": 1440,
+          "band": "4500–5500",
+          "pct": 37.1,
+          "cause": "related-teaser carousel: 4 visible cards × 14-line .95rem paragraphs, every glyph differs under the substitute; one line short per card (−30)",
+          "flaggedFor": "font substitute (listing.nextArchetype rule: long repeated text cannot meet 10%)"
+        },
+        {
+          "breakpoint": 1440,
+          "band": "5500–5788",
+          "pct": 37.8,
+          "cause": "tail misalignment from the cumulative Δh 63 (first section −30, layout-50 +33, carousel −30, red column −? ) — footer stitch",
+          "flaggedFor": "font substitute"
+        },
+        {
+          "breakpoint": 1440,
+          "band": "height",
+          "pct": null,
+          "cause": "Δh 63 > 8 — sum of font-fork line-count deltas above; no box differs (measure-cmp Δh 0 on every container after the fixes)",
+          "flaggedFor": "font substitute"
+        },
+        {
+          "breakpoint": 360,
+          "band": "2000–2500 / 3000–3500 / 4500–5000",
+          "pct": 16.5,
+          "cause": "red column, dark 50-column and first teaser: paragraph glyph/wrap differences at 15.2px (font fork); boxes Δ0",
+          "flaggedFor": "font substitute"
+        }
+      ],
+      "captureState": [
+        "related-content slick carousel: initial state, slide 1 .slick-current, slides 1–4 visible at 1440 (25% of a 1248 list), slide 1 + 13px of slide 2 at 360; no clones in the captured DOM (12 slides); arrows next+prev red 48×48 right-aligned",
+        "content-browser (Five Times the Output): tab 1 \"Effective\" active + panel .is-open; live JS equalises panel height to the tallest (250px at 1440) → min-height 250px ≥640; panel hidden <640 (live removes .is-open); overflow-top/bottom scroll buttons hidden (.hide-gradient)",
+        "hero stage: no CTA (empty .btn-wrapper keeps its 1rem top margin as live)",
+        "sticky chrome at t=0: header normal-state; .subheader breadcrumb (page content, 50px at 1440, hidden at 360) placed between /canon:header and #pjax-container"
+      ],
+      "motion": {
+        "observed": "stardust/replica/motion/en-products-e-trucks.json — 5 class mutations on the chrome (normal-state, small, small-state, sticky-hidden, stickystacky-enabled)",
+        "build": "stardust/replica/motion/en-products-e-trucks-build.json",
+        "compare": "5 parity, 0 missing, 0 extra, 0 advisory",
+        "implemented": "nothing new — all fired behaviours are the stickystacky morph already in chrome.js (now also clones .body-container > .subheader); carousel and content-browser are static in their captured initial state",
+        "dead": []
+      },
+      "fonts": {
+        "substitute": "Nunito Sans (canon fonts/, fonts.md calibration: p −0.003em ≥640 / −0.017em <640, headings −0.016em)",
+        "fork": "permanent 🟠: at 1440 body paragraphs render one line short (first section, every related teaser) → Δh 63; at 360 Δh −4"
+      },
+      "canonChanges": [
+        "APPENDED canon.css: /* module: related-teasers — from en-products-e-trucks */ (dark .related-content plain-teaser slick carousel: wrapper/fixed boxes, slick-list/track, 25% slides ≥1024, 320+24 at 360, .teaser plain variant, carousel-button-wrapper arrows)",
+        "REQUEST: canon-chrome.html header — on live Products pages \"New Industrial Trucks\" is a link (cta) in the Products mega-menu; canon-chrome carries it as plain text → content-diff 🔴 ROLE SWAP [.header] on every round; needs the <a> restored in the fragment",
+        "units.json: added families related-teaser (n 12, visible 4@1440/1@360) and content-browser-item (n 5)"
+      ],
+      "nextArchetype": [
+        "the breadcrumb .subheader is PAGE content (canon-chrome note): extract .subheader from <slug>.html (balanced-div slice, strip style/data-*) and place it between <!-- /canon:header --> and #pjax-container; it is 50px at 1440 and display:none at 360 — without it #pjax-container sits 50px high",
+        "html-slice.mjs truncates attribute values (src=\"…\") — slice #pjax-container from the raw capture with a balanced-tag walk instead; live root is <div class=\"content\" id=\"pjax-container\">",
+        ".ld-layout-item__wrapper does NOT clip: the 40vw .layout--overflow red column lets its text spill on live too (thumb-verified); adding overflow:hidden changed nothing at 1440",
+        "in .layout-40-60(-reverse)--flex the text-container is display:block with padding 5vw 2.5vw ≥768 and full-width children (504 at 1440); the 3:2 image-clipper wrapper is 118.52% wide, margin 0 -9.26%",
+        "below 1280 the hero img is position:relative at natural height — never give it height:100% of the 0-height 16:9 box (paints nothing at 360)",
+        "live JS sets equal heights on content-browser panels (tallest = 250px at 1440) — no CSS equivalent, use min-height from the live measure",
+        "cap-probe root \"main\" matches nothing on these pages (div root) — it falls back to body and still PASSes; unit-geometry at 360 is the 1440-origin artifact (measure --width 360 shows Δ0)",
+        ".btn--action buttons: padding 16px 24px, line-height 1.3, margin 8px 0 (not the canon .btn 8/16)"
+      ],
+      "gatedAt": "2026-10-06",
+      "regime": "prototype"
+    },
+    "article": {
+      "archetype": "en-technical-news-detail-101184-html",
+      "live": "https://www.linde-mh.com/en/technical/News-Detail_101184.html",
+      "pages": 18,
+      "status": "residual",
+      "type": "article",
+      "prototype": "stardust/prototypes/en-technical-news-detail-101184-html-proposed.html",
+      "css": [
+        "stardust/prototypes/en-technical-news-detail-101184-html.css",
+        "stardust/prototypes/canon.css (press-contact, media-carousel modules)"
+      ],
+      "iterations": {
+        "360": 3,
+        "1440": 3
+      },
+      "contentCap": {
+        "live": 1280,
+        "build": 1280,
+        "probe": "PASS at 2560 — 0 of 4 rows failed (art-cap-probe.log)"
+      },
+      "breakpoints": {
+        "360": {
+          "iterations": 3,
+          "result": {
+            "structuralRed": 0,
+            "visualFlags": "1 justified (instrument)",
+            "pixelPct": 13.88,
+            "heightDelta": -26,
+            "clipped": 0,
+            "overflow": "ok (360 = viewport)",
+            "capProbe": "n/a (1440 row)",
+            "unitGeometry": "instrument: origin rect cached from 1440 (272×324) vs live-360 333×343 = build 333×343 (measure.mjs)",
+            "pass": false
+          },
+          "verdict": "stardust/.work/replica/bg/art-360-confirm.log",
+          "justified": [
+            {
+              "probe": "visual",
+              "flag": "BLANK RENDER: build main height 56",
+              "why": "multi-root --main artifact (static gateNote); #pjax-container measures 2462px",
+              "permanent": true
+            },
+            {
+              "probe": "unit-geometry",
+              "flag": "press-contact off 6",
+              "why": "origin side reports the 1440 rect at 360 (instrument cache); live 360 measure matches the build element-for-element at Δy 27 = the Δh",
+              "permanent": true
+            }
+          ],
+          "residuals": [
+            {
+              "band": "y 500–1000 (22.6%) then everything below shifted 26px (2000–2959: 16–17%)",
+              "pct": 13.88,
+              "cause": "the first 15.2px body paragraph wraps 4 lines vs 3 live (span > p 80 → 106px, art-measure-360.log); every other block matches to the px. Calibration tried: −0.024em (no change), −0.035em (four paragraphs a line short, Δh +54) — kept at the fonts.md −0.017em",
+              "flaggedFor": "user"
+            },
+            {
+              "region": "height",
+              "pct": null,
+              "cause": "|Δh| 26 > 8 — the same single wrap fork",
+              "flaggedFor": "user"
+            }
+          ],
+          "captureState": []
+        },
+        "1440": {
+          "iterations": 3,
+          "result": {
+            "structuralRed": 0,
+            "visualFlags": "none",
+            "pixelPct": 3.09,
+            "heightDelta": 0,
+            "clipped": 0,
+            "overflow": "ok (1440 = viewport)",
+            "capProbe": "PASS at 2560 (0 of 4 rows)",
+            "unitGeometry": "press-contact: 5 within, 1 off (phone link Δw +5)",
+            "pass": true
+          },
+          "verdict": "stardust/.work/replica/bg/art-1440-confirm.log (pixel/content/visual/clip after the stickystacky fix; iter3 7.19% had the footer stitch band — gone once the build header morphs like live)",
+          "justified": [
+            {
+              "probe": "chrome-parity (class-scoped, art-chrome-1440.log)",
+              "flag": "12 PAIR deltas: footer link row Δx 2–8px / Δw 2–4px, 'Follow us on' letterSpacing −0.28px",
+              "why": "substitute glyph widths on the right-aligned footer row + the canon label calibration; 0 missing/extra texts, 7/7 + 12/12 paired",
+              "permanent": true
+            },
+            {
+              "probe": "content",
+              "flag": "🟠 FONT FORK ×1: slick dot button \"1\" (text-indent −9999px)",
+              "why": "hidden carousel dot label; same stack, substitute face",
+              "permanent": true
+            },
+            {
+              "probe": "unit-geometry",
+              "flag": "link \"+49 6021 991277\" Δw +5",
+              "why": "bold substitute +3.2% (fonts.md); x/y/h exact",
+              "permanent": true
+            }
+          ],
+          "residuals": [],
+          "captureState": [
+            {
+              "what": "media carousel captured with 1 slide: slick hides both arrows (display:none live) — mirrored, no JS",
+              "where": ".carousel-wrapper"
+            }
+          ]
+        }
+      },
+      "justified": [
+        "chrome-parity PAIR deltas = substitute widths (see 1440)",
+        "gate.sh built-in chrome-parity '✗ 2 REGION no match' = default header/footer selectors (static gateNote), evidence is the class-scoped run"
+      ],
+      "motion": {
+        "observed": "stardust/replica/motion/en-technical-news-detail-101184-html.json (1440: 5 header class mutations normal-state/small/small-state/sticky-hidden/stickystacky-enabled; 0 animations/transitions); build: en-technical-news-detail-101184-html-build.json; compare: 5 parity, 0 missing, 0 extra",
+        "implemented": [
+          "nothing new — the canon chrome.js stickystacky machine covers every fired behaviour; first observe showed 5 MISSING because the prototype lacked <div class=\"stickystacky-wrapper\"></div> as the first .body-container child (chrome.js throws without it; it is NOT part of canon-chrome.html) — added, re-observed: 5 parity"
+        ],
+        "dead": []
+      },
+      "fonts": {
+        "substitute": "Nunito Sans (canon, fonts.md) — reused; no new probe",
+        "fork": "permanent: bold titles/body wrap ±1 line vs Daxline (fonts.md table 2); drives every residual below",
+        "table": "stardust/replica/fonts.md"
+      },
+      "canonChanges": [
+        "canon.css: /* module: press-contact */ (.teaser--card base, 1px bordered image wrapper, h6/h3/text rows, textlink) + glyphs phone \\f14a, zoomin \\f165",
+        "canon.css: /* module: media-carousel */ (.image-clipper--2_1_max, slick list/track/dots, single-slide arrow state)",
+        "canon.css back-port: li.menu_mobile uppercase scoped to <1024px (source @220106) — cleared the 🔴 ROLE SWAP 'Menu' at 1440 (was 🟡 EXTRA on the static gate)",
+        "canon.css: .teaser--card h6 + h3 { margin-top:.25em } (source @299708) instead of an unconditional h3 margin",
+        "stardust/replica/units.json created: press-contact (n 1)"
+      ],
+      "nextArchetype": [
+        "<div class=\"stickystacky-wrapper\"></div> MUST be the first child of .body-container — it is not in canon-chrome.html; without it chrome.js throws and motion shows 5 MISSING",
+        "the live 'footer stitch' hot band disappears once the build header morphs (confirm 3.09% vs 7.19%)",
+        "unit-geometry at 360 compares against a 1440 origin cache — verify with measure.mjs --width 360 before treating it as a finding"
+      ]
+    },
+    "listing": {
+      "archetype": "en-about-us-press",
+      "live": "https://www.linde-mh.com/en/About-us/Press/",
+      "pages": 11,
+      "status": "residual",
+      "type": "listing",
+      "prototype": "stardust/prototypes/en-about-us-press-proposed.html",
+      "css": [
+        "stardust/prototypes/en-about-us-press.css",
+        "stardust/prototypes/canon.css (news-card module)"
+      ],
+      "generator": "stardust/.work/replica/gen-press.cjs (174 cards verbatim from the captured DOM)",
+      "iterations": {
+        "360": 1,
+        "1440": 3
+      },
+      "contentCap": {
+        "live": 1280,
+        "build": 1280,
+        "probe": "PASS at 2560 — 0 of 5 rows failed (press-cap-probe.log)"
+      },
+      "units": {
+        "news-card": {
+          "n": 4,
+          "instances": 174,
+          "result1440": "PASS (32 elements within 4px)"
+        }
+      },
+      "breakpoints": {
+        "360": {
+          "iterations": 1,
+          "result": {
+            "structuralRed": 0,
+            "visualFlags": "1 justified (instrument)",
+            "pixelPct": 49.47,
+            "heightDelta": -158,
+            "clipped": 0,
+            "overflow": "ok (360 = viewport)",
+            "capProbe": "n/a (1440 row)",
+            "unitGeometry": "instrument: 1440 origin cache (280×160) vs live-360 342×195 = build",
+            "pass": false
+          },
+          "verdict": "stardust/.work/replica/bg/press-360-iter1.log + press-measure-360.log",
+          "justified": [
+            {
+              "probe": "visual",
+              "flag": "BLANK RENDER: build main height 56",
+              "why": "multi-root --main artifact; #pjax-container measures 72387px",
+              "permanent": true
+            },
+            {
+              "probe": "unit-geometry",
+              "flag": "news-card off 32",
+              "why": "origin rects are the 1440 ones (280×160); measure.mjs at 360 gives 342×195 on both sides",
+              "permanent": true
+            }
+          ],
+          "residuals": [
+            {
+              "band": "whole page below y 800 (single-column grid, 72k px)",
+              "pct": 49.47,
+              "cause": "card text forks in a 1-column stack: +172px over 174 cards (~8 net lines at 16px); first 3 cards are px-identical, the offset accumulates down the page — font substitute, permanent",
+              "flaggedFor": "user"
+            },
+            {
+              "band": "filter, y 374–780",
+              "pct": null,
+              "cause": "Date form-item 134 → 120: the two wrapped datepicker rows lose their baseline descender space (2 × 7px) in the build (inline-block .input-wrapper around a flex .datepicker)",
+              "flaggedFor": "user"
+            },
+            {
+              "region": "height",
+              "pct": null,
+              "cause": "|Δh| 158 = 172 (text forks) − 14 (filter)",
+              "flaggedFor": "user"
+            }
+          ],
+          "captureState": []
+        },
+        "1440": {
+          "iterations": 3,
+          "result": {
+            "structuralRed": 0,
+            "visualFlags": "none",
+            "pixelPct": 23.75,
+            "heightDelta": -108,
+            "clipped": 0,
+            "overflow": "ok (1440 = viewport)",
+            "capProbe": "PASS at 2560 (0 of 5 rows)",
+            "unitGeometry": "news-card ×4: 32 within, 0 off",
+            "pass": false
+          },
+          "verdict": "stardust/.work/replica/bg/press-1440-confirm.log (iter3 29.63% before the stickystacky fix)",
+          "justified": [
+            {
+              "probe": "chrome-parity (class-scoped, art-chrome-1440.log)",
+              "flag": "12 PAIR deltas: footer link row Δx 2–8px / Δw 2–4px, 'Follow us on' letterSpacing −0.28px",
+              "why": "substitute glyph widths on the right-aligned footer row + the canon label calibration; 0 missing/extra texts, 7/7 + 12/12 paired",
+              "permanent": true
+            }
+          ],
+          "residuals": [
+            {
+              "band": "every 500px band from y 2000 down (20–44%) — a cumulative offset, not local paint",
+              "pct": 23.75,
+              "cause": "174 bold 18px/22.5 card titles wrap ±1 line with the substitute (card 1 h3 67.5 → 90px, press-measure-2.log); rows stretch to their tallest card so forks bias positive: grid 20491 → 20599 (+108 over 44 rows). Intro, filter, card boxes, images, badges match to the px (units PASS)",
+              "flaggedFor": "user"
+            },
+            {
+              "region": "height",
+              "pct": null,
+              "cause": "|Δh| 108 = the title forks above",
+              "flaggedFor": "user"
+            }
+          ],
+          "captureState": [
+            {
+              "what": "date inputs carry placeholder=\"dd.mm.yy\" (added by live JS, absent from the captured DOM) — authored; datepicker popup / filtering not fired live, native inputs only",
+              "where": ".filter-downloadarea"
+            },
+            {
+              "what": "the hidden search-results block (.search-results__wrapper, '0 Search Results / Load more') sits before the subheader outside every diff root — not authored",
+              "where": "body"
+            }
+          ]
+        }
+      },
+      "motion": {
+        "observed": "stardust/replica/motion/en-about-us-press.json (1440: 5 header class mutations normal-state/small/small-state/sticky-hidden/stickystacky-enabled; 0 animations/transitions); build: en-about-us-press-build.json; compare: 5 parity, 0 missing, 0 extra",
+        "implemented": [
+          "nothing new — the canon chrome.js stickystacky machine covers every fired behaviour; first observe showed 5 MISSING because the prototype lacked <div class=\"stickystacky-wrapper\"></div> as the first .body-container child (chrome.js throws without it; it is NOT part of canon-chrome.html) — added, re-observed: 5 parity"
+        ],
+        "dead": []
+      },
+      "fonts": {
+        "substitute": "Nunito Sans (canon, fonts.md) — reused; no new probe",
+        "fork": "permanent: bold titles/body wrap ±1 line vs Daxline (fonts.md table 2); drives every residual below",
+        "table": "stardust/replica/fonts.md"
+      },
+      "canonChanges": [
+        "canon.css: /* module: news-card */ (linked bordered 16:9 image with video badge \\f160, p.info, h3 > a, bottom-anchored 'Read more' via .teaser__text-wrapper flex) + glyphs calendar \\f129, check \\f12c",
+        "stardust/replica/units.json: news-card (n 4, 174 instances)"
+      ],
+      "nextArchetype": [
+        "the .teaser--card family now has two variants in canon (press-contact, news-card); .layout--teaser scopes the stretch rules",
+        "long card lists cannot pass the 10% bar with the substitute font — budget for a residual, measure the first row and the section boxes instead of iterating",
+        "keep the stickystacky-wrapper div (see article.nextArchetype)"
+      ]
+    },
+    "form": {
+      "archetype": "en-forms-global-contact-form",
+      "live": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+      "pages": 8,
+      "status": "residual",
+      "type": "form",
+      "liveUrl": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+      "dependentPages": 8,
+      "prototype": "stardust/prototypes/en-forms-global-contact-form-proposed.html",
+      "css": "stardust/prototypes/en-forms-global-contact-form.css (page CSS holds no rules: everything is canon.css module mwf-form)",
+      "iterations": {
+        "360": 3,
+        "1440": 3,
+        "1440-post-motion-pixel": 1
+      },
+      "contentCap": {
+        "wrapper": 640,
+        "formItems": 342,
+        "register": "R-01 deferred = replicate as live"
+      },
+      "breakpoints": {
+        "360": {
+          "result": {
+            "structuralRed": 0,
+            "visualFlags": [
+              "BLANK RENDER = multi-root --main artifact (static gateNote)"
+            ],
+            "pixelPct": 8.67,
+            "heightDelta": -35,
+            "clipped": 0,
+            "overflow": "ok (build scrollWidth 360 = viewport)",
+            "capProbe": "n/a (1440 only)",
+            "unitGeometry": "FAIL 22 compared: 29 within, 1 off, 2 missing — 1440-origin cache artifact + the 3 hidden-input items; fieldset rows measured within 2px at 360 (form-measure-fs)",
+            "pass": false,
+            "passWithResiduals": true
+          },
+          "rounds": [
+            {
+              "iter": "iter1 --full",
+              "pixel": 9.22,
+              "dh": -40,
+              "red": 0
+            },
+            {
+              "iter": "iter2",
+              "pixel": 9.47,
+              "dh": -45
+            },
+            {
+              "iter": "iter3 --full",
+              "pixel": 8.67,
+              "dh": -35,
+              "red": 0
+            }
+          ]
+        },
+        "1440": {
+          "result": {
+            "structuralRed": 0,
+            "visualFlags": [
+              "IMAGERY GAP advisory: source renders 3 imgs (logo + 2 consent/tracking pixels) vs build 1 — live #pjax-container carries no image"
+            ],
+            "pixelPct": 3.43,
+            "pixelPctIter3": 3.11,
+            "heightDelta": -8,
+            "clipped": 0,
+            "overflow": "ok (build scrollWidth 1440 = viewport)",
+            "capProbe": "PASS at 2560 (0 of 15 rows; wrapper cap live 640 = build 640) — only with --build-main \"#pjax-container\"; --main is live-side only and the default build root (main→body) FAILed the wrapper-cap row 640 vs 1600",
+            "unitGeometry": "n/a at iter3 (family declared afterwards); fieldset rows measured Δ0 at 1440 (form-measure-fs)",
+            "pass": true
+          },
+          "rounds": [
+            {
+              "iter": "iter1 --full",
+              "pixel": 9.21,
+              "dh": 71,
+              "red": 26
+            },
+            {
+              "iter": "iter2 --full",
+              "pixel": 8.58,
+              "dh": 42,
+              "red": 0
+            },
+            {
+              "iter": "iter3 --full",
+              "pixel": 3.11,
+              "dh": -6,
+              "red": 0
+            },
+            {
+              "iter": "motion pixel round (CSS-only fixes: footer box, mandatory-field row, 22.5px padding)",
+              "pixel": 3.43,
+              "dh": -8
+            }
+          ]
+        }
+      },
+      "justified": [
+        "FONT FORK (2 lines, Nunito Sans substitute) — permanent, stardust/replica/fonts.md",
+        "EXTRA cta Share in .footer — canon footer, gated by the static archetype",
+        "chrome-parity 1 delta = default footer region matches nothing on either side (static gateNote); header region: parity at iter3",
+        "ICON MOVED in .header: live anchors carry /en/forms/global-contact-form/ vs build /en-forms-… — path artifact"
+      ],
+      "residuals": [
+        {
+          "band": "360 y 2000–2114",
+          "pct": 43.1,
+          "cause": "Δh −35: canon .footer renders 267px on the build vs 236px live at 360 on this page (+31, shared chrome); content side ≈ −4px (fieldset rows within 2px)",
+          "flaggedFor": "canon .footer 360 height — chrome owner"
+        },
+        {
+          "band": "360 country row",
+          "pct": null,
+          "cause": "live native country <select> is 358px wide at x16 (intrinsic width, spills 14px past the viewport on live); build keeps width 100% (328px) — a live overflow bug not replicated",
+          "flaggedFor": "form pages"
+        },
+        {
+          "band": "1440 Subject row",
+          "pct": null,
+          "cause": "flex distribution h5-item vs dropdown-item differs by 14px (intrinsic text widths of the substitute font)",
+          "flaggedFor": "font fork"
+        }
+      ],
+      "captureState": [
+        "dropdown widgets rendered in the captured initial (closed) state: native .mwf-select display:none like live, red .dropdown-toggle shows Select* / Mr., ul.dropdown-menu display:none; no flyout script",
+        "3 dependent dropdowns (product/service/solutions_detail) carry .mwf-hidden + disabled as captured",
+        "submission blocked: form action=\"#\", no JS (MWF endpoint belongs to the site owner — stardust/dynamic-features.md)",
+        "hidden inputs statistics / chksmlf / mwf_leadid / mwf_leadid_inmail kept with empty values (session tokens not copied); they add 3×16px like live",
+        "country list: 239 options verbatim + disabled placeholder; Title preselected Mr. as captured",
+        "consent radio unchecked; no validation messages rendered"
+      ],
+      "motion": {
+        "observed": "stardust/replica/motion/en-forms-global-contact-form.json — 0 animations, 0 transitions, 19 class mutations (header normal-state / small / small-state / sticky-hidden / stickystacky-enabled)",
+        "implemented": "nothing page-specific — canon chrome.js only; build observe 14 class mutations; motion-compare: 5 parity, 0 missing, 0 extra",
+        "dead": [
+          "header scroll-morph: dead on live (header static across the scroll traversal on both sides) — not required"
+        ]
+      },
+      "fonts": "Nunito Sans substitute (canon fonts/), brand family first in the stack; width fork permanent — fonts.md",
+      "canonChanges": [
+        "APPEND canon.css: /* module: mwf-form — from en-forms-global-contact-form */ followed by /* module: mwf-form (rules) … */ (the first append carried only the comment): .content padding/flex, .form-section 640 wrapper, header h3/h5, fieldset/row/form-item grid, labels, inputs/textarea, radio, footer (8+8/16 margins folded into a 80px padded box), dropdown toggle/menu/select-wrapper, media 640",
+        "units.json: added family form-item (n 22, template form)",
+        "REQUEST: canon .footer measures 267px at 360 on the build vs 236px live on this page (31 of the 35px 360 Δh) — verify the footer 360 rules against form/program pages; no page-CSS workaround (shared chrome)",
+        "no change to canon-chrome.html or chrome.js"
+      ],
+      "nextArchetype": [
+        "cap-probe: pass BOTH --main \"#pjax-container\" and --build-main \"#pjax-container\"; --main is live-side only, the build root falls back to body and the wrapper-cap row FAILs (1600 vs 640)",
+        "content-diff counts the live dropdown flyout <a href=\"\"> options as CTAs and the toggle icon as U+F12F: author the widget markup (toggle button + hidden ul.dropdown-menu > li > a > span) or expect ~26 structural reds",
+        "live .form-item .label rect differs (inline vs block) between widths but the row heights match; .mwf-label is inline with a 27px line; put <640 overrides AFTER the base rule in the cascade",
+        "live hidden-input fieldsets still take 16px each (8 margin-top + 8 form-item padding) — keep them (48px of the 1440 Δh)",
+        "#pjax-container (.content) has padding-bottom 22.5px and a white background on live form pages",
+        "a later `border: 0` in the same rule silently undid the transparent .btn border (46 vs 48px) — re-grep rules after node string replaces",
+        "the 360 BLANK RENDER and the unit-geometry 360 FAIL are the known multi-root / 1440-origin artifacts"
+      ],
+      "gatedAt": "2026-10-06",
+      "regime": "prototype"
+    },
+    "home": {
+      "archetype": "en",
+      "live": "https://www.linde-mh.com/en/",
+      "pages": 1,
+      "status": "residual",
+      "type": "home",
+      "liveUrl": "https://www.linde-mh.com/en/",
+      "prototype": "stardust/prototypes/en-proposed.html",
+      "css": "stardust/prototypes/en.css",
+      "generator": "stardust/.work/replica/home-build.mjs (+ home-hand.css)",
+      "iterations": {
+        "360": [
+          "iter1 --full 15.67%/dh-42/0 red",
+          "iter2 15.69%/dh-26"
+        ],
+        "1440": [
+          "iter1 --full 16.22%/dh-11/5 red",
+          "iter2 15.18%/dh-55",
+          "iter3 --full 8.12%/dh+29/0 red",
+          "motion-stage pixel round 5.11%/dh0 (post-fix confirmation)"
+        ]
+      },
+      "contentCap": 1600,
+      "gateMain": ".body-container (live #pjax-container is closed by a stray </div> after the CTA row; the remaining sections are .body-container children; the footer sits in body > div.layout-100 - mirrored)",
+      "breakpoints": {
+        "360": {
+          "result": {
+            "structuralRed": 0,
+            "visualFlags": "iter1: 8 advisory FLUSH-LEFT (press slides centred off-screen x-1420) - fixed iter2 (measure dx 0); iter2 pixel-only",
+            "pixelPct": 15.69,
+            "heightDelta": -26,
+            "clipped": 4,
+            "overflow": "ok (scrollWidth 360)",
+            "capProbe": "n/a (1440 only)",
+            "unitGeometry": "measure 360: hero 360x464 d0; .layout-cta 390 / teaser 167x144 d0; h1 block 78 d0; icon-text teaser 342x323 d0 (wrapper 2 p +27 = one extra line); .layout-25 card 342x386 d0; press slide 320x181, teaser 311x172 d0; footer d0 - everything below y~1340 offset +26",
+            "pass": false
+          }
+        },
+        "1440": {
+          "result": {
+            "structuralRed": 0,
+            "visualFlags": "none (iter3 --full: 0 advisory)",
+            "pixelPct": 5.11,
+            "heightDelta": 0,
+            "clipped": 4,
+            "overflow": "ok (scrollWidth 1440)",
+            "capProbe": "PASS at 2560 (0 of 9 rows failed, 7/7 modules 1280px)",
+            "unitGeometry": "measure 1440: hero 1440x527 / text 640 / image 800 d0; .layout-cta teaser 276x123 d0; h1 1208 d0; .layout-33 1280x459 d0; .layout-25 card 280x550 d0; press slide 312x227, teaser 280x191, track 3120 d0; footer 1440x207 d0; .carousel-button-wrapper dx+16 dy-80 (residual)",
+            "pass": true,
+            "note": "iter3 (--full, 8.12%) carried a press-track regression (width:max-content) and the footer inside .body-container; both fixed with CSS/one </div>; the motion-stage pixel round confirms 5.11%/dh0"
+          }
+        }
+      },
+      "justified": [
+        "clip-probe CONTROL CLIPPED x4 (.layout-25 teaser--card 'Learn more' cut 30-33px): card heights equal live (550 @1440, 386 @360); the substitute font wraps the card text one more line - permanent font fork (stardust/replica/fonts.md)",
+        "1440 iter1 TEXT CLIPPED x2 in .teaser--overflow p: by design on live (source @305094 max-height 99% + overflow hidden + fade @305191)",
+        "chrome-parity '2 REGION no match' on every gate.sh round = default header/footer landmarks (static gateNote); class-scoped chrome is canon-gated",
+        "content-diff EXTRA footer ctas (iter1/iter3): footer was inside .body-container while the live root excludes it - moved to body > .layout-100 after iter3 (measure4 d0)"
+      ],
+      "residuals": [
+        {
+          "bp": 1440,
+          "band": "0-500 (hero)",
+          "pct": "37.1% at iter1-3; motion round: no hot band",
+          "cause": "font fork: live .h2 wraps 2 lines (126px) vs 1 line (63px); .btn 134->146px; plus live autoplay - the capture caught slide index 1, a fresh load (gate live.png) shows index 0 -> prototype renders index 0",
+          "flaggedFor": "fonts.md; captureState"
+        },
+        {
+          "bp": 1440,
+          "band": "~870-920 stitch seam",
+          "pct": "~1%",
+          "cause": "live stitched capture shows the sticky header clone at the chunk-2 seam; chrome.js hides the wrapper while scrolling down (top=-stackH)",
+          "flaggedFor": "canonChanges REQUEST"
+        },
+        {
+          "bp": 1440,
+          "band": "2500-2700",
+          "pct": "<1%",
+          "cause": ".carousel-button-wrapper dx+16 dy-80 vs live (absolute arrows row)",
+          "flaggedFor": "teaser-carousel-light module follow-up"
+        },
+        {
+          "bp": 360,
+          "band": "2000-4000 + 4500-4689",
+          "pct": "26.6/35.5/27.9/26.9/18.2",
+          "cause": "'Safety' icon-text paragraph wraps one extra line with the substitute (p 157->184px, +27) -> +26px offset of every section below (all boxes dh 0, dy +26); font fork",
+          "flaggedFor": "fonts.md (permanent)"
+        },
+        {
+          "bp": 360,
+          "band": "500-1000 (hero)",
+          "pct": "not hot",
+          "cause": "live .h2 80px (2 lines) vs build 40px; hero height fixed 464 both - font fork",
+          "flaggedFor": "fonts.md"
+        }
+      ],
+      "captureState": [
+        "hero .media-carousel--header: slick infinite, 11 track items (1 clone + 5 + 5 clones) authored; capture caught #slick-slide01 current (track translate3d(-2880px) @1440, mid-autoplay); prototype renders slide 1 of 5 (index 0, track -100%) = fresh-load state the gate compares against; dots: first active, labels = slide titles + aria-label 'N of 5'; both arrows enabled",
+        "press .layout-teasercarousel--fixed: slide 0 current, slides 1-4 active, prev disabled (as captured); 10 slides; inline slick widths (312/3120 @1440, 320/50000 @360) replaced by CSS (track 250% + 10% slides >=1024; LTR margin 0)",
+        "FirstSpirit section anchors (#fsSectionId_*) kept as hidden zero-height divs (live inline opacity:0;visibility:hidden;height:0)",
+        "consent CCM19 dismissed; no content-browser/modals on this page",
+        "images hotlinked with live src/srcset/sizes"
+      ],
+      "motion": {
+        "observed": "live 1440: 0 animations, 0 transitions, 17 class mutations (header machine: normal-state/small/small-state/sticky-hidden/stickystacky-enabled); build: 13 class mutations",
+        "implemented": "canon chrome.js header morph only (unchanged); motion-compare: 5 parity, 0 missing, 0 extra, 0 advisory",
+        "dead": [
+          "hero slick autoplay (live advanced index 0->1->2 between capture/measure/gate) - not implemented: JS beyond canon chrome.js is not permitted; static fresh-load state replicated",
+          "slick arrows/dots/drag and press carousel arrows - static controls"
+        ]
+      },
+      "fonts": "Nunito Sans substitute per stardust/replica/fonts.md (brand first in stack); fork: hero .h2 wraps 2 lines on live vs 1 in build (1440+360), Safety paragraph +1 line @360 (+27px cascade), 'Learn more' clipped inside live-height cards",
+      "canonChanges": [
+        "APPENDED canon.css '/* module: teaser-carousel-light - from en */': .layout-teasercarousel--fixed .slick-track { margin:0; justify-content:flex-start }; .layout-teasercarousel--fixed.slick-initialized .slick-slide { display:flex }; .body-container > .layout-teasercarousel__wrapper .teaser .teaser__content-wrapper { padding:0 0 24px } (source @299459)",
+        "units.json: +icon-cta (n4, .layout-cta a.teaser--icon), +icon-text-teaser (n3, .layout-33--fixed .teaser--icon-text); news-card and related-teaser += page en / template home",
+        "NOTE: canon-chrome footer fragment (div.layout-100 > .footer + .footer-a11y-note) belongs OUTSIDE .body-container (live body > div.layout-100); chrome.js only queries .body-container > .header so this is safe - earlier prototypes keep it inside",
+        "REQUEST: chrome.js stickystacky - live stitched captures show the header clone at the chunk seam (~y 870-920 @1440) while the build hides the wrapper on scroll-down; consider the source direction-change threshold. Page workaround: none (~1% band, residual)"
+      ],
+      "nextArchetype": [
+        "live #pjax-container closes early (stray </div> after the hero/CTA row): sections after it are .body-container children -> gate with --main '.body-container' (single root, no BLANK RENDER); the footer is body > div.layout-100 (outside .body-container)",
+        "the lifted universal '* { box-sizing:border-box }' is scoped to descendants - apply it to the section roots too, or every root is content-box (1312/1352 wide, margins 64/44 instead of 1280/80)",
+        "vendors '.slick-initialized .slick-slide { display:block }' in a later page layer beats canon's flex slide wrapper; the slick track needs margin:0 + justify-content:flex-start or 10 slides centre-overflow (x -824/-1420); 10-slide track: width 250% + slides 10% >=1024 (live inline 3120/312)",
+        "numeric ids (#762260) are invalid in querySelector - use [id='762260'] in measure/anchor selectors",
+        "regex tag walkers and html-slice break on this page; cheerio/parse5 are available at /app/node_modules (createRequire) for outlines and verbatim text extraction",
+        "hero autoplay: the gate live.png shows slide index 0 on a fresh load although the capture JSON caught index 1 - render index 0",
+        "the light press carousel is now a canon module (teaser-carousel-light); .carousel-button-wrapper still sits dx+16/dy-80 from live at 1440"
+      ],
+      "recordedAt": "2026-10-06T15:25:59.860Z",
+      "gatedAt": "2026-10-06",
+      "regime": "prototype"
+    },
+    "productfinder": {
+      "archetype": "en-productfinder-html",
+      "live": "https://www.linde-mh.com/en/Productfinder.html",
+      "pages": 2,
+      "status": "residual",
+      "type": "productfinder",
+      "prototype": "stardust/prototypes/en-productfinder-html-proposed.html",
+      "css": "stardust/prototypes/en-productfinder-html.css",
+      "gateMain": "#pjax-container,.header,.footer",
+      "iterations": {
+        "360": 1,
+        "1440": 3
+      },
+      "contentCap": {
+        "template": "productfinder",
+        "shell": 1600,
+        "note": "cap-probe wrapper row PASS (1600=1600); module rows 2/4 FAIL at 2560 (live sections 618/344/full-bleed vs build 1280/658/344) — finder module viewport rules at 2560 not lifted"
+      },
+      "breakpoints": {
+        "360": {
+          "result": {
+            "structuralRed": 0,
+            "visualFlags": "BLANK RENDER (known multi-root artifact, main height 56 = pjax root with off-canvas filter rail)",
+            "pixelPct": 24.17,
+            "heightDelta": 436,
+            "clipped": 0,
+            "overflow": "ok",
+            "capProbe": "n/a",
+            "unitGeometry": "FAIL — 1440-origin cache artifact (not verified with measure --width 360)",
+            "pass": false
+          }
+        },
+        "1440": {
+          "result": {
+            "structuralRed": 0,
+            "structuralRedNote": "iter1 --full: 26 (all icon glyphs U+F167/F127/F145/F173 missing); fixed by canon icon-glyph lift, verified 0 by the 360 --full (same markup); no 1440 --full rerun",
+            "visualFlags": "none",
+            "pixelPct": 11.76,
+            "heightDelta": 160,
+            "clipped": 0,
+            "overflow": "ok",
+            "capProbe": "wrapper PASS / modules FAIL (2 of 4 rows at 2560)",
+            "unitGeometry": "iter1: 12 result-cards compared; tile Δh +23 each (details-wrapper 298 vs 275)",
+            "pass": false
+          }
+        }
+      },
+      "justified": [
+        "font fork: DaxlineWebPro → Nunito Sans substitute (stardust/replica/fonts.md), permanent 🟠",
+        "BLANK RENDER at 360: multi-root --main artifact (home/form lesson)",
+        "unit-geometry FAIL at 360: 1440-origin cache artifact (listing lesson)",
+        "chrome-parity ✗ in gate.sh --full: class-scoped roots not passed by the built-in run (static gateNote)"
+      ],
+      "residuals": [
+        {
+          "breakpoint": 1440,
+          "band": "500–4000 (every tile row 11–13%)",
+          "pct": 11.76,
+          "cause": "each .product-tile is +23px (details-wrapper 298 vs live 275 min-height; inner line boxes taller with the substitute font / no live inner metrics captured) → cumulative +138 over 6 rows; rows drift down",
+          "flaggedFor": "font-fork + tile inner line-height lift"
+        },
+        {
+          "breakpoint": 1440,
+          "band": "200–500 selector tabs",
+          "pct": 1.2,
+          "cause": ".productfinder-selector 263 vs live 227 (+36): tab inner heights (icon 2rem + name 1.5rem) exceed live; desktop selector rules lifted but a live constraint is missing",
+          "flaggedFor": "selector-tab height"
+        },
+        {
+          "breakpoint": 1440,
+          "band": "4000–4475",
+          "pct": 21.1,
+          "cause": "Δh 160 pushes Show-all/closinggroup/footer 160px down (stitch tail)",
+          "flaggedFor": "follows from the two above"
+        },
+        {
+          "breakpoint": 1440,
+          "band": "chrome mid-page",
+          "pct": null,
+          "cause": "a header copy is painted ~y 887 on one side only (stitched-chunk header artifact, static lesson: live chunks sit ~34px above DOM)",
+          "flaggedFor": "gate stitching, not page"
+        },
+        {
+          "breakpoint": 360,
+          "band": "all bands 16–44%",
+          "pct": 24.17,
+          "cause": "no 360 fix round run (budget); Δh 436 — tiles +~23 each over 12 single-column tiles (+276) plus selector/toolbar band; filter rail correctly off-canvas (position:fixed translate(100%))",
+          "flaggedFor": "360 measure + one pixel round"
+        }
+      ],
+      "captureState": [
+        {
+          "feature": "productfinder filter controls (model search, 11 truck-category checkboxes incl. 5 usedtrucks hidden, Load Capacity/Lift Height range sliders, Drive Types, Explosion Protection; Price/Approved Standard/Year/Packages groups hidden)",
+          "disposition": "static snapshot of captured initial state, inert (no JS, no fetch); live inline display:none → .pf-hidden, slider gradient inline style → .pf-range-fill",
+          "source": "stardust/dynamic-features.md row 7"
+        },
+        {
+          "feature": "result list: 12 .product-tile (E10 … X35–X50) exactly as captured, lazyloaded classes dropped, image src absolutized, Show all link inert",
+          "disposition": "static snapshot",
+          "source": "row 7"
+        },
+        {
+          "feature": "compare/watch-list counter (.productfinder__compare count 0, dropzone, Get a quote/Share/Compare buttons) and toolbar counters (0/0)",
+          "disposition": "rendered as captured, inert",
+          "source": "row 11"
+        },
+        {
+          "feature": ".productfinder-loadingspinner",
+          "disposition": "omitted (not rendered in captured state)"
+        }
+      ],
+      "motion": {
+        "observed": "live: 0 animations, 0 transitions, 22 class mutations (header morph: normal-state/small/small-state/sticky-hidden/stickystacky-enabled; finder: sticky__bottom on the compare panel)",
+        "implemented": "header morph via canon chrome.js (parity on 5 classes); no finder JS",
+        "dead": [
+          "sticky__bottom — live JS pins .productfinder__compare__wrapper on scroll; static-snapshot disposition, not implemented"
+        ],
+        "compare": "5 parity, 1 missing (sticky__bottom), 0 extra"
+      },
+      "fonts": {
+        "substitute": "Nunito Sans (canon, fonts.md)",
+        "note": "finder bundle rules referencing DaxWebPro rewritten to the canon stack at lift time; width/line-height fork is the permanent residual"
+      },
+      "canonChanges": [
+        {
+          "file": "stardust/prototypes/canon.css",
+          "change": "APPENDED /* module: icon-glyphs-productfinder */ — 16 .icon-LMH*:before glyph rules lifted from index bundle (forklift, needle, filter, producttype, application, loadcapacity, height, drivetype, ExplosionProof, price, taskslist, yearofmanufacturing, settings, saddpin, arrowright)"
+        },
+        {
+          "file": "stardust/prototypes/canon-chrome.html",
+          "change": "REQUEST: footer .share-btn is not present on the live finder page footer — make it optional; page CSS workaround `.footer .share-btn{display:none}`"
+        },
+        {
+          "file": "stardust/replica/units.json",
+          "change": "added family result-card (.productfinder__products-container .product-tile, n 12)"
+        },
+        {
+          "file": "stardust/current/assets/css/light-range-module-productFinder-module_style_bundle_lmh.css",
+          "change": "fetched (was not captured) from https://www.linde-mh.com/en/layoutmedia/layout/css/… — evidence for the lift; vendors-productFinder-module-wizard bundle at that URL is JS, not CSS"
+        }
+      ],
+      "nextArchetype": [
+        "finder CSS lives in light-range-module-productFinder-module_style_bundle_lmh.css (NOT captured originally; fetch under /en/layoutmedia/…; the root-path URL 404s) — lift from it, product-tile rules are in the index bundle",
+        "lift filter: keep a rule only if all its classes are in the markup AND one is finder-specific — this dropped .layout-50--fixed/.closinggroup (64px row) and .subheader--toolbar/.toolbar; whitelist layout + subheader classes too",
+        "box-sizing: apply `#pjax-container, #pjax-container *` border-box (home lesson) — every finder root was content-box otherwise (+649px)",
+        "live finder footer has no share-btn; canon footer does (+8px, Share text) — hide via page CSS until canon-chrome makes it optional",
+        "icon glyph rules for module-specific icons are NOT in canon until lifted — grep canon for every icon-LMH* class in the markup before iter1 (26 structural reds otherwise)",
+        ".productfinder-toolbar counters are visible at 1440 on the build; live paints none — the hiding rule was not found in either bundle (likely JS/stickystacky state)",
+        "cap-probe --build-main works: wrapper row PASS; module rows at 2560 FAIL because finder desktop rules >1440 were not lifted"
+      ],
+      "tooling": {
+        "instruments": "all Playwright via run-bg (pf-* jobs, RUN_BG_SLOTS=1)",
+        "gates": "stardust/replica/gates/en-productfinder-html-{1440,360,2560}/",
+        "motion": "stardust/replica/motion/en-productfinder-html{,-build}.json"
+      },
+      "gatedAt": "2026-10-06",
+      "regime": "prototype"
+    },
+    "locationfinder": {
+      "archetype": "en-technical-location-finder-html",
+      "live": "https://www.linde-mh.com/en/technical/Location-Finder.html",
+      "pages": 1,
+      "status": "residual",
+      "type": "locationfinder",
+      "prototype": "stardust/prototypes/en-technical-location-finder-html-proposed.html",
+      "css": "stardust/prototypes/en-technical-location-finder-html.css",
+      "gateMain": "#pjax-container,.header,.footer",
+      "iterations": {
+        "360": 1,
+        "1440": 2
+      },
+      "contentCap": "shell 1600 (cap-probe PASS at 2560, 0 of 2 rows failed; sections live 0 vs build 2 advisory — live content is shadow DOM)",
+      "breakpoints": {
+        "360": {
+          "result": {
+            "structuralRed": 0,
+            "visualFlags": [
+              "BLANK RENDER (known multi-root artifact, main height 56 = header root)"
+            ],
+            "pixelPct": 23.52,
+            "pixelPctMapMasked": 2.42,
+            "pixelPctTop": 1.6,
+            "pixelPctMapRegion": 60.93,
+            "pixelPctBottom": 2.79,
+            "heightDelta": 0,
+            "clipped": 0,
+            "overflow": "ok",
+            "capProbe": "n/a",
+            "unitGeometry": "n/a",
+            "pass": true,
+            "passNote": "unmasked 23.52% FAIL; pixel-compare --mask 219:400 = 2.42%; map crop (0,219,360x400) = 60.93% of its area; rows 0-219 1.60%, rows 619-1108 2.79%"
+          }
+        },
+        "1440": {
+          "result": {
+            "structuralRed": 0,
+            "visualFlags": [],
+            "pixelPct": 20.2,
+            "pixelPctMapMasked": 3.24,
+            "pixelPctLeftColumn": 3.77,
+            "pixelPctMapRegion": 71.84,
+            "heightDelta": 0,
+            "clipped": 0,
+            "overflow": "ok",
+            "capProbe": "PASS",
+            "unitGeometry": "n/a (dealer-card lives in the live shadow DOM; required:false)",
+            "pass": true,
+            "passNote": "pass only with the map mask: unmasked 20.20% FAIL; pixel-compare --mask 198:600 = 3.24%; map region crop (756,198,684x600) = 71.84% of its area = 17.4% of the page; everything else 3.66%"
+          }
+        }
+      },
+      "justified": [
+        {
+          "item": "map tiles",
+          "region": {
+            "360": "x0 y219 360x400",
+            "1440": "x756 y198 684x600"
+          },
+          "why": "live Google Maps tiles are non-deterministic and need the owner key (dynamic-features row 9); build paints the captured map box in the captured base colour #e5e3df (gm-style container bg). gate.sh has no --mask flag; masked numbers come from pixel-compare.mjs --mask on the gate PNGs plus region crops run through pixel-compare.mjs"
+        },
+        {
+          "item": "content-diff 51 🟡 EXTRA in #pjax-container (31 text + 4 img)",
+          "why": "the captured page JSON/HTML hold 0 text nodes for the component (lmh-dealer-locator renders into a shadow root); all build strings are verbatim from the live rendered component (probe of the shadow tree) and the Dealer-Finder-App-Data.json entries"
+        },
+        {
+          "item": "chrome-parity 12 PAIR deltas (Δx ≤ 8px, Δw +2..4px on header utility links and centred footer links; letterSpacing on Follow us on)",
+          "why": "substitute-font width fork, permanent (stardust/replica/fonts.md); gate.sh built-in run prints 2 REGION no match = known non-finding (static gateNote)"
+        }
+      ],
+      "residuals": [
+        {
+          "band": "1440 y0-1000 (x756-1440)",
+          "pct": 17.4,
+          "cause": "Google Maps tiles vs static map box",
+          "flaggedFor": "Phase 5 (row 9: owner key / referrer allow-list) — region mask stays justified"
+        },
+        {
+          "band": "360 y219-619",
+          "pct": 22,
+          "cause": "Google Maps tiles vs static map box",
+          "flaggedFor": "Phase 5 row 9"
+        },
+        {
+          "band": "1440 left column 3.77% / 360 non-map 1.6-2.8%",
+          "pct": 3.77,
+          "cause": "font-fork text edges; default scrollbar styling of the 450px dealer list differs from the live custom-scrollbar",
+          "flaggedFor": "none"
+        }
+      ],
+      "captureState": [
+        "map: static <div class=\"map\" role=\"region\" aria-label=\"Map\"> at the captured size (684x600 at 1440 in the right column; 360x400 at 360, mobile toggle default = map) with the captured gm container background #e5e3df; no Maps script, no key",
+        "search controls as captured: Continent select (7 options, Select Continent selected) + Country select (Select Country only, no continent chosen) — inert, no JS",
+        "dealer list: live renders all 103 global entries (data-dealerfinder-type=global) in a 450px overflow-y:scroll region; build authors the first 5 entries verbatim (Agritec Ltd, AL-Futtaim FAMCO, Al-Ghodwa Group, Alkhorayef Commercial, ALWARK UKRAINE) with their logos hotlinked from the captured data JSON; the list is display:none below 768 as on live",
+        "mobile list/map toggle rendered with map active (border-bottom 3px #aa0020), inert",
+        "wrapper tag kept as <lmh-dealer-locator class=\"location-finder\"> (display:block via CSS, no custom-element JS) so live/build root selectors match"
+      ],
+      "motion": {
+        "observed": "live: 0 animations, 0 transitions, 19 class mutations — all header/subheader/stickystacky scroll-morph classes (small-state, small, normal-state, sticky-hidden); no component motion fired",
+        "implemented": "chrome.js (existing) — nothing new",
+        "dead": [],
+        "compare": "motion class sticky-hidden: parity (added 4× on live, 3× on build) | motion class stickystacky-enabled: parity (added 2× on live, 1× on build) | motion summary: 5 parity, 0 missing, 0 extra, 0 advisory (0 out of tolerance, 0 dead or unobserved on live — not required; tolerance 150ms / 8px)"
+      },
+      "fonts": "canon stack DaxlineWebPro → Nunito Sans substitute (fonts.md); the component itself uses DaxlineWebPro, sans-serif on live — same fork",
+      "canonChanges": [],
+      "canonRequests": [],
+      "units": "dealer-card family added to stardust/replica/units.json (required:false — live units are in a shadow root)",
+      "evidence": {
+        "360": "stardust/replica/gates/en-technical-location-finder-html-360 (iter1 --full)",
+        "1440": "stardust/replica/gates/en-technical-location-finder-html-1440 (iter1, iter2 --full; chrome-live-regions.json; anchor-live.json)",
+        "capProbe": "stardust/replica/gates/en-technical-location-finder-html-2560/cap-iter.json",
+        "motion": "stardust/replica/motion/en-technical-location-finder-html.json, en-technical-location-finder-html-build.json",
+        "probe": "stardust/.work/replica/bg/lf-probe.log (live shadow-tree dump at 1440/360)"
+      },
+      "nextArchetype": [
+        "the location finder is a shadow-DOM web component (<lmh-dealer-locator>): captured JSON/HTML carry none of its content — dump the live shadow tree with a Playwright probe (run-bg) and lift Tailwind computed values; content-diff then reports every string as 🟡 EXTRA (non-structural)",
+        "gate.sh has no --mask; for volatile regions run pixel-compare.mjs --mask yA:h on the gate dir live/build PNGs and crop regions with pngjs for x-bounded numbers",
+        "Phase 5: data snapshot = GET /en/technical/Dealer-finder-app/Dealer-Finder-App-Data.json?rev=6233823 (160 kB, 371 entries, keys city,continent,country,latitude,longitude,logo,name,street,zip,phone,mail,website,typeCode); map = Google Maps JS (needs the owner key + referrer allow-list); live initial state shows all entries in a 450px scroll list, map default on mobile",
+        "keep the custom-element tag in the build with display:block so measure/anchor selectors match; live #pjax-container = 600px component + 22.5px canon .content padding (623) at 1440, 563+23 at 360"
+      ],
+      "gatedAt": "2026-10-06",
+      "regime": "prototype"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+.hlx/*
+coverage/*
+logs/*
+node_modules/*
+
+helix-importer-ui
+.DS_Store
+*.bak
+.idea
+
+# Ensure these files are tracked
+!CLAUDE.md
+!AGENTS.md
+# Replica runner writes the DA token to .env; keep it out of checkpoints.
+.env
+# >>> stardust
+.env.*
+# <<< stardust
+stardust/.work/*
+
+# stardust instrument scratch output
+/crop-diff.png

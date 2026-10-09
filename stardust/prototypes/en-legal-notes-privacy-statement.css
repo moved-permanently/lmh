@@ -1,0 +1,68 @@
+/* en-legal-notes-privacy-statement.css — page layer for the `static` template (7 pages: Legal-Notes ×5, EDI, retired-product notice).
+   Imports canon.css (chrome, tokens, type). Lifted from index_style_bundle_lmh.css: .content @436547; .layout-passepartout @475426;
+   .navigation-anchor-navigation* @291412–@294157; .layout-100-headline--flex @439204–@440339; layout grid @419810/@431225/@433841;
+   measured at 1440 + 360 (measure.mjs, 2026-10-06). All measured containers compute box-sizing: border-box → declared on .content *. */
+
+.content, .content * { box-sizing: border-box; }
+.content { display: flex; flex-direction: column; align-items: center; position: relative; width: 100%; background: var(--color-white); padding: 0 0 22.5px; margin: 0; }   /* measured 22.5px at both widths — fixed, not rem */
+.layout-passepartout { overflow: hidden; margin: 0; display: flex; width: 100%; }
+
+/* anchor navigation (one horizontal, scrollable row; the 100px list hides its scrollbar under the 50px clip) */
+.navigation-anchor-navigation-wrapper { width: 100%; background: var(--color-white); position: relative; box-shadow: 0 2px 3px 0 rgba(34, 34, 34, .2); border-bottom: 1px solid var(--color-lightgrey); }
+.navigation-anchor-navigation { position: relative; top: 0; overflow: hidden; height: 50px; }
+.navigation-anchor-navigation ul { list-style: none; padding: 0; text-align: center; white-space: nowrap; overflow-x: scroll; height: 100px; margin: 0 auto; font-size: .95rem; line-height: 1.5; }
+.navigation-anchor-navigation ul li { display: inline-block; }
+.navigation-anchor-navigation ul li a { position: relative; padding: 16px; display: block; color: var(--color-darkgrey); white-space: nowrap; line-height: 1; }
+.navigation-anchor-navigation ul li a:hover { color: var(--color-red); }
+.anchor-list-button-prev, .anchor-list-button-next { position: absolute; top: 1px; }
+.anchor-list-button-prev { left: 0; width: 0; height: 0; overflow: hidden; }
+.anchor-list-button-prev .btn { display: none; }
+.anchor-list-button-next { right: 0; }
+.anchor-list-button-next .btn { width: 48px; height: 48px; padding: 12px; background: var(--color-red); color: var(--color-white); border: 0; line-height: 0; display: block; }
+.anchor-list-button-next .btn .icon { margin: 0; }
+@media (min-width: 1024px) {
+  .navigation-anchor-navigation-wrapper { border-top: 1px solid var(--color-lightgrey); }
+  .navigation-anchor-navigation { width: 100%; max-width: 1280px; background: var(--color-white); margin: 0 auto; }
+  .navigation-anchor-navigation ul li a { padding: 16px 48px; }
+}
+
+/* red headline band */
+.layout-100-headline--flex { display: flex; flex-wrap: wrap; justify-content: center; flex-shrink: 0; text-align: center; padding: 2rem 2rem 0; width: 100%; max-width: 100%; margin: 0; }
+@media (min-width: 960px) { .layout-100-headline--flex { padding-top: 8rem; } }
+@media (min-width: 1280px) { .layout-100-headline--flex { margin: auto; padding-top: 36px; padding-bottom: 4px; } }
+.layout--red { background: var(--color-red); }
+.layout--white { background: var(--color-white); }
+.layout-100-headline--flex > :not(a) { width: 100%; }
+.layout-100-headline--flex h2 { max-width: 1216px; font-size: 1.5rem; line-height: 125%; margin: 0; font-weight: 400; color: var(--color-white);
+  font-family: var(--font-face-medi), var(--font-sub-bold), Arial, sans-serif; letter-spacing: -0.016em; /* bold substitute runs +3.2% wide (fonts.md) */ }
+@media (min-width: 768px) { .layout-100-headline--flex h2 { font-size: 3rem; } }
+
+/* centred article column */
+.layout-100--flex { display: flex; flex-wrap: wrap; justify-content: center; flex-shrink: 0; padding: 0; width: 100%; }
+@media (min-width: 1280px) { .layout-100--flex { flex-direction: column; align-items: center; } }
+.layout-100--flex > .ld-layout-item__wrapper { display: flex; flex-direction: column; align-items: center; position: relative; padding: 0; width: 100%; }
+.layout-article--centered { display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; max-width: 1280px; width: 100%; padding: 5vw 1.25vw; margin: 0; }   /* <1280: wrapping row (the column shrinks to the container) */
+@media (min-width: 1280px) { .layout-article--centered { flex-direction: column; align-items: center; padding: 32px 16px; } }
+.layout-article--centered > .ld-layout-item__wrapper { display: block; position: relative; max-width: 960px; padding: 1.25vw; width: 100%; }   /* <1280: full width (live 351 @360; long URLs overflow the p like live) */
+@media (min-width: 1280px) { .layout-article--centered > .ld-layout-item__wrapper { width: auto; padding: 1.25vw 16px; } }
+
+/* richtext (source "dom-content"). letter-spacing: substitute-width calibration only — Nunito Sans runs +0.29% wide on body copy
+   (fonts.md width probe); −0.0014em brings the average advance to the captured face so long paragraphs wrap at the same lines. */
+.dom-content { letter-spacing: -0.003em; }
+/* <640px (root 16px → 15.2/18/24px): Daxline advances snap narrower at these sizes; per-size ratios from the local width probe (fonts.md table 2) */
+@media (max-width: 639px) {
+  .dom-content { letter-spacing: -0.017em; }
+  .dom-content p.intro { letter-spacing: -0.0134em; }
+  .dom-content a { letter-spacing: -0.0049em; }
+  .layout-100-headline--flex h2 { letter-spacing: -0.0075em; }
+}
+.dom-content p { margin: 0; font-size: .95rem; line-height: 1.75; max-width: 640px; }
+.dom-content p + p { margin-top: .5em; }   /* live: body p computes margin 8.55px 0 0 (.5em) — only the intro carries a bottom margin */
+.dom-content ul + p, .dom-content ol + p { margin-top: 1em; }   /* live: the p after a list computes margin-top 17.1px */
+.dom-content p.intro { font-size: 1.125rem; line-height: 1.5; margin-bottom: 1em; }
+.dom-content ul { margin: .5em 0; padding: 0; max-width: 640px; font-size: .95rem; line-height: 1.5; list-style: none; }
+.dom-content li { position: relative; margin: 0 0 .25em; padding: 0 0 0 1.125em; line-height: 1.5; }
+.dom-content li:before { content: "\2013"; position: absolute; left: 0; top: 0; color: var(--color-red); }
+.dom-content a { font-family: var(--font-face-medi), var(--font-sub-bold), Arial, sans-serif; font-weight: 700; color: var(--color-red); line-height: inherit; letter-spacing: -0.016em; }
+.dom-content a:hover { color: var(--color-primary-700); }
+.dom-content b, .dom-content strong { font-weight: 700; }

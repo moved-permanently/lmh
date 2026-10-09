@@ -1,0 +1,704 @@
+{
+ "source": "http://localhost:8802/stardust/migrated/en/Landingpage/Happy-Driver/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Driver satisfaction is the key to success"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Happy Driver"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Only Linde can do this: New generation of driver platforms",
+     "href": "#784422"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Operating Elements: A Firm Grip on the Future",
+     "href": "#784426"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Safety: Maximum Protection, Maximum Performance",
+     "href": "#784431"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The shortage of skilled workers has long since reached intralogistics and is increasingly affecting the performance of companies. In view of the scarce supply of personnel, it is becoming increasingly difficult to find suitable drivers for industrial trucks. This makes it all the more important for companies to position themselves as an attractive employer. The safety and ergonomics of industrial trucks can be a decisive competitive advantage when it comes to attracting drivers to your company."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "At Linde, the happy driver is at the heart of our truck development. This is because we know that happy and healthy drivers are also productive drivers. There are two core aspects to our approach: Firstly, we develop trucks that offer the highest level of comfort and protection. Secondly, we utilize innovative operating concepts that enable precise control and turn work into an enjoyable experience. As a customer, you have the double benefit of motivated drivers who achieve maximum productivity with our high-performance trucks."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Click here to find out more about the ergonomics of Linde trucks.",
+     "href": "https://www.linde-mh.com/en/Linde-Core/Linde-Ergonomics.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [],
+   "imgCount": 1,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Minimizing Stresses"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Vibration-cushioned trucks reduce physical discomfort and the resulting staff absences caused by ill health."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Preventing Fatigue"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Ergonomically arranged controls minimize fatigue and enable productive work throughout the entire shift."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Increasing Motivation"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Comfortable and safe working environments increase driver job satisfaction and motivation."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Increasing Productivity"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Intuitive operation, ergonomic handling, and excellent all-round visibility promote productivity and efficiency."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Reducing Errors"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Precise control and better visibility reduce the risk of accidents, injuries, and damage."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Avoiding Costs"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Lower rates of accidents and claims, lower insurance premiums, and fewer long-term employee absences are an effective cost-saving measure."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "More information on our safety concept can be found here.",
+     "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "2"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "3"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "4"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.media-carousel-item",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Only Linde can do this: New generation of driver platforms"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Ergonomics and safety play a crucial role in ensuring the driver’s wellbeing. This is particularly true for tough, continuous operations. That is why Linde consistently puts the driver at the center of truck development. One thing is clear: Our trucks should be user-friendly, minimize physical strain and at the same time keep the risk of accidents and injuries as low as possible. This is the only way to achieve a perfect union between driver and machine."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The most recent example of our holistic truck philosophy in action is the advanced generation of pallet trucks with driver’s platform, which have been specifically designed for intensive use with incoming and outgoing goods processes. On all models, the stand-on platform and controls now form a fixed unit, which is already decoupled from the chassis as standard and fully sprung to protect against shocks and vibrations. There are also unique safety features and innovative controls. With this combination, the new driver platforms achieve a level of comfort and protection that is unique to Linde."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Our new generation of driver platforms is available with:"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "the pallet trucks and"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "T20 – T25 SP",
+     "href": "../../../en/Products/Pallet-Trucks/T20-T25-SP/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "T20 – T25 AP",
+     "href": "../../../en/Products/Pallet-Trucks/T20-T25-AP/index.html"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "the pallet stackers"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "L14 – L16 SP",
+     "href": "../../../en/Products/Pallet-Stackers/L14-L16-SP/index.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "the double stackers , , and"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "D12 – D14 SP",
+     "href": "../../../en/Products/Pallet-Stackers/D12-D14-SP/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "D12 – D14 AP",
+     "href": "../../../en/Products/Pallet-Stackers/D12-D14-AP/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "D12 HP SP",
+     "href": "../../../en/Products/Pallet-Stackers/D12-HP-SP/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "D12 HP AP",
+     "href": "../../../en/Products/Pallet-Stackers/D12-HP-AP/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "SP Models: Protective Shield Meets Unique Driver Position"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The SP models of the new pallet trucks with driver’s platform have a fixed stand-on platform with a solid steel apron that extends behind the driver’s back almost to the center of the truck. This design, which is unique on the market, serves as an effective protective shield in the event of a collision and, at the same time, prevents the driver from having to hold on to the steering wheel when moving off quickly to avoid falling out of the truck."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "It also allows a unique driving position: In the SP models, the driver stands at a 45° angle to the direction of the forks. This provides the driver with optimum visibility in both directions without having to turn their back and neck too much. For additional ease of use, the SP models can be equipped with the innovative Linde e-driver operating concept, which is optimally adapted to the 45° position of the driver. The compact steering wheel contains all the controls and can be operated with one hand, left or right, as required."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "AP Models: Ergonomic and Safe with Maximum Maneuverability"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "On the AP models of the new pallet trucks, the driver can tilt the stand-on platform upwards and tilt the steering tiller. This allows the truck to become a fully-fledged pedestrian model if required. The platform and operating elements of the AP trucks are also connected to form a fixed unit, which is decoupled from the rest of the chassis by rubber bearings and suspended as standard."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Folding side bars protect the driver from injury during longer transport journeys. If the driver leaves the platform, the truck stops automatically. The driving and lifting functions of the AP models can be easily operated with just one hand, without the driver having to let go of the tiller. This allows the trucks to achieve maximum maneuverability and precise load handling, even in narrow and hard-to-reach areas."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Operating Elements: A Firm Grip on the Future"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "It is the truck’s control system that determines how precisely, intuitively and effectively a driver works. That is why we are continuously working on improving the controls of our trucks and setting new standards in terms of ergonomics, ease of use, and driving pleasure."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "2"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Gone are the Days of a Conventional Steering Wheel: Linde Steer Control"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "The revolutionary Linde Steer Control operating system completely dispenses with the conventional steering wheel and replaces it with either the Linde mini steering wheel or the Linde joystick. Both are integrated into the left armrest allowing the forearm to rest comfortably on the armrest. The driver steers solely by hand, which minimizes arm movements when maneuvering. To ensure maximum precision in every situation, the sensitivity of the steering elements automatically adjusts to the driving speed. This means that the truck reacts differently to the same hand movement depending on the situation: The faster the truck, the smaller the steering angle. The slower the truck, the greater the steering angle."
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 2,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Reduced Arm Movements"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The Linde Steer Control allows the driver to relax the position of their forearm and steer the truck with light hand movements, which makes it easier to operate."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Less Fatigue"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Fewer arm movements reduce fatigue and strain on the steering arm, which provides noticeable relief, especially during intensive use."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Reduced Mental Load"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The minimized steering movements allow the driver to fully concentrate on the maneuvers of the truck."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "More Intuitive Operation"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The responsive controls enable improved driving dynamics, as the truck recognizes the driver’s intentions through their slight hand movements and swiftly executes them."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Click here for further information on Linde Steer Control.",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Steer-Control/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Safety: Maximum Protection, Maximum Performance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Safety is a key factor for the driver’s well-being and productivity. Having an all-round safe truck allows the driver to concentrate fully on the task at hand without having to worry about their own safety and protecting the load, the truck, and their surroundings."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "That is why we continuously work on improving the safety of our trucks. An essential aspect of this is “design safety”. This means that we design our trucks in such a way that we can prevent typical accidents from occurring in the first place. We enhance this with standard and optional assistance systems. For example, with Linde Curve Assist, which automatically adjusts the driving speed to curves. Or using the Linde Safety Pilot, which warns in good time of impending tipping accidents and even actively intervenes in the driving and lifting functions."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more about safety here.",
+     "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "21",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1 / 2"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "DIV.media-browser__item",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "DIV.media-browser__item",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "22",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Camera With AI: The Future of Safety"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "One of our most innovative safety assistants is the Linde Reverse Assist Camera. The AI-based camera system was designed to prevent accidents involving forklift trucks reversing. The camera’s artificial intelligence detects pedestrians in the vicinity of the truck, differentiates between people and other obstacles in real time and warns the driver of an imminent collision in several stages. The system has been optimized to detect people in work and protective clothing, ensuring the most precise hazard detection possible."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "The safety features also enhance driving comfort. For example, thanks to the Reverse Assist Camera, the driver no longer has to twist their back and neck when reversing to be able to keep an eye on everything. This system is integrated as standard in the new generation of Linde counterbalance forklift trucks and is available as a retrofit solution for all other Linde forklift trucks."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "23",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Find out more about the Reverse Assist Camera from Linde.",
+     "href": "../../../en/About-us/Innovations-from-Linde/Reverse-Assist-Camera/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  }
+ ]
+}

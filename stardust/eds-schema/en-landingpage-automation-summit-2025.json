@@ -1,0 +1,662 @@
+{
+ "source": "http://localhost:8802/stardust/migrated/en/Landingpage/Automation-Summit-2025/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "November 12/13, 2025 | Aschaffenburg, Germany"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Automation Summit 2025"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Photo and Video Gallery",
+     "href": "#2397502"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Highlights",
+     "href": "#2397436"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Agenda",
+     "href": "#2397438"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Speakers",
+     "href": "#2397441"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Your Hosts",
+     "href": "#2397455"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 5,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Thank You for an Impressive Linde Automation Summit 2025!"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "What an incredible two days at our Linde Experience Hub in Aschaffenburg! We were thrilled to welcome international automation experts, forward-thinking customers, leading press members, and intralogistics multipliers/consultants to the Linde Automation Summit 2025."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Together, we explored insightful industry talks, showcased our comprehensive solution portfolio, and provided a firsthand experience of the future of intralogistics with our latest AI-driven processes."
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Ready to optimize your operations? The conversation doesn't end here. If you're ready to discuss specific solutions for your business, contact our experts today."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 6,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Let´s get in touch!",
+     "href": "../../../en/Forms/After-Automation-Summit-2025/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Relive the Highlights: Browse Our Exclusive Photo and Video Gallery."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1 / 26"
+    }
+   ],
+   "imgCount": 52,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "DIV.media-browser__item",
+     "count": 26,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "DIV.media-browser__item",
+     "count": 26,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Highlights at a Glance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": ": Attendees witnessed live demonstrations of our advanced automated solutions, showcasing their efficiency and precision."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde Automated Solutions in Action"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": ": The event featured a deep dive into the future of warehousing with Linde Material Handling and NVIDIA."
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "AI Insights"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": ": We were proud to offer a first look at the new automated Linde counterbalance truck and share more innovations to come."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Next-Gen Tech"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": ": Live demos provided key insights into our scalable, easy-to-use automation software."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Software Solutions"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": ": Sessions covered the latest trends in automation and featured best practices from our valued customers."
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Expert Talks & Success Stories"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": ": The summit served as a key forum for automation and intralogistics experts to connect with their peers and share ideas."
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Networking"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 12
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Agenda of the Automation Summit"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Two days, two powerful networks."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Customer Day – November 12, 2025",
+     "href": "../../../media/Global-Content/Landingpage-Automation-Summit-2025/LMH_AutomationSummit2025_Agenda_12-11.pdf"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The Customer Day was designed for automation decision-makers (C-Level, Directors, Department Heads, Senior Engineers) from manufacturing and other industries with automation potential."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "See Agenda Customer Day",
+     "href": "../../../media/Global-Content/Landingpage-Automation-Summit-2025/LMH_AutomationSummit2025_Agenda_12-11.pdf"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Press & Consultants Day – November 13, 2025",
+     "href": "../../../media/Global-Content/Landingpage-Automation-Summit-2025/LMH_AutomationSummit2025_Agenda_13-11.pdf"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The Press & Consultants Day was exclusively crafted for esteemed key press representatives and intralogistics consultants who shape insights and narratives within our industry."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "See Agenda Press & Consultants Day",
+     "href": "../../../media/Global-Content/Landingpage-Automation-Summit-2025/LMH_AutomationSummit2025_Agenda_13-11.pdf"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Speakers"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Our lineup of industry experts shared firsthand knowledge from the front lines of intralogistics, detailing what works, what doesn’t, and how to apply proven solutions to today's operational challenges."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "is a Founder, Consultant and Speaker."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Dr. Oliver Zuchowski"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "As Head of Intralogistics Automation at Bosch, he leads the global strategy for mobile robotics. Leveraging over 10 years of experience, he helps companies successfully realize their automation plans."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "has been shaping industrial automation for years, from DB Schenker to Bosch."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Matthias Koblitz"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "As Senior Automation Consultant and Product Owner at Bosch, he helps plants worldwide unlock the value of mobile robotics, from technology selection to ROI-driven rollouts and sustainable scaling."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "From a strategic logistician in the Royal Netherlands Army to managing international supply chains at Herbalife,"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Hendrik van Duuren – ROSSMANN"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "and ultimately to the pinnacle of retail logistics: Today, as Head of Logistics for Dirk Rossmann GmbH, Hendrik van Duuren oversees one of the most demanding logistics operations in the German retail industry."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "With a Master's degree in Production and Logistics Management, Luca drives innovative projects at ROSSMANN."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Luca Borg – ROSSMANN"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "He most recently managed the logistics for the permanent display, which won the ECR Award last year. He is now the project lead for the major innovative project, RoCaP."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "As Director Supply Chain Management Industrial Technology at ZF Friedrichshafen AG, Matthias Baier drives strategic development and efficient global supply chain solutions."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Matthias Baier"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "With a rich career trajectory at ZF, including leadership roles in logistics and supply chain design, he leverages extensive expertise to enhance competitive advantages and strengthen supply chain resilience in industrial technology."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "is Executive Vice President Global Operations at SCHUNK SE & Co. KG, where he oversees the entire process from order fulfillment to customer delivery."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Tobias Arndt"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "With over 20 years of experience in logistics and supply chain management, he possesses comprehensive expertise and a deep understanding of the demands of modern supply chains."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Your Hosts"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "21",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "has been Executive Vice President Sales & Service for Linde Material Handling in EMEA since 2023 and a member of the Executive Board of Linde Material Handling GmbH since 2024."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Ulrike Just"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "22",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": ", Vice President and Co-Lead of the Automation Business Unit of Linde Material Handling, brings over 25 years of extensive experience in supply chain solutions and international sales. A seasoned expert in developing sales structures and driving change management, Frank specializes in international sales and realization of holistic and integrated automated warehouse solutions."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Frank Heptner"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "23",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Interested in automation? Get in touch with us.",
+     "href": "../../../en/Forms/After-Automation-Summit-2025/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  }
+ ]
+}

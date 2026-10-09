@@ -1,0 +1,127 @@
+{
+  "status": "residual",
+  "type": "home",
+  "slug": "en",
+  "liveUrl": "https://www.linde-mh.com/en/",
+  "prototype": "stardust/prototypes/en-proposed.html",
+  "css": "stardust/prototypes/en.css",
+  "generator": "stardust/.work/replica/home-build.mjs (+ home-hand.css)",
+  "iterations": {
+    "360": [
+      "iter1 --full 15.67%/dh-42/0 red",
+      "iter2 15.69%/dh-26"
+    ],
+    "1440": [
+      "iter1 --full 16.22%/dh-11/5 red",
+      "iter2 15.18%/dh-55",
+      "iter3 --full 8.12%/dh+29/0 red",
+      "motion-stage pixel round 5.11%/dh0 (post-fix confirmation)"
+    ]
+  },
+  "contentCap": 1600,
+  "gateMain": ".body-container (live #pjax-container is closed by a stray </div> after the CTA row; the remaining sections are .body-container children; the footer sits in body > div.layout-100 - mirrored)",
+  "breakpoints": {
+    "360": {
+      "result": {
+        "structuralRed": 0,
+        "visualFlags": "iter1: 8 advisory FLUSH-LEFT (press slides centred off-screen x-1420) - fixed iter2 (measure dx 0); iter2 pixel-only",
+        "pixelPct": 15.69,
+        "heightDelta": -26,
+        "clipped": 4,
+        "overflow": "ok (scrollWidth 360)",
+        "capProbe": "n/a (1440 only)",
+        "unitGeometry": "measure 360: hero 360x464 d0; .layout-cta 390 / teaser 167x144 d0; h1 block 78 d0; icon-text teaser 342x323 d0 (wrapper 2 p +27 = one extra line); .layout-25 card 342x386 d0; press slide 320x181, teaser 311x172 d0; footer d0 - everything below y~1340 offset +26",
+        "pass": false
+      }
+    },
+    "1440": {
+      "result": {
+        "structuralRed": 0,
+        "visualFlags": "none (iter3 --full: 0 advisory)",
+        "pixelPct": 5.11,
+        "heightDelta": 0,
+        "clipped": 4,
+        "overflow": "ok (scrollWidth 1440)",
+        "capProbe": "PASS at 2560 (0 of 9 rows failed, 7/7 modules 1280px)",
+        "unitGeometry": "measure 1440: hero 1440x527 / text 640 / image 800 d0; .layout-cta teaser 276x123 d0; h1 1208 d0; .layout-33 1280x459 d0; .layout-25 card 280x550 d0; press slide 312x227, teaser 280x191, track 3120 d0; footer 1440x207 d0; .carousel-button-wrapper dx+16 dy-80 (residual)",
+        "pass": true,
+        "note": "iter3 (--full, 8.12%) carried a press-track regression (width:max-content) and the footer inside .body-container; both fixed with CSS/one </div>; the motion-stage pixel round confirms 5.11%/dh0"
+      }
+    }
+  },
+  "justified": [
+    "clip-probe CONTROL CLIPPED x4 (.layout-25 teaser--card 'Learn more' cut 30-33px): card heights equal live (550 @1440, 386 @360); the substitute font wraps the card text one more line - permanent font fork (stardust/replica/fonts.md)",
+    "1440 iter1 TEXT CLIPPED x2 in .teaser--overflow p: by design on live (source @305094 max-height 99% + overflow hidden + fade @305191)",
+    "chrome-parity '2 REGION no match' on every gate.sh round = default header/footer landmarks (static gateNote); class-scoped chrome is canon-gated",
+    "content-diff EXTRA footer ctas (iter1/iter3): footer was inside .body-container while the live root excludes it - moved to body > .layout-100 after iter3 (measure4 d0)"
+  ],
+  "residuals": [
+    {
+      "bp": 1440,
+      "band": "0-500 (hero)",
+      "pct": "37.1% at iter1-3; motion round: no hot band",
+      "cause": "font fork: live .h2 wraps 2 lines (126px) vs 1 line (63px); .btn 134->146px; plus live autoplay - the capture caught slide index 1, a fresh load (gate live.png) shows index 0 -> prototype renders index 0",
+      "flaggedFor": "fonts.md; captureState"
+    },
+    {
+      "bp": 1440,
+      "band": "~870-920 stitch seam",
+      "pct": "~1%",
+      "cause": "live stitched capture shows the sticky header clone at the chunk-2 seam; chrome.js hides the wrapper while scrolling down (top=-stackH)",
+      "flaggedFor": "canonChanges REQUEST"
+    },
+    {
+      "bp": 1440,
+      "band": "2500-2700",
+      "pct": "<1%",
+      "cause": ".carousel-button-wrapper dx+16 dy-80 vs live (absolute arrows row)",
+      "flaggedFor": "teaser-carousel-light module follow-up"
+    },
+    {
+      "bp": 360,
+      "band": "2000-4000 + 4500-4689",
+      "pct": "26.6/35.5/27.9/26.9/18.2",
+      "cause": "'Safety' icon-text paragraph wraps one extra line with the substitute (p 157->184px, +27) -> +26px offset of every section below (all boxes dh 0, dy +26); font fork",
+      "flaggedFor": "fonts.md (permanent)"
+    },
+    {
+      "bp": 360,
+      "band": "500-1000 (hero)",
+      "pct": "not hot",
+      "cause": "live .h2 80px (2 lines) vs build 40px; hero height fixed 464 both - font fork",
+      "flaggedFor": "fonts.md"
+    }
+  ],
+  "captureState": [
+    "hero .media-carousel--header: slick infinite, 11 track items (1 clone + 5 + 5 clones) authored; capture caught #slick-slide01 current (track translate3d(-2880px) @1440, mid-autoplay); prototype renders slide 1 of 5 (index 0, track -100%) = fresh-load state the gate compares against; dots: first active, labels = slide titles + aria-label 'N of 5'; both arrows enabled",
+    "press .layout-teasercarousel--fixed: slide 0 current, slides 1-4 active, prev disabled (as captured); 10 slides; inline slick widths (312/3120 @1440, 320/50000 @360) replaced by CSS (track 250% + 10% slides >=1024; LTR margin 0)",
+    "FirstSpirit section anchors (#fsSectionId_*) kept as hidden zero-height divs (live inline opacity:0;visibility:hidden;height:0)",
+    "consent CCM19 dismissed; no content-browser/modals on this page",
+    "images hotlinked with live src/srcset/sizes"
+  ],
+  "motion": {
+    "observed": "live 1440: 0 animations, 0 transitions, 17 class mutations (header machine: normal-state/small/small-state/sticky-hidden/stickystacky-enabled); build: 13 class mutations",
+    "implemented": "canon chrome.js header morph only (unchanged); motion-compare: 5 parity, 0 missing, 0 extra, 0 advisory",
+    "dead": [
+      "hero slick autoplay (live advanced index 0->1->2 between capture/measure/gate) - not implemented: JS beyond canon chrome.js is not permitted; static fresh-load state replicated",
+      "slick arrows/dots/drag and press carousel arrows - static controls"
+    ]
+  },
+  "fonts": "Nunito Sans substitute per stardust/replica/fonts.md (brand first in stack); fork: hero .h2 wraps 2 lines on live vs 1 in build (1440+360), Safety paragraph +1 line @360 (+27px cascade), 'Learn more' clipped inside live-height cards",
+  "canonChanges": [
+    "APPENDED canon.css '/* module: teaser-carousel-light - from en */': .layout-teasercarousel--fixed .slick-track { margin:0; justify-content:flex-start }; .layout-teasercarousel--fixed.slick-initialized .slick-slide { display:flex }; .body-container > .layout-teasercarousel__wrapper .teaser .teaser__content-wrapper { padding:0 0 24px } (source @299459)",
+    "units.json: +icon-cta (n4, .layout-cta a.teaser--icon), +icon-text-teaser (n3, .layout-33--fixed .teaser--icon-text); news-card and related-teaser += page en / template home",
+    "NOTE: canon-chrome footer fragment (div.layout-100 > .footer + .footer-a11y-note) belongs OUTSIDE .body-container (live body > div.layout-100); chrome.js only queries .body-container > .header so this is safe - earlier prototypes keep it inside",
+    "REQUEST: chrome.js stickystacky - live stitched captures show the header clone at the chunk seam (~y 870-920 @1440) while the build hides the wrapper on scroll-down; consider the source direction-change threshold. Page workaround: none (~1% band, residual)"
+  ],
+  "nextArchetype": [
+    "live #pjax-container closes early (stray </div> after the hero/CTA row): sections after it are .body-container children -> gate with --main '.body-container' (single root, no BLANK RENDER); the footer is body > div.layout-100 (outside .body-container)",
+    "the lifted universal '* { box-sizing:border-box }' is scoped to descendants - apply it to the section roots too, or every root is content-box (1312/1352 wide, margins 64/44 instead of 1280/80)",
+    "vendors '.slick-initialized .slick-slide { display:block }' in a later page layer beats canon's flex slide wrapper; the slick track needs margin:0 + justify-content:flex-start or 10 slides centre-overflow (x -824/-1420); 10-slide track: width 250% + slides 10% >=1024 (live inline 3120/312)",
+    "numeric ids (#762260) are invalid in querySelector - use [id='762260'] in measure/anchor selectors",
+    "regex tag walkers and html-slice break on this page; cheerio/parse5 are available at /app/node_modules (createRequire) for outlines and verbatim text extraction",
+    "hero autoplay: the gate live.png shows slide index 0 on a fresh load although the capture JSON caught index 1 - render index 0",
+    "the light press carousel is now a canon module (teaser-carousel-light); .carousel-button-wrapper still sits dx+16/dy-80 from live at 1440"
+  ],
+  "recordedAt": "2026-10-06T15:25:59.860Z"
+}

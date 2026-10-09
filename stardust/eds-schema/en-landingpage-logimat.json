@@ -1,0 +1,921 @@
+{
+ "source": "http://localhost:8802/stardust/migrated/en/Landingpage/Logimat/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Linde Material Handling at LogiMAT 2026"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "These were the Highlights"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "At LogiMAT 2026, Linde Material Handling demonstrated what modern intralogistics looks like—tailored precisely to your needs and your success."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Under the trade fair motto \"Composed around you – Focused on your success,\" visitors experienced how come together to form a ."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "mobile and stationary automation, digital solutions, modern energy concepts, and innovative vehicles"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "perfectly orchestrated overall system"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This was LogiMAT 2026"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1 / 6"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "DIV.media-browser__item",
+     "count": 6,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "DIV.media-browser__item",
+     "count": 6,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Your intralogistics. Perfectly orchestrated."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "At the trade fair Linde Material Handling demonstrated how automation, software, trucks, and energy solutions integrate into a —precisely tailored to your processes, your industry, and your company size."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "modular complete system"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "The result: intralogistics that grow with your requirements, stabilize processes, and make optimization potential transparent."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Automation – Composed around you"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "It became clear at LogiMAT: Your processes set the pace. Linde Material Handling combines with to create an automation solution that fits seamlessly into existing structures and can be flexibly expanded as needed."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "mobile and stationary systems"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "intelligent software"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "This creates end-to-end automation that not only speeds up processes, but also makes your entire material flow more transparent, stable, and predictable."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Your advantages"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Noticeably and"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "more efficient processes"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "higher throughput"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Better and"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "space utilization"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "predictable total cost of ownership"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "thanks to assistance systems and RTLS+"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Greater safety"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "– from the first step to full automation"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Scalable system architecture"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "KPI-based control via myLinde and the Linde Warehouse Manager"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 8,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 5,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Mobile systems – flexible in material flow",
+     "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Standardized AGVs and AMRs handle transport, transfer, and storage and retrieval processes—quick to integrate, reliable in operation, and modularly expandable, for example with the L-MATIC core."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Stationary systems – compact and powerful",
+     "href": "../../../en/Solutions/Intralogistics-Automation/S-MATIC-cube/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Shuttle and shelving systems such as the S-MATIC cube create high storage density and enable high turnover in a minimal space, ideal for dynamic and growing warehouse structures."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Intralogistics-Automation/S-MATIC-cube/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Software & orchestration – networked, transparent, AI-supported",
+     "href": "../../../en/About-us/Magazine/Revolutionizing-the-Warehouse-with-AI/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The WMS Linde Warehouse Manager controls material flows holistically across all levels. myLinde bundles fleet, energy, and safety data, RTLS+ provides pinpoint real-time positions, and the digital twin (NVIDIA) accelerates the planning and simulation of your systems."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Revolutionizing-the-Warehouse-with-AI/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Truck highlights at LogiMAT 2026"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Linde Xi Roadster – maximum visibility, maximum control"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The attracted a lot of attention at LogiMAT: It offers an —made possible by the elimination of the A-pillar. The result: precise, fast, and safe operation, both in narrow racking areas and in demanding outdoor applications."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Linde Xi Roadster"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "exceptionally unobstructed field of vision"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The robust construction, ergonomic operating concept, and modern energy options create a driving experience that impresses—from the first to the last use."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Highlights:"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "for fast, controlled work"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "All-round visibility"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "for high driver comfort"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Ergonomic operating concept"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "of ownership thanks to modern energy options"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Attractive total cost"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "More about the Linde Xi Roadster",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-RP/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 5,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Reach trucks Ri14 – Ri18 – compact, connected, efficient"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The new showed how powerful compact warehouse technology is today. Load capacities from 1.4 to 1.8 tons, a and a ensure reliable performance, even in very narrow aisles."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Ri14 to Ri18 generation of reach trucks"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "compact chassis, lithium-ion battery,"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "networked vehicle architecture"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Highlights:"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "for narrow aisles"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Compact L2 dimension"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Excellent"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "all-round visibility"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "for operational and diagnostic data"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Standard connectivity"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 12
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Digital solutions, safety, and energy—for intralogistics that perform reliably"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Digital solutions – myLinde, RTLS+, and Digital Twin",
+     "href": "https://www.linde-mh.com/en/Solutions/Fleet-Management/"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Transparency at the touch of a button: myLinde brings fleet, safety, and energy data together in a clear dashboard. RTLS+ shows every vehicle in real time—for full process visibility. The digital twin (NVIDIA) enables fast simulations and targeted process optimizations."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "More about myLinde",
+     "href": "https://www.linde-mh.com/en/Solutions/Fleet-Management/"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Safety – smarter, safer, more transparent",
+     "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Ergonomic concepts, intelligent assistance systems, and precisely engineered sightlines significantly reduce risks—both indoors and in dynamic outdoor environments."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "More about safety solutions",
+     "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Energy – maximum availability, predictable costs",
+     "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "With lithium-ion technology, the connect:charger, and intelligent energy management, you can increase the operational readiness of your fleet and ensure cost-effective operating processes."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "More about energy solutions",
+     "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Here's what visitors experienced at LogiMAT 2026"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Live automation"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "I-MATIC AC core, L-MATIC core, and S-MATIC cube working together—including software orchestration."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Test drives in outdoor areas"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Try out Roadster, E, and Xi models live and enjoy the comfort of the new cab in our heavy-duty forklifts up to 18 tons."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Digital demos"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "myLinde, RTLS+, and the Digital Twin in short, practical live sessions."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Personal consultation"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Individual discussions with our experts."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [],
+   "imgCount": 1,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Revolutionizing the Warehouse with AI",
+     "href": "../../../en/About-us/Magazine/Revolutionizing-the-Warehouse-with-AI/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Linde Material Handling is working with NVIDIA and Accenture to develop forward-thinking AI-based solutions for efficient and safe warehouse processes."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Revolutionizing-the-Warehouse-with-AI/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Technology & Innovation",
+     "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Like the company's founders in the past, the engineers and technicians of Linde Material Handling are developing efficient intralogistics solutions with ingenuity."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Linde VertiLight and Linde LED Stripes",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-VertiLight-and-Linde-LED-Stripes.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Having the right amount of light at all times is essential to safety and efficiency when working with industrial trucks. With the Linde VertiLight and Linde LED Stripes, Linde Material Handling offers two innovative lighting concepts."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-VertiLight-and-Linde-LED-Stripes.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Active Stability Control",
+     "href": "../../../en/About-us/Innovations-from-Linde/Active-Stability-Control.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Very narrow aisle trucks are used for working at great height. The aisles are narrow and the distances to the rack are calculated very precisely. Because of that, even the slightest unevenness in the warehouse floor can become a problem. Linde Material Handling’s Active Stability Control assistance system for the K truck provides an innovative solution."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Active-Stability-Control.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "The Innovative Rack Protection System",
+     "href": "../../../en/About-us/Innovations-from-Linde/Rack-Protection-Sensor/index.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "The Linde Rack Protection Sensor automatically slows down the truck when approaching racks and prevents collisions and damage."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Rack-Protection-Sensor/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "Schenker takes full control of its forklift truck fleet",
+     "href": "../../../en/About-us/Magazine/DB-Schenker/index.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "DB Schenker has full control of its forklift truck fleet thanks to Linde’s innovative fleet management system Linde connect."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/DB-Schenker/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "In use on the race track",
+     "href": "../../../en/About-us/Magazine/Linde-Rental-Service-for-Formula-Student-Germany.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "The Linde Rental Solutions has been ensuring fast and professional setup and dismantling as well as performing other logistics tasks at the Formula Student Germany for many years. This requires a number of challenges to be overcome."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Linde-Rental-Service-for-Formula-Student-Germany.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Robots as employee of the month",
+     "href": "../../../en/About-us/Magazine/Robots-as-employee-of-the-month.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "With the Robotics4Retail survey, the EHI Retail Institute is investigating how robotics and automation are revolutionizing intralogistics. Who are the drivers of automation and what comprehensive solutions and industrial trucks does Linde offer?"
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Robots-as-employee-of-the-month.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "Forklift trucks for dirty work",
+     "href": "../../../en/About-us/Magazine/Carolus_Trees.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "The forklift trucks used at Carolus Trees have to be tough – and most importantly, they can’t be afraid to get cold and dirty. Linde forklifts take this all in their stride."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Carolus_Trees.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "Full of tricks",
+     "href": "../../../en/About-us/Magazine/Frueh-Koelsch.html"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "Cölner Hofbräu P. Josef Früh KG in Cologne-Feldkassel brews and loads thousands of litres of Kölsch every day. Real hard work for Linde's lithium-ion forklifts, which passed their trial run at the company with flying colors."
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Frueh-Koelsch.html"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "A thirst for innovation",
+     "href": "../../../en/About-us/Magazine/Veltins.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "Anyone brewing and bottling millions of hectoliters of Pilsener beer, shandy, malt beer, apple beer and other mixed beer beverages needs powerful intralogistics systems to get the drinks onto the street. C. & A. Veltins, a brewery with a rich tradition, has put its faith in forklifts from Linde Material Handling for this demanding role."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Veltins.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "Analyzed Efficiently",
+     "href": "../../../en/About-us/Magazine/Grass.html"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "For years, the hinge specialists at Reinheim-based Grass GmbH have been carrying out their warehouse and production logistics tasks using a forklift truck fleet that has grown gradually over time. Using a fleet optimization analysis, experts from Linde Material Handling identified an incredible amount of potential within this established structure. They standardized and reduced the fleet and, in the process, made it much more powerful, cost-efficient, and energy-saving."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Grass.html"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

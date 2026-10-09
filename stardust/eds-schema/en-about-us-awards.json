@@ -1,0 +1,1677 @@
+{
+ "source": "http://localhost:8804/stardust/migrated/en/About-us/Awards/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Over 80 awards in 32 years, and more to come"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Proof for excellence!"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Brand",
+     "href": "#779562"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Innovations",
+     "href": "#779566"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Design",
+     "href": "#779545"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Communication",
+     "href": "#779556"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "At Linde, we are passionate about the success of our customers. For over 100 years, we have been delivering intralogistics solutions that give you exactly what you need for your business. Because your success is our success!"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "That’s why our brand, our innovations, our design, and our communication have won countless awards. We are particularly proud of these awards because they are proof that our commitment to performance, safety, and ergonomics is paying off."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Brand"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "More than any other, the name Linde Material Handling stands for reliable technology, intelligent solutions, and innovative products with real added value. The strength of our brand is the basis for sustainable success both for our customers, partners, and employees. This is also reflected in our awards. From image rankings to customer satisfaction polls, Linde is synonymous with top quality across the board."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Best Brand Award",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Image Ranking Award",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Business Superbrands Award",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "Best Brand Award"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The Best Brand Award is considered to be an important indicator and benchmark in the commercial vehicle industry. Whether it’s forklift trucks, cooling units or truck service, the readers’ poll for the magazines Lastauto Omnibus, trans aktuell, FERNFAHRER, and DEKRA specialist media has been carried out according to a consistent methodology since 1997. Market researchers at Motor Presse Stuttgart work with state-of-the-art evaluation methods, notarially certified and in compliance with all data protection regulations. This ensures a high level of quality and enables competitors to make a long-term, in-depth comparison – from which Linde Material Handling always emerges as the winner."
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "Our awards"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "– 1st place in the “industrial trucks” category"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "2021"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "– 1st place in the “industrial trucks” category"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "2020"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "– 1st place in the “industrial trucks” category"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "2019"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "– 1st place in the “industrial trucks” category"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "2018"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "– 1st place in the “industrial trucks/company” category"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "2017"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "– 1st place in the “industrial trucks/company” category"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "2009"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "– 1st place in the “industrial trucks/company” category"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "2008"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "– 1st place in the “industrial trucks/company” category"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "2007"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "– 1st place in the “industrial trucks/company” category"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "2006"
+    },
+    {
+     "role": "body",
+     "order": 24,
+     "text": "– 1st place in the “industrial trucks/company” category"
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "2005"
+    },
+    {
+     "role": "heading",
+     "order": 26,
+     "text": "Image Ranking Award"
+    },
+    {
+     "role": "body",
+     "order": 27,
+     "text": "As the successor to the Logistik Inside magazine, VerkehrsRundschau has been compiling image rankings in the fields of logistics, transport, and commercial vehicles since 2002. In these representative studies, TNS Emnid surveys 300 to 400 specialists and executives from the transport, haulage, and loading industries every year. Linde Material Handling has been the record winner of the coveted award in the “forklift trucks, handling, and warehouse technology” category since 2002. In the words of the VerkehrsRundschau editorial team, “when it comes to forklift trucks, pallet trucks, order pickers and so on, no manufacturer is as well regarded as Linde Material Handling.”"
+    },
+    {
+     "role": "heading",
+     "order": 28,
+     "text": "Our awards"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "- Best brand in the “forklift trucks, handling, and warehouse technology” category"
+    },
+    {
+     "role": "body",
+     "order": 30,
+     "text": "2021"
+    },
+    {
+     "role": "body",
+     "order": 31,
+     "text": "- Best brand in the “forklift trucks, handling, and warehouse technology” category"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "2019"
+    },
+    {
+     "role": "body",
+     "order": 33,
+     "text": "- Best brand in the “forklift and warehouse trucks” category"
+    },
+    {
+     "role": "body",
+     "order": 34,
+     "text": "2017"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "- Best brand in the “forklift and warehouse trucks” category"
+    },
+    {
+     "role": "body",
+     "order": 36,
+     "text": "2015"
+    },
+    {
+     "role": "body",
+     "order": 37,
+     "text": "- Best brand in the “forklift and warehouse trucks” category"
+    },
+    {
+     "role": "body",
+     "order": 38,
+     "text": "2013"
+    },
+    {
+     "role": "body",
+     "order": 39,
+     "text": "- Best brand in the “forklift and warehouse trucks” category"
+    },
+    {
+     "role": "body",
+     "order": 40,
+     "text": "2011"
+    },
+    {
+     "role": "body",
+     "order": 41,
+     "text": "- Best brand in the “warehousing and material handling technology” category and overall winner across all categories"
+    },
+    {
+     "role": "body",
+     "order": 42,
+     "text": "2008"
+    },
+    {
+     "role": "body",
+     "order": 43,
+     "text": "- Best brand in the “warehousing and material handling technology” category and overall winner across all categories"
+    },
+    {
+     "role": "body",
+     "order": 44,
+     "text": "2007"
+    },
+    {
+     "role": "body",
+     "order": 45,
+     "text": "- Best brand in the “warehousing and material handling technology” category and overall winner across all categories"
+    },
+    {
+     "role": "body",
+     "order": 46,
+     "text": "2006"
+    },
+    {
+     "role": "body",
+     "order": 47,
+     "text": "- Best brand in the “warehousing and material handling technology” category"
+    },
+    {
+     "role": "body",
+     "order": 48,
+     "text": "2004"
+    },
+    {
+     "role": "body",
+     "order": 49,
+     "text": "- Best brand in the “warehousing and material handling technology” category"
+    },
+    {
+     "role": "body",
+     "order": 50,
+     "text": "2002"
+    },
+    {
+     "role": "heading",
+     "order": 51,
+     "text": "Business Superbrands Award"
+    },
+    {
+     "role": "body",
+     "order": 52,
+     "text": "Superbrands is the world’s largest brand evaluation organization and has been celebrating the strongest and best brands in Germany since 2004. Independent experts from the Superbrands organization nominate – on the basis of previous market research studies – a country’s outstanding product and company brands, which are then assessed by a high-ranking, independent panel. In 2020, Linde Material Handling will be one of these top companies."
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 11,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 3,
+     "unit": {
+      "headings": 2,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 23
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Innovations"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Innovations are the secret of our success. At Linde Material Handling, we combine technical knowledge with innovative spirit and practical expertise. Numerous awards for our technological milestones demonstrate the contribution we make to optimizing our customers’ processes with intelligent solutions. Linde Material Handling has already won accolades across the board, which is reflected not least by the range of award categories where we have triumphed, from product awards and environmental prizes to awards for ergonomics and safety."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "materialfluss PRODUCT OF THE YEAR"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Our awards"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "– 1st place in the “industrial trucks” category for our"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "2021"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "R-MATIC",
+     "href": "../../../en/Landingpage/R-Matic/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "– 1st place in the “industrial trucks – ideas engineering” category for our"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "2021"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Linde Safety Guard",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Guard.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "– 2nd place in the “industrial trucks and AGVs” category for our IC trucks"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "2020"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "H20 – H35",
+     "href": "../../../en/Landingpage/H-models/index.html"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Readers of the trade journal materialfluss voted for the materialfluss PRODUCT OF THE YEAR for the first time in 2020. Since then, publishing house WEKA Business Medien GmbH has awarded prizes in 14 categories for outstanding products and projects that have inspired intralogistics customers during the previous year. In only the second year, we were able to take first place with two submissions."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "DEKRA Award"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Together with WirtschaftsWoche, DEKRA recognizes outstanding concepts, initiatives, or processes in the fields of “safety at work”, “safety on the road”, and “safety at home”. The award focuses on best practice in these categories. In 2021, we scooped the award in the “safety at work” category with the “ – smart PPE for the protection of persons in internal traffic”."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "interactive warning vest",
+     "href": "../../../en/About-us/Innovations-from-Linde/Pedestrian-Warning-Band/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "LOGISTRA best practice: Innovations"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Our awards"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "in the “industrial trucks” category for our IC trucks"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "2020"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "H20 – H35",
+     "href": "../../../en/Landingpage/H-models/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "in the “product – industrial trucks” category for our"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "2014"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "fuel cell technology",
+     "href": "../../../en/About-us/Innovations-from-Linde/Fuel-Cells.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "In the online vote, readers of the trade magazine LOGISTRA vote on the most innovative ideas for more efficient logistics. Every two years, 24 candidates selected by the editorial team compete against each other in eight categories. In addition to innovation, the most important criterion is practical viability – all candidates should be available on the market already or in the foreseeable future. The selection is characterized by the wide range of ideas presented. It is all the more impressive that three awards for forklift trucks from Linde Material Handling already adorn our trophy cabinet. These include the award for our innovative fuel cell technology."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Fork Lift Truck Association (FLTA) Awards for Excellence (Archies)"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The Fork Lift Truck Association has been presenting the prestigious Awards for Excellence to the best and brightest in the material transportation industry since 1995. The FLTA Awards honor the best products in the materials handling industry within the fields of “environment”, “ergonomics”, “safety”, and “innovation”. In 2018 Linde’s pallet truck received an award for \"Ergonomics\". Since 2020, the winner of the “Ergonomics” category has also been the ergonomic steering wheel of the from Linde, whose special butterfly design impressed the panel."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "T20 SR",
+     "href": "../../../en/Products/Pallet-Trucks/T20-T25-SR/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "N20 C",
+     "href": "../../../en/Products/Order-Pickers/N20-N25-C/index.html"
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "inter airport Europe 2019 Excellence Awards"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "inter airport Europe is the leading international trade fair for airport equipment, technology, design, and service. During the opening ceremony on the first day of the fair, five exhibiting companies were honored with inter airport Europe 2019 Excellence Awards and prizes were presented to the winning companies. Among them was Linde Material Handling. In the “inter RAMP” category, we were able to assert ourselves with the against 55 competitors. The innovative assistance system increases safety for truck operators and pedestrians in the immediate vicinity of the trucks."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Linde Safety Guard",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Guard.html"
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Industry Award"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Huber Verlag für Neue Medien GmbH has been awarding the INDUSTRY PRIZE at the HANOVER trade fair every year since 2006, and in doing so supporting companies from the industry in making their progressive and innovative products known to a wider audience. Under the patronage of Jörg Bode, the former Minister for Economic Affairs of Lower Saxony, Linde Material Handling placed among the front runners twice in a row out of more than 500 applicants."
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Our Awards"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "- Certificate in the “drive and fluid technology” category for the RotracE2/E4"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "2013"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "- Certificate in the “product” category foreMotion Electronic systems and drives"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "2012"
+    },
+    {
+     "role": "heading",
+     "order": 14,
+     "text": "ÖkoGlobe"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "The hosts DEVK Versicherungen and Automobilclub Verkehr (ACV), together with the performance artist HA Schult, the ÖkoGlobe Institute of the University of Duisburg-Essen, and a panel made up of scientists, politicians, and company representatives, have been awarding the ÖkoGlobe for innovations and projects from the mobility industry since 2007. Made up of six members, the panel selects the winners according to exclusively ecological criteria in ten different categories. In 2012, 3rd place in the “International Environmental Award for the Mobility Industry” category went to Linde Material Handling and Zwiehoff GmbH for their joint concept vehicle ."
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "Rotrac E2/E4",
+     "href": "https://www.linde-mh-emotion.com/en/Applications/Rotrac-E2-und-E4.html"
+    },
+    {
+     "role": "heading",
+     "order": 17,
+     "text": "MM Logistik Award"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "On the occasion of CeMat Hanover, the leading trade fair for intralogistics, the MM Logistik Awards have been presented by the editorial team of MM Logistik since 2008. There are prizes to be won in a total of nine categories. In 2011, we won the “Industrial Trucks/Technology” category with our E20 – E50 electric forklift truck."
+    }
+   ],
+   "imgCount": 5,
+   "editableTexts": 12,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 4
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Design"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "At Linde Material Handling, design is far from being an end in itself. Quite the contrary: As we see it, product design and vehicle functionality are inextricably intertwined at all levels. That’s why we always aim to make the high-level functionality of our vehicles visible with a visually appealing design, which is typical of the brand. Excellent design ensures intuitively correct handling of forklift trucks and warehouse handling equipment, improves ergonomics, and is highly valued by operators. Numerous design awards from previous decades are an impressive testament to the fact that we are on the right track with this approach."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Red Dot Design Award"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Our awards"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "for our"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "2015"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "P60 – P80/W08 tractors",
+     "href": "../../../en/Products/Tow-Trucks/P60-P80/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "for our R14 – R20 reach trucks"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "2013"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "for our H40 – H50 counterbalanced forklifts"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "2012"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "for our E20 – E50 electric forklift trucks"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "2011"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "for our H80 diesel forklift truck"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "2008"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "for our E12 – E20 electric forklift trucks"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "2007"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "for our H120 diesel forklift truck"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "2006"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "for our T20 – T24 electric forklift trucks"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "2005"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "for our H30 D counterbalanced forklift"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "2003"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "for our reach trucks"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "1991"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "The Red Dot Design Award has been presented for outstanding product design since 1955 and is considered to be one of the most prestigious design prizes of them all. Every year, the panel awards prizes for the most attractive, functional, and innovative products from a wide range of industries. We are also regularly awarded the coveted seal of quality for our trucks in the “product design” category. Most recently, we received the Red Dot in 2015 for our P60 - P80/W08 tractor. The Red Dot panel commended the tractor highly in its design verdict, commenting that “this tractor scores highly with its dynamic design and excellent ergonomics, setting standards in its vehicle category.”"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 10,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "iF Product Design Award"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "21",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Our awards"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "for our R14 – R20 reach trucks"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "2013"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "for our H40 – H50 counterbalanced forklifts"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "2012"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "for our E20 – E50 electric forklift trucks"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "2011"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "for our R14 – R17 X reach trucks"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "2007"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "for our H30 D counterbalanced forklift"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "2003"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "for our N20 order picker"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "1999"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "for our L12 pallet stacker and our E10 electric forklift truck"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "1997"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "The Industrie Forum Design Award for outstanding achievements in the field of design has been presented annually since 1954. The current patron is the iF Industrie Forum Design association, which founded the company iF International Forum Design GmbH to present the award in 2001. Time and time again, Linde trucks have come out on top in the “product design” category, mainly scoring points for factors such as attractiveness, safety, ergonomics, and innovation. In their assessment, the panel regularly highlighted the fact that user-friendliness and high performance go hand in hand in our vehicles."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 7,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "22",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "German Design Award"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The German Design Award has been presented by the Design Council since 2012. The award ceremony is considered one of the highlights of the international design industry. In 2019, the panel members selected the visibility-optimized Roadster variant of our electric forklift trucks E20 – E35 R as the winner in the “excellent product design for utility vehicles” category."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Observeur du Design"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "In 2018, the Roadster variant of the Linde electric forklift truck E20 – E35 R was awarded the prestigious French industrial design award, Observeur du Design, which is presented annually by the design association, Agence pour la promotion de la création industrielle (APCI)."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Universal Design Award"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "With the Universal Design Award, the Deutsche Bauzeitschrift (DBZ) honors products, concepts, and services relating to design. In 2012, one of the awards went to our H40 – H50 diesel forklift trucks."
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "23",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Communication"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "24",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "For us, public relations work involves the constant search for creative and playful approaches for presenting our technological innovations to a wide audience. At the same time, we use our communication opportunities to raise awareness of significant issues within the industry. The publicized aim of our annual StaplerCup, for example, is to publicly acknowledge the skills of forklift drivers and, in doing so, to sharpen their sense of occupational safety. We are therefore particularly pleased that our efforts have been repeatedly rewarded with prestigious awards over the years."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "25",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Best of Business to Business Award (BoB)"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "26",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Our awards"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "in the “product” category for our Magic Lifter"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "2014"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "in the “public relations” category for our"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "2012"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Linde E1 electric kart",
+     "href": "https://www.linde-mh-emotion.com/en/Magazine/Geschichte-der-E-Karts.html"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "in the “live communication” category for our"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "2010"
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "StaplerCup",
+     "href": "https://www.staplercup.com/de/"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "in the “live communications and trade fairs” category for our"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "2009"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "StaplerCup",
+     "href": "https://www.staplercup.com/de/"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "The BoB has been awarded for outstanding work in B2B communication since 1997 and is believed to be the most prestigious creative and concept competition in the industry. Since 2017, the award has been presented under the umbrella of the German Marketing Association. Year after year, the most successful communication concepts and measures from Germany, Austria, and Switzerland are acknowledged. Over the years, we have already been awarded the BoB several times, for example for our StaplerCup, which is now held worldwide, and for our world record-holding kart, the Linde E1. We received another award for our Magic Lifter, which we still use today to showcase the efficiency of our Dynamic Mast Control (DMC) assistance system."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "27",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "International German PR Award"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "28",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Our awards"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "in the “product” category for our"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "2013"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Linde E1 electric kart",
+     "href": "https://www.linde-mh-emotion.com/en/Magazine/Geschichte-der-E-Karts.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "in the “event” category for our (Germany)"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "2010"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "StaplerCup",
+     "href": "https://www.staplercup.com/de/"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "in the “staging” category for our (Austria)"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "2010"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "StaplerCup",
+     "href": "https://www.staplercup.com/de/"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "This award has been presented by the German Public Relations Association (DPRG) since 1970 and is one of the most important awards for communications professionals throughout the German-speaking world. The competition is considered a cross-industry yardstick for the innovative strength of concepts and campaigns in the field of strategic communication. All award winners go through a multi-stage process where their work is judged by a high-ranking panel of communications professionals and academics. In 2010, we received this prestigious award for the first time for hosting our StaplerCup. Another award followed in 2013, this time for our Linde E1 electric cart, which we able to use to demonstrate the performance of our electric forklift trucks even to a non-specialist audience."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "29",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "ECON Award"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "30",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Our awards"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Gold Award in the “PR activity” category for our"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "2012"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Linde E1 electric kart",
+     "href": "https://www.linde-mh-emotion.com/en/Magazine/Geschichte-der-E-Karts.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Special award in the “PR activity” category for our"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "2011"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "StaplerCup",
+     "href": "https://www.staplercup.com/de/"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The ECON Awards have taken place since 2007. The competition, organized by the Econ publishing house and the Handelsblatt Group, annually recognizes candidates from German-speaking countries for outstanding corporate communication. A panel of proven communication specialists analyzes and judges all submissions and allocates the awards. In 2011, the panel of experts awarded us the Special Award in the “PR activities” category for our StaplerCup. Their reason for this was, “since 2005, Linde’s terrific PR campaign centered on a forklift truck drivers’ competition has really impressed us. The company’s strengths are established in an extraordinarily sympathetic and intimate way.” Just one year later, we received the award again, this time for our Linde E1 electric cart."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "31",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Intermedia Globe Gold Award"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Every year, the Television and Corporate Media Awards honor outstanding solutions in the fields of information, education, and entertainment at an international level. In 2019 at the 20th World Media Festival in Hamburg, our educational game City of Goods gained the Intermedia Globe Gold Award in the “learning programs” category. The game was created in collaboration with the German software company IMC and is used to train warehouse operatives."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "GALAXY Award"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "The international competition, held in the USA, is judged by a panel of members from the International Academy of Communications Arts and Sciences (IACAS) to find the best marketing events, advertising campaigns, PR or online activities. In 2013, we received the Gold Award for our StaplerCup in the “special events – product awareness” category."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "PR Report Award Gold"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Every spring since 2003, the PR Report Awards have honored successful campaigns, projects, and individuals in professional communications management. In 2007, we received the Gold Award for our StaplerCup as the most successful PR project of the year in the “business to business” category."
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "32",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "A listening ear for every situation",
+     "href": "../../../en/About-us/Magazine/A-listening-ear/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Psychological counseling at Linde MH: discrete, open, and accessible to everyone."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/A-listening-ear/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Simon Hegele Boosts Efficiency with Warehouse Automation",
+     "href": "../../../en/About-us/Magazine/Simon-Hegele/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "What’s the best way to address the shortage of skilled workers in logistics? Simon Hegele has turned to warehouse automation from Linde MH—and it’s a real success story."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Simon-Hegele/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Become part of the team",
+     "href": "../../../en/About-us/Working-at-Linde/index.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Linde Material Handling offers diverse career opportunities: Join us as a professional, graduate, student or pupil. Apply here."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Working-at-Linde/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Schenker takes full control of its forklift truck fleet",
+     "href": "../../../en/About-us/Magazine/DB-Schenker/index.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "DB Schenker has full control of its forklift truck fleet thanks to Linde’s innovative fleet management system Linde connect."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/DB-Schenker/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "From field to fork",
+     "href": "../../../en/About-us/Magazine/Customer-Story-Dinner/index.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "How Linde Material Handling and the KION Group ensure that the catering sector receives fresh produce."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Customer-Story-Dinner/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "High-precision machine at Norrlands trä",
+     "href": "../../../en/About-us/Magazine/Norrlands-trae.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "For the past five years, a Linde H120 D has been hard at work at Norrlands trä in Älandsbro, about 400 kilometers north of Stockholm. The fleet has recently been expanded by the addition of another similar workhorse, which despite its size and weight, performs at a high level of precision."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Norrlands-trae.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "A thirst for innovation",
+     "href": "../../../en/About-us/Magazine/Veltins.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "Anyone brewing and bottling millions of hectoliters of Pilsener beer, shandy, malt beer, apple beer and other mixed beer beverages needs powerful intralogistics systems to get the drinks onto the street. C. & A. Veltins, a brewery with a rich tradition, has put its faith in forklifts from Linde Material Handling for this demanding role."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Veltins.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Analyzed Efficiently",
+     "href": "../../../en/About-us/Magazine/Grass.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "For years, the hinge specialists at Reinheim-based Grass GmbH have been carrying out their warehouse and production logistics tasks using a forklift truck fleet that has grown gradually over time. Using a fleet optimization analysis, experts from Linde Material Handling identified an incredible amount of potential within this established structure. They standardized and reduced the fleet and, in the process, made it much more powerful, cost-efficient, and energy-saving."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Grass.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "More Fish for Life",
+     "href": "../../../en/About-us/Magazine/PP-Group/index.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Together with Dutch Linde network partner Motrac, large fishery company Parlevliet & Van der Plas has brought its intralogistics right up to date at several sites. The high quality of Linde’s trucks, as well as solutions to ensure comprehensive safety and comfort, were a key factor in the decision to work together."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/PP-Group/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "Trainer at Linde Sales Academy",
+     "href": "../../../en/About-us/Magazine/Employee-Portrait-Trainer-Linde-Sales-Academy.html"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "\"As a global player in the premium segment, Linde also offers non-engineers challenging roles and extensive development opportunities.\""
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Employee-Portrait-Trainer-Linde-Sales-Academy.html"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "Full of tricks",
+     "href": "../../../en/About-us/Magazine/Frueh-Koelsch.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "Cölner Hofbräu P. Josef Früh KG in Cologne-Feldkassel brews and loads thousands of litres of Kölsch every day. Real hard work for Linde's lithium-ion forklifts, which passed their trial run at the company with flying colors."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Frueh-Koelsch.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "From field to fork",
+     "href": "../../../en/About-us/Magazine/Customer-Story-Dinner.html"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "There are many factors that make a visit to a restaurant a special experience, including a great atmosphere, friendly service, and exceptional cooking. But the key to a successful meal remains the quality and freshness of the ingredients. Find out what role Linde Material Handling and the KION Group play in this."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Customer-Story-Dinner.html"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

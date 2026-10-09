@@ -1,0 +1,159 @@
+{
+  "status": "residual",
+  "type": "productfinder",
+  "slug": "en-productfinder-html",
+  "live": "https://www.linde-mh.com/en/Productfinder.html",
+  "pages": [
+    "/en/Productfinder.html",
+    "/en/Products/Productfinder/"
+  ],
+  "prototype": "stardust/prototypes/en-productfinder-html-proposed.html",
+  "css": "stardust/prototypes/en-productfinder-html.css",
+  "gateMain": "#pjax-container,.header,.footer",
+  "iterations": {
+    "360": 1,
+    "1440": 3
+  },
+  "contentCap": {
+    "template": "productfinder",
+    "shell": 1600,
+    "note": "cap-probe wrapper row PASS (1600=1600); module rows 2/4 FAIL at 2560 (live sections 618/344/full-bleed vs build 1280/658/344) — finder module viewport rules at 2560 not lifted"
+  },
+  "breakpoints": {
+    "360": {
+      "result": {
+        "structuralRed": 0,
+        "visualFlags": "BLANK RENDER (known multi-root artifact, main height 56 = pjax root with off-canvas filter rail)",
+        "pixelPct": 24.17,
+        "heightDelta": 436,
+        "clipped": 0,
+        "overflow": "ok",
+        "capProbe": "n/a",
+        "unitGeometry": "FAIL — 1440-origin cache artifact (not verified with measure --width 360)",
+        "pass": false
+      }
+    },
+    "1440": {
+      "result": {
+        "structuralRed": 0,
+        "structuralRedNote": "iter1 --full: 26 (all icon glyphs U+F167/F127/F145/F173 missing); fixed by canon icon-glyph lift, verified 0 by the 360 --full (same markup); no 1440 --full rerun",
+        "visualFlags": "none",
+        "pixelPct": 11.76,
+        "heightDelta": 160,
+        "clipped": 0,
+        "overflow": "ok",
+        "capProbe": "wrapper PASS / modules FAIL (2 of 4 rows at 2560)",
+        "unitGeometry": "iter1: 12 result-cards compared; tile Δh +23 each (details-wrapper 298 vs 275)",
+        "pass": false
+      }
+    }
+  },
+  "justified": [
+    "font fork: DaxlineWebPro → Nunito Sans substitute (stardust/replica/fonts.md), permanent 🟠",
+    "BLANK RENDER at 360: multi-root --main artifact (home/form lesson)",
+    "unit-geometry FAIL at 360: 1440-origin cache artifact (listing lesson)",
+    "chrome-parity ✗ in gate.sh --full: class-scoped roots not passed by the built-in run (static gateNote)"
+  ],
+  "residuals": [
+    {
+      "breakpoint": 1440,
+      "band": "500–4000 (every tile row 11–13%)",
+      "pct": 11.76,
+      "cause": "each .product-tile is +23px (details-wrapper 298 vs live 275 min-height; inner line boxes taller with the substitute font / no live inner metrics captured) → cumulative +138 over 6 rows; rows drift down",
+      "flaggedFor": "font-fork + tile inner line-height lift"
+    },
+    {
+      "breakpoint": 1440,
+      "band": "200–500 selector tabs",
+      "pct": 1.2,
+      "cause": ".productfinder-selector 263 vs live 227 (+36): tab inner heights (icon 2rem + name 1.5rem) exceed live; desktop selector rules lifted but a live constraint is missing",
+      "flaggedFor": "selector-tab height"
+    },
+    {
+      "breakpoint": 1440,
+      "band": "4000–4475",
+      "pct": 21.1,
+      "cause": "Δh 160 pushes Show-all/closinggroup/footer 160px down (stitch tail)",
+      "flaggedFor": "follows from the two above"
+    },
+    {
+      "breakpoint": 1440,
+      "band": "chrome mid-page",
+      "pct": null,
+      "cause": "a header copy is painted ~y 887 on one side only (stitched-chunk header artifact, static lesson: live chunks sit ~34px above DOM)",
+      "flaggedFor": "gate stitching, not page"
+    },
+    {
+      "breakpoint": 360,
+      "band": "all bands 16–44%",
+      "pct": 24.17,
+      "cause": "no 360 fix round run (budget); Δh 436 — tiles +~23 each over 12 single-column tiles (+276) plus selector/toolbar band; filter rail correctly off-canvas (position:fixed translate(100%))",
+      "flaggedFor": "360 measure + one pixel round"
+    }
+  ],
+  "captureState": [
+    {
+      "feature": "productfinder filter controls (model search, 11 truck-category checkboxes incl. 5 usedtrucks hidden, Load Capacity/Lift Height range sliders, Drive Types, Explosion Protection; Price/Approved Standard/Year/Packages groups hidden)",
+      "disposition": "static snapshot of captured initial state, inert (no JS, no fetch); live inline display:none → .pf-hidden, slider gradient inline style → .pf-range-fill",
+      "source": "stardust/dynamic-features.md row 7"
+    },
+    {
+      "feature": "result list: 12 .product-tile (E10 … X35–X50) exactly as captured, lazyloaded classes dropped, image src absolutized, Show all link inert",
+      "disposition": "static snapshot",
+      "source": "row 7"
+    },
+    {
+      "feature": "compare/watch-list counter (.productfinder__compare count 0, dropzone, Get a quote/Share/Compare buttons) and toolbar counters (0/0)",
+      "disposition": "rendered as captured, inert",
+      "source": "row 11"
+    },
+    {
+      "feature": ".productfinder-loadingspinner",
+      "disposition": "omitted (not rendered in captured state)"
+    }
+  ],
+  "motion": {
+    "observed": "live: 0 animations, 0 transitions, 22 class mutations (header morph: normal-state/small/small-state/sticky-hidden/stickystacky-enabled; finder: sticky__bottom on the compare panel)",
+    "implemented": "header morph via canon chrome.js (parity on 5 classes); no finder JS",
+    "dead": [
+      "sticky__bottom — live JS pins .productfinder__compare__wrapper on scroll; static-snapshot disposition, not implemented"
+    ],
+    "compare": "5 parity, 1 missing (sticky__bottom), 0 extra"
+  },
+  "fonts": {
+    "substitute": "Nunito Sans (canon, fonts.md)",
+    "note": "finder bundle rules referencing DaxWebPro rewritten to the canon stack at lift time; width/line-height fork is the permanent residual"
+  },
+  "canonChanges": [
+    {
+      "file": "stardust/prototypes/canon.css",
+      "change": "APPENDED /* module: icon-glyphs-productfinder */ — 16 .icon-LMH*:before glyph rules lifted from index bundle (forklift, needle, filter, producttype, application, loadcapacity, height, drivetype, ExplosionProof, price, taskslist, yearofmanufacturing, settings, saddpin, arrowright)"
+    },
+    {
+      "file": "stardust/prototypes/canon-chrome.html",
+      "change": "REQUEST: footer .share-btn is not present on the live finder page footer — make it optional; page CSS workaround `.footer .share-btn{display:none}`"
+    },
+    {
+      "file": "stardust/replica/units.json",
+      "change": "added family result-card (.productfinder__products-container .product-tile, n 12)"
+    },
+    {
+      "file": "stardust/current/assets/css/light-range-module-productFinder-module_style_bundle_lmh.css",
+      "change": "fetched (was not captured) from https://www.linde-mh.com/en/layoutmedia/layout/css/… — evidence for the lift; vendors-productFinder-module-wizard bundle at that URL is JS, not CSS"
+    }
+  ],
+  "nextArchetype": [
+    "finder CSS lives in light-range-module-productFinder-module_style_bundle_lmh.css (NOT captured originally; fetch under /en/layoutmedia/…; the root-path URL 404s) — lift from it, product-tile rules are in the index bundle",
+    "lift filter: keep a rule only if all its classes are in the markup AND one is finder-specific — this dropped .layout-50--fixed/.closinggroup (64px row) and .subheader--toolbar/.toolbar; whitelist layout + subheader classes too",
+    "box-sizing: apply `#pjax-container, #pjax-container *` border-box (home lesson) — every finder root was content-box otherwise (+649px)",
+    "live finder footer has no share-btn; canon footer does (+8px, Share text) — hide via page CSS until canon-chrome makes it optional",
+    "icon glyph rules for module-specific icons are NOT in canon until lifted — grep canon for every icon-LMH* class in the markup before iter1 (26 structural reds otherwise)",
+    ".productfinder-toolbar counters are visible at 1440 on the build; live paints none — the hiding rule was not found in either bundle (likely JS/stickystacky state)",
+    "cap-probe --build-main works: wrapper row PASS; module rows at 2560 FAIL because finder desktop rules >1440 were not lifted"
+  ],
+  "tooling": {
+    "instruments": "all Playwright via run-bg (pf-* jobs, RUN_BG_SLOTS=1)",
+    "gates": "stardust/replica/gates/en-productfinder-html-{1440,360,2560}/",
+    "motion": "stardust/replica/motion/en-productfinder-html{,-build}.json"
+  }
+}

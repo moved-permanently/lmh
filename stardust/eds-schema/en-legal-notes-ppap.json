@@ -1,0 +1,70 @@
+{
+ "source": "http://localhost:8801/stardust/migrated/en/Legal-Notes/PPAP/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "KION PPAP (Production Part Approval Process)"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Share",
+     "href": "#123"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Share"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "The KION PPAP is a central process of the product- and production release."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "More information, factory standards and forms on the KION PPAP can be found at"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "https://www.kiongroup.com/en/Service/KION-PPAP/",
+     "href": "https://www.kiongroup.com/en/Service/KION-PPAP/"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Did you enjoy reading the article?"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Share",
+     "href": "#123"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Share"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": []
+  }
+ ]
+}

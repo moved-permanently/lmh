@@ -1,0 +1,191 @@
+{
+  "/en/landingpage/logimat": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:30:15.356Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/company": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:30:47.918Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/working-at-linde": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:30:47.918Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/agility-on-point": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:30:47.918Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/automation-summit-2025": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:30:47.918Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/compact-class-with-electric-drive": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:30:54.327Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/happy-driver": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:30:54.358Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/in-sync": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:30:54.863Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/next-champ": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:30:55.635Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/safely-to-the-top": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:31:01.384Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/linde-core/linde-productivity": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:31:01.944Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/approved-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:31:02.141Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/ic-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:31:03.144Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/maintenance-repair": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:31:07.179Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/technical-safety-services": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:31:07.959Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/training": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:31:09.883Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/energy-systems": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:31:10.519Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/financing": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:31:14.204Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/fleet-management": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:31:15.985Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/intralogistics-automation": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:31:17.587Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/warehouse-safety": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T20:31:20.043Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

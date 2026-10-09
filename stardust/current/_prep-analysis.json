@@ -1,0 +1,1766 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-10-06T11:37:28.623Z",
+    "readArtifacts": [
+      "stardust/current/pages/en-about-us-awards.json",
+      "stardust/current/pages/en-about-us-certificates.json",
+      "stardust/current/pages/en-about-us-company.json",
+      "stardust/current/pages/en-about-us-events.json",
+      "stardust/current/pages/en-about-us-innovations-from-linde.json",
+      "stardust/current/pages/en-about-us-magazine.json",
+      "stardust/current/pages/en-about-us-media.json",
+      "stardust/current/pages/en-about-us-press.json",
+      "stardust/current/pages/en-about-us-sustainability.json",
+      "stardust/current/pages/en-about-us-working-at-linde.json",
+      "stardust/current/pages/en-about-us.json",
+      "stardust/current/pages/en-edi.json",
+      "stardust/current/pages/en-forms-agility-on-point-form.json",
+      "stardust/current/pages/en-forms-automation-campaign.json",
+      "stardust/current/pages/en-forms-ex-proof-form.json",
+      "stardust/current/pages/en-forms-gc-li-ion-recycling.json",
+      "stardust/current/pages/en-forms-gc-next-champ-form.json",
+      "stardust/current/pages/en-forms-global-contact-form.json",
+      "stardust/current/pages/en-forms-gse-expo.json",
+      "stardust/current/pages/en-forms-rent-a-truck.json",
+      "stardust/current/pages/en-landingpage-agility-on-point.json",
+      "stardust/current/pages/en-landingpage-automation-summit-2025.json",
+      "stardust/current/pages/en-landingpage-compact-class-with-electric-drive.json",
+      "stardust/current/pages/en-landingpage-e-models.json",
+      "stardust/current/pages/en-landingpage-glasses.json",
+      "stardust/current/pages/en-landingpage-gse-expo.json",
+      "stardust/current/pages/en-landingpage-h-models.json",
+      "stardust/current/pages/en-landingpage-happy-driver.json",
+      "stardust/current/pages/en-landingpage-in-sync.json",
+      "stardust/current/pages/en-landingpage-logimat.json",
+      "stardust/current/pages/en-landingpage-next-champ.json",
+      "stardust/current/pages/en-landingpage-platform-counterbalanced-trucks.json",
+      "stardust/current/pages/en-landingpage-r-matic.json",
+      "stardust/current/pages/en-landingpage-safely-to-the-top.json",
+      "stardust/current/pages/en-landingpage-semi-automated-order-pickers.json",
+      "stardust/current/pages/en-landingpage-x-models.json",
+      "stardust/current/pages/en-landingpage-x-range.json",
+      "stardust/current/pages/en-legal-notes-cookie-policy.json",
+      "stardust/current/pages/en-legal-notes-legal.json",
+      "stardust/current/pages/en-legal-notes-ppap.json",
+      "stardust/current/pages/en-legal-notes-privacy-statement.json",
+      "stardust/current/pages/en-legal-notes-terms-of-use.json",
+      "stardust/current/pages/en-linde-core-linde-ergonomics-html.json",
+      "stardust/current/pages/en-linde-core-linde-productivity-html.json",
+      "stardust/current/pages/en-productfinder-html.json",
+      "stardust/current/pages/en-products-approved-trucks.json",
+      "stardust/current/pages/en-products-automated-trucks.json",
+      "stardust/current/pages/en-products-diesel-forklifts-d344.json",
+      "stardust/current/pages/en-products-diesel-forklifts.json",
+      "stardust/current/pages/en-products-e-trucks.json",
+      "stardust/current/pages/en-products-explosion-proof-trucks.json",
+      "stardust/current/pages/en-products-forklift-hire.json",
+      "stardust/current/pages/en-products-forklift-truck.json",
+      "stardust/current/pages/en-products-gas-forklifts.json",
+      "stardust/current/pages/en-products-hand-pallet-trucks.json",
+      "stardust/current/pages/en-products-heavy-duty-forklifts.json",
+      "stardust/current/pages/en-products-ic-trucks.json",
+      "stardust/current/pages/en-products-order-pickers.json",
+      "stardust/current/pages/en-products-pallet-stackers.json",
+      "stardust/current/pages/en-products-pallet-trucks.json",
+      "stardust/current/pages/en-products-productfinder.json",
+      "stardust/current/pages/en-products-reach-trucks.json",
+      "stardust/current/pages/en-products-tow-trucks.json",
+      "stardust/current/pages/en-products-tugger-trains.json",
+      "stardust/current/pages/en-products-very-narrow-aisle-trucks.json",
+      "stardust/current/pages/en-products.json",
+      "stardust/current/pages/en-service-genuine-spare-parts.json",
+      "stardust/current/pages/en-service-maintenance-repair.json",
+      "stardust/current/pages/en-service-retrofit-accessories.json",
+      "stardust/current/pages/en-service-technical-safety-services.json",
+      "stardust/current/pages/en-service-training.json",
+      "stardust/current/pages/en-service.json",
+      "stardust/current/pages/en-solutions-consulting.json",
+      "stardust/current/pages/en-solutions-energy-systems.json",
+      "stardust/current/pages/en-solutions-financing.json",
+      "stardust/current/pages/en-solutions-fleet-management.json",
+      "stardust/current/pages/en-solutions-intralogistics-automation.json",
+      "stardust/current/pages/en-solutions-overview-html.json",
+      "stardust/current/pages/en-solutions-warehouse-safety.json",
+      "stardust/current/pages/en-technical-location-finder-html.json",
+      "stardust/current/pages/en-technical-news-detail-101184-html.json",
+      "stardust/current/pages/en-technical-news-detail-101442-html.json",
+      "stardust/current/pages/en-technical-news-detail-101760-html.json",
+      "stardust/current/pages/en-technical-news-detail-1033728-html.json",
+      "stardust/current/pages/en-technical-news-detail-105280-html.json",
+      "stardust/current/pages/en-technical-news-detail-108480-html.json",
+      "stardust/current/pages/en-technical-news-detail-112000-html.json",
+      "stardust/current/pages/en-technical-news-detail-114368-html.json",
+      "stardust/current/pages/en-technical-news-detail-116352-html.json",
+      "stardust/current/pages/en-technical-news-detail-118656-html.json",
+      "stardust/current/pages/en-technical-news-detail-119232-html.json",
+      "stardust/current/pages/en-technical-news-detail-1254145-html.json",
+      "stardust/current/pages/en-technical-news-detail-1310802-html.json",
+      "stardust/current/pages/en-technical-news-detail-132012-html.json",
+      "stardust/current/pages/en-technical-news-detail-1436407-html.json",
+      "stardust/current/pages/en-technical-news-detail-1445120-html.json",
+      "stardust/current/pages/en-technical-news-detail-1710976-html.json",
+      "stardust/current/pages/en-technical-news-detail-18902-html.json",
+      "stardust/current/pages/en.json"
+    ],
+    "synthesizedInputs": []
+  },
+  "pages": 99,
+  "repeatedHeadings": [
+    {
+      "key": "h6|Follow us on",
+      "pages": 99,
+      "occurrences": 99,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-certificates",
+        "en-about-us-company",
+        "en-about-us-events",
+        "en-about-us-innovations-from-linde",
+        "en-about-us-magazine"
+      ]
+    },
+    {
+      "key": "h3|This may also interest you",
+      "pages": 34,
+      "occurrences": 34,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-company",
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-landingpage-e-models",
+        "en-landingpage-glasses",
+        "en-landingpage-h-models"
+      ]
+    },
+    {
+      "key": "h6|Trade Press",
+      "pages": 18,
+      "occurrences": 18,
+      "examples": [
+        "en-technical-news-detail-101184-html",
+        "en-technical-news-detail-101442-html",
+        "en-technical-news-detail-101760-html",
+        "en-technical-news-detail-1033728-html",
+        "en-technical-news-detail-105280-html",
+        "en-technical-news-detail-108480-html"
+      ]
+    },
+    {
+      "key": "h3|Heike Oder",
+      "pages": 18,
+      "occurrences": 18,
+      "examples": [
+        "en-technical-news-detail-101184-html",
+        "en-technical-news-detail-101442-html",
+        "en-technical-news-detail-101760-html",
+        "en-technical-news-detail-1033728-html",
+        "en-technical-news-detail-105280-html",
+        "en-technical-news-detail-108480-html"
+      ]
+    },
+    {
+      "key": "h3|Safety",
+      "pages": 12,
+      "occurrences": 12,
+      "examples": [
+        "en-about-us-company",
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-landingpage-r-matic",
+        "en-products-approved-trucks",
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts"
+      ]
+    },
+    {
+      "key": "h3|Safe",
+      "pages": 7,
+      "occurrences": 7,
+      "examples": [
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-landingpage-gse-expo",
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-gas-forklifts",
+        "en-products-pallet-stackers"
+      ]
+    },
+    {
+      "key": "h2|Your Benefits at a Glance",
+      "pages": 6,
+      "occurrences": 6,
+      "examples": [
+        "en-landingpage-e-models",
+        "en-landingpage-gse-expo",
+        "en-landingpage-h-models",
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-landingpage-x-models",
+        "en-landingpage-x-range"
+      ]
+    },
+    {
+      "key": "h3|Performance",
+      "pages": 6,
+      "occurrences": 6,
+      "examples": [
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-landingpage-r-matic",
+        "en-products-approved-trucks",
+        "en-products-forklift-truck",
+        "en-service-maintenance-repair",
+        "en-solutions-fleet-management"
+      ]
+    },
+    {
+      "key": "h2|Features",
+      "pages": 5,
+      "occurrences": 5,
+      "examples": [
+        "en-about-us-magazine",
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-gas-forklifts",
+        "en-products-pallet-stackers"
+      ]
+    },
+    {
+      "key": "h3|Cost-Effective",
+      "pages": 5,
+      "occurrences": 5,
+      "examples": [
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-gas-forklifts",
+        "en-products-pallet-stackers"
+      ]
+    },
+    {
+      "key": "h3|Ergonomics",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-about-us-company",
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-products-forklift-truck",
+        "en"
+      ]
+    },
+    {
+      "key": "h3|Linde Safety Guard",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-about-us-innovations-from-linde",
+        "en-service-retrofit-accessories",
+        "en-solutions-fleet-management",
+        "en-solutions-warehouse-safety"
+      ]
+    },
+    {
+      "key": "h3|An Combustion Engine Stronghold Converts to Electric",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-about-us-magazine",
+        "en-about-us-sustainability",
+        "en-landingpage-x-models",
+        "en-solutions-energy-systems"
+      ]
+    },
+    {
+      "key": "h3|Unbeatable Handling and Zero Emissions Guaranteed",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-about-us-magazine",
+        "en-about-us-sustainability",
+        "en-products-heavy-duty-forklifts",
+        "en-solutions-energy-systems"
+      ]
+    },
+    {
+      "key": "h3|High-precision machine at Norrlands trä",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-about-us-magazine",
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-heavy-duty-forklifts"
+      ]
+    },
+    {
+      "key": "h3|Comfortable",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-gas-forklifts"
+      ]
+    },
+    {
+      "key": "h3|Intralogistics and Automation",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-landingpage-r-matic",
+        "en-products-automated-trucks",
+        "en-solutions-overview-html",
+        "en"
+      ]
+    },
+    {
+      "key": "h3|H20 – H35",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-forklift-truck",
+        "en-products-gas-forklifts"
+      ]
+    },
+    {
+      "key": "h3|H35 – H50",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-forklift-truck",
+        "en-products-gas-forklifts"
+      ]
+    },
+    {
+      "key": "h3|H50 – H80",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-forklift-truck",
+        "en-products-gas-forklifts"
+      ]
+    },
+    {
+      "key": "h3|HT100 – HT180 D",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-forklift-truck",
+        "en-products-heavy-duty-forklifts"
+      ]
+    },
+    {
+      "key": "h3|Effective",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-e-trucks",
+        "en-products-gas-forklifts"
+      ]
+    },
+    {
+      "key": "h3|DB Schenker tests the new Linde E16",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-about-us-magazine",
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-products-forklift-truck"
+      ]
+    },
+    {
+      "key": "h3|Heineken Switzerland AG",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-about-us-magazine",
+        "en-products-forklift-truck",
+        "en-solutions-warehouse-safety"
+      ]
+    },
+    {
+      "key": "h3|Individualised solutions for the paper industry",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-about-us-magazine",
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts"
+      ]
+    },
+    {
+      "key": "h2|Benefits at a Glance",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-landingpage-r-matic",
+        "en-products-heavy-duty-forklifts"
+      ]
+    },
+    {
+      "key": "h2|Testimonials",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-landingpage-e-models",
+        "en-landingpage-h-models",
+        "en-landingpage-x-models"
+      ]
+    },
+    {
+      "key": "h3|Xi10 – Xi20",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-productfinder-html",
+        "en-products-forklift-truck",
+        "en-products-productfinder"
+      ]
+    },
+    {
+      "key": "h3|Xi14 – Xi20 R",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-productfinder-html",
+        "en-products-forklift-truck",
+        "en-products-productfinder"
+      ]
+    },
+    {
+      "key": "h3|E14 – E20",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-productfinder-html",
+        "en-products-forklift-truck",
+        "en-products-productfinder"
+      ]
+    },
+    {
+      "key": "h3|Ei14 – Ei20",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-productfinder-html",
+        "en-products-forklift-truck",
+        "en-products-productfinder"
+      ]
+    },
+    {
+      "key": "h3|X20 – X35",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-productfinder-html",
+        "en-products-forklift-truck",
+        "en-products-productfinder"
+      ]
+    },
+    {
+      "key": "h3|E20 – E35",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-productfinder-html",
+        "en-products-forklift-truck",
+        "en-products-productfinder"
+      ]
+    },
+    {
+      "key": "h3|X35 – X50",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-productfinder-html",
+        "en-products-forklift-truck",
+        "en-products-productfinder"
+      ]
+    },
+    {
+      "key": "h3|H16 – H20",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-gas-forklifts"
+      ]
+    },
+    {
+      "key": "h3|Robust",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-gas-forklifts"
+      ]
+    },
+    {
+      "key": "h2|5 x more output",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-products-pallet-trucks",
+        "en-products-tow-trucks",
+        "en-products-very-narrow-aisle-trucks"
+      ]
+    }
+  ],
+  "repeatedCtas": [
+    {
+      "key": "Search",
+      "pages": 99,
+      "occurrences": 99,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-certificates",
+        "en-about-us-company",
+        "en-about-us-events",
+        "en-about-us-innovations-from-linde",
+        "en-about-us-magazine"
+      ]
+    },
+    {
+      "key": "Xtranet",
+      "pages": 99,
+      "occurrences": 99,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-certificates",
+        "en-about-us-company",
+        "en-about-us-events",
+        "en-about-us-innovations-from-linde",
+        "en-about-us-magazine"
+      ]
+    },
+    {
+      "key": "Contact",
+      "pages": 96,
+      "occurrences": 99,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-certificates",
+        "en-about-us-company",
+        "en-about-us-events",
+        "en-about-us-innovations-from-linde",
+        "en-about-us-sustainability"
+      ]
+    },
+    {
+      "key": "Home",
+      "pages": 96,
+      "occurrences": 96,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-certificates",
+        "en-about-us-company",
+        "en-about-us-events",
+        "en-about-us-innovations-from-linde",
+        "en-about-us-sustainability"
+      ]
+    },
+    {
+      "key": "Legal",
+      "pages": 96,
+      "occurrences": 97,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-certificates",
+        "en-about-us-company",
+        "en-about-us-events",
+        "en-about-us-innovations-from-linde",
+        "en-about-us-sustainability"
+      ]
+    },
+    {
+      "key": "Terms of use",
+      "pages": 96,
+      "occurrences": 96,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-certificates",
+        "en-about-us-company",
+        "en-about-us-events",
+        "en-about-us-innovations-from-linde",
+        "en-about-us-sustainability"
+      ]
+    },
+    {
+      "key": "Suppliers",
+      "pages": 96,
+      "occurrences": 96,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-certificates",
+        "en-about-us-company",
+        "en-about-us-events",
+        "en-about-us-innovations-from-linde",
+        "en-about-us-sustainability"
+      ]
+    },
+    {
+      "key": "EDI",
+      "pages": 96,
+      "occurrences": 96,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-certificates",
+        "en-about-us-company",
+        "en-about-us-events",
+        "en-about-us-innovations-from-linde",
+        "en-about-us-sustainability"
+      ]
+    },
+    {
+      "key": "Privacy Statements",
+      "pages": 96,
+      "occurrences": 96,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-certificates",
+        "en-about-us-company",
+        "en-about-us-events",
+        "en-about-us-innovations-from-linde",
+        "en-about-us-sustainability"
+      ]
+    },
+    {
+      "key": "Cookie Settings",
+      "pages": 96,
+      "occurrences": 96,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-certificates",
+        "en-about-us-company",
+        "en-about-us-events",
+        "en-about-us-innovations-from-linde",
+        "en-about-us-sustainability"
+      ]
+    },
+    {
+      "key": "Vulnerability Disclosure Policy",
+      "pages": 96,
+      "occurrences": 96,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-certificates",
+        "en-about-us-company",
+        "en-about-us-events",
+        "en-about-us-innovations-from-linde",
+        "en-about-us-sustainability"
+      ]
+    },
+    {
+      "key": "Share",
+      "pages": 86,
+      "occurrences": 92,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-certificates",
+        "en-about-us-company",
+        "en-about-us-events",
+        "en-about-us-innovations-from-linde",
+        "en-about-us-sustainability"
+      ]
+    },
+    {
+      "key": "Learn more",
+      "pages": 44,
+      "occurrences": 237,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-company",
+        "en-about-us-innovations-from-linde",
+        "en-about-us-working-at-linde",
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-landingpage-e-models"
+      ]
+    },
+    {
+      "key": "1",
+      "pages": 35,
+      "occurrences": 44,
+      "examples": [
+        "en-about-us-events",
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-landingpage-happy-driver",
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-landingpage-r-matic",
+        "en-landingpage-safely-to-the-top"
+      ]
+    },
+    {
+      "key": "Find out more",
+      "pages": 24,
+      "occurrences": 142,
+      "examples": [
+        "en-about-us-events",
+        "en-about-us-sustainability",
+        "en-about-us",
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-landingpage-h-models",
+        "en-linde-core-linde-ergonomics-html"
+      ]
+    },
+    {
+      "key": "+49 6021 991277",
+      "pages": 18,
+      "occurrences": 18,
+      "examples": [
+        "en-technical-news-detail-101184-html",
+        "en-technical-news-detail-101442-html",
+        "en-technical-news-detail-101760-html",
+        "en-technical-news-detail-1033728-html",
+        "en-technical-news-detail-105280-html",
+        "en-technical-news-detail-108480-html"
+      ]
+    },
+    {
+      "key": "Send email",
+      "pages": 18,
+      "occurrences": 18,
+      "examples": [
+        "en-technical-news-detail-101184-html",
+        "en-technical-news-detail-101442-html",
+        "en-technical-news-detail-101760-html",
+        "en-technical-news-detail-1033728-html",
+        "en-technical-news-detail-105280-html",
+        "en-technical-news-detail-108480-html"
+      ]
+    },
+    {
+      "key": "2",
+      "pages": 17,
+      "occurrences": 26,
+      "examples": [
+        "en-about-us-events",
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-landingpage-happy-driver",
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-landingpage-r-matic",
+        "en-landingpage-safely-to-the-top"
+      ]
+    },
+    {
+      "key": "Products",
+      "pages": 16,
+      "occurrences": 16,
+      "examples": [
+        "en-products-approved-trucks",
+        "en-products-automated-trucks",
+        "en-products-e-trucks",
+        "en-products-forklift-hire",
+        "en-products-gas-forklifts",
+        "en-products-hand-pallet-trucks"
+      ]
+    },
+    {
+      "key": "Advantages",
+      "pages": 14,
+      "occurrences": 14,
+      "examples": [
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-landingpage-e-models",
+        "en-landingpage-gse-expo",
+        "en-landingpage-h-models",
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-landingpage-x-models"
+      ]
+    },
+    {
+      "key": "3",
+      "pages": 11,
+      "occurrences": 14,
+      "examples": [
+        "en-about-us-events",
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-landingpage-happy-driver",
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-landingpage-safely-to-the-top",
+        "en-landingpage-x-models"
+      ]
+    },
+    {
+      "key": "Safety",
+      "pages": 11,
+      "occurrences": 11,
+      "examples": [
+        "en-landingpage-e-models",
+        "en-landingpage-h-models",
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-landingpage-r-matic",
+        "en-landingpage-x-models",
+        "en-landingpage-x-range"
+      ]
+    },
+    {
+      "key": "New Industrial Trucks",
+      "pages": 11,
+      "occurrences": 11,
+      "examples": [
+        "en-products-automated-trucks",
+        "en-products-e-trucks",
+        "en-products-gas-forklifts",
+        "en-products-hand-pallet-trucks",
+        "en-products-order-pickers",
+        "en-products-pallet-stackers"
+      ]
+    },
+    {
+      "key": "About us",
+      "pages": 10,
+      "occurrences": 10,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-certificates",
+        "en-about-us-company",
+        "en-about-us-events",
+        "en-about-us-innovations-from-linde",
+        "en-about-us-magazine"
+      ]
+    },
+    {
+      "key": "4",
+      "pages": 10,
+      "occurrences": 13,
+      "examples": [
+        "en-about-us-events",
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-landingpage-happy-driver",
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-landingpage-safely-to-the-top",
+        "en-landingpage-x-models"
+      ]
+    },
+    {
+      "key": "Read more",
+      "pages": 9,
+      "occurrences": 56,
+      "examples": [
+        "en-about-us-press",
+        "en-landingpage-gse-expo",
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-forklift-hire",
+        "en-products-forklift-truck"
+      ]
+    },
+    {
+      "key": "Ei14 – Ei20",
+      "pages": 9,
+      "occurrences": 13,
+      "examples": [
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-landingpage-e-models",
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-landingpage-x-models",
+        "en-productfinder-html",
+        "en-products-e-trucks"
+      ]
+    },
+    {
+      "key": "K2 Systems Relies on Linde MH—Logistics Solution from a Single Source",
+      "pages": 9,
+      "occurrences": 9,
+      "examples": [
+        "en-linde-core-linde-ergonomics-html",
+        "en-linde-core-linde-productivity-html",
+        "en-products-approved-trucks",
+        "en-products-forklift-hire",
+        "en-products-reach-trucks",
+        "en-products-very-narrow-aisle-trucks"
+      ]
+    },
+    {
+      "key": "Linde Safety Guard",
+      "pages": 8,
+      "occurrences": 10,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-innovations-from-linde",
+        "en-landingpage-h-models",
+        "en-linde-core-linde-ergonomics-html",
+        "en-products-explosion-proof-trucks",
+        "en-service-retrofit-accessories"
+      ]
+    },
+    {
+      "key": "Ergonomics",
+      "pages": 8,
+      "occurrences": 8,
+      "examples": [
+        "en-about-us-innovations-from-linde",
+        "en-landingpage-e-models",
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-landingpage-x-models",
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts"
+      ]
+    },
+    {
+      "key": "General Privacy Statement",
+      "pages": 8,
+      "occurrences": 8,
+      "examples": [
+        "en-forms-agility-on-point-form",
+        "en-forms-automation-campaign",
+        "en-forms-ex-proof-form",
+        "en-forms-gc-next-champ-form",
+        "en-forms-global-contact-form",
+        "en-forms-gse-expo"
+      ]
+    },
+    {
+      "key": "Connectivity",
+      "pages": 8,
+      "occurrences": 8,
+      "examples": [
+        "en-landingpage-e-models",
+        "en-landingpage-h-models",
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-landingpage-x-models",
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts"
+      ]
+    },
+    {
+      "key": "FAQ",
+      "pages": 8,
+      "occurrences": 8,
+      "examples": [
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-explosion-proof-trucks",
+        "en-products-forklift-truck",
+        "en-products-gas-forklifts",
+        "en-products-pallet-stackers"
+      ]
+    },
+    {
+      "key": "Features",
+      "pages": 6,
+      "occurrences": 6,
+      "examples": [
+        "en-about-us-magazine",
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-gas-forklifts",
+        "en-products-heavy-duty-forklifts",
+        "en-products-pallet-stackers"
+      ]
+    },
+    {
+      "key": "Mr.",
+      "pages": 6,
+      "occurrences": 6,
+      "examples": [
+        "en-forms-agility-on-point-form",
+        "en-forms-automation-campaign",
+        "en-forms-ex-proof-form",
+        "en-forms-gc-next-champ-form",
+        "en-forms-global-contact-form",
+        "en-forms-rent-a-truck"
+      ]
+    },
+    {
+      "key": "Xi16 – Xi20 P (four-wheeled forklift truck)",
+      "pages": 6,
+      "occurrences": 7,
+      "examples": [
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-landingpage-e-models",
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-landingpage-x-models",
+        "en-products-e-trucks",
+        "en-solutions-energy-systems"
+      ]
+    },
+    {
+      "key": "Compact top performer",
+      "pages": 6,
+      "occurrences": 6,
+      "examples": [
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-landingpage-e-models",
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-landingpage-x-models",
+        "en-products-e-trucks",
+        "en-solutions-energy-systems"
+      ]
+    },
+    {
+      "key": "Flexible All-Rounder",
+      "pages": 6,
+      "occurrences": 6,
+      "examples": [
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-landingpage-e-models",
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-landingpage-x-models",
+        "en-products-e-trucks",
+        "en-solutions-energy-systems"
+      ]
+    },
+    {
+      "key": "Solutions for the automotive industry",
+      "pages": 6,
+      "occurrences": 6,
+      "examples": [
+        "en-landingpage-h-models",
+        "en-landingpage-r-matic",
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-gas-forklifts",
+        "en-products-ic-trucks"
+      ]
+    },
+    {
+      "key": "H50 – H80",
+      "pages": 6,
+      "occurrences": 11,
+      "examples": [
+        "en-landingpage-h-models",
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-forklift-truck",
+        "en-products-gas-forklifts",
+        "en-products-ic-trucks"
+      ]
+    },
+    {
+      "key": "Safer",
+      "pages": 6,
+      "occurrences": 6,
+      "examples": [
+        "en-products-ic-trucks",
+        "en-products-order-pickers",
+        "en-products-pallet-trucks",
+        "en-products-reach-trucks",
+        "en-products-tow-trucks",
+        "en-products-very-narrow-aisle-trucks"
+      ]
+    },
+    {
+      "key": "Services",
+      "pages": 6,
+      "occurrences": 6,
+      "examples": [
+        "en-service-genuine-spare-parts",
+        "en-service-maintenance-repair",
+        "en-service-retrofit-accessories",
+        "en-service-technical-safety-services",
+        "en-service-training",
+        "en-solutions-financing"
+      ]
+    },
+    {
+      "key": "H20 – H35",
+      "pages": 5,
+      "occurrences": 6,
+      "examples": [
+        "en-about-us-awards",
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-forklift-truck",
+        "en-products-gas-forklifts"
+      ]
+    },
+    {
+      "key": "High-precision machine at Norrlands trä",
+      "pages": 5,
+      "occurrences": 5,
+      "examples": [
+        "en-about-us-magazine",
+        "en-linde-core-linde-ergonomics-html",
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-heavy-duty-forklifts"
+      ]
+    },
+    {
+      "key": "Service",
+      "pages": 5,
+      "occurrences": 5,
+      "examples": [
+        "en-about-us-working-at-linde",
+        "en-landingpage-x-models",
+        "en-products-gas-forklifts",
+        "en-products-tugger-trains",
+        "en-solutions-intralogistics-automation"
+      ]
+    },
+    {
+      "key": "Submit",
+      "pages": 5,
+      "occurrences": 5,
+      "examples": [
+        "en-forms-agility-on-point-form",
+        "en-forms-automation-campaign",
+        "en-forms-ex-proof-form",
+        "en-forms-gc-next-champ-form",
+        "en-forms-rent-a-truck"
+      ]
+    },
+    {
+      "key": "Solutions",
+      "pages": 5,
+      "occurrences": 5,
+      "examples": [
+        "en-landingpage-gse-expo",
+        "en-solutions-energy-systems",
+        "en-solutions-fleet-management",
+        "en-solutions-intralogistics-automation",
+        "en-solutions-warehouse-safety"
+      ]
+    },
+    {
+      "key": "H16 – H20",
+      "pages": 5,
+      "occurrences": 8,
+      "examples": [
+        "en-landingpage-h-models",
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-gas-forklifts",
+        "en-products-ic-trucks"
+      ]
+    },
+    {
+      "key": "Linde Solutions for the 3PL Sector",
+      "pages": 5,
+      "occurrences": 5,
+      "examples": [
+        "en-products-approved-trucks",
+        "en-products-forklift-hire",
+        "en-service-genuine-spare-parts",
+        "en-service-technical-safety-services",
+        "en-solutions-financing"
+      ]
+    },
+    {
+      "key": "The Right Energy System",
+      "pages": 5,
+      "occurrences": 5,
+      "examples": [
+        "en-products-approved-trucks",
+        "en-products-forklift-hire",
+        "en-service-genuine-spare-parts",
+        "en-service-maintenance-repair",
+        "en-solutions-overview-html"
+      ]
+    },
+    {
+      "key": "Find your truck here",
+      "pages": 5,
+      "occurrences": 5,
+      "examples": [
+        "en-products-e-trucks",
+        "en-products-ic-trucks",
+        "en-products-pallet-trucks",
+        "en-products-reach-trucks",
+        "en-products-very-narrow-aisle-trucks"
+      ]
+    },
+    {
+      "key": "Company",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-certificates",
+        "en-about-us-sustainability",
+        "en-about-us"
+      ]
+    },
+    {
+      "key": "Find out more here",
+      "pages": 4,
+      "occurrences": 12,
+      "examples": [
+        "en-about-us-company",
+        "en-landingpage-e-models",
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-landingpage-x-models"
+      ]
+    },
+    {
+      "key": "Linde Multifunction Lever",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-about-us-innovations-from-linde",
+        "en-linde-core-linde-ergonomics-html",
+        "en-linde-core-linde-productivity-html",
+        "en-products-reach-trucks"
+      ]
+    },
+    {
+      "key": "Pedestrian Warning Band for Maximum Safety",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-about-us-innovations-from-linde",
+        "en-landingpage-x-range",
+        "en-service-retrofit-accessories",
+        "en-service-training"
+      ]
+    },
+    {
+      "key": "Linde Safety Pilot",
+      "pages": 4,
+      "occurrences": 5,
+      "examples": [
+        "en-about-us-innovations-from-linde",
+        "en-landingpage-h-models",
+        "en-landingpage-safely-to-the-top",
+        "en-linde-core-linde-ergonomics-html"
+      ]
+    },
+    {
+      "key": "Thinking Ahead while Reversing",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-about-us-magazine",
+        "en-service-retrofit-accessories",
+        "en-service-training",
+        "en-solutions-warehouse-safety"
+      ]
+    },
+    {
+      "key": "An Combustion Engine Stronghold Converts to Electric",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-about-us-magazine",
+        "en-about-us-sustainability",
+        "en-landingpage-x-models",
+        "en-solutions-energy-systems"
+      ]
+    },
+    {
+      "key": "Unbeatable Handling and Zero Emissions Guaranteed",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-about-us-magazine",
+        "en-about-us-sustainability",
+        "en-products-heavy-duty-forklifts",
+        "en-solutions-energy-systems"
+      ]
+    },
+    {
+      "key": "E14 – E20",
+      "pages": 4,
+      "occurrences": 6,
+      "examples": [
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-productfinder-html",
+        "en-products-forklift-truck",
+        "en-products-productfinder"
+      ]
+    },
+    {
+      "key": "Xi10 – Xi20",
+      "pages": 4,
+      "occurrences": 9,
+      "examples": [
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-productfinder-html",
+        "en-products-forklift-truck",
+        "en-products-productfinder"
+      ]
+    },
+    {
+      "key": "Xi14 – Xi20 R",
+      "pages": 4,
+      "occurrences": 5,
+      "examples": [
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-productfinder-html",
+        "en-products-forklift-truck",
+        "en-products-productfinder"
+      ]
+    },
+    {
+      "key": "Performance",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-landingpage-e-models",
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-landingpage-r-matic",
+        "en-landingpage-x-models"
+      ]
+    },
+    {
+      "key": "Diesel Forklifts",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-landingpage-h-models",
+        "en-products-gas-forklifts",
+        "en-products-ic-trucks",
+        "en-products"
+      ]
+    },
+    {
+      "key": "Intralogistics and Automation",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-landingpage-r-matic",
+        "en-products-automated-trucks",
+        "en-solutions-overview-html",
+        "en"
+      ]
+    },
+    {
+      "key": "Linde Safety Scan",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-products-approved-trucks",
+        "en-products-forklift-hire",
+        "en-service-genuine-spare-parts",
+        "en-solutions-consulting"
+      ]
+    },
+    {
+      "key": "All Trucks",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-gas-forklifts",
+        "en-products-tugger-trains"
+      ]
+    },
+    {
+      "key": "H35 – H50",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-forklift-truck",
+        "en-products-gas-forklifts"
+      ]
+    },
+    {
+      "key": "HT100 – HT180 D",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-forklift-truck",
+        "en-products-heavy-duty-forklifts"
+      ]
+    },
+    {
+      "key": "Handling",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-gas-forklifts",
+        "en-products-tugger-trains"
+      ]
+    },
+    {
+      "key": "Healthier",
+      "pages": 4,
+      "occurrences": 4,
+      "examples": [
+        "en-products-order-pickers",
+        "en-products-pallet-trucks",
+        "en-products-tow-trucks",
+        "en-products-very-narrow-aisle-trucks"
+      ]
+    },
+    {
+      "key": "A listening ear for every situation",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-about-us-awards",
+        "en-service-technical-safety-services",
+        "en-service-training"
+      ]
+    },
+    {
+      "key": "Simon Hegele Boosts Efficiency with Warehouse Automation",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-company",
+        "en-solutions-intralogistics-automation"
+      ]
+    },
+    {
+      "key": "Become part of the team",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-company",
+        "en-about-us"
+      ]
+    },
+    {
+      "key": "Schenker takes full control of its forklift truck fleet",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-about-us-awards",
+        "en-about-us-company",
+        "en-about-us-magazine"
+      ]
+    },
+    {
+      "key": "5",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-about-us-events",
+        "en-products-approved-trucks",
+        "en-products-forklift-hire"
+      ]
+    },
+    {
+      "key": "Linde VertiLight and Linde LED Stripes",
+      "pages": 3,
+      "occurrences": 4,
+      "examples": [
+        "en-about-us-innovations-from-linde",
+        "en-landingpage-logimat",
+        "en-service-retrofit-accessories"
+      ]
+    },
+    {
+      "key": "Active Stability Control",
+      "pages": 3,
+      "occurrences": 4,
+      "examples": [
+        "en-about-us-innovations-from-linde",
+        "en-landingpage-logimat",
+        "en-products-very-narrow-aisle-trucks"
+      ]
+    },
+    {
+      "key": "Events",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-about-us-magazine",
+        "en-about-us",
+        "en"
+      ]
+    },
+    {
+      "key": "DB Schenker tests the new Linde E16",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-about-us-magazine",
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-products-forklift-truck"
+      ]
+    },
+    {
+      "key": "Heineken Switzerland AG",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-about-us-magazine",
+        "en-products-forklift-truck",
+        "en-solutions-warehouse-safety"
+      ]
+    },
+    {
+      "key": "Quality",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-about-us-working-at-linde",
+        "en-products-approved-trucks",
+        "en-service-genuine-spare-parts"
+      ]
+    },
+    {
+      "key": "Xi16 – Xi20 P",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-productfinder-html",
+        "en-products-productfinder"
+      ]
+    },
+    {
+      "key": "Xi16 – Xi20 RP",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-productfinder-html",
+        "en-products-productfinder"
+      ]
+    },
+    {
+      "key": "Servicing",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-landingpage-e-models",
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts"
+      ]
+    },
+    {
+      "key": "Driver’s Workstation",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-landingpage-e-models",
+        "en-landingpage-h-models",
+        "en-landingpage-x-models"
+      ]
+    },
+    {
+      "key": "Automotive supplier SMP controls its vehicle fleet with Linde connect",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-landingpage-glasses",
+        "en-products-order-pickers",
+        "en-service-maintenance-repair"
+      ]
+    },
+    {
+      "key": "Contact us!",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-landingpage-safely-to-the-top",
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts"
+      ]
+    },
+    {
+      "key": "X20 – X35",
+      "pages": 3,
+      "occurrences": 4,
+      "examples": [
+        "en-productfinder-html",
+        "en-products-forklift-truck",
+        "en-products-productfinder"
+      ]
+    },
+    {
+      "key": "E20 – E35",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-productfinder-html",
+        "en-products-forklift-truck",
+        "en-products-productfinder"
+      ]
+    },
+    {
+      "key": "X35 – X50",
+      "pages": 3,
+      "occurrences": 4,
+      "examples": [
+        "en-productfinder-html",
+        "en-products-forklift-truck",
+        "en-products-productfinder"
+      ]
+    },
+    {
+      "key": "Get a Quote",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-gas-forklifts"
+      ]
+    },
+    {
+      "key": "Success Stories",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-gas-forklifts"
+      ]
+    },
+    {
+      "key": "industrial truck",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-products-diesel-forklifts-d344",
+        "en-products-diesel-forklifts",
+        "en-products-gas-forklifts"
+      ]
+    },
+    {
+      "key": "T14 B",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-products-explosion-proof-trucks",
+        "en-products-hand-pallet-trucks",
+        "en-products-pallet-trucks"
+      ]
+    },
+    {
+      "key": "In use on the race track",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-products-order-pickers",
+        "en-products-tow-trucks",
+        "en-solutions-financing"
+      ]
+    },
+    {
+      "key": "Flying starts on the ground",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-products-tow-trucks",
+        "en-service-maintenance-repair",
+        "en-service-retrofit-accessories"
+      ]
+    },
+    {
+      "key": "Truck Service",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-service-genuine-spare-parts",
+        "en-service-maintenance-repair",
+        "en-service-retrofit-accessories"
+      ]
+    },
+    {
+      "key": "Conserving Resources",
+      "pages": 3,
+      "occurrences": 3,
+      "examples": [
+        "en-service-maintenance-repair",
+        "en-service-technical-safety-services",
+        "en-service-training"
+      ]
+    }
+  ],
+  "repeatedBackgrounds": [],
+  "formActions": [
+    {
+      "key": "https://www.linde-mh.com/en/Forms/agility-on-point-form/",
+      "pages": 1,
+      "occurrences": 1,
+      "examples": [
+        "en-forms-agility-on-point-form"
+      ]
+    },
+    {
+      "key": "https://www.linde-mh.com/en/Forms/Automation-Campaign/",
+      "pages": 1,
+      "occurrences": 1,
+      "examples": [
+        "en-forms-automation-campaign"
+      ]
+    },
+    {
+      "key": "https://www.linde-mh.com/en/Forms/Ex-Proof_Form/",
+      "pages": 1,
+      "occurrences": 1,
+      "examples": [
+        "en-forms-ex-proof-form"
+      ]
+    },
+    {
+      "key": "https://www.linde-mh.com/en/Forms-GC/Li-ION-Recycling/",
+      "pages": 1,
+      "occurrences": 1,
+      "examples": [
+        "en-forms-gc-li-ion-recycling"
+      ]
+    },
+    {
+      "key": "https://www.linde-mh.com/en/Forms-GC/Next-Champ-Form/",
+      "pages": 1,
+      "occurrences": 1,
+      "examples": [
+        "en-forms-gc-next-champ-form"
+      ]
+    },
+    {
+      "key": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+      "pages": 1,
+      "occurrences": 1,
+      "examples": [
+        "en-forms-global-contact-form"
+      ]
+    },
+    {
+      "key": "https://www.linde-mh.com/en/Forms/GSE-Expo/",
+      "pages": 1,
+      "occurrences": 1,
+      "examples": [
+        "en-forms-gse-expo"
+      ]
+    },
+    {
+      "key": "https://www.linde-mh.com/en/Forms/Rent-A-Truck/",
+      "pages": 1,
+      "occurrences": 1,
+      "examples": [
+        "en-forms-rent-a-truck"
+      ]
+    }
+  ],
+  "genericAlt": [],
+  "contentFreeLinks": [],
+  "images": {
+    "total": 2091,
+    "emptyAlt": 245,
+    "emptyAltShare": 0.12,
+    "hosts": [
+      {
+        "key": "www.linde-mh.com",
+        "pages": 99,
+        "occurrences": 2091,
+        "examples": [
+          "en-about-us-awards",
+          "en-about-us-certificates",
+          "en-about-us-company",
+          "en-about-us-events",
+          "en-about-us-innovations-from-linde",
+          "en-about-us-magazine"
+        ]
+      }
+    ]
+  }
+}

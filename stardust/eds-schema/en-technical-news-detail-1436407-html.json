@@ -1,0 +1,127 @@
+{
+ "source": "http://localhost:8803/stardust/migrated/en/technical/News-Detail_1436407.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Early warning"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "30 Oct 2019"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Linde Material Handling develops safety wearable"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Available now, Linde Material Handling’s “Interactive Warning Vest” protects pedestrians in warehouse and production environments by alerting them early on to approaching industrial trucks. The intelligent garment with a tactile, audible and widely visible warning function is a further development of the Linde Safety Guard system and helps to prevent collisions between forklifts and pedestrians, which occur particularly frequently."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Every logistics operator will be familiar with this situation: Walking along an aisle of shelves, lost in thought, sometimes it is only at the last moment that you notice a forklift truck or other warehouse equipment in the immediate vicinity. A dangerous situation which can have serious consequences. Statistics issued by the German Social Accident Insurance (DGUV) confirm this: People hit, crushed or even knocked down accounted for 40 to 50 percent of all registered accidents involving industrial trucks in the past few years."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "“Often, drivers and pedestrians are particularly careless when traffic is relatively light,” says Benjamin Reis, Manager Safety Sales at Linde Material Handling. Outdoor situations can also pose dangers – especially when it gets dark or when there are people walking back and forth between trucks, containers and stacked goods. The same applies to high-rack warehouses, hall entrances, building corners and areas with poor visibility. “In such cases, it is important that pedestrians and forklift drivers are reliably warned of each other in good time. With our Interactive Warning Vest, this can be achieved extremely effectively – long before they reach each other’s field of vision,” says safety expert Reis, describing the advantages for operational safety."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Available now, Linde Material Handling’s “Interactive Warning Vest” provides additional protection in warehouse environments."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The vest is based on the Linde Safety Guard assistance system introduced last year, which precisely transmits ultra-wideband (UWB) radio signals down to an inch, even through walls and doors. It enables forklift drivers to see on their vehicle from which direction one or more persons are approaching. At the same time, the pedestrians can see, feel and hear that an industrial truck is approaching via their portable unit. Until now, this small mobile device had to be clipped on to the wearer’s clothing."
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "Safety vest with integrated warning function"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "With the integration into a safety vest, certified according to the warning protection standard EN ISO 20471, the portable Linde Safety Guard unit has now been optimized. As Benjamin Reis states: “If you put on the vest, you are automatically carrying the assistance system with you.” The garment is equipped with LED strips at the front and back, which are constantly lit at 40 percent of the rated power even in normal conditions. If there is danger from an approaching vehicle, the LED strips switch to a flashing mode and increase their luminosity to 200 percent of rated power. “This is hard to miss and ensures pinpoint safety,” Benjamin Reis states."
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Early warning – see it, hear it, feel it: The Interactive Warning Vest from Linde Material Handling alerts pedestrians to approaching industrial trucks."
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Wearing Linde Material Handling’s Interactive Warning Vest also helps to ensure consistent adherence to processes and prescribed safety measures, Reis continues: “If a person is not wearing a vest, this is immediately obvious to everyone.” In his opinion, the safety device can also help to consolidate the importance of occupational safety and health in the company. “Last but not least, it is evidence of the high esteem in which those in charge hold their employees and shows that staff protection is a high priority,” the safety expert believes. The Interactive Warning Vest won its first prize – the DEKRA Award 2019 – before it was even launched on the market. DEKRA, a globally operating, leading expert organization, has been presenting this distinction for many years to recognize groundbreaking achievements in the field of safety."
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "The safety specialists at Linde Material Handling have thought through the design of the vest down to the last detail. The position of the transmitter on the clavicle ensures that the vibration is easily felt, the tone is close to the ear and there are no blocking effects of the radio signals. By wearing the vest all year round, either over a winter jacket or a T-shirt, the sensor is always in the same place, which makes perception easier. Humidity is no problem either – due to the low voltage, the vest can be used in all weathers. The power bank is located in a water-proof bag and supplies the system with power for up to 16 hours. The battery can be replaced in no time; a charging station is included in the scope of delivery. The vest is available in six sizes and is cut in such a way that it allows sufficient freedom of movement albeit with a comfortable fit, while at the same time preventing it from getting caught on anything."
+    },
+    {
+     "role": "heading",
+     "order": 13,
+     "text": "Trade Press"
+    },
+    {
+     "role": "heading",
+     "order": 14,
+     "text": "Heike Oder"
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "+49 6021 991277",
+     "href": "tel:+49 6021 991277"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "Send email",
+     "href": "mailto:heike....oder@@@@linde-mh....de"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 16,
+   "repeats": [
+    {
+     "unitSelector": "DIV.infobox-media",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

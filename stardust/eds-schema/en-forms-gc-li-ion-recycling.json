@@ -1,0 +1,140 @@
+{
+ "source": "http://localhost:8808/stardust/migrated/en/Forms-GC/Li-ION-Recycling/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "We require the following data from you to ensure that the batteries are shipped correctly:"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Number of batteries*"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "*"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "2"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "3"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Select*"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "1",
+     "href": ""
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "2",
+     "href": ""
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "3",
+     "href": ""
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Condition of battery**"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Fully functional"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "not functional"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "damaged"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Battery serial number (SN)**"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "Battery voltage in volts (V)**"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "Capacity (Ah)**"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Energy (kWh)**"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "Weight (kg)**"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Production date**"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "*Mandatory field"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "Next"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 5,
+   "repeats": [
+    {
+     "unitSelector": "FIELDSET.",
+     "count": 10,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+/* wizard — source .wizard (slick deck "Energy Quick Check", Solutions/Energy-Systems), lifted
+   box by box from the live page (measure.mjs, 1440 + 360): .wizard padding 32px 0 (1280 wide
+   in the content container); every slide is a .layout-50--fixed — padding 32px 16px (18px /
+   4.5px = 5vw / 1.25vw below the tablet step), two 50 % item wrappers padded 18px 16px (1.25vw
+   below), top-aligned; the picture 16:9; h2 54/67.5 (32/40 mobile), h3 32/40 + padding 8px 0;
+   "Start now" 48 px red .btn with margin-top 20; answers 58 px grey rows (padding 8px 48px 8px
+   16px, 4 px apart) 24 px under the question, "Back" 48 px grey .btn 16 px under them. The
+   slick list is as tall as the TALLEST slide (540 at 1440, 766 at 360) with the active slide at
+   its top: the slides stack in one grid cell, inactive ones hidden, never removed from flow. */
+.wizard {
+  display: grid;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 32px 0;
+}
+
+.wizard .wizard-slide {
+  grid-area: 1 / 1;
+  align-self: start;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 5vw 1.25vw;
+  visibility: hidden;
+}
+
+.wizard .wizard-slide.wizard-active {
+  visibility: visible;
+}
+
+.wizard .wizard-media,
+.wizard .wizard-text {
+  flex: 0 0 100%;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 1.25vw;
+}
+
+.wizard .wizard-media picture,
+.wizard .wizard-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+.wizard .wizard-text h2 {
+  margin: 0;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 40px;
+}
+
+.wizard .wizard-text h3 {
+  margin: 0;
+  padding: 8px 0;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 40px;
+}
+
+.wizard .wizard-progress {
+  display: flex;
+  height: 6px;
+  margin: 0 0 6px;
+}
+
+.wizard .wizard-progress span {
+  display: block;
+  width: 6px;
+  height: 6px;
+  margin: 0 6px 0 0;
+  border-radius: 3px;
+  background: var(--color-lightgrey, #eeeff3);
+}
+
+.wizard .wizard-progress span.done {
+  background: var(--color-red, #aa0020);
+}
+
+.wizard .wizard-text p {
+  margin: 0 0 4px;
+}
+
+.wizard .wizard-text h3 + p {
+  margin-top: 24px;
+}
+
+.wizard .wizard-text p > strong {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 58px;
+  padding: 8px 48px 8px 16px;
+  background: var(--color-lightgrey, #eeeff3);
+  color: var(--color-darkgrey, #222);
+  font-weight: 400;
+  line-height: 30px;
+  text-align: left;
+  cursor: pointer;
+}
+
+.wizard .wizard-text p.wizard-primary {
+  margin: 20px 0 0;
+}
+
+.wizard .wizard-text p.wizard-primary > strong {
+  display: inline-block;
+  width: auto;
+  min-height: 0;
+  padding: 8px 16px;
+  background: var(--color-red, #aa0020);
+  color: var(--color-white, #fff);
+}
+
+.wizard .wizard-text p.wizard-back {
+  margin: 12px 0 0;
+}
+
+.wizard .wizard-text p.wizard-back > strong {
+  display: inline-block;
+  width: auto;
+  min-height: 0;
+  padding: 8px 16px;
+  text-align: center;
+}
+
+@media (width >= 768px) {
+  .wizard .wizard-slide {
+    padding: 32px 16px;
+  }
+
+  .wizard .wizard-media,
+  .wizard .wizard-text {
+    flex: 0 0 50%;
+    width: 50%;
+    padding: 18px 16px;
+  }
+
+  .wizard .wizard-text h2 {
+    font-size: 54px;
+    line-height: 67.5px;
+  }
+}

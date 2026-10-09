@@ -1,0 +1,11 @@
+{
+  "/en/forms/global-contact-form": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T02:03:20.205Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

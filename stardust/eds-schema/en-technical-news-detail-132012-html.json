@@ -1,0 +1,90 @@
+{
+ "source": "http://localhost:8803/stardust/migrated/en/technical/News-Detail_132012.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Perfect strategic fit"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "14 Mar 2019"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Linde Material Handling appoints Eazi Access as exclusive distributor for South Africa"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Linde Material Handling GmbH is pleased to announce the appointment of Eazi Access as exclusive distributor for the Linde brand in South Africa effective today. Eazi Access prides itself in providing innovative bespoke access and material handling solutions to the market, and therefore Linde Material Handling is fully convinced of the perfect strategic fit in Eazi Access being able to enlarge their current portfolio with the Linde Material Handling product and solutions range."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Eazi Access was founded in 2003 and is Africa’s market leader in work-at-height and materials handling solutions. Their comprehensive offering includes rental, sales, servicing and training across a range of industries and applications. The Linde Material Handling product and solutions range will complement the current Eazi Access OEM relationships including JLG, Power Tower, Magni, Maeda and JCB."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Eazi Access is a 100% South African-owned company with an extensive footprint across the country and a growing presence throughout sub-Saharan Africa. They have the largest, most diverse fleet of equipment on the continent, which is backed by a strong network of skilled technicians and a commitment to providing 24/7 support to customers."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Linde Material Handling appoints Eazi Access as exclusive distributor for South Africa."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The company has built a solid foundation and is consistently recognised by customers for delivering an exceptional service. The factors contributing to their early success are still part of the company today: a strong focus on safety, responsiveness to macroeconomic and industry developments, and the ability to develop innovative solutions that benefit customers."
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "Trade Press"
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Heike Oder"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "+49 6021 991277",
+     "href": "tel:+49 6021 991277"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Send email",
+     "href": "mailto:heike....oder@@@@linde-mh....de"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 11,
+   "repeats": []
+  }
+ ]
+}

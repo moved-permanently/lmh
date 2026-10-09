@@ -1,0 +1,105 @@
+{
+ "source": "http://localhost:8803/stardust/migrated/en/technical/News-Detail_114368.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Service the smart way"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "5 Feb 2019"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "How fleet operators can benefit from a new service app"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "More transparency, increased availability: With its new Service Manager app, Linde Material Handling offers customers straightforward access to its service network. The mobile application allows service orders to be initiated around the clock using a smartphone. Another benefit is that the user is continually kept informed about the current order status."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "There is never a convenient time for forklift failure. If the truck won’t work, every minute counts until the service technician gets the vehicle up and running again. In such cases, smooth communication throughout the service process is a decisive factor for the responsible fleet manager – from damage notification to the current processing status and finally the service report."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "At Linde Material Handling, these steps are now being radically simplified. “With the new Linde Service Manager app, we are consistently using the advantages resulting from digitization. Service orders are entered once and then electronically routed through to completion. This enables us to speed up the process, make it transparent and ensure even better service quality as a result,” explains Product Manager Susanne Rohe, who is in charge of developing this smartphone solution at Linde Material Handling."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "In detail, creating a service order using the mobile application (which is available for both Android and iOS and can be downloaded free of charge from the Google Play Store or Apple App Store) works as follows: If a truck fails, the driver first of all selects the relevant model from the fleet list stored in the app or scans the QR code attached to the vehicle. Then he has the option of describing the defect or uploading photos. This information is sent to the fleet manager, who either rejects the service request or forwards it to the Linde service staff."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The app keeps the user informed about all further processing steps relating to his request: For example, it indicates when the service technician is expected to arrive and displays an overview of all current service requests and upcoming maintenance appointments. “Transparency is extremely important for fleet managers. In this way, they always know exactly which trucks are available – so that they can plan assignments accordingly,” says Rohe. The app also stores data on the operating status of the individual trucks. For example, a green dot indicates that there is no pending service activity for the vehicle. Recent operating hours are also specified."
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "The new Service Manager app from Linde Material Handling allows customers to initiate orders to its service network around the clock using a smartphone."
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "In addition, the user can send a message along with the service order and prioritize it in this way. This is important, for example, if a truck is used in a critical area and no comparable replacement is available. Then the technician knows that things are particularly urgent and can bring the job forward. Once the assignment is completed, the fleet manager receives a detailed repair report. In addition, the service order is automatically filed with the vehicle’s status information."
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "The functional scope of the Linde Service Manager app is supplemented by the option of assigning trucks to specific operating zones – an ideal possibility, for example, for keeping an eye on larger locations with many different work areas. The function helps the user to find the defective truck more quickly in the fleet list, as only those trucks are displayed that are used in “his” zone."
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "Trade Press"
+    },
+    {
+     "role": "heading",
+     "order": 12,
+     "text": "Heike Oder"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "+49 6021 991277",
+     "href": "tel:+49 6021 991277"
+    },
+    {
+     "role": "cta",
+     "order": 14,
+     "text": "Send email",
+     "href": "mailto:heike....oder@@@@linde-mh....de"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 14,
+   "repeats": []
+  }
+ ]
+}

@@ -1,0 +1,520 @@
+/* mwf-form — values lifted from the gated prototype canon (module: mwf-form — from
+   en-forms-global-contact-form): 640 px form wrapper, 16 px header, fieldset rows (flex, 8 px gutters),
+   15 px labels, 48 px inputs, red closed dropdown toggles, radio with pseudo-element dot, right-aligned
+   footer button. Authored elements (p, headings, ul) are styled through their wrappers (EW2). */
+.mwf-form fieldset {
+  margin: 8px 0 0;
+  padding: 0;
+  border: 0;
+  min-width: 0;
+}
+
+.mwf-form .form-section {
+  max-width: 640px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.mwf-form .form-header {
+  padding: 16px;
+}
+
+.mwf-form .form-header :is(h1, h2, h3),
+.mwf-form .form-item-heading :is(h1, h2, h3, h4, h5) {
+  margin: 0;
+  font-family: var(--font-face-medi), var(--font-sub-bold), Arial, sans-serif;
+  font-weight: 400;
+  color: var(--color-darkgrey);
+}
+
+.mwf-form .form-header :is(h1, h2, h3) {
+  font-size: 1.5rem;
+  line-height: 1.25;
+}
+
+.mwf-form .form-item-heading :is(h1, h2, h3, h4, h5) {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.mwf-form .form-row-100,
+.mwf-form .form-row-50,
+.mwf-form .form-row-30-100,
+.mwf-form .form-row-100-30 {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 8px;
+}
+
+.mwf-form .form-item {
+  flex-grow: 10;
+  padding: 0 8px 8px;
+}
+
+.mwf-form .form-label p {
+  display: block;
+  margin: 0;
+  font-family: var(--font-face), var(--font-sub), Arial, sans-serif;
+  font-size: 15px;
+  line-height: 27px;
+}
+
+.mwf-form .mwf-label p {
+  display: inline;
+}
+
+.mwf-form .form-label em {
+  color: var(--color-red);
+  font-style: normal;
+}
+
+.mwf-form .input-wrapper {
+  position: relative;
+}
+
+.mwf-form input[type="text"],
+.mwf-form textarea {
+  box-sizing: border-box;
+  color: var(--color-darkgrey);
+  width: 100%;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-form-lightgrey);
+  padding: 11px 48px 8px 8px;
+  border-radius: 0;
+  appearance: none;
+  min-height: 48px;
+  font: inherit;
+  font-size: 15px;
+  line-height: normal;
+}
+
+.mwf-form textarea {
+  min-height: 105px;
+  max-width: 100%;
+  line-height: 1.5em;
+  display: block;
+  resize: vertical;
+  overflow: auto;
+}
+
+.mwf-form input:focus,
+.mwf-form input:hover,
+.mwf-form textarea:focus,
+.mwf-form textarea:hover {
+  border-color: var(--color-form-darkgrey);
+  outline: 0;
+}
+
+.mwf-form .mwf-hidden {
+  display: none !important;
+  opacity: 0 !important;
+}
+
+.mwf-form .form-item a:any-link {
+  color: var(--color-red);
+  text-decoration: underline;
+}
+
+/* dropdowns — captured CLOSED state: native select hidden, red toggle, menu hidden */
+.mwf-form .dropdown,
+.mwf-form .dropdown-wrapper,
+.mwf-form .select-wrapper {
+  position: relative;
+}
+
+.mwf-form .mwf-select,
+.mwf-form .dropdown-menu {
+  display: none;
+}
+
+.mwf-form .dropdown-toggle {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  height: 48px;
+  margin: 0;
+  padding: 8px 48px 8px 16px;
+  text-align: left;
+  font: inherit;
+  font-size: 18px;
+  line-height: 30px;
+  background-color: var(--color-red);
+  color: var(--color-white);
+  border: 1px solid transparent;
+  border-radius: 0;
+  cursor: pointer;
+}
+
+.mwf-form .dropdown-toggle:hover {
+  background-color: var(--color-primary-700);
+  color: var(--color-white);
+}
+
+.mwf-form .dropdown-toggle .icon {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 48px;
+  height: 48px;
+  line-height: 48px;
+  font-size: 24px;
+  text-align: center;
+  color: var(--color-white);
+  margin: 0;
+}
+
+/* live 1440: the native country select sits in a red 48px wrapper (border 0, transparent select) */
+.mwf-form .select-wrapper {
+  display: block;
+  height: 48px;
+  background-color: var(--color-red);
+  color: var(--color-white);
+}
+
+.mwf-form .select-wrapper select.mwf-select {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 100%;
+  max-width: 100%;
+  height: 48px;
+  appearance: none;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--color-white);
+  padding: 8px 48px 8px 16px;
+  font: inherit;
+  font-size: 18px;
+  line-height: 30px;
+  cursor: pointer;
+}
+
+.mwf-form .select-wrapper .icon {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 48px;
+  height: 48px;
+  line-height: 48px;
+  font-size: 24px;
+  text-align: center;
+  color: var(--color-white);
+  pointer-events: none;
+}
+
+/* radio (the authored list: one <li> per option) */
+.mwf-form .radio-row ul {
+  display: contents;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.mwf-form .radio-row li {
+  position: relative;
+  display: block;
+  margin-left: 24px;
+  margin-right: 40px;
+  padding-left: 8px;
+  overflow: visible;
+  min-height: 48px;
+  padding-top: 12px;
+  box-sizing: border-box;
+  color: var(--color-darkgrey);
+}
+
+.mwf-form .radio-row li span {
+  display: block;
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+.mwf-form .radio-row li input[type="radio"] {
+  display: block;
+  position: absolute;
+  left: 8px;
+  top: 12px;
+  width: 100%;
+  height: 48px;
+  box-sizing: border-box;
+  border: 1px solid var(--color-form-lightgrey);
+  padding: 0;
+  margin: 0;
+  z-index: -100; /* live: painted behind main's white background (opacity 1), the span draws the dot */
+}
+
+.mwf-form .radio-row li input[type="radio"] ~ span::before {
+  content: "";
+  background-color: var(--color-white);
+  border: 1px solid var(--color-form-lightgrey);
+  display: block;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+  position: absolute;
+  left: -24px;
+  top: 12px;
+  box-sizing: border-box;
+}
+
+.mwf-form .radio-row li input[type="radio"]:checked ~ span::after {
+  content: "";
+  background-color: var(--color-red);
+  width: 16px;
+  height: 16px;
+  display: block;
+  border-radius: 50%;
+  position: absolute;
+  left: -20px;
+  top: 16px;
+}
+
+.mwf-form .radio-row li input[type="radio"]:focus ~ span::before {
+  border: 1px dotted var(--color-darkgrey);
+}
+
+/* hint text below a control (live .mwf-hint > p: 15 px / 30 px line) */
+.mwf-form .mwf-hint p {
+  margin: 0;
+  font-family: var(--font-face), var(--font-sub), Arial, sans-serif;
+  font-size: 15px;
+  line-height: 30px;
+}
+
+/* "*Mandatory field" (preceded on the source by an empty 8 px fieldset — `tight` when it is not) */
+.mwf-form .form-info {
+  margin-top: 8px;
+}
+
+.mwf-form .form-info.tight {
+  margin-top: 0;
+}
+
+/* the source's leading classless fieldset (hidden inputs): first-of-type, no top margin */
+.mwf-form fieldset.form-lead {
+  margin-top: 0;
+}
+
+.mwf-form .form-required-info p {
+  margin: 0;
+  font-family: var(--font-face), var(--font-sub), Arial, sans-serif;
+  font-size: 15px;
+  line-height: inherit;
+}
+
+/* footer + the (hidden at rest) no-backend notice */
+.mwf-form .form-footer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 16px 16px 16px 24px;
+  margin-top: 8px;
+  box-sizing: border-box;
+  min-height: 80px;
+}
+
+.mwf-form .form-footer .btn {
+  display: inline-block;
+  position: relative;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 8px 16px;
+  height: 48px;
+  border: 1px solid transparent;
+  border-radius: 0;
+  font: inherit;
+  font-size: 1rem;
+  line-height: 30px;
+  text-align: center;
+  background-color: var(--color-red);
+  color: var(--color-white);
+  cursor: pointer;
+}
+
+.mwf-form .form-footer .btn:hover {
+  background-color: var(--color-primary-700);
+}
+
+.mwf-form .form-footer .btn:active {
+  background-color: var(--color-primary-900);
+}
+
+.mwf-form .form-notice {
+  margin-top: 8px;
+  padding: 0 16px;
+}
+
+.mwf-form .form-notice p {
+  margin: 0;
+  font-size: 15px;
+  color: var(--color-red);
+}
+
+@media (width >= 640px) {
+  .mwf-form .form-header :is(h1, h2, h3) {
+    font-size: 1.63rem;
+  }
+
+  .mwf-form .form-row-50 > * {
+    max-width: 50%;
+  }
+
+  /* live: flex 3 / max-width 24% resolves to 107px from the input's intrinsic width (font-dependent);
+     pinned so the substitute font cannot move the split */
+  .mwf-form .form-row-30-100 .form-item:first-of-type {
+    flex: 0 0 107px;
+    max-width: 24%;
+  }
+
+  .mwf-form .form-row-100-30 .form-item:last-of-type {
+    flex: 3;
+  }
+
+  .mwf-form .form-row-100-30 .form-item:first-of-type {
+    max-width: 76%;
+  }
+}
+
+@media (width <= 639px) {
+  .mwf-form .form-row-100,
+  .mwf-form .form-row-50,
+  .mwf-form .form-row-30-100,
+  .mwf-form .form-row-100-30 {
+    flex-direction: column;
+  }
+
+  .mwf-form .form-label:not(.mwf-label) p {
+    line-height: 24px;
+  }
+}
+
+/* checkbox groups (the authored list: one <li> per option; live: .form-item > label.checkbox) */
+.mwf-form .form-item-wrapper {
+  width: 100%;
+}
+
+.mwf-form .checkbox-row ul {
+  display: contents;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.mwf-form .checkbox-row li {
+  flex-grow: 10;
+  padding: 0 8px 8px;
+}
+
+.mwf-form .checkbox-row .checkbox {
+  position: relative;
+  display: block;
+  margin-left: 24px;
+  margin-right: 40px;
+  padding-left: 8px;
+  padding-top: 12px;
+  overflow: visible;
+  min-height: 48px;
+  min-width: 120px;
+  box-sizing: border-box;
+  color: var(--color-darkgrey);
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.mwf-form .checkbox-row .checkbox > span {
+  display: block;
+  height: 30px;
+  line-height: 30px;
+}
+
+/* live 1440: the checkbox input is a 48 px overlay at left 8 / top 12 (like the radio), painted
+   behind main's white background (z-index -100, opacity 1) — the span::before draws the box */
+.mwf-form .checkbox-row li .checkbox input[type="checkbox"] {
+  display: block;
+  position: absolute;
+  left: 8px;
+  top: 12px;
+  width: 100%;
+  height: 48px;
+  box-sizing: border-box;
+  border: 1px solid var(--color-form-lightgrey);
+  padding: 0;
+  margin: 0;
+  z-index: -100;
+}
+
+.mwf-form .checkbox-row li .checkbox input[type="checkbox"] ~ span::before {
+  content: "";
+  display: block;
+  float: left;
+  width: 24px;
+  height: 24px;
+  margin-right: 8px;
+  margin-left: -32px;
+  box-sizing: border-box;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-form-lightgrey);
+  cursor: pointer;
+  transition: all 125ms;
+}
+
+.mwf-form .checkbox-row li .checkbox input[type="checkbox"]:checked ~ span::before {
+  content: "\f12c";
+  font-family: var(--icon-font-family);
+  font-size: 22px;
+  line-height: 22px;
+  text-align: center;
+  color: var(--color-white);
+  background-color: var(--color-red);
+  border-color: var(--color-red);
+}
+
+.mwf-form .checkbox-row li .checkbox input[type="checkbox"]:focus ~ span::before {
+  border: 1px dotted var(--color-darkgrey);
+}
+
+/* date input (live: .datepicker dark wrapper, input + 48 px calendar trigger; calendar inert) */
+.mwf-form .datepicker {
+  position: relative;
+  display: flex;
+  background-color: var(--color-textgrey);
+}
+
+.mwf-form .datepicker input[type="text"] {
+  width: calc(100% - 48px);
+  height: 48px;
+}
+
+.mwf-form .ui-datepicker-trigger {
+  flex: 0 0 48px;
+  width: 48px;
+  height: 48px;
+  margin: 0;
+  padding: 12px;
+  border: 1px solid transparent;
+  border-radius: 0;
+  background-color: transparent;
+  color: var(--color-white);
+  line-height: 0;
+  cursor: pointer;
+}
+
+.mwf-form .ui-datepicker-trigger:hover,
+.mwf-form .ui-datepicker-trigger:focus {
+  background-color: hsl(0deg 0% 100% / 10%);
+}
+
+.mwf-form .ui-datepicker-trigger .icon {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  margin: 0;
+  line-height: 24px;
+  font-size: 24px;
+  color: var(--color-white);
+}
+
+.mwf-form .icon-calendar::before {
+  content: "\f129";
+}

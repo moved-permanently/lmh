@@ -1,0 +1,1030 @@
+{
+ "source": "http://localhost:8804/stardust/migrated/en/About-us/Sustainability/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Sustainability at Linde Material Handling"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "How We Put Responsibility into Practice"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Environmental Protection",
+     "href": "#1886122"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Health and Safety",
+     "href": "#1886137"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Good Employer",
+     "href": "#1886145"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Social Engagement",
+     "href": "#1886149"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "At Linde Material Handling, sustainability means taking responsibility: for the environment, for future generations, for our customers, and for our employees. We integrate environmental and social targets in every aspect of our business activities by setting ourselves a clear sustainability strategy."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "As part of the KION Group, we have committed to going climate-neutral along our entire value chain by 2050. We are also guided by the criteria of the international Science Based Targets initiative (SBTi). Our trucks, software solutions, services, and consulting also help our customers achieve their targets for the environment and climate and ensure the health and safety of their employees. In this way, we ensure sustainable commercial success for our customers and ourselves for many years to come."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "To bring the concept of sustainability to life, we integrate environmental and social objectives into our business processes and activities—in all that we do!"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Ulrike Just, Executive Vice President Sales & Service at Linde Material Handling"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Read our sustainability report here",
+     "href": "../../../media/Global-Content/08_Downloads/Linde_Sustainability_Report_2024.pdf"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Environmental Protection at Linde Material Handling"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "At Linde MH, we are continually working to optimize our systems and processes so we can use resources responsibly and minimize our environmental impact. We do this by focusing on energy, emissions, water, and waste."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Environment"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "2024"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "2023"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "2022"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "ISO 14001 certification rate"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "99%"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "94%"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "85%"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Energy consumption"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "1,109,815 GJ"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "1,107,453 GJ"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "1,079,340 GJ"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "Greenhouse gas emissions (Scope 1 and 2)*"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "62,780 t CO₂e"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "65,086 t CO₂e"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "63,286 t CO₂e"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Greenhouse gas emissions (Scope 3.3)*"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "17,427 t CO₂e"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "16,392 t CO₂e"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "15,626 t CO₂e"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "Water withdrawal"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "140,895 m³"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "146,211 m³"
+    },
+    {
+     "role": "body",
+     "order": 24,
+     "text": "140,942 m³"
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "Waste produced"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "42,185 t"
+    },
+    {
+     "role": "body",
+     "order": 27,
+     "text": "38,529 t"
+    },
+    {
+     "role": "body",
+     "order": 28,
+     "text": "63,664 t"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "*Greenhouse gas emissions in kilograms of CO₂ equivalents, Scope 1 and 2 market-based, Scope 3.3 location-based."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "TR.",
+     "count": 7,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 4
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Conserving Resources, Boosting Efficiency"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Our is a flagship project when it comes to conserving resources efficiently. Based on this concept, different truck types can be built on the same platform using the same components."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "platform concept with mixed assembly",
+     "href": "../../../en/About-us/Magazine/Conserving-Resources/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "It’s all possible thanks to innovations such as the screw with washer assembly, which can be installed in almost all types of forklift truck. This allows us to systematically reduce the number of components required and save on raw materials, storage space, and transportation costs. Established concepts, such as recycling Li-ion batteries, ensure that our resources stay in the circular economy."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "1 / 3"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Digital applications also play a key role in making our processes more efficient and using our trucks sustainably. Thanks to digital twins, service technicians can diagnose faults or carry out updates remotely and take a proactive approach to component maintenance. Digital twins also make it possible to monitor the condition of batteries and fuel cells during operation and extend their lifespan by optimizing charging times."
+    }
+   ],
+   "imgCount": 6,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.media-browser__item",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "DIV.media-browser__item",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "How we conserve our resources",
+     "href": "../../../en/About-us/Magazine/Conserving-Resources/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Taking Action at Every Site"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "We are gradually converting our own fleet to electric drives and expanding our charging infrastructure across the company. Plus, we are putting suitable environmental measures in place at every site. Since 2020, for example, we have been promoting the use of renewable energies at all our German sites. In Barcelona, we have installed a washing plant with a water treatment system that delivers maximum resource efficiency and minimum environmental impact. All of our locations have been certified in accordance with ISO 14001 (environmental management) since 2024. Our energy-intensive production sites have certified energy management systems."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Highest award for commitment to sustainability"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde Material Handling has undergone regular auditing and certification by the independent service provider EcoVadis since 2012 to check how well we live up to our responsibility as a company. Since December 2023, Linde MH has held the highest Platinum rating among its peer group of rated companies for outstanding performance in the area of sustainability."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Environmental Protection for our Customers"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "From product development and alternative power units to intelligent energy management—our in the areas of energy efficiency and emissions reduction is behind every product at Linde MH. We support our customers in selecting the trucks and energy systems that meet their needs by providing tailored advice and a wide range of products and solutions. Thanks to this approach, we help them to get the best out of their intralogistics and combine climate protection with cost-effectiveness."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "comprehensive expertise",
+     "href": "../../../en/Solutions/Energy-Systems/Energy-consulting/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Which energy system is right for you? Contact our experts today",
+     "href": "../../../en/Solutions/Energy-Systems/Energy-consulting/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Product Development"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Our trucks impress with maximum driving performance paired with minimum consumption and are designed for durability and ease of maintenance. Easy-access components and a modular design enable quick and straightforward maintenance and repair, increasing the lifespan of the trucks while minimizing downtime. Our platform concept puts materials to best use and reduces the need for spare parts—the latest generation of counterbalanced forklift trucks is a great example of this."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Alternative Fuels and Drive Technologies"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "We offer our customers a wide range of models with the right to match their needs. Along with efficient combustion engines and lead-acid batteries, we are increasingly centering our truck development activities around and : Upcoming electric forklift models will be designed for both types of drive. Our lithium-ion battery systems are especially energy-efficient and reduce energy consumption."
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "energy system",
+     "href": "../../../en/Solutions/Energy-Systems/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "lithium-ion batteries",
+     "href": "../../../en/About-us/Innovations-from-Linde/Lithium-Ionen.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "fuel cells",
+     "href": "../../../en/About-us/Innovations-from-Linde/Fuel-Cells.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "At the end of 2022, 87.5% of the products sold by Linde MH were already equipped with an electric drive."
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "Energy Management"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Rising energy costs and climate action call for a holistic approach to energy management. Intelligent energy management systems such as the can take energy efficiency and charging management to a new level. These systems enable transparency across all energy processes, holistic coordination, and optimization, and help to avoid electricity load peaks. Based on this, we help our customers to optimize their fleet, reduce carbon emissions, and save costs."
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "connect:charger",
+     "href": "../../../en/About-us/Innovations-from-Linde/connect-charger/index.html"
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "Circular Economy"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "We support our customers in their efforts to use resources efficiently and sustainably. Our lithium-ion batteries can be recycled and reused several times. Once used in a truck, they can have a second life as static storage batteries before the batteries are free of charge at the end of their life cycle. This allows our customers to make optimum use of their resources."
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "recycled",
+     "href": "../../../en/About-us/Innovations-from-Linde/Lithium-Ionen.html#fsSectionId_787263"
+    },
+    {
+     "role": "heading",
+     "order": 14,
+     "text": "Life Cycle Assessments"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "We are happy to assist customers who want to analyze and optimize their environmental footprint in greater detail. To this end, we provide detailed and reliable life cycle assessment data for our main product types, from pallet trucks to IC trucks, covering their entire life cycle. The data is based on a specially designed life cycle assessment method that we developed together with the Fraunhofer Institute for Building Physics (IBP). This method and the assessment have been tested and certified by TÜV Rheinland."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 11,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Our Electric Forklifts in Action"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "An Combustion Engine Stronghold Converts to Electric",
+     "href": "../../../en/About-us/Magazine/WDI-Hamm-Linde-X50/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "It started with E and continues with X: The company Westfälische Drahtindustrie (WDI) is pushing for a switch from internal combustion to electric forklift trucks at its central German plant in Hamm. The Linde X50 puts in a convincing performance during the four-week field test, even with heavy loads."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/WDI-Hamm-Linde-X50/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Reliable allrounder",
+     "href": "../../../en/About-us/Magazine/reliable-durability-NORA-Centre.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The NORA Centre Wolfsburg has committed itself to the fast delivery of original Volkswagen Group spare parts and other brands. Internal logistics plays an important role in meeting the demanding deadlines for customers. Crucial players are Linde electric forklifts, which prove their worth every day in the race against time - lately also equipped with Linde lithium-ion batteries."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/reliable-durability-NORA-Centre.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Unbeatable Handling and Zero Emissions Guaranteed",
+     "href": "../../../en/About-us/Magazine/Liebherr/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "With the ultimate goal of electrifying their entire fleet in the future, the specialists at Liebherr have tested the E160 electric forklift truck in action over the course of several weeks."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/Liebherr/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Health and Safety at Linde MH"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "21",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "At Linde Material Handling, the health and safety of our employees is our top priority. We live this out by following the KION HSE (health, safety, and environment) standard in everything we do. The standard applies throughout the Group and even goes beyond the legal requirements for health and safety."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Prevention is our guiding principle, so we offer our employees a comprehensive range of measures, including regular check-ups, a social counseling service, and targeted training on occupational health and safety. This is how we ensure the well-being and safety of our employees."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "22",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Learn more about health and safety in the sustainability report",
+     "href": "https://sustainability.linde-mh.com/report/en/health-and-safety/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "23",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Health and Safety for our Customers"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "24",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "We actively support our customers in creating a safe working environment for their employees. We are pursuing our Vision Zero with the aim of completely eliminating accidents in intralogistics. To achieve this ambitious goal, we offer a wide range of safety solutions for people, industrial trucks, and goods—ranging from high-visibility vests and lighting solutions to AI-based camera systems. We also provide our customers with and offer tailored training programs for their companies."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "advice",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Scan.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "25",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "If you ask anyone in the logistics sector which brand of forklift truck is known for safety, Linde Material Handling is usually the very first answer."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Fabian Zimmermann, Product Manager for Safety at Linde Material Handling"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "26",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Ergonomics as a Guiding Principle"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Everything revolves around ergonomics when developing our products and services. By pursuing this guiding principle, we make day-to-day work as easy as possible for operators—so we can guarantee a safe and healthy working environment over the long-term."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "27",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Warehouse Safety",
+     "href": "../../../en/Solutions/Warehouse-Safety/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Maximum safety for people and machines with the innovative safety solutions from Linde Material Handling."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Solutions/Warehouse-Safety/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Linde Ergonomics",
+     "href": "../../../en/Linde-Core/Linde-Ergonomics.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Linde designs its trucks and warehouse equipment ergonomically for perfect interaction between man and machine."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/Linde-Core/Linde-Ergonomics.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "28",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Employer With Responsibility"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "29",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Everyone deserves the same opportunities to develop their potential. Diversity, equality, and inclusion are therefore key components of our sustainability strategy. As a responsible employer, we are guided by strict ethical principles such as the KION Group Code of Compliance and the International Minimum Employment Standards. Among other things, these guarantee compliance with human rights, fair collective bargaining agreements, and the prohibition of forced and child labor as well as discrimination. Regular internal reviews and independent audits ensure that these principles are implemented."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "30",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Fair Working Conditions"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "For us, fair opportunities also mean fair pay: the majority of our employees are covered by collective wage agreements and the principle of equal pay for equal work is regularly reviewed. As an we offer a wide range of career opportunities with continuous staff development and international career prospects. We are constantly evolving, for example in the area of work-life balance. There is also a particular focus on increasing the percentage of women in the company."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "attractive employer,",
+     "href": "../../../en/About-us/Working-at-Linde/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "31",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Read more about our responsibility as a good employer in our sustainability report",
+     "href": "https://sustainability.linde-mh.com/report/en/good-employer/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "32",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Social Engagement"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "33",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Here at Linde MH, sustainability also means taking social responsibility, especially where customers, employees, and their families live and work."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "34",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "We are involved in numerous including Linde Solidaria, Les Restaurants du Cœur, and StaplerCup hilft e.V. Linde Material Handling’s social engagement is shaped to a large extent by the active involvement of our employees—whether through in-kind and cash donations or ."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "initiatives",
+     "href": "../../../en/About-us/Magazine/Social-Engagement/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "active support on the ground",
+     "href": "../../../en/About-us/Magazine/Social-Engagement/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "B.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

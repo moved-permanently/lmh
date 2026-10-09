@@ -1,0 +1,1147 @@
+{
+ "source": "http://localhost:8806/stardust/migrated/en/Products/Pallet-Stackers/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Pallet stackers"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Master Maneuverers"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Pallet Stackers from Linde",
+     "href": "#784026"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Features",
+     "href": "#784009"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Advantages",
+     "href": "#784011"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "FAQ",
+     "href": "#784015"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Lease, purchase, or rent?",
+     "href": "#784017"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 5,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Up to two tons, up to six meters high, and mostly in narrow aisles with little space for maneuvering where time is of the essence – the perfect job for the pallet stackers from Linde Material Handling. When transporting, loading, unloading, and storing goods, Linde pallet stackers effortlessly stack heavy loads on top of each other, on shelves, or in truck loading areas. This makes them indispensable in small warehouses and outdoor operations, as well as in large warehouses for transporting heavy and bulky goods, depending on the version used. Linde has the ideal truck for every transport route, load capacity, and lifting height."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The strengths of the Linde pallet stacker really come into their own wherever operators need to be able to work quickly and safely – even in tight spaces. Thanks to their narrow chassis, Linde pallet stackers work with agility and precision when handling loads. Equipped with modern drive control, they maneuver and accelerate smoothly and gently, while also saving energy. Compared to they are lighter, more compact, and more maneuverable, making them better suited to operation in narrow aisles. Many models also have a free lift mast for passing through doorways of normal height."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "forklift trucks",
+     "href": "https://www.linde-mh.com/en/Products/Forklift-Truck/"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "The ergonomic tiller head gives the operator easy access to all control elements and supports intuitive and efficient operation of the truck. Thanks to the low articulated tiller on the pedestrian trucks, the driver always moves at a safe distance from the truck. The assistance system provides an additional layer of : It indicates when the load capacity is approaching the limit, optimizes the travel speed according to the work situation, and displays the maximum storage height."
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Linde Load Management",
+     "href": "../../../en/About-us/Innovations-from-Linde/Load-Management.html"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Warehouse Safety",
+     "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Read more",
+     "href": "#read_more"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Pallet stackers fall into three categories: manual, semi-manual, and fully electric. Manual – also known as hydraulic pallet stackers – use lifting hydraulic systems, which means that the physical effort required to operate them is very high. Semi-electric pallet stackers have a lift motor, but transport is manual. Electric pallet stackers have both a lift motor and a drive motor. Linde Material Handling pallet stackers are all fully electric, with no exceptions."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Pedestrian and Platform: Pallet Stackers from Linde"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Pedestrian Pallet Stackers"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Pedestrian pallet stackers, where the operator controls the truck with the tiller while walking behind or alongside, are an economical solution for transporting loads over short distances. Thanks to the electric motor, goods can be lifted safely and precisely to the required height. In operations where excellent maneuverability and a small turning radius are required, pedestrian trucks really come into their own. Whether in workshops, refrigerated warehouses, greenhouses, garden centers, or supermarkets, transporting goods is one of the specialties of the pedestrian pallet stacker."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "L06 – 16 AC",
+     "href": "../../../en/Products/Pallet-Stackers/L06-L16-AC/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The compact L06 – L16 AC pallet stackers are ideal for stacking and transporting small and medium-sized loads where space is limited and distances are short."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/L06-L16-AC/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "L10 – L12",
+     "href": "../../../en/Products/Pallet-Stackers/L10-L12/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The L10 – L12 electric pallet stackers with their narrow chassis and excellent view of the mast can be maneuvered safely even where space is limited."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/L10-L12/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "L10 – L12 AS",
+     "href": "../../../en/Products/Pallet-Stackers/L10-L12-AS/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The electric straddle stackers use fork openings to quickly transport pallets and small containers with closed bases, even in tight spaces."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/L10-L12-AS/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "L14 C",
+     "href": "../../../en/Products/Pallet-Stackers/L14-C/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The L14 C is the precise and efficient way to transport light to medium-weight loads such as pallets, pallet cages, and pallet boxes."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/L14-C/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "L14 – L20",
+     "href": "../../../en/Products/Pallet-Stackers/L14-L20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "In addition to electric steering, the powerful L14 – L20 pallet stackers have a high load capacity and are ideal for handling in narrow aisles or elevators."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/L14-L20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "D06 – D08",
+     "href": "../../../en/Products/Pallet-Stackers/D06-D08/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The versatile D06 – D08 double stackers are ideal for applications that require fast transport and picking processes."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/D06-D08/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "D10",
+     "href": "../../../en/Products/Pallet-Stackers/D10/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The D10 double stacker is able to carry two pallets at once, enabling a fast material flow even in cramped environments with high traffic flow."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/D10/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "D12 – D14",
+     "href": "../../../en/Products/Pallet-Stackers/D12-D14/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The D12 – D14 double stackers are flexible, high-performance all-rounders that can transport two pallets at the same time."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/D12-D14/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "MM10 / ML10",
+     "href": "../../../en/Products/Pallet-Stackers/ML10-MM10/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The electric ML10 and MM10 pallet stackers are extremely versatile. For example, they can be used as an ergonomic order picker or for transporting lighter goods."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/ML10-MM10/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Pallet Stackers with Folding Platform"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Pallet stackers that can be used either as a pedestrian or ride-on truck are ideal for storing and retrieving medium-weight loads over short to medium distances. The trucks with a folding stand-on platform are particularly efficient in areas such as external warehouses, delivery areas, and indoor warehouses where long distances are not covered but medium-heavy loads have to be transported. Depending on the required lifting height, load capacity, and door clearance, Linde has the ideal model in its portfolio."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "D10 AP",
+     "href": "../../../en/Products/Pallet-Stackers/D10-AP/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The D10 AP double stacker comfortably transports two pallets through the warehouse – either as a pedestrian or ride-on model, providing extra flexibility."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/D10-AP/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "D12 – D14 AP",
+     "href": "../../../en/Products/Pallet-Stackers/D12-D14-AP/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The fold-out driver platform means that the versatile D12 – D14 AP double stacker can also be used as a ride-on truck, providing flexibility."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/D12-D14-AP/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "D12 HP AP",
+     "href": "../../../en/Products/Pallet-Stackers/D12-HP-AP/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "With their folding stand-on platform, the D12 HP AP double stackers provide great flexibility, as they can be used as a pedestrian or ride-on truck."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/D12-HP-AP/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "L14 – L20 AP",
+     "href": "../../../en/Products/Pallet-Stackers/L14-L20-AP/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The L14 – L20 AP with fold-down platform ensure efficient and fast storage processes at medium lifting heights."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/L14-L20-AP/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "L14 – L16 AS/AS AP",
+     "href": "../../../en/Products/Pallet-Stackers/L14-L16-AS-AP-AS/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The compact L14 – L16 AS/AS AP straddle stackers are designed for fast pallet handling in small spaces. They can be used as either a pedestrian version with the platform folded up, or as a ride-on version with the platform folded down, making them highly flexible."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/L14-L16-AS-AP-AS/index.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Platform Pallet Stackers"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Platform pallet stackers make light work of ground-level transport over longer distances, as well as the lifting and lowering of loads. Lithium-ion batteries are available as an option and can be charged easily and quickly at any socket. Thanks to their endurance and the ergonomic standing or seated workplace, platform pallet stackers are particularly suitable for transporting high loads over longer distances, for example in external warehouses and delivery areas, as well as for loading and unloading trucks, and on production lines. Depending on the required lifting height, load capacity, and local conditions, the pallet stackers can be equipped with a double or triplex mast."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "D10 FP",
+     "href": "../../../en/Products/Pallet-Stackers/D10-FP/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "With a chassis width of just 720 mm, the high-performance D10 FP double stacker is extremely maneuverable in even the smallest of spaces."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/D10-FP/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "D12 RW",
+     "href": "../../../en/Products/Pallet-Stackers/D12-RW/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The double-deck all-rounder D12 RW, which is equipped with a driver’s seat, is fast and ergonomic when transporting two pallets over medium and long distances."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/D12-RW/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "D12 R",
+     "href": "../../../en/Products/Pallet-Stackers/D12-R/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The D12 R double pallet stacker with a driver’s seat transports two pallets quickly and efficiently – even over medium and long distances."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/D12-R/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "D12 S – D12 SF",
+     "href": "../../../en/Products/Pallet-Stackers/D12-S-SF/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The D12 S/SF double stackers have a narrow chassis for maneuvering in the tightest of spaces."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/D12-S-SF/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "D12 HP SP",
+     "href": "../../../en/Products/Pallet-Stackers/D12-HP-SP/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The D12 HP SP double stackers are high-performance trucks for loading and unloading as well as for storage and transport processes."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/D12-HP-SP/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "D12 – D14 SP",
+     "href": "../../../en/Products/Pallet-Stackers/D12-D14-SP/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The D12 – D14 SP double stackers from Linde are versatile and offer maximum protection and comfort."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/D12-D14-SP/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "L14 – L16 R/Ri",
+     "href": "../../../en/Products/Pallet-Stackers/L14-L16-R/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The L14 – L16 R pallet stackers make it possible to work at high lifting heights and offer the driver the best visibility of the load and the surrounding area."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/L14-L16-R/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "L14 – L16 RW",
+     "href": "../../../en/Products/Pallet-Stackers/L14-L16-RW/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The L14 – L16 RW pallet stackers enable maximum lifting heights with heavy loads – even over medium and long distances."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/L14-L16-RW/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "L14 – L16 SP",
+     "href": "../../../en/Products/Pallet-Stackers/L14-L16-SP/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The versatile L14 – L16 SP stand-on pallet stackers are ideal for efficient handling processes at heights of up to five meters."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../../en/Products/Pallet-Stackers/L14-L16-SP/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Buy selected pallet stackers now in the LindeShop",
+     "href": "https://www.linde-mh.shop/"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Show all pallet stackers in the product finder",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?productTypes[]=2374&offerType=new"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "A.btn__link",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Linde pallet stackers are suitable for a wide range of applications, from goods handling in warehouses with narrow aisles to storing bulky goods and stacking boxes in racking systems. Linde offers pallet stackers with different lifting heights for every application. Linde pallet stackers are available in two versions to suit the required application: classic pedestrian trucks with a tiller and ride-on models with a standing or seated platform."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Features"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "SAFETY"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Pallet stackers have to move quickly from A to B, maneuver around narrow aisles, and transport heavy loads – and the safety of the operator is always the top priority when doing so. The long, low-mounted tiller on the pedestrian trucks ensures sufficient safety clearance between the truck and the operator at all times. The end-of-stroke resistance prevents the tiller from jerking back when released. The design of the tiller handle protects the operator’s hands, while the low-lying chassis prevents potential foot injuries. The optimized mast view ensures safe maneuvering. The Linde Safety Speed safety system automatically adapts the travel speed in relation to the tiller angle. The speed is automatically reduced when cornering and the truck brakes automatically when the drive switch is released."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "ERGONOMICS"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Ergonomics play a particularly important role in pedestrian pallet stackers. These trucks are often used for demanding jobs over short to medium distances. In order for operators to be able to steer the pallet stacker with as little physical exertion as possible, Linde uses servo-assisted electric steering in many models. This increases the maneuverability of the trucks, making load handling easier. A high-torque motor on the pallet stacker ensures rapid acceleration, which can be increased with a booster effect if required. This enables the trucks to perform safely and reliably even in highly demanding driving situations, such as on steep ramps."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "HANDLING"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Compact and versatile: the most accurate way to describe Linde pallet stackers. The trucks are built for narrow aisles and tight storage areas. This is all thanks to their space-saving dimensions and maneuverable tiller. The tailor-made technical equipment provides additional support: With the creep speed function, the pallet stacker can be maneuvered at 1.5 km/h with the tiller upright – ideal for very tight spaces. The Soft Landing function prevents wear and tear on the fork and protects the load when lowering. On top of this, Linde has also equipped the pallet stackers with an optional initial lift. This makes it easier to manage loading ramps, inclines, and uneven ground."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "SERVICE"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Linde pallet stackers combine maximum availability with minimal maintenance costs. The trucks boast an exceptionally stable construction with all electrical parts securely installed. The robust chassis and the maintenance-free AC motor also increase the service life. Depending on the type of use, the truck only needs to be serviced once a year. Thanks to the sophisticated truck design and technology, service technicians can carry out maintenance quickly and easily. All relevant truck components are easily accessible behind the motor cover. All service data can be quickly viewed on a laptop via the CAN bus system. This data can be used to set the performance parameters to suit the type of operation of the truck."
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "CONNECTIVITY"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "The Linde connect provides access to all the information. A digital multi-function display keeps the operator informed of the current truck status at all times. The battery charge status, operating hours, and maintenance status can be viewed at a glance on the display. A warning light indicates when maintenance is required. connect thus makes fleet management more cost-effective and increases the availability of each individual truck."
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "fleet management system",
+     "href": "https://www.linde-mh.com/en/Solutions/Fleet-Management/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 10,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "21",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Overview of the Advantages of a Pallet Stacker"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "22",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Maneuverable"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Thanks to their compact design, pallet stackers from Linde are particularly maneuverable. They have smooth steering and a powerful power unit."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Safe"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "The low-mounted tiller, low-lying chassis, and good visibility through the mast ensure safe transport and storage and retrieval processes."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Precise"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The ergonomic and intuitively designed tiller enables particularly precise, sensitive, and agile handling."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Cost-Effective"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Easily accessible components and a CAN bus system for quick analysis of truck data enable shorter service processes and greater availability."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "23",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Buy selected pallet stackers now in the LindeShop",
+     "href": "https://www.linde-mh.shop/"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Show all pallet stackers in the product finder",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?productTypes[]=2374&offerType=new"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "A.btn__link",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "24",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Tailor-Made Pallet Stackers"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Every storage and retrieval or transport operation is different. That’s why Linde pallet stackers are offered with many different equipment variants as standard. Among other options, customers can choose from different operating concepts for pedestrian or platform versions, as well as a range of lift mast designs. No matter the application, there is at least one suitable solution available. Lind also works together with its sales partners to offer individual custom-made products or additional equipment."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "25",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "FAQ – Frequently Asked Questions about Pallet Stackers"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "26",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "What types of pallet stacker are there?"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde offers pallet stackers in three different versions, which differ mainly in terms of application and load capacity. Depending on the area of application and requirements, the following types of pallet stacker can be selected: pedestrian pallet stacker, pallet stacker with folding platform, or pallet stacker with fixed platform."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Where can pallet stackers be used?"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Pallet stackers are suitable for a wide variety of applications. Depending on the design, they can be used in small and large warehouses, as well as in outdoor areas and for loading and unloading other trucks. Pallet stackers are a simple, compact solution for transporting goods and pallets that need to be lifted and lowered over heights of several meters."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "What is the initial lift?"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The initial lift allows for greater ground clearance. This makes it easy to transport and maneuver loads, even on inclines, over loading ramps, and on uneven terrain. Only the support arms of the truck are raised by the initial lift."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "How high can pallet stackers lift pallets?"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The most powerful models can pick up and store two pallets at the same time. They are able to reach lifting heights of up to 6216 mm and have a load capacity of up to 2000 kg."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "27",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Lease, purchase, or rent?"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "28",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "If you have found your perfect forklift, get in touch! We will be delighted to advise you about financing your pallet stacker. Whether you just need a temporary helper for a few hours or are looking for a long-term solution for everyday use, Linde has the ideal hire purchase, rental, or purchase option to suit all requirements. An overview of all the options is available from the Linde consulting service."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "hire,",
+     "href": "https://www.linde-mh.com/en/Products/Forklift-Hire/"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "leasing,",
+     "href": "https://www.linde-mh.com/en/Solutions/Financing/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "29",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "What can we do for you? Please feel free to get in touch!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  }
+ ]
+}

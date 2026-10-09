@@ -1,0 +1,29 @@
+{
+  "/en/about-us/company": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T07:22:40.224Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/media": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T07:22:40.225Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/technical/news-detail-18902": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T07:22:47.715Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

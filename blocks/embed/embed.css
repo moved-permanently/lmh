@@ -1,0 +1,12 @@
+/* embed — source page-level iframe: width 100 %, height 600, border 0, full bleed (a direct child of
+   the content root, no container) at every width */
+main > .section > .embed-wrapper {
+  max-width: none;
+}
+
+.embed iframe {
+  display: block;
+  width: 100%;
+  height: 600px;
+  border: 0;
+}

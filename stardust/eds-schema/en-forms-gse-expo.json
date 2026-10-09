@@ -1,0 +1,118 @@
+{
+ "source": "http://localhost:8808/stardust/migrated/en/Forms/GSE-Expo/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Your visit to GSE Expo"
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "I would like to request a free ticket to the trade show"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Yes"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "I would like to schedule an appointment at the exhibition booth on"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "September 15, 2026"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "September 16, 2026"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "September 17, 2026"
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Enter your contact details—we will get in touch with you shortly."
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "First Name*"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Last Name*"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Position*"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "E-Mail*"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Company*"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "Country*"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "I hereby declare that I consent to the use of my personal data in accordance with the ."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "General Privacy Statement",
+     "href": "../../../en/Legal-Notes/Privacy-Statement/index.html"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "*Mandatory field"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Send"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 9,
+   "repeats": [
+    {
+     "unitSelector": "FIELDSET.",
+     "count": 13,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

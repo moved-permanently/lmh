@@ -1,0 +1,469 @@
+{
+ "archetype": "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/",
+ "width": 1440,
+ "tolerance": 2,
+ "probes": {
+  "anchor": ".navigation-anchor-navigation-wrapper",
+  "headline": ".layout-100-headline--flex",
+  "text": ".layout-100--flex",
+  "passepartout": ".layout-passepartout"
+ },
+ "archetypeRaw": {
+  "sections": [],
+  "probes": {
+   "anchor": {
+    "sel": ".navigation-anchor-navigation-wrapper",
+    "count": 1,
+    "first": {
+     "rect": {
+      "w": 1440,
+      "h": 52
+     },
+     "backgroundLayers": [],
+     "backgroundColor": "rgb(255, 255, 255)",
+     "color": "rgb(34, 34, 34)",
+     "padding": "0px 0px 0px 0px",
+     "font": "daxlinewebpro 18px/27px 400",
+     "borderRadius": "0px",
+     "heading": null,
+     "image": null,
+     "listStyle": "disc",
+     "before": null
+    },
+    "clusters": 1,
+    "text": "General Privacy Statement Information on data processing pur"
+   },
+   "headline": {
+    "sel": ".layout-100-headline--flex",
+    "count": 3,
+    "first": {
+     "rect": {
+      "w": 1440,
+      "h": 108
+     },
+     "backgroundLayers": [],
+     "backgroundColor": "rgb(170, 0, 32)",
+     "color": "rgb(34, 34, 34)",
+     "padding": "36px 36px 4px 36px",
+     "font": "daxlinewebpro 18px/27px 400",
+     "borderRadius": "0px",
+     "heading": "h2 daxwebpro-medi 54px/67.5px 400 rgb(255, 255, 255)",
+     "image": null,
+     "listStyle": "disc",
+     "before": null
+    },
+    "clusters": 1,
+    "text": "General Privacy Statement"
+   },
+   "text": {
+    "sel": ".layout-100--flex",
+    "count": 3,
+    "first": {
+     "rect": {
+      "w": 1440,
+      "h": 7770
+     },
+     "backgroundLayers": [],
+     "backgroundColor": "rgba(0, 0, 0, 0)",
+     "color": "rgb(34, 34, 34)",
+     "padding": "0px 0px 0px 0px",
+     "font": "daxlinewebpro 18px/27px 400",
+     "borderRadius": "0px",
+     "heading": null,
+     "image": null,
+     "listStyle": "disc",
+     "before": null
+    },
+    "clusters": 1,
+    "text": "Thank you for visiting this website of Linde Material Handli"
+   },
+   "passepartout": {
+    "sel": ".layout-passepartout",
+    "count": 1,
+    "first": {
+     "rect": {
+      "w": 1440,
+      "h": 0
+     },
+     "backgroundLayers": [],
+     "backgroundColor": "rgba(0, 0, 0, 0)",
+     "color": "rgb(34, 34, 34)",
+     "padding": "0px 0px 0px 0px",
+     "font": "daxlinewebpro 18px/27px 400",
+     "borderRadius": "0px",
+     "heading": null,
+     "image": null,
+     "listStyle": "disc",
+     "before": null
+    },
+    "clusters": 1,
+    "text": ""
+   }
+  }
+ },
+ "siblings": [
+  {
+   "url": "https://www.linde-mh.com/en/EDI/",
+   "findings": [
+    {
+     "kind": "MISSING",
+     "probe": "anchor",
+     "msg": "\".navigation-anchor-navigation-wrapper\" matches 1 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "headline",
+     "msg": "\".layout-100-headline--flex\" matches 3 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "text",
+     "msg": "\".layout-100--flex\" matches 3 on the archetype, 0 on the sibling"
+    }
+   ],
+   "raw": {
+    "sections": [],
+    "probes": {
+     "anchor": {
+      "sel": ".navigation-anchor-navigation-wrapper",
+      "count": 0
+     },
+     "headline": {
+      "sel": ".layout-100-headline--flex",
+      "count": 0
+     },
+     "text": {
+      "sel": ".layout-100--flex",
+      "count": 0
+     },
+     "passepartout": {
+      "sel": ".layout-passepartout",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 1440,
+        "h": 0
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(34, 34, 34)",
+       "padding": "0px 0px 0px 0px",
+       "font": "daxlinewebpro 18px/27px 400",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": ""
+     }
+    }
+   }
+  },
+  {
+   "url": "https://www.linde-mh.com/en/Landingpage/Semi-automated-order-pickers/",
+   "findings": [
+    {
+     "kind": "MISSING",
+     "probe": "anchor",
+     "msg": "\".navigation-anchor-navigation-wrapper\" matches 1 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "headline",
+     "msg": "\".layout-100-headline--flex\" matches 3 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "text",
+     "msg": "\".layout-100--flex\" matches 3 on the archetype, 0 on the sibling"
+    }
+   ],
+   "raw": {
+    "sections": [],
+    "probes": {
+     "anchor": {
+      "sel": ".navigation-anchor-navigation-wrapper",
+      "count": 0
+     },
+     "headline": {
+      "sel": ".layout-100-headline--flex",
+      "count": 0
+     },
+     "text": {
+      "sel": ".layout-100--flex",
+      "count": 0
+     },
+     "passepartout": {
+      "sel": ".layout-passepartout",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 1440,
+        "h": 0
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(34, 34, 34)",
+       "padding": "0px 0px 0px 0px",
+       "font": "daxlinewebpro 18px/27px 400",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": ""
+     }
+    }
+   }
+  },
+  {
+   "url": "https://www.linde-mh.com/en/Legal-Notes/Cookie-Policy/",
+   "findings": [
+    {
+     "kind": "MISSING",
+     "probe": "anchor",
+     "msg": "\".navigation-anchor-navigation-wrapper\" matches 1 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "headline",
+     "msg": "\".layout-100-headline--flex\" matches 3 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "text",
+     "msg": "\".layout-100--flex\" matches 3 on the archetype, 0 on the sibling"
+    }
+   ],
+   "raw": {
+    "sections": [],
+    "probes": {
+     "anchor": {
+      "sel": ".navigation-anchor-navigation-wrapper",
+      "count": 0
+     },
+     "headline": {
+      "sel": ".layout-100-headline--flex",
+      "count": 0
+     },
+     "text": {
+      "sel": ".layout-100--flex",
+      "count": 0
+     },
+     "passepartout": {
+      "sel": ".layout-passepartout",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 1440,
+        "h": 0
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(34, 34, 34)",
+       "padding": "0px 0px 0px 0px",
+       "font": "daxlinewebpro 18px/27px 400",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": ""
+     }
+    }
+   }
+  },
+  {
+   "url": "https://www.linde-mh.com/en/Legal-Notes/Legal/",
+   "findings": [
+    {
+     "kind": "MISSING",
+     "probe": "anchor",
+     "msg": "\".navigation-anchor-navigation-wrapper\" matches 1 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "headline",
+     "msg": "\".layout-100-headline--flex\" matches 3 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "text",
+     "msg": "\".layout-100--flex\" matches 3 on the archetype, 0 on the sibling"
+    }
+   ],
+   "raw": {
+    "sections": [],
+    "probes": {
+     "anchor": {
+      "sel": ".navigation-anchor-navigation-wrapper",
+      "count": 0
+     },
+     "headline": {
+      "sel": ".layout-100-headline--flex",
+      "count": 0
+     },
+     "text": {
+      "sel": ".layout-100--flex",
+      "count": 0
+     },
+     "passepartout": {
+      "sel": ".layout-passepartout",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 1440,
+        "h": 0
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(34, 34, 34)",
+       "padding": "0px 0px 0px 0px",
+       "font": "daxlinewebpro 18px/27px 400",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": ""
+     }
+    }
+   }
+  },
+  {
+   "url": "https://www.linde-mh.com/en/Legal-Notes/PPAP/",
+   "findings": [
+    {
+     "kind": "MISSING",
+     "probe": "anchor",
+     "msg": "\".navigation-anchor-navigation-wrapper\" matches 1 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "headline",
+     "msg": "\".layout-100-headline--flex\" matches 3 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "text",
+     "msg": "\".layout-100--flex\" matches 3 on the archetype, 0 on the sibling"
+    }
+   ],
+   "raw": {
+    "sections": [],
+    "probes": {
+     "anchor": {
+      "sel": ".navigation-anchor-navigation-wrapper",
+      "count": 0
+     },
+     "headline": {
+      "sel": ".layout-100-headline--flex",
+      "count": 0
+     },
+     "text": {
+      "sel": ".layout-100--flex",
+      "count": 0
+     },
+     "passepartout": {
+      "sel": ".layout-passepartout",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 1440,
+        "h": 0
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(34, 34, 34)",
+       "padding": "0px 0px 0px 0px",
+       "font": "daxlinewebpro 18px/27px 400",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": ""
+     }
+    }
+   }
+  },
+  {
+   "url": "https://www.linde-mh.com/en/Legal-Notes/Terms-of-use/",
+   "findings": [
+    {
+     "kind": "MISSING",
+     "probe": "anchor",
+     "msg": "\".navigation-anchor-navigation-wrapper\" matches 1 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "headline",
+     "msg": "\".layout-100-headline--flex\" matches 3 on the archetype, 0 on the sibling"
+    },
+    {
+     "kind": "MISSING",
+     "probe": "text",
+     "msg": "\".layout-100--flex\" matches 3 on the archetype, 0 on the sibling"
+    }
+   ],
+   "raw": {
+    "sections": [],
+    "probes": {
+     "anchor": {
+      "sel": ".navigation-anchor-navigation-wrapper",
+      "count": 0
+     },
+     "headline": {
+      "sel": ".layout-100-headline--flex",
+      "count": 0
+     },
+     "text": {
+      "sel": ".layout-100--flex",
+      "count": 0
+     },
+     "passepartout": {
+      "sel": ".layout-passepartout",
+      "count": 1,
+      "first": {
+       "rect": {
+        "w": 1440,
+        "h": 0
+       },
+       "backgroundLayers": [],
+       "backgroundColor": "rgba(0, 0, 0, 0)",
+       "color": "rgb(34, 34, 34)",
+       "padding": "0px 0px 0px 0px",
+       "font": "daxlinewebpro 18px/27px 400",
+       "borderRadius": "0px",
+       "heading": null,
+       "image": null,
+       "listStyle": "disc",
+       "before": null
+      },
+      "clusters": 1,
+      "text": ""
+     }
+    }
+   }
+  }
+ ],
+ "summary": {
+  "siblings": 6,
+  "varying": 6,
+  "probesVarying": [
+   "anchor",
+   "headline",
+   "text"
+  ]
+ }
+}

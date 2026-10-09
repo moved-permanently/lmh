@@ -1,0 +1,74 @@
+/* styles/fonts.css — loaded by loadFonts() after first paint, never from head.html.
+   Nunito Sans is the metric-matched substitute for the licensed FF Daxline Pro (stardust/replica/fonts.md):
+   ascent 74% / descent 26% keeps `line-height: normal` boxes at Daxline's 1.0em. */
+@font-face {
+  font-family: NunitoSans;
+  src: url("../fonts/NunitoSans-400.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  ascent-override: 74%;
+  descent-override: 26%;
+  line-gap-override: 0%;
+}
+
+/* alias face: the source selects bold by FAMILY (DaxWebPro-Medi / DaxlineWebPro-Bold) — mirrored */
+@font-face {
+  font-family: NunitoSans-Bold;
+  src: url("../fonts/NunitoSans-700.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  /* metric match: the width probe (stardust/replica/fonts.md) measured Nunito Sans Bold +3.2 % / +2.8 % wider than
+     the captured Daxline bold/medium faces — the bold strings (card titles, dates, accordion headlines) wrapped one
+     line earlier than the source (events 360: 4 of 12 date bands; compact-class 360: 3 accordion titles). 97 %
+     brings the advance widths to the captured face; the ascent/descent overrides keep the line box. */
+  size-adjust: 97%;
+  ascent-override: 74%;
+  descent-override: 26%;
+  line-gap-override: 0%;
+}
+
+@font-face {
+  font-family: LindeGlobalIconFont;
+  src: url("../fonts/LindeGlobalIconFont.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: NotoSans-Variable-Light;
+  src: url("../fonts/NotoSans-Variable.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300;
+  font-variation-settings: "wdth" 85, "wght" 300;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: NotoSans-Variable-Regular;
+  src: url("../fonts/NotoSans-Variable.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-variation-settings: "wdth" 90, "wght" 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: NotoSans-Variable-Medi;
+  src: url("../fonts/NotoSans-Variable.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 650;
+  font-variation-settings: "wdth" 82, "wght" 650;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: NotoSans-Variable-Bold;
+  src: url("../fonts/NotoSans-Variable.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 800;
+  font-variation-settings: "wdth" 82, "wght" 800;
+  font-display: swap;
+}

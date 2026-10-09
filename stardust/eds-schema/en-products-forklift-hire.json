@@ -1,0 +1,948 @@
+{
+ "source": "http://localhost:8804/stardust/migrated/en/Products/Forklift-Hire/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Forklift Hire"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Flexible Hire Solutions On Demand"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Go to forklifts for hire",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Advantages",
+     "href": "#778038"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Forklift & Warehouse Truck Hire",
+     "href": "#778041"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Long-Term Hire",
+     "href": "#778036"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Contact",
+     "href": "#778046"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Forklifts for Hire for Any Job"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Are your order books bursting at the seams? Do you need help to cover a seasonal peak? Would you like to hire one or several forklifts on a flexible, short-term basis? With the Linde hire service, you can respond quickly and easily to a spike in your workload."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "As a reliable partner for forklift hire, Linde offers flexible solutions that meet your requirements and work perfectly together. Linde has more than 60,000 hire trucks available worldwide, and the customer can choose from a broad offer of forklift and warehouse trucks, depending on their requirements. Thanks to our highly qualified service technicians, our rental fleet is always at the cutting edge of technology and is serviced regularly to ensure it meets our high standards of quality."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "With a hire period of between one day and one year, we have various flexible options for you to choose from, making it easy for you to hire a range of industrial trucks and forklifts. To help you maximize safety and prevent accidents, we provide a series of training sessions on the proper operation of our hire forklifts. The training sessions can be delivered to you directly on-site or at the premises of your Linde Service partner."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Read more",
+     "href": "#read_more"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "An Overview of the Benefits of Linde Forklift Hire"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Variety"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The biggest hire fleet with more than 60,000 products and accessories worldwide"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Proximity"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Expansive hire service network with delivery and collection on demand"
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Service Support"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Support from the Linde service team whenever and wherever you need it"
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Flexibility"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Freedom to choose a hire period of between one day and one year"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Forklift & Warehouse Truck Hire"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Electric Forklift Hire",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental&sorting[field]=productType&sorting[direction]=ASC&productTypes[]=2377"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Electric forklifts boast an impressive compact drive unit that provides the utmost precision and maneuverability. These powerful attributes work together to ensure excellent handling capacity."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Hire me!",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental&sorting[field]=productType&sorting[direction]=ASC&productTypes[]=2377"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "IC Truck Hire",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental&sorting[field]=productType&sorting[direction]=ASC&productTypes[]=2376"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Intelligent controls and the tuning of the diesel, propellant gas, and natural gas engines, ensure that the necessary output is available at all times. The result: Higher handling capacity thanks to the hydrostatic drive."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Hire me!",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental&sorting[field]=productType&sorting[direction]=ASC&productTypes[]=2376"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Pallet Truck Hire",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental&sorting[field]=productType&sorting[direction]=ASC&productTypes[]=2375"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Electric pallet trucks ensure safe and efficient travel in even the tightest of spaces. They make your transport processes quicker—be it in the warehouse, for shipping, or when order picking."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Hire me!",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental&sorting[field]=productType&sorting[direction]=ASC&productTypes[]=2375"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Pallet Stackers Hire",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental&sorting[field]=productType&sorting[direction]=ASC&productTypes[]=2374"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Ideal for any transport distance and any lifting height. With their narrow chassis, pallet stackers are not only maneuverable, but also enable the utmost precision in load handling."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Hire me!",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental&sorting[field]=productType&sorting[direction]=ASC&productTypes[]=2374"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Very Narrow Aisle Truck Hire",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental&sorting[field]=productType&sorting[direction]=ASC&productTypes[]=2373"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Turret trucks and vertical order pickers are perfect for working in narrow aisles. They guarantee high handling capacities and safe handling processes in the tightest of spaces."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Hire me!",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental&sorting[field]=productType&sorting[direction]=ASC&productTypes[]=2373"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Reach Truck Hire",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental&sorting[field]=productType&sorting[direction]=ASC&productTypes[]=2372"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Reach trucks are specially designed for fast handling in narrow rack warehouses and guarantee efficient operations. This makes them the ideal choice for assignments in this environment."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Hire me!",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental&sorting[field]=productType&sorting[direction]=ASC&productTypes[]=2372"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Order Picker Hire",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental&sorting[field]=productType&sorting[direction]=ASC&productTypes[]=2371"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Order pickers are specially designed to provide fast, precise, and energy-saving order picking processes. Speeding up the picking procedure and reducing the strain on the operator are just two benefits of order pickers."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Hire me!",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental&sorting[field]=productType&sorting[direction]=ASC&productTypes[]=2371"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Tow Tractors and Platform Truck Hire",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental&sorting[field]=productType&sorting[direction]=ASC&productTypes[]=2370"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Electric tow tractors and platform trucks transport goods quickly, easily, and safely, even in narrow aisles. They ensure efficient and fatigue-free operation when transporting goods with tugger trains."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Hire me!",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental&sorting[field]=productType&sorting[direction]=ASC&productTypes[]=2370"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Long-Term Hire"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Do you need forklift or warehouse trucks for long-term use? Then Linde has a range of models for long-term hire that would be perfect for you."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "By forklift or warehouse trucks at constant monthly rates for custom hire periods, you are protected against depreciation and fluctuating interest rates. This does not tie up capital, and keeps you flexible on your balance sheet."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Leasing",
+     "href": "../../../en/Solutions/Financing/index.html#fsSectionId_765505"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Or why not book the Linde for forklift trucks with constant availability, service included. The Linde Rental Package offers you the advantages of a leased forklift, plus a complete maintenance and repair service at a fixed monthly rate. This gives you the certainty that your trucks are ready to go at all times, and allows you to foresee the costs in the long term."
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Rental Package",
+     "href": "../../../en/Solutions/Financing/index.html#fsSectionId_765507"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "If you have any questions or want to know more, please get in touch!",
+     "href": "https://www.linde-mh.com/en/Forms/Rent-A-Truck/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 6,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Hire the optimum forklift with our tailored advice"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "No matter which option you choose, Linde guarantees fast, easy processing and delivery of the products you need. Our service allows you to react to additional demands, last-minute changes, and unforeseeable events in a customized and cost-effective way and guarantees that your operations go uninterrupted. Another advantage of hiring a forklift from Linde Material Handling is that it gives you the opportunity to test out our product range first-hand."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The partner you can rely on at every step of the process"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Before"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Thanks to our comprehensive hire service network, you will always have a highly skilled contact person nearby."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Accessibility:"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Our experienced hire specialists work quickly to find you a flexible solution to suit your specific requirements."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Fast response:"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Our hire service team is up to speed with the latest technology and individual industry requirements. This allows Linde to offer professional support at all times and provide you with the best hire solution."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Industry knowledge:"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Every Linde site has a fleet of modern forklifts for short-term hire. With more than 60,000 forklifts for hire, our international hire fleet is able to cover any requirement, regardless of how particular it may be."
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Availability:"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "The customer has the freedom to choose the hire period according to their specific needs—be it for a day, a year, or just a few hours."
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Flexibility:"
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "During"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "If required, the equipment you need can be available within 24 hours of your order being received. Linde arranges fast delivery of the rental trucks at the right time, ensuring a convenient experience and no extra hassle for the customer."
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "Fast service:"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "An experienced Linde service technician checks the forklifts requested in good time before they are sent out, which ensures that they always meet our high standards as well as any legal and safety-related requirements."
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "Reliability:"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "Whether you need to change the requirements of the hire trucks or the period of hire, Linde’s hire service offers as much flexibility as you could possibly need. For example, we can provide you with different equipment upon request, or shorten or extend the hire period without any hassle."
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Adaptability:"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "If you need assistance or extra equipment at short notice, our hire service team is on hand to offer help and advice for the duration of your hire period."
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Assistance:"
+    },
+    {
+     "role": "heading",
+     "order": 20,
+     "text": "After"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "Our hire fleet features cutting-edge technology at affordable prices. That means you will never have any nasty surprises to contend with at the end of the hire period."
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "Warranty:"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "Administration and invoicing are simple and transparent. We keep the administrative workload to an absolute minimum."
+    },
+    {
+     "role": "body",
+     "order": 24,
+     "text": "Transparency:"
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "Your feedback helps us to improve our services and solutions. The feedback from our regular customer surveys has a direct impact on the service we offer."
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Satisfaction:"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 15,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 11
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "2"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "3"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "4"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "5"
+    }
+   ],
+   "imgCount": 5,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.media-carousel-item",
+     "count": 5,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Get in touch!"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "If you have any questions, require further information about the Linde hire service or our hire trucks, or you would like to hire a forklift, then please contact us. We look forward to assisting you further with our quick and simple service!"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Submit an inquiry via our contact form here!",
+     "href": "https://www.linde-mh.com/en/Forms/Rent-A-Truck/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Linde Solutions for the 3PL Sector",
+     "href": "../../../en/Solutions/Industries/3PL/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Linde offers solutions for 3PL service providers: solving staff shortages, increasing the flexibility of vehicle fleets, using big data, maximizing safety, and increasing energy efficiency."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Industries/3PL/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "K2 Systems Relies on Linde MH—Logistics Solution from a Single Source",
+     "href": "../../../en/About-us/Magazine/K2-Systems/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "K2 Systems, a leading manufacturer of PV mounting systems, called on Linde MH’s comprehensive intralogistics expertise for its new logistics center. The result? Customized processes, perfectly coordinated trucks, and maximum efficiency—all from a single source."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/K2-Systems/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Linde Safety Scan",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Scan.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Safety is a key productivity factor when mobile handling equipment and pedestrian personnel are moving around in the same space. The Linde Safety Scan effectively minimizes the potential safety risks that can occur in a working environment."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Scan.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "The Right Energy System",
+     "href": "../../../en/Solutions/Energy-Systems/index.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "From Combustion Engine to Hydrogen Truck: Linde Material Handling offers holistic energy solutions for every need. With energy consulting from Linde, you can reduce your energy costs, increase the availability of your fleet and achieve your sustainability goals."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Energy-Systems/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Safety Consulting",
+     "href": "../../../en/Solutions/Warehouse-Safety/Safety-consulting/index.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Safety is a key productivity factor when forklift trucks and pedestrians are moving around in the same space. Safety Consulting from Linde Material Handling enables companies to consistently minimize the safety risks associated with their internal traffic operations."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Warehouse-Safety/Safety-consulting/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "Linde Virtual Showroom App",
+     "href": "../../../en/About-us/Magazine/Linde-Showroom-App.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "The Virtual Showroom app from Linde Material Handling has been available for iOS and Android systems since last year. The app gives smartphone and tablets users a 360° interactive experience, enabling them to play around with 27 virtual industrial trucks against any background, with options to rotate, shrink, enlarge, and much more."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Linde-Showroom-App.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "Linde is the favourite of the industry",
+     "href": "../../../en/About-us/Magazine/MM-Research.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "For users, Linde Material Handling is the most popular material handling equipment manufacturer. This was the result of a survey conducted by the trade journal MM Logistik. Respondents praised the quality, performance and availability of the vehicles. Linde also scores highly in terms of service and training."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/MM-Research.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Consulting",
+     "href": "https://www.linde-mh.com/en/Solutions/Consulting/"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "Linde offers a comprehensive consulting service for thorough evaluation. The service ranges from analysis and simulation to fleet redesign."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/Solutions/Consulting/"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "Full of tricks",
+     "href": "../../../en/About-us/Magazine/Frueh-Koelsch.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Cölner Hofbräu P. Josef Früh KG in Cologne-Feldkassel brews and loads thousands of litres of Kölsch every day. Real hard work for Linde's lithium-ion forklifts, which passed their trial run at the company with flying colors."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Frueh-Koelsch.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "Analyzed Efficiently",
+     "href": "../../../en/About-us/Magazine/Grass.html"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "For years, the hinge specialists at Reinheim-based Grass GmbH have been carrying out their warehouse and production logistics tasks using a forklift truck fleet that has grown gradually over time. Using a fleet optimization analysis, experts from Linde Material Handling identified an incredible amount of potential within this established structure. They standardized and reduced the fleet and, in the process, made it much more powerful, cost-efficient, and energy-saving."
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Grass.html"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "More Fish for Life",
+     "href": "../../../en/About-us/Magazine/PP-Group/index.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "Together with Dutch Linde network partner Motrac, large fishery company Parlevliet & Van der Plas has brought its intralogistics right up to date at several sites. The high quality of Linde’s trucks, as well as solutions to ensure comprehensive safety and comfort, were a key factor in the decision to work together."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/PP-Group/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "Material Flow Consulting",
+     "href": "../../../en/Solutions/Consulting/Material-Flow-Consulting/index.html"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "Linde Material Handling offers its customers comprehensive system consulting in order to help them optimize their internal material flows."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Consulting/Material-Flow-Consulting/index.html"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,266 @@
+/* stylelint-disable no-descending-specificity -- chrome rules keep the source cascade order */
+
+/* footer — linde-mh.com/en chrome, re-authored from canon.css (.footer family + share-bar module).
+   The footer's OWN box (72px top margin, border, 2.5vw/1vw padding, 1600 cap) sits on the host. */
+footer .footer.block {
+  position: relative;
+  max-width: var(--shell-max-width);
+  margin: 72px auto 0;
+  border-top: 1px solid var(--color-lightgrey);
+  padding: 2.5vw 0 1vw;
+  background: var(--color-white);
+}
+
+footer {
+  display: flow-root; /* contains the note's bottom margin like the source body-container */
+}
+
+footer .footer-wrapper {
+  max-width: var(--shell-max-width);
+  margin: 0 auto;
+}
+
+footer .footer ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer .footer p {
+  margin: 0;
+}
+
+footer .footer .btn {
+  display: inline-block;
+  position: relative;
+  border: 1px solid transparent;
+  padding: 8px 16px;
+  background: none;
+  font: inherit;
+  font-size: 1rem;
+  line-height: 30px;
+  text-align: center;
+  cursor: pointer;
+}
+
+footer .footer .btn-icon,
+footer .footer .btn-social {
+  width: 48px;
+  height: 48px;
+  padding: 12px;
+  line-height: 0;
+}
+
+footer .footer .btn-icon .icon,
+footer .footer .btn-social .icon {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  line-height: 24px;
+}
+
+footer .footer .btn-primary {
+  background-color: var(--color-red);
+  color: var(--color-white);
+}
+
+footer .footer .btn-linkedin {
+  color: var(--color-linkedin);
+}
+
+footer .footer .btn-facebook {
+  color: var(--color-facebook);
+}
+
+footer .footer .btn-instagram {
+  color: var(--color-instagram);
+}
+
+footer .footer .btn-youtube {
+  color: var(--color-youtube);
+}
+
+/* share bar */
+footer .footer.block > .share-btn {
+  position: relative;
+  max-width: 1262px;
+  margin: -33px 0 16px;
+  padding: 0 0 0 16px;
+  text-align: left;
+}
+
+footer .footer.block > .share-btn > .share-btn {
+  margin: 0;
+  padding-left: 16px;
+}
+
+footer .footer .share-title {
+  color: inherit;
+  line-height: 1;
+}
+
+footer .footer .share-title .btn {
+  width: 120px;
+  outline: 8px solid var(--color-white);
+  background-color: var(--color-red);
+  color: var(--color-white);
+  box-shadow: 0 1px 6px 0 rgb(0 0 0 / 20%);
+}
+
+footer .footer .share-title:hover .btn {
+  background-color: var(--color-primary-700);
+}
+
+footer .footer .share-btn-container {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 16px;
+  z-index: 2;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  background: var(--color-white);
+  box-shadow: 0 1px 6px 0 rgb(0 0 0 / 20%);
+}
+
+footer .footer .share-btn.open > .share-btn-container {
+  display: flex;
+}
+
+footer .footer .share-btn-container .title {
+  margin-right: 8px;
+  font-family: var(--bold-font-family);
+}
+
+/* link band */
+footer .footer .footer-links {
+  border-bottom: 1px solid var(--color-lightgrey);
+  padding: 0 8px 25px 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  text-align: right;
+}
+
+footer .footer .footer-links li {
+  display: inline-block;
+  padding: 8px;
+}
+
+footer .footer .footer-links li a {
+  color: var(--color-darkgrey);
+  font-family: var(--body-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+footer .footer .footer-links li a:hover {
+  color: var(--color-red);
+}
+
+/* social band */
+footer .footer-socialmedia {
+  padding: 16px 8px 16px 0;
+  line-height: 48px;
+  text-align: right;
+}
+
+footer .footer .footer-socialmedia-title {
+  display: inline;
+  margin: 0 12px 0 0;
+  color: var(--color-darkgrey);
+  font-family: var(--body-font-family);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.5rem;
+}
+
+/* font-size 0: no whitespace advance between the inline-block icons (live: 79px label + 5 x 48 fit 352) */
+footer .footer-socialmedia > ul {
+  display: inline;
+  font-size: 0;
+  line-height: 1.5;
+  text-align: center;
+}
+
+footer .footer-socialmedia > ul > li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  vertical-align: top;
+}
+
+/* live: the inline-item whitespace between the 48px icons (~5px at 18px root, ~4px at 16px) */
+footer .footer-socialmedia > ul > li + li {
+  margin-left: 4px;
+}
+
+footer .footer-socialmedia .btn {
+  width: 48px;
+  height: 48px;
+  padding: 12px;
+  background: transparent;
+  line-height: 0;
+}
+
+/* copyright + business-customer note */
+footer .footer .footer-copyright {
+  display: block;
+  position: absolute;
+  width: 100%;
+  padding: 16px;
+  color: var(--color-textgrey);
+  font-family: var(--body-font-family);
+  font-size: 14px;
+  line-height: 1.5rem; /* live: the 27px root line box */
+  text-align: right;
+}
+
+footer .footer-a11y-note {
+  display: block;
+  margin: 32px auto 16px;
+  padding: 16px;
+  background-color: var(--color-black);
+  color: var(--color-white);
+  font-size: 1rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+@media (width >= 960px) {
+  footer .footer .footer-copyright {
+    bottom: 25px;
+    text-align: left;
+  }
+
+  footer .footer-a11y-note {
+    margin: 0 auto 16px;
+  }
+}
+
+@media (width >= 1024px) {
+  footer .footer-socialmedia > ul > li + li {
+    margin-left: 5px;
+  }
+
+  footer .footer.block > .share-btn {
+    max-width: 1216px;
+    margin: -56px auto 16px;
+    padding: 0;
+  }
+
+  footer .footer.block > .share-btn > .share-btn {
+    padding-left: 0;
+  }
+
+  footer .footer .share-btn-container {
+    left: 0;
+  }
+
+  footer .footer .footer-copyright {
+    top: 100px;
+    width: 50%;
+  }
+}

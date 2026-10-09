@@ -1,0 +1,366 @@
+{
+ "source": "http://localhost:8805/stardust/migrated/en/Products/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Linde forklift trucks and warehouse trucks"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Our Product Portfolio"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Always the right product for you"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "With 77 product lines, Linde Material Handling offers customers the broadest range of intralogistics products. With the different chassis and mast variants, battery sizes, designs and cabins, as well as a large amount of special equipment available, the products are always configured to meet the respective requirements."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "You can find an overview of the product groups here:"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "E-Trucks",
+     "href": "../../en/Products/E-Trucks/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde Material Handling electric forklift trucks are ideal for precise and efficient logistics processes thanks to their special compact axle."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../en/Products/E-Trucks/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Diesel Forklifts",
+     "href": "../../en/Products/Diesel-Forklifts/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "When it comes to diesel forklifts, Linde sets the benchmarks for productivity and efficiency. Load capacity from 1.4 to 8 tonnes: There is a Linde diesel forklift for every scenario."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../en/Products/Diesel-Forklifts/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Gas Forklifts",
+     "href": "../../en/Products/Gas-forklifts/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Load capacity from 1.4 to 8 tonnes: Gas forklifts from Linde Material Handling are the perfect embodiment of performance and efficiency, for every purpose."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../en/Products/Gas-forklifts/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Heavy trucks",
+     "href": "../../en/Products/Heavy-Duty-Forklifts/index.html"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Up to 18 ton lifting capacity: The robust heavy trucks from Linde Material Handling perform excellently even in particularly tough conditions."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Find out more",
+     "href": "../../en/Products/Heavy-Duty-Forklifts/index.html"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Pallet Trucks",
+     "href": "../../en/Products/Pallet-Trucks/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Pallet trucks from Linde Material Handling ensure rapid transport processes in the warehouse, for truck deliveries or order picking."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../en/Products/Pallet-Trucks/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Hand pallet trucks",
+     "href": "../../en/Products/Hand-Pallet-Trucks/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Linde Material Handling offers a wide selection of hand pallet trucks, ranging from its standard design to specialist pallet truck models with weighing scales and scissor lifts. Whatever option you choose, these versatile pieces of kit are a must for any warehouse."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../en/Products/Hand-Pallet-Trucks/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Pallet stackers",
+     "href": "../../en/Products/Pallet-Stackers/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Linde Material Handling pallet stackers lift loads of up to 2 tons at heights of up to 6 meters – 100% safely and precisely, even in the tightest of spaces."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../en/Products/Pallet-Stackers/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Very narrow aisle trucks",
+     "href": "../../en/Products/Very-Narrow-Aisle-Trucks/index.html"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "High handling performance and particularly safe handling processes in narrow aisles - Linde Material Handling has designed its turret trucks and vertical order pickers to meet the challenges of very narrow aisles."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Find out more",
+     "href": "../../en/Products/Very-Narrow-Aisle-Trucks/index.html"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Reach Trucks",
+     "href": "../../en/Products/Reach-Trucks/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Load handling in warehouses requires numerous movements and maneuvering, often in confined spaces and at height. Linde reach trucks are tailor-made for these conditions."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../en/Products/Reach-Trucks/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Order Pickers",
+     "href": "../../en/Products/Order-Pickers/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "With their special design concept, Linde order pickers ensure fast, precise, and comfortable picking processes."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../en/Products/Order-Pickers/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Tow tractors and platform trucks",
+     "href": "../../en/Products/Tow-Trucks/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The tow tractors and platform trucks from Linde Material Handling provide rapid and reliable transport, even with little space and in narrow aisles."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../en/Products/Tow-Trucks/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Tugger Trains",
+     "href": "../../en/Products/Tugger-Trains/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Powerful, versatile, and safe: Linde Material Handling has the right tugger train for every task, whether indoors or outdoors."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../en/Products/Tugger-Trains/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Automated industrial trucks",
+     "href": "../../en/Products/Automated-Trucks/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Linde Material Handling offers a wide range of automated industrial trucks for flexible and scalable automation solutions. The electric forklifts, pallet trucks, and tow tractors from the MATIC series are equipped with intelligent navigation and safety technology, and work together with people in the tightest of spaces."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../en/Products/Automated-Trucks/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Explosion-Protected Trucks",
+     "href": "../../en/Products/Explosion-Proof-Trucks/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The explosion-proof trucks from Linde Material Handling combine the tried-and-tested advantages of series-produced trucks with comprehensive explosion protection measures as per the ATEX Product Directives."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../en/Products/Explosion-Proof-Trucks/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

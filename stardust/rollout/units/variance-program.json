@@ -1,0 +1,3595 @@
+{
+  "archetype": "https://www.linde-mh.com/en/Products/E-Trucks/",
+  "width": 1440,
+  "tolerance": 2,
+  "probes": {
+    "stage": ".header-image",
+    "headline": ".layout-100-headline--fixed h2",
+    "band": ".layout-100--flex .text-container",
+    "split": ".layout-50--flex",
+    "feature": ".layout-40-60-reverse--flex",
+    "browser": ".content-browser",
+    "teaser": ".teaser",
+    "carousel": ".teaser-carousel",
+    "cta": ".inline-button-row"
+  },
+  "archetypeRaw": {
+    "sections": [],
+    "probes": {
+      "stage": {
+        "sel": ".header-image",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 1440,
+            "h": 494
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "0px 0px 0px 0px",
+          "font": "daxlinewebpro 18px/27px 400",
+          "borderRadius": "0px",
+          "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+          "image": {
+            "w": 792,
+            "h": 446
+          },
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "E-Trucks Electronic Compact Drive for Precision and Performa"
+      },
+      "headline": {
+        "sel": ".layout-100-headline--fixed h2",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 1208,
+            "h": 68
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "0px 0px 0px 0px",
+          "font": "daxwebpro-medi 54px/67.5px 400",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Five Times the Output"
+      },
+      "band": {
+        "sel": ".layout-100--flex .text-container",
+        "count": 4,
+        "first": {
+          "rect": {
+            "w": 912,
+            "h": 664
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "72px 72px 72px 72px",
+          "font": "daxlinewebpro 18px/27px 400",
+          "borderRadius": "0px",
+          "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 2,
+        "text": "Versatile, Comfortable, and Cost-Effective Linde Material Ha"
+      },
+      "split": {
+        "sel": ".layout-50--flex",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 1440,
+            "h": 503
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "0px 0px 0px 0px",
+          "font": "daxlinewebpro 18px/27px 400",
+          "borderRadius": "0px",
+          "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Ergonomics for Fatigue-Free Work Linde electric forklift tru"
+      },
+      "feature": {
+        "sel": ".layout-40-60-reverse--flex",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 1440,
+            "h": 593
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "0px 0px 0px 0px",
+          "font": "daxlinewebpro 18px/27px 400",
+          "borderRadius": "0px",
+          "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255)",
+          "image": {
+            "w": 1024,
+            "h": 593
+          },
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "In Focus: Compact Axle The Linde compact axle drive brings t"
+      },
+      "browser": {
+        "sel": ".content-browser",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 1216,
+            "h": 282
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "0px 0px 0px 0px",
+          "font": "daxlinewebpro 18px/27px 400",
+          "borderRadius": "0px",
+          "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Effective Safe Cost-Effective Robust Comfortable Effective L"
+      },
+      "teaser": {
+        "sel": ".teaser",
+        "count": 12,
+        "first": {
+          "rect": {
+            "w": 280,
+            "h": 686
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "color(srgb 0.275686 0.331569 0.342745)",
+          "color": "rgb(255, 255, 255)",
+          "padding": "0px 0px 0px 0px",
+          "font": "daxlinewebpro 18px/27px 400",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": {
+            "w": 278,
+            "h": 158
+          },
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Compact top performer Maximum indoor goods handling: The Lin"
+      },
+      "carousel": {
+        "sel": ".teaser-carousel",
+        "count": 0
+      },
+      "cta": {
+        "sel": ".inline-button-row",
+        "count": 1,
+        "first": {
+          "rect": {
+            "w": 1216,
+            "h": 71
+          },
+          "backgroundLayers": [],
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(34, 34, 34)",
+          "padding": "0px 0px 0px 0px",
+          "font": "daxlinewebpro 18px/27px 400",
+          "borderRadius": "0px",
+          "heading": null,
+          "image": null,
+          "listStyle": "disc",
+          "before": null
+        },
+        "clusters": 1,
+        "text": "Find your truck here"
+      }
+    }
+  },
+  "siblings": [
+    {
+      "url": "https://www.linde-mh.com/en/About-us/Awards/",
+      "findings": [
+        {
+          "kind": "COUNT",
+          "probe": "headline",
+          "msg": "1 → 12 matches"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "band",
+          "msg": "\".layout-100--flex .text-container\" matches 4 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "split",
+          "msg": "\".layout-50--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "feature",
+          "msg": "\".layout-40-60-reverse--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "browser",
+          "msg": "rect{h 282 → 1092}; image null → [object Object]"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{h 686 → 746}"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "cta",
+          "msg": "\".inline-button-row\" matches 1 on the archetype, 0 on the sibling"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Over 80 awards in 32 years, and more to come Proof for excel"
+          },
+          "headline": {
+            "sel": ".layout-100-headline--fixed h2",
+            "count": 12,
+            "first": {
+              "rect": {
+                "w": 1208,
+                "h": 68
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 54px/67.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Brand"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 0
+          },
+          "split": {
+            "sel": ".layout-50--flex",
+            "count": 0
+          },
+          "feature": {
+            "sel": ".layout-40-60-reverse--flex",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 1092
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 640,
+                "h": 360
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Best Brand Award Image Ranking Award Business Superbrands Aw"
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 12,
+            "first": {
+              "rect": {
+                "w": 280,
+                "h": 746
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "color(srgb 0.275686 0.331569 0.342745)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": {
+                "w": 278,
+                "h": 158
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "A listening ear for every situation Psychological counseling"
+          },
+          "carousel": {
+            "sel": ".teaser-carousel",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".inline-button-row",
+            "count": 0
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/About-us/Certificates/",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "stage",
+          "msg": "heading h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32) → null"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "headline",
+          "msg": "1 → 7 matches"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "band",
+          "msg": "4 → 1 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "band",
+          "msg": "2 → 1 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "band",
+          "msg": "rect{h 664 → 323}; color rgb(34, 34, 34) → rgb(255, 255, 255); heading h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34) → null"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "split",
+          "msg": "\".layout-50--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "feature",
+          "msg": "\".layout-40-60-reverse--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "browser",
+          "msg": "\".content-browser\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "teaser",
+          "msg": "\".teaser\" matches 12 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "cta",
+          "msg": "1 → 7 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "cta",
+          "msg": "rect{h 71 → 224}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Our Certificates"
+          },
+          "headline": {
+            "sel": ".layout-100-headline--fixed h2",
+            "count": 7,
+            "first": {
+              "rect": {
+                "w": 1208,
+                "h": 68
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 54px/67.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Quality Management - ISO 9001"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 912,
+                "h": 323
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "72px 72px 72px 72px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Management systems are a generally accepted standard in many"
+          },
+          "split": {
+            "sel": ".layout-50--flex",
+            "count": 0
+          },
+          "feature": {
+            "sel": ".layout-40-60-reverse--flex",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 0
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 0
+          },
+          "carousel": {
+            "sel": ".teaser-carousel",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".inline-button-row",
+            "count": 7,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 224
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Certificate ISO 9001:2015 (Linde Material Handling, Aschaffe"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/About-us/Sustainability/",
+      "findings": [
+        {
+          "kind": "COUNT",
+          "probe": "headline",
+          "msg": "1 → 7 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "headline",
+          "msg": "rect{h 68 → 135}"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "band",
+          "msg": "\".layout-100--flex .text-container\" matches 4 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "split",
+          "msg": "\".layout-50--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "feature",
+          "msg": "\".layout-40-60-reverse--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "browser",
+          "msg": "\".content-browser\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "12 → 6 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "teaser",
+          "msg": "1 → 3 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{w 280 → 1216, h 686 → 240}; backgroundColor color(srgb 0.275686 0.331569 0.342745) → rgb(238, 239, 243); color rgb(255, 255, 255) → rgb(34, 34, 34); heading null → h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34); image{w 278 → 400, h 158 → 227}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "cta",
+          "msg": "1 → 5 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "cta",
+          "msg": "rect{w 1216 → 730, h 71 → 34}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Sustainability at Linde Material Handling How We Put Respons"
+          },
+          "headline": {
+            "sel": ".layout-100-headline--fixed h2",
+            "count": 7,
+            "first": {
+              "rect": {
+                "w": 1208,
+                "h": 135
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 54px/67.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Environmental Protection at Linde Material Handling"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 0
+          },
+          "split": {
+            "sel": ".layout-50--flex",
+            "count": 0
+          },
+          "feature": {
+            "sel": ".layout-40-60-reverse--flex",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 0
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 6,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 240
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 400,
+                "h": 227
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 3,
+            "text": "Highest award for commitment to sustainability Linde Materia"
+          },
+          "carousel": {
+            "sel": ".teaser-carousel",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".inline-button-row",
+            "count": 5,
+            "first": {
+              "rect": {
+                "w": 730,
+                "h": 34
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Read our sustainability report here"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Linde-Core/Linde-Ergonomics.html",
+      "findings": [
+        {
+          "kind": "COUNT",
+          "probe": "headline",
+          "msg": "1 → 7 matches"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "band",
+          "msg": "\".layout-100--flex .text-container\" matches 4 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "split",
+          "msg": "rect{h 503 → 720}; heading h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34) → h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255); image null → [object Object]"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "feature",
+          "msg": "\".layout-40-60-reverse--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "browser",
+          "msg": "1 → 3 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "browser",
+          "msg": "rect{h 282 → 534}; image null → [object Object]"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "12 → 6 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{h 686 → 799}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "cta",
+          "msg": "1 → 7 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "cta",
+          "msg": "rect{h 71 → 56}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Ergonomics at Linde Material Handling People and technology "
+          },
+          "headline": {
+            "sel": ".layout-100-headline--fixed h2",
+            "count": 7,
+            "first": {
+              "rect": {
+                "w": 1208,
+                "h": 68
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 54px/67.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "The advantages of ergonomic trucks"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 0
+          },
+          "split": {
+            "sel": ".layout-50--flex",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 720
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255)",
+              "image": {
+                "w": 720,
+                "h": 720
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "12 Linde Steer Control The Linde Steer Control operating sys"
+          },
+          "feature": {
+            "sel": ".layout-40-60-reverse--flex",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 3,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 534
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 640,
+                "h": 360
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Linde Load Control Hydrostatic drive Dual-pedal control Lind"
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 6,
+            "first": {
+              "rect": {
+                "w": 280,
+                "h": 799
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "color(srgb 0.275686 0.331569 0.342745)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": {
+                "w": 278,
+                "h": 158
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "K2 Systems Relies on Linde MH—Logistics Solution from a Sing"
+          },
+          "carousel": {
+            "sel": ".teaser-carousel",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".inline-button-row",
+            "count": 7,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 56
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Want to find out more about the benefits of ergonomic trucks"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Linde-Core/Linde-Productivity.html",
+      "findings": [
+        {
+          "kind": "PROBE",
+          "probe": "stage",
+          "msg": "heading h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32) → null"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "headline",
+          "msg": "\".layout-100-headline--fixed h2\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "band",
+          "msg": "4 → 1 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "band",
+          "msg": "2 → 1 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "band",
+          "msg": "rect{h 664 → 634}; color rgb(34, 34, 34) → rgb(255, 255, 255); heading h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34) → h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255)"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "split",
+          "msg": "\".layout-50--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "feature",
+          "msg": "\".layout-40-60-reverse--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "browser",
+          "msg": "\".content-browser\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{h 686 → 799}"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "cta",
+          "msg": "\".inline-button-row\" matches 1 on the archetype, 0 on the sibling"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Productivity Redefined"
+          },
+          "headline": {
+            "sel": ".layout-100-headline--fixed h2",
+            "count": 0
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 912,
+                "h": 634
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "72px 72px 72px 72px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "From the cost center to the value-added factor Logistics is "
+          },
+          "split": {
+            "sel": ".layout-50--flex",
+            "count": 0
+          },
+          "feature": {
+            "sel": ".layout-40-60-reverse--flex",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 0
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 12,
+            "first": {
+              "rect": {
+                "w": 280,
+                "h": 799
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "color(srgb 0.275686 0.331569 0.342745)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": {
+                "w": 278,
+                "h": 158
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "K2 Systems Relies on Linde MH—Logistics Solution from a Sing"
+          },
+          "carousel": {
+            "sel": ".teaser-carousel",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".inline-button-row",
+            "count": 0
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Products/Approved-Trucks/",
+      "findings": [
+        {
+          "kind": "COUNT",
+          "probe": "headline",
+          "msg": "1 → 5 matches"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "band",
+          "msg": "\".layout-100--flex .text-container\" matches 4 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "split",
+          "msg": "\".layout-50--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "feature",
+          "msg": "\".layout-40-60-reverse--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "browser",
+          "msg": "\".content-browser\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{h 686 → 746}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "cta",
+          "msg": "1 → 3 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "cta",
+          "msg": "rect{w 1216 → 730, h 71 → 79}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Used Forklifts Individual Solutions with Approved Trucks To "
+          },
+          "headline": {
+            "sel": ".layout-100-headline--fixed h2",
+            "count": 5,
+            "first": {
+              "rect": {
+                "w": 1208,
+                "h": 68
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 54px/67.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Three steps to your Linde used forklift"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 0
+          },
+          "split": {
+            "sel": ".layout-50--flex",
+            "count": 0
+          },
+          "feature": {
+            "sel": ".layout-40-60-reverse--flex",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 0
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 12,
+            "first": {
+              "rect": {
+                "w": 280,
+                "h": 746
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "color(srgb 0.275686 0.331569 0.342745)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": {
+                "w": 278,
+                "h": 158
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Linde Solutions for the 3PL Sector Linde offers solutions fo"
+          },
+          "carousel": {
+            "sel": ".teaser-carousel",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".inline-button-row",
+            "count": 3,
+            "first": {
+              "rect": {
+                "w": 730,
+                "h": 79
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "You can find your used forklift from Linde here! Download ou"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Products/Diesel-Forklifts/",
+      "findings": [
+        {
+          "kind": "COUNT",
+          "probe": "headline",
+          "msg": "1 → 6 matches"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "band",
+          "msg": "4 → 1 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "band",
+          "msg": "2 → 1 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "band",
+          "msg": "rect{h 664 → 565}; color rgb(34, 34, 34) → rgb(255, 255, 255); heading h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34) → h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255)"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "split",
+          "msg": "\".layout-50--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "feature",
+          "msg": "\".layout-40-60-reverse--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "browser",
+          "msg": "rect{h 282 → 654}; image null → [object Object]"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "12 → 21 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "teaser",
+          "msg": "1 → 4 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{w 280 → 384, h 686 → 429}; backgroundColor color(srgb 0.275686 0.331569 0.342745) → rgb(238, 239, 243); color rgb(255, 255, 255) → rgb(34, 34, 34); heading null → h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34); image{w 278 → 382, h 158 → 217}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "cta",
+          "msg": "1 → 5 matches"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Diesel Forklifts The Powerhouses View all our diesel forklif"
+          },
+          "headline": {
+            "sel": ".layout-100-headline--fixed h2",
+            "count": 6,
+            "first": {
+              "rect": {
+                "w": 1208,
+                "h": 68
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 54px/67.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Agile All-Rounders with a Diesel Engine"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 912,
+                "h": 565
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "72px 72px 72px 72px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Custom-Built Every application is different. That's why Lind"
+          },
+          "split": {
+            "sel": ".layout-50--flex",
+            "count": 0
+          },
+          "feature": {
+            "sel": ".layout-40-60-reverse--flex",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 654
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 640,
+                "h": 360
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Safety Ergonomics Handling Servicing Connectivity Safety Whe"
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 21,
+            "first": {
+              "rect": {
+                "w": 384,
+                "h": 429
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 382,
+                "h": 217
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 4,
+            "text": "H16 – H20 Constructed for excellent handling performance in "
+          },
+          "carousel": {
+            "sel": ".teaser-carousel",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".inline-button-row",
+            "count": 5,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 71
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Interested in acquiring a Linde diesel forklift truck? If so"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Products/Explosion-Proof-Trucks/",
+      "findings": [
+        {
+          "kind": "COUNT",
+          "probe": "headline",
+          "msg": "1 → 7 matches"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "band",
+          "msg": "4 → 1 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "band",
+          "msg": "2 → 1 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "band",
+          "msg": "rect{w 912 → 592, h 664 → 332}; padding 72px 72px 72px 72px → 0px 0px 0px 0px"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "split",
+          "msg": "\".layout-50--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "feature",
+          "msg": "\".layout-40-60-reverse--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "browser",
+          "msg": "rect{h 282 → 825}; image null → [object Object]"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "12 → 13 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "teaser",
+          "msg": "1 → 2 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{w 280 → 1216, h 686 → 234}; backgroundColor color(srgb 0.275686 0.331569 0.342745) → rgb(238, 239, 243); color rgb(255, 255, 255) → rgb(34, 34, 34); heading null → h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34); image{w 278 → 400, h 158 → 227}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "cta",
+          "msg": "1 → 4 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "cta",
+          "msg": "rect{w 1216 → 730, h 71 → 34}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Explosion protection in intralogistics Safely through the ha"
+          },
+          "headline": {
+            "sel": ".layout-100-headline--fixed h2",
+            "count": 7,
+            "first": {
+              "rect": {
+                "w": 1208,
+                "h": 68
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 54px/67.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "The Right Protection for any Potential Hazard"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 592,
+                "h": 332
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Series Level Explosion Protection Linde MH’s explosion-prote"
+          },
+          "split": {
+            "sel": ".layout-50--flex",
+            "count": 0
+          },
+          "feature": {
+            "sel": ".layout-40-60-reverse--flex",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 825
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 640,
+                "h": 360
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Linde Reverse and Front Assist Camera Linde Safety Guard Lin"
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 13,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 234
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 400,
+                "h": 227
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "It’s all about that certain EXtra Inver GmbH, part of Sherwi"
+          },
+          "carousel": {
+            "sel": ".teaser-carousel",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".inline-button-row",
+            "count": 4,
+            "first": {
+              "rect": {
+                "w": 730,
+                "h": 34
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Schedule a consultation now"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Products/Forklift-Hire/",
+      "findings": [
+        {
+          "kind": "COUNT",
+          "probe": "headline",
+          "msg": "1 → 6 matches"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "band",
+          "msg": "\".layout-100--flex .text-container\" matches 4 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "split",
+          "msg": "\".layout-50--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "feature",
+          "msg": "\".layout-40-60-reverse--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "browser",
+          "msg": "\".content-browser\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "12 → 20 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "teaser",
+          "msg": "1 → 2 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{h 686 → 490}; backgroundColor color(srgb 0.275686 0.331569 0.342745) → rgb(238, 239, 243); color rgb(255, 255, 255) → rgb(34, 34, 34); heading null → h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "cta",
+          "msg": "1 → 2 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "cta",
+          "msg": "rect{w 1216 → 603}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Forklift Hire Flexible Hire Solutions On Demand Go to forkli"
+          },
+          "headline": {
+            "sel": ".layout-100-headline--fixed h2",
+            "count": 6,
+            "first": {
+              "rect": {
+                "w": 1208,
+                "h": 68
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 54px/67.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Forklifts for Hire for Any Job"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 0
+          },
+          "split": {
+            "sel": ".layout-50--flex",
+            "count": 0
+          },
+          "feature": {
+            "sel": ".layout-40-60-reverse--flex",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 0
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 20,
+            "first": {
+              "rect": {
+                "w": 280,
+                "h": 490
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 278,
+                "h": 158
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "Electric Forklift Hire Electric forklifts boast an impressiv"
+          },
+          "carousel": {
+            "sel": ".teaser-carousel",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".inline-button-row",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 603,
+                "h": 71
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "If you have any questions or want to know more, please get i"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Products/Forklift-Truck/",
+      "findings": [
+        {
+          "kind": "COUNT",
+          "probe": "headline",
+          "msg": "1 → 14 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "headline",
+          "msg": "rect{h 68 → 135}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "band",
+          "msg": "4 → 1 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "band",
+          "msg": "2 → 1 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "band",
+          "msg": "rect{h 664 → 446}; color rgb(34, 34, 34) → rgb(255, 255, 255); heading h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34) → h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255)"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "split",
+          "msg": "\".layout-50--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "feature",
+          "msg": "\".layout-40-60-reverse--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "browser",
+          "msg": "rect{h 282 → 654}; image null → [object Object]"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "12 → 24 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "teaser",
+          "msg": "1 → 3 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{h 686 → 580}; backgroundColor color(srgb 0.275686 0.331569 0.342745) → rgb(238, 239, 243); color rgb(255, 255, 255) → rgb(34, 34, 34); heading null → h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "cta",
+          "msg": "1 → 3 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "cta",
+          "msg": "rect{h 71 → 56}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Forklift Trucks from Linde Material Handling The Number One "
+          },
+          "headline": {
+            "sel": ".layout-100-headline--fixed h2",
+            "count": 14,
+            "first": {
+              "rect": {
+                "w": 1208,
+                "h": 135
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 54px/67.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Forklift Trucks from Linde MH: Tailored Power Unit Solutions"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 912,
+                "h": 446
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "72px 72px 72px 72px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Customized Trucks for Every Requirement From load capacity a"
+          },
+          "split": {
+            "sel": ".layout-50--flex",
+            "count": 0
+          },
+          "feature": {
+            "sel": ".layout-40-60-reverse--flex",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 654
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 640,
+                "h": 360
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Heat and Dust-Resistant Forklift Trucks Cold-Store Forklift "
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 24,
+            "first": {
+              "rect": {
+                "w": 280,
+                "h": 580
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 278,
+                "h": 158
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 3,
+            "text": "Compact Electric Trucks The agile E14 – E20, Ei14 – Ei20, an"
+          },
+          "carousel": {
+            "sel": ".teaser-carousel",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".inline-button-row",
+            "count": 3,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 56
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "View all diesel and gas forklifts in the product finder View"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Products/IC-Trucks/",
+      "findings": [
+        {
+          "kind": "MISSING",
+          "probe": "headline",
+          "msg": "\".layout-100-headline--fixed h2\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "band",
+          "msg": "4 → 6 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "band",
+          "msg": "2 → 5 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "band",
+          "msg": "rect{h 664 → 618}; heading h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34) → null"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "split",
+          "msg": "rect{h 503 → 473}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{h 686 → 627}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "IC-Trucks Hydrostatic Drive for Greater Handling Performance"
+          },
+          "headline": {
+            "sel": ".layout-100-headline--fixed h2",
+            "count": 0
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 6,
+            "first": {
+              "rect": {
+                "w": 912,
+                "h": 618
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "72px 72px 72px 72px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 5,
+            "text": "Rapid handling processes are only possible if forklift truck"
+          },
+          "split": {
+            "sel": ".layout-50--flex",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 473
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Work Healthily The developers design the trucks around the d"
+          },
+          "feature": {
+            "sel": ".layout-40-60-reverse--flex",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 593
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255)",
+              "image": {
+                "w": 1024,
+                "h": 593
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Focus on: Hydrostatics The hydrostatic drive features a pump"
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 282
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "More Effective Safer More Cost-Effective More Robust More Co"
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 12,
+            "first": {
+              "rect": {
+                "w": 280,
+                "h": 627
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "color(srgb 0.275686 0.331569 0.342745)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": {
+                "w": 278,
+                "h": 158
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Diesel Forklifts When it comes to diesel forklifts, Linde se"
+          },
+          "carousel": {
+            "sel": ".teaser-carousel",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".inline-button-row",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 71
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Find your truck here"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Products/Order-Pickers/",
+      "findings": [
+        {
+          "kind": "COUNT",
+          "probe": "band",
+          "msg": "4 → 2 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "band",
+          "msg": "2 → 1 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "band",
+          "msg": "rect{h 664 → 566}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "split",
+          "msg": "1 → 2 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "split",
+          "msg": "1 → 2 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "split",
+          "msg": "rect{h 503 → 525}"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "feature",
+          "msg": "\".layout-40-60-reverse--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "12 → 11 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{h 686 → 716}"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "cta",
+          "msg": "\".inline-button-row\" matches 1 on the archetype, 0 on the sibling"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Order pickers Enhanced handling with reduced physical strain"
+          },
+          "headline": {
+            "sel": ".layout-100-headline--fixed h2",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1208,
+                "h": 68
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 54px/67.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Five Times the Performance"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 912,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "72px 72px 72px 72px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Optimal Paths when Picking How quickly the picking goes ulti"
+          },
+          "split": {
+            "sel": ".layout-50--flex",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 525
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "Working Ergonomically at every Level In order to be able to "
+          },
+          "feature": {
+            "sel": ".layout-40-60-reverse--flex",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 282
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Faster Safer More Convenient Healthier More Efficient Faster"
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 11,
+            "first": {
+              "rect": {
+                "w": 280,
+                "h": 716
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "color(srgb 0.275686 0.331569 0.342745)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": {
+                "w": 278,
+                "h": 158
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "N20 – N25 Compact, stable, and versatile: the N20 – N25 low-"
+          },
+          "carousel": {
+            "sel": ".teaser-carousel",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".inline-button-row",
+            "count": 0
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Products/Pallet-Trucks/",
+      "findings": [
+        {
+          "kind": "CLUSTERS",
+          "probe": "band",
+          "msg": "2 → 4 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "band",
+          "msg": "rect{h 664 → 566}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "split",
+          "msg": "1 → 2 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "split",
+          "msg": "1 → 2 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "split",
+          "msg": "rect{h 503 → 533}"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "feature",
+          "msg": "\".layout-40-60-reverse--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "12 → 2 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{h 686 → 417}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Pallet Trucks On your way safely and efficiently in the tigh"
+          },
+          "headline": {
+            "sel": ".layout-100-headline--fixed h2",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1208,
+                "h": 68
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 54px/67.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "5 x more output"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 4,
+            "first": {
+              "rect": {
+                "w": 912,
+                "h": 566
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "72px 72px 72px 72px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 4,
+            "text": "Quick processes at short distances Even for shorter distance"
+          },
+          "split": {
+            "sel": ".layout-50--flex",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 533
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "Innovations for efficient processes There are many ways in w"
+          },
+          "feature": {
+            "sel": ".layout-40-60-reverse--flex",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 282
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Safer Simpler Stronger Healthier Smaller Safer Linde uses mu"
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 280,
+                "h": 417
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "color(srgb 0.275686 0.331569 0.342745)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": {
+                "w": 278,
+                "h": 158
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "T14 B The compact T14 B pallet truck from Linde particularly"
+          },
+          "carousel": {
+            "sel": ".teaser-carousel",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".inline-button-row",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 71
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Find your truck here"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Products/Reach-Trucks/",
+      "findings": [
+        {
+          "kind": "COUNT",
+          "probe": "headline",
+          "msg": "1 → 2 matches"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "band",
+          "msg": "4 → 3 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "band",
+          "msg": "rect{h 664 → 724}"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "split",
+          "msg": "rect{h 503 → 720}; heading h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34) → h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255); image null → [object Object]"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "feature",
+          "msg": "\".layout-40-60-reverse--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "12 → 11 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "teaser",
+          "msg": "1 → 2 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{w 280 → 592, h 686 → 516}; backgroundColor color(srgb 0.275686 0.331569 0.342745) → rgb(238, 239, 243); color rgb(255, 255, 255) → rgb(34, 34, 34); heading null → h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34); image{w 278 → 590, h 158 → 334}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Reach Trucks Fast handling in narrow high rack warehouses"
+          },
+          "headline": {
+            "sel": ".layout-100-headline--fixed h2",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 1208,
+                "h": 68
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 54px/67.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "For added Safety"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 3,
+            "first": {
+              "rect": {
+                "w": 912,
+                "h": 724
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "72px 72px 72px 72px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "Flexible, efficient and safe in the warehouse Load handling "
+          },
+          "split": {
+            "sel": ".layout-50--flex",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 720
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255)",
+              "image": {
+                "w": 720,
+                "h": 720
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "12 More visibility for better safety An unimpeded view of lo"
+          },
+          "feature": {
+            "sel": ".layout-40-60-reverse--flex",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 282
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "More efficient Safer More comfortable More cost-effective Mo"
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 11,
+            "first": {
+              "rect": {
+                "w": 592,
+                "h": 516
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgb(238, 239, 243)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 18px/22.5px 400 rgb(34, 34, 34)",
+              "image": {
+                "w": 590,
+                "h": 334
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "The Innovative Rack Protection System The Linde Rack Protect"
+          },
+          "carousel": {
+            "sel": ".teaser-carousel",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".inline-button-row",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 71
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Find your truck here"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Products/Tow-Trucks/",
+      "findings": [
+        {
+          "kind": "COUNT",
+          "probe": "band",
+          "msg": "4 → 2 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "band",
+          "msg": "rect{h 664 → 536}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "split",
+          "msg": "1 → 2 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "split",
+          "msg": "1 → 2 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "split",
+          "msg": "rect{h 503 → 555}; heading h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34) → h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255)"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "feature",
+          "msg": "\".layout-40-60-reverse--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "12 → 2 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{h 686 → 537}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Tow tractors and platform trucks Ergonomic solutions for fas"
+          },
+          "headline": {
+            "sel": ".layout-100-headline--fixed h2",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1208,
+                "h": 68
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 54px/67.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "5 x more output"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 912,
+                "h": 536
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "72px 72px 72px 72px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "Goods transport at any operating site The efficiency of tran"
+          },
+          "split": {
+            "sel": ".layout-50--flex",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 555
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 2,
+            "text": "Safety first Extremely heavy loads, narrow aisles, streamlin"
+          },
+          "feature": {
+            "sel": ".layout-40-60-reverse--flex",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 282
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Faster Safer More Robust Easier Healthier Faster All the tow"
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 280,
+                "h": 537
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "color(srgb 0.275686 0.331569 0.342745)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": {
+                "w": 278,
+                "h": 158
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Flying starts on the ground Ground handling is a challenge f"
+          },
+          "carousel": {
+            "sel": ".teaser-carousel",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".inline-button-row",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 71
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Find your forklift truck here"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Products/Very-Narrow-Aisle-Trucks/",
+      "findings": [
+        {
+          "kind": "COUNT",
+          "probe": "band",
+          "msg": "4 → 2 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "band",
+          "msg": "2 → 1 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "band",
+          "msg": "rect{h 664 → 603}"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "split",
+          "msg": "1 → 3 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "split",
+          "msg": "1 → 3 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "split",
+          "msg": "rect{h 503 → 720}; heading h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34) → h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255); image null → [object Object]"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "feature",
+          "msg": "\".layout-40-60-reverse--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "teaser",
+          "msg": "12 → 8 matches"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{h 686 → 657}"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Very narrow aisle trucks High handling performance in narrow"
+          },
+          "headline": {
+            "sel": ".layout-100-headline--fixed h2",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1208,
+                "h": 68
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxwebpro-medi 54px/67.5px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "5 x more output"
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 2,
+            "first": {
+              "rect": {
+                "w": 912,
+                "h": 603
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "72px 72px 72px 72px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Quickly and safely around the narrow aisle warehouse High th"
+          },
+          "split": {
+            "sel": ".layout-50--flex",
+            "count": 3,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 720
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255)",
+              "image": {
+                "w": 720,
+                "h": 720
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 3,
+            "text": "Maximum performance in the high rack warehouse Linde Materia"
+          },
+          "feature": {
+            "sel": ".layout-40-60-reverse--flex",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 282
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Quicker Safer Robuster Healthier More predictable More endur"
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 8,
+            "first": {
+              "rect": {
+                "w": 280,
+                "h": 657
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "color(srgb 0.275686 0.331569 0.342745)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": {
+                "w": 278,
+                "h": 158
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "K2 Systems Relies on Linde MH—Logistics Solution from a Sing"
+          },
+          "carousel": {
+            "sel": ".teaser-carousel",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".inline-button-row",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1216,
+                "h": 71
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Find your truck here"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://www.linde-mh.com/en/Service/Training/",
+      "findings": [
+        {
+          "kind": "MISSING",
+          "probe": "headline",
+          "msg": "\".layout-100-headline--fixed h2\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "COUNT",
+          "probe": "band",
+          "msg": "4 → 1 matches"
+        },
+        {
+          "kind": "CLUSTERS",
+          "probe": "band",
+          "msg": "2 → 1 distinct style families among matches (a second visual family = a variant class)"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "band",
+          "msg": "rect{h 664 → 413}; heading h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34) → null"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "split",
+          "msg": "rect{h 503 → 458}; heading h3 daxwebpro-medi 29.34px/36.675px 400 rgb(34, 34, 34) → h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255)"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "feature",
+          "msg": "\".layout-40-60-reverse--flex\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "browser",
+          "msg": "\".content-browser\" matches 1 on the archetype, 0 on the sibling"
+        },
+        {
+          "kind": "PROBE",
+          "probe": "teaser",
+          "msg": "rect{h 686 → 746}"
+        },
+        {
+          "kind": "MISSING",
+          "probe": "cta",
+          "msg": "\".inline-button-row\" matches 1 on the archetype, 0 on the sibling"
+        }
+      ],
+      "raw": {
+        "sections": [],
+        "probes": {
+          "stage": {
+            "sel": ".header-image",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 494
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h1 daxwebpro-medi 18px/22.5px 400 rgb(170, 0, 32)",
+              "image": {
+                "w": 792,
+                "h": 446
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Training Well-trained Without Fail"
+          },
+          "headline": {
+            "sel": ".layout-100-headline--fixed h2",
+            "count": 0
+          },
+          "band": {
+            "sel": ".layout-100--flex .text-container",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 912,
+                "h": 413
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "72px 72px 72px 72px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Trained forklift drivers are a fundamental requirement for s"
+          },
+          "split": {
+            "sel": ".layout-50--flex",
+            "count": 1,
+            "first": {
+              "rect": {
+                "w": 1440,
+                "h": 458
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "rgba(0, 0, 0, 0)",
+              "color": "rgb(34, 34, 34)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": "h3 daxwebpro-medi 29.34px/36.675px 400 rgb(255, 255, 255)",
+              "image": null,
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "Benefits of Forklift Driver Training at a Glance Legally com"
+          },
+          "feature": {
+            "sel": ".layout-40-60-reverse--flex",
+            "count": 0
+          },
+          "browser": {
+            "sel": ".content-browser",
+            "count": 0
+          },
+          "teaser": {
+            "sel": ".teaser",
+            "count": 12,
+            "first": {
+              "rect": {
+                "w": 280,
+                "h": 746
+              },
+              "backgroundLayers": [],
+              "backgroundColor": "color(srgb 0.275686 0.331569 0.342745)",
+              "color": "rgb(255, 255, 255)",
+              "padding": "0px 0px 0px 0px",
+              "font": "daxlinewebpro 18px/27px 400",
+              "borderRadius": "0px",
+              "heading": null,
+              "image": {
+                "w": 278,
+                "h": 158
+              },
+              "listStyle": "disc",
+              "before": null
+            },
+            "clusters": 1,
+            "text": "A listening ear for every situation Psychological counseling"
+          },
+          "carousel": {
+            "sel": ".teaser-carousel",
+            "count": 0
+          },
+          "cta": {
+            "sel": ".inline-button-row",
+            "count": 0
+          }
+        }
+      }
+    }
+  ],
+  "summary": {
+    "siblings": 17,
+    "varying": 17,
+    "probesVarying": [
+      "headline",
+      "band",
+      "split",
+      "feature",
+      "browser",
+      "teaser",
+      "cta",
+      "stage"
+    ]
+  }
+}

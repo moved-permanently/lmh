@@ -1,0 +1,537 @@
+{
+ "source": "http://localhost:8804/stardust/migrated/en/Products/Order-Pickers/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Order pickers"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Enhanced handling with reduced physical strain"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Optimal Paths when Picking"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "How quickly the picking goes ultimately depends on the truck operator. If the strain on them is low and the paths are short, this saves power and time. But warehousing processes and types of goods differ depending on sectors and operations. That's why Linde Material Handling uses trucks with a modular design for its picking devices, in order to help to minimize physical strain on the driver and increase the efficiency of the picking process in any working environment."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "All-round ergonomic working conditions are a fundamental part of the truck designs, including vibration-cushioned platforms, intuitively laid out control panels, low entry height and sufficient space for terminals and mounting brackets. Linde assembles each truck individually based on the modular system. Once complete, every last detail is suited to the application – vital when it comes to high handling capacities."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Solutions for any Working Height"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde offers a wide range of order picking equipment to suit all shelf heights, aisle widths, and order-picking methods. The V-model, for example, offers a maximum picking height of twelve meters. Linde has developed special design features that simplify the process of picking for every height – from the layout of the control platform and control panels, to the fold-out cab railings."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Working Ergonomically at every Level"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "In order to be able to pick in a focused and productive manner, people need ergonomic and comfortable workplaces. That is the principle upon which every detail of the design of these order pickers is based: The low entry height is gentle on the legs when mounting and dismounting, platforms with non-slip mats that are decoupled from the chassis by rubber supports reduce the effect of vibrations, and operation is simple thanks to ergonomically arranged and shaped control panels. When appropriate, the driver can operate the truck's functions from two positions. Models designed for working at higher levels also feature larger cabins with lower railings and tilt barriers to the sides. Ultimately, working high up is as easy and safe as working at floor level."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Maximum Safety"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Whether it is while the order picker is moving up and down or during driving, the operator's entire body remains safely within the confines of the truck – aided, among other things, by compact steering and a generous cab area. The various assistance systems are also important: For example, the truck automatically reduces speed while going round bends. The same applies for driving with an elevated cabin. The optional personal protection system monitors the operational path via a scanner, stopping the truck if there are obstacles. In addition, technicians define fixed lifting and lowering stops in the forklift system depending on the site, meaning that low ceilings or uneven flooring no longer represent a risk."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Bespoke Trucks for Rapid Order Picking"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "How high up are the goods? How large and heavy are they? What picking frequency does the operator need to achieve? The answers are different for every user. That's why Linde develops entirely individual order pickers based on a modular system, featuring, for example, different mast heights, working platforms, chassis sizes, and operating and control concepts. Ultimately the truck is perfectly suited to the task at hand and makes every task easier."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Driving Forward the Development of the Order Pickers"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde is constantly developing its order pickers, aiming to make working conditions even safer and more ergonomic for operators, which is why, for example, the latest generation of order picking devices feature an even lower entry height. At the same time, the modular concept is always in focus, meaning the number of equipment options is constantly growing."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Five Times the Performance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Faster",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Safer",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "More Convenient",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Healthier",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "More Efficient",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "Faster"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "If required, the order picker can drive and raise its platform simultaneously. This vertical movement allows the operator to reach their destination in the shortest possible time."
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Safer"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Integrated contact sensors prevent the hands from being outside the chassis during movement. The truck will only respond to commands when both hands are on the controls."
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "More Convenient"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Models designed for higher working heights feature electrically monitored tilt barriers. If the operator leans against them they tilt outwards – increasing the operator's reach by approximately 50 centimeters and making goods on the shelf easier to reach."
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "Healthier"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "The order picker's stand platform is decoupled mechanically using rubber supports. Vibrations from the undercarriage and chassis are not felt by the driver, or are greatly reduced when transferred to the driver."
+    },
+    {
+     "role": "heading",
+     "order": 13,
+     "text": "More Efficient"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Thanks to Linde's fleet management software alongside various semi-automatic solutions and assistance systems, users can semi-automatically optimize the entire life cycle of their trucks."
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "connect:"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 11,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Safety and Efficiency – Made to Measure"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde order pickers are based on a modular concept. But users do not just choose their mast and motor, or the chassis of their model: they can do so much more – especially with regards to operation and safety. Options include, among other things, assistance systems, various mounting systems for work equipment, buttons that allow walking alongside the truck, acoustic warning signals, mirror modules, and ergonomic backrest upholstery."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "N20 – N25",
+     "href": "../../../en/Products/Order-Pickers/N20-N25/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Compact, stable, and versatile: the N20 – N25 low-lift order pickers from Linde MH offer optimal visibility and flexible energy systems."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/Products/Order-Pickers/N20-N25/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "V modular B",
+     "href": "../../../en/Products/Order-Pickers/V-modular-B/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The V modular B vertical order picker is a cost-efficient truck with high performance for medium lifting heights."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/Products/Order-Pickers/V-modular-B/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Automotive supplier SMP controls its vehicle fleet with Linde connect",
+     "href": "../../../en/About-us/Magazine/smp-fleetmanagement.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "The Linde connect fleet management system makes a decisive contribution to order and safety in the warehouse. Linde Material Handling has equipped the entire SMP fleet with this intelligent solution."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/smp-fleetmanagement.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "In use on the race track",
+     "href": "../../../en/About-us/Magazine/Linde-Rental-Service-for-Formula-Student-Germany.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "The Linde Rental Solutions has been ensuring fast and professional setup and dismantling as well as performing other logistics tasks at the Formula Student Germany for many years. This requires a number of challenges to be overcome."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Linde-Rental-Service-for-Formula-Student-Germany.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Reliable allrounder",
+     "href": "../../../en/About-us/Magazine/reliable-durability-NORA-Centre.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "The NORA Centre Wolfsburg has committed itself to the fast delivery of original Volkswagen Group spare parts and other brands. Internal logistics plays an important role in meeting the demanding deadlines for customers. Crucial players are Linde electric forklifts, which prove their worth every day in the race against time - lately also equipped with Linde lithium-ion batteries."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/reliable-durability-NORA-Centre.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "An inspiring debut",
+     "href": "../../../en/About-us/Magazine/Hachette/index.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "More than 200,000 books leave Hachette UK's distribution center near Oxford every day. For picking at up to 17.7 meters a very special truck is used: a combination of a Linde K truck and a Linde V modular."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Hachette/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "Automatically more efficient",
+     "href": "../../../en/Landingpage/Semi-automated-order-pickers/index.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "Digital process and supply chains and the growing individualization of products require greater automation of intralogistics processes. Horizontal order picking offers significant optimization potential in the warehouse. With the help of the semi-automated option of the Linde N20 SA and N20 C SA order pickers, employee walking distances are shortened and the picking process becomes much more efficient."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/Landingpage/Semi-automated-order-pickers/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "The Seventh R Is a V",
+     "href": "../../../en/About-us/Magazine/Richter-Frenzel/index.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "Flying high: The Linde V modular ensures greater safety and speed when picking orders high up at Richter+Frenzel."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Richter-Frenzel/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "A breath of fresh air in logistics at Heidelberg",
+     "href": "../../../en/About-us/Magazine/Frischer-Wind-in-der-Logistik-von-Heidelberg.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "In times of increasingly individualized customer requirements, intralogistics must also gradually adapt to the changed production conditions. How this can be achieved by a global industrial company is shown by the example of Heidelberger Druckmaschinen AG (Heidelberg) in Wiesloch/Walldorf."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Frischer-Wind-in-der-Logistik-von-Heidelberg.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "Seamless shift changes for fresh goods",
+     "href": "../../../en/About-us/Magazine/Order-pickers-with-lithium-ion-batteries.html"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "Many bakeries already offer freshly baked bread rolls at 6 o’clock in the morning. Frequently, ingredients have to be delivered during the night to achieve that. That’s the responsibility of wholesalers like Gusto AG in Hohenpolding near Munich. Recently, Linde order pickers with lithium-ion batteries were deployed at the firm to perform the logistics work involved."
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Order-pickers-with-lithium-ion-batteries.html"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "Linde order pickers",
+     "href": "../../../en/Landingpage/Glasses/index.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "At Linde, we take expertise to the next level. We bring you an order picker range so wide, that when you discover the one you need, it’ll feel like it was made just for you."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/Landingpage/Glasses/index.html"
+    }
+   ],
+   "imgCount": 11,
+   "editableTexts": 12,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 11,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

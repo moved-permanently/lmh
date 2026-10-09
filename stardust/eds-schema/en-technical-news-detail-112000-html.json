@@ -1,0 +1,95 @@
+{
+ "source": "http://localhost:8803/stardust/migrated/en/technical/News-Detail_112000.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Explosion protection from a single source"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "31 Jan 2019"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Linde presents new explosion-proof reach trucks"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Industrial trucks that are used in potentially explosive atmospheres must meet special safety requirements. Linde Material Handling has specialized in this field, offering an extensive product portfolio. This now includes the latest generation of high-performance reach trucks in the load capacity range from 1.4 to 2.5 tons for ATEX zones 2/22. Like all other explosion-proof trucks from Linde, they are based on the respective standard model and are delivered to the customer ex works, along with all the necessary certifications and documentation. Maintenance and service are carried out by Linde’s network partners."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "“At first glance, many users don’t even notice that this is an explosion-protected version,” says Elke Karnarski, Product Manager Ex-proof Trucks at Linde Material Handling. “And that’s exactly what we aim for. Convenience and operation are identical to the standard truck, structural differences only become apparent on closer inspection and have no impact on performance and economy.” All electrical equipment that could cause the formation of sparks is protected according to the relevant ignition protection category. Mechanical components such as brakes or forks are protected through suitable design measures. Electronic temperature monitoring ensures that overheating of components cannot occur even under the most extreme operating conditions. The armrest, seat, foot mat and plastic parts are antistatic to prevent the risk of sparks due to the build-up of electric charge. All modifications follow the requirement that any formation of ignition sources must be prevented in atmospheres with combustible dusts, gases, vapors or mists, such as those produced in the chemical or pharmaceutical industries, and also in food and beverage production."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "At the same time, the new explosion-protected reach trucks benefit from the new functions and options of the latest reach truck generation. These include lift height preselection, the Dynamic Mast Control assistance system, camera systems with color monitor and split screen function or the “connect” fleet management system. Additionally, the new “VertiLight” lighting solution ensures better working conditions and greater safety. It consists of two work lights made up of LEDs arranged in a semi-circle, that are mounted diagonally offset on the lift mast. Thus, they provide a wide-area, uniform and glare-free illumination of the working area from floor to maximum lift height."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "New in the portfolio of Linde Material Handling: the latest generation of high-performance reach trucks in the load capacity range from 1.4 to 2.5 tons for ATEX zones 2/22."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The new models consist of the explosion-protected heavy-duty (HD) reach trucks Linde R14 HD to R20 HD in the load range from 1.4 to 2.0 tons and the standard Linde R20 to R25 EX with 2.0 and 2.5 tons load capacity respectively. The HD versions are designed for particularly tough applications and feature a very robust mast with higher residual capacity. This means that heavier loads can be stored at a greater lift height. All explosion-protected reach trucks carry the manufacturer’s CE mark and comply with the EN 1755 and ATEX 2014/34/EU standards for regulating the avoidance of ignition sources."
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Equally important for all operators: When servicing and repairing explosion-protected vehicles, they can rely on specially trained service technicians from Linde’s network partners who ensure that the equipment is maintained and repaired in accordance with statutory regulations."
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Trade Press"
+    },
+    {
+     "role": "heading",
+     "order": 10,
+     "text": "Heike Oder"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "+49 6021 991277",
+     "href": "tel:+49 6021 991277"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Send email",
+     "href": "mailto:heike....oder@@@@linde-mh....de"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 12,
+   "repeats": []
+  }
+ ]
+}

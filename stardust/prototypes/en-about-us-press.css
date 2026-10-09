@@ -1,0 +1,54 @@
+/* en-about-us-press.css — page layer for the `listing` template (11 pages). Imports canon.css (chrome, tokens, type, news-card module).
+   Lifted: layout grid @419810/@420584/@431225/@433841; .layout-100--flex @474410/@475168; .header-intro @336771–@336959; .filter-downloadarea @152700–@152917;
+   form controls @185559/@192647/@201504–@201792/@206206/@206534/@176341; .ld-layout-teaser__wrapper @295933/@296058; .layout--download @417423.
+   Measured live 1440 + 360: stardust/.work/replica/bg/press-measure-live.log (2026-10-06). */
+
+.content, .content * { box-sizing: border-box; }
+.content { display: flex; flex-direction: column; align-items: center; position: relative; width: 100%; background: var(--color-white); padding: 0 0 22.5px; margin: 0; }
+.layout-passepartout { overflow: hidden; margin: 0; display: flex; flex-direction: column; width: 100%; }
+
+/* intro (live: inner padding 32/32/32/16 at 1440, 18/4.5/18/16 at 360; left column = 640 + right padding) */
+.header-intro { display: flex; position: relative; width: 100%; justify-content: flex-start; }
+.header-intro .layout-inner-100 { display: flex; width: 100%; max-width: 100%; margin-left: 0; padding: 5vw 1.25vw 5vw 16px; }
+.header-intro .wrapper-content--left { display: flex; flex-direction: column; position: relative; width: 100%; max-width: calc(640px + 2.5vw); padding: 1.25vw 1.25vw 1.25vw 0; }
+@media (min-width: 1280px) {
+  .header-intro .layout-inner-100 { padding: 32px 32px 32px 16px; }
+  .header-intro .wrapper-content--left { width: auto; max-width: 704px; padding: 32px 32px 32px 0; }
+}
+h1.h3 { font-family: var(--font-face-medi), var(--font-sub-bold), Arial, sans-serif; font-weight: 400; font-size: 1.63rem; line-height: 1.25; margin: 0; color: var(--color-darkgrey); letter-spacing: -0.016em; }
+h1.h3 span { display: inline; }
+.header-intro span > p { margin: 0; font-size: .95rem; line-height: 1.75; max-width: 640px; letter-spacing: -0.003em; }
+@media (max-width: 639px) { h1.h3 { font-size: 1.5rem; } .header-intro span > p { letter-spacing: -0.017em; } }
+
+/* section rows */
+.layout-100--flex { display: flex; flex-wrap: wrap; justify-content: center; flex-shrink: 0; padding: 0; width: 100%; }
+@media (min-width: 1280px) { .layout-100--flex { flex-direction: column; align-items: center; } }
+.layout--download .layout--shadegrey { background: var(--color-white); }
+.layout--lightgrey { background: var(--color-lightgrey); }
+
+/* filter block (live: generic 1280 box p 32 16; the filter is a shrink-to-fit flex item (1154 wide at 1440 = its inline form items), centred) */
+.layout--shadegrey .layout-100--fixed { display: flex; flex-wrap: wrap; justify-content: center; flex-shrink: 0; width: 100%; max-width: 1280px; padding: 5vw 1.25vw; margin: 0; }
+@media (min-width: 1280px) { .layout--shadegrey .layout-100--fixed { padding: 32px 16px; } }
+.filter-downloadarea { display: block; width: auto; max-width: 100%; }
+.filter-downloadarea > h4 { font-family: var(--font-face-medi), var(--font-sub-bold), Arial, sans-serif; font-weight: 400; font-size: 1rem; line-height: 1.25; margin: 0 0 1em; color: var(--color-darkgrey); letter-spacing: -0.016em; }
+.filter-downloadarea .form-item { display: inline-block; width: auto; vertical-align: top; margin: 0 32px 16px 0; }
+.filter-downloadarea .form-item .checkbox, .filter-downloadarea .form-item .input-wrapper { display: inline-block; }   /* baseline-aligned like live: the date row's descender space is the 9px the filter is taller than its items */
+.label, .checkbox { font-family: var(--font-face), var(--font-sub), Arial, sans-serif; font-size: 15px; color: var(--color-darkgrey); }
+.label { display: block; line-height: 1.5rem; }
+.checkbox { position: relative; overflow: visible; margin: 0 40px 0 24px; padding: 12px 0 0 8px; min-height: 48px; min-width: 120px; cursor: pointer; }   /* source .checkbox block (raw scan) */
+.checkbox > span { height: 24px; line-height: 24px; color: var(--color-darkgrey); }
+.checkbox input[type=checkbox] { display: block; position: absolute; top: 12px; left: 8px; width: 100%; height: 100%; opacity: 0; padding: 0; margin: 0; z-index: -100; }   /* live input box 120×48 at +8/+12 */
+.checkbox input[type=checkbox] ~ span:before { font-family: LindeGlobalIconFont; content: "\f12c"; display: block; float: left; width: 24px; height: 24px; line-height: 24px; font-size: 0; margin: 0 8px 0 -32px;
+  color: var(--color-darkgrey); background-color: var(--color-white); border: 1px solid var(--color-form-lightgrey, #ccc); cursor: pointer; text-align: center; }
+.checkbox input[type=checkbox]:checked ~ span:before { font-size: 20px; color: var(--color-red); }
+.filter-downloadarea .form-item .datepicker.input-wrapper, .datepicker { display: flex; position: relative; background-color: var(--color-textgrey); }   /* iter2: the input-wrapper inline-block rule (0,3,0) stacked input and trigger (199×96 vs live 247×48) */
+.datepicker input { display: block; position: relative; width: 199px; min-height: 48px; padding: 11px 8px 8px; margin: 0; color: var(--color-darkgrey); background-color: var(--color-white); border: 1px solid var(--color-form-lightgrey, #ccc); border-radius: 0; appearance: none; font: inherit; font-size: 15px; line-height: normal; }
+.datepicker .ui-datepicker-trigger { display: block; position: relative; height: 48px; width: 48px; padding: 12px; line-height: 0; border: 1px solid transparent; border-radius: 0; background-color: transparent; color: #fff; cursor: pointer; }
+.datepicker .ui-datepicker-trigger .icon { display: inline-block; height: 24px; width: 24px; line-height: 24px; font-size: 24px; margin: 0; text-align: right; }
+
+/* card grid (live: 1280 box p 32 16; 4 × 312 columns p 18 16; 360: full width p 4.5, 24px row gap) */
+.layout--lightgrey > .layout-25--fixed { display: flex; flex-wrap: wrap; justify-content: center; flex-shrink: 0; width: 100%; max-width: 1280px; padding: 5vw 1.25vw; margin: 0; }
+@media (min-width: 1280px) { .layout--lightgrey > .layout-25--fixed { padding: 32px 16px; } }
+.ld-layout-item__wrapper.ld-layout-teaser__wrapper { display: flex; position: relative; flex-direction: column; align-items: center; width: 100%; padding: 1.25vw; overflow: visible; margin-bottom: 1.5rem; }
+@media (min-width: 1024px) { .ld-layout-item__wrapper.ld-layout-teaser__wrapper { width: 25%; overflow: hidden; margin-bottom: 0; } }
+@media (min-width: 1280px) { .ld-layout-item__wrapper.ld-layout-teaser__wrapper { padding: 1.25vw 16px; } }

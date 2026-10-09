@@ -1,0 +1,880 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-06T11:32:35.870Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "en-solutions-fleet-management",
+  "url": "https://www.linde-mh.com/en/Solutions/Fleet-Management/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-06T11:32:35.870Z",
+  "finalUrl": "https://www.linde-mh.com/en/Solutions/Fleet-Management/",
+  "title": "myLinde Fleet Management Software | Linde Material Handling",
+  "description": "myLinde fleet management software combines truck and driver management with safety functions and energy management.",
+  "og": {
+    "title": "The digital control center for your fleet",
+    "description": "myLinde from Linde Material Handling: Holistic fleet management for administration, fleet optimization, safety, and energy efficiency.",
+    "image": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Fleet-Management/Key-visuals-Digital-Fleetmanagement/SolutionField_Digital_FleetManagement_TopLevel_KeyVisual_16x9w1920.jpg",
+    "type": "article"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "myLinde comprehensive fleet management software"
+    },
+    {
+      "tag": "h3",
+      "text": "More than fleet management for maximum efficiency"
+    },
+    {
+      "tag": "h3",
+      "text": "Fleet manager"
+    },
+    {
+      "tag": "h3",
+      "text": "Safety officer"
+    },
+    {
+      "tag": "h3",
+      "text": "HSE manager"
+    },
+    {
+      "tag": "h2",
+      "text": "Efficient management, intelligent control: core competencies of myLinde"
+    },
+    {
+      "tag": "h3",
+      "text": "Administration"
+    },
+    {
+      "tag": "h4",
+      "text": "Truck Management"
+    },
+    {
+      "tag": "h4",
+      "text": "Driver Management"
+    },
+    {
+      "tag": "h3",
+      "text": "Usage control"
+    },
+    {
+      "tag": "h3",
+      "text": "Fleet Optimization"
+    },
+    {
+      "tag": "h3",
+      "text": "Service"
+    },
+    {
+      "tag": "h3",
+      "text": "Anytime, anywhere: fleet management made easy"
+    },
+    {
+      "tag": "h6",
+      "text": "For users of our on-premise software Linde connect"
+    },
+    {
+      "tag": "h2",
+      "text": "One step further: safe and energy-efficient with myLinde"
+    },
+    {
+      "tag": "h3",
+      "text": "Optimize safety: Linde Safety Guard in myLinde"
+    },
+    {
+      "tag": "h3",
+      "text": "Intelligent charging management: Linde connect:charger and myLinde"
+    },
+    {
+      "tag": "h2",
+      "text": "The advantages of myLinde at a glance"
+    },
+    {
+      "tag": "h3",
+      "text": "Transparency"
+    },
+    {
+      "tag": "h3",
+      "text": "Performance"
+    },
+    {
+      "tag": "h3",
+      "text": "User-friendliness"
+    },
+    {
+      "tag": "h3",
+      "text": "Service"
+    },
+    {
+      "tag": "h3",
+      "text": "Safety"
+    },
+    {
+      "tag": "h3",
+      "text": "Energy efficiency"
+    },
+    {
+      "tag": "h3",
+      "text": "Together towards success: advice and support"
+    },
+    {
+      "tag": "h2",
+      "text": "FAQ – Frequently asked questions about fleet management"
+    },
+    {
+      "tag": "h3",
+      "text": "What is fleet management?"
+    },
+    {
+      "tag": "h3",
+      "text": "For whom are fleet management systems relevant?"
+    },
+    {
+      "tag": "h3",
+      "text": "What are the challenges in modern fleet management?"
+    },
+    {
+      "tag": "h3",
+      "text": "How can a company make its fleet more sustainable?"
+    },
+    {
+      "tag": "h3",
+      "text": "What are the advantages of fleet management when it comes to safety?"
+    },
+    {
+      "tag": "h2",
+      "text": "Further information"
+    },
+    {
+      "tag": "h3",
+      "text": "Your Intelligent Charge Management"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Safety Guard"
+    },
+    {
+      "tag": "h6",
+      "text": "Follow us on"
+    }
+  ],
+  "body": [
+    "Products Products Overview Product Finder Product Finder Overview New Trucks Rental Trucks New Industrial Trucks New Industrial Trucks Overview Forklift Trucks Electric Forklifts Diesel Forklifts Gas Forklifts Heavy Duty Forklifts Pallet Trucks Hand Pallet Trucks Pallet Stackers Very Narrow Aisle Trucks Order Pickers Reach Trucks Tow Tractors Tugger Trains Explosion Proof Trucks Automated Trucks Forklift Hire Approved Trucks Automated Trucks Automated Trucks Overview Automated Guided Vehicles Autonomous Mobile Robots Digital Products Digital Products Fleet Management Intralogistics Software",
+    "Services Services Overview Truck Service Truck Service Maintenance & Repair Genuine Spare Parts Retrofit & Accessories Technical & Safety Services Training Financing",
+    "Solutions Solutions Overview Intralogistics & Automation Intralogistics & Automation Overview Automated Warehouse Warehouse Management System Material Flow Consulting Case Studies by Industries Fleet Management Fleet Management Overview Fleet Optimization Consulting Energy Systems Energy Systems Overview Lithium-ion Technology Fuel Cell Technology Energy Consulting Warehouse Safety Warehouse Safety Overview Light and Warning Systems Assistance Systems Safety Consulting",
+    "About us About us Overview Company Company Overview Sustainability Awards Certificates Our Innovations Working with us Working with us Overview Highschool & University Students Apprentices Recent Graduates & Professionals Magazine Events Press Media",
+    "Search",
+    "Xtranet",
+    "Solutions",
+    "Fleet Management",
+    "Fleet Management with myLinde",
+    "Safety and energy solutions",
+    "Benefits at a Glance",
+    "FAQ",
+    "Professional fleet management is crucial for cost-efficient and safe intralogistics. With myLinde, Linde Material Handling offers fleet operators an integrated solution for comprehensive fleet management. It enables the efficient management of all trucks and drivers and at the same time provides transparent data on usage, service, and capacity utilization. But that's not all: myLinde provides powerful additional safety and energy management functions.",
+    "From truck and driver management to monitoring and analysis of all truck data: myLinde is the heart of the entire fleet management system. The user-friendly software is suitable both for experienced fleet managers and casual users who only require individual functions.",
+    "Thanks to its modular structure, myLinde offers maximum flexibility and can be perfectly adapted to the requirements of your company. You only pay for the functions that you actually use. As a cloud-based solution, myLinde supports a wide variety of devices. Automatic updates ensure trouble-free operations.",
+    "The integration of the Linde Safety Guard assistance system effectively increases occupational safety. At the same time, the integration of the connect:charger in myLinde allows you to monitor the energy consumption of your trucks in order to save costs and increase the sustainability of your fleet.",
+    "Management of operating times, driving authorizations, and maintenance intervals as well as analysis of shock events.",
+    "Data-based evaluation of near-accidents for targeted improvements in occupational safety.",
+    "Transparent CO₂ savings, comparison of drive technologies and intelligent peak load management",
+    "With myLinde fleet management software, you can increase the performance and efficiency of your fleet. Thanks to comprehensive administration, usage control, fleet optimization, and service functions, you can maintain an overview at all times with optimal control of your trucks.",
+    "With myLinde, you always retain full control over your fleet and drivers. For example, you can define an expiration date for each driver and thus specify the time period for which they are allowed to use a particular truck. In addition, you can divide your warehouse into different areas with just a few clicks and assign trucks and drivers to the corresponding zones.",
+    "The extensive management functions support you in organizing your fleet. Import driver data, create new drivers and define maximum speeds and driving permit times. The software manages driving licenses and driver data and automatically notifies you when a driver's license needs to be renewed or a health check refreshed.",
+    "Our myLinde fleet management software is cloud-based and can be used on a wide variety of devices. Local installations and updates on site are not required, which significantly reduces maintenance costs. Instead, automatic updates ensure smooth processes without system interruptions. Customizable dashboards provide you with the information you need at a glance, making your day-to-day work easier.",
+    "Current software versions:",
+    "connect:desk 2.11.0",
+    "connect:composer 2.3.19",
+    "myLinde offers comprehensive functions for fleet management and is constantly undergoing further development. The seamless integration of special safety and energy solutions is unique.",
+    "Additional safety is provided by the integration of Linde Safety Guard. This innovative safety system creates virtual safety zones around employees, trucks, and infrastructure and warns everyone involved of impending danger. myLinde records and analyzes this data, enabling the evaluation of near misses. In this way, previously undetected safety risks can be uncovered, traffic routing optimized, and productivity increased. The central management of all Safety Guard devices simplifies administration and control. The devices in use are displayed in the software, and their functionality can be continuously checked and monitored. Configurable messages provide information on the status of the Safety Guard units, enabling even more precise control.",
+    "The Linde connect:charger can also be integrated into myLinde for optimized charging and energy management. It connects several chargers via a central control unit and thus coordinates the charging processes. Peak shaving avoids load peaks and reduces energy costs. The prioritization of charging processes ensures optimum availability of the fleet. Detailed consumption data shows additional savings potential. At the same time, the analysis of CO₂ emissions helps you to achieve your sustainability goals.",
+    "Valuable data for optimizing capacity utilization, safety, and avoiding damage.",
+    "Driver assignments and fleet analytics for the best possible use of the fleet.",
+    "Intuitive operation for fleet management and the use of safety and energy functions.",
+    "Prevents overloading and damage.",
+    "Increasing occupational safety and protecting employees and trucks before accidents happen.",
+    "Reduction of energy costs and carbon footprint through optimized energy consumption and intelligent charging management.",
+    "Linde MH offers all the support you need to launch and use myLinde. All the necessary hardware components, for example for data transmission or access control, are already installed at the factory or can be easily retrofitted. Our experts are also available to advise you at any time. They will analyze your individual requirements and make recommendations as to which system functions can be used most effectively.",
+    "Fleet management encompasses the administration, organization, and coordination of a truck fleet. The aim is to use the trucks as efficiently as possible, minimize costs, and comply with legal requirements. This includes tasks such as deployment planning, truck maintenance and servicing, keeping logbooks, controlling, and reporting. Fleet management of industrial trucks also focuses on issues such as occupational safety, employee protection, and energy efficiency. Software solutions such as myLinde support companies in mastering all these tasks and managing their fleet optimally.",
+    "The Linde Material Handling connect:charger provides a cost-effective and intelligent solution for managing the charging of electric industrial trucks.",
+    "Wherever industrial trucks are in use, there exists a complex interplay between man and machine. Linde Safety Guard is an innovative assistance system which increases safety for both truck operators and pedestrians in the vicinity of the truck.",
+    "Contact",
+    "Home",
+    "Legal",
+    "Terms of use",
+    "Suppliers",
+    "EDI",
+    "Privacy Statements",
+    "Cookie Settings",
+    "Vulnerability Disclosure Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Search",
+      "href": "https://www.linde-mh.com/en/Search/"
+    },
+    {
+      "label": "Xtranet",
+      "href": "https://xtranet.linde-mh.com/lmhge/"
+    },
+    {
+      "label": "Solutions",
+      "href": "../Overview.html"
+    },
+    {
+      "label": "Contact the experts",
+      "href": "../../Forms/Global-Contact-Form/"
+    },
+    {
+      "label": "Fleet Management with myLinde",
+      "href": "#1845908"
+    },
+    {
+      "label": "Safety and energy solutions",
+      "href": "#1845912"
+    },
+    {
+      "label": "Benefits at a Glance",
+      "href": "#1845916"
+    },
+    {
+      "label": "FAQ",
+      "href": "#1845921"
+    },
+    {
+      "label": "Linde Safety Guard",
+      "href": "../../About-us/Innovations-from-Linde/Linde-Safety-Guard.html"
+    },
+    {
+      "label": "connect:charger",
+      "href": "../../About-us/Innovations-from-Linde/connect-charger/"
+    },
+    {
+      "label": "Schedule your personal myLinde consultation",
+      "href": "../../Forms/Global-Contact-Form/"
+    },
+    {
+      "label": "1",
+      "href": null
+    },
+    {
+      "label": "2",
+      "href": null
+    },
+    {
+      "label": "Linde Safety Guard",
+      "href": "../../About-us/Innovations-from-Linde/Linde-Safety-Guard.html"
+    },
+    {
+      "label": "Linde connect:charger",
+      "href": "../../About-us/Innovations-from-Linde/connect-charger/"
+    },
+    {
+      "label": "Arrange a consultation now and increase your fleet efficiency",
+      "href": "../../Forms/Global-Contact-Form/"
+    },
+    {
+      "label": "Optimize your fleet – talk to us!",
+      "href": "../../Forms/Global-Contact-Form/"
+    },
+    {
+      "label": "Your Intelligent Charge Management",
+      "href": "../../About-us/Innovations-from-Linde/connect-charger/"
+    },
+    {
+      "label": "Find out more",
+      "href": "../../About-us/Innovations-from-Linde/connect-charger/"
+    },
+    {
+      "label": "Linde Safety Guard",
+      "href": "../../About-us/Innovations-from-Linde/Linde-Safety-Guard.html"
+    },
+    {
+      "label": "Find out more",
+      "href": "../../About-us/Innovations-from-Linde/Linde-Safety-Guard.html"
+    },
+    {
+      "label": "Share",
+      "href": "#123"
+    },
+    {
+      "label": "Contact",
+      "href": "../../Forms/Global-Contact-Form/"
+    },
+    {
+      "label": "Home",
+      "href": "../.."
+    },
+    {
+      "label": "Legal",
+      "href": "../../Legal-Notes/Legal/"
+    },
+    {
+      "label": "Terms of use",
+      "href": "../../Legal-Notes/Terms-of-use/"
+    },
+    {
+      "label": "Suppliers",
+      "href": "https://www.kiongroup.com/en/About-us/Suppliers/"
+    },
+    {
+      "label": "EDI",
+      "href": "../../EDI/"
+    },
+    {
+      "label": "Privacy Statements",
+      "href": "../../Legal-Notes/Privacy-Statement/"
+    },
+    {
+      "label": "Cookie Settings",
+      "href": "#"
+    },
+    {
+      "label": "Vulnerability Disclosure Policy",
+      "href": "https://www.kiongroup.com/en/Service/Vulnerability-Disclosure-Policy/"
+    }
+  ],
+  "links": [
+    "https://www.linde-mh.com/en/",
+    "https://www.linde-mh.com/en/Solutions/Fleet-Management/#123",
+    "https://www.linde-mh.com/en/Products/",
+    "https://www.linde-mh.com/en/Products/Productfinder/",
+    "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/",
+    "https://www.linde-mh.com/en/Products/E-Trucks/",
+    "https://www.linde-mh.com/en/Products/Diesel-Forklifts/",
+    "https://www.linde-mh.com/en/Products/Gas-forklifts/",
+    "https://www.linde-mh.com/en/Products/Heavy-Duty-Forklifts/",
+    "https://www.linde-mh.com/en/Products/Pallet-Trucks/",
+    "https://www.linde-mh.com/en/Products/Hand-Pallet-Trucks/",
+    "https://www.linde-mh.com/en/Products/Pallet-Stackers/",
+    "https://www.linde-mh.com/en/Products/Very-Narrow-Aisle-Trucks/",
+    "https://www.linde-mh.com/en/Products/Order-Pickers/",
+    "https://www.linde-mh.com/en/Products/Reach-Trucks/",
+    "https://www.linde-mh.com/en/Products/Tow-Trucks/",
+    "https://www.linde-mh.com/en/Products/Tugger-Trains/",
+    "https://www.linde-mh.com/en/Products/Explosion-Proof-Trucks/",
+    "https://www.linde-mh.com/en/Products/Automated-Trucks/",
+    "https://www.linde-mh.com/en/Products/Forklift-Hire/",
+    "https://www.linde-mh.com/en/Products/Approved-Trucks/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-guided-vehicle/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Autonomous-mobile-robots/",
+    "https://www.linde-mh.com/en/Solutions/Fleet-Management/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Software/",
+    "https://www.linde-mh.com/en/Service/",
+    "https://www.linde-mh.com/en/Service/Maintenance-Repair/",
+    "https://www.linde-mh.com/en/Service/Genuine-Spare-Parts/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Technical-Safety-Services/",
+    "https://www.linde-mh.com/en/Service/Training/",
+    "https://www.linde-mh.com/en/Solutions/Financing/",
+    "https://www.linde-mh.com/en/Solutions/Overview.html",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-Warehouse/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Warehouse-Management-System/",
+    "https://www.linde-mh.com/en/Solutions/Consulting/Material-Flow-Consulting/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/User-cases-intralogistics/",
+    "https://www.linde-mh.com/en/Solutions/Fleet-Management/index.html",
+    "https://www.linde-mh.com/en/Solutions/Consulting/Fleet-Optimization.html",
+    "https://www.linde-mh.com/en/Solutions/Energy-Systems/",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+    "https://www.linde-mh.com/en/Solutions/Energy-Systems/Energy-consulting/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Light-and-warning-systems/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Assistance-systems/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Safety-consulting/",
+    "https://www.linde-mh.com/en/About-us/",
+    "https://www.linde-mh.com/en/About-us/Company/",
+    "https://www.linde-mh.com/en/About-us/Sustainability/",
+    "https://www.linde-mh.com/en/About-us/Awards/",
+    "https://www.linde-mh.com/en/About-us/Certificates/",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/Students-Scholars/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/Apprentice/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/Professionals/",
+    "https://www.linde-mh.com/en/About-us/Magazine/",
+    "https://www.linde-mh.com/en/About-us/Events/",
+    "https://www.linde-mh.com/en/About-us/Press/",
+    "https://www.linde-mh.com/en/About-us/Media/",
+    "https://www.linde-mh.com/en/Landingpage/Platform-Counterbalanced-Trucks/",
+    "https://www.linde-mh.com/en/Products/Productfinder/?offerType=new",
+    "https://www.linde-mh.com/en/technical/Location-Finder.html",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+    "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+    "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+    "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+    "https://www.linde-mh.com/en/Search/",
+    "https://xtranet.linde-mh.com/lmhge/",
+    "https://www.linde-mh.com/en/Solutions/Fleet-Management/#",
+    "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+    "https://www.linde-mh.com/en/Solutions/Fleet-Management/#1845908",
+    "https://www.linde-mh.com/en/Solutions/Fleet-Management/#1845912",
+    "https://www.linde-mh.com/en/Solutions/Fleet-Management/#1845916",
+    "https://www.linde-mh.com/en/Solutions/Fleet-Management/#1845921",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Linde-Safety-Guard.html",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/connect-charger/",
+    "https://www.linde-mh.com/en/Solutions/Fleet-Management/#media_50892935",
+    "https://www.linde-mh.com/en/Solutions/Fleet-Management/#media_35241115",
+    "https://www.linde-mh.com/en/Solutions/Fleet-Management/#media_76551976",
+    "mailto:?body=$url",
+    "https://www.linkedin.com/shareArticle?url=$url&v=6247748",
+    "https://www.facebook.com/sharer/sharer.php?u=$url",
+    "javascript:window.print()",
+    "https://www.linde-mh.com/en/Legal-Notes/Legal/",
+    "https://www.linde-mh.com/en/Legal-Notes/Terms-of-use/",
+    "https://www.kiongroup.com/en/About-us/Suppliers/",
+    "https://www.linde-mh.com/en/EDI/",
+    "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/",
+    "https://www.kiongroup.com/en/Service/Vulnerability-Disclosure-Policy/",
+    "https://www.linkedin.com/company/36425/",
+    "https://www.facebook.com/LindeMH/",
+    "https://www.instagram.com/linde_mh/",
+    "http://www.youtube.com/user/Gabelstapler24",
+    "http://null/",
+    "https://www.ccm19.de/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.linde-mh.com/en/layoutmedia/Linde_MH_Logo_RGB.svg",
+        "alt": "",
+        "w": 250,
+        "h": 150
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Fleet-Management/Key-visuals-Digital-Fleetmanagement/SolutionField_Digital_FleetManagement_TopLevel_KeyVisual_16x9w1920.jpg",
+        "alt": "Woman looking to the right out of the frame",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Fleet-Management/MyLinde/myLinde-Fleetmanagement-Animation-thumbnail-EN_16x9w1920.jpg",
+        "alt": "Animation of the different myLinde use cases",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Fleet-Management/Key-visuals-Digital-Fleetmanagement/SolutionField_Digital_FleetManagement_Consulting_LightTrail_01_16x9w640.jpg",
+        "alt": "A man in a red Linde MH jacket and a woman in a white shirt stand in a warehouse and look into the distance.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Fleet-Management/MyLinde/Thumbnail-animation-MyLinde-Fleet_Management_Access_Control_16x9w1920.jpg",
+        "alt": "Animated video of the myLinde Access Control login process",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Fleet-Management/MyLinde/Thumbnail-animation-MyLinde-Fleet_Management_PreOp_Check_16x9w1920.jpg",
+        "alt": "Animated video of the myLinde PreOp Check",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Fleet-Management/MyLinde/Thumbnail-animation-MyLinde-Fleet_Management_Shock_Detection_16x9w1920.jpg",
+        "alt": "Animated video of the myLinde shock detection function",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Fleet-Management/Key-visuals-Digital-Fleetmanagement/SolutionField_Digital_FleetManagement_Product_16x9w1920.jpg",
+        "alt": "Linde MH expert shows the myLinde dashboard on a tablet",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Fleet-Management/MyLinde/Thumbnail-animation-MyLinde-Safety_Guard_Crossings_16x9w640.jpg",
+        "alt": "Animated video shows risks when crossing intersections in the warehouse ",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Fleet-Management/MyLinde/Thumbnail-animation-myLinde-Safet_Guard-Pedestrian_Exit_16x9w640.png",
+        "alt": "Animated video on the risks of pedestrians passing through doors",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Fleet-Management/MyLinde/Thumbnail-animation-MyLinde-Safety_Guard_Crossings_16x9w640.jpg",
+        "alt": "Animated video shows risks when crossing intersections in the warehouse ",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Fleet-Management/MyLinde/Thumbnail-animation-myLinde-Safet_Guard-Pedestrian_Exit_16x9w640.png",
+        "alt": "Animated video on the risks of pedestrians passing through doors",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Fleet-Management/MyLinde/Thumbnail-animation-MyLinde-Safety_Guard_Crossings_16x9w640.jpg",
+        "alt": "Animated video shows risks when crossing intersections in the warehouse ",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Fleet-Management/MyLinde/Thumbnail-animation-MyLinde-Charging_Management_16x9w1920.jpg",
+        "alt": "Animated video on charging management ",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/Landingpage-connect-charger/connect_charger-e_truck-x30-04_16x9w640.png",
+        "alt": "Intelligent charge management with connect:charger from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Safety/innovations_from_linde-pedestrian_warning_band-4638_16x9w640.jpg",
+        "alt": "Person on the company premises with a Pedestrian Warning Band on his body.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Fleet-Management/MyLinde/Thumbnail-animation-MyLinde-Fleet_Management_Access_Control_16x9w1920.jpg",
+        "alt": "Animated video of the myLinde Access Control login process",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Fleet-Management/MyLinde/Thumbnail-animation-MyLinde-Fleet_Management_PreOp_Check_16x9w1920.jpg",
+        "alt": "Animated video of the myLinde PreOp Check",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Fleet-Management/MyLinde/Thumbnail-animation-MyLinde-Fleet_Management_Shock_Detection_16x9w1920.jpg",
+        "alt": "Animated video of the myLinde shock detection function",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/HR/global-HR-Banner_Linde-KION_16x9w1920.jpg",
+        "alt": "",
+        "w": 1440,
+        "h": 810
+      }
+    ],
+    "allImgCount": 21,
+    "cssBackgrounds": [],
+    "modals": [
+      "German (Deutsch) English We use cookies and other technologies. This website uses cookies and similar functions to process end device information and personal data. The processing serves the integration of content, external services and elements of third parties, statistical analysis/measurement, personalized advertising and the integration of social media. Depending on the function, data may be passed on to third parties in the process and to third parties in countries where there is no adequate level of data protection and is processed by them, e.g. the USA. Your consent is always voluntary, not required for the use of our website and can be rejected or revoked at any time on our site. Accept all Decline Settings Imprint Privacy Policy Powered by CCM19",
+      "Please select policies to allow Technically neccessary (2) ? Here are all technically necessary scripts, cookies and other elements that are necessary for the operation of the website or the operator has a legitimate interest under DSGVO Art6, para. 1. Analytics & Marketing (5) ? Analytics cookies help us understand how visitors interact with this website by collecting and reporting information anonymously. To continuously improve our website, we track data for statistical and analytical purposes, such as the number of visits or the impact of certain pages of our web presence, and thus optimise our content. Marketing cookies are used to target advertising specifically to a user (behavioural targeting). The aim of using marketing cookies is to display advertising that is particularly relevant to the users of the website. Personalization (1) ? To better tailor the website to you, scripts run here and cookies are set. The goal is to provide a better user experience for you. Other (2) ? Here are other scripts and cookies that do not fit any of the above categories. Cancel Save"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--color-red": "#aa0020",
+    "--color-toned-red": "#cc132a",
+    "--color-darkred": "#990e1f",
+    "--color-darkgrey": "#222",
+    "--color-text-darkgrey": "#444",
+    "--color-textgrey": "#4a595c",
+    "--color-toned-textgrey": "#5e7175",
+    "--color-shadegrey": "#e6e7eb",
+    "--color-lightgrey": "#eeeff3",
+    "--color-hover-lightgrey": "#f5f6fa",
+    "--color-white": "#fff",
+    "--color-form-lightgrey": "#cccdd1",
+    "--color-form-darkgrey": "#9b9b9e",
+    "--color-black": "#222",
+    "--color-form-validation": "red",
+    "--color-green": "#77b340",
+    "--color-toned-green": "color-mix(in srgb,#77b340,#fff 10%)",
+    "--color-darkgreen": "color-mix(in srgb,#77b340,#000 10%)",
+    "--color-primary-700": "#94001d",
+    "--color-primary-900": "#700016",
+    "--color-carousel-grey": "#354042",
+    "--color-carousel-lightgrey": "#6b6b6a",
+    "--color-carousel-red": "#ba1926",
+    "--color-facebook": "#3b5998",
+    "--color-twitter": "#000",
+    "--color-xing": "#126567",
+    "--color-youtube": "#cd201f",
+    "--color-vimeo": "#1ab7ea",
+    "--color-twitch": "#6441a5",
+    "--color-whatsapp": "#25d366",
+    "--color-linkedin": "#0077b5",
+    "--color-googleplus": "#d34836",
+    "--color-baidu": "#de0f17",
+    "--color-pinterest": "#bd081c",
+    "--color-instagram": "#e1306c",
+    "--color-blogger": "#f57d00",
+    "--color-flickr": "#0063dc",
+    "--color-kununu": "#000",
+    "--color-tiktok": "#000",
+    "--color-toned-red2": "#ba1926",
+    "--color-lightgrey2": "#e4e5ea",
+    "--font-face": "\"DaxlineWebPro\"",
+    "--font-face-bold": "\"DaxlineWebPro-Bold\"",
+    "--font-face-italic": "\"DaxlineWebPro-Italic\"",
+    "--font-face-medi": "\"DaxWebPro-Medi\"",
+    "--font-face-light": "\"DaxWebPro-Light\"",
+    "--color-lmh-grey-200": "#dcdcdf",
+    "--color-lmh-grey-300": "#cccdd1",
+    "--ccm--scrollbar-width": "0px",
+    "--ccm--scrollbar-height": "0px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 34,
+    "mainTextLen": 41295,
+    "realImageCount": 20,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "epcloud.ccm19.de",
+        "path": "/consent/ccm19/public/widget",
+        "query": [
+          "apiKey",
+          "domain",
+          "gen",
+          "lang",
+          "theme",
+          "v"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/x-html-fragment",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://epcloud.ccm19.de/consent/ccm19/public/widget",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "px.ads.linkedin.com",
+        "path": "/wa/",
+        "query": [
+          "fmt",
+          "medium"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://px.ads.linkedin.com/wa/",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "b.clarity.ms",
+        "path": "/collect",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://b.clarity.ms/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_p",
+          "_s",
+          "cid",
+          "dl",
+          "dma",
+          "dp",
+          "dt",
+          "en",
+          "ep.allowLinker",
+          "ep.customTask",
+          "frm",
+          "gcd",
+          "gcs",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.etracker.de",
+        "path": "/api/v6/tracking/webEvents",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.etracker.de/api/v6/tracking/webEvents",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "www.googletagmanager.com",
+        "count": 4
+      },
+      {
+        "host": "snap.licdn.com",
+        "count": 2
+      },
+      {
+        "host": "connect.facebook.net",
+        "count": 2
+      },
+      {
+        "host": "static.etracker.com",
+        "count": 1
+      },
+      {
+        "host": "epcdn.ccm19.de",
+        "count": 1
+      },
+      {
+        "host": "epcloud.ccm19.de",
+        "count": 1
+      },
+      {
+        "host": "code.etracker.com",
+        "count": 1
+      },
+      {
+        "host": "www.clarity.ms",
+        "count": 1
+      },
+      {
+        "host": "scripts.clarity.ms",
+        "count": 1
+      },
+      {
+        "host": "www.etracker.de",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 0,
+    "triggers": [
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      }
+    ],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 0,
+      "thirdPartyEndpoints": 5,
+      "thirdPartyScriptHosts": 10,
+      "inlineDataBlobs": 0,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": false
+    }
+  },
+  "screenshot": "assets/screenshots/en-solutions-fleet-management.png",
+  "renderedHtml": "pages/en-solutions-fleet-management.html",
+  "slots": {
+    "headline": "myLinde comprehensive fleet management software",
+    "lead-image": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Fleet-Management/Key-visuals-Digital-Fleetmanagement/SolutionField_Digital_FleetManagement_TopLevel_KeyVisual_16x9w1920.jpg",
+    "intro": "Professional fleet management is crucial for cost-efficient and safe intralogistics. With myLinde, Linde Material Handling offers fleet operators an integrated solution for comprehensive fleet management. It enables the efficient management of all trucks and drivers and at the same time provides transparent data on usage, service, and capacity utilization. But that's not all: myLinde provides powerful additional safety and energy management functions.",
+    "hero-slides": [
+      "Efficient management, intelligent control: core competencies of myLinde",
+      "One step further: safe and energy-efficient with myLinde",
+      "The advantages of myLinde at a glance",
+      "FAQ – Frequently asked questions about fleet management",
+      "Further information"
+    ],
+    "sections": [
+      "Efficient management, intelligent control: core competencies of myLinde",
+      "One step further: safe and energy-efficient with myLinde",
+      "The advantages of myLinde at a glance",
+      "FAQ – Frequently asked questions about fleet management",
+      "Further information"
+    ],
+    "ctas": [
+      {
+        "label": "Solutions",
+        "href": "../Overview.html"
+      },
+      {
+        "label": "Contact the experts",
+        "href": "../../Forms/Global-Contact-Form/"
+      },
+      {
+        "label": "Fleet Management with myLinde",
+        "href": "#1845908"
+      },
+      {
+        "label": "Safety and energy solutions",
+        "href": "#1845912"
+      },
+      {
+        "label": "Benefits at a Glance",
+        "href": "#1845916"
+      },
+      {
+        "label": "FAQ",
+        "href": "#1845921"
+      }
+    ]
+  }
+}

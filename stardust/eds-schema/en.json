@@ -1,0 +1,559 @@
+{
+ "source": "http://localhost:8809/stardust/.work/rollout/archetype-home/en-roundtrip.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "hero-carousel",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The New Linde Reach Trucks Ri14 – Ri18"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Agility on Point"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "https://www.linde-mh.com/en/Landingpage/Agility-on-point/"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Linde MH at GSE Expo Europe 2026"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Visit us in Lisbon"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Get your ticket now!",
+     "href": "https://www.linde-mh.com/en/Landingpage/GSE-Expo/"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "materialfluss PRODUCT OF THE YEAR 2026"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Linde Roadster Claims Top Honors"
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5355776.html"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "In Sync with your Rhythm"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Automation Tailored to your Needs"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Find out more",
+     "href": "https://www.linde-mh.com/en/Landingpage/In-Sync/"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "New E-trucks E14 – E20 and Xi10 – Xi20"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "The time has come for a new champ."
+    },
+    {
+     "role": "cta",
+     "order": 14,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/Landingpage/Next-Champ/"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "The New Linde Reach Trucks Ri14 – Ri18"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "Linde MH at GSE Expo Europe 2026"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "materialfluss PRODUCT OF THE YEAR 2026"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "In Sync with your Rhythm"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "New E-trucks E14 – E20 and Xi10 – Xi20"
+    }
+   ],
+   "imgCount": 5,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.media-carousel-item",
+     "count": 5,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "teaser-grid",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Rent a Truck",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Find a Truck",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=new"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Fleet Optimization",
+     "href": "https://www.linde-mh.com/en/Solutions/Fleet-Management/"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Working with us",
+     "href": "https://www.linde-mh.com/en/About-us/Working-at-Linde/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "headline-h1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Linde Material Handling"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "teaser-grid",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Productivity"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Efficient forklift trucks are the backbone of efficient intra-company logistics. Together with intelligent software and comprehensive service packages, operators achieve lasting competitive advantages."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "More details here",
+     "href": "https://www.linde-mh.com/en/Linde-Core/Linde-Productivity.html"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "Safety"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The safety of people, trucks, and goods is the central idea of Linde Material Handling’s Zero Accident Philosophy. With integrated solutions, Linde is working toward a future of safer intralogistics."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "More details here",
+     "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/"
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Ergonomics"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The best solutions arise when humans and technology work together in perfect harmony. The principle of ergonomic design therefore strongly informs Linde Material Handling’s development of trucks and services."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "More details here",
+     "href": "https://www.linde-mh.com/en/Linde-Core/Linde-Ergonomics.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "teaser-grid",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Intralogistics and Automation",
+     "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Comprehensive solutions for intralogistics and automation from Linde Material Handling: efficient and scalable. For greater productivity, flexibility, and safety in the warehouse."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Linde Magazine",
+     "href": "https://www.linde-mh.com/en/About-us/Magazine/"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Exciting application reports and videos as well as articles about technology and different industry sectors."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/About-us/Magazine/"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Forklift Hire",
+     "href": "https://www.linde-mh.com/en/Products/Forklift-Hire/"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The hire service from Linde Material Handling gives customers a simple and flexible way to hire forklift trucks. With a rental fleet of more than 60,000 trucks worldwide, Linde has the perfect solution for every requirement. The rental trucks are available quickly and in the usual Linde quality."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/Products/Forklift-Hire/"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Events",
+     "href": "https://www.linde-mh.com/en/About-us/Events/"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Are you interested in high-performance products and innovative solutions from Linde MH? If so, why not come meet us in person? You can find all the upcoming dates here."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/About-us/Events/"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "headline-h2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Recent Press Releases"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "teaser-carousel-light",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Explosion-protected electric forklifts: as powerful and intelligent as standard models",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5376128.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde Material Handling updates its portfolio of counterbalanced trucks for ATEX zones"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5376128.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Reliable transport of freight and baggage",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5370752.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Linde Material Handling to showcase customized ground handling solutions at the 2026 GSE Expo international airport trade show"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5370752.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "“myLinde” software portal featuring an AI assistant",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5364992.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Linde Material Handling expands digital customer portal for managing and controlling industrial truck fleets"
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5364992.html"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Enhanced order picking concept",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5362688.html"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Linde Material Handling launches new horizontal order pickers with integrated Li-ION battery"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5362688.html"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Expanding excellence in sustainability",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5360704.html"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "Linde Material Handling awarded EcoVadis Platinum Medal for the third consecutive year"
+    },
+    {
+     "role": "cta",
+     "order": 14,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5360704.html"
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Linde electric forklifts deliver added ergonomic benefits",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5359296.html"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "Linde Material Handling to launch additional electric forklift models with permanently integrated lithium-ion battery"
+    },
+    {
+     "role": "cta",
+     "order": 17,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5359296.html"
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Broader automation portfolio, humanoid robots under development",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5356992.html"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Linde Material Handling showcases results of current and future development"
+    },
+    {
+     "role": "cta",
+     "order": 20,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5356992.html"
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "New Linde reach trucks are the perfect choice for standard applications",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5356032.html"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "Linde Material Handling presents additional series of reach trucks designed for agility, safety and comfort in the warehouse"
+    },
+    {
+     "role": "cta",
+     "order": 23,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5356032.html"
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Linde Roadster claims top honors",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5355776.html"
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "Linde Material Handling wins “materialfluss PRODUCT OF THE YEAR 2026” readers’ poll in the “Industrial Trucks” category"
+    },
+    {
+     "role": "cta",
+     "order": 26,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5355776.html"
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "The best individual solution for any customer requirement",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5350720.html"
+    },
+    {
+     "role": "body",
+     "order": 28,
+     "text": "Linde Material Handling to present its growing automation portfolio and digital solutions at LogiMAT 2026"
+    },
+    {
+     "role": "cta",
+     "order": 29,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/technical/News-Detail_5350720.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 20,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 10,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

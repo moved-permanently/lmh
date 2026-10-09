@@ -1,0 +1,47 @@
+{
+  "/en/landingpage/compact-class-with-electric-drive": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T23:38:51.276Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/linde-core/linde-ergonomics": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T23:38:58.649Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/explosion-proof-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T23:39:05.071Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/forklift-truck": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T23:39:10.754Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/tow-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T23:39:17.716Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

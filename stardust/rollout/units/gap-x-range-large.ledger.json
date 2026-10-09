@@ -1,0 +1,11 @@
+{
+  "/en/landingpage/x-range": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T07:24:13.115Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

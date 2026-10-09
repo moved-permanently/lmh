@@ -1,0 +1,1126 @@
+{
+ "source": "http://localhost:8806/stardust/migrated/en/Products/Heavy-Duty-Forklifts/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Heavy duty forklifts"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The Heavyweight World Champions"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Heavy duty forklifts for the most demanding applications",
+     "href": "#783633"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Features",
+     "href": "#783638"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Advantages",
+     "href": "#783640"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Special Equipment",
+     "href": "#783643"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Buying, renting, leasing",
+     "href": "#783646"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Customer stories",
+     "href": "#783651"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 6,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The ideal product for every task"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "With the heavy duty forklift trucks of the H100 – H180 D, HT100 – HT180 D and E100 – E180 series, Linde has the right truck for any heavy duty application. In addition, thanks to numerous equipment options, heavy trucks from Linde can be precisely tailored to the requirements of your operating environment and they always offer excellent ergonomics for the driver."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Heavy duty forklifts from Linde Material Handling are the perfect embodiment of performance and robustness. Whether it is in the steel industry, in port logistics or during the production of paper, with lifting capacities of up to 18 tons, Linde’s powerful heavy duty forklifts can be used in any area that demands resilience and performance. Even the most difficult conditions, such as wet, muddy or dusty environments, red-hot industrial furnaces or negative temperatures are no problem for the agile powerhouses."
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "With their combination of powerful motors and almost maintenance-free power units, Linde heavy duty industrial trucks ensure a particularly high handling performance in even the most challenging logistics environments. In addition, they offer their drivers the best all-round visibility in this truck class. The driver’s cab, truck chassis and visibility-optimized lift masts provide an unobstructed view in all directions, therefore ensuring maximum safety during all driving maneuvers even when the truck is fully loaded. Numerous innovative features increase safety still further."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "P.small",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Heavy duty forklifts for the most demanding applications"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "H100 – H180 D",
+     "href": "../../../en/Products/IC-Trucks/H100-H180-D/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Never-ending power and precision: the H100 – H180 D heavy duty forklifts never lose steam, even when operating continuously in the toughest conditions. They are ideally suited to 24/7 operation thanks to the hydrostatic direct drive. This means that they achieve excellent handling performance in comparison with competitors."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Products/IC-Trucks/H100-H180-D/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "HT100 – HT180 D",
+     "href": "../../../en/Products/IC-Trucks/HT100-HT180-Ds/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The HT100 – HT180 D heavy duty forklift is right in its element when the loads are heavy and the routes are long. Thanks to excellent all-round visibility and optimized ergonomics, it is particularly well-suited to operations that involve lengthy journeys."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/Products/IC-Trucks/HT100-HT180-Ds/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "E100 – E180",
+     "href": "../../../en/Products/E-Trucks/E100-E180/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The E100 – E180 electric heavy trucks combine the power of a diesel truck with the environmentally-friendly, quiet and dynamic driving style of electric forklift trucks. These fully electric powerhouses bring the various advantages of an electric power unit to the heavy load class for the first time."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../../en/Products/E-Trucks/E100-E180/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Economical Combustion or Electric Heavy Duty Forklifts"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The diesel-powered Linde H100 – H180 D and HT100 – HT180 D heavy trucks are impressive as they have the lowest fuel consumption in their performance class. Consumption measurements in a performance test certified by TÜV Nord prove that Linde’s heavy load models use up to 30 percent less diesel than trucks from the next best competitor, whilst also achieving higher performance. At the same time, with the E100 – E180 series Linde has an electrically powered truck variant that can also handle weights of up to 18 tons, therefore making it in almost no way inferior to even the most powerful combustion engine heavy duty forklift."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The power unit of the electric 10 to 18-ton trucks is based on the 8-ton electric forklift truck series from Linde but it has a double power unit, meaning that four drive motors, four motors for the lifting hydraulic system and two battery systems ensure there is sufficient power for any operation. For intensive operations, there are from Linde, while more cost-effective lead-acid batteries are available for occasional use. The electric heavy duty forklifts are a particularly good option for companies that already have a charging infrastructure, or which have high requirements in terms of sustainability, environmental protection and noise prevention even during heavy duty work."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Intelligently Combined Proven Electric Technology"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Lithium ion batteries",
+     "href": "../../../en/About-us/Innovations-from-Linde/Lithium-Ionen.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The Display Gives an Overview of the Heavy Duty Forklift"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "When working with heavy duty forklifts, it is particularly important to keep an eye on all relevant truck data at all times. This is why Linde's forklifts for heavy loads are equipped with a high-resolution 7-inch touchscreen color display. As a result, the driver can always see all important information, such as the load weight display or fuel/charge level, as well as the images from the optional rear-view camera. The touchscreen on the display is very easy and intuitive to operate."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Linde Heavy Duty Forklifts: Features"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "HANDLING"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The combustion engine forklifts get their power based on the “power on demand” principle. The truck adjusts its engine running speed automatically to the power that is currently needed, meaning that the engine is always using the minimum amount of fuel required. Thanks to the smooth Linde hydrostatic system, the driver can accelerate the truck without needing to engage the clutch or carry out switching."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "H100 – H180 D",
+     "href": "../../../en/Products/IC-Trucks/H100-H180-D/index.html"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "The electric heavy trucks use four powerful lifting motors, each with 25 kilowatt power. The four 18-kilowatt motors also allow the electric heavy duty forklifts to achieve the same handling performance as their diesel counterparts."
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "E100 – E180",
+     "href": "../../../en/Products/E-Trucks/E100-E180/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "In all heavy load models, the driver can control the lifting height and fork position easily, precisely and intuitively using the Linde Load Control. The user-friendly, color 7-inch touchscreen display provides a complete overview of all important truck data."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "ERGONOMICS"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Linde heavy trucks are designed to provide the greatest possible comfort and ."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "healthy driving conditions",
+     "href": "https://www.linde-mh.com/en/Linde-Core/Linde-Ergonomics.html"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "For example, several rubber bearings isolate the driver’s cab from the chassis and motor, absorbing the majority of the vibrations and impacts. Hydraulically sprung driver’s seats also reduce the physical strain to a minimum."
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "All Linde heavy load forklifts include a height-adjustable steering column, which can be perfectly adjusted for the driver. All lifting functions are controlled via ergonomically shaped joysticks. The ergonomic workplace can optionally be rounded off with the swiveling driver’s seat, which takes the strain off the spine when reversing. A high-performance air conditioning system* is also available."
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "*contains fluorinated hydrocarbons"
+    },
+    {
+     "role": "heading",
+     "order": 12,
+     "text": "SAFETY"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "When heavy loads need to be transported, is the absolute priority. Slim mast profiles and large windows on the cab doors provide an excellent view of the load and the working environment, and the same is true of the large rear window and flattened, visibility-optimized counterweight. The reinforced glass roof provides protection against falling objects. In the E100 – 180, the batteries have been fully integrated into the chassis to ensure that the rear view from the driver’s cab is completely unobstructed, and in order to keep the truck’s center of gravity as low as possible."
+    },
+    {
+     "role": "cta",
+     "order": 14,
+     "text": "Safety",
+     "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "A seat monitoring system locks the working and driving hydraulics as soon as the driver leaves the seat. For extreme emergencies, there is an emergency stop switch right next to the armrest. What's more, when the heavy duty forklift reverses, a clear signal sounds, alerting other trucks and people on foot."
+    },
+    {
+     "role": "heading",
+     "order": 16,
+     "text": "SERVICE"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Linde heavy trucks are designed to ensure in all areas. All relevant components can be accessed quickly and easily, serviced and replaced swiftly if necessary. The widespread Linde service network is available around the clock for this purpose."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "easy servicing",
+     "href": "https://www.linde-mh.com/en/Service/"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "The hydrostatic direct drive of the H100 – H180 D works without a clutch, differential or drum brakes, which considerably reduces the need for maintenance and service costs. As it is possible to switch between lead acid and lithium-ion batteries without changing hardware, Linde E100 – E180 can be adjusted to altered operating conditions quickly and easily."
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "All truck variants have a service box for maintenance work. The box allows the service technician to access various filters, batteries, the windscreen washer fluid tank, and diagnostic connectors. For work in the motor compartment, the driver’s cab can be tilted to the side or forwards using an electro-hydraulic pump."
+    },
+    {
+     "role": "heading",
+     "order": 21,
+     "text": "CONNECTIVITY"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "All heavy duty forklifts from Linde optionally have a data transmission unit, which uses a mobile network or WiFi to transmit the truck data to the company’s own server or Linde’s central cloud server."
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "Heavy trucks from Linde can also be integrated into a . This means that the utilization of the trucks can be optimized, service intervals can be planned more precisely and other processes can be managed. Linde guarantees compliance with the highest standards of data security thanks to multiple encryption of information."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "fleet management system",
+     "href": "https://www.linde-mh.com/en/Solutions/Fleet-Management/"
+    }
+   ],
+   "imgCount": 5,
+   "editableTexts": 19,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 6
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Benefits at a Glance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Proven Control"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The combination of dual pedal control (H100 – H180 D and E100 – E180) and Linde Load Control means that Linde heavy duty forklifts can be operated easily, precisely and intuitively."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Comfortable workstation"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "The ergonomic driver’s cab minimizes the physical strain on the driver and enables fatigue-free work for the entire shift."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Perfect All-round Visibility"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The unobstructed view in all directions maximizes safety during goods handling. While the risk of accidents reduces significantly, productivity increases at the same time."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Toughest Conditions"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Linde heavy duty forklifts are workhorses that manage even in the most adverse conditions."
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "Optimized for Service"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "The service-friendly design of the heavy duty forklifts allows easy access to important components and makes servicing and repair work quicker."
+    },
+    {
+     "role": "heading",
+     "order": 10,
+     "text": "Perfect Equipment"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Whether you need a coil boom, pipe clip or multi-pallet clip, Linde has the right attachment for any operations."
+    },
+    {
+     "role": "heading",
+     "order": 12,
+     "text": "Fully Connectable"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "Thanks to digital networking, the heavy duty forklifts can be effortlessly integrated into a fleet management system. The analysis of truck data helps to plan servicing."
+    }
+   ],
+   "imgCount": 7,
+   "editableTexts": 14,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 7,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Find the right heavy duty forklift",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?productTypes[]=5193984&offerType=new"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Optimally Equipped: Special Equipment for Linde Heavy Duty Forklifts"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Forklifts for heavy loads are used for highly diverse storage and transport tasks from rolls of paper, to concrete pipes, right through to molten steel. A wide range of attachments and customer-specific solutions ensure that the right heavy duty forklift is available for any application requirement."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Multi-pallet Clips",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Coil Boom",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Fork Positioner with End Position Sideshifter",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Fork Positioner with Level Compensation",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Height-adjustable Forks",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Pipe Clamp",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Multi-pallet Clips"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "They allow several pallets to be held at the same time and therefore are mainly used in areas where lots of freight units regularly need to be transported in one go. With their help, heavy duty forklifts can hold up to eight load carriers depending on the model. As a result drivers do not have to make multiple journeys, and in the optimum case there is no need to use several small trucks."
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "Coil Boom"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Heavy duty forklifts often need to transport hollow objects, whether this is pipes, rolls or coils, and they are ideally carried using the hole in their middle. The Linde range includes various coil booms for this purpose. They are available for various lengths and weight classes. Depending on the requirements, they can be mounted directly onto the fork carriage or can be secured to the forks as an attachment solution."
+    },
+    {
+     "role": "heading",
+     "order": 10,
+     "text": "Fork Positioner with End Position Sideshifter"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Depending on the truck model and intended use, it may be necessary to ensure that heavy duty forklifts have the right fork carriage so that they are optimally equipped for their work. Linde offers its multi-functional fork carriage for this purpose. With its help, even awkward loads can be moved easily from A to B. In addition to the basic version with its end position sideshifter, versions with additional fork adjustment options and/or single fork adjustment are also available."
+    },
+    {
+     "role": "heading",
+     "order": 12,
+     "text": "Fork Positioner with Level Compensation"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "Heavy duty forklifts often have to carry their load on uneven terrain. For this purpose, Linde offers a special fork positioner with level compensation, which can be used to align the fork carriage precisely when the load is not horizontal. The fork positioner is available with both integrated and hook-mounted forks."
+    },
+    {
+     "role": "heading",
+     "order": 14,
+     "text": "Height-adjustable Forks"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "In come usage conditions, heavy duty forklift trucks need to carry transport goods that have not been stored completely horizontally. Linde solves this problem with the height-adjustable forks, the insertion point for which can be varied by up to 10 centimeters upwards or downwards. The special device can be combined with all kinds of standard and full taper forks."
+    },
+    {
+     "role": "heading",
+     "order": 16,
+     "text": "Pipe Clamp"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "When transporting round goods (e.g. pipes), additional safety measures are required to prevent the load from rolling off. Linde offers an appropriate pipe clamp for this purpose. It prevents the pipes from slipping and therefore makes it easier to handle these challenging loads."
+    }
+   ],
+   "imgCount": 6,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 6,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 5,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "New and Used: Buy, Rent or Lease Heavy Duty Forklifts"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Buying and Financing a New Heavy Duty Forklift"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Buying a heavy lift truck can be a significant investment. If you opt for a heavy truck from Linde Material Handling, you will get an individual financing plan that is completely tailored to your needs. However, buying a new truck is not the only option. Leasing, rental or hire purchase are also always possible."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "More",
+     "href": "https://www.linde-mh.com/en/Solutions/Financing/"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "Renting a Heavy Duty Forklift"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "If your capacity utilization fluctuates due to seasonal order peaks, buying a heavy duty forklift is not always the wisest option. Often the better decision may be to rent the right truck. This allows you to respond to phases of intensive work as flexibly as possible. The Linde rental service provides you with whatever model you may require at any time. Linde guarantees quick delivery of the required trucks, accompanied by professional advice."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "More",
+     "href": "https://www.linde-mh.com/en/Products/Forklift-Hire/"
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Used Heavy Trucks as a Cost-Effective Alternative"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Against the background of rising operating costs, used forklifts from Linde that have been refurbished to a high standard offer a cost-effective alternative to a new truck. Linde refurbishes all of its used forklifts according to the same strict standards that apply for new trucks. This guarantees high performance in any environment, whether as an individual solution or as part of a larger fleet."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "More",
+     "href": "https://www.linde-mh.com/en/Products/Approved-Trucks/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "FAQ – Frequently Asked Questions about Heavy Duty Forklifts"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "What is a heavy duty forklift?"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Heavy duty forklifts are usually counterbalanced forklift trucks with a load capacity of over ten tons. Unlike normal forklift trucks, which are often designed for a transport weight of two to three tons, heavy trucks handle very heavy loads effortlessly. In some cases, heavy trucks also include telescopic forklift trucks or all-terrain forklift trucks that can carry correspondingly high weights. The line between all-terrain forklift trucks (also known as large-tire forklift trucks) and heavy duty forklifts is blurred. All-terrain forklift trucks have been optimized for outdoor use in the most challenging conditions and, depending on the model, may also carry out heavy load tasks."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "What is the load capacity of a heavy duty forklift?"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Most forklift trucks have a load capacity of 1 to 8 tons In the load capacity range up to 10 tons, we usually talk about compact forklift trucks. Forklift truck models that can lift heavy weights of between 10 and 18 tons per load unit are known as heavy duty forklifts. However, in some cases the two categories overlap. For example, heavy trucks with a nominal load weight of up to 10 tons are typically still counted as compact forklift trucks."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "What attachments are available for heavy duty forklifts?"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Heavy duty forklifts can be equipped with various attachments in order to optimize the trucks for their respective application. One frequently used attachment is the multi-pallet clip, which can be used to hold up to eight load carriers depending on the model. Pipe clamps, coil booms and attachments with adjustable forks and functions for level compensation are also often used in the heavy load range."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "What drive types are available for heavy duty forklifts?"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Currently, most heavy duty forklifts on the market run on diesel. However, electrically powered heavy trucks are now also available. Just a few years ago, electric forklift trucks could not carry loads above five tons. In 2018, Linde launched the first electric forklift trucks that could lift up to eight tons onto the market in the form of the E60 – E80. With the electric E100 – E180 heavy duty forklifts, today Linde has an electric variant that can handle up to 18 tons in weight and can keep up with even the most powerful combustion engine heavy duty forklifts."
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "Where are heavy duty forklifts used?"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Heavy duty forklifts are used in a wide range of sectors. Steelworks and shipyards use then, as do mining companies, mechanical engineering businesses, and the timber and concrete industry. Heavy trucks are also found in ports, where they are used for freight handling in shipping logistics. Companies that build and service airplanes also rely on the lifting power of these robust trucks. Here is a brief overview of the most common areas of use:"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Steelworks"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Ship building and shipyards"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Port work (handling freight for shipping)"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "Construction and servicing of airplanes"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Concrete industry"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "Timber industry"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "Mining"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Quarrying and stone industry"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "Metalworking"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Mechanical engineering"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "Paper production"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "Printing firms"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "Recycling"
+    },
+    {
+     "role": "heading",
+     "order": 23,
+     "text": "What does a heavy duty forklift cost?"
+    },
+    {
+     "role": "body",
+     "order": 24,
+     "text": "The price of a heavy duty forklift varies from model to model. The total price depends on factors such as the load capacity and equipment supplied on the truck."
+    },
+    {
+     "role": "heading",
+     "order": 25,
+     "text": "Who is allowed to drive a heavy duty forklift?"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "A forklift license is required to drive a heavy duty forklift. A normal driving license is not required. Under 18s may only operate forklifts under certain conditions and under supervision."
+    },
+    {
+     "role": "heading",
+     "order": 27,
+     "text": "What equipment options does Linde offer for heavy duty forklifts?"
+    },
+    {
+     "role": "body",
+     "order": 28,
+     "text": "Each series features a range of model variants and numerous equipment options. Linde manufactures these in series production. Linde also offers customer-specific special solutions for individual requirements."
+    },
+    {
+     "role": "heading",
+     "order": 29,
+     "text": "What operating costs does a heavy duty forklift from Linde entail?"
+    },
+    {
+     "role": "body",
+     "order": 30,
+     "text": "The model selected and its intended usage influence the operating and maintenance costs. In principle, heavy duty forklifts from Linde are the most fuel-efficient and energy-saving models in their weight class and only result in low service and maintenance costs. The H100 – H180 D from Linde do without a maintenance-intensive braking system, as the closed oil circuit of the truck’s low-wear hydrostatic system brakes automatically as soon as the driver takes their feet off the pedals. It is only necessary to change the hydraulic oil after 6000 operating hours. The electric versions also only require a low level of servicing work thanks to the maintenance-free motors."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 19,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 9,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "21",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Discover all the heavy duty forklifts from Linde",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?productTypes[]=5193984&offerType=new"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "22",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Heavy duty forklift in action"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "23",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Unbeatable Handling and Zero Emissions Guaranteed",
+     "href": "../../../en/About-us/Magazine/Liebherr/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "With the ultimate goal of electrifying their entire fleet in the future, the specialists at Liebherr have tested the E160 electric forklift truck in action over the course of several weeks."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/Liebherr/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "High-precision machine at Norrlands trä",
+     "href": "../../../en/About-us/Magazine/Norrlands-trae.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "For the past five years, a Linde H120 D has been hard at work at Norrlands trä in Älandsbro, about 400 kilometers north of Stockholm. The fleet has recently been expanded by the addition of another similar workhorse, which despite its size and weight, performs at a high level of precision."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/Norrlands-trae.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Quiet but Powerful",
+     "href": "../../../en/About-us/Magazine/Asset-VRS/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "A heavy truck with an electric drive—will that work? This was the question asked by Asset VRS, a leading provider and manufacturer of vehicle restraint systems in the UK. But it didn’t take long for the Linde E160, with its Li-ION battery, to demonstrate its considerable advantages."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/Asset-VRS/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "A powerful steel in the fire",
+     "href": "../../../en/About-us/Magazine/Bohemia-Rings.html"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "To produce perfect rings for wind turbines, heat and pressure are required robust and Linde forklift trucks are perfectly designed to work in these precise environments."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/Bohemia-Rings.html"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Powerful forklifts for tough applications",
+     "href": "../../../en/About-us/Magazine/Powerful-vehicles-for-high-performance-applications.html"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "For many years now, Novelis employees have been supported by various Linde vehicles - 24/7, 365 days a year, from E20 to HT160Ds."
+    },
+    {
+     "role": "cta",
+     "order": 14,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/Powerful-vehicles-for-high-performance-applications.html"
+    }
+   ],
+   "imgCount": 5,
+   "editableTexts": 10,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "24",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Interested in acquiring a Linde heavy truck? If so, please get in touch!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  }
+ ]
+}

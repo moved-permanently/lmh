@@ -1,0 +1,733 @@
+/* columns — source .layout-50--fixed rows (1280 box, 50 % items from 768px, 3:2-ish media padding) */
+.columns {
+  display: flex;
+  flex-wrap: wrap;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 1280px;
+  margin: 0;
+  padding: 5vw 1.25vw;
+}
+
+.columns .columns-col {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0;
+  padding: 1.25vw;
+  overflow: hidden;
+}
+
+.columns .columns-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin: auto;
+}
+
+.columns .columns-text :is(h1, h2, h3, p, ul, ol) {
+  width: 100%;
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.columns .columns-text p {
+  font-size: 0.95rem;
+  line-height: 1.75;
+  letter-spacing: -0.003em;
+}
+
+.columns .columns-text p + p {
+  margin-top: 0.5em;
+}
+
+/* gap-columns-360 — lifted from the live bundle and measured on logimat at 360 and 1440 (measure.mjs, both
+   rows, live text cell 664 / 606 px vs build 584 / 483 before these rules). The source .text-container is a
+   flex column, so EVERY child's margin counts — including the author's empty <p></p> (0 px tall, p + p
+   0.5em = 7.6 / 8.55 px each). The encoders carry those as the article marker <p><sup>&#8203;</sup></p>;
+   hero.css hides it in the block-layout article bands (margins collapse there), here it stays a 0 px
+   block that keeps its p + p margin. */
+.columns .columns-text p:has(> sup:only-child) {
+  height: 0;
+  overflow: hidden;
+  line-height: 0;
+}
+
+/* .text-container > .icon + h3 { margin-top: 1rem } — the icon slot opens every source text container */
+.columns .columns-text h3:first-child {
+  margin-top: 1rem;
+}
+
+/* ul + p { margin-top: 1em } — measured 15.2 / 17.1 px */
+.columns .columns-text ul + p {
+  margin-top: 1em;
+}
+
+/* ul.bullets: .95rem / 150 %, .5em margins, padding 0; li 1.125em indent, .25em gap, a red en dash at left 0 */
+.columns .columns-text ul {
+  margin: 0.5em 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.columns .columns-text ul li {
+  position: relative;
+  margin: 0 0 0.25em;
+  padding: 0 0 0 1.125em;
+}
+
+.columns .columns-text ul li::before {
+  content: "\2013";
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: var(--color-red);
+}
+
+/* .btn__link is a margin-less block; .text-container p + .btn__link .btn { margin-top: 1rem } (live link
+   box 64 / 66 px = 1rem + 48 px button; the global p.button-wrapper 12px 0 made the build 72) */
+.columns .columns-text p.button-wrapper {
+  margin: 0;
+}
+
+.columns .columns-text p + p.button-wrapper {
+  margin-top: 1rem;
+}
+
+.columns .columns-text h3 {
+  font-size: 1.63rem;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+}
+
+/* source h2 (bundle @32686/@32856: .h2, h2 { 2rem !important }, 3rem from 768) — a text container's h2
+   (semi-automated-order-pickers: 32px/40px at 360, 54px/67.5px at 1440, 1em above). The h1 shares it: that
+   page's only heading (source h2.h3, measured with these h2 metrics) is promoted to the document's single h1. */
+.columns .columns-text :is(h1, h2) {
+  margin-top: 1em;
+  font-size: 2rem;
+  line-height: 1.25;
+}
+
+@media (width >= 768px) {
+  .columns .columns-text :is(h1, h2) {
+    font-size: 3rem;
+  }
+}
+
+.columns .columns-media {
+  position: relative;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 2.5vw;
+}
+
+.columns .columns-media picture {
+  display: block;
+  position: relative;
+  height: 0;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+}
+
+.columns .columns-media img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.columns .columns-play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 100%;
+  background: rgb(195 0 40 / 70%);
+  color: var(--color-white);
+  font-size: 56px;
+  line-height: 1;
+  pointer-events: none;
+}
+
+.columns .columns-play::before {
+  content: "\f14c";
+  display: block;
+  margin: -0.1em;
+}
+
+@media (width <= 639px) {
+  .columns .columns-media-col {
+    order: -1;
+  }
+
+  .columns .columns-text p {
+    letter-spacing: -0.017em;
+  }
+
+  .columns .columns-text h3 {
+    font-size: 1.5rem;
+  }
+}
+
+@media (width >= 768px) {
+  .columns .columns-col {
+    width: 50%;
+  }
+}
+
+@media (width >= 1280px) {
+  .columns {
+    padding: 32px 16px;
+  }
+
+  .columns .columns-col {
+    padding: 1.25vw 16px;
+  }
+
+  .columns .columns-media {
+    padding: 32px;
+  }
+}
+
+/* program template text bands (prototype stardust/prototypes/en-products-e-trucks.css L45–L79,
+   L90–L96, L145): .layout-100--flex / .layout-50--flex / .layout-40-60-reverse--flex rows whose
+   items are centred .text-container boxes — full-bleed, padding 0, the band colour on the item */
+.columns-container .columns-wrapper:has(> .columns.band, > .columns.split, > .columns.feature) {
+  max-width: none;
+}
+
+.columns:is(.band, .split, .feature) {
+  align-items: stretch;
+  max-width: none;
+  padding: 0;
+  background: var(--color-white);
+}
+
+.columns:is(.band, .split, .feature) .columns-col {
+  justify-content: center;
+  padding: 0;
+}
+
+.columns:is(.band, .split, .feature) .columns-text {
+  box-sizing: border-box;
+  max-width: calc(768px + 10vw);
+  padding: 5vw;
+}
+
+.columns.split .columns-text {
+  max-width: calc(640px + 5vw);
+}
+
+.columns.split .columns-text :is(h1, h2, h3, p, ul, ol) {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.columns .columns-col-red {
+  background: var(--color-red);
+}
+
+.columns .columns-col-dark {
+  background: var(--color-textgrey);
+}
+
+.columns :is(.columns-col-red, .columns-col-dark),
+.columns :is(.columns-col-red, .columns-col-dark) :is(h1, h2, h3, a, .icon) {
+  color: var(--color-white);
+}
+
+.columns :is(.columns-col-red, .columns-col-dark) a {
+  text-decoration: underline;
+}
+
+/* source .text-container > .icon + h3: every band heading sits 1rem below its (often empty) icon slot */
+.columns:is(.band, .split, .feature) .columns-text > :is(h1, h2, h3):first-child {
+  margin-top: 1rem;
+}
+
+/* source .text-container > .icon: red 2rem glyph (3rem from 768px), 1rem above the heading */
+.columns .columns-text > .icon {
+  display: block;
+  width: 100%;
+  max-width: 640px;
+  margin: 0 auto;
+  color: var(--color-red);
+  font-family: var(--icon-font-family);
+  font-size: 2rem;
+  line-height: 1.25;
+}
+
+.columns .columns-text > .icon + :is(h1, h2, h3) {
+  margin-top: 1rem;
+}
+
+/* on a toned item the glyph is white (measure.mjs pallet-trucks 360 and 1440: source .text-container > .icon
+   rgb(255, 255, 255) on the red item, 40 / 67.5 px tall; the build painted it var(--color-red) on the red band —
+   an invisible glyph in a slot of the right height, so the pixel row carried the pictogram, not the height) */
+.columns :is(.columns-col-red, .columns-col-dark) .columns-text > .icon,
+.columns :is(.columns-col-red, .columns-col-dark).columns-text > .icon {
+  color: var(--color-white);
+}
+
+.columns .icon-forklift::before { content: "\f137"; }
+.columns .icon-up::before { content: "\f15c"; }
+.columns .icon-down::before { content: "\f12f"; }
+.columns .icon-starspikes::before { content: "\f190"; }
+.columns .icon-smeasurement::before { content: "\f179"; }
+.columns .icon-mail::before { content: "\f13f"; }
+
+/* feature text cell: the live row pads 5vw 2.5vw at every width (measure.mjs 360: live 18px 9px, build 18px
+   → the 324 px column wrapped each paragraph one line longer), and the source's empty `span.icon` slot keeps
+   a 24 px line box above the h3 (live h3 at +58 = 18 pad + 24 slot + 16 margin, build +34) */
+.columns.feature .columns-text {
+  padding: 5vw 2.5vw;
+}
+
+.columns.feature .columns-text > :is(h1, h2, h3):first-child {
+  margin-top: calc(1rem + 24px);
+}
+
+/* split cells (source .layout-50--flex > .ld-layout-item__wrapper > .text-container, display block): the cell pads
+   5vw 2.5vw at every width (measure.mjs ic-trucks: 360 live 18px 9px → 342 px column, 1440 72px 36px → 640 px;
+   the build padded 5vw → 324 / 568 px and wrapped each paragraph longer), and the source's empty span.icon keeps
+   one body line box above the h3 (live h3 at +58 = 18 pad + 24 line + 16 margin at 360; +117 = 72 + 27 + 18 at
+   1440 — a 1.5rem line, so the slot scales with the root) */
+.columns.split .columns-text {
+  padding: 5vw 2.5vw;
+}
+
+.columns.split .columns-text > :is(h1, h2, h3):first-child {
+  margin-top: 2.5rem;
+}
+
+/* program CTA row (source .layout-100--fixed > .ld-layout-item__wrapper > .inline-button-row): below 1280
+   the item wrapper's 1.25vw padding and the row's 8px margin are missing from the `cta, horizontal` style
+   (hero.css; measure.mjs 360: live 132 px, build 107 — foundation-requests.md line 9). Scoped to the
+   program template (body class from the metadata) so the landing CTA rows stay as gated. */
+@media (width < 1280px) {
+  /* measure.mjs forklift-truck 360: the row sits at x 9 (342 wide — a 2.5vw inset: 1.25vw container +
+     1.25vw wrapper), its 8px margin folded into the padding here; each a.btn__link carries only the 8px
+     right margin that separates horizontal buttons (1440: 272 + 447 → 727), so two stacked buttons sit
+     86 px apart (4 + 4 button margins) — the 8px paragraph margins had made it 102 and x 14 */
+  body.program .hero-container ~ .section.cta.horizontal > div {
+    padding: calc(6.25vw + 8px) 2.5vw;
+  }
+
+  /* measure.mjs ic-trucks 360: live row 132 = 22.5 pad + 8 row margin + 71 link + 8 + 22.5 — the 16px
+     paragraph margin made the build 148; the row margin is in the padding above */
+  body.program .hero-container ~ .section.cta.horizontal p.button-wrapper {
+    margin: 0 8px 0 0;
+  }
+}
+
+/* measure.mjs ic-trucks + e-trucks 1440: live row 187 = 32 row pad + 18 wrapper pad + 8 row margin + 71 link
+   (btn 55: padding 16px 24px, line-height 21, 1px border, margin 8px 0) + 8 + 18 + 32; the landing
+   `cta, horizontal` reading (72px pad, 36px buttons) made the build 204 */
+@media (width >= 1280px) {
+  body.program .hero-container ~ .section.cta.horizontal > div {
+    padding: 50px 32px;
+  }
+
+  /* the 8px right margin is the live a.btn__link gap between horizontal buttons (forklift-truck 1440:
+     272 + 447 → 727, the row centred with the trailing margin) */
+  body.program .hero-container ~ .section.cta.horizontal p.button-wrapper {
+    margin: 8px 8px 8px 0;
+  }
+
+  body.program .hero-container ~ .section.cta.horizontal a.button {
+    margin: 8px 0;
+    padding: 16px 24px;
+    line-height: 21px;
+  }
+}
+
+/* feature: text 40 % | media 60 % (768+), media clipped to 3:2 with the image covering the box */
+.columns.feature .columns-media {
+  width: 100%;
+  min-height: 100%;
+  padding: 0;
+}
+
+.columns.feature .columns-media picture {
+  padding-bottom: 68.67%;
+}
+
+/* prototype L145–146: the clipped rendition is painted 118.52 % wide, centred (−9.26 %) — the
+   tighter crop the live page shows; the 3:2 box above stays the clipper */
+.columns.feature .columns-media img {
+  left: -9.26%;
+  width: 118.52%;
+}
+
+@media (width >= 768px) {
+  .columns.band .columns-col {
+    width: 100%;
+  }
+
+  .columns.feature .columns-text-col {
+    width: 40%;
+    max-height: 40vw;
+    overflow-y: auto;
+  }
+
+  .columns.feature .columns-media-col {
+    width: 60%;
+  }
+
+  .columns .columns-text > .icon {
+    font-size: 3rem;
+  }
+}
+
+@media (width >= 1280px) {
+  .columns:is(.band, .split, .feature) {
+    padding: 0;
+  }
+
+  .columns:is(.band, .split, .feature) .columns-col {
+    padding: 0;
+  }
+
+  .columns.feature .columns-media {
+    padding: 0;
+  }
+}
+
+/* sibling variants (cluster-landing-1) — a single media cell (source full-width .media-player band)
+   spans the box; `flex` = source .layout-N--flex (fluid, no 1280 cap); `text-60` / `text-40` = the
+   source 60-40 / 40-60 splits; `red` = .layout--red text wrapper; `testimonial` = .testimonial
+   (1x1 portrait, quote as <em>); `carousel` = slides + dots (see columns.js). */
+.columns .columns-col:only-child {
+  width: 100%;
+}
+
+/* `flex` = source .layout-N--flex: a full-bleed row (no 1280 cap, no padding) that escapes the
+   section's 1280 wrapper with the 50 % − 50vw margin (main clips x); items 50 % (text-60 / text-40:
+   60-40) from 768px; the text item is capped at the media height (source .layout--overflow
+   max-height 50vw / 40vw, text-container overflow-y auto); the text box is calc(640px + 5vw) wide
+   with 5vw padding; the media is a 3:2 cover, `square` = source .image-wrapper-1x1 (measured 1440:
+   live row 720 / 593 px, build 420 / 492 px before this rule). */
+.columns.flex {
+  width: 100vw;
+  max-width: none;
+  margin-left: calc(50% - 50vw);
+  padding: 0;
+  align-items: stretch;
+}
+
+.columns.flex .columns-col {
+  padding: 0;
+  justify-content: center;
+}
+
+.columns.flex .columns-text {
+  box-sizing: border-box;
+  /* the source .layout-50--flex .text-container is display block (measured live 1440 / 360 on financing: the
+     generic .text-container flex column is overridden on flex rows), so the children's margins collapse */
+  display: block;
+  width: 100%;
+  max-width: calc(640px + 5vw);
+  /* measured live 1440 / 360 on financing and maintenance-repair .layout-50--flex text containers:
+     72px 36px / 18px 9px = 5vw 2.5vw (the 5vw-all-round box left a 568 px column where the source has 640) */
+  padding: 5vw 2.5vw;
+}
+
+/* the source's empty span.icon (display inline-block, 0 px) still opens a body line box above the first heading of
+   a flex text cell: measured financing 1440 h3 at +45 = 27 line + 18 margin, 360 at +40 = 24 + 16 (a 1.5rem line);
+   a cell with a real icon gets the 1rem below the glyph instead (`.icon + h3` above) */
+.columns.flex .columns-text > :is(h1, h2, h3):first-child {
+  margin-top: 2.5rem;
+}
+
+/* the same empty span.icon line box above a paragraph-first flex text cell (x-range 40-60 row, measured 1440: source
+   p at container y + 99 = 72 padding + 27 line, build at + 72) */
+.columns.flex .columns-text > p:first-child {
+  margin-top: 1.5rem;
+}
+
+.columns.flex .columns-media {
+  padding: 0;
+}
+
+.columns.flex .columns-media picture {
+  padding-bottom: 66.67%;
+}
+
+/* `large` band (source .text-container--large, e.g. the red sustainability intro): copy at 1.125em / 1.5
+   with a 1em bottom margin (measured 1440: 20.25/30.375, margin-bottom 20.25; 360: 18/27, 18) */
+.columns.band.large .columns-text p {
+  margin-bottom: 1em;
+  font-size: 1.125em;
+  line-height: 1.5;
+}
+
+/* the same source rule on a flex row (x-range .layout-40-60-reverse--flex > .text-container--center.text-container--large,
+   measured live 1440: p 20.25/30.375, margin-bottom 20.25, container 576 wide with 72/36 padding; build before this
+   rule 17.1/29.925, margin 0 — the first hot band 2500–3000 of the 1440 gate). The encoder emits the source class as the
+   variant; both spellings are covered until the document carries `large`. */
+.columns.flex:is(.large, .text-container--large) .columns-text p {
+  margin-bottom: 1em;
+  font-size: 1.125em;
+  line-height: 1.5;
+}
+
+.columns.red:not(.band, .split, .feature) .columns-text {
+  box-sizing: border-box;
+  padding: 2.5vw 5vw;
+  background: var(--color-red);
+  color: var(--color-white);
+}
+
+/* the flex row paints the whole item (source .layout--red on the item wrapper, columns.js tone) */
+.columns.flex.red .columns-text {
+  padding: 5vw;
+  background: none;
+}
+
+.columns.red .columns-text a {
+  color: var(--color-white);
+}
+
+.columns.red .columns-text a.button {
+  border-color: var(--color-white);
+  background: var(--color-white);
+  color: var(--color-red);
+}
+
+.columns.testimonial .columns-media picture {
+  padding-bottom: 100%;
+}
+
+.columns.flex.square .columns-media picture {
+  padding-bottom: 100%;
+}
+
+.columns.testimonial .columns-text em {
+  font-style: normal;
+}
+
+.columns .columns-slide {
+  display: none;
+}
+
+.columns .columns-slide.active {
+  display: block;
+}
+
+.columns .columns-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin: 12px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.columns .columns-dots button {
+  width: 12px;
+  height: 12px;
+  padding: 0;
+  border: 2px solid var(--color-red);
+  border-radius: 100%;
+  background: transparent;
+  font-size: 0;
+  cursor: pointer;
+}
+
+.columns .columns-dots li.active button {
+  background: var(--color-red);
+}
+
+/* carousel variant geometry (source .carousel-wrapper > .media-carousel--default): the slide is the whole item
+   column — measured platform 360: live 342 × 192 at x 9 where the build kept the 9px media padding (324 wide,
+   dots below the image; gate-all 360 hot window 5600); the red 48px prev/next buttons (.btn--icon @176341,
+   background rgb(170,0,32) measured, white 24px glyph) sit absolute at left/right 0, vertically centred
+   (live-bundle.css @71693/@71972/@72017); the dots strip is absolute at the bottom of the slide (@53868 bottom 0,
+   width 100%; 24px cells @53966; 8px white squares with 8px margins @54029; the active dot's red underline
+   only from 1024px @54417) */
+.columns.carousel .columns-media {
+  padding: 0;
+}
+
+.columns.carousel .columns-slides {
+  position: relative;
+}
+
+.columns.carousel .columns-carousel-btn {
+  position: absolute;
+  top: 50%;
+  z-index: 1;
+  width: 48px;
+  height: 48px;
+  margin: 0;
+  padding: 12px;
+  border: 0;
+  background: var(--color-red);
+  color: var(--color-white);
+  line-height: 0;
+  cursor: pointer;
+  transform: translateY(-50%);
+}
+
+.columns.carousel .columns-carousel-btn-prev {
+  left: 0;
+}
+
+.columns.carousel .columns-carousel-btn-next {
+  right: 0;
+}
+
+.columns.carousel .columns-carousel-btn .icon {
+  font-size: 24px;
+}
+
+.columns.carousel .columns-dots {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 32px;
+  margin: 0;
+  gap: 0;
+  justify-content: center;
+}
+
+.columns.carousel .columns-dots li {
+  width: 24px;
+  height: 24px;
+}
+
+.columns.carousel .columns-dots button,
+.columns.carousel .columns-dots li.active button {
+  width: 8px;
+  height: 8px;
+  margin: 8px;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: var(--color-white);
+}
+
+@media (width >= 1024px) {
+  .columns.carousel .columns-dots li.active button {
+    box-shadow: inset 0 -0.15rem var(--color-red);
+  }
+}
+
+@media (width >= 768px) {
+  .columns.text-60 .columns-text-col {
+    width: 60%;
+  }
+
+  .columns.text-60 .columns-media-col,
+  .columns.text-40 .columns-text-col {
+    width: 40%;
+  }
+
+  .columns.text-40 .columns-media-col {
+    width: 60%;
+  }
+
+  .columns.testimonial .columns-media-col {
+    width: 25%;
+  }
+
+  .columns.testimonial .columns-text-col {
+    width: 75%;
+  }
+}
+
+@media (width >= 768px) {
+  .columns.flex .columns-text-col {
+    max-height: 50vw;
+    overflow-y: auto;
+  }
+
+  .columns.flex:is(.text-60, .text-40) .columns-text-col {
+    max-height: 40vw;
+  }
+}
+
+/* testimonial — source .testimonial (live-bundle.css @372964–@373875, measured working-at-linde): a flex ROW at
+   every width (align-items flex-start below 640, center from 640), the 1x1 portrait wrapper min-width 25 % +
+   16px right margin, the quote + info column taking the rest. blockquote: red, 1.25rem/150 % below 640,
+   1.5rem light face from 640, left-aligned, padding 0 0 .5em; p.info: textgrey .875rem/1.75. */
+.columns.testimonial {
+  flex-wrap: nowrap;
+  align-items: flex-start;
+}
+
+.columns.testimonial .columns-media-col {
+  order: 0;
+  width: 25%;
+  min-width: 25%;
+  flex: 0 0 25%;
+  margin-right: 16px;
+}
+
+.columns.testimonial .columns-text-col {
+  width: auto;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.columns.testimonial .columns-text {
+  align-items: flex-start;
+}
+
+.columns.testimonial .columns-text :is(p, em) {
+  max-width: none;
+  margin-left: 0;
+  text-align: left;
+}
+
+.columns.testimonial .columns-text em {
+  display: block;
+  padding: 0 0 0.5em;
+  color: var(--color-red);
+  font-size: 1.25rem;
+  line-height: 1.5;
+  letter-spacing: normal;
+}
+
+.columns.testimonial .columns-text p:not(:has(em)) {
+  color: var(--color-textgrey);
+  font-size: 0.875rem;
+  line-height: 1.75;
+}
+
+@media (width >= 640px) {
+  .columns.testimonial {
+    align-items: center;
+  }
+
+  .columns.testimonial .columns-text em {
+    font-family: var(--font-face-light), var(--font-sub), Arial, sans-serif;
+    font-size: 1.5rem;
+  }
+
+  .columns.testimonial .columns-text p:not(:has(em)) {
+    max-width: 640px;
+  }
+}
+
+/* white flex rows: the source paints the row container light grey (.layout--white, hero.css .section.white)
+   but each 50 % item is its own .ld-layout-item__wrapper.layout--white — measured working-at-linde
+   1440: items 720 × 522 rgb(255,255,255) on a 1440 × 522 rgb(238,239,243) row; 360: items 360 × 319 and
+   360 × 481 white on the 360 × 799 grey row — so the visible band is white, only the headline band is grey */
+.columns.flex.white .columns-col {
+  background: var(--color-white);
+}

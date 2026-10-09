@@ -1,0 +1,592 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics plan",
+  "writtenAt": "2026-10-06T16:11:34.017Z",
+  "input": "stardust/current/_dynamics.json",
+  "target": "https://main--96d6da00--aemcoder.aem.live",
+  "migrated": "stardust/migrated"
+ },
+ "rows": [
+  {
+   "id": "a-unknown-third-party-host-epcloud-ccm19-de",
+   "class": "A",
+   "feature": "unknown third-party host epcloud.ccm19.de",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "epcloud.ccm19.de"
+   ],
+   "pattern": "inspect",
+   "disposition": "static-snapshot",
+   "reproducibility": "needs-human-capture",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "inspect the XHR, add a vendor row"
+  },
+  {
+   "id": "a-unknown-third-party-host-px-ads-linkedin-com",
+   "class": "A",
+   "feature": "unknown third-party host px.ads.linkedin.com",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "px.ads.linkedin.com"
+   ],
+   "pattern": "inspect",
+   "disposition": "static-snapshot",
+   "reproducibility": "needs-human-capture",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "inspect the XHR, add a vendor row"
+  },
+  {
+   "id": "a-cms-app-settings-object-datalayer",
+   "class": "A",
+   "feature": "CMS / app settings object dataLayer",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "read-settings",
+   "disposition": "static-snapshot",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "— (keys name endpoints, ids, vendors)"
+  },
+  {
+   "id": "a-unknown-third-party-host-www-etracker-de",
+   "class": "A",
+   "feature": "unknown third-party host www.etracker.de",
+   "pages": 5,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "www.etracker.de"
+   ],
+   "pattern": "inspect",
+   "disposition": "static-snapshot",
+   "reproducibility": "needs-human-capture",
+   "status": "delivered-by-capture",
+   "phase": "detect",
+   "decision": "inspect the XHR, add a vendor row",
+   "alreadyDelivered": "output already carries \"www.etracker.de\""
+  },
+  {
+   "id": "a-first-party-api-post-mwf-live-servlet-rest",
+   "class": "A",
+   "feature": "first-party API POST /mwf_live/servlet/rest",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 6,
+    "of": 99
+   },
+   "evidence": [
+    "POST /mwf_live/servlet/rest?_input,_mwfToken:EN2749431,_service,_uid → 200"
+   ],
+   "pattern": "off-origin-data",
+   "disposition": "data-fed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "off-origin data",
+   "decision": "which tier for the target host; consumer on the migrated pages?",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "cr-client-rendered-slot-module-fact-counter-content-js-fact-",
+   "class": "CR",
+   "feature": "client-rendered slot module-fact-counter--content js-fact-counter red",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "Worldwide over 13,000 people work for the Linde Material Han"
+   ],
+   "pattern": "settled-dom-snapshot",
+   "disposition": "static-snapshot",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "capture",
+   "decision": "inspect the consumer"
+  },
+  {
+   "id": "f-form-global-search-form-origin-en-about-us-awards-1-fields",
+   "class": "F",
+   "feature": "form \"global-search__form\" → origin /en/About-us/Awards/ (1 fields)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "text:"
+   ],
+   "pattern": "forms",
+   "disposition": "rebuild-native",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "forms",
+   "decision": "production endpoint; interim capture ships now"
+  },
+  {
+   "id": "f-form-global-search-form-origin-en-about-us-company-1-field",
+   "class": "F",
+   "feature": "form \"global-search__form\" → origin /en/About-us/Company/ (1 fields)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "text:"
+   ],
+   "pattern": "forms",
+   "disposition": "rebuild-native",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "forms",
+   "decision": "production endpoint; interim capture ships now"
+  },
+  {
+   "id": "f-form-global-search-form-origin-en-about-us-events-1-fields",
+   "class": "F",
+   "feature": "form \"global-search__form\" → origin /en/About-us/Events/ (1 fields)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "text:"
+   ],
+   "pattern": "forms",
+   "disposition": "rebuild-native",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "forms",
+   "decision": "production endpoint; interim capture ships now"
+  },
+  {
+   "id": "f-form-global-search-form-origin-en-edi-1-fields",
+   "class": "F",
+   "feature": "form \"global-search__form\" → origin /en/EDI/ (1 fields)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "text:"
+   ],
+   "pattern": "forms",
+   "disposition": "rebuild-native",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "forms",
+   "decision": "production endpoint; interim capture ships now"
+  },
+  {
+   "id": "f-form-global-search-form-origin-en-forms-agility-on-point-f",
+   "class": "F",
+   "feature": "form \"global-search__form\" → origin /en/Forms/agility-on-point-form/ (1 fields)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "text:"
+   ],
+   "pattern": "forms",
+   "disposition": "rebuild-native",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "forms",
+   "decision": "production endpoint; interim capture ships now"
+  },
+  {
+   "id": "f-form-commanden2749431-no-action-js-wired-13-fields",
+   "class": "F",
+   "feature": "form \"commandEN2749431\" → no action (JS-wired) (13 fields)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "select:title,text:name,text:surname,text:company,text:street,text:no,text:zipcode,text:city,text:phone,text:email,select:countryGlobal,textarea:message",
+    "statistics,chksmlf,mwf_leadid,mwf_leadid_inmail,useCountryService,useCountryService"
+   ],
+   "pattern": "client-compute",
+   "disposition": "client-only",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "client tools",
+   "decision": "none"
+  },
+  {
+   "id": "f-form-global-search-form-origin-en-productfinder-html-1-fie",
+   "class": "F",
+   "feature": "form \"global-search__form\" → origin /en/Productfinder.html (1 fields)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "text:"
+   ],
+   "pattern": "forms",
+   "disposition": "rebuild-native",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "forms",
+   "decision": "production endpoint; interim capture ships now"
+  },
+  {
+   "id": "f-form-less-control-group-in-body-30-controls",
+   "class": "F",
+   "feature": "form-less control group in body (30 controls)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "model,Pallet Trucks,Tow Tractors,Reach Trucks,Very Narrow Aisle Trucks,Pallet Stackers,Order Pickers,Electric Forklifts,Diesel / Gas Forklifts,Heavy Duty Forklifts,Tugger Trains,Automated Trucks"
+   ],
+   "pattern": "client-compute",
+   "disposition": "client-only",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "client tools",
+   "decision": "none"
+  },
+  {
+   "id": "f-form-less-control-group-in-div-form-control-input-2-contro",
+   "class": "F",
+   "feature": "form-less control group in div.form_control_input (2 controls)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "client-compute",
+   "disposition": "client-only",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "client tools",
+   "decision": "none"
+  },
+  {
+   "id": "f-form-global-search-form-origin-en-technical-news-detail-10",
+   "class": "F",
+   "feature": "form \"global-search__form\" → origin /en/technical/News-Detail_101184.html (1 fields)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "text:"
+   ],
+   "pattern": "forms",
+   "disposition": "rebuild-native",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "forms",
+   "decision": "production endpoint; interim capture ships now"
+  },
+  {
+   "id": "i18n-locale-variants-en-us-en-us-en-us-en-us-en-us",
+   "class": "I18N",
+   "feature": "locale variants en-US,en-US,en-US,en-US,en-US",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup"
+   ],
+   "pattern": "locale-tree",
+   "disposition": "rebuild-native",
+   "reproducibility": "needs-business-decision",
+   "status": "delivered-by-capture",
+   "phase": "locale wave",
+   "decision": "scope of the locale trees",
+   "alreadyDelivered": "output already carries \"https://kiongroup.wd3.myworkdayjobs.com/\""
+  },
+  {
+   "id": "m-modal-trigger-data-ccm-modal-dialog-form",
+   "class": "M",
+   "feature": "modal trigger data-ccm-modal → dialog:form",
+   "pages": 7,
+   "probed": 7,
+   "reach": {
+    "pages": 495,
+    "of": 99
+   },
+   "evidence": [
+    "Settings",
+    "?"
+   ],
+   "pattern": "modal-loader",
+   "disposition": "rebuild-native",
+   "reproducibility": "self",
+   "status": "delivered-by-capture",
+   "phase": "interactive",
+   "decision": "none",
+   "alreadyDelivered": "output already carries \"Settings\""
+  },
+  {
+   "id": "m-modal-trigger-aria-haspopup-listbox-content",
+   "class": "M",
+   "feature": "modal trigger aria-haspopup → listbox:content",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 12,
+    "of": 99
+   },
+   "evidence": [
+    "Mr."
+   ],
+   "pattern": "modal-loader",
+   "disposition": "rebuild-native",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "interactive",
+   "decision": "none"
+  },
+  {
+   "id": "s-first-party-api-get-lmhnewproductsearch-cloud-execute",
+   "class": "S",
+   "feature": "first-party API GET /lmhnewproductsearch_cloud/execute",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 2,
+    "of": 99
+   },
+   "evidence": [
+    "GET /lmhnewproductsearch_cloud/execute?capacityPoints,fl,fq,query,rows,sortBy,sortOrder,ts,wt → 200"
+   ],
+   "pattern": "off-origin-data",
+   "disposition": "data-fed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "off-origin data",
+   "decision": "datasource ownership / same-origin routing on production",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "t-unknown-third-party-host-epcdn-ccm19-de",
+   "class": "T",
+   "feature": "unknown third-party host epcdn.ccm19.de",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "epcdn.ccm19.de"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-static-etracker-com",
+   "class": "T",
+   "feature": "unknown third-party host static.etracker.com",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "static.etracker.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-code-etracker-com",
+   "class": "T",
+   "feature": "unknown third-party host code.etracker.com",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "code.etracker.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-tag-manager-google-tag-manager",
+   "class": "T",
+   "feature": "tag manager: Google Tag Manager",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "www.googletagmanager.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-analytics-session-replay",
+   "class": "T",
+   "feature": "analytics: session replay",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "www.clarity.ms",
+    "c.clarity.ms",
+    "scripts.clarity.ms",
+    "l.clarity.ms"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-marketing-ad-retargeting-pixel",
+   "class": "T",
+   "feature": "marketing: ad / retargeting pixel",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "connect.facebook.net",
+    "snap.licdn.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-analytics-google-analytics-ads",
+   "class": "T",
+   "feature": "analytics: Google Analytics / Ads",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "www.google-analytics.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-c-bing-com",
+   "class": "T",
+   "feature": "unknown third-party host c.bing.com",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "c.bing.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-www-linkedin-com",
+   "class": "T",
+   "feature": "unknown third-party host www.linkedin.com",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "www.linkedin.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "delivered-by-capture",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids",
+   "alreadyDelivered": "output already carries \"www.linkedin.com\""
+  },
+  {
+   "id": "t-third-party-mount-div-data-nosnippet-tag-manager-injected-",
+   "class": "T",
+   "feature": "third-party mount <div data-nosnippet> (tag-manager-injected widget)",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "data-nosnippet"
+   ],
+   "pattern": "embed-passthrough",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-credential",
+   "status": "pending",
+   "phase": "embeds",
+   "decision": "vendor account ids stay the owner's"
+  },
+  {
+   "id": "t-unknown-third-party-host-www-etracker-de",
+   "class": "T",
+   "feature": "unknown third-party host www.etracker.de",
+   "pages": 2,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "www.etracker.de"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "delivered-by-capture",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids",
+   "alreadyDelivered": "output already carries \"www.etracker.de\""
+  },
+  {
+   "id": "x-sign-in-account-links",
+   "class": "X",
+   "feature": "sign-in / account links",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/"
+   ],
+   "pattern": "decided-out",
+   "disposition": "decided-out",
+   "reproducibility": "needs-backend",
+   "status": "delivered-by-capture",
+   "phase": "register",
+   "decision": "auth / commerce on the new host?",
+   "alreadyDelivered": "output already carries \"https://www.linde-mh.com/en/Service/Retr\""
+  },
+  {
+   "id": "x-commerce-signals-cart-true-prices-0",
+   "class": "X",
+   "feature": "commerce signals (cart: true, prices: 0)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "decided-out",
+   "disposition": "decided-out",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "register",
+   "decision": "auth / commerce on the new host?"
+  }
+ ]
+}

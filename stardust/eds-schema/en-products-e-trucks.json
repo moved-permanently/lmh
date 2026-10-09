@@ -1,0 +1,627 @@
+{
+ "source": "http://localhost:8804/stardust/migrated/en/Products/E-Trucks/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "E-Trucks"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Electronic Compact Drive for Precision and Performance"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Versatile, Comfortable, and Cost-Effective"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde Material Handling offers a wide range of electric forklift trucks for loads weighing in at between 1000 and 8000 kilograms and for virtually any application from the worlds of industry and commerce. These trucks really shine thanks to their precision and agility, which together combine to ensure high handling performance."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "In order to be able to transport loads quickly, Linde has developed powerful drive technology with sensitive traction and incredibly precise steering. The entire range of Linde electric forklift trucks feature a maintenance-free compact axle with two independent wheel motors, allowing the truck to be maneuvered down to the last millimeter via the dual pedal control."
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Linde electric forklift trucks offer both comfort for the driver and cost-effectiveness, and all with Linde's trademark safety concept. This includes, among other things, a robust protective zone for the driver and the optionally available Linde Safety Pilot driver assistance system that provides extra safety when handling loads."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Find your truck here",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?productTypes[]=2377&offerType=new"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "In Focus: Compact Axle"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The Linde compact axle drive brings together two powerful, maintenance-free three-phase motors and the Linde standard dual pedal control, maintenance-free oil bath disk brakes, and a hydraulic lift motor. Encapsulated completely against the ingress of dust and contamination, the unit boasts power steering and economic, safe, precise, and totally smooth load handling."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Located at each end of the axle, both motors are based on high-performance Linde AC technology. As well as ensuring outstanding precision in the transporting of loads, the compact axle also offers exceptional energy efficiency. This is due to the smart performance components integrated directly into the axle itself, meaning short cable routes and a minimum of electronic transfer points."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "8",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Energy Managed Effectively"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde electric forklift trucks boast an intelligent energy management system that ensures that the trucks are able to draw optimal driving performance and long-lasting durability from their drive batteries. This system includes a precise residual charge display, battery temperature monitoring, and a quick charging procedure. Every Linde electric forklift truck is built in such a way that the electronic modules for controlling load handling and the drive are easily accessible, meaning they can be serviced conveniently."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Ergonomics for Fatigue-Free Work"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde electric forklift trucks are designed in line with ergonomic considerations for fatigue-free work – something that goes far beyond just ample leg room and adjustable seats. For example, the control joysticks for load handling are located in the armrests of the electric models, allowing them to be operated with just the fingertips, easing strain on the back."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Optionally, the forklift models feature rotating driver's work stations, that minimize strain on the spine when reversing, while dual pedal control means that the driver no longer has to shift their feet to change the direction of travel, and the cab is specially insulated against shocks and vibrations."
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "In Focus: Active and Passive Safety"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Linde electric forklift trucks are designed with optimal safety for the driver and their surroundings in mind. Driver assistance systems such as the optional Linde Safety Pilot alert the driver of overloading or travel speeds dangerously excessive for the current load."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Good all-round visibility as a result of specially encapsulated lift masts make the trucks safer to use, as does the Linde Protector Frame: a uniquely constructed protective zone to guard the driver against falling loads, consisting of a solid connection between the cab roof and frame."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Driving Electric Forklift Truck Technology"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "In the intralogistics sector, the medium-term trend is moving toward forklift trucks with electric drives. As a result, Linde Material Handling is driving forward innovative technologies in every area of this truck class. This includes, for example, battery technology, the energy efficiency of the drives, and charging cycles."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "However, aspects such as ergonomics, active and passive safety, and sustainable selection of materials, too, are always at the focus of Linde engineers' designs, as are the topics of tomorrow, such as networked fleet management and autonomous logistics trucks."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Five Times the Output"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "16",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Effective",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Safe",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Cost-Effective",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Robust",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Comfortable",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "Effective"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Linde electric forklift trucks are precise, effective, and powerful thanks to their compact axles and the lift mast, controlled by a joystick at the driver's fingertips."
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Safe"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "The specially designed enclosed protective zone for the driver, optimized visibility, and electronic driver assistance systems all make electric forklift trucks safe working environments."
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Cost-Effective"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "All electric forklift trucks are controlled using intelligent energy management that ensures optimal battery use and high levels of availability."
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "Robust"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "With its maintenance-free three-phase motors and disk brakes, the drive's compact axle forms a sealed – and therefore protected – unit."
+    },
+    {
+     "role": "heading",
+     "order": 13,
+     "text": "Comfortable"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Linde electric forklift trucks are exceptionally comfortable to work in, with adjustable, suspension seats and an ergonomically designed control layout."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 11,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "18",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Tailor-made Trucks"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "No Linde electric forklift truck is a standard solution: In addition to the standard equipment, each and every model is delivered with optional additional features. These include different load fork variants, driver assistance systems, special cold storage facilities, and auxiliary hydraulics that can be used to operate external equipment. Swivel seats and external LED working headlamps are also among the special equipment options, as are load backrests, sun visors, and the Linde BlueSpot warning light spot."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Compact top performer",
+     "href": "../../../en/Products/E-Trucks/E14-E20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Maximum indoor goods handling: The Linde E14 – E20 with swivel steering axle are super-agile and come with a wide range of energy solutions."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/E14-E20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Ei14 – Ei20",
+     "href": "../../../en/Products/E-Trucks/Ei14-Ei20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The Ei14 – Ei20 electric forklift trucks with integrated Li-ION battery combine agility and comfort for efficient use in standard indoor applications."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Ei14-Ei20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Flexible All-Rounder",
+     "href": "../../../en/Products/E-Trucks/E16-E20-P/index.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Efficient load handling: Linde E16 – E20 P electric forklift trucks are maneuverable, flexible and offer numerous energy options."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/E16-E20-P/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Xi16 – Xi20 P (four-wheeled forklift truck)",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-P/index.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Powerful, robust, agile, and spacious: The counterbalance forklift trucks Xi16 – Xi20 P from Linde set new standards as a four-wheeled version."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-P/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Solutions for the automotive industry",
+     "href": "../../../en/Solutions/Industries/Automotive-Industry/index.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Linde Material Handling supports the automotive industry in the key challenges of intralogistics: ensuring production flow, saving costs, using automation, protecting the environment."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Industries/Automotive-Industry/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "Flying starts on the ground",
+     "href": "../../../en/About-us/Magazine/Airport-Logistics.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Ground handling is a challenge for airport logistics. The demands on industrial trucks and logistics solutions are correspondingly high. Demand is for robust vehicles that enable fast and safe handling and are increasingly focusing on alternative drive systems."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Airport-Logistics.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "Theo Egberts’s Performance Test",
+     "href": "../../../en/About-us/Magazine/Theo-Egberts-Xi/index.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "Forklift expert confirms: Linde sets new records for performance, ergonomics, and energy efficiency with its new Xi models."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Theo-Egberts-Xi/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Linde Roadster Xi16 – Xi20 RP",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-RP/index.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "The Xi16 – Xi20 RP electric counterbalanced forklift truck combines unparalleled all-round visibility, maneuverability, and safety for maximum efficiency."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-RP/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "Linde Roadster Xi14 – Xi20 R",
+     "href": "../../../en/Products/E-Trucks/Xi14-Xi20-R/index.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Pioneering visibility, compact maneuverability, and high performance: The Xi14 – Xi20 electric counterbalanced forklift trucks from Linde Material Handling."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Xi14-Xi20-R/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "Xi10 – Xi20 (three-wheeled forklift truck)",
+     "href": "../../../en/Products/E-Trucks/Xi10-Xi20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "As a three-wheeled version, the counterbalance forklift trucks Xi10 – Xi20 from Linde set new standards when it comes to performance, maneuverability and space."
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Xi10-Xi20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "A Refreshing Performance",
+     "href": "../../../en/About-us/Magazine/Ensinger/index.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "The best of both worlds – for the best that nature has to offer. That’s the best way to describe the pilot run of the new Linde X35 at German soft drinks manufacturer, Ensinger Mineral-Heilquellen. The new electric forklift truck performance class impressed the managers of the long-established mineral water brand, not only in terms of sustainability, but also with its outstanding performance."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Ensinger/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "Signature Move(s)",
+     "href": "../../../en/About-us/Magazine/Porsche-Engineering/index.html"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "For decades now, Linde forklift trucks have been distinguished by their design, for which the honor goes to none other than Porsche Engineering. The most recent achievement of this progressive partnership: the new generation of Linde Counterbalanced Forklift Trucks X20 – X35 and H20 – H35."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Porsche-Engineering/index.html"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

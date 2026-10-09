@@ -1,0 +1,5 @@
+# stardust/redirects.tsv — source path → delivered path (TSV). Read by localize-links.mjs; wired into the redirects sheet at D-site.
+# Case-variant duplicate: identical captured body (sha bd80134e62c3) to /en/Products/Diesel-forklifts/; one document delivered, the variant redirects.
+/en/Products/Diesel-Forklifts/	/en/products/diesel-forklifts
+# Folded path referenced by delivered documents (E2-link-audit): underscore folds to a hyphen.
+/en/Forms/Ex-Proof_Form/	/en/forms/ex-proof-form

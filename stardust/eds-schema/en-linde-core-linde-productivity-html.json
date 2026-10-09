@@ -1,0 +1,372 @@
+{
+ "source": "http://localhost:8804/stardust/migrated/en/Linde-Core/Linde-Productivity.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Productivity Redefined"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "From the cost center to the value-added factor"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Logistics is a key industry in a globalized economy. Digitalization, e-commerce, and intelligent automated production networks in industry are just a few of the factors which are driving the growth of the logistics sector. There is also an increased focus on intra-company material flow, thanks to its increasing importance to logistics. Methods which go beyond pure cost considerations are therefore much in demand. Companies that are looking to make sustainable improvements to their logistics processes are analyzing what measurable contribution to value intralogistics makes."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "This is a very complex task, since in logistics four crucial future trends are coming together headfirst: digitalization, automation, individualization, and new energy systems. Therefore, Linde Material Handling makes key practical performance figures available to the users of its products, so that they can objectively evaluate the productivity of their intralogistics, as well as the products and solutions which help them to increase the productivity of their intra-company material flow in the long term."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The entire value chain at a glance."
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "Making productivity measurable"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Better ergonomics means higher productivity"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Early on Linde Material Handling, in close collaboration with industrial companies, forwarding companies and trading companies, developed TÜV-certified performance guarantee tests for forklifts and warehouse technology. The tests are based on a set of defined working processes, which are navigated by different trucks under the same conditions. The actual power consumption is measured, as well as the time required for the maneuver. In order to get as realistic a picture as possible of overall cost-effectiveness, each cycle is run through three times for each type of truck. The performance tests are therefore oriented specifically toward the particular fields of operation for forklifts, pallet trucks, and reach trucks. This does not only enable operators to compare the productivity of industrial trucks. They are also given a neutral basis from which to compare the total costs of individual trucks as well as those of a fleet."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Handling capacity is crucial for cost-effectiveness"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Staff costs are an essential operating cost factor"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "The validity of neutral tests is demonstrated particularly clearly when it comes to evaluating handling capacity. Until now, many companies calculate the cost-effectiveness of their fleets by reckoning the costs per operating hour of the trucks. The actual mileage and transport capacity often remain overlooked. However, a more sophisticated differentiated analysis of the costs leads to different results. For example, personnel costs: As a rule, these account for up to 90 percent of your total costs. So, given that Linde forklifts can achieve up to 30 percent higher handling capacity than competing models, costs for personnel, energy, and servicing are reduced accordingly. Operators can even also save money on investment in other trucks, if they can achieve the same handling capacity with a smaller fleet."
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Efficiency – with Linde trucks, it’s built-in"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Perfect tuned components reduce energy consumption"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "The efficient operation of Linde trucks is made possible through a whole range of design details. Linde forklifts produce less noise, fewer emissions, and fewer vibrations than comparable competing trucks. The ergonomic design of the trucks makes the operators’ day-to-day working lives much easier. This has a positive effect on productivity. Lower accident rates and fewer absences resulting from illness improve cost-effectiveness. The same goes for our drive technology. The low electricity and fuel consumption of Linde trucks is unrivaled. The newest generation of electric forklifts are equipped with brake energy recovery and a unique energy management system. Furthermore, for particularly intensive applications, it is worth investing in new energy concepts such as Linde’s Li-ion and fuel cell technologies. Last but not least, operators benefit from Linde’s technology when it comes to service. Many drive systems are largely maintenance-free, and maintenance intervals are significantly longer than with our competition."
+    },
+    {
+     "role": "heading",
+     "order": 10,
+     "text": "Intelligent Automation"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Automation - the solution for repetitive handling processes"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Alongside efficient trucks, the automation of processes is another important element in increasing the productivity of material flow. Admittedly, complex and highly-automated systems cannot always be used in every circumstance while remaining cost-effective. Driven by ever more individualized customer requirements, internal processes often have to change just as dynamically as the products and goods themselves. Intelligent automation solutions are therefore much in demand. Based on our wide range of trucks, an extensive range of half-automated systems, and navigation technology which functions without a fixed infrastructure, Linde develops solutions which are perfectly tailored to the precise needs of each user, selectively using the potential of automated systems."
+    },
+    {
+     "role": "heading",
+     "order": 13,
+     "text": "En route to a networked fleet"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Fleet management with connect:"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "A realistic idea of the value contribution made by intralogistics certainly goes beyond individual trucks and processes. Digitally-controlled production processes should increase the effectiveness, efficiency, and flexibility of all production and delivery chains. Modern fleet management software such as Linde connect: supports operators in networking their industrial trucks and digital processes. By evaluating data from sensors and assistance systems, operators can obtain valuable insights into optimizing servicing and maintenance, speeding up processes, making operations safer, and integrating trucks into comprehensive IT processes. Linde thus paves the way for the fully-networked logistics of the future."
+    }
+   ],
+   "imgCount": 6,
+   "editableTexts": 16,
+   "repeats": [
+    {
+     "unitSelector": "DIV.infobox-media",
+     "count": 6,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "K2 Systems Relies on Linde MH—Logistics Solution from a Single Source",
+     "href": "../../en/About-us/Magazine/K2-Systems/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "K2 Systems, a leading manufacturer of PV mounting systems, called on Linde MH’s comprehensive intralogistics expertise for its new logistics center. The result? Customized processes, perfectly coordinated trucks, and maximum efficiency—all from a single source."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../en/About-us/Magazine/K2-Systems/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Revolutionizing the Warehouse with AI",
+     "href": "../../en/About-us/Magazine/Revolutionizing-the-Warehouse-with-AI/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Linde Material Handling is working with NVIDIA and Accenture to develop forward-thinking AI-based solutions for efficient and safe warehouse processes."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../en/About-us/Magazine/Revolutionizing-the-Warehouse-with-AI/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Linde Multifunction Lever",
+     "href": "../../en/About-us/Innovations-from-Linde/Multifunction-lever/index.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "The Linde Multifunction Lever is a new human machine interface that integrates all operating functions and ensures the best possible ergonomics and optimum ease of use."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../en/About-us/Innovations-from-Linde/Multifunction-lever/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "More Productivity in the Warehouse",
+     "href": "../../en/Landingpage/X-Range/index.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Expensive logistics spaces and increasingly shorter delivery times pose a particular challenge for warehouse operators in retail, third-party logistics and parts logistics. They have to make optimum use of the expensive space and increase the throughput of goods. The R14 – R17 X reach trucks from Linde Material Handling’s X range are the ideal alternative to conventional reach trucks. Thanks to their innovative truck concept, they help to overcome these challenges."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../en/Landingpage/X-Range/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Efficiency Maximized",
+     "href": "../../en/About-us/Magazine/ebm-papst/index.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Our dispatch logistics are good, but how can we make them even better? This was the challenge facing ebm-papst, a leading producer of fan and motor products, at its site in Mulfingen, Germany. The answer: Fully automate one of its material flow processes using trusted expertise from Linde. The project has proven a huge success, so much so that transport volumes have exceeded expectations and further automation projects are being planned for the future."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../en/About-us/Magazine/ebm-papst/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "The Innovative Rack Protection System",
+     "href": "../../en/About-us/Innovations-from-Linde/Rack-Protection-Sensor/index.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "The Linde Rack Protection Sensor automatically slows down the truck when approaching racks and prevents collisions and damage."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../en/About-us/Innovations-from-Linde/Rack-Protection-Sensor/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "Schenker takes full control of its forklift truck fleet",
+     "href": "../../en/About-us/Magazine/DB-Schenker/index.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "DB Schenker has full control of its forklift truck fleet thanks to Linde’s innovative fleet management system Linde connect."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../en/About-us/Magazine/DB-Schenker/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "From field to fork",
+     "href": "../../en/About-us/Magazine/Customer-Story-Dinner/index.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "How Linde Material Handling and the KION Group ensure that the catering sector receives fresh produce."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../en/About-us/Magazine/Customer-Story-Dinner/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "Optimizing the entire process chain",
+     "href": "../../en/About-us/Magazine/MH-Symposium-2017.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Under the motto \"Leading logistics - today's innovative solutions for tomorrow's logistics\", the Material Handling Symposium took place in Aschaffenburg on September 14, 2017. The focus was on questions concerning the future viability of logistics."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../en/About-us/Magazine/MH-Symposium-2017.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "Safety First",
+     "href": "../../en/About-us/Magazine/Safety-first.html"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "The numbers are impressive: Over a surface area of 126 football fields in Wismar, Egger processes in the region of million cubic meters of wood each year for HDF, MDF and OSB boards as well as laminate flooring. Since February, the wood-based materials specialist has relied on forklift trucks with Linde Safety Pilot for its logistics needs."
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "../../en/About-us/Magazine/Safety-first.html"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "Automotive supplier SMP controls its vehicle fleet with Linde connect",
+     "href": "../../en/About-us/Magazine/smp-fleetmanagement.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "The Linde connect fleet management system makes a decisive contribution to order and safety in the warehouse. Linde Material Handling has equipped the entire SMP fleet with this intelligent solution."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../en/About-us/Magazine/smp-fleetmanagement.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "Precision and speed required",
+     "href": "../../en/About-us/Magazine/StaplerCup-2017.html"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "The 13th ForkliftCup took place in Aschaffenburg from 12 to 16 September 2017. For one weekend everything revolved around the topic of driving a forklift truck and the necessary precision and speed."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "../../en/About-us/Magazine/StaplerCup-2017.html"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

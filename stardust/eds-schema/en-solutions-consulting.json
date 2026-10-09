@@ -1,0 +1,114 @@
+{
+ "source": "http://localhost:8805/stardust/migrated/en/Solutions/Consulting/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Consulting"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Recognizing Potential"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "When it comes to material flow management, there are many challenges but also new opportunities. The new requirements relating to material flow are very complex: cost pressure, larger product portfolios or altered logistical structures all influence change. What's more, planners have to consider the many factors affecting optimization. As a result, material flow must be planned quickly and precisely. This is only possible with thorough evaluation."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde offers comprehensive consulting services for the thorough evaluation of these potential factors and can also assist you on site."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Material Flow Consulting",
+     "href": "../../../en/Solutions/Consulting/Material-Flow-Consulting/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde Material Handling offers its customers comprehensive system consulting in order to help them optimize their internal material flows."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Consulting/Material-Flow-Consulting/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Fleet Optimization",
+     "href": "../../../en/Solutions/Consulting/Fleet-Optimization.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Linde Material Handling offers a comprehensive analysis and consulting service for the use of a tailor-made fleet in intralogistics."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Consulting/Fleet-Optimization.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Linde Safety Scan",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Scan.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Safety is a key productivity factor when mobile handling equipment and pedestrian personnel are moving around in the same space. The Linde Safety Scan effectively minimizes the potential safety risks that can occur in a working environment."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Scan.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

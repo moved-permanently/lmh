@@ -1,0 +1,11 @@
+{
+  "/en/technical/news-detail-105280": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-08T04:29:14.333Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

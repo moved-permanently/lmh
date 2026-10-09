@@ -1,0 +1,1562 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-06T11:28:17.001Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "en-products-forklift-truck",
+  "url": "https://www.linde-mh.com/en/Products/Forklift-Truck/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-06T11:28:17.001Z",
+  "finalUrl": "https://www.linde-mh.com/en/Products/Forklift-Truck/",
+  "title": "Forklift Trucks—Models for Any Application | Linde Material Handling",
+  "description": "Large selection of forklift truck models with different load classes, power unit types, and more to suit your application, budget, and requirements.",
+  "og": {
+    "title": "Forklift Trucks from Linde Material Handling",
+    "description": "Forklift trucks from Linde Material Handling can handle any load and any application with innovative drive systems, maximum safety, and flexible solutions.",
+    "image": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Smurfit-Kappa/smurfit_kappa-H50-moving-paper_wood-4602_7454_16x9w1920.jpg",
+    "type": "article"
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Forklift Trucks from Linde Material Handling"
+    },
+    {
+      "tag": "h2",
+      "text": "Forklift Trucks from Linde MH: Tailored Power Unit Solutions for Any Application"
+    },
+    {
+      "tag": "h3",
+      "text": "Electric Forklift Trucks: Flexible and Emission-Free"
+    },
+    {
+      "tag": "h3",
+      "text": "IC Trucks: Powerful on Any Terrain"
+    },
+    {
+      "tag": "h2",
+      "text": "Buy, Hire, or Lease Forklift Trucks"
+    },
+    {
+      "tag": "h3",
+      "text": "Buy a Forklift Truck New"
+    },
+    {
+      "tag": "h3",
+      "text": "Hire a Forklift Truck"
+    },
+    {
+      "tag": "h3",
+      "text": "Lease a Forklift Truck"
+    },
+    {
+      "tag": "h3",
+      "text": "Approved Used Trucks"
+    },
+    {
+      "tag": "h2",
+      "text": "Product Highlights from Linde MH"
+    },
+    {
+      "tag": "h3",
+      "text": "Compact Electric Trucks"
+    },
+    {
+      "tag": "h3",
+      "text": "Indoor Specialists with Electric Drive"
+    },
+    {
+      "tag": "h3",
+      "text": "High-Performance Electric Trucks"
+    },
+    {
+      "tag": "h3",
+      "text": "IC Endurance Trucks"
+    },
+    {
+      "tag": "h2",
+      "text": "Forklift Models: It’s All about Load Capacity"
+    },
+    {
+      "tag": "h2",
+      "text": "Forklift Trucks with Load Capacity from 1 to 2 Metric Tons"
+    },
+    {
+      "tag": "h3",
+      "text": "Xi10 – Xi20"
+    },
+    {
+      "tag": "h3",
+      "text": "Xi14 – Xi20 R"
+    },
+    {
+      "tag": "h3",
+      "text": "E14 – E20"
+    },
+    {
+      "tag": "h3",
+      "text": "Ei14 – Ei20"
+    },
+    {
+      "tag": "h2",
+      "text": "Forklift Trucks with Load Capacity from 2 to 3.5 Metric Tons"
+    },
+    {
+      "tag": "h3",
+      "text": "X20 – X35"
+    },
+    {
+      "tag": "h3",
+      "text": "E20 – E35"
+    },
+    {
+      "tag": "h3",
+      "text": "H20 – H35"
+    },
+    {
+      "tag": "h2",
+      "text": "Forklift Trucks with Load Capacity from 3.5 to 5 Metric Tons"
+    },
+    {
+      "tag": "h3",
+      "text": "X35 – X50"
+    },
+    {
+      "tag": "h3",
+      "text": "E35 – E50"
+    },
+    {
+      "tag": "h3",
+      "text": "H35 – H50"
+    },
+    {
+      "tag": "h2",
+      "text": "Forklift Trucks with Load Capacity from 5 to 8 Metric Tons"
+    },
+    {
+      "tag": "h3",
+      "text": "E60 – E80"
+    },
+    {
+      "tag": "h3",
+      "text": "H50 – H80"
+    },
+    {
+      "tag": "h2",
+      "text": "Forklift Trucks with Load Capacity from 10 to 18 Metric Tons"
+    },
+    {
+      "tag": "h3",
+      "text": "E100 – E180"
+    },
+    {
+      "tag": "h3",
+      "text": "H100 – H180 D"
+    },
+    {
+      "tag": "h3",
+      "text": "HT100 – HT180 D"
+    },
+    {
+      "tag": "h2",
+      "text": "Forklift Trucks for Special Operating Conditions"
+    },
+    {
+      "tag": "h3",
+      "text": "Heat and Dust-Resistant Forklift Trucks"
+    },
+    {
+      "tag": "h3",
+      "text": "Customized Trucks for Every Requirement"
+    },
+    {
+      "tag": "h2",
+      "text": "Linde Forklift Trucks—Advantages at a Glance"
+    },
+    {
+      "tag": "h3",
+      "text": "Ergonomics"
+    },
+    {
+      "tag": "h3",
+      "text": "Connectivity"
+    },
+    {
+      "tag": "h3",
+      "text": "Performance"
+    },
+    {
+      "tag": "h3",
+      "text": "Safety"
+    },
+    {
+      "tag": "h3",
+      "text": "Energy"
+    },
+    {
+      "tag": "h2",
+      "text": "Checklist before Purchase: How to Find the Right Forklift Truck"
+    },
+    {
+      "tag": "h3",
+      "text": "Operating Environment and Ambient Conditions"
+    },
+    {
+      "tag": "h3",
+      "text": "Load Requirements"
+    },
+    {
+      "tag": "h3",
+      "text": "Lifting Height and Operating Environment"
+    },
+    {
+      "tag": "h3",
+      "text": "Operating Hours and Intensity of Use"
+    },
+    {
+      "tag": "h3",
+      "text": "Maximizing Efficiency and Value"
+    },
+    {
+      "tag": "h2",
+      "text": "Forklift Trucks from Linde MH in Operation"
+    },
+    {
+      "tag": "h3",
+      "text": "DB Schenker tests the new Linde E16"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Xi20 P at Klingele Paper & Packaging"
+    },
+    {
+      "tag": "h3",
+      "text": "Linde Xi20 PH at Ostendorf"
+    },
+    {
+      "tag": "h3",
+      "text": "Heineken Switzerland AG"
+    },
+    {
+      "tag": "h2",
+      "text": "FAQ – Frequently Asked Questions about Forklift Trucks"
+    },
+    {
+      "tag": "h3",
+      "text": "What Is a Forklift Truck?"
+    },
+    {
+      "tag": "h3",
+      "text": "What Types of Forklift Truck Are There?"
+    },
+    {
+      "tag": "h3",
+      "text": "Where Are Forklift Trucks Used?"
+    },
+    {
+      "tag": "h3",
+      "text": "How Much Does a Forklift Lift?"
+    },
+    {
+      "tag": "h3",
+      "text": "What Is the Lifting Height of a Forklift Truck?"
+    },
+    {
+      "tag": "h3",
+      "text": "How Fast Can a Forklift Truck Travel?"
+    },
+    {
+      "tag": "h3",
+      "text": "How Much Does a Forklift Truck Cost?"
+    },
+    {
+      "tag": "h3",
+      "text": "Do You Need a Driver’s License to Drive a Forklift Truck?"
+    },
+    {
+      "tag": "h6",
+      "text": "Follow us on"
+    }
+  ],
+  "body": [
+    "Products Products Overview Product Finder Product Finder Overview New Trucks Rental Trucks New Industrial Trucks New Industrial Trucks Overview Forklift Trucks Electric Forklifts Diesel Forklifts Gas Forklifts Heavy Duty Forklifts Pallet Trucks Hand Pallet Trucks Pallet Stackers Very Narrow Aisle Trucks Order Pickers Reach Trucks Tow Tractors Tugger Trains Explosion Proof Trucks Automated Trucks Forklift Hire Approved Trucks Automated Trucks Automated Trucks Overview Automated Guided Vehicles Autonomous Mobile Robots Digital Products Digital Products Fleet Management Intralogistics Software",
+    "Services Services Overview Truck Service Truck Service Maintenance & Repair Genuine Spare Parts Retrofit & Accessories Technical & Safety Services Training Financing",
+    "Solutions Solutions Overview Intralogistics & Automation Intralogistics & Automation Overview Automated Warehouse Warehouse Management System Material Flow Consulting Case Studies by Industries Fleet Management Fleet Management Overview Fleet Optimization Consulting Energy Systems Energy Systems Overview Lithium-ion Technology Fuel Cell Technology Energy Consulting Warehouse Safety Warehouse Safety Overview Light and Warning Systems Assistance Systems Safety Consulting",
+    "About us About us Overview Company Company Overview Sustainability Awards Certificates Our Innovations Working with us Working with us Overview Highschool & University Students Apprentices Recent Graduates & Professionals Magazine Events Press Media",
+    "Search",
+    "Xtranet",
+    "Power Unit Types",
+    "Buy, Hire, or Lease Forklift Trucks",
+    "Product Highlights",
+    "Load Classes",
+    "Special versions",
+    "Advantages at a glance",
+    "Forklift Checklist",
+    "Forklift Trucks from Linde MH in Operation",
+    "FAQ",
+    "Forklift trucks are the all-rounders of the intralogistics sector. Whether in warehouses, factories, or outdoor depots, their combination of high performance and versatility allows users to overcome any challenge in internal transportation and goods handling with ease.",
+    "When choosing the right drive system, the on-site operating conditions are crucial. What’s more, companies often need to consider environmental regulations and noise protection requirements when choosing a truck.",
+    "The experts at Linde MH tailor the drive solution precisely to the fleet size, infrastructure, operating environment, and workflows. From emission-free operation in sensitive areas to maximum performance in outdoor applications, Linde MH has the ideal drive technology for any requirement and any application.",
+    "For electric forklift trucks, there are various technologies to choose from. Models with lead-acid batteries are proven and affordable solutions for occasional use and multi-shift operation. Forklift trucks with lithium-ion batteries enable flexible working and quick opportunity charging during work breaks, removing the need for time-consuming battery changes. Electric forklift trucks with fuel cells can be refueled in minutes, making them ideal for demanding multi-shift operation.",
+    "Internal combustion forklift trucks with diesel or LPG engines boast impressive performance and high ground clearance, making them ideal for demanding outdoor and indoor applications, even on uneven terrain. The Linde diesel forklift trucks handle loads from 1.6 to 18 metric tons. All models also run on HVO fuel. Made from renewable raw materials, this fuel can reduce carbon emissions by up to 90 percent. The gas forklifts from Linde MH with a load capacity of 1.6 to 5 metric tons are also suitable for use in halls or partially covered areas thanks to their low emissions. Depending on requirements, the trucks can be fitted with portable gas cylinders or fixed tanks.",
+    "When purchasing a new forklift truck, a well thought-out financing strategy is the foundation for long-term business success. Whether you buy, hire, or lease, each option has its own specific advantages. A transparent cost structure and custom terms enable sustainable investment strategies that combine economic and operational efficiency.",
+    "Buying a new forklift truck gives you a long-term, reliable solution with maximum availability, state-of-the-art technology, and optimal efficiency— all in a high-quality industrial truck tailored to your exact requirements.",
+    "Looking to buy a new forklift truck? Then check out our product finder",
+    "Don’t forget: You can also buy selected warehouse trucks online in our LindeShop.",
+    "Linde Material Handling trucks are in a class of their own, whether electric or IC. The latest generation of Linde counterbalanced forklift trucks is built on a common technological platform that can be fitted with both combustion engines or electric drives (lead-acid, lithium-ion or fuel cells). While the IC forklift trucks impress with their high performance and reliability in outdoor applications, the electric forklift trucks are emission-free and quiet with maximum maneuverability and low operating costs. This also gives rise to a new truck category: the X-models combine the robustness and performance of IC trucks with all the advantages of an electric drive. All variants feature the familiar Linde ergonomics and innovative assistance and safety systems.",
+    "The agile E14 – E20, Ei14 – Ei20, and Xi10 – Xi20 electric counterbalanced forklift trucks offer unrivaled model diversity, superior performance, and outstanding safety and ergonomics. With the Xi14 – Xi20 R roadster completing the range, the trucks in this segment are perfect for any application up to 2 metric tons.",
+    "The electric forklift trucks E20 – E35 and E35 – E50 handle loads from 2 to 5 metric tons. Thanks to their unmatched agility, they are ideal for indoor use. Their compact design and maneuverability allow optimal handling performance in the warehouse even in tight spaces.",
+    "The X20 – X35 and X35 – X50 forklifts, with load capacities from 2 to 5 metric tons, set new performance standards for electric forklift trucks. They combine the dynamics, flexibility, and emission-free operation of an electric forklift truck with the power and robustness of an IC truck.",
+    "The H20 – H35 and H35 – H50, with load capacities from 2 to 5 metric tons, represent everything that traditionally sets Linde MH trucks apart: safety, performance, ergonomics, and robustness—still unparalleled thanks to the precision and power of the hydrostatic drive.",
+    "Choosing the right forklift truck comes down to your specific requirements. Key factors here include the weight of the goods and items that need to be moved. Every Linde forklift truck is designed according to clear principles: regardless of the respective load capacity, they must impress with maximum stability and a high residual load capacity—from agile compact models for medium loads to powerful heavy-duty forklift trucks for demanding industrial applications. Thanks to their intelligent assistance systems and wireless data transmission, our trucks set new standards in precision, safety, and connectivity.",
+    "In the 1 to 2 metric ton range, Linde MH forklift trucks are the ideal choice for light to medium transport tasks. The compact counterbalanced forklift trucks are ideal for use indoors and on lightly surfaced outdoor areas. The trucks are available in both three-wheel and four-wheel versions. For maximum productivity, up to three steering axle variants are available to match the truck perfectly to the respective ground conditions.",
+    "The Xi10 – Xi20 electric counterbalanced forklift trucks set new standards with their innovative drive technology, twelve equipment variants, and high lifting and lowering speeds. With their compact chassis and integrated Li-ION battery, they combine top performance with maneuverability.",
+    "The Xi14 – Xi20 R roadster versions offer exceptional visibility and a high level of safety thanks to the absence of an A-pillar. For those seeking a compact electric forklift truck that maximizes maneuverability, comfort, performance, and protection, these trucks provide the ideal solution.",
+    "The E14 – E20 electric counterbalanced forklift trucks combine maneuverability and speed for outstanding handling performance. Available in fourteen variants with flexible energy options, they are the perfect choice for indoor use.",
+    "Thanks to their integrated Li-ION battery, the Ei14 – Ei20 trucks allow easy opportunity charging without changing the battery, making them ideal for one to two-shift operation indoors. The absence of a battery tray means they offer the driver more headroom and legroom as well as a lower and wider entrance.",
+    "Linde four-wheel forklifts with a load capacity of 2 to 3.5 metric tons are true all-rounders in material handling. With their wide range of applications, they reliably handle the transportation of Euro pallets, pallet cages, and bulky goods—both in warehouses and production facilities as well as outdoors.",
+    "Thanks to their performance and robustness, the X20 – X35 electric forklift trucks provide a genuine alternative to combustion engines. Combining the strengths of both drive types, they offer a no-compromise, emission-free solution for even the most demanding applications.",
+    "The E20 – E35 electric forklift trucks are the perfect choice for indoor use, combining a compact design and twin-motor front-wheel drive for maximum maneuverability even in narrow aisles. They also feature a spacious and ergonomic driver’s workstation.",
+    "The robust H20 – H35 IC counterbalanced forklift trucks impress with their high performance and ease of use, even under the most demanding conditions. They also set standards when it comes to precision, safety, and connectivity.",
+    "Forklift trucks with a load capacity of 3.5 to 5 metric tons are the ideal solution for production environments and large-scale warehouse operations. These powerful industrial forklift trucks can handle not only level warehouse floors but also outdoor applications. They are particularly at home in the building materials trade and the beverage industry.",
+    "The X35 – X50 trucks combine the dynamics and emission-free operation of Linde electric forklift trucks with the robustness and power delivery previously only available in IC trucks with a hydrostatic drive. This makes them suitable for the most demanding indoor and outdoor applications. With a twin-motor front-wheel drive, ergonomic design, and extensive customization options, they set new standards.",
+    "The E35 – E50 electric forklift trucks impress with their outstanding performance and versatility in indoor applications. With a twin-motor front-wheel drive, Linde combi-steering axle, and synchronous reluctance motors, they achieve maximum handling performance even in confined spaces.",
+    "The H35 – H50 IC trucks are powerful and robust all-rounders. Thanks to their hydrostatic drive, powerful industrial motor, and maintenance-free components, they can handle even the toughest outdoor operating conditions with maximum reliability and efficiency.",
+    "Forklifts for 5 to 8 metric tons are real powerhouses. Whether used in steelworks, logistics centers, or beverage wholesalers—the powerful forklift trucks from Linde MH move even the heaviest loads safely and reliably. They can even handle materials such as concrete, wood, and stone with ease, including on uneven terrain.",
+    "The E60 – E80 electric forklift trucks are powerful solutions for heavy loads of up to 8 metric tons. Two powerful motors, electronic truck control system, and precision controls such as Linde Load Control and dual pedal control guarantee maximum performance.",
+    "The H50 – H80 IC trucks impress with their safe handling, high performance, and compact design. Powerful motors, hydrostatic direct drive, and intelligent design guarantee maximum efficiency and productivity for heavy loads and special applications.",
+    "With load capacities of up to 18 metric tons, heavy-duty forklift trucks are used wherever performance and robustness are required—from the steel industry to port logistics and paper production. Diesel-powered heavy-duty forklift trucks from Linde MH feature impressively low fuel consumption. Linde MH also offers an electric heavy-duty forklift truck that can also handle weights of up to 18 metric tons.",
+    "The E100 – E180 electric heavy-duty forklift trucks combine the power delivery of a diesel truck with all the benefits of an electric forklift truck. With lifting heights of up to 10 meters and a choice between lead-acid or lithium-ion batteries, they can handle even the most demanding tasks and 24/7 operations.",
+    "The H100 – H180 D are suitable for precise, high-speed handling of the heaviest loads. The hydrostatic drive enables movements with millimeter precision and smooth direction changes, while modern diesel engines ensure high torque and low fuel consumption.",
+    "The HT100 – HT180 D trucks transport heavy loads efficiently and with ease. For longer transport distances in particular, they deliver exceptional performance. Specially optimized components ensure maximum all-round visibility and enhance safety.",
+    "Linde Material Handling also offers forklift trucks for specialist applications, enabling efficient operation even under particularly challenging or unusual conditions.",
+    "Heat and Dust-Resistant Forklift Trucks",
+    "Cold-Store Forklift Trucks",
+    "Explosion-proof forklifts",
+    "Linde MH IC and electric forklift trucks are designed for harsh operating conditions. Both the diesel and LPG forklifts and the powerful electric forklift trucks X20 – X35 and X35 – X50 can handle heat and heavy dust formation with ease. Their performance remains unaffected even when exposed to uneven floors, dirt, and temperature fluctuations. Under extreme conditions, such as in foundries, the trucks have additional protection in the form of heat and fire-resistant protective mats or high-performance dust filters.",
+    "From load capacity and drive type to battery capacity, mast design, and a seating position optimized for visibility, Linde forklift trucks have custom solutions available ex works for almost any task. Available optional extras range from specialist attachments and ergonomic seating solutions to driver assistance systems and safety features. Individual customer requirements can also be implemented, such as trucks for drivers with disabilities or for extreme cold or hot environments.",
+    "The ergonomically optimized driver’s workstation with intuitive controls enables fatigue-free operation. Optimal all-round visibility and individually adjustable controls boost both comfort and productivity.",
+    "Fleet management systems and digital interfaces enable the trucks to be seamlessly integrated into your digital workflows. Real-time data analysis enables predictive maintenance and ensures maximum availability.",
+    "Linde MH forklift trucks impress with outstanding performance, high residual load capacity, and maximum efficiency. Innovative technologies enable precise handling even when working at a fast tempo.",
+    "The comprehensive safety concept of Linde trucks with a robust design, optimum visibility, low center of gravity, and intelligent assistance systems reliably protects drivers, goods, and the surrounding area.",
+    "Thanks to the hydrostatic drive, Linde MH diesel and gas forklifts are particularly powerful. The electric forklift trucks are available with three different energy systems: lead-acid, lithium-ion, and fuel cell.",
+    "To find the right forklift truck, important factors such as operating conditions, load requirements, lifting height, and scope of use should be clarified in advance. With over 60 years of expertise, Linde MH helps customers assess their specific requirements and develops customized solutions for long-term success.",
+    "Whether indoors, outdoors, or alternating between the two, the operating environment plays a key role in choosing the right forklift truck. The ideal truck is matched to the floor surface, available space, and maneuverability requirements. This is why Linde MH forklift trucks are optimally designed for any operating environment: with superior maneuverability, compact design, and excellent all-round visibility, they can handle even the most demanding conditions safely and efficiently.",
+    "DB Schenker in Schweinfurt handles around 800 to 1,000 metric tons of goods per day in its 5,000-square meter warehouse. Given the high volumes involved, the forklifts used therefore need to meet the most stringent requirements. In testing, the latest generation of the Linde E16 stood out thanks to its impressive speed and process reliability.",
+    "An electric forklift that is virtually tailor-made for continuous use: the new Linde Xi20 P impresses at Klingele Paper & Packaging with its exceptional performance.",
+    "Can an electric forklift truck do the job of an internal combustion truck? The new Linde Xi20 PH leaves no doubt about the answer to that question at Ostendorf. You can find all the details in the report.",
+    "Heineken Switzerland has a challenging working environment that includes heavy forklifts, tight turnarounds, large handling volumes, and jobs where people and machines are constantly working side by side. To make sure it has everything covered in terms of safety, the company has invested continuously in safety innovations right from the start. The brewery was one of the first companies to introduce the Linde Safety Guard back in 2017—and has adapted the modular solution to meet its specific needs several times since.",
+    "A forklift truck is a motorized industrial truck and an indispensable piece of equipment in modern logistics and industry. It is used to transport and handle goods within warehouses, factories, and logistics centers. The truck consists of a motorized base frame with two adjustable fork arms that enable loads such as pallets, crates, and containers to be lifted, moved, and stacked. Forklift trucks are typically operated with different types of drive, from diesel and gas to electric. They vary in size and load capacity, from small models for light loads to large industrial trucks that can move loads up to several tons.",
+    "Technically speaking, the term “forklift truck” refers specifically to counterbalanced forklift trucks. These are industrial trucks with forks and a counterweight at the rear.",
+    "More broadly or colloquially, however, “forklift truck” often also includes warehouse trucks. Warehouse trucks are smaller trucks used for optimizing warehouse processes such as storage, transport, and order picking.Don’t forget: you can also purchase warehouse trucks online from the LindeShop.",
+    "Contact",
+    "Home",
+    "Legal",
+    "Terms of use",
+    "Suppliers",
+    "EDI",
+    "Privacy Statements",
+    "Cookie Settings",
+    "Vulnerability Disclosure Policy"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Search",
+      "href": "https://www.linde-mh.com/en/Search/"
+    },
+    {
+      "label": "Xtranet",
+      "href": "https://xtranet.linde-mh.com/lmhge/"
+    },
+    {
+      "label": "Power Unit Types",
+      "href": "#2859306"
+    },
+    {
+      "label": "Buy, Hire, or Lease Forklift Trucks",
+      "href": "#2859311"
+    },
+    {
+      "label": "Product Highlights",
+      "href": "#2859315"
+    },
+    {
+      "label": "Load Classes",
+      "href": "#2859318"
+    },
+    {
+      "label": "Special versions",
+      "href": "#2859335"
+    },
+    {
+      "label": "Advantages at a glance",
+      "href": "#2859339"
+    },
+    {
+      "label": "Forklift Checklist",
+      "href": "#2859342"
+    },
+    {
+      "label": "Forklift Trucks from Linde MH in Operation",
+      "href": "#2859347"
+    },
+    {
+      "label": "FAQ",
+      "href": "#2859349"
+    },
+    {
+      "label": "Read more",
+      "href": "#read_more"
+    },
+    {
+      "label": "drive technology",
+      "href": "../../Solutions/Energy-Systems/"
+    },
+    {
+      "label": "electric forklift trucks,",
+      "href": "../E-Trucks/"
+    },
+    {
+      "label": "lithium-ion batteries",
+      "href": "../../About-us/Innovations-from-Linde/Lithium-Ionen.html"
+    },
+    {
+      "label": "fuel cells",
+      "href": "../../About-us/Innovations-from-Linde/Fuel-Cells.html"
+    },
+    {
+      "label": "1",
+      "href": null
+    },
+    {
+      "label": "2",
+      "href": null
+    },
+    {
+      "label": "3",
+      "href": null
+    },
+    {
+      "label": "4",
+      "href": null
+    },
+    {
+      "label": "1",
+      "href": null
+    },
+    {
+      "label": "2",
+      "href": null
+    },
+    {
+      "label": "3",
+      "href": null
+    },
+    {
+      "label": "4",
+      "href": null
+    },
+    {
+      "label": "Linde diesel forklift trucks",
+      "href": "../Diesel-Forklifts/"
+    },
+    {
+      "label": "gas forklifts",
+      "href": "../Gas-forklifts/"
+    },
+    {
+      "label": "View all diesel and gas forklifts in the product finder",
+      "href": " ../Productfinder/?productTypes[]=2376&offerType=new "
+    },
+    {
+      "label": "View all electric forklift trucks in the product finder",
+      "href": " ../Productfinder/?productTypes[]=2377&offerType=new "
+    },
+    {
+      "label": "Looking to buy a new forklift truck? Then check out our product finder",
+      "href": "../../Productfinder.html"
+    },
+    {
+      "label": "LindeShop",
+      "href": "https://www.linde-mh.shop"
+    },
+    {
+      "label": "Then get in touch with our experts!",
+      "href": "../../Forms/Global-Contact-Form/"
+    },
+    {
+      "label": "Linde counterbalanced forklift trucks",
+      "href": "../../Landingpage/Platform-Counterbalanced-Trucks/"
+    },
+    {
+      "label": "X-models",
+      "href": "../../Landingpage/X-models/"
+    },
+    {
+      "label": "Compact Electric Trucks",
+      "href": "https://www.linde-mh.com/en/Landingpage/Compact-class-with-electric-drive/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.com/en/Landingpage/Compact-class-with-electric-drive/"
+    },
+    {
+      "label": "Indoor Specialists with Electric Drive",
+      "href": "https://www.linde-mh.com/en/Landingpage/E-models/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.com/en/Landingpage/E-models/"
+    },
+    {
+      "label": "High-Performance Electric Trucks",
+      "href": "https://www.linde-mh.com/en/Landingpage/X-models/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.com/en/Landingpage/X-models/"
+    },
+    {
+      "label": "IC Endurance Trucks",
+      "href": "https://www.linde-mh.com/en/Landingpage/H-models/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.com/en/Landingpage/H-models/"
+    },
+    {
+      "label": "Xi10 – Xi20",
+      "href": "https://www.linde-mh.de/de/Produkte/E-Stapler/Xi10-Xi20/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.de/de/Produkte/E-Stapler/Xi10-Xi20/"
+    },
+    {
+      "label": "Xi14 – Xi20 R",
+      "href": "https://www.linde-mh.de/de/Produkte/E-Stapler/Xi14-Xi20-R/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.de/de/Produkte/E-Stapler/Xi14-Xi20-R/"
+    },
+    {
+      "label": "E14 – E20",
+      "href": "https://www.linde-mh.de/de/Produkte/E-Stapler/E14-E20/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.de/de/Produkte/E-Stapler/E14-E20/"
+    },
+    {
+      "label": "Ei14 – Ei20",
+      "href": "https://www.linde-mh.de/de/Produkte/E-Stapler/Ei14-Ei20/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.de/de/Produkte/E-Stapler/Ei14-Ei20/"
+    },
+    {
+      "label": "X20 – X35",
+      "href": "https://www.linde-mh.com/en/Products/E-Trucks/X20-X35/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.com/en/Products/E-Trucks/X20-X35/"
+    },
+    {
+      "label": "E20 – E35",
+      "href": "https://www.linde-mh.com/en/Products/E-Trucks/E20-E35/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.com/en/Products/E-Trucks/E20-E35/"
+    },
+    {
+      "label": "H20 – H35",
+      "href": "https://www.linde-mh.com/en/Products/IC-Trucks/H20-H35/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.com/en/Products/IC-Trucks/H20-H35/"
+    },
+    {
+      "label": "X35 – X50",
+      "href": "https://www.linde-mh.com/en/Products/E-Trucks/X35-X50/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.com/en/Products/E-Trucks/X35-X50/"
+    },
+    {
+      "label": "E35 – E50",
+      "href": "https://www.linde-mh.com/en/Products/E-Trucks/E35-E50/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.com/en/Products/E-Trucks/E35-E50/"
+    },
+    {
+      "label": "H35 – H50",
+      "href": "https://www.linde-mh.com/en/Products/IC-Trucks/H35-H50/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.com/en/Products/IC-Trucks/H35-H50/"
+    },
+    {
+      "label": "E60 – E80",
+      "href": "https://www.linde-mh.com/en/Products/E-Trucks/E60-E80/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.com/en/Products/E-Trucks/E60-E80/"
+    },
+    {
+      "label": "H50 – H80",
+      "href": "https://www.linde-mh.com/en/Products/IC-Trucks/H50-H80/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.com/en/Products/IC-Trucks/H50-H80/"
+    },
+    {
+      "label": "heavy-duty forklift trucks",
+      "href": "../Heavy-Duty-Forklifts/"
+    },
+    {
+      "label": "E100 – E180",
+      "href": "https://www.linde-mh.com/en/Products/E-Trucks/E100-E180/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.com/en/Products/E-Trucks/E100-E180/"
+    },
+    {
+      "label": "H100 – H180 D",
+      "href": "https://www.linde-mh.com/en/Products/IC-Trucks/H100-H180-D/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.com/en/Products/IC-Trucks/H100-H180-D/"
+    },
+    {
+      "label": "HT100 – HT180 D",
+      "href": "https://www.linde-mh.com/en/Products/IC-Trucks/HT100-HT180-Ds/"
+    },
+    {
+      "label": "Learn more",
+      "href": "https://www.linde-mh.com/en/Products/IC-Trucks/HT100-HT180-Ds/"
+    },
+    {
+      "label": "Heat and Dust-Resistant Forklift Trucks",
+      "href": "#itemlink"
+    },
+    {
+      "label": "Cold-Store Forklift Trucks",
+      "href": "#itemlink"
+    },
+    {
+      "label": "Explosion-proof forklifts",
+      "href": "#itemlink"
+    },
+    {
+      "label": "X20 – X35",
+      "href": "../E-Trucks/X20-X35/"
+    },
+    {
+      "label": "X35 – X50",
+      "href": "../E-Trucks/X35-X50/"
+    },
+    {
+      "label": "Contact us for a consultation!",
+      "href": "../../Forms/Global-Contact-Form/"
+    },
+    {
+      "label": "DB Schenker tests the new Linde E16",
+      "href": "../../About-us/Magazine/DB-Schenker-Schweinfurt/"
+    },
+    {
+      "label": "Learn more",
+      "href": "../../About-us/Magazine/DB-Schenker-Schweinfurt/"
+    },
+    {
+      "label": "Linde Xi20 P at Klingele Paper & Packaging",
+      "href": "../../About-us/Magazine/Klingele/"
+    },
+    {
+      "label": "Learn more",
+      "href": "../../About-us/Magazine/Klingele/"
+    },
+    {
+      "label": "Linde Xi20 PH at Ostendorf",
+      "href": "../../About-us/Magazine/Ostendorf/"
+    },
+    {
+      "label": "Learn more",
+      "href": "../../About-us/Magazine/Ostendorf/"
+    },
+    {
+      "label": "Heineken Switzerland AG",
+      "href": "../../About-us/Magazine/Heineken/"
+    },
+    {
+      "label": "Learn more",
+      "href": "../../About-us/Magazine/Heineken/"
+    },
+    {
+      "label": "LindeShop",
+      "href": "https://www.linde-mh.shop"
+    },
+    {
+      "label": "Share",
+      "href": "#123"
+    },
+    {
+      "label": "Contact",
+      "href": "../../Forms/Global-Contact-Form/"
+    },
+    {
+      "label": "Home",
+      "href": "../.."
+    },
+    {
+      "label": "Legal",
+      "href": "../../Legal-Notes/Legal/"
+    },
+    {
+      "label": "Terms of use",
+      "href": "../../Legal-Notes/Terms-of-use/"
+    },
+    {
+      "label": "Suppliers",
+      "href": "https://www.kiongroup.com/en/About-us/Suppliers/"
+    },
+    {
+      "label": "EDI",
+      "href": "../../EDI/"
+    },
+    {
+      "label": "Privacy Statements",
+      "href": "../../Legal-Notes/Privacy-Statement/"
+    },
+    {
+      "label": "Cookie Settings",
+      "href": "#"
+    },
+    {
+      "label": "Vulnerability Disclosure Policy",
+      "href": "https://www.kiongroup.com/en/Service/Vulnerability-Disclosure-Policy/"
+    }
+  ],
+  "links": [
+    "https://www.linde-mh.com/en/",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/#123",
+    "https://www.linde-mh.com/en/Products/",
+    "https://www.linde-mh.com/en/Products/Productfinder/",
+    "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/index.html",
+    "https://www.linde-mh.com/en/Products/E-Trucks/",
+    "https://www.linde-mh.com/en/Products/Diesel-Forklifts/",
+    "https://www.linde-mh.com/en/Products/Gas-forklifts/",
+    "https://www.linde-mh.com/en/Products/Heavy-Duty-Forklifts/",
+    "https://www.linde-mh.com/en/Products/Pallet-Trucks/",
+    "https://www.linde-mh.com/en/Products/Hand-Pallet-Trucks/",
+    "https://www.linde-mh.com/en/Products/Pallet-Stackers/",
+    "https://www.linde-mh.com/en/Products/Very-Narrow-Aisle-Trucks/",
+    "https://www.linde-mh.com/en/Products/Order-Pickers/",
+    "https://www.linde-mh.com/en/Products/Reach-Trucks/",
+    "https://www.linde-mh.com/en/Products/Tow-Trucks/",
+    "https://www.linde-mh.com/en/Products/Tugger-Trains/",
+    "https://www.linde-mh.com/en/Products/Explosion-Proof-Trucks/",
+    "https://www.linde-mh.com/en/Products/Automated-Trucks/",
+    "https://www.linde-mh.com/en/Products/Forklift-Hire/",
+    "https://www.linde-mh.com/en/Products/Approved-Trucks/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-guided-vehicle/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Autonomous-mobile-robots/",
+    "https://www.linde-mh.com/en/Solutions/Fleet-Management/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Software/",
+    "https://www.linde-mh.com/en/Service/",
+    "https://www.linde-mh.com/en/Service/Maintenance-Repair/",
+    "https://www.linde-mh.com/en/Service/Genuine-Spare-Parts/",
+    "https://www.linde-mh.com/en/Service/Retrofit-Accessories/",
+    "https://www.linde-mh.com/en/Service/Technical-Safety-Services/",
+    "https://www.linde-mh.com/en/Service/Training/",
+    "https://www.linde-mh.com/en/Solutions/Financing/",
+    "https://www.linde-mh.com/en/Solutions/Overview.html",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Automated-Warehouse/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/Warehouse-Management-System/",
+    "https://www.linde-mh.com/en/Solutions/Consulting/Material-Flow-Consulting/",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/User-cases-intralogistics/",
+    "https://www.linde-mh.com/en/Solutions/Consulting/Fleet-Optimization.html",
+    "https://www.linde-mh.com/en/Solutions/Energy-Systems/",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+    "https://www.linde-mh.com/en/Solutions/Energy-Systems/Energy-consulting/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Light-and-warning-systems/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Assistance-systems/",
+    "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/Safety-consulting/",
+    "https://www.linde-mh.com/en/About-us/",
+    "https://www.linde-mh.com/en/About-us/Company/",
+    "https://www.linde-mh.com/en/About-us/Sustainability/",
+    "https://www.linde-mh.com/en/About-us/Awards/",
+    "https://www.linde-mh.com/en/About-us/Certificates/",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/Students-Scholars/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/Apprentice/",
+    "https://www.linde-mh.com/en/About-us/Working-at-Linde/Professionals/",
+    "https://www.linde-mh.com/en/About-us/Magazine/",
+    "https://www.linde-mh.com/en/About-us/Events/",
+    "https://www.linde-mh.com/en/About-us/Press/",
+    "https://www.linde-mh.com/en/About-us/Media/",
+    "https://www.linde-mh.com/en/Landingpage/Platform-Counterbalanced-Trucks/",
+    "https://www.linde-mh.com/en/Products/Productfinder/?offerType=new",
+    "https://www.linde-mh.com/en/technical/Location-Finder.html",
+    "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/S-MATIC-cube/",
+    "https://www.linde-mh.com/en/Solutions/Industries/3PL/",
+    "https://www.linde-mh.com/en/Solutions/Industries/beverage-industry/",
+    "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+    "https://www.linde-mh.com/en/Search/",
+    "https://xtranet.linde-mh.com/lmhge/",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/#",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/#2859306",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/#2859311",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/#2859315",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/#2859318",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/#2859335",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/#2859339",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/#2859342",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/#2859347",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/#2859349",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/#read_more",
+    "https://www.linde-mh.com/en/Products/Productfinder/?productTypes[]=2376&offerType=new",
+    "https://www.linde-mh.com/en/Products/Productfinder/?productTypes[]=2377&offerType=new",
+    "https://www.linde-mh.com/en/Productfinder.html",
+    "https://www.linde-mh.shop/",
+    "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+    "https://www.linde-mh.com/en/Landingpage/X-models/",
+    "https://www.linde-mh.com/en/Landingpage/Compact-class-with-electric-drive/",
+    "https://www.linde-mh.com/en/Landingpage/E-models/",
+    "https://www.linde-mh.com/en/Landingpage/H-models/",
+    "https://www.linde-mh.de/de/Produkte/E-Stapler/Xi10-Xi20/",
+    "https://www.linde-mh.de/de/Produkte/E-Stapler/Xi14-Xi20-R/",
+    "https://www.linde-mh.de/de/Produkte/E-Stapler/E14-E20/",
+    "https://www.linde-mh.de/de/Produkte/E-Stapler/Ei14-Ei20/",
+    "https://www.linde-mh.de/de/Produkte/V-Stapler/H16-H20/",
+    "https://www.linde-mh.com/en/Products/E-Trucks/X20-X35/",
+    "https://www.linde-mh.com/en/Products/E-Trucks/E20-E35/",
+    "https://www.linde-mh.com/en/Products/IC-Trucks/H20-H35/",
+    "https://www.linde-mh.com/en/Products/E-Trucks/X35-X50/",
+    "https://www.linde-mh.com/en/Products/E-Trucks/E35-E50/",
+    "https://www.linde-mh.com/en/Products/IC-Trucks/H35-H50/",
+    "https://www.linde-mh.com/en/Products/E-Trucks/E60-E80/",
+    "https://www.linde-mh.com/en/Products/IC-Trucks/H50-H80/",
+    "https://www.linde-mh.com/en/Products/E-Trucks/E100-E180/",
+    "https://www.linde-mh.com/en/Products/IC-Trucks/H100-H180-D/",
+    "https://www.linde-mh.com/en/Products/IC-Trucks/HT100-HT180-Ds/",
+    "https://www.linde-mh.com/en/Products/Forklift-Truck/#itemlink",
+    "https://www.linde-mh.com/en/About-us/Innovations-from-Linde/Linde-Safety-Pilot.html",
+    "https://www.linde-mh.com/en/About-us/Magazine/DB-Schenker-Schweinfurt/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Klingele/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Ostendorf/",
+    "https://www.linde-mh.com/en/About-us/Magazine/Heineken/",
+    "mailto:?body=$url",
+    "https://www.linkedin.com/shareArticle?url=$url&v=6245500",
+    "https://www.facebook.com/sharer/sharer.php?u=$url",
+    "javascript:window.print()",
+    "https://www.linde-mh.com/en/Legal-Notes/Legal/",
+    "https://www.linde-mh.com/en/Legal-Notes/Terms-of-use/",
+    "https://www.kiongroup.com/en/About-us/Suppliers/",
+    "https://www.linde-mh.com/en/EDI/",
+    "https://www.linde-mh.com/en/Legal-Notes/Privacy-Statement/",
+    "https://www.kiongroup.com/en/Service/Vulnerability-Disclosure-Policy/",
+    "https://www.linkedin.com/company/36425/",
+    "https://www.facebook.com/LindeMH/",
+    "https://www.instagram.com/linde_mh/",
+    "http://www.youtube.com/user/Gabelstapler24",
+    "http://null/",
+    "https://www.ccm19.de/"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.linde-mh.com/en/layoutmedia/Linde_MH_Logo_RGB.svg",
+        "alt": "",
+        "w": 250,
+        "h": 150
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Smurfit-Kappa/smurfit_kappa-H50-moving-paper_wood-4602_7454_16x9w1920.jpg",
+        "alt": "Diesel forklift truck H50 in use outdoors",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/E_Truck-E30-Warehouse-Loading-4590_41_16x9w640.jpg",
+        "alt": "A Linde E30 electric forklift truck loads and unloads goods on a rack",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Klingele/Klingele-Xi20_P-Driving-4680_a_0444_CX_16x9w640.jpg",
+        "alt": "Xi20 electric forklift truck from Linde MH transports a load",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/X20-X35/E_Truck-X35-Loading-4589_10462_16x9w640.jpg",
+        "alt": "A Linde X35 electric forklift truck unloads a truck",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/WDI-Hamm-X50/WDI_Hamm-X50-4631_1447_CX_16x9w640.jpg",
+        "alt": "Linde X50 electric forklift truck in use at wire manufacturer WDI Hamm",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/E_Truck-E30-Warehouse-Loading-4590_41_16x9w640.jpg",
+        "alt": "A Linde E30 electric forklift truck loads and unloads goods on a rack",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Klingele/Klingele-Xi20_P-Driving-4680_a_0444_CX_16x9w640.jpg",
+        "alt": "Xi20 electric forklift truck from Linde MH transports a load",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/X20-X35/E_Truck-X35-Loading-4589_10462_16x9w640.jpg",
+        "alt": "A Linde X35 electric forklift truck unloads a truck",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/WDI-Hamm-X50/WDI_Hamm-X50-4631_1447_CX_16x9w640.jpg",
+        "alt": "Linde X50 electric forklift truck in use at wire manufacturer WDI Hamm",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/E_Truck-E30-Warehouse-Loading-4590_41_16x9w640.jpg",
+        "alt": "A Linde E30 electric forklift truck loads and unloads goods on a rack",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Bruehl/Eisenwerke_Bruehl_H35_1204_4606_0421_CX_16x9w640.jpg",
+        "alt": "Diesel forklift truck from Linde Material Handling in use at Eisenwerk Bruehl",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/ic_truck-H20_H35-1202-moving-stone-quarry-050_16x9w640.jpg",
+        "alt": "H25 diesel forklift truck transports a ready-mix mortar container in a quarry",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Bohemia-Rings/Bohemiarings_H160_Working_081_16x9w640.jpg",
+        "alt": "Diesel forklift truck from Linde Material Handling in action",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Press_Releases/2019/16-2019/4548_1086_CX_16zu9_16x9w640.jpg",
+        "alt": "Gas forklift truck from Linde Material Handling in action.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Bruehl/Eisenwerke_Bruehl_H35_1204_4606_0421_CX_16x9w640.jpg",
+        "alt": "Diesel forklift truck from Linde Material Handling in use at Eisenwerk Bruehl",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/ic_truck-H20_H35-1202-moving-stone-quarry-050_16x9w640.jpg",
+        "alt": "H25 diesel forklift truck transports a ready-mix mortar container in a quarry",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Bohemia-Rings/Bohemiarings_H160_Working_081_16x9w640.jpg",
+        "alt": "Diesel forklift truck from Linde Material Handling in action",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Press_Releases/2019/16-2019/4548_1086_CX_16zu9_16x9w640.jpg",
+        "alt": "Gas forklift truck from Linde Material Handling in action.",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Bruehl/Eisenwerke_Bruehl_H35_1204_4606_0421_CX_16x9w640.jpg",
+        "alt": "Diesel forklift truck from Linde Material Handling in use at Eisenwerk Bruehl",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Ostendorf/Ostendorf-Xi20_PH-4681_0768_CX_16x9w640.jpg",
+        "alt": "Electric counterbalanced forklift truck from Linde MH transports pipes",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/02-Service/Applications/12XX-Platform/e_truck-E30-moving-manufacturing-4592_4857_16x9w640.jpg",
+        "alt": "Linde Material Handling E30 electric forklift truck",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/03_Solutions_Loesungen/Applications/X20-X35/e_truck-X35-4587_7546_16x9w640.jpg",
+        "alt": "Linde Material Handling X35 electric forklift truck",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/01-Products/02_IC-Trucks_V-Stapler/01_Products_Produkte_1/Borbet-H35/Borbet-IC_Truck-H35-Moving-4609_3199_16x9w640.jpg",
+        "alt": "Linde Material Handling H35 diesel forklift truck",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1251-01_Xi16-Basic_LINDE_teaser_16x9w640.png",
+        "alt": "Xi16 electric forklift truck from Linde MH",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1251-01_Xi16R-Basic12_LINDE_teaser_16x9w640.png",
+        "alt": "Linde Roadster Xi16 R",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1251-01_E16-Basic_LINDE_teaser_16x9w640.png",
+        "alt": "E14 – E20 electric forklift truck from Linde MH",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1251_Ei16_LINDE_teaser_16x9w640.png",
+        "alt": "Ei14 – Ei20 electric counterbalanced forklift truck from Linde MH",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR391_H16D_V04_teaser_16x9w640.png",
+        "alt": "H16 – H20 IC truck from Linde MH",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1252_00_X30_teaser_16x9w640.png",
+        "alt": "X20 – X35 electric forklift truck from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1252_E30_teaser_16x9w640.png",
+        "alt": "E20 – E35 electric forklift truck from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1202_00_H20-H35_teaser_16x9w640.png",
+        "alt": "H20–H35 IC truck from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1254_00_X50_teaser_16x9w640.png",
+        "alt": "X35 – X50 electric forklift truck from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1254_E50_teaser_16x9w640.png",
+        "alt": "E35 – E50 electric forklift truck from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1204_00_H35-H50_teaser_16x9w640.png",
+        "alt": "H35 – H50 IC trucks from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1279_E60-E80_teaser_16x9w640.png",
+        "alt": "The E60 – E80 series electric forklift truck from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR396-03_H50-H80EVO_teaser_16x9w640.png",
+        "alt": "The H50 – H80 EVO IC Trucks from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1471-SWB_E120_teaser_16x9w640.png",
+        "alt": "E100 – E180 heavy-duty forklift truck from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1401_H120_001_teaser_16x9w640.png",
+        "alt": "H100 – H180 D IC truck from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1411_HT100-HT180_Ds_teaser_16x9w640.png",
+        "alt": "HT100 – HT180 D IC truck from Linde Material Handling",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/Landingpage-Green-Performance/e_truck-moving-manufactoring-4606_0825_16x9w640.jpg",
+        "alt": "X50 electric forklift truck from Linde MH transports a load",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/Landingpage-Forklift-Truck/e_truck-E20-386-cold_store-4459_10529_CX_16x9w640.jpg",
+        "alt": "Electric forklift truck from Linde Material Handling in use in a cold store",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/01-Products/10_Explosion-Proof-Trucks_Explosionsgeschuetze-Fahrzeuge/01_Products_Produkte_9/4624_447_CX_16x9w640.jpg",
+        "alt": "Explosion-proof forklift truck from Linde Material Handling",
+        "w": 592,
+        "h": 333
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/Landingpage-Forklift-Truck/ic_truck-H20_H35-1202-manufacturing-moving-4548_1030_Small_16x9w1920.jpg",
+        "alt": "H20 – H35 IC forklift truck in use in a factory hall",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Smurfit-Kappa/smurfit_kappa-H50-lifting-paper_wood-4602_7985_CX_16x9w1920.jpg",
+        "alt": "H50 diesel forklift truck with bale clamp from Linde Material Handling in operation",
+        "w": 1440,
+        "h": 810
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/DB-Schenker/fahrer_von_db_schenke_faehrt_rueckwaerts_16x9w640.jpg",
+        "alt": "DB Schenker employee loads truck with Linde E16 electric forklift truck",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Klingele/Klingele-Xi20_P-Driving-4680_a_0444_CX_16x9w640.jpg",
+        "alt": "The Linde Xi20 P electric forklift truck in use at Klingele.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Ostendorf/Ostendorf-Xi20_PH-4681_0596_CX_16x9w640.jpg",
+        "alt": "The Linde Xi20 PH electric forklift truck loading pipes outside.",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Heineken/Stapler-bei-Heineken_16x9w640.jpg",
+        "alt": "Linde E80 forklift loading a truck at Heineken",
+        "w": 640,
+        "h": 360
+      },
+      {
+        "src": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/HR/global-HR-Banner_Linde-KION_16x9w1920.jpg",
+        "alt": "",
+        "w": 1440,
+        "h": 810
+      }
+    ],
+    "allImgCount": 51,
+    "cssBackgrounds": [],
+    "modals": [
+      "German (Deutsch) English We use cookies and other technologies. This website uses cookies and similar functions to process end device information and personal data. The processing serves the integration of content, external services and elements of third parties, statistical analysis/measurement, personalized advertising and the integration of social media. Depending on the function, data may be passed on to third parties in the process and to third parties in countries where there is no adequate level of data protection and is processed by them, e.g. the USA. Your consent is always voluntary, not required for the use of our website and can be rejected or revoked at any time on our site. Accept all Decline Settings Imprint Privacy Policy Powered by CCM19",
+      "Please select policies to allow Technically neccessary (2) ? Here are all technically necessary scripts, cookies and other elements that are necessary for the operation of the website or the operator has a legitimate interest under DSGVO Art6, para. 1. Analytics & Marketing (5) ? Analytics cookies help us understand how visitors interact with this website by collecting and reporting information anonymously. To continuously improve our website, we track data for statistical and analytical purposes, such as the number of visits or the impact of certain pages of our web presence, and thus optimise our content. Marketing cookies are used to target advertising specifically to a user (behavioural targeting). The aim of using marketing cookies is to display advertising that is particularly relevant to the users of the website. Personalization (1) ? To better tailor the website to you, scripts run here and cookies are set. The goal is to provide a better user experience for you. Other (2) ? Here are other scripts and cookies that do not fit any of the above categories. Cancel Save"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--color-red": "#aa0020",
+    "--color-toned-red": "#cc132a",
+    "--color-darkred": "#990e1f",
+    "--color-darkgrey": "#222",
+    "--color-text-darkgrey": "#444",
+    "--color-textgrey": "#4a595c",
+    "--color-toned-textgrey": "#5e7175",
+    "--color-shadegrey": "#e6e7eb",
+    "--color-lightgrey": "#eeeff3",
+    "--color-hover-lightgrey": "#f5f6fa",
+    "--color-white": "#fff",
+    "--color-form-lightgrey": "#cccdd1",
+    "--color-form-darkgrey": "#9b9b9e",
+    "--color-black": "#222",
+    "--color-form-validation": "red",
+    "--color-green": "#77b340",
+    "--color-toned-green": "color-mix(in srgb,#77b340,#fff 10%)",
+    "--color-darkgreen": "color-mix(in srgb,#77b340,#000 10%)",
+    "--color-primary-700": "#94001d",
+    "--color-primary-900": "#700016",
+    "--color-carousel-grey": "#354042",
+    "--color-carousel-lightgrey": "#6b6b6a",
+    "--color-carousel-red": "#ba1926",
+    "--color-facebook": "#3b5998",
+    "--color-twitter": "#000",
+    "--color-xing": "#126567",
+    "--color-youtube": "#cd201f",
+    "--color-vimeo": "#1ab7ea",
+    "--color-twitch": "#6441a5",
+    "--color-whatsapp": "#25d366",
+    "--color-linkedin": "#0077b5",
+    "--color-googleplus": "#d34836",
+    "--color-baidu": "#de0f17",
+    "--color-pinterest": "#bd081c",
+    "--color-instagram": "#e1306c",
+    "--color-blogger": "#f57d00",
+    "--color-flickr": "#0063dc",
+    "--color-kununu": "#000",
+    "--color-tiktok": "#000",
+    "--color-toned-red2": "#ba1926",
+    "--color-lightgrey2": "#e4e5ea",
+    "--font-face": "\"DaxlineWebPro\"",
+    "--font-face-bold": "\"DaxlineWebPro-Bold\"",
+    "--font-face-italic": "\"DaxlineWebPro-Italic\"",
+    "--font-face-medi": "\"DaxWebPro-Medi\"",
+    "--font-face-light": "\"DaxWebPro-Light\"",
+    "--color-lmh-grey-200": "#dcdcdf",
+    "--color-lmh-grey-300": "#cccdd1",
+    "--ccm--scrollbar-width": "0px",
+    "--ccm--scrollbar-height": "0px"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 65,
+    "mainTextLen": 58486,
+    "realImageCount": 50,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "epcloud.ccm19.de",
+        "path": "/consent/ccm19/public/widget",
+        "query": [
+          "apiKey",
+          "domain",
+          "gen",
+          "lang",
+          "theme",
+          "v"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/x-html-fragment",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://epcloud.ccm19.de/consent/ccm19/public/widget",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "px.ads.linkedin.com",
+        "path": "/wa/",
+        "query": [
+          "fmt",
+          "medium"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://px.ads.linkedin.com/wa/",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "b.clarity.ms",
+        "path": "/collect",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 3,
+        "example": "https://b.clarity.ms/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "epcloud.ccm19.de",
+        "path": "/consent/ccm19/public/page_check/report",
+        "query": [
+          "apiKey",
+          "domain",
+          "gen",
+          "theme"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 36,
+        "hits": 1,
+        "example": "https://epcloud.ccm19.de/consent/ccm19/public/page_check/report",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_eu",
+          "_p",
+          "_s",
+          "cid",
+          "dl",
+          "dma",
+          "dp",
+          "dt",
+          "en",
+          "ep.allowLinker",
+          "ep.customTask",
+          "frm",
+          "gcd",
+          "gcs",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.google-analytics.com/g/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.etracker.de",
+        "path": "/api/v6/tracking/webEvents",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.etracker.de/api/v6/tracking/webEvents",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "www.googletagmanager.com",
+        "count": 4
+      },
+      {
+        "host": "snap.licdn.com",
+        "count": 2
+      },
+      {
+        "host": "connect.facebook.net",
+        "count": 2
+      },
+      {
+        "host": "static.etracker.com",
+        "count": 1
+      },
+      {
+        "host": "epcdn.ccm19.de",
+        "count": 1
+      },
+      {
+        "host": "epcloud.ccm19.de",
+        "count": 1
+      },
+      {
+        "host": "code.etracker.com",
+        "count": 1
+      },
+      {
+        "host": "www.clarity.ms",
+        "count": 1
+      },
+      {
+        "host": "www.etracker.de",
+        "count": 1
+      },
+      {
+        "host": "scripts.clarity.ms",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [],
+    "ariaLiveRegions": 0,
+    "triggers": [
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      },
+      {
+        "marker": "data-ccm-modal",
+        "href": null
+      }
+    ],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 0,
+      "thirdPartyEndpoints": 6,
+      "thirdPartyScriptHosts": 10,
+      "inlineDataBlobs": 0,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": false
+    }
+  },
+  "screenshot": "assets/screenshots/en-products-forklift-truck.png",
+  "renderedHtml": "pages/en-products-forklift-truck.html",
+  "slots": {
+    "program-headline": "Forklift Trucks from Linde Material Handling",
+    "lead-image": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/Magazine/Smurfit-Kappa/smurfit_kappa-H50-moving-paper_wood-4602_7454_16x9w1920.jpg",
+    "summary": "Forklift trucks are the all-rounders of the intralogistics sector. Whether in warehouses, factories, or outdoor depots, their combination of high performance and versatility allows users to overcome any challenge in internal transportation and goods handling with ease.",
+    "feature-grid": [
+      "Forklift Trucks from Linde MH: Tailored Power Unit Solutions for Any Application",
+      "Electric Forklift Trucks: Flexible and Emission-Free",
+      "IC Trucks: Powerful on Any Terrain",
+      "Buy, Hire, or Lease Forklift Trucks",
+      "Buy a Forklift Truck New",
+      "Hire a Forklift Truck",
+      "Lease a Forklift Truck",
+      "Approved Used Trucks",
+      "Product Highlights from Linde MH",
+      "Compact Electric Trucks",
+      "Indoor Specialists with Electric Drive",
+      "High-Performance Electric Trucks",
+      "IC Endurance Trucks",
+      "Forklift Models: It’s All about Load Capacity",
+      "Forklift Trucks with Load Capacity from 1 to 2 Metric Tons",
+      "Xi10 – Xi20",
+      "Xi14 – Xi20 R",
+      "E14 – E20",
+      "Ei14 – Ei20",
+      "Forklift Trucks with Load Capacity from 2 to 3.5 Metric Tons",
+      "X20 – X35",
+      "E20 – E35",
+      "H20 – H35",
+      "Forklift Trucks with Load Capacity from 3.5 to 5 Metric Tons",
+      "X35 – X50",
+      "E35 – E50",
+      "H35 – H50",
+      "Forklift Trucks with Load Capacity from 5 to 8 Metric Tons",
+      "E60 – E80",
+      "H50 – H80",
+      "Forklift Trucks with Load Capacity from 10 to 18 Metric Tons",
+      "E100 – E180",
+      "H100 – H180 D",
+      "HT100 – HT180 D",
+      "Forklift Trucks for Special Operating Conditions",
+      "Heat and Dust-Resistant Forklift Trucks",
+      "Customized Trucks for Every Requirement",
+      "Linde Forklift Trucks—Advantages at a Glance",
+      "Ergonomics",
+      "Connectivity",
+      "Performance",
+      "Safety",
+      "Energy",
+      "Checklist before Purchase: How to Find the Right Forklift Truck",
+      "Operating Environment and Ambient Conditions",
+      "Load Requirements",
+      "Lifting Height and Operating Environment",
+      "Operating Hours and Intensity of Use",
+      "Maximizing Efficiency and Value",
+      "Forklift Trucks from Linde MH in Operation",
+      "DB Schenker tests the new Linde E16",
+      "Linde Xi20 P at Klingele Paper & Packaging",
+      "Linde Xi20 PH at Ostendorf",
+      "Heineken Switzerland AG",
+      "FAQ – Frequently Asked Questions about Forklift Trucks",
+      "What Is a Forklift Truck?",
+      "What Types of Forklift Truck Are There?",
+      "Where Are Forklift Trucks Used?",
+      "How Much Does a Forklift Lift?",
+      "What Is the Lifting Height of a Forklift Truck?",
+      "How Fast Can a Forklift Truck Travel?",
+      "How Much Does a Forklift Truck Cost?",
+      "Do You Need a Driver’s License to Drive a Forklift Truck?"
+    ],
+    "cta-band": [
+      {
+        "label": "Power Unit Types",
+        "href": "#2859306"
+      },
+      {
+        "label": "Buy, Hire, or Lease Forklift Trucks",
+        "href": "#2859311"
+      },
+      {
+        "label": "Product Highlights",
+        "href": "#2859315"
+      }
+    ]
+  }
+}

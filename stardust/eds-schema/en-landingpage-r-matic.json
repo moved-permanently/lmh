@@ -1,0 +1,726 @@
+{
+ "source": "http://localhost:8802/stardust/migrated/en/Landingpage/R-Matic/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The R-MATIC automated reach truck"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Intelligent team player"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Performance",
+     "href": "#778723"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Precision",
+     "href": "#778725"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Safety",
+     "href": "#778719"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Flexibility",
+     "href": "#778721"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Benefits",
+     "href": "#778715"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 5,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "In intralogistics, warehouses play a central role in the handling of goods and materials. Typically, they involve standardized processes, tasks with a high degree of repetition, and a small proportion of manual work. The costs for deploying personnel here are also high and this situation is exacerbated by the shortage of specialists. In view of these requirements, automating the processes is the key to greater efficiency. This has the following consequences for the industrial trucks used: Their design, maneuverability, load handling, and the precision of their optical sensors are crucial for the performance of the overall system."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Successful system change – on the way to a fully automated warehouse"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "However, automation does not only come down to the trucks. A system change is required. The typical occasions where an automated warehouse is implemented therefore generally include new constructions (greenfield projects) or the redesign of an existing logistics area, where automated trucks replace a manually operated fleet (brownfield projects). These projects are complex, but the step into the future is worthwhile, and this is confirmed by the experiences of the Linde Material Handling Implementation Team, who oversee the commissioning of automation solutions."
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Experience from more than 50 projects based on the R-MATIC series"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Over the past few years, the experts have successfully implemented more than 50 projects with flow racks, racks that are only accessible from one side, and mobile storage racks based on R-MATIC reach trucks. In each of these projects, users were able to achieve significant efficiency increases. Linde has also tested the efficiency potential of automated warehouses under realistic conditions. In a test environment that was based on the industry standard, the trucks from the R-MATIC series proved themselves in an 800-hour test."
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 5,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 7,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.infobox-media",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The Linde Implementation Team"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde oversees the entire commissioning process for automation solutions with its own implementation team. This team takes on all of the project management from the selection and configuration of the trucks to the integration including any fault analyses and finally the operation of the system."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Do you have questions about automation? Talk directly to our experts!",
+     "href": "mailto:IL-Consultancy@linde-mh.de"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Linde R-MATIC – New peak performance for automated load handling"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The automated R-MATIC reach truck sets new benchmarks in the required working aisle width and in load detection. Users can access aisle widths of up to 3 meters in fully automated operation. The software specifically developed for the R-MATIC for automated image recognition recognizes 20 to 30 times more pixels than traditional 3D cameras and make it possible to identify the load position with unparalleled accuracy. Users benefit from unparalleled pick-and-drop rates of just 66-85 seconds."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Performance - New benchmarks in aisle width and lifting height"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The trucks from the R-MATIC series are the only reach trucks that can be operated in an aisle width of just 2.90 m where Euro pallets are used. The user can increase the speed accordingly for wider aisle widths. The R-MATIC series is also setting new standards with its lifting height. They are the only fully automatic reach trucks that also enable completely precise pallet handling at lifting heights of more than 11 meters. The trucks offer all the benefits of traditional reach trucks. Their compact design makes them ideally suited to goods handling with high shelving and maneuvering in warehouse aisles and they can reach speeds of up to 2 meters per second."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "They also offer the benefits of automated trucks. They are safe, easy to integrate into your intralogistics, and cost-efficient. In fleet operation, the R-MATIC trucks can be coordinated to work in perfect harmony with one another and also with non-automated equipment. New software simplifies the commissioning of the trucks and reduces the implementation time and costs for the customer. The results for the user are improved transport quality, shorter journeys, lower energy consumption, and maximum reliability, even in 24-hour operation."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Precision - Optimum use of space even in cramped warehouses"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The intelligent software specifically developed for the R-MATIC trucks to enable image recognition via the 3D camera is unique on the market. It detects 20 to 30 times more image points than traditional cameras. This enables it to measure angles and depths much more successfully and, as a result, to detect distances to racking pillars and the spatial extent of pallets. The camera also makes it possible to reliably generate relative measurements of the distance and orientation of pallets and forks. The software’s intelligent algorithm enables automated decisions that are much closer to a human decision than before. This means that the trucks from the R-MATIC series can put down and pick up loads more precisely. Depending on the rack location and the surroundings, they can therefore also work in situations, where traditional trucks would terminate the loading process. This increases flexibility, optimizes the use of space, and shortens the pick-and-drop cycles."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Safety - Intelligent Assistant On Board"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "2"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "The comprehensive system of sensors in the R-MATIC trucks offers users a high degree of safety and precision. In addition to the high safety standards that all the automated Linde trucks offer, R-MATIC also has intelligent safety features for when it is used in automated mode. Sensors at floor level produce a 360 degree safety field, which enables the trucks to work safely and smoothly. The truck detects people, other trucks, and obstacles automatically. If the system identifies an obstacle, the truck reduces its speed and, if necessary, stops. Sensors also ensure during load handling that pallets are always put down in or picked up from the right place. Linde’s own also ensures safety even at the current maximum lifting heights of up to 11.45 meters. A sensor that can be mounted on the fork carriage as an option prevents the dangers posed by overhanging loads."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Dynamic Mast Control (DMC) driver assistance system",
+     "href": "../../../en/About-us/Innovations-from-Linde/Dynamic-Mast-Control.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 2,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Flexibility - Ready for a wide variety of requirements"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Users can implement a flexible automation solution tailored to their specific requirements based on the R-MATIC series. The wide range of masts mean that the R-MATIC trucks can be adapted to a variety of different handling requirements at medium and high lifting heights. The innovative software for the 3D camera makes it possible to integrate a large number of different pick-up and drop stations (floor, conveyor, racks that are only accessible from one side, or flow racks). When it comes to the energy systems too, users will in future be able to choose between different options and will also be able to automate the charging process with the help of lithium-ion technology. Linde has also catered for exceptional circumstances. If the situation requires, operators can also drive the R-MATIC trucks manually."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Benefits at a Glance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Performance"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Improved transport quality, shorter journeys, and reduced energy consumption"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Precision"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Short pick-and-drop cycles as a result of unparalleled accuracy in the detection of loads, racking slots, and surroundings."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Safety"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Optimal protection for personnel, goods, and trucks"
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Flexibility"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Ideal for a variety of different handling requirements at medium and high lifting heights, as well as pick-up and drop stations."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Project planning - Professional Support in All Aspects"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "When it comes to the development and implementation of an automation solution, Linde supports its customers with its own Implementation Team. The experts take on all of the project management from the selection and configuration of the trucks to the integration including any fault analyses and finally the operation of the system. The infrastructure-free natural feature navigation of the R-MATIC trucks means that they can be integrated into the entire intralogistics process easily, quickly, and seamlessly. This enables the system to be adapted and scaled to changing requirements in a flexible way and without a great deal of effort as well. Connection to warehouse management systems can also be achieved very easily. In addition to the Implementation Team, users are supported during operation by the Linde service branches."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Contact our automation experts and get a personal consultation from them.",
+     "href": "mailto:IL-Consultancy@@@@linde-mh....de"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Automated industrial trucks",
+     "href": "https://www.linde-mh.com/en/Products/Automated-Trucks/"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde Material Handling offers a wide range of automated industrial trucks for flexible and scalable automation solutions. The electric forklifts, pallet trucks, and tow tractors from the MATIC series are equipped with intelligent navigation and safety technology, and work together with people in the tightest of spaces."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/Products/Automated-Trucks/"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Intralogistics and Automation",
+     "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Comprehensive solutions for intralogistics and automation from Linde Material Handling: efficient and scalable. For greater productivity, flexibility, and safety in the warehouse."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/Solutions/Intralogistics-Automation/"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Warehouse Automation",
+     "href": "../../../en/Solutions/Intralogistics-Automation/Automated-Warehouse/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Automated Warehouse with Linde MH: Scalable automation for efficient, safe, and flexible material flow."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Intralogistics-Automation/Automated-Warehouse/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "L-MATIC HD k",
+     "href": "../../../en/Products/Automated-Trucks/L-MATIC-HD-k/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The automated L-MATIC HD k pallet stacker from Linde MH ensures a smooth material flow in the wide aisle warehouse."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/Products/Automated-Trucks/L-MATIC-HD-k/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Solutions for the automotive industry",
+     "href": "../../../en/Solutions/Industries/Automotive-Industry/index.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Linde Material Handling supports the automotive industry in the key challenges of intralogistics: ensuring production flow, saving costs, using automation, protecting the environment."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Industries/Automotive-Industry/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Optimization is a question of chemistry",
+     "href": "../../../en/About-us/Magazine/Optimization-is-a-question-of-chemistry.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Simple does not always mean trivial: proof of this is the automation project of Linde Material Handling for BASF Italia. In order to optimize efficiency and safety, a flexible, secure and fast-to-implement solution for Logistics 4.0 was integrated on the basis of an automated guided vehicle (AGV)."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Optimization-is-a-question-of-chemistry.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Autonomous or manual?",
+     "href": "../../../en/About-us/Magazine/Product-Automation-Interview-Magazine.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Automation promises greater efficiency in production logistics. However, in some cases a manual or partially autonomous scenario can be more cost-effective than fully autonomous operation. Digitalization expert Frank Heptner explains what makes the difference."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Product-Automation-Interview-Magazine.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "L-MATIC core",
+     "href": "../../../en/Products/Automated-Trucks/L-MATIC-core/index.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Compact, safe, and fast commissioning: the automated L-MATIC core pallet stacker from Linde is the perfect entry point into warehouse automation."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/Products/Automated-Trucks/L-MATIC-core/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "The Most Natural Thing in the World",
+     "href": "../../../en/About-us/Magazine/The-most-natural-thing-in-the-world.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "The main factory of the French metal packaging manufacturer Massilly in Cluny relies on extensive automation in the production process. Until recently the final process step, transporting the pallets to the warehouse, was conducted manually. This task is now also being performed by automated industrial trucks, with great success. Representatives of the company are now traveling to Cluny to see for themselves the benefits of Linde robotics equipment."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/The-most-natural-thing-in-the-world.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Goods transport with automated fleet",
+     "href": "../../../en/About-us/Magazine/Goods-transport-with-automatic-fleet.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "Every year, the Marketing Department and Management Board of Wolf GmbH, a systems supplier for heating, ventilation, air-conditioning and solar technology based in Mainburg, Lower Bavaria, develop a motto that aims to give employees orientation and motivation. “Courage to embrace change”, the message for 2016, could not be more appropriate with regard to the purchase of the company’s first robot industrial truck."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Goods-transport-with-automatic-fleet.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "We are the systems integrator for internal material flow",
+     "href": "../../../en/About-us/Magazine/We-are-the-system-integrator-for-the-internal-material-flow.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Automation is one of the trending topics in intralogistics. In this interview, Tobias Zierhut, Head of Product Management Warehouse Trucks, explains why data will play a key role in the future of warehouse technology, and why Linde Material Handling sees itself as the market leader in robotics."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "“We are the systems integrator for internal material flow”",
+     "href": "../../../en/About-us/Magazine/We-are-the-system-integrator-for-the-internal-material-flow.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "Opel Vienna turns to automation",
+     "href": "../../../en/About-us/Magazine/Opel-Vienna.html"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "The Opel plant in Aspern, Austria, is the first Opel location to commission fully automatic vehicles for longer distances. In doing so, the carmaker relies entirely on Linde's expertise. The challenge was to integrate autonomous driving into the existing systems."
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Opel-Vienna.html"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "Robots as employee of the month",
+     "href": "../../../en/About-us/Magazine/Robots-as-employee-of-the-month.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "With the Robotics4Retail survey, the EHI Retail Institute is investigating how robotics and automation are revolutionizing intralogistics. Who are the drivers of automation and what comprehensive solutions and industrial trucks does Linde offer?"
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Robots-as-employee-of-the-month.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "K-MATIC",
+     "href": "../../../en/Products/Automated-Trucks/K-Matic/index.html"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "Driverless and efficient: The Linde K-MATIC autonomous turret truck moves pallets in high shelving safely and efficiently."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "../../../en/Products/Automated-Trucks/K-Matic/index.html"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,807 @@
+{
+ "source": "http://localhost:8802/stardust/migrated/en/Landingpage/Platform-Counterbalanced-Trucks/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The New Generation of Linde Counterbalanced Forklift Trucks"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Exactly the Right Truck"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Platform",
+     "href": "#778731"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Performance",
+     "href": "#778735"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Ergonomics",
+     "href": "#778737"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Safety",
+     "href": "#778739"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Connectivity",
+     "href": "#778741"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Advantages",
+     "href": "#778743"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 6,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Counterbalanced forklift trucks are the multi-functional intralogistics solution that have to tackle a variety of challenges. Whether in e-commerce, just-in-sequence supply of production lines, or globally networked supply chains, the demands on goods and material flows are changing rapidly and becoming increasingly more complex. For industrial trucks, flexibility and connectivity are the key to success, combined with productivity, safety, and ergonomics."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde Material Handling is addressing these requirements head-on with its newly developed generation of counterbalanced forklift trucks. They are based on one universal platform, which can be fitted with an internal combustion engine or electric motor, according to the customer’s preference. To date, Linde is the only manufacturer to combine all drive types and energy systems on one platform and therefore to offer a range of electric forklift trucks that can replace internal combustion trucks without loss of performance or durability."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Are you interested in our new generation of forklift trucks? Contact us!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Download the brochure on our new generation of forklift trucks here!",
+     "href": "../../../media/Global-Content/08_Downloads/LMH_Counterbalance_Trucks_Platform_en_A_0621_view.pdf"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "A.btn__link",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Counterbalanced Forklifts for Every Customer Requirement"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "2"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "3"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "4"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.media-carousel-item",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The new counterbalanced forklift trucks offer a unique combination of freedom of choice and future reliability. They are based on one innovative technological platform that is compatible with every type of energy system—functioning just as effectively with diesel and gas combustion engines as with high-performance electric drives supplied with energy from lead-acid batteries, lithium-ion batteries, or fuel cells. Whether for loading and unloading in tight spaces in the warehouse or for demanding outdoor use, Linde will help you to choose the right truck and the required energy infrastructure. Our promise: Every customer will receive the best truck by far for their own requirements—with no compromises."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The platform was developed with input from extensive market research. During special “Truck Clinics”, developers conducted almost 1000 interviews with customers and sales employees from 26 countries. This allowed them to gain a comprehensive view of product demand, performance requirements, and the importance of specific features."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "E for Exceptional: E20 – E35 and E35 – E50",
+     "href": "../../../en/Landingpage/E-models/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The E20 – E35 and E35 – E50 forklift trucks are perfectly equipped for indoor use. Their compact design and maneuverability provide excellent handling performance even in tight spaces."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more here",
+     "href": "../../../en/Landingpage/E-models/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "The Best of Both Worlds: X20 – X35 and X35 – X50",
+     "href": "../../../en/Landingpage/X-models/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The X20 – X35 and X35 – X50 forklift trucks achieve whole new performance levels for electric forklifts. They combine the dynamics, flexibility, and zero emissions of an electric forklift with the power and robustness of an IC truck."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more here",
+     "href": "../../../en/Landingpage/X-models/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Visibly Better: H20 – H35 and H35 – H50",
+     "href": "../../../en/Landingpage/H-models/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The H20 – H35 and H35 – H50 trucks have everything that Linde forklifts are traditionally known for: safety, performance, ergonomics, and robustness—still unparalleled thanks to the precision and power of the hydrostatic drive."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more here",
+     "href": "../../../en/Landingpage/H-models/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Maximum Performance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The new counterbalanced forklift trucks achieve outstanding handling performance, even in the standard version. With a wide range of price list options and customer-specific solutions, they can also be optimized for the intended purpose. For the first time ever, electric forklifts with the power of an IC truck: They offer an environmentally sustainable alternative, without compromising on performance or durability. The core component is a synchronous reluctance motor with the addition of permanent magnets which provide a quantifiable increase in the performance and energy efficiency of the truck. They do away with the usual vibrations, noise, and exhaust emissions associated with IC trucks, while the chassis and construction are designed for maximum durability. Thanks to the combi steering axle, the E models are ideal for use in confined spaces and narrow aisles. With their robust swing axle and long wheelbase, the X and H models are ideal for outdoor use."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "2"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "3"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "4"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Impressive Driving Experience"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "This generation of counterbalanced forklift trucks also provides the optimum ergonomics as standard. The interior of the truck offers maximum space. The premium ergonomic design of the seats and a unique operating concept, together with the even better field of vision, provide an optimal driving experience. The driver has the best possible view of the load and the surroundings. This minimizes disruptions or operational failures, and maximizes productivity. In addition, the extended armrest with freely configurable control elements provides even greater comfort. To minimize the physical strain on the operator, the mast, axles, and chassis are decoupled to keep vibrations to an absolute minimum."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Please get in: this gives you a 360° view from the truck.",
+     "href": "http://www.exappserver.com/1202/"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Optimum Protection for People, Trucks, and Surroundings"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "2"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "3"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "4"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The new counterbalanced forklift trucks are constantly being optimized for safety. With their low center of gravity, they are designed for maximum stability to prevent tipping. The chassis, driver’s cab, and mast are designed to provide as unobstructed a view of the truck, load, and work environment as possible. They also feature cutting-edge safety systems, including in-built assistance systems such as Linde Load Assist, which prevents tipping accidents and falling loads, as well as Linde Curve Control, which reduces the speed of the truck when turning."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Linde Motion Detection, which is available as an option, identifies movements in a 180-degree radius behind the truck and automatically stops the truck from reversing. Another option is the Linde LED Stripes, which use different colors to show the truck’s direction of travel. Further assistance systems provide added safety for people, trucks, and surroundings."
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 4,
+      "textRuns": 4
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Perfectly Networked"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The new counterbalanced trucks are fitted with a comprehensive system of sensors as standard, providing secure data collection and transmission. This means the trucks can be seamlessly integrated into networked processes. Even with the basic versions, it is easy to carry out updates and, where necessary, to release extra digital functions such as load weight display. Using a smart control system, the trucks can be adjusted to suit the individual requirements of the driver and can be integrated into a superordinate fleet management system. Important parameters and performance data can be accessed and analyzed at any time, increasing the availability of the trucks. Connectivity is also ensured when it comes to energy management. With the E and X series of electric forklifts, data relating to the charge level and utilization of the charging infrastructure is collected and analyzed."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Have we sparked your interest? Contact us!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Download the brochure on our new generation of forklift trucks here!",
+     "href": "../../../media/Global-Content/08_Downloads/LMH_Counterbalance_Trucks_Platform_en_A_0621_view.pdf"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "A.btn__link",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Your Benefits at a Glance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Performance"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "By combining the best features of the electric and internal combustion forklift trucks, we have achieved a whole new level of performance."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Ergonomics"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "The new driver workstations and expanded field of vision ensure maximum comfort for the operator."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Safety"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Excellent visibility and cutting-edge safety systems provide optimum protection for people, trucks, and surroundings."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Connectivity"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "With data collection and transmission as standard, the forklift trucks are ideal for integrating into networked processes."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Arrange your personal consultation now!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Compact top performer",
+     "href": "../../../en/Products/E-Trucks/E14-E20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Maximum indoor goods handling: The Linde E14 – E20 with swivel steering axle are super-agile and come with a wide range of energy solutions."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/E14-E20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Ei14 – Ei20",
+     "href": "../../../en/Products/E-Trucks/Ei14-Ei20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The Ei14 – Ei20 electric forklift trucks with integrated Li-ION battery combine agility and comfort for efficient use in standard indoor applications."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Ei14-Ei20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Flexible All-Rounder",
+     "href": "../../../en/Products/E-Trucks/E16-E20-P/index.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Efficient load handling: Linde E16 – E20 P electric forklift trucks are maneuverable, flexible and offer numerous energy options."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/E16-E20-P/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Xi16 – Xi20 P (four-wheeled forklift truck)",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-P/index.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Powerful, robust, agile, and spacious: The counterbalance forklift trucks Xi16 – Xi20 P from Linde set new standards as a four-wheeled version."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-P/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Solutions for the automotive industry",
+     "href": "../../../en/Solutions/Industries/Automotive-Industry/index.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Linde Material Handling supports the automotive industry in the key challenges of intralogistics: ensuring production flow, saving costs, using automation, protecting the environment."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Industries/Automotive-Industry/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "Flying starts on the ground",
+     "href": "../../../en/About-us/Magazine/Airport-Logistics.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Ground handling is a challenge for airport logistics. The demands on industrial trucks and logistics solutions are correspondingly high. Demand is for robust vehicles that enable fast and safe handling and are increasingly focusing on alternative drive systems."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Airport-Logistics.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "Theo Egberts’s Performance Test",
+     "href": "../../../en/About-us/Magazine/Theo-Egberts-Xi/index.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "Forklift expert confirms: Linde sets new records for performance, ergonomics, and energy efficiency with its new Xi models."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Theo-Egberts-Xi/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Linde Roadster Xi16 – Xi20 RP",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-RP/index.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "The Xi16 – Xi20 RP electric counterbalanced forklift truck combines unparalleled all-round visibility, maneuverability, and safety for maximum efficiency."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-RP/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "Linde Roadster Xi14 – Xi20 R",
+     "href": "../../../en/Products/E-Trucks/Xi14-Xi20-R/index.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Pioneering visibility, compact maneuverability, and high performance: The Xi14 – Xi20 electric counterbalanced forklift trucks from Linde Material Handling."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Xi14-Xi20-R/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "Xi10 – Xi20 (three-wheeled forklift truck)",
+     "href": "../../../en/Products/E-Trucks/Xi10-Xi20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "As a three-wheeled version, the counterbalance forklift trucks Xi10 – Xi20 from Linde set new standards when it comes to performance, maneuverability and space."
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Xi10-Xi20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "A Refreshing Performance",
+     "href": "../../../en/About-us/Magazine/Ensinger/index.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "The best of both worlds – for the best that nature has to offer. That’s the best way to describe the pilot run of the new Linde X35 at German soft drinks manufacturer, Ensinger Mineral-Heilquellen. The new electric forklift truck performance class impressed the managers of the long-established mineral water brand, not only in terms of sustainability, but also with its outstanding performance."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Ensinger/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "Signature Move(s)",
+     "href": "../../../en/About-us/Magazine/Porsche-Engineering/index.html"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "For decades now, Linde forklift trucks have been distinguished by their design, for which the honor goes to none other than Porsche Engineering. The most recent achievement of this progressive partnership: the new generation of Linde Counterbalanced Forklift Trucks X20 – X35 and H20 – H35."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Porsche-Engineering/index.html"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

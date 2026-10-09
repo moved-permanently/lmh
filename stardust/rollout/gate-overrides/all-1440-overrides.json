@@ -1,0 +1,10 @@
+{
+  "en-legal-notes-cookie-policy": {
+    "criterion": "content",
+    "measured": "content MISSING 2 / HIDDEN 0 at 1440: the origin links \"Change consent\" and \"Withdraw consent to all\" (CCM19 consent-state panel: Your current state / consent id / consent date, origin y 531/557)",
+    "reason": "The two links are the CCM19 consent manager's live controls (javascript: handlers on the visitor's stored consent state, rendered by the third-party widget at runtime), not page content; the cookie declaration itself (prose + 10 tables) is delivered verbatim as `table header` blocks. No authored form of a consent-state control exists without the CCM19 runtime.",
+    "decidedBy": "hands-off (cluster-static, 2026-10-06)",
+    "flaggedFor": "site owner — embed the CCM19 declaration script on the EDS page if the live consent controls are wanted",
+    "verdict": "DELIVERED (documented residual)"
+  }
+}

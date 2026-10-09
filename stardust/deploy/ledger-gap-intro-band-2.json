@@ -1,0 +1,38 @@
+{
+  "/en/about-us/sustainability": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T19:57:09.967Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/e-models": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T19:57:09.968Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/h-models": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T19:57:09.968Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/x-models": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T19:57:09.968Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

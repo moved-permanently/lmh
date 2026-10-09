@@ -1,0 +1,1676 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-10-06T11:57:49.270Z",
+    "readArtifacts": [
+      "stardust/current/_computed-styles.json",
+      "stardust/current/_prep-analysis.json",
+      "stardust/current/_modules-draft.json",
+      "stardust/current/pages/en.json",
+      "stardust/current/pages/en-about-us-company.json",
+      "stardust/current/assets/css/index_style_bundle_lmh.css"
+    ],
+    "synthesizedInputs": [],
+    "stardustVersion": "0.27.0",
+    "notes": [
+      "palette, type and motifs aggregated across all 98 censused pages at 1440 and 360",
+      "home-only fields: logo, voice samples, register"
+    ]
+  },
+  "site": {
+    "name": "Linde Material Handling",
+    "tagline": "The safety of people, trucks, and goods is the central idea of Linde Material Handling's Zero Accident Philosophy. ",
+    "originUrl": "https://www.linde-mh.com/en/"
+  },
+  "origins": [
+    {
+      "url": "https://www.linde-mh.com",
+      "role": "primary",
+      "pages": 99
+    }
+  ],
+  "logo": {
+    "source": "img-logo-class",
+    "sourceSelector": ".navigation_logo a.logo_link img",
+    "url": "https://www.linde-mh.com/en/layoutmedia/Linde_MH_Logo_RGB.svg",
+    "path": "stardust/current/assets/logo.svg",
+    "format": "svg",
+    "renderedWidth": 150,
+    "variants": [
+      "primary (red on white)"
+    ],
+    "variantsNotCaptured": [
+      "inverted / monochrome (none observed in the capture)"
+    ],
+    "note": "census logo chain reported none (no header landmark); captured from the rendered DOM"
+  },
+  "favicon": {
+    "url": "https://www.linde-mh.com/en/layoutmedia/Favicon/lmh-favicon-96x96.png?v=6234005",
+    "path": "stardust/current/assets/favicon.jpg"
+  },
+  "palette": [
+    {
+      "value": "#222222",
+      "role": "text-primary",
+      "occurrences": 17886,
+      "usedAs": [
+        "text"
+      ],
+      "censusRoles": [
+        "text",
+        "heading"
+      ],
+      "sources": [
+        {
+          "page": "https://www.linde-mh.com/en/Legal-Notes/Cookie-Policy/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > ul > li:nth-of-type(1)",
+          "prop": "text"
+        },
+        {
+          "page": "https://www.linde-mh.com/en/Legal-Notes/Cookie-Policy/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > ul > li:nth-of-type(3) > span",
+          "prop": "text"
+        },
+        {
+          "page": "https://www.linde-mh.com/en/About-us/Media/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > ul > li:nth-of-type(1)",
+          "prop": "text"
+        }
+      ]
+    },
+    {
+      "value": "#eeeff3",
+      "role": "surface",
+      "occurrences": 9676,
+      "usedAs": [
+        "background",
+        "border"
+      ],
+      "censusRoles": [
+        "surface",
+        "primary",
+        "border"
+      ],
+      "sources": [
+        {
+          "page": "https://www.linde-mh.com/en/About-us/Press/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+          "prop": "border"
+        },
+        {
+          "page": "https://www.linde-mh.com/en/About-us/Press/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2)",
+          "prop": "background"
+        },
+        {
+          "page": "https://www.linde-mh.com/en/About-us/Press/",
+          "selector": "#pjax-container > div > div:nth-of-type(4)",
+          "prop": "background"
+        }
+      ]
+    },
+    {
+      "value": "#aa0020",
+      "role": "primary",
+      "occurrences": 7818,
+      "usedAs": [
+        "background",
+        "text",
+        "border"
+      ],
+      "censusRoles": [
+        "secondary"
+      ],
+      "sources": [
+        {
+          "page": "https://www.linde-mh.com/en/About-us/Press/",
+          "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(1) > a",
+          "prop": "link"
+        },
+        {
+          "page": "https://www.linde-mh.com/en/About-us/Press/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > a",
+          "prop": "link"
+        },
+        {
+          "page": "https://www.linde-mh.com/en/About-us/Press/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(4) > div > div:nth-of-type(1) > ul > li:nth-of-type(2) > a",
+          "prop": "text"
+        }
+      ]
+    },
+    {
+      "value": "#ffffff",
+      "role": "background",
+      "occurrences": 7263,
+      "usedAs": [
+        "background",
+        "text"
+      ],
+      "censusRoles": [
+        "background"
+      ],
+      "sources": [
+        {
+          "page": "https://www.linde-mh.com/en/About-us/Media/",
+          "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > a > div",
+          "prop": "text"
+        },
+        {
+          "page": "https://www.linde-mh.com/en/About-us/Awards/",
+          "selector": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > a > div",
+          "prop": "text"
+        },
+        {
+          "page": "https://www.linde-mh.com/en/About-us/Magazine/",
+          "selector": "#pjax-container > div:nth-of-type(19) > div:nth-of-type(1) > div > div:nth-of-type(2) > div > a",
+          "prop": "border"
+        }
+      ]
+    },
+    {
+      "value": "#4a595c",
+      "role": "text-secondary",
+      "occurrences": 1039,
+      "usedAs": [
+        "text",
+        "background"
+      ],
+      "censusRoles": [],
+      "sources": [
+        {
+          "page": "https://www.linde-mh.com/en/About-us/Events/",
+          "selector": "div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(1) > a > div",
+          "prop": "text"
+        },
+        {
+          "page": "https://www.linde-mh.com/en/About-us/Events/",
+          "selector": "#pjax-container > div:nth-of-type(8) > div > div > div > div:nth-of-type(1) > div:nth-of-type(1)",
+          "prop": "background"
+        },
+        {
+          "page": "https://www.linde-mh.com/en/Productfinder.html?offerType=new&sorting[field]=productType&sorting[direction]=ASC",
+          "selector": "#pjax-container > div:nth-of-type(4) > div > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > span",
+          "prop": "background"
+        }
+      ]
+    },
+    {
+      "value": "#cccdd1",
+      "role": "border",
+      "occurrences": 192,
+      "usedAs": [
+        "border"
+      ],
+      "censusRoles": [],
+      "sources": [
+        {
+          "page": "https://www.linde-mh.com/en/Forms-GC/Next-Champ-Form/",
+          "selector": "#mwfc8d77ed1e84e",
+          "prop": "border"
+        },
+        {
+          "page": "https://www.linde-mh.com/en/Forms/Automation-Campaign/",
+          "selector": "div > div > form > fieldset:nth-of-type(3) > div > div:nth-of-type(1) > div:nth-of-type(2) > input",
+          "prop": "border"
+        },
+        {
+          "page": "https://www.linde-mh.com/en/Forms/Ex-Proof_Form/",
+          "selector": "form > fieldset:nth-of-type(2) > div > div:nth-of-type(2) > div > div > label:nth-of-type(1) > input",
+          "prop": "border"
+        }
+      ]
+    },
+    {
+      "value": "#444444",
+      "role": "text-body",
+      "occurrences": 140,
+      "usedAs": [
+        "text"
+      ],
+      "censusRoles": [],
+      "sources": [
+        {
+          "page": "https://www.linde-mh.com/en/Linde-Core/Linde-Productivity.html",
+          "selector": "#pjax-container > div:nth-of-type(5) > div > div > div > span > div:nth-of-type(1) > p",
+          "prop": "text"
+        },
+        {
+          "page": "https://www.linde-mh.com/en/technical/News-Detail_1033728.html",
+          "selector": "#pjax-container > div:nth-of-type(2) > div:nth-of-type(1) > span > div:nth-of-type(1) > p",
+          "prop": "text"
+        },
+        {
+          "page": "https://www.linde-mh.com/en/technical/News-Detail_116352.html",
+          "selector": "#pjax-container > div:nth-of-type(2) > div:nth-of-type(1) > span > div:nth-of-type(1) > p",
+          "prop": "text"
+        }
+      ]
+    },
+    {
+      "value": "#6a6b6e",
+      "role": "text-muted",
+      "occurrences": 8,
+      "usedAs": [
+        "text"
+      ],
+      "censusRoles": [],
+      "sources": [
+        {
+          "page": "https://www.linde-mh.com/en/Productfinder.html?offerType=new&sorting[field]=productType&sorting[direction]=ASC",
+          "selector": "#pjax-container > div:nth-of-type(2) > div > div > ul > li:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(2)",
+          "prop": "text"
+        },
+        {
+          "page": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=new&sorting[field]=productType&sorting[direction]=ASC",
+          "selector": "#pjax-container > div:nth-of-type(2) > div > div > ul > li:nth-of-type(1) > div:nth-of-type(2) > span:nth-of-type(2)",
+          "prop": "text"
+        }
+      ]
+    },
+    {
+      "value": "#ba1926",
+      "role": "accent-carousel",
+      "occurrences": 4,
+      "usedAs": [
+        "background"
+      ],
+      "censusRoles": [],
+      "sources": [
+        {
+          "page": "https://www.linde-mh.com/en/Productfinder.html?offerType=new&sorting[field]=productType&sorting[direction]=ASC",
+          "selector": "#pjax-container > div:nth-of-type(4) > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(1) > span:nth-of-type(1)",
+          "prop": "background"
+        },
+        {
+          "page": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=new&sorting[field]=productType&sorting[direction]=ASC",
+          "selector": "#pjax-container > div:nth-of-type(4) > div > div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(1) > span:nth-of-type(1)",
+          "prop": "background"
+        }
+      ]
+    },
+    {
+      "value": "#94001d",
+      "role": "primary-hover",
+      "occurrences": 423,
+      "usedAs": [
+        "background",
+        "text"
+      ],
+      "sources": [
+        {
+          "page": "census aggregate.hover",
+          "selector": "a, .btn",
+          "prop": "hover color/background"
+        },
+        {
+          "page": "customProps --color-primary-700",
+          "selector": ":root",
+          "prop": "--color-primary-700"
+        }
+      ]
+    },
+    {
+      "value": "#f5f6fa",
+      "role": "surface-hover",
+      "occurrences": 196,
+      "usedAs": [
+        "background"
+      ],
+      "sources": [
+        {
+          "page": "census aggregate.hover",
+          "selector": ".btn",
+          "prop": "hover background"
+        },
+        {
+          "page": "customProps",
+          "selector": ":root",
+          "prop": "--color-hover-lightgrey"
+        }
+      ]
+    },
+    {
+      "value": "#77b340",
+      "role": "accent-green",
+      "occurrences": 0,
+      "usedAs": [
+        "background"
+      ],
+      "sources": [
+        {
+          "page": "customProps",
+          "selector": ":root",
+          "prop": "--color-green"
+        }
+      ],
+      "note": "declared token, not measured on the captured pages"
+    }
+  ],
+  "type": {
+    "headingFamily": "DaxWebPro-Medi",
+    "bodyFamily": "DaxlineWebPro",
+    "italicFamily": "DaxlineWebPro-Italic",
+    "boldFamily": "DaxlineWebPro-Bold",
+    "stack": {
+      "heading": "\"DaxWebPro-Medi\", \"Dax Pro\", \"Daxline Pro\", Arial, sans-serif",
+      "body": "\"DaxlineWebPro\", \"Daxline Pro\", Arial, sans-serif"
+    },
+    "families": [
+      {
+        "family": "DaxWebPro-Medi",
+        "count": 3560,
+        "headings": 3064,
+        "text": 10,
+        "buttons": 486
+      },
+      {
+        "family": "DaxlineWebPro",
+        "count": 2308,
+        "headings": 190,
+        "text": 1732,
+        "buttons": 386
+      },
+      {
+        "family": "DaxlineWebPro-Italic",
+        "count": 60,
+        "headings": 0,
+        "text": 60,
+        "buttons": 0
+      }
+    ],
+    "sizes": [
+      {
+        "px": 54,
+        "count": 280,
+        "headings": 280,
+        "text": 0,
+        "buttons": 0,
+        "weight": 400,
+        "lineHeight": 1.2
+      },
+      {
+        "px": 48,
+        "count": 1,
+        "headings": 1,
+        "text": 0,
+        "buttons": 0,
+        "weight": 400,
+        "lineHeight": 1.2
+      },
+      {
+        "px": 32,
+        "count": 11,
+        "headings": 11,
+        "text": 0,
+        "buttons": 0,
+        "weight": 400,
+        "lineHeight": 1.2
+      },
+      {
+        "px": 30.6,
+        "count": 24,
+        "headings": 24,
+        "text": 0,
+        "buttons": 0,
+        "weight": 400,
+        "lineHeight": 1.2
+      },
+      {
+        "px": 29.34,
+        "count": 288,
+        "headings": 283,
+        "text": 5,
+        "buttons": 0,
+        "weight": 400,
+        "lineHeight": 1.2
+      },
+      {
+        "px": 27.2,
+        "count": 24,
+        "headings": 24,
+        "text": 0,
+        "buttons": 0,
+        "weight": 400,
+        "lineHeight": 1.2
+      },
+      {
+        "px": 27,
+        "count": 55,
+        "headings": 55,
+        "text": 0,
+        "buttons": 0,
+        "weight": 400,
+        "lineHeight": 1.2
+      },
+      {
+        "px": 24,
+        "count": 551,
+        "headings": 551,
+        "text": 0,
+        "buttons": 0,
+        "weight": 400,
+        "lineHeight": 1.2
+      },
+      {
+        "px": 23.94,
+        "count": 148,
+        "headings": 148,
+        "text": 0,
+        "buttons": 0,
+        "weight": 400,
+        "lineHeight": 1.75
+      },
+      {
+        "px": 20.25,
+        "count": 64,
+        "headings": 0,
+        "text": 64,
+        "buttons": 0,
+        "weight": 400,
+        "lineHeight": 1.75
+      },
+      {
+        "px": 20,
+        "count": 153,
+        "headings": 148,
+        "text": 5,
+        "buttons": 0,
+        "weight": 400,
+        "lineHeight": 1.75
+      },
+      {
+        "px": 18,
+        "count": 746,
+        "headings": 622,
+        "text": 80,
+        "buttons": 44,
+        "weight": 400,
+        "lineHeight": 1.75
+      },
+      {
+        "px": 17.1,
+        "count": 935,
+        "headings": 150,
+        "text": 785,
+        "buttons": 0,
+        "weight": 400,
+        "lineHeight": 1.75
+      },
+      {
+        "px": 16.2,
+        "count": 251,
+        "headings": 0,
+        "text": 0,
+        "buttons": 251,
+        "weight": 400,
+        "lineHeight": 1.75
+      },
+      {
+        "px": 16,
+        "count": 629,
+        "headings": 581,
+        "text": 0,
+        "buttons": 48,
+        "weight": 400,
+        "lineHeight": 1.75
+      },
+      {
+        "px": 15.75,
+        "count": 69,
+        "headings": 18,
+        "text": 51,
+        "buttons": 0,
+        "weight": 400,
+        "lineHeight": 1.75
+      },
+      {
+        "px": 15.2,
+        "count": 1205,
+        "headings": 150,
+        "text": 761,
+        "buttons": 294,
+        "weight": 400,
+        "lineHeight": 1.75
+      },
+      {
+        "px": 14.4,
+        "count": 235,
+        "headings": 0,
+        "text": 0,
+        "buttons": 235,
+        "weight": 400,
+        "lineHeight": 1.75
+      },
+      {
+        "px": 14,
+        "count": 259,
+        "headings": 208,
+        "text": 51,
+        "buttons": 0,
+        "weight": 400,
+        "lineHeight": 1.75
+      }
+    ],
+    "weights": [
+      {
+        "weight": "400",
+        "count": 5378,
+        "headings": 3254,
+        "text": 1786,
+        "buttons": 338
+      },
+      {
+        "weight": "700",
+        "count": 502,
+        "headings": 0,
+        "text": 16,
+        "buttons": 486
+      },
+      {
+        "weight": "500",
+        "count": 48,
+        "headings": 0,
+        "text": 0,
+        "buttons": 48
+      }
+    ],
+    "levels": {
+      "h1": {
+        "fontSize": 54,
+        "fontWeight": "400",
+        "count": 22,
+        "score": 253.28
+      },
+      "h2": {
+        "fontSize": 54,
+        "fontWeight": "400",
+        "count": 258,
+        "score": 867.37
+      },
+      "h3": {
+        "fontSize": 29.34,
+        "fontWeight": "400",
+        "count": 281,
+        "score": 491.83
+      },
+      "h4": {
+        "fontSize": 27,
+        "fontWeight": "400",
+        "count": 11,
+        "score": 89.55
+      },
+      "h5": {
+        "fontSize": 27,
+        "fontWeight": "400",
+        "count": 6,
+        "score": 66.14
+      },
+      "h6": {
+        "fontSize": 14,
+        "fontWeight": "400",
+        "count": 208,
+        "score": 201.91
+      }
+    },
+    "bodySize": {
+      "px": 17.1,
+      "lineHeight": 1.75,
+      "note": "p { line-height: 1.75 } in index_style_bundle_lmh.css; 15.2 px at 360"
+    },
+    "files": [
+      {
+        "file": "stardust/current/assets/fonts/LindeGlobalIconFont.woff2",
+        "family": "DaxlineWebPro",
+        "licensing": "commercial (FF Daxline Pro, FontFont/Monotype) — do not rehost"
+      },
+      {
+        "file": "stardust/current/assets/fonts/NotoSans-Variable.woff2",
+        "family": "NotoSans-Variable",
+        "licensing": "open (OFL)"
+      },
+      {
+        "file": "stardust/current/assets/fonts/daxlinewebpro_1.woff2",
+        "family": "DaxlineWebPro",
+        "licensing": "commercial (FF Daxline Pro, FontFont/Monotype) — do not rehost"
+      },
+      {
+        "file": "stardust/current/assets/fonts/daxlinewebpro_bold_1.woff2",
+        "family": "DaxlineWebPro-Bold",
+        "licensing": "commercial (FF Daxline Pro, FontFont/Monotype) — do not rehost"
+      },
+      {
+        "file": "stardust/current/assets/fonts/daxlinewebpro_bolditalic_1.woff2",
+        "family": "DaxlineWebPro-BoldItalic",
+        "licensing": "commercial (FF Daxline Pro, FontFont/Monotype) — do not rehost"
+      },
+      {
+        "file": "stardust/current/assets/fonts/daxlinewebpro_italic_1.woff2",
+        "family": "DaxlineWebPro-Italic",
+        "licensing": "commercial (FF Daxline Pro, FontFont/Monotype) — do not rehost"
+      }
+    ],
+    "declaredNotCaptured": [
+      "DaxWebPro-Medi",
+      "DaxWebPro-Light",
+      "Outfit-*"
+    ],
+    "scaleAudit": {
+      "kind": "ad-hoc",
+      "ratios": [
+        "1.76",
+        "1.04",
+        "1.08",
+        "1.01",
+        "1.13",
+        "1.00",
+        "1.18",
+        "1.11",
+        "1.05",
+        "1.06",
+        "1.02",
+        "1.03"
+      ],
+      "basis": "heading sizes 54 / 29.34 / 27 / 24 / 20 / 18 / 16 / 14 — no consistent ratio; many values are 0.9× of a round size"
+    }
+  },
+  "spacing": {
+    "baseUnit": 8,
+    "scale": [
+      8,
+      16,
+      24,
+      32,
+      48,
+      72,
+      96
+    ],
+    "sources": [
+      {
+        "page": "index_style_bundle_lmh.css",
+        "selector": ".footer",
+        "prop": "margin: 72px auto 0; padding: 2.5vw 0 1vw"
+      },
+      {
+        "page": "index_style_bundle_lmh.css",
+        "selector": ".navigation",
+        "prop": "height 56px (mobile) / 100px (≥1024)"
+      }
+    ]
+  },
+  "motifs": {
+    "borderRadius": {
+      "mode": "100%",
+      "occurrences": [
+        {
+          "value": "100%",
+          "count": 72
+        },
+        {
+          "value": "40px",
+          "count": 4
+        },
+        {
+          "value": "8.75px",
+          "count": 4
+        }
+      ],
+      "note": "100% = circular icon buttons; cards and buttons are square-cornered (0)"
+    },
+    "shadows": [
+      {
+        "value": "rgba(0, 0, 0, 0.2) 0px 1px 6px 0px",
+        "count": 176
+      },
+      {
+        "value": "rgba(0, 0, 0, 0.2) 0px 1px 3px 0px",
+        "count": 118
+      },
+      {
+        "value": "rgba(34, 34, 34, 0.2) 0px 2px 3px 0px",
+        "count": 80
+      }
+    ],
+    "gradients": [
+      {
+        "value": "linear-gradient(to right, rgb(153, 14, 31) 0%, rgb(153, 14, 31) 0%, rgb(238, 239, 243) 0%, rgb(238, 239, 243) 100%)",
+        "count": 8
+      },
+      {
+        "value": "linear-gradient(0deg, rgb(238, 239, 243), rgba(0, 0, 0, 0))",
+        "count": 5
+      },
+      {
+        "value": "linear-gradient(0deg, rgb(255, 255, 255), rgba(255, 255, 255, 0))",
+        "count": 5
+      },
+      {
+        "value": "linear-gradient(rgb(238, 239, 243) 65%, rgb(255, 255, 255) 0px)",
+        "count": 2
+      }
+    ],
+    "patterns": [
+      "hero-with-image",
+      "card",
+      "icon-tile",
+      "accordion",
+      "sticky-subnav",
+      "teaser-carousel",
+      "share-button"
+    ]
+  },
+  "componentStyle": {
+    "buttonPrimary": {
+      "background": "#aa0020",
+      "color": "#ffffff",
+      "hoverBackground": "#94001d",
+      "radius": "0",
+      "weight": 700,
+      "sizePx": 16.2,
+      "sources": [
+        "census aggregate.hover[5]",
+        "customProps --color-red / --color-primary-700"
+      ]
+    },
+    "buttonSecondary": {
+      "background": "#eeeff3",
+      "color": "#222222",
+      "hoverBackground": "#94001d",
+      "hoverColor": "#ffffff",
+      "sources": [
+        "census aggregate.hover[4]"
+      ]
+    },
+    "buttonGhost": {
+      "background": "transparent",
+      "hoverBackground": "#f5f6fa",
+      "hoverColor": "#aa0020",
+      "sources": [
+        ".btn:hover in index_style_bundle_lmh.css",
+        "census aggregate.hover[1]"
+      ]
+    },
+    "link": {
+      "color": "#aa0020",
+      "hoverColor": "#94001d",
+      "bodyLinkColor": "#222222",
+      "bodyLinkHover": "#aa0020",
+      "sources": [
+        "census aggregate.hover[0]",
+        "census aggregate.hover[3]"
+      ]
+    }
+  },
+  "hover": [
+    {
+      "kind": "link",
+      "from": {
+        "color": "rgb(170, 0, 32)"
+      },
+      "to": {
+        "color": "rgb(148, 0, 29)"
+      },
+      "count": 242,
+      "sources": [
+        {
+          "url": "https://www.linde-mh.com/en/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/",
+          "selector": "div:nth-of-type(1) > div > div > div:nth-of-type(1) > div > div > div > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/",
+          "selector": "div:nth-of-type(1) > div > div > div:nth-of-type(1) > div > div > div > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/Awards/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2) > a"
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "from": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(170, 0, 32)",
+        "borderColor": "rgb(170, 0, 32) rgb(170, 0, 32) rgb(238, 239, 243)"
+      },
+      "to": {
+        "backgroundColor": "rgb(245, 246, 250)",
+        "color": "rgb(148, 0, 29)",
+        "borderColor": "rgb(148, 0, 29) rgb(148, 0, 29) rgb(238, 239, 243)"
+      },
+      "count": 98,
+      "sources": [
+        {
+          "url": "https://www.linde-mh.com/en/",
+          "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(1) > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/",
+          "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(1) > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/Awards/",
+          "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(1) > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/Certificates/",
+          "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(1) > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/Company/",
+          "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(1) > a"
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "from": {
+        "backgroundColor": "rgba(0, 0, 0, 0)"
+      },
+      "to": {
+        "backgroundColor": "rgb(245, 246, 250)"
+      },
+      "count": 98,
+      "sources": [
+        {
+          "url": "https://www.linde-mh.com/en/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > ul > li:nth-of-type(2) > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > ul > li:nth-of-type(2) > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/Awards/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > ul > li:nth-of-type(2) > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/Certificates/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > ul > li:nth-of-type(2) > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/Company/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > ul > li:nth-of-type(2) > a"
+        }
+      ]
+    },
+    {
+      "kind": "link",
+      "from": {
+        "color": "rgb(34, 34, 34)"
+      },
+      "to": {
+        "color": "rgb(170, 0, 32)"
+      },
+      "count": 97,
+      "sources": [
+        {
+          "url": "https://www.linde-mh.com/en/About-us/Awards/",
+          "selector": "#pjax-container > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/Awards/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(4) > div > div:nth-of-type(1) > ul > li:nth-of-type(1) > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/Certificates/",
+          "selector": "#pjax-container > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/Certificates/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(4) > div > div:nth-of-type(1) > ul > li:nth-of-type(1) > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/Company/",
+          "selector": "#pjax-container > div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a"
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "from": {
+        "backgroundColor": "rgb(238, 239, 243)",
+        "color": "rgb(170, 0, 32)"
+      },
+      "to": {
+        "backgroundColor": "rgb(148, 0, 29)",
+        "color": "rgb(255, 255, 255)"
+      },
+      "count": 57,
+      "sources": [
+        {
+          "url": "https://www.linde-mh.com/en/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1) > div > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/",
+          "selector": "body > div:nth-of-type(1) > div:nth-of-type(8) > div:nth-of-type(1) > div > div:nth-of-type(2) > div > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/",
+          "selector": "#pjax-container > div:nth-of-type(5) > div:nth-of-type(1) > div > div:nth-of-type(2) > div > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/",
+          "selector": "#pjax-container > div:nth-of-type(5) > div:nth-of-type(1) > div > div:nth-of-type(2) > div > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/About-us/Company/",
+          "selector": "#pjax-container > div:nth-of-type(20) > div:nth-of-type(1) > div > a"
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "from": {
+        "backgroundColor": "rgb(170, 0, 32)"
+      },
+      "to": {
+        "backgroundColor": "rgb(148, 0, 29)"
+      },
+      "count": 22,
+      "sources": [
+        {
+          "url": "https://www.linde-mh.com/en/Forms-GC/Li-ION-Recycling/",
+          "selector": "div > form > fieldset:nth-of-type(2) > div > div > div > div > button"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Forms-GC/Li-ION-Recycling/",
+          "selector": "div > form > fieldset:nth-of-type(2) > div > div > div > div > button"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Forms-GC/Next-Champ-Form/",
+          "selector": "div > form > fieldset:nth-of-type(3) > div > div > div > div > button"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Forms-GC/Next-Champ-Form/",
+          "selector": "div > form > fieldset:nth-of-type(3) > div > div > div > div > button"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/Forms/Automation-Campaign/",
+          "selector": "div > form > fieldset:nth-of-type(2) > div > div > div > div > button"
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "from": {
+        "color": "rgb(34, 34, 34)",
+        "borderColor": "rgb(34, 34, 34)"
+      },
+      "to": {
+        "color": "rgb(148, 0, 29)",
+        "borderColor": "rgb(148, 0, 29)"
+      },
+      "count": 4,
+      "sources": [
+        {
+          "url": "https://www.linde-mh.com/en/",
+          "selector": "#pjax-container > div > div:nth-of-type(2) > div:nth-of-type(1) > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/",
+          "selector": "#pjax-container > div > div:nth-of-type(2) > div:nth-of-type(2) > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/",
+          "selector": "#pjax-container > div > div:nth-of-type(2) > div:nth-of-type(1) > a"
+        },
+        {
+          "url": "https://www.linde-mh.com/en/",
+          "selector": "#pjax-container > div > div:nth-of-type(2) > div:nth-of-type(2) > a"
+        }
+      ]
+    }
+  ],
+  "systemComponents": [
+    {
+      "kind": "header",
+      "name": "site-header",
+      "occurrences": 99,
+      "headingSequence": [],
+      "ctaLabels": [
+        "Search",
+        "Xtranet",
+        "Products",
+        "Services",
+        "Solutions",
+        "About us",
+        "Location Overview"
+      ],
+      "selector": ".header .navigation"
+    },
+    {
+      "kind": "footer",
+      "name": "site-footer",
+      "occurrences": 99,
+      "headingSequence": [
+        "Follow us on"
+      ],
+      "ctaLabels": [
+        "Contact",
+        "Home",
+        "Legal",
+        "Terms of use",
+        "Suppliers",
+        "EDI",
+        "Privacy Statements",
+        "Cookie Settings",
+        "Vulnerability Disclosure Policy"
+      ],
+      "selector": ".footer"
+    },
+    {
+      "kind": "strip",
+      "name": "a11y-note",
+      "occurrences": 99,
+      "headingSequence": [],
+      "ctaLabels": [],
+      "selector": ".footer-a11y-note",
+      "text": "This website is intended exclusively for business customers."
+    },
+    {
+      "kind": "cross-promo",
+      "name": "related-teasers",
+      "occurrences": 34,
+      "headingSequence": [
+        "This may also interest you"
+      ],
+      "ctaLabels": [
+        "Learn more",
+        "Find out more"
+      ]
+    },
+    {
+      "kind": "widget",
+      "name": "share-button",
+      "occurrences": 86,
+      "headingSequence": [],
+      "ctaLabels": [
+        "Share"
+      ],
+      "selector": ".share-btn"
+    },
+    {
+      "kind": "strip",
+      "name": "press-contact",
+      "occurrences": 18,
+      "headingSequence": [
+        "Trade Press",
+        "Heike Oder"
+      ],
+      "ctaLabels": [
+        "+49 6021 991277",
+        "Send email"
+      ]
+    }
+  ],
+  "iconFont": {
+    "family": "LindeGlobalIconFont",
+    "file": "stardust/current/assets/fonts/LindeGlobalIconFont.woff2",
+    "glyphs": [
+      {
+        "class": "clear-input",
+        "codepoint": "U+F12D",
+        "count": 196
+      },
+      {
+        "class": "icon icon-LMHIconclosecancelblack",
+        "codepoint": "U+F12D",
+        "count": 196
+      },
+      {
+        "class": "icon icon-LMHIcondownblack",
+        "codepoint": "U+F12F",
+        "count": 196
+      },
+      {
+        "class": "icon icon-LMHIconleftblack",
+        "codepoint": "U+F13D",
+        "count": 196
+      },
+      {
+        "class": "icon icon-LMHIconlogoutblack",
+        "codepoint": "U+F13E",
+        "count": 196
+      },
+      {
+        "class": "icon icon-LMHIconmenublack",
+        "codepoint": "U+F142",
+        "count": 196
+      },
+      {
+        "class": "icon icon-LMHIconpinblack",
+        "codepoint": "U+F14B",
+        "count": 196
+      },
+      {
+        "class": "icon icon-LMHIconrightblack",
+        "codepoint": "U+F153",
+        "count": 196
+      },
+      {
+        "class": "icon icon-LMHIconsearchblack",
+        "codepoint": "U+F154",
+        "count": 196
+      },
+      {
+        "class": "nav_v2_menu_right icon icon-LMHIconrightblack",
+        "codepoint": "U+F153",
+        "count": 196
+      },
+      {
+        "class": "icon icon-LMHIconmailblack",
+        "codepoint": "U+F13F",
+        "count": 171
+      },
+      {
+        "class": "icon icon-linkedin",
+        "codepoint": "U+F107",
+        "count": 163
+      },
+      {
+        "class": "icon icon-facebook",
+        "codepoint": "U+F103",
+        "count": 156
+      },
+      {
+        "class": "icon icon-do-not-use",
+        "codepoint": "U+F107",
+        "count": 145
+      },
+      {
+        "class": "icon icon-LMHIconprintblack",
+        "codepoint": "U+F14F",
+        "count": 143
+      },
+      {
+        "class": "icon icon-do-not-use",
+        "codepoint": "U+F103",
+        "count": 134
+      },
+      {
+        "class": "icon icon-do-not-use",
+        "codepoint": "U+F106",
+        "count": 119
+      },
+      {
+        "class": "menu_nav_mainitem nav_v2_mainitem",
+        "codepoint": "U+F153",
+        "count": 98
+      },
+      {
+        "class": "menu_nav_subitem 1",
+        "codepoint": "U+F153",
+        "count": 98
+      },
+      {
+        "class": "icon icon-do-not-use",
+        "codepoint": "U+F196",
+        "count": 80
+      },
+      {
+        "class": "icon icon-LMHIconupblack",
+        "codepoint": "U+F15C",
+        "count": 57
+      },
+      {
+        "class": "image-wrapper__media-icon",
+        "codepoint": "U+F160",
+        "count": 49
+      },
+      {
+        "class": "icon icon-LMHIconplayblack",
+        "codepoint": "U+F14C",
+        "count": 48
+      },
+      {
+        "class": "icon icon-LMHIconzoominblack",
+        "codepoint": "U+F165",
+        "count": 48
+      },
+      {
+        "class": "media-player__media-icon",
+        "codepoint": "U+F14C",
+        "count": 44
+      },
+      {
+        "class": "icon icon-LMHIconphoneblack",
+        "codepoint": "U+F14A",
+        "count": 36
+      },
+      {
+        "class": "icon icon--64 icon-LMHIconssafety",
+        "codepoint": "U+F181",
+        "count": 29
+      },
+      {
+        "class": "icon icon-LMHIcondownloadblack",
+        "codepoint": "U+F130",
+        "count": 25
+      },
+      {
+        "class": "icon icon--64 icon-LMHIconsgrowthblack",
+        "codepoint": "U+F174",
+        "count": 21
+      },
+      {
+        "class": "icon icon--64 icon-LMHIconfleetblack",
+        "codepoint": "U+F136",
+        "count": 16
+      },
+      {
+        "class": "icon icon-LMHIconforkliftblack",
+        "codepoint": "U+F137",
+        "count": 16
+      },
+      {
+        "class": "icon icon--64 icon-LMHIconscomfortblack",
+        "codepoint": "U+F16E",
+        "count": 14
+      },
+      {
+        "class": "icon icon-LMHIconinfoblack",
+        "codepoint": "U+F13B",
+        "count": 13
+      },
+      {
+        "class": "icon icon--64 icon-LMHIconsdigitizationblack",
+        "codepoint": "U+F170",
+        "count": 12
+      },
+      {
+        "class": "selected",
+        "codepoint": "U+F12C",
+        "count": 12
+      },
+      {
+        "class": "icon icon--64 icon-LMHIconsautomationblack",
+        "codepoint": "U+F169",
+        "count": 11
+      },
+      {
+        "class": "icon icon--64 icon-LMHIconarrowupblack",
+        "codepoint": "U+F128",
+        "count": 10
+      },
+      {
+        "class": "icon icon--64 icon-LMHIconsindividualizationblack",
+        "codepoint": "U+F175",
+        "count": 9
+      },
+      {
+        "class": "icon icon--64 icon-LMHIconmaintenanceblack",
+        "codepoint": "U+F140",
+        "count": 8
+      },
+      {
+        "class": "icon icon--64 icon-LMHIcontaskslistblack",
+        "codepoint": "U+F15B",
+        "count": 8
+      }
+    ]
+  },
+  "voice": {
+    "heroHeadline": "Agility on Point",
+    "heroKicker": "The New Linde Reach Trucks Ri14 – Ri18",
+    "heroCta": "Find out more",
+    "heroImage": "https://www.linde-mh.com/media/Global-Content/04-About-Linde/People/office-working-3540_16x9w1920.jpg",
+    "heroMedium": {
+      "kind": "image-carousel",
+      "note": "hero is a rotating teaser carousel of still key visuals (no video)"
+    },
+    "firstParagraph": "Efficient forklift trucks are the backbone of efficient intra-company logistics. Together with intelligent software and comprehensive service packages, operators achieve lasting competitive advantages.",
+    "companyParagraph": "At Linde Material Handling, we develop high-performance material flow solutions tailored to individual customer needs, enabling users to achieve sustainable competitive advantages. In over 120 years of company history, Linde Material Handling has become one of the world's largest manufacturers of forklifts and warehouse equipment. With innovations such as the hydrostatic drive and highly effective assistance systems, we are the technology leader in the industry.",
+    "ctaSamples": [
+      "Learn more",
+      "Find out more",
+      "Find a Truck"
+    ],
+    "toneGuess": "technical-confident",
+    "linkList": [
+      "Products",
+      "Services",
+      "Solutions",
+      "About us"
+    ]
+  },
+  "voiceTable": {
+    "ctaFrequency": [
+      {
+        "label": "Search",
+        "count": 99,
+        "pages": 99
+      },
+      {
+        "label": "Xtranet",
+        "count": 99,
+        "pages": 99
+      },
+      {
+        "label": "Contact",
+        "count": 99,
+        "pages": 96
+      },
+      {
+        "label": "Home",
+        "count": 96,
+        "pages": 96
+      },
+      {
+        "label": "Legal",
+        "count": 97,
+        "pages": 96
+      },
+      {
+        "label": "Terms of use",
+        "count": 96,
+        "pages": 96
+      },
+      {
+        "label": "Suppliers",
+        "count": 96,
+        "pages": 96
+      },
+      {
+        "label": "EDI",
+        "count": 96,
+        "pages": 96
+      },
+      {
+        "label": "Privacy Statements",
+        "count": 96,
+        "pages": 96
+      },
+      {
+        "label": "Cookie Settings",
+        "count": 96,
+        "pages": 96
+      },
+      {
+        "label": "Vulnerability Disclosure Policy",
+        "count": 96,
+        "pages": 96
+      },
+      {
+        "label": "Share",
+        "count": 92,
+        "pages": 86
+      },
+      {
+        "label": "Learn more",
+        "count": 237,
+        "pages": 44
+      },
+      {
+        "label": "Find out more",
+        "count": 142,
+        "pages": 24
+      },
+      {
+        "label": "+49 6021 991277",
+        "count": 18,
+        "pages": 18
+      },
+      {
+        "label": "Send email",
+        "count": 18,
+        "pages": 18
+      },
+      {
+        "label": "Products",
+        "count": 16,
+        "pages": 16
+      },
+      {
+        "label": "Advantages",
+        "count": 14,
+        "pages": 14
+      },
+      {
+        "label": "Safety",
+        "count": 11,
+        "pages": 11
+      },
+      {
+        "label": "New Industrial Trucks",
+        "count": 11,
+        "pages": 11
+      }
+    ],
+    "headingFrequency": [
+      {
+        "text": "Follow us on",
+        "level": "h6",
+        "pages": 99
+      },
+      {
+        "text": "This may also interest you",
+        "level": "h3",
+        "pages": 34
+      },
+      {
+        "text": "Trade Press",
+        "level": "h6",
+        "pages": 18
+      },
+      {
+        "text": "Heike Oder",
+        "level": "h3",
+        "pages": 18
+      },
+      {
+        "text": "Safety",
+        "level": "h3",
+        "pages": 12
+      },
+      {
+        "text": "Safe",
+        "level": "h3",
+        "pages": 7
+      },
+      {
+        "text": "Your Benefits at a Glance",
+        "level": "h2",
+        "pages": 6
+      },
+      {
+        "text": "Performance",
+        "level": "h3",
+        "pages": 6
+      },
+      {
+        "text": "Features",
+        "level": "h2",
+        "pages": 5
+      },
+      {
+        "text": "Cost-Effective",
+        "level": "h3",
+        "pages": 5
+      },
+      {
+        "text": "Ergonomics",
+        "level": "h3",
+        "pages": 4
+      },
+      {
+        "text": "Linde Safety Guard",
+        "level": "h3",
+        "pages": 4
+      },
+      {
+        "text": "An Combustion Engine Stronghold Converts to Electric",
+        "level": "h3",
+        "pages": 4
+      },
+      {
+        "text": "Unbeatable Handling and Zero Emissions Guaranteed",
+        "level": "h3",
+        "pages": 4
+      },
+      {
+        "text": "High-precision machine at Norrlands trä",
+        "level": "h3",
+        "pages": 4
+      },
+      {
+        "text": "Comfortable",
+        "level": "h3",
+        "pages": 4
+      },
+      {
+        "text": "Intralogistics and Automation",
+        "level": "h3",
+        "pages": 4
+      },
+      {
+        "text": "H20 – H35",
+        "level": "h3",
+        "pages": 4
+      },
+      {
+        "text": "H35 – H50",
+        "level": "h3",
+        "pages": 4
+      },
+      {
+        "text": "H50 – H80",
+        "level": "h3",
+        "pages": 4
+      },
+      {
+        "text": "HT100 – HT180 D",
+        "level": "h3",
+        "pages": 4
+      },
+      {
+        "text": "Effective",
+        "level": "h3",
+        "pages": 4
+      },
+      {
+        "text": "DB Schenker tests the new Linde E16",
+        "level": "h3",
+        "pages": 3
+      },
+      {
+        "text": "Heineken Switzerland AG",
+        "level": "h3",
+        "pages": 3
+      },
+      {
+        "text": "Individualised solutions for the paper industry",
+        "level": "h3",
+        "pages": 3
+      },
+      {
+        "text": "Benefits at a Glance",
+        "level": "h2",
+        "pages": 3
+      },
+      {
+        "text": "Testimonials",
+        "level": "h2",
+        "pages": 3
+      },
+      {
+        "text": "Xi10 – Xi20",
+        "level": "h3",
+        "pages": 3
+      },
+      {
+        "text": "Xi14 – Xi20 R",
+        "level": "h3",
+        "pages": 3
+      },
+      {
+        "text": "E14 – E20",
+        "level": "h3",
+        "pages": 3
+      },
+      {
+        "text": "Ei14 – Ei20",
+        "level": "h3",
+        "pages": 3
+      },
+      {
+        "text": "X20 – X35",
+        "level": "h3",
+        "pages": 3
+      },
+      {
+        "text": "E20 – E35",
+        "level": "h3",
+        "pages": 3
+      },
+      {
+        "text": "X35 – X50",
+        "level": "h3",
+        "pages": 3
+      },
+      {
+        "text": "H16 – H20",
+        "level": "h3",
+        "pages": 3
+      },
+      {
+        "text": "Robust",
+        "level": "h3",
+        "pages": 3
+      },
+      {
+        "text": "5 x more output",
+        "level": "h2",
+        "pages": 3
+      }
+    ],
+    "headingsUppercasePercent": 0,
+    "distinctHeadings": 37,
+    "distinctCtaLabels": 99
+  },
+  "crossPromo": {
+    "detected": true,
+    "anchorHeading": "This may also interest you",
+    "pages": 34,
+    "clusterHeadings": [
+      "Learn more",
+      "Find out more"
+    ]
+  },
+  "register": "brand",
+  "tensions": [
+    {
+      "id": "T-scale",
+      "text": "Type scale is ad-hoc (54 → 30.6 → 29.34 → 27.2 → 27 → 24 → 23.94 → 20.25 → 20 → 18 → 17.1 → 16.2 → 16 → 15.75 → 15.2 → 14.4 → 14, no consistent ratio). Direct will need to decide whether the target adopts a modular scale."
+    },
+    {
+      "id": "T-cta-vocab",
+      "text": "CTA voice is fragmented: \"Learn more\" ×237, \"Find out more\" ×142, \"Read more\" ×56. Direct will need to pick a canonical voice for see-more / read-more / learn-more affordances."
+    },
+    {
+      "id": "T-logo-variants",
+      "text": "Only one logo variant captured (.navigation_logo img, Linde_MH_Logo_RGB.svg). The redesign will need a monochrome / inverted / SVG variant set; direct should plan that."
+    },
+    {
+      "id": "T-color-imbalance",
+      "text": "Color #cccdd1 (border) appears as border only — never as text. Direct will need to decide: drop, expand, or keep as accent."
+    },
+    {
+      "id": "T-color-imbalance",
+      "text": "Color #ba1926 (accent-carousel) appears as background only — never as text. Direct will need to decide: drop, expand, or keep as accent."
+    },
+    {
+      "id": "T-color-imbalance",
+      "text": "Color #f5f6fa (surface-hover) appears as background only — never as text. Direct will need to decide: drop, expand, or keep as accent."
+    }
+  ]
+}

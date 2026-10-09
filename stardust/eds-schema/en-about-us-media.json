@@ -1,0 +1,2627 @@
+{
+ "source": "http://localhost:8805/stardust/migrated/en/About-us/Media/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Download Overview"
+    },
+    {
+     "role": "heading",
+     "order": 1,
+     "text": "Filter Downloads"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Media Types"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Brochures"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "CE-Declarations"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Data sheets"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Manuals"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Product Brochures"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Terms of Use"
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Approved Used Trucks from Linde - Cheap and Reliable - Brochure"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "approved_trucks… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Approved-Trucks-Brochure_international.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 12,
+     "text": "Linde Safety Guard - Brochure"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "linde_safety_gu… .pdf (830 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 14,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Safety/Linde_Safety_Guard_Brochure_EN.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 15,
+     "text": "Linde Safety Pilot - Brochure"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "linde_safety_pi… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 17,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Safety/Linde_Safety_Pilot_Brochure_EN.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 18,
+     "text": "Linde Very Narrow Aisles - Brochure"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "linde_vna_broch… .pdf (8 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 20,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/01-Products/05_Very-Narrow-Aisle_Schmalganggeraete-VNA/Linde_VNA_Brochure_EN.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 21,
+     "text": "Lindes Rental Solutions - Brochure"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "lmh_rental_solu… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 23,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/LMH_Rental-Solutions-Brochure_international.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 24,
+     "text": "Safety Guard Distance Beeper 0009734947 – Declaration"
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "distance_beeper… .pdf (47 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 26,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Declarations-of-Conformity/Distance-Beeper-Declaration_of_Conformity_0009734947_Linde.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 27,
+     "text": "Safety Guard Portable Unit 0009734938 – Declaration"
+    },
+    {
+     "role": "body",
+     "order": 28,
+     "text": "portable_unit_d… .pdf (47 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 29,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Declarations-of-Conformity/Portable-Unit-Declaration_of_Conformity_0009734938-_Linde.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 30,
+     "text": "Safety Guard Sensor – Declaration"
+    },
+    {
+     "role": "body",
+     "order": 31,
+     "text": "declaration_of_… .pdf (47 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 32,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Sensor-Truck-Unit_7917416036_Linde.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 33,
+     "text": "Safety Guard Static Unit – Declaration"
+    },
+    {
+     "role": "body",
+     "order": 34,
+     "text": "declaration_of_… .pdf (48 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 35,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity-Static-Unit_0009734929_Linde.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 36,
+     "text": "Safety Guard Truck Unit Small 2 – Declaration"
+    },
+    {
+     "role": "body",
+     "order": 37,
+     "text": "declaration_of_… .pdf (47 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 38,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Truck-Unit-Small-2-zi_0009469007_08_20_Linde.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 39,
+     "text": "Safety Guard Truck Unit Small – Declaration"
+    },
+    {
+     "role": "body",
+     "order": 40,
+     "text": "declaration_of_… .pdf (47 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 41,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Truck-Unit-Small_0009469000_Linde.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 42,
+     "text": "Safety Guard Truck Unit – Declaration"
+    },
+    {
+     "role": "body",
+     "order": 43,
+     "text": "declaration_of_… .pdf (47 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 44,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Truck-Unit_0009460934_Linde.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 45,
+     "text": "Safety Guard Vest Unit 0009734948 – Declaration"
+    },
+    {
+     "role": "body",
+     "order": 46,
+     "text": "distance_vest_d… .pdf (47 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 47,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Declarations-of-Conformity/Distance-Vest-Declaration_of_Conformity_0009734948_Linde.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 48,
+     "text": "Safety Guard Vest Unit – Declaration"
+    },
+    {
+     "role": "body",
+     "order": 49,
+     "text": "vest_unit_decla… .pdf (47 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 50,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Declarations-of-Conformity/Vest-Unit_Declaration_of_Conformity_0009734939_Linde.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 51,
+     "text": "Safety Guard Zone Marker – Declaration"
+    },
+    {
+     "role": "body",
+     "order": 52,
+     "text": "declaration_of_… .pdf (48 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 53,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Declarations-of-Conformity/Declaration_of_Conformity_Zone-Marker_0009469001_Linde.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 54,
+     "text": "Data sheets - A"
+    },
+    {
+     "role": "body",
+     "order": 55,
+     "text": "EN_ds_a_5224_en… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 56,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_a_5224_en_b_0821.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 57,
+     "text": "Data sheets - C-MATIC"
+    },
+    {
+     "role": "body",
+     "order": 58,
+     "text": "EN_ds_c_matic_8… .pdf (5 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 59,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_c_matic_8925_en_e_1025_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 60,
+     "text": "Data sheets - C-MATIC HP"
+    },
+    {
+     "role": "body",
+     "order": 61,
+     "text": "EN_ds_c_matic_h… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 62,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_c_matic_hp_10_8928_en_b_0523_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 63,
+     "text": "Data sheets - D06 – D10"
+    },
+    {
+     "role": "body",
+     "order": 64,
+     "text": "EN_ds_d06_d10_d… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 65,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_d06_d10_d08m_1162_en_c_0725__view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 66,
+     "text": "Data sheets - D08 M"
+    },
+    {
+     "role": "body",
+     "order": 67,
+     "text": "EN_ds_d06_d10_d… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 68,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_d06_d10_d08m_1162_en_c_0725__view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 69,
+     "text": "Data sheets - D12 HP AP"
+    },
+    {
+     "role": "body",
+     "order": 70,
+     "text": "EN_ds_d12_d14_s… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 71,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_d12_d14_sp_ap_hp_1161_en_b_0524_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 72,
+     "text": "Data sheets - D12 HP SP"
+    },
+    {
+     "role": "body",
+     "order": 73,
+     "text": "EN_ds_d12_d14_s… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 74,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_d12_d14_sp_ap_hp_1161_en_b_0524_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 75,
+     "text": "Data sheets - D12 S – D12 SF"
+    },
+    {
+     "role": "body",
+     "order": 76,
+     "text": "EN_ds_d12s_d12s… .pdf (968 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 77,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_d12s_d12sf_br1164_en_c_0517.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 78,
+     "text": "Data sheets - D12 – D14"
+    },
+    {
+     "role": "body",
+     "order": 79,
+     "text": "EN_ds_d12_d14_1… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 80,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_d12_d14_1173_en_a_0221_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 81,
+     "text": "Data sheets - D12 – D14 AP"
+    },
+    {
+     "role": "body",
+     "order": 82,
+     "text": "EN_ds_d12_d14_a… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 83,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_d12_d14_ap_1173_en_a_0221_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 84,
+     "text": "Data sheets - D12 – D14 SP"
+    },
+    {
+     "role": "body",
+     "order": 85,
+     "text": "EN_ds_d12_d14_s… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 86,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_d12_d14_sp_ap_hp_1161_en_b_0524_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 87,
+     "text": "Data sheets - E10"
+    },
+    {
+     "role": "body",
+     "order": 88,
+     "text": "EN_ds_e10_8917_… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 89,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_e10_8917_e_a_1219.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 90,
+     "text": "Data sheets - E100 – E180"
+    },
+    {
+     "role": "body",
+     "order": 91,
+     "text": "EN_ds_e100_e180… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 92,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_e100_e180_1471_en_d_0726.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 93,
+     "text": "Data sheets - E14 – E20"
+    },
+    {
+     "role": "body",
+     "order": 94,
+     "text": "EN_ds_e14_e20_1… .pdf (5 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 95,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_e14_e20_1251_en_b_0825_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 96,
+     "text": "Data sheets - E16 – E20 P"
+    },
+    {
+     "role": "body",
+     "order": 97,
+     "text": "EN_ds_e16_e20_p… .pdf (5 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 98,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_e16_e20_p_1251_en_b_0825_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 99,
+     "text": "Data sheets - E20 – E35"
+    },
+    {
+     "role": "body",
+     "order": 100,
+     "text": "EN_ds_e20_e35_1… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 101,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_e20_e35_1252_en_a_0621_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 102,
+     "text": "Data sheets - E35 – E50"
+    },
+    {
+     "role": "body",
+     "order": 103,
+     "text": "EN_ds_e35_e50_1… .pdf (1 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 104,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_e35_e50_1254_en_a_0723_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 105,
+     "text": "Data sheets - E60 – E80"
+    },
+    {
+     "role": "body",
+     "order": 106,
+     "text": "EN_ds_e60_e80_1… .pdf (570 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 107,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_e60_e80_1279_en_b_0224_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 108,
+     "text": "Data sheets - EG16 – EG20"
+    },
+    {
+     "role": "body",
+     "order": 109,
+     "text": "EN_ds_eg16_eg20… .pdf (6 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 110,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_eg16_eg20_1275_02_en_b_0623_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 111,
+     "text": "Data sheets - EG25 – EG35"
+    },
+    {
+     "role": "body",
+     "order": 112,
+     "text": "EN_ds_eg25__eg3… .pdf (5 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 113,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_eg25__eg35_1276_02_en_b_1223_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 114,
+     "text": "Data sheets - Ei14 – Ei20"
+    },
+    {
+     "role": "body",
+     "order": 115,
+     "text": "EN_ds_ei14_ei20… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 116,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_ei14_ei20_ei16_ei20_p_1251_en_a_0226_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 117,
+     "text": "Data sheets - Ei16 – Ei20 P"
+    },
+    {
+     "role": "body",
+     "order": 118,
+     "text": "EN_ds_ei14_ei20… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 119,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_ei14_ei20_ei16_ei20_p_1251_en_a_0226_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 120,
+     "text": "Data sheets - H100 – H180 D"
+    },
+    {
+     "role": "body",
+     "order": 121,
+     "text": "EN_ds_h100_h180… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 122,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_h100_h180_1401_en_d_1020_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 123,
+     "text": "Data sheets - H16 – H20"
+    },
+    {
+     "role": "body",
+     "order": 124,
+     "text": "EN_ds_h16_h20_3… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 125,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_h16_h20_391_en_j_1024_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 126,
+     "text": "Data sheets - H20 – H35"
+    },
+    {
+     "role": "body",
+     "order": 127,
+     "text": "EN_ds_h20_h35_1… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 128,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_h20_h35_1202_en_c_1020_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 129,
+     "text": "Data sheets - H35 – H50"
+    },
+    {
+     "role": "body",
+     "order": 130,
+     "text": "EN_ds_h35_h50_1… .pdf (1 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 131,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_h35_h50_1204_en_b_0724_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 132,
+     "text": "Data sheets - H50 – H80"
+    },
+    {
+     "role": "body",
+     "order": 133,
+     "text": "EN_ds_h50_h80_3… .pdf (1 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 134,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_h50_h80_396_04_en_p_0924_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 135,
+     "text": "Data sheets - HT100 – HT180 D"
+    },
+    {
+     "role": "body",
+     "order": 136,
+     "text": "EN_ds_ht100_d_h… .pdf (453 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 137,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_ht100_d_ht180_d_1411_en_i_0523_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 138,
+     "text": "Data sheets - K"
+    },
+    {
+     "role": "body",
+     "order": 139,
+     "text": "EN_ds_k_5231_en… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 140,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_k_5231_en_c_0821_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 141,
+     "text": "Data sheets - K-MATIC"
+    },
+    {
+     "role": "body",
+     "order": 142,
+     "text": "EN_ds_k_matic_5… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 143,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_k_matic_5231_en_a_0224_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 144,
+     "text": "Data sheets - L-MATIC"
+    },
+    {
+     "role": "body",
+     "order": 145,
+     "text": "EN_ds_l_matic_b… .pdf (827 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 146,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_l_matic_br133_en_a_0216.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 147,
+     "text": "Data sheets - L-MATIC AC"
+    },
+    {
+     "role": "body",
+     "order": 148,
+     "text": "EN_ds_l_matic_a… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 149,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_l_matic_ac_1170_en_c_1024_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 150,
+     "text": "Data sheets - L-MATIC AC k"
+    },
+    {
+     "role": "body",
+     "order": 151,
+     "text": "EN_ds_l_matic_a… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 152,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_l_matic_ac_k_1171_en_b_1225_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 153,
+     "text": "Data sheets - L-MATIC HD"
+    },
+    {
+     "role": "body",
+     "order": 154,
+     "text": "EN_tb_l_matic_h… .pdf (1 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 155,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_tb_l_matic_hd_hdk_1173_01_en_b_0224_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 156,
+     "text": "Data sheets - L-MATIC HD k"
+    },
+    {
+     "role": "body",
+     "order": 157,
+     "text": "EN_tb_l_matic_h… .pdf (1 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 158,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_tb_l_matic_hd_hdk_1173_01_en_b_0224_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 159,
+     "text": "Data sheets - L-MATIC core"
+    },
+    {
+     "role": "body",
+     "order": 160,
+     "text": "EN_ds_l_matic_c… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 161,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_l_matic_core_1195_01_en_b_0425_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 162,
+     "text": "Data sheets - L06 – L16 AC"
+    },
+    {
+     "role": "body",
+     "order": 163,
+     "text": "EN_ds_l06_l16_a… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 164,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_l06_l16_ac_1171_01_en_a_0819.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 165,
+     "text": "Data sheets - L10 – L12 B AS"
+    },
+    {
+     "role": "body",
+     "order": 166,
+     "text": "EN_ds_l10_l12b_… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 167,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_l10_l12b_as_4596_en_a_0724_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 168,
+     "text": "Data sheets - L10 – L16 B"
+    },
+    {
+     "role": "body",
+     "order": 169,
+     "text": "EN_ds_l10_l16b_… .pdf (1 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 170,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_l10_l16b_4596_en_b_0624_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 171,
+     "text": "Data sheets - L14 – L16 AS/AS AP"
+    },
+    {
+     "role": "body",
+     "order": 172,
+     "text": "EN_ds_l14_l16_a… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 173,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_l14_l16_as_ap_1173_en_a_0221_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 174,
+     "text": "Data sheets - L14 – L16 R/Ri"
+    },
+    {
+     "role": "body",
+     "order": 175,
+     "text": "EN_ds_l14_16r_b… .pdf (687 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 176,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_l14_16r_br1174_en_a_0617.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 177,
+     "text": "Data sheets - L14 – L16 RW"
+    },
+    {
+     "role": "body",
+     "order": 178,
+     "text": "EN_ds_l14rw_l16… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 179,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_l14rw_l16rw_br1174_en_a_0618.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 180,
+     "text": "Data sheets - L14 – L16 SP"
+    },
+    {
+     "role": "body",
+     "order": 181,
+     "text": "EN_ds_l14_l16_s… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 182,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_l14_l16_sp_1177_00_en_c_0524_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 183,
+     "text": "Data sheets - L14 – L20"
+    },
+    {
+     "role": "body",
+     "order": 184,
+     "text": "EN_ds_1173_l14_… .pdf (730 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 185,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_1173_l14_20_0315_ind_b.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 186,
+     "text": "Data sheets - L14 – L20 AP"
+    },
+    {
+     "role": "body",
+     "order": 187,
+     "text": "EN_ds_l14_l20_a… .pdf (6 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 188,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_l14_l20_ap_1173_01_en_c_1023_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 189,
+     "text": "Data sheets - LT06 – LT10 M / LT10 W"
+    },
+    {
+     "role": "body",
+     "order": 190,
+     "text": "EN_ds_lt06_lt10… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 191,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_lt06_lt10_mw_8971_en_b_0726.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 192,
+     "text": "Data sheets - LT10 WX"
+    },
+    {
+     "role": "body",
+     "order": 193,
+     "text": "EN_ds_lt10_wx_8… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 194,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_lt10_wx_8974_en_a_0126_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 195,
+     "text": "Data sheets - LT10 – LT20 C / LT10 – LT16 B/BM"
+    },
+    {
+     "role": "body",
+     "order": 196,
+     "text": "EN_ds_lt10_lt20… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 197,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_lt10_lt20c_b_bm_8970_01_en_a_1021_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 198,
+     "text": "Data sheets - LT16 Ch/BMh"
+    },
+    {
+     "role": "body",
+     "order": 199,
+     "text": "EN_ds_lt16_ch_b… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 200,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_lt16_ch_bmh_8972_en_a_1123_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 201,
+     "text": "Data sheets - M10 X/XE"
+    },
+    {
+     "role": "body",
+     "order": 202,
+     "text": "EN_ds_m10x_m10x… .pdf (746 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 203,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_m10x_m10xe_br033_en_a_0215.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 204,
+     "text": "Data sheets - M25"
+    },
+    {
+     "role": "body",
+     "order": 205,
+     "text": "EN_ds_m25_br033… .pdf (254 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 206,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_m25_br033_01_en_a_0318.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 207,
+     "text": "Data sheets - M25 Scale+"
+    },
+    {
+     "role": "body",
+     "order": 208,
+     "text": "EN_ds_m25_scale… .pdf (534 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 209,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_m25_scale_en_052013.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 210,
+     "text": "Data sheets - ML10 / MM10"
+    },
+    {
+     "role": "body",
+     "order": 211,
+     "text": "EN_ds_mm10_ml10… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 212,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_mm10_ml10_1167_en_d_1225_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 213,
+     "text": "Data sheets - MP13"
+    },
+    {
+     "role": "body",
+     "order": 214,
+     "text": "EN_ds_mp13_br89… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 215,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_mp13_br8904_en_a_0818.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 216,
+     "text": "Data sheets - MT15 C"
+    },
+    {
+     "role": "body",
+     "order": 217,
+     "text": "EN_ds_mt15_c_11… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 218,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_mt15_c_1131_02_en_d_0325_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 219,
+     "text": "Data sheets - MV01"
+    },
+    {
+     "role": "body",
+     "order": 220,
+     "text": "EN_ds_mv01_8905… .pdf (5 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 221,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_mv01_8905_en_c_0623_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 222,
+     "text": "Data sheets - N16 Li"
+    },
+    {
+     "role": "body",
+     "order": 223,
+     "text": "EN_ds_n16li_111… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 224,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_n16li_1115_en_b_0325_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 225,
+     "text": "Data sheets - N20 C D"
+    },
+    {
+     "role": "body",
+     "order": 226,
+     "text": "EN_ds_n20c_d_45… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 227,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_n20c_d_4589_en_a_1121_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 228,
+     "text": "Data sheets - N20 C L"
+    },
+    {
+     "role": "body",
+     "order": 229,
+     "text": "EN_ds_n20c_l_45… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 230,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_n20c_l_4590_en_a_1121_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 231,
+     "text": "Data sheets - N20 C LX"
+    },
+    {
+     "role": "body",
+     "order": 232,
+     "text": "EN_ds_n20c_lx_b… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 233,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_n20c_lx_br4590_00_en_a_0419.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 234,
+     "text": "Data sheets - N20 C LoL"
+    },
+    {
+     "role": "body",
+     "order": 235,
+     "text": "EN_ds_n20c_lol_… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 236,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_n20c_lol_br4589_00_en_a_0419.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 237,
+     "text": "Data sheets - N20 D"
+    },
+    {
+     "role": "body",
+     "order": 238,
+     "text": "EN_ds_n20d_1115… .pdf (7 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 239,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_n20d_1115_en_c_1124_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 240,
+     "text": "Data sheets - N20 LoL"
+    },
+    {
+     "role": "body",
+     "order": 241,
+     "text": "EN_ds_n20lol_11… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 242,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_n20lol_1115_en_b_0325_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 243,
+     "text": "Data sheets - N20 XL"
+    },
+    {
+     "role": "body",
+     "order": 244,
+     "text": "EN_ds_n20_xl_11… .pdf (5 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 245,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_n20_xl_1115_en_b_0325_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 246,
+     "text": "Data sheets - N20 – N25"
+    },
+    {
+     "role": "body",
+     "order": 247,
+     "text": "EN_ds_n20_n25_4… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 248,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_n20_n25_4600_en_a_0226.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 249,
+     "text": "Data sheets - N20 – N25 C"
+    },
+    {
+     "role": "body",
+     "order": 250,
+     "text": "EN_ds_n20c_4587… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 251,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_n20c_4587_en_d_1124_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 252,
+     "text": "Data sheets - P-MATIC"
+    },
+    {
+     "role": "body",
+     "order": 253,
+     "text": "EN_ds_p_matic_b… .pdf (754 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 254,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_p_matic_br1190_en_a_0216.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 255,
+     "text": "Data sheets - P120 – P350"
+    },
+    {
+     "role": "body",
+     "order": 256,
+     "text": "EN_ds_p120_p350… .pdf (6 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 257,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_p120_p350_5007_10_en_c_0322_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 258,
+     "text": "Data sheets - P20"
+    },
+    {
+     "role": "body",
+     "order": 259,
+     "text": "EN_ds_p20_1193_… .pdf (6 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 260,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_p20_1193_en_c_0425_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 261,
+     "text": "Data sheets - P40 – P60 C"
+    },
+    {
+     "role": "body",
+     "order": 262,
+     "text": "EN_ds_p40_p60_c… .pdf (5 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 263,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_p40_p60_c_p40_c_b_4595_en_b_0625_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 264,
+     "text": "Data sheets - P60 – P80"
+    },
+    {
+     "role": "body",
+     "order": 265,
+     "text": "EN_ds_p60_p80_1… .pdf (553 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 266,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_p60_p80_1191_01_en_c_0523_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 267,
+     "text": "Data sheets - R-MATIC"
+    },
+    {
+     "role": "body",
+     "order": 268,
+     "text": "EN_ds_r_matic_1… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 269,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_r_matic_1120_en_b_0623_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 270,
+     "text": "Data sheets - R-MATIC k"
+    },
+    {
+     "role": "body",
+     "order": 271,
+     "text": "EN_ds_r_matic_k… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 272,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_r_matic_k_5190_en_a_0425_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 273,
+     "text": "Data sheets - R14 – R17 X"
+    },
+    {
+     "role": "body",
+     "order": 274,
+     "text": "EN_ds_r14_17x_b… .pdf (1 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 275,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_r14_17x_br116_03_en_f_1216.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 276,
+     "text": "Data sheets - R14 – R20 G"
+    },
+    {
+     "role": "body",
+     "order": 277,
+     "text": "EN_ds_r14_r20g_… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 278,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_r14_r20g_1120_en_e_1020_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 279,
+     "text": "Data sheets - R14 – R25"
+    },
+    {
+     "role": "body",
+     "order": 280,
+     "text": "EN_ds_r14_r25_h… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 281,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_r14_r25_hd_w_n_1120_en_d_1224_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 282,
+     "text": "Data sheets - R20 – R25 F"
+    },
+    {
+     "role": "body",
+     "order": 283,
+     "text": "EN_ds_r20_r25_f… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 284,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_r20_r25_f_8923_en_b_0125_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 285,
+     "text": "Data sheets - Ri14 – Ri18"
+    },
+    {
+     "role": "body",
+     "order": 286,
+     "text": "EN_ds_ri14_ri18… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 287,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_ri14_ri18_1121_en_b_0526.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 288,
+     "text": "Data sheets - T-MATIC core"
+    },
+    {
+     "role": "body",
+     "order": 289,
+     "text": "EN_ds_t_matic_c… .pdf (1 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 290,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_t_matic_core_1153_en_a_0726.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 291,
+     "text": "Data sheets - T14 B"
+    },
+    {
+     "role": "body",
+     "order": 292,
+     "text": "EN_ds_t14b_1132… .pdf (5 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 293,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_t14b_1132_en_b_0625_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 294,
+     "text": "Data sheets - T14 S – T25 S/F"
+    },
+    {
+     "role": "body",
+     "order": 295,
+     "text": "EN_ds_t14s_t20_… .pdf (890 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 296,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_t14s_t20_25_s_sf_br1154_en_f_0417.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 297,
+     "text": "Data sheets - T14 – T20"
+    },
+    {
+     "role": "body",
+     "order": 298,
+     "text": "EN_ds_t14_t20_1… .pdf (5 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 299,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_t14_t20_1155_en_c_0624_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 300,
+     "text": "Data sheets - T16 L"
+    },
+    {
+     "role": "body",
+     "order": 301,
+     "text": "EN_ds_t16_l_115… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 302,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_t16_l_1155_en_a_0924_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 303,
+     "text": "Data sheets - T16 – T20 P"
+    },
+    {
+     "role": "body",
+     "order": 304,
+     "text": "EN_ds_t16_t20_p… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 305,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_t16_t20_p_1155_en_b_0725_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 306,
+     "text": "Data sheets - T20 – T25 AP"
+    },
+    {
+     "role": "body",
+     "order": 307,
+     "text": "EN_ds_t20_25_ap… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 308,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_t20_25_ap_sp_1156_en_d_0625_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 309,
+     "text": "Data sheets - T20 – T25 R"
+    },
+    {
+     "role": "body",
+     "order": 310,
+     "text": "EN_ds_t20_25r_b… .pdf (1 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 311,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_t20_25r_br1154_en_a_0517.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 312,
+     "text": "Data sheets - T20 – T25 RW"
+    },
+    {
+     "role": "body",
+     "order": 313,
+     "text": "EN_ds_t20rw_t25… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 314,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_t20rw_t25rw_br1154_en_a_0618.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 315,
+     "text": "Data sheets - T20 – T25 SP"
+    },
+    {
+     "role": "body",
+     "order": 316,
+     "text": "EN_ds_t20_25_ap… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 317,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_t20_25_ap_sp_1156_en_d_0625_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 318,
+     "text": "Data sheets - T20 – T25 SR"
+    },
+    {
+     "role": "body",
+     "order": 319,
+     "text": "EN_ds_t20_25sr_… .pdf (992 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 320,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_t20_25sr_br1154_en_a_0517.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 321,
+     "text": "Data sheets - T25 – T30"
+    },
+    {
+     "role": "body",
+     "order": 322,
+     "text": "EN_ds_t25_t30_1… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 323,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_t25_t30_1153_en_b_0620_web.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 324,
+     "text": "Data sheets - V modular"
+    },
+    {
+     "role": "body",
+     "order": 325,
+     "text": "EN_ds_v_vmodula… .pdf (574 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 326,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_v_vmodular_5214_en_a_0123_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 327,
+     "text": "Data sheets - V modular B"
+    },
+    {
+     "role": "body",
+     "order": 328,
+     "text": "EN_ds_v_vmodula… .pdf (574 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 329,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_v_vmodular_5214_en_a_0123_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 330,
+     "text": "Data sheets - V08"
+    },
+    {
+     "role": "body",
+     "order": 331,
+     "text": "EN_ds_v08__4594… .pdf (5 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 332,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_v08__4594_en_e_0721_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 333,
+     "text": "Data sheets - V10"
+    },
+    {
+     "role": "body",
+     "order": 334,
+     "text": "EN_ds_v10_br502… .pdf (1 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 335,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_v10_br5021_en_f_0119.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 336,
+     "text": "Data sheets - W20 – W30"
+    },
+    {
+     "role": "body",
+     "order": 337,
+     "text": "EN_ds_w20_w30_5… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 338,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_w20_w30_5007_10_en_b_0122_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 339,
+     "text": "Data sheets - X20 – X35"
+    },
+    {
+     "role": "body",
+     "order": 340,
+     "text": "EN_ds_x20_x35_1… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 341,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_x20_x35_1252_en_a_0621_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 342,
+     "text": "Data sheets - X35 – X50"
+    },
+    {
+     "role": "body",
+     "order": 343,
+     "text": "EN_ds_x35_x50_1… .pdf (1 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 344,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_x35_x50_1254_en_a_0323_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 345,
+     "text": "Data sheets - Xi10 – Xi20"
+    },
+    {
+     "role": "body",
+     "order": 346,
+     "text": "EN_ds_xi10_xi20… .pdf (5 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 347,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_xi10_xi20_1251_en_b_0825_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 348,
+     "text": "Data sheets - Xi14 – Xi20 R"
+    },
+    {
+     "role": "body",
+     "order": 349,
+     "text": "EN_ds_xi14_xi20… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 350,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_xi14_xi20_r_xi16_xi20_rp_1251_en_b_0625_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 351,
+     "text": "Data sheets - Xi16 – Xi20 P"
+    },
+    {
+     "role": "body",
+     "order": 352,
+     "text": "EN_ds_xi16_xi20… .pdf (5 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 353,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_xi16_xi20_p_1251_en_b_0825_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 354,
+     "text": "Data sheets - Xi16 – Xi20 RP"
+    },
+    {
+     "role": "body",
+     "order": 355,
+     "text": "EN_ds_xi14_xi20… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 356,
+     "text": "Download file",
+     "href": "../../../media/Datasheets/EN_ds_xi14_xi20_r_xi16_xi20_rp_1251_en_b_0625_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 357,
+     "text": "Linde Safety Guard (BG/CS/DA/EL/ET/FI) - Manual"
+    },
+    {
+     "role": "body",
+     "order": 358,
+     "text": "linde_safety_gu… .pdf (47 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 359,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Safety/Linde-Safety-Guard-(BG-CS-DA-EL-ET-FI)-Manual.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 360,
+     "text": "Linde Safety Guard (DE/EN/ES/FR/IT/PT) - Manual"
+    },
+    {
+     "role": "body",
+     "order": 361,
+     "text": "linde_safety_gu… .pdf (47 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 362,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Safety/Linde-Safety-Guard-(DE-EN-ES-FR-IT-PT)-Manual.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 363,
+     "text": "Linde Safety Guard (IS/HR/HU/LT/LV/NL/NO) - Manual"
+    },
+    {
+     "role": "body",
+     "order": 364,
+     "text": "linde_safety_gu… .pdf (54 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 365,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Safety/Linde-Safety-Guard-(IS-HR-HU-LT-LV-NL-NO)-Manual.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 366,
+     "text": "Linde Safety Guard (PL/RU/SK/SL/SV/TR/ZH) - Manual"
+    },
+    {
+     "role": "body",
+     "order": 367,
+     "text": "linde_safety_gu… .pdf (54 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 368,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Safety/Linde-Safety-Guard-(PL-RU-SK-SL-SV-TR-ZH)-Manual.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 369,
+     "text": "Linde Warning Projector (EN/FR/DE/DE/IT/ES/PT/NL/EL/DA/SV/NO/FI/CS) - Manual"
+    },
+    {
+     "role": "body",
+     "order": 370,
+     "text": "um_linde_warnin… .pdf (8 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 371,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/UM_Linde-Warning-Projector_EN_FR_DE_IT_ES_PT_NL_EL_DA_SV_NO_FI_CS.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 372,
+     "text": "Linde Warning Projector (PL/TR/RU/LV/LT/ET/SL/SK/RO/HU/HR/BG/ZH) - Manual"
+    },
+    {
+     "role": "body",
+     "order": 373,
+     "text": "um_linde_warnin… .pdf (8 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 374,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/UM_Linde-Warning-Projector_PL_TR_RU_LV_LT_ET_SL_SK_RO_HU_HR_BG_ZH.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 375,
+     "text": "Linde Warning Projector 85 pro (EN/DE)"
+    },
+    {
+     "role": "body",
+     "order": 376,
+     "text": "nutzungsinforma… .pdf (300 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 377,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Nutzungsinformationen-LWP-85-Pro-Geraetesteuerungsanschluss-DE-EN.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 378,
+     "text": "Linde connect:charger (CS-HU-NL-PL-SK-SL) - Manual"
+    },
+    {
+     "role": "body",
+     "order": 379,
+     "text": "linde_connect_c… .pdf (6 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 380,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Linde-connect/Linde-connect-charger-(CS-HU-NL-PL-SK-SL)-Manual.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 381,
+     "text": "Linde connect:charger (DE-EN-ES-FR-IT-PT) – Manual"
+    },
+    {
+     "role": "body",
+     "order": 382,
+     "text": "linde_connect_c… .pdf (7 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 383,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Linde-connect/Linde-connect-charger-(DE-EN-ES-FR-IT-PT)-Manual.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 384,
+     "text": "Motion Detection Assistance System (BG/CS/DA/EL/ET/FI)"
+    },
+    {
+     "role": "body",
+     "order": 385,
+     "text": "um_motion_detec… .pdf (7 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 386,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Motion-Detection/UM_Motion-Detection_current-truck-series_BG_CS_DA_EL_ET_FI_2110.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 387,
+     "text": "Motion Detection Assistance System (DE/EN/ES/FR/IT/PT)"
+    },
+    {
+     "role": "body",
+     "order": 388,
+     "text": "um_motion_detec… .pdf (7 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 389,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Motion-Detection/UM_Motion-Detection_current-truck-series_DE_EN_ES_FR_IT_PT_2110.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 390,
+     "text": "Motion Detection Assistance System (IS/HR/HU/LT/LV/NL/NO)"
+    },
+    {
+     "role": "body",
+     "order": 391,
+     "text": "um_motion_detec… .pdf (8 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 392,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Motion-Detection/UM_Motion-Detection_current-truck-series_IS_HR_HU_LT_LV_NL_NO_2110.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 393,
+     "text": "Motion Detection Assistance System (PL/RO/RU/SK/SL/SV/TR/ZH)"
+    },
+    {
+     "role": "body",
+     "order": 394,
+     "text": "um_motion_detec… .pdf (8 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 395,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Motion-Detection/UM_Motion-Detection_current-truck-series_PL_RO_RU_SK_SL_SV_TR_2110.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 396,
+     "text": "Rescue Guide for Lithium-Ion Batteries"
+    },
+    {
+     "role": "body",
+     "order": 397,
+     "text": "linde_rescue_gu… .pdf (1 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 398,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Linde_Rescue_Guide_Lithium-Ion-Battery_EN.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 399,
+     "text": "Product Brochures - E100 – E180"
+    },
+    {
+     "role": "body",
+     "order": 400,
+     "text": "EN_b_heavy_truc… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 401,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_b_heavy_trucks_e100_180_1471_en_a_1022_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 402,
+     "text": "Product Brochures - E14 – E20"
+    },
+    {
+     "role": "body",
+     "order": 403,
+     "text": "EN_b_electric_c… .pdf (738 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 404,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_b_electric_counterbalance_trucks__e14_e20_xi10_xi20_en_a_1024_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 405,
+     "text": "Product Brochures - E16 – E20 P"
+    },
+    {
+     "role": "body",
+     "order": 406,
+     "text": "EN_b_electric_c… .pdf (738 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 407,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_b_electric_counterbalance_trucks__e14_e20_xi10_xi20_en_a_1024_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 408,
+     "text": "Product Brochures - E60 – E80"
+    },
+    {
+     "role": "body",
+     "order": 409,
+     "text": "EN_e_trucks_bro… .pdf (6 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 410,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_e_trucks_brochure.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 411,
+     "text": "Product Brochures - H100 – H180 D"
+    },
+    {
+     "role": "body",
+     "order": 412,
+     "text": "EN_p_1401_h100_… .pdf (5 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 413,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_1401_h100_h180_en_a_0620.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 414,
+     "text": "Product Brochures - H20 – H35"
+    },
+    {
+     "role": "body",
+     "order": 415,
+     "text": "EN_p_h20_h35_12… .pdf (9 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 416,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_h20_h35_1202_01_en_a_1019.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 417,
+     "text": "Product Brochures - HT100 – HT180 D"
+    },
+    {
+     "role": "body",
+     "order": 418,
+     "text": "EN_p_ht100_ht18… .pdf (5 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 419,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_ht100_ht180_1411_en_a_1020.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 420,
+     "text": "Product Brochures - K"
+    },
+    {
+     "role": "body",
+     "order": 421,
+     "text": "EN_b_vna_guidel… .pdf (67 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 422,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_b_vna_guideline_en_b_1022_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 423,
+     "text": "Product Brochures - L-MATIC"
+    },
+    {
+     "role": "body",
+     "order": 424,
+     "text": "EN_p_robotics_e… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 425,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_robotics_en_a_0216.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 426,
+     "text": "Product Brochures - N16 Li"
+    },
+    {
+     "role": "body",
+     "order": 427,
+     "text": "EN_p_order_pick… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 428,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 429,
+     "text": "Product Brochures - N20 C D"
+    },
+    {
+     "role": "body",
+     "order": 430,
+     "text": "EN_p_order_pick… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 431,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 432,
+     "text": "Product Brochures - N20 C L"
+    },
+    {
+     "role": "body",
+     "order": 433,
+     "text": "EN_p_order_pick… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 434,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 435,
+     "text": "Product Brochures - N20 C LX"
+    },
+    {
+     "role": "body",
+     "order": 436,
+     "text": "EN_p_order_pick… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 437,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 438,
+     "text": "Product Brochures - N20 C LoL"
+    },
+    {
+     "role": "body",
+     "order": 439,
+     "text": "EN_p_order_pick… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 440,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 441,
+     "text": "Product Brochures - N20 D"
+    },
+    {
+     "role": "body",
+     "order": 442,
+     "text": "EN_p_order_pick… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 443,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 444,
+     "text": "Product Brochures - N20 LoL"
+    },
+    {
+     "role": "body",
+     "order": 445,
+     "text": "EN_p_order_pick… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 446,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 447,
+     "text": "Product Brochures - N20 XL"
+    },
+    {
+     "role": "body",
+     "order": 448,
+     "text": "EN_p_order_pick… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 449,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 450,
+     "text": "Product Brochures - N20 – N25 C"
+    },
+    {
+     "role": "body",
+     "order": 451,
+     "text": "EN_p_order_pick… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 452,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 453,
+     "text": "Product Brochures - P-MATIC"
+    },
+    {
+     "role": "body",
+     "order": 454,
+     "text": "EN_p_robotics_e… .pdf (2 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 455,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_robotics_en_a_0216.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 456,
+     "text": "Product Brochures - P20"
+    },
+    {
+     "role": "body",
+     "order": 457,
+     "text": "EN_p_2_25t_trac… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 458,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_2_25t_tractor_range_en_d_0716.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 459,
+     "text": "Product Brochures - R14 – R17 X"
+    },
+    {
+     "role": "body",
+     "order": 460,
+     "text": "EN_p_x_range_r1… .pdf (1 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 461,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_x_range_r14_r17x_en_d_0319.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 462,
+     "text": "Product Brochures - R14 – R25"
+    },
+    {
+     "role": "body",
+     "order": 463,
+     "text": "EN_p_r14_r20_br… .pdf (3 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 464,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_r14_r20_br1120_en_a_0213.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 465,
+     "text": "Product Brochures - V08"
+    },
+    {
+     "role": "body",
+     "order": 466,
+     "text": "EN_p_order_pick… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 467,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 468,
+     "text": "Product Brochures - V10"
+    },
+    {
+     "role": "body",
+     "order": 469,
+     "text": "EN_p_order_pick… .pdf (4 mb)"
+    },
+    {
+     "role": "cta",
+     "order": 470,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_p_order_picker_brochure_en_a_1220_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 471,
+     "text": "Product Brochures - Xi10 – Xi20"
+    },
+    {
+     "role": "body",
+     "order": 472,
+     "text": "EN_b_electric_c… .pdf (738 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 473,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_b_electric_counterbalance_trucks__e14_e20_xi10_xi20_en_a_1024_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 474,
+     "text": "Product Brochures - Xi16 – Xi20 P"
+    },
+    {
+     "role": "body",
+     "order": 475,
+     "text": "EN_b_electric_c… .pdf (738 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 476,
+     "text": "Download file",
+     "href": "../../../media/Brochures/EN_b_electric_counterbalance_trucks__e14_e20_xi10_xi20_en_a_1024_view.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 477,
+     "text": "Terms of Use Linde VR Application H20-H35 1202"
+    },
+    {
+     "role": "body",
+     "order": 478,
+     "text": "vr_1202_termsof… .pdf (42 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 479,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/VR_Application_H20-H35_1202/VR_1202_TermsOfUse_Formatiert.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 480,
+     "text": "Terms of Use Linde Virtual Showroom App"
+    },
+    {
+     "role": "body",
+     "order": 481,
+     "text": "terms_of_use_vi… .pdf (79 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 482,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/08_Downloads/Virtual_Showroom_App/Terms_of_use_VirtualShowroom.pdf"
+    },
+    {
+     "role": "heading",
+     "order": 483,
+     "text": "Terms of use Telematics"
+    },
+    {
+     "role": "body",
+     "order": 484,
+     "text": "linde_mh_terms_… .pdf (67 kb)"
+    },
+    {
+     "role": "cta",
+     "order": 485,
+     "text": "Download file",
+     "href": "../../../media/Global-Content/01-Products/11_Automated-Trucks_Automatisierte-Stapler/Terms-of-Use/Linde_MH_Terms_of_use_telematics_EN.pdf"
+    }
+   ],
+   "imgCount": 158,
+   "editableTexts": 320,
+   "repeats": [
+    {
+     "unitSelector": "DIV.layout-100--flex",
+     "count": 2,
+     "unit": {
+      "headings": 2,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 9
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.layout-100--flex",
+     "count": 6,
+     "unit": {
+      "headings": 5,
+      "ctas": 5,
+      "imgs": 5,
+      "textRuns": 15
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

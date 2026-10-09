@@ -1,0 +1,363 @@
+{
+ "source": "http://localhost:8804/stardust/migrated/en/Products/Pallet-Trucks/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Pallet Trucks"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "On your way safely and efficiently in the tightest spaces"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Quick processes at short distances"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Even for shorter distances you need the performance of the transport truck, because the pallet trucks have to master many difficult situations in a short time: Narrow aisles, tight truck loading bays or steep ramps make goods receiving and transport difficult. So that your handling capacity stays high under all circumstances, Linde Material Handling offers a large selection of particularly agile pallet trucks. They have compact and precise steering systems. This makes many maneuvers easier in tight environments."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "The models with electric power steering also profit from powerful motors, which Linde combines with quick-reacting brakes. Often multiple braking systems are used, which complement each other. This makes transport from A to B not only faster, but also safe. The lifting capacity of the pallet trucks and pallet lift trucks from Linde ranges from 500 to 3.300 kg."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Find your truck here",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?productTypes[]=2375&offerType=new"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Innovations for efficient processes"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "There are many ways in which Linde is driving the development of its pallet trucks and pallet lift trucks forward. Simple, fast, and rapid transport processes are the objective. Some pedestrian trucks have the SafetySpeed function. It automatically adjusts the speed depending on the tiller position; the more vertical, the slower it goes. This improves operator safety."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "The developers have also focused on the controls. There are joystick, 360 degree, and tiller systems which fit in with various handling tasks and make the controls much easier. The operator operates the pallet truck sensitively and precisely from their wrist."
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "Greater output, safely"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "If working spaces are tight and pedestrians or other trucks may cross your path, the braking system of a pallet truck must function perfectly. In models with a tiller, the operator is sometimes outside of the truck, and is not protected by the chassis."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Here, Linde uses protective operator platforms in the pallet trucks and equips pedestrian models with protective combined braking and assistance systems: The reverse current brakes are automatically active when the operator releases the drive pedal or switch. In addition, electromagnetic emergency stop or parking brakes can be activated as needed. Some of the pallet trucks also independently reduce high speeds when cornering, adjust their drive behavior to the current situation, or help when climbing gradients."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Faster processes included"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "So that the operator can also reach their destination in constricted environments and avoid unnecessary shunting, Linde brings all of the decisive performance factors together: narrow truck dimensions, precise steering, and powerful drives. That's why many pallet trucks are barely wider than a pallet. Their steering system can be operated delicately and effortlessly with one hand. The drive also accelerates the truck with and without loads in a few seconds to the planned maximum speed."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "A healthy workplace"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "The following particularly applies to pallet trucks with a platform: Many ergonomic elements and functions make it easier to operate the truck. The range includes height-adjustable seats and armrests, low access heights, and ergonomically designed control element."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The position of the operator plays a key role in some trucks: They sit at a right angle to the forks and don't have to twist round in order to travel forward or backward. This is better for the musculoskeletal system. The same applies to the platform's suspension, which is separate from the chassis and reduces all vibrations in the operator work station."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 5,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "5 x more output"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Safer",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Simpler",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Stronger",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Healthier",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Smaller",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "Safer"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Linde uses multiple braking systems in many pallet trucks, which complement each other and form the best solution, whatever the driving situation. At the end, the truck stops at precisely the right point."
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Simpler"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Various steering systems are used in the trucks, from a compact joystick to a multi-functional tiller, depending on how they're being used. The idea behind it is always the same: Every pallet truck from Linde should be able to be controlled effortlessly with only one hand."
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Stronger"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "A solid chassis, reinforced tillers, and dust-protected motors are features of the pallet trucks. They enable the trucks to be on the road for years, with minimal servicing required."
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "Healthier"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "The pallet trucks with platforms have comprehensive suspension. The platform is completely separate from the chassis and absorbs most of the vibrations. This takes the strain off the driver and helps them to concentrate for longer."
+    },
+    {
+     "role": "heading",
+     "order": 13,
+     "text": "Smaller"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "High load capacity and small exterior dimensions; this combination leads to increased handling capacity because compact pallet trucks are easier to maneuver in narrow aisles. Many of Linde's pallet trucks are barely wider than a pallet."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 11,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Tailor-made pallet trucks"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde offers many additional options for all pallet trucks. For example, forks of varied lengths or polyurethane tires, which provide a quiet ride. There is also a load protection backrest, attachment systems for terminals, cold store protection, and much more."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Linde designs some trucks with a choice of controls. The customer can choose, for example, from a joystick and two-handle steering, and between a steering tiller and e-drive controller for another model. The user ends up with a pallet truck which perfectly fits the operating conditions on site."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "T14 B",
+     "href": "../../../en/Products/Pallet-Trucks/T14-B/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "The compact T14 B pallet truck from Linde particularly impresses as a reliable electric assistant for precise and convenient indoor handling."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/Products/Pallet-Trucks/T14-B/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "T16 L",
+     "href": "../../../en/Products/Pallet-Trucks/T16-L/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The T16 L pallet truck from Linde Material Handling can be used flexibly for short transports, loading and unloading, and order picking."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/Products/Pallet-Trucks/T16-L/index.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

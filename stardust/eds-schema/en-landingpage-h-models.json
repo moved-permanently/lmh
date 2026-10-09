@@ -1,0 +1,1372 @@
+{
+ "source": "http://localhost:8802/stardust/migrated/en/Landingpage/H-models/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The new internal combustion forklift trucks with hydrostatic drive"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Perfection Down to the Last Detail"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Driver’s Workstation",
+     "href": "#780543"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Safety",
+     "href": "#780546"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Connectivity",
+     "href": "#780550"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Efficiency",
+     "href": "#780554"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Advantages",
+     "href": "#780556"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Testimonials",
+     "href": "#780560"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 6,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The industry standards for counterbalanced forklift trucks redefined: The Linde Material Handling H20 – H35 and H35 – H50 diesel and gas forklift trucks"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Whether commerce, trade, or industry: not much moves without forklift trucks. But e-commerce, digitally controlled processes, and globally linked supply chains are constantly placing higher demands on the technology. Discussions with users from all industries and of all sizes formed the basis for a fundamentally redeveloped truck concept."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "1 / 8"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "The latest counterbalanced forklift trucks represent everything that Linde forklift trucks have always stood for—they are extremely powerful, safe, user-friendly, robust, and versatile. Each of these features has been consistently further developed and improved. The diesel and gas forklift trucks, which are available in the payload class of 2 to 5 metric tons, set the standard for performance, ergonomics, safety, and connectivity—and so will continue to provide the perfect answer to material flow challenges well into the future."
+    }
+   ],
+   "imgCount": 16,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.media-browser__item",
+     "count": 8,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "DIV.media-browser__item",
+     "count": 8,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Arrange an appointment for a consultation now.",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "For more information about our counterbalanced forklift trucks please download the brochure here.",
+     "href": "../../../media/Global-Content/08_Downloads/LMH_Counterbalance_Trucks_Platform_en_A_0621_view.pdf"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "A.btn__link",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The new diesel and gas forklift trucks at a glance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "H20 – H35: Powerful and agile",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "H35 – H50: The great all-rounder",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "H20 – H35: Powerful and agile"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "The H20 – H35 diesel and gas forklift trucks are robust, powerful, and offer maximum flexibility. They transport loads of between 2000 and 3500 kilograms. Their compactness and maneuverability makes them ideally suited for use in confined spaces."
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Click here to find out more about the H20 – H35.",
+     "href": "../../../en/Products/IC-Trucks/H20-H35/index.html"
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "H35 – H50: The great all-rounder"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "With a load weight of between 3500 and 5000 kilograms, the H35 – H50 diesel and gas forklift truck is the all-rounder of the IC trucks. Designed for maximum handling performance, they are perfectly suited to intense use in multi-shift operation, and excel in outdoor use even under the toughest conditions."
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Click here to find out more about the H35 – H50.",
+     "href": "../../../en/Products/IC-Trucks/H35-H50/index.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 5,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Diesel and gas forklift trucks: man and machine working as one"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Maximum productivity requires the perfect interaction between driver and forklift truck. This occurs where a powerful drive system, such as the hydrostatic drive, is complemented by intuitive control elements. As a result, the new internal combustion forklift trucks from Linde, together with the driver's workstation, were designed entirely around the driver and their needs. The proven operating concept comprised of the dual-pedal control and Linde Load Control for controlling all driving and mast movements makes the forklift trucks easy, precise, and intuitive to operate. The intelligent arrangement of all control elements ensures that the driver can reach and operate all control elements with minimum effort and maximum precision. This enables virtually fatigue-free working for the entire shift."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Hydrostatic drive",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Decentralized steering wheel",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Dual-pedal control",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Linde Load Control",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Customizable overhead console",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Effortless entry",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Maximum seating comfort",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Optimized driver’s compartment",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Spacious cab",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Hydrostatic drive"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "The maintenance-free hydraulic system of the new range transfers the power of the industrial engine to the drive wheels and lifting hydraulic system without any losses. The hydrostatic drive therefore enables gentle start-up, fast changes of direction, sensitive load handling, and precise maneuvering in the tightest of spaces."
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "Decentralized steering wheel"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "The steering wheel is positioned off-center. This reduces the shoulder movements for the left arm and prevents joint wear. It is practical, easy to control, and can be individually adjusted."
+    },
+    {
+     "role": "heading",
+     "order": 13,
+     "text": "Dual-pedal control"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "The established dual-pedal control allows the forklift truck to be controlled with exceptional sensitivity and precision as both feet are in constant contact with the pedals. The right pedal moves the truck forwards, the left backwards. This gives the driver direct feedback on the movements of the forklift truck."
+    },
+    {
+     "role": "heading",
+     "order": 15,
+     "text": "Linde Load Control"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "Linde Load Control gives the driver control of all of the forklift truck's key mast functions. The control elements are placed on an ergonomically shaped armrest, which minimizes arm movements and prevents fatigue. Optional additional buttons can be assigned further functions."
+    },
+    {
+     "role": "heading",
+     "order": 17,
+     "text": "Customizable overhead console"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "Important functions, such as headlights or heating, can be controlled via the overhead console. It contains eleven buttons, nine of which have been assigned lighting and hazard warning functions. The rest are freely programmable."
+    },
+    {
+     "role": "heading",
+     "order": 19,
+     "text": "Effortless entry"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "The low step ensures that people of any height can comfortably enter and exit the truck. A non-slip tread plate and an ergonomic entry handle provide additional support."
+    },
+    {
+     "role": "heading",
+     "order": 21,
+     "text": "Maximum seating comfort"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "The standard driver’s seat was further refined for the H20 – H35 and H35 – H50 IC trucks, and now provides greater headroom and more comfortable working. Twelve seating options offer additional comfort and protect against postural injuries."
+    },
+    {
+     "role": "heading",
+     "order": 23,
+     "text": "Optimized driver’s compartment"
+    },
+    {
+     "role": "body",
+     "order": 24,
+     "text": "The driver’s compartment provides a particularly generous amount of headroom and legroom. The drive axle, steering axle, and mast are decoupled from the chassis to protect the driver from physical stress caused by vibrations."
+    },
+    {
+     "role": "heading",
+     "order": 25,
+     "text": "Spacious cab"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "The spacious cab offers the driver optimum visibility. The large glass surfaces give the driver the feeling that they are seated outdoors. The heating and air-conditioning system (contains fluorinated hydrocarbons) inside the cab regulate the temperature to a pleasant working atmosphere in just a few minutes."
+    }
+   ],
+   "imgCount": 9,
+   "editableTexts": 19,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 9,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 8,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The innovative Linde Steer Control concept"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde Steer Control is a revolutionary concept for forklift steering. A mini steering wheel or joystick replaces the traditional steering wheel and improves driver comfort and the intuitive operation of the truck. It optimizes the ergonomic features of the truck and reduces the physical strain on the driver. For maximum precision in all movements, Linde Steer Control automatically adjusts the sensitivity of its steering elements to the truck speed."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "1 / 3"
+    }
+   ],
+   "imgCount": 6,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.media-browser__item",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "DIV.media-browser__item",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Discover Linde Steer Control!",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Steer-Control/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Built-in safety: diesel forklift trucks as part of our Vision Zero."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "When it comes to safety, nothing can be left to chance. “Vision Zero”—no accidents in internal traffic—is the overriding goal. That's why Linde has improved everything on the new range of internal combustion forklift trucks that can permanently reduce the risk of accidents. A sophisticated design, perfect visibility, and numerous warning and assistance systems provide an optimal feeling of safety inside and outside the truck. Because the driver can only use their truck with maximum productivity if they feel safe."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Optimized visibility"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The chassis, cab, and mast of the new ranges in the payload range of 2 to 5 metric tons have been optimized so that the driver has an unobstructed view of the load and environment in all directions. The slender mast, the narrow A-pillar, and the lowered front plate improve the visibility towards the front, while the narrow cross struts used for the roof structure and an optional reinforced glass roof ensure good overhead visibility. Optional cameras on all sides of the forklift truck expand the natural field of vision."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Please get in: this gives you a 360° view from the truck.",
+     "href": "http://www.exappserver.com/1202/"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Designed for safety"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The passive safety of the Linde diesel forklift trucks is in a class of its own: The side skirts of the frame structure are extremely robust and provide ram protection. The truck's low center of gravity and high steering axle reduce the risk of overturning. At the same time, the overhead tilt cylinders and the warp-resistant mast design ensure a high residual load capacity as well as safe and sensitive load handling, even at high lifting heights."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Stability and good visibility"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "A number of safety features help prevent operating errors. The automatic engagement of the parking brake ensures that the truck stops securely on ramps and gradients so that the driver can safely dismount. All forklift trucks without an optional cabin are also fitted with electronic seatbelt monitoring as standard. This ensures that the forklift truck can only operate at creep speed when the driver is not strapped in. For better visibility and added safety, the H20 – H35 and H35 – H50 can also be fitted with a number of warning and lighting solutions, such as the , the and the Linde VertiLight."
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Linde LED Stripes",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-VertiLight-and-Linde-LED-Stripes.html"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Linde Truck Spot",
+     "href": "../../../en/About-us/Innovations-from-Linde/TruckSpot.html"
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Hard-working assistants"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The new ranges of diesel and gas forklift trucks are fitted with the Linde Curve Assist as standard. The system adjusts the driving speed to the steering angle to reduce the risk of overturning when cornering. Linde Load Assist is also included as standard. This determines the forklift truck’s residual load capacity to reduce the risk of tipping accidents. The Linde load weight indicator as well as the and assistance systems can also be fitted for even greater safety."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Linde Safety Pilot",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Pilot.html"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Linde Safety Guard",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Guard.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 6,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "DIV.infobox-media",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Equipped for the future: Connectivity meets diesel forklift trucks"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Data is the currency of the future, especially in the material flow of modern companies. That’s why all of the performance data can be analyzed using software. The data transmission unit installed as standard means that the forklift truck can be easily integrated into fleet management systems such as . This enables more efficient use of the truck, more precise maintenance planning, and more reliable cost calculation."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Linde connect",
+     "href": "https://www.linde-mh.com/en/Solutions/Fleet-Management/"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Monitoring operating data"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The forklift truck regularly records data, such as the operating hours, and wirelessly transmits these to the fleet management software. Data analysis provides information on how the truck is used and the capacity at which it is operating."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Secure transmission"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "The vehicle data is transmitted by mobile network or Wi-Fi. Multiple encryption guarantees maximum data protection. To ensure that this is the case, Linde uses one of the most secure cloud infrastructures on the market."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Diagnostics and maintenance"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Digital error codes and the recording of the error history enable remote diagnosis of the forklift truck. In future, it will be possible to install software updates and additional functions “over the air”. This improves the performance and functionality of the trucks and keeps them up-to-date at all times."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Would you like to receive an offer for this truck? If so, please get in touch!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Maximum efficiency: less downtime, better performance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "21",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The H20 – H35 and H35 – H50 diesel and gas forklift trucks are the most efficient counterbalanced forklift trucks in their performance class. This is made possible by the tried-and-tested hydrostatic drive system, which transforms the driver and the truck into an intuitively operating unit. But it is also thanks to the tough construction and the service-friendly design, which minimize downtimes for repairs. This exceptional efficiency is also reflected in the fact that the models in the new ranges are superior to the competition from a total cost of ownership perspective."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "22",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Drive for optimal handling performance"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde Material Handling has spent decades perfecting a drive system that enables precise and sensitive control of the drive performance of its counterbalanced forklift trucks. This superior technology is based on the hydrostatic drive."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "The closed and maintenance-free hydraulic system transfers the power of the industrial engine to the drive wheels and lifting hydraulic system without any losses, meaning that the driver receives exactly the power that they require in every work situation. This guarantees maximum handling performance together with minimum fuel consumption. Linde Material Handling diesel forklift trucks have had the lowest emissions on the market for years. The new H20 – H35 and H35 – H50 forklift trucks meet the Euro 5 emission standard."
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Linde diesel forklift trucks can run on as an alternative. This fuel consists of 100 percent renewable raw materials and reduces carbon emissions from trucks by up to 90 percent. With stricter climate protection regulations being introduced, HVO offers a practical transitional solution for running existing diesel fleets more sustainably. This allows companies to improve the environmental performance of their working diesel trucks without having to invest in new trucks straight away."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "HVO (hydrotreated vegetable oil)"
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "Maintenance can wait"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Interruptions due to downtimes and maintenance work cost time and money and strain the nerves. The tough construction and service-friendly design of the new range of diesel and gas forklift trucks reduce downtimes to a minimum. The strong side skirts act as ram protection and prevent damage caused by accidents involving collisions. Even the new industrial engine is extremely robust. For example, instead of the drive belts usually used in automotive engines, it uses low-maintenance spur gears. What’s more, the Engine Protection System (EPS) monitors the engine and protects it from overloading."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "For fast and straightforward maintenance, accessibility to important components has been improved by removable cladding and larger service openings. Our Truck Health Monitoring enables comprehensive fault monitoring and faster fault localization. It also transmits error codes so that an initial diagnosis can be made. This makes it possible for the service technician to immediately take the necessary spare parts with them for the repair work."
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "This forklift truck pays off"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "The focus on maximum efficiency when designing the new Linde forklift trucks is also clearly shown by the vehicles’ performance data. A certified performance test shows that the trucks take less time to transport the same load, while also consuming less fuel. The model calculations show that the trucks achieve the best total cost of operation in their direct competitive environment, even with operating times in excess of 20,000 operating hours. Besides the performance of the truck, maintenance and personnel costs are also taken into account."
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 9,
+   "repeats": [
+    {
+     "unitSelector": "DIV.infobox-media",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "23",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Your Benefits at a Glance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "24",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Proven operating concept"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The proven combination of Linde Load Control and dual-pedal control forms the basis for the fast, precise load handling of the forklift trucks."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Ergonomic driver’s workstation"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "The driver’s compartment of the forklift trucks minimizes the physical stress on the driver and enables fatigue-free work for the entire shift."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Optimized visibility"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "A clear view in all directions improves safety in load handling, which noticeably increases productivity."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "25",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Tough construction"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The new range of diesel and gas forklift trucks requires fewer repairs and is extremely low-maintenance. This ensures high availability of the trucks and reduces the cost of every single hour of operation."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Designed for easy servicing"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Easy access to important components allows service technicians to perform their work quickly, thus reducing inspection costs."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Perfectly configurable"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The wide range of equipment provided as standard and as optional extras enables the counterbalanced forklift trucks to be customized to individual applications and requirements."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Networking as standard"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Digital networking allows the condition and use of the diesel forklift truck to be analyzed effortlessly. The necessary maintenance work can therefore be optimally planned and costs can be efficiently calculated."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "26",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Want to know more? Then arrange a consultation.",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "27",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Testimonials"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "28",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "H25 at Rygol lime works",
+     "href": "https://player.vimeo.com/video/366435248"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Kalkwerk Rygol GmbH in Painten, Lower Bavaria, pushes its forklift trucks to their limit. Long routes, uneven floors and 16-hour shifts under the toughest conditions are all in a day’s work. This is where the new Linde H25 diesel forklift truck really comes into its own. It features maneuverability, optimized visibility, and excellent ergonomics from the get-go."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Click here to watch the video",
+     "href": "https://player.vimeo.com/video/366435248"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "H30 at BOHAI TRIMET Automotive",
+     "href": "https://player.vimeo.com/video/366434765"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The new Linde H30 is in constant use at BOHAI TRIMET Automotive Holding GmbH. As the only vehicle with a rotator, it works around the clock to supply the melting furnaces at the Sömmerda site, despite the heat and dusty air. In dark, tight aisles, the optimized all-round view and modern lighting solutions ensure increased safety."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Click here to watch the video",
+     "href": "https://player.vimeo.com/video/366434765"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "29",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "H35 at drinks wholesaler Heurich",
+     "href": "https://player.vimeo.com/video/651551492"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "On hot summer days, up to 165,000 drinks crates leave the logistics center of drinks wholesaler Heurich GmbH. In order to manage these huge quantities, the company uses highly efficient forklift trucks. This is where the new Linde H35 comes into play. Drivers and managers alike are impressed by the optimized all-round view in particular."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Click here to watch the video",
+     "href": "https://player.vimeo.com/video/651551492"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "H50 at paper producer Smurfit Kappa",
+     "href": "../../../en/About-us/Magazine/Smurfit-Kappa/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "There’s tough, then there’s the paper industry: At the paper producer Smurfit Kappa Wrexen Paper & Board, the counterbalanced trucks run with a full load almost non-stop—day and night, whether in oppressive heat or biting cold. An extreme deployment scenario, where the new Linde H50 diesel powerhouse was able to show what it can do even before its market launch."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/Smurfit-Kappa/index.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "30",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Learn more about the H20 – H35 series here.",
+     "href": "../../../en/Products/IC-Trucks/H20-H35/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Click here to find out more about the H35 – H50.",
+     "href": "../../../en/Products/IC-Trucks/H35-H50/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "A.btn__link",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "31",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Diesel Forklifts",
+     "href": "https://www.linde-mh.com/en/Products/Diesel-Forklifts/"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "When it comes to diesel forklifts, Linde sets the benchmarks for productivity and efficiency. Load capacity from 1.4 to 8 tonnes: There is a Linde diesel forklift for every scenario."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/Products/Diesel-Forklifts/"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Solutions for the automotive industry",
+     "href": "../../../en/Solutions/Industries/Automotive-Industry/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Linde Material Handling supports the automotive industry in the key challenges of intralogistics: ensuring production flow, saving costs, using automation, protecting the environment."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Industries/Automotive-Industry/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "H16 – H20",
+     "href": "../../../en/Products/IC-Trucks/H16-H20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Constructed for excellent handling performance in tight spaces: the H16 – H20 IC trucks are suitable for a wide variety of uses."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/Products/IC-Trucks/H16-H20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "H50 – H80",
+     "href": "../../../en/Products/IC-Trucks/H50-H80-EVO/index.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "High handling performance, reduced service costs, and safe handling processes: all guaranteed by the Linde Material Handling H50 – H80 IC trucks."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/Products/IC-Trucks/H50-H80-EVO/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Safety First",
+     "href": "../../../en/About-us/Magazine/Safety-first.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "The numbers are impressive: Over a surface area of 126 football fields in Wismar, Egger processes in the region of million cubic meters of wood each year for HDF, MDF and OSB boards as well as laminate flooring. Since February, the wood-based materials specialist has relied on forklift trucks with Linde Safety Pilot for its logistics needs."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Safety-first.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "Automotive supplier SMP controls its vehicle fleet with Linde connect",
+     "href": "../../../en/About-us/Magazine/smp-fleetmanagement.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "The Linde connect fleet management system makes a decisive contribution to order and safety in the warehouse. Linde Material Handling has equipped the entire SMP fleet with this intelligent solution."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/smp-fleetmanagement.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "In use on the race track",
+     "href": "../../../en/About-us/Magazine/Linde-Rental-Service-for-Formula-Student-Germany.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "The Linde Rental Solutions has been ensuring fast and professional setup and dismantling as well as performing other logistics tasks at the Formula Student Germany for many years. This requires a number of challenges to be overcome."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Linde-Rental-Service-for-Formula-Student-Germany.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Powerful forklifts for tough applications",
+     "href": "../../../en/About-us/Magazine/Powerful-vehicles-for-high-performance-applications.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "For many years now, Novelis employees have been supported by various Linde vehicles - 24/7, 365 days a year, from E20 to HT160Ds."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Powerful-vehicles-for-high-performance-applications.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "A real piece of gold amongst the trash",
+     "href": "../../../en/About-us/Magazine/Willimantic-Magazine.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Paper, cardboard, mattresses, bags, plastics, cans and much more. Once used and thrown away, they all end up in a mountain of rubbish on the premises of a recycling company - a company like Willimantic Waste Paper. Here, loose waste, recyclables and bales are moved around the entire site by forklift trucks."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Willimantic-Magazine.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "IC-Trucks",
+     "href": "https://www.linde-mh.com/en/Products/IC-Trucks/"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "The hydrostatic drives of Linde Material Handling's IC trucks deliver exceptionally precise, efficient handling performance."
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/Products/IC-Trucks/"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "High-precision machine at Norrlands trä",
+     "href": "../../../en/About-us/Magazine/Norrlands-trae.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "For the past five years, a Linde H120 D has been hard at work at Norrlands trä in Älandsbro, about 400 kilometers north of Stockholm. The fleet has recently been expanded by the addition of another similar workhorse, which despite its size and weight, performs at a high level of precision."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Norrlands-trae.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "Signature Move(s)",
+     "href": "../../../en/About-us/Magazine/Porsche-Engineering/index.html"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "For decades now, Linde forklift trucks have been distinguished by their design, for which the honor goes to none other than Porsche Engineering. The most recent achievement of this progressive partnership: the new generation of Linde Counterbalanced Forklift Trucks X20 – X35 and H20 – H35."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Porsche-Engineering/index.html"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

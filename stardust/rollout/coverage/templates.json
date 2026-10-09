@@ -1,0 +1,289 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-10-06T16:05:34.329Z",
+    "readArtifacts": [
+      "stardust/migrated",
+      "stardust/state.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-10-09T02:08:24.969Z",
+  "templates": [
+    {
+      "id": "en",
+      "representativeSlug": "en",
+      "pages": [
+        "en"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "hero-carousel",
+        "teaser-carousel-light",
+        "teaser-grid"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "en-about-us-press",
+      "representativeSlug": "en-about-us-press",
+      "pages": [
+        "en-about-us",
+        "en-about-us-events",
+        "en-about-us-innovations-from-linde",
+        "en-about-us-magazine",
+        "en-about-us-media",
+        "en-about-us-press",
+        "en-products",
+        "en-products-automated-trucks",
+        "en-service",
+        "en-solutions-consulting",
+        "en-solutions-overview-html"
+      ],
+      "pageCount": 11,
+      "blocks": [
+        "breadcrumb",
+        "filter",
+        "news-cards"
+      ],
+      "delivery": {
+        "verified": 11,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "en-forms-global-contact-form",
+      "representativeSlug": "en-forms-global-contact-form",
+      "pages": [
+        "en-forms-agility-on-point-form",
+        "en-forms-automation-campaign",
+        "en-forms-ex-proof-form",
+        "en-forms-gc-li-ion-recycling",
+        "en-forms-gc-next-champ-form",
+        "en-forms-global-contact-form",
+        "en-forms-gse-expo",
+        "en-forms-rent-a-truck"
+      ],
+      "pageCount": 8,
+      "blocks": [
+        "breadcrumb",
+        "mwf-form"
+      ],
+      "delivery": {
+        "verified": 8,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "en-landingpage-e-models",
+      "representativeSlug": "en-landingpage-e-models",
+      "pages": [
+        "en-about-us-company",
+        "en-about-us-working-at-linde",
+        "en-landingpage-agility-on-point",
+        "en-landingpage-automation-summit-2025",
+        "en-landingpage-compact-class-with-electric-drive",
+        "en-landingpage-e-models",
+        "en-landingpage-glasses",
+        "en-landingpage-gse-expo",
+        "en-landingpage-h-models",
+        "en-landingpage-happy-driver",
+        "en-landingpage-in-sync",
+        "en-landingpage-logimat",
+        "en-landingpage-next-champ",
+        "en-landingpage-platform-counterbalanced-trucks",
+        "en-landingpage-r-matic",
+        "en-landingpage-safely-to-the-top",
+        "en-landingpage-x-models",
+        "en-landingpage-x-range",
+        "en-products-gas-forklifts",
+        "en-products-hand-pallet-trucks",
+        "en-products-heavy-duty-forklifts",
+        "en-products-pallet-stackers",
+        "en-products-tugger-trains",
+        "en-service-genuine-spare-parts",
+        "en-service-maintenance-repair",
+        "en-service-retrofit-accessories",
+        "en-service-technical-safety-services",
+        "en-solutions-energy-systems",
+        "en-solutions-financing",
+        "en-solutions-fleet-management",
+        "en-solutions-intralogistics-automation",
+        "en-solutions-warehouse-safety"
+      ],
+      "pageCount": 32,
+      "blocks": [
+        "breadcrumb",
+        "columns",
+        "hero",
+        "media-browser",
+        "related-teasers",
+        "teaser-carousel"
+      ],
+      "delivery": {
+        "verified": 32,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "en-legal-notes-privacy-statement",
+      "representativeSlug": "en-legal-notes-privacy-statement",
+      "pages": [
+        "en-edi",
+        "en-landingpage-semi-automated-order-pickers",
+        "en-legal-notes-cookie-policy",
+        "en-legal-notes-legal",
+        "en-legal-notes-ppap",
+        "en-legal-notes-privacy-statement",
+        "en-legal-notes-terms-of-use"
+      ],
+      "pageCount": 7,
+      "blocks": [
+        "breadcrumb"
+      ],
+      "delivery": {
+        "verified": 7,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "en-productfinder-html",
+      "representativeSlug": "en-productfinder-html",
+      "pages": [
+        "en-productfinder-html"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "breadcrumb",
+        "product-finder"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "en-products-e-trucks",
+      "representativeSlug": "en-products-e-trucks",
+      "pages": [
+        "en-about-us-awards",
+        "en-about-us-certificates",
+        "en-about-us-sustainability",
+        "en-linde-core-linde-ergonomics-html",
+        "en-linde-core-linde-productivity-html",
+        "en-products-approved-trucks",
+        "en-products-diesel-forklifts-d344",
+        "en-products-e-trucks",
+        "en-products-explosion-proof-trucks",
+        "en-products-forklift-hire",
+        "en-products-forklift-truck",
+        "en-products-ic-trucks",
+        "en-products-order-pickers",
+        "en-products-pallet-trucks",
+        "en-products-reach-trucks",
+        "en-products-tow-trucks",
+        "en-products-very-narrow-aisle-trucks",
+        "en-service-training"
+      ],
+      "pageCount": 18,
+      "blocks": [
+        "breadcrumb",
+        "columns",
+        "hero",
+        "related-teasers",
+        "teaser-carousel"
+      ],
+      "delivery": {
+        "verified": 18,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "en-technical-location-finder-html",
+      "representativeSlug": "en-technical-location-finder-html",
+      "pages": [
+        "en-technical-location-finder-html"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "breadcrumb",
+        "location-finder"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "en-technical-news-detail-101184-html",
+      "representativeSlug": "en-technical-news-detail-101184-html",
+      "pages": [
+        "en-technical-news-detail-101184-html",
+        "en-technical-news-detail-101442-html",
+        "en-technical-news-detail-101760-html",
+        "en-technical-news-detail-1033728-html",
+        "en-technical-news-detail-105280-html",
+        "en-technical-news-detail-108480-html",
+        "en-technical-news-detail-112000-html",
+        "en-technical-news-detail-114368-html",
+        "en-technical-news-detail-116352-html",
+        "en-technical-news-detail-118656-html",
+        "en-technical-news-detail-119232-html",
+        "en-technical-news-detail-1254145-html",
+        "en-technical-news-detail-1310802-html",
+        "en-technical-news-detail-132012-html",
+        "en-technical-news-detail-1436407-html",
+        "en-technical-news-detail-1445120-html",
+        "en-technical-news-detail-1710976-html",
+        "en-technical-news-detail-18902-html"
+      ],
+      "pageCount": 18,
+      "blocks": [
+        "breadcrumb",
+        "media-carousel",
+        "press-contact",
+        "share-bar"
+      ],
+      "delivery": {
+        "verified": 18,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "unique",
+      "representativeSlug": "en-products-productfinder",
+      "pages": [
+        "en-products-productfinder"
+      ],
+      "pageCount": 1,
+      "blocks": [],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    }
+  ]
+}

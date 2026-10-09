@@ -1,0 +1,452 @@
+{
+  "/en/about-us/awards": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:11:05.733Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/certificates": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:11:05.733Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/company": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:11:11.209Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/sustainability": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:11:12.360Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/about-us/working-at-linde": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:11:17.560Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/agility-on-point": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:11:17.764Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/automation-summit-2025": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:11:22.959Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/compact-class-with-electric-drive": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:11:23.147Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/e-models": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:11:28.250Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/glasses": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:11:29.725Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/gse-expo": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:11:33.500Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/h-models": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:11:34.172Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/happy-driver": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:14:08.315Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/in-sync": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:26:50.654Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/logimat": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:11:45.297Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/next-champ": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:11:47.132Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/platform-counterbalanced-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:11:50.392Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/r-matic": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:11:52.133Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/safely-to-the-top": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:11:57.073Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/x-models": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:11:57.110Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/x-range": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:01.500Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/linde-core/linde-ergonomics": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:02.443Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/linde-core/linde-productivity": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:06.527Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/approved-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:08.501Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/diesel-forklifts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:38:28.117Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/e-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:14.657Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/explosion-proof-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:17.417Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/forklift-hire": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:19.202Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/forklift-truck": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:22.464Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/gas-forklifts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:24.833Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/hand-pallet-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:28.138Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/heavy-duty-forklifts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:30.685Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/ic-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:32.525Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/order-pickers": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:36.715Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/pallet-stackers": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:36.969Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/pallet-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:41.870Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/reach-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:43.196Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/tow-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:46.467Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/tugger-trains": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:48.285Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/very-narrow-aisle-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:50.833Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/genuine-spare-parts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:54.062Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/maintenance-repair": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:55.605Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/retrofit-accessories": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:12:59.357Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/technical-safety-services": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:13:00.282Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/service/training": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:13:04.031Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/energy-systems": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:13:05.159Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/financing": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:13:08.566Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/fleet-management": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:13:10.445Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/intralogistics-automation": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:13:13.273Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/warehouse-safety": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T10:13:15.073Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

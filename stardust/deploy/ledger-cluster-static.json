@@ -1,0 +1,56 @@
+{
+  "/en/edi": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T21:23:23.790Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/semi-automated-order-pickers": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:14:37.340Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/legal-notes/cookie-policy": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:41:33.477Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/legal-notes/legal": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:41:38.745Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/legal-notes/ppap": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:41:38.894Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/legal-notes/terms-of-use": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-06T20:41:43.316Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

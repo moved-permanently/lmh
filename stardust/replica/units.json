@@ -1,0 +1,156 @@
+{
+  "press-contact": {
+    "origin": ".layout-25--fixed .teaser--card",
+    "build": ".layout-25--fixed .teaser--card, .press-contact .press-contact-card",
+    "n": 1,
+    "required": true,
+    "pages": [
+      "en-technical-news-detail-101184-html"
+    ],
+    "templates": [
+      "article"
+    ],
+    "note": "build: prototype card OR the delivered EDS block card (C-deliver archetype-article, 2026-10-06)"
+  },
+  "news-card": {
+    "origin": ".layout--teaser .ld-layout-teaser__wrapper .teaser--card",
+    "build": ".layout--teaser .ld-layout-teaser__wrapper .teaser--card, .news-cards .news-cards-item .news-card",
+    "n": 4,
+    "required": true,
+    "pages": [
+      "en-about-us-press",
+      "en"
+    ],
+    "templates": [
+      "listing",
+      "home"
+    ],
+    "note": "build: prototype classes OR the delivered block DOM (teaser-carousel / related-teasers / news-cards items) — the roster re-gate 2026-10-07 read 0 served matches on the block pages"
+  },
+  "related-teaser": {
+    "origin": ".layout-teasercarousel--fixed .slick-slide .teaser",
+    "build": ".layout-teasercarousel--fixed .slick-slide .teaser, .teaser-carousel .teaser-carousel-item .teaser",
+    "n": 12,
+    "visible": {
+      "360": 1,
+      "1440": 4
+    },
+    "required": true,
+    "pages": [
+      "en-products-e-trucks",
+      "en"
+    ],
+    "templates": [
+      "program",
+      "home"
+    ],
+    "note": "plain (non-card) teaser on the dark related-content carousel; initial slick state, no clones | build: prototype classes OR the delivered block DOM (teaser-carousel / related-teasers / news-cards items) — the roster re-gate 2026-10-07 read 0 served matches on the block pages"
+  },
+  "content-browser-item": {
+    "origin": ".content-browser__list li",
+    "build": ".content-browser__list li, .media-browser.content .media-browser-list li",
+    "n": 5,
+    "required": true,
+    "pages": [
+      "en-products-e-trucks"
+    ],
+    "templates": [
+      "program"
+    ],
+    "note": "build: prototype list OR the delivered media-browser (content) block list (blocks/media-browser: ul.media-browser-list > li > a.media-browser-tab) — added 2026-10-07 session 7 after the 1440 probe read \"no visible unit on the served side\" on e-trucks"
+  },
+  "landing-teaser": {
+    "origin": ".layout-33--fixed.layout--teaser .ld-layout-teaser__wrapper .teaser",
+    "build": ".layout-33--fixed.layout--teaser .ld-layout-teaser__wrapper .teaser, .related-teasers:not(.icons) .related-teasers-item .teaser",
+    "n": 3,
+    "required": true,
+    "pages": [
+      "en-landingpage-e-models"
+    ],
+    "templates": [
+      "landing"
+    ],
+    "note": "light image teaser (16:9 bordered image, h3 textlink, text, more-link); v2 clean markup, equal-height row (flex 1 0 auto) | build: prototype classes OR the delivered block DOM (teaser-carousel / related-teasers / news-cards items) — the roster re-gate 2026-10-07 read 0 served matches on the block pages"
+  },
+  "icon-text-teaser": {
+    "origin": ".layout--teaser .ld-layout-teaser__wrapper .teaser--icon-text",
+    "build": ".layout--teaser .ld-layout-teaser__wrapper .teaser--icon-text, .related-teasers.icons .teaser-icon-text",
+    "n": 5,
+    "required": true,
+    "pages": [
+      "en-landingpage-e-models"
+    ],
+    "templates": [
+      "landing"
+    ],
+    "note": "lightgrey icon box: 80px glyph, h3 .95rem, p; 33-row ×3 + 50-row ×2 | build: prototype classes OR the delivered block DOM (teaser-carousel / related-teasers / news-cards items) — the roster re-gate 2026-10-07 read 0 served matches on the block pages"
+  },
+  "related-dark-teaser": {
+    "origin": ".related-content .layout-teasercarousel--fixed .slick-slide .teaser",
+    "build": ".related-content .layout-teasercarousel--fixed .slick-slide .teaser, .teaser-carousel .teaser-carousel-item .teaser",
+    "n": 12,
+    "required": true,
+    "pages": [
+      "en-landingpage-e-models"
+    ],
+    "templates": [
+      "landing"
+    ],
+    "visible": {
+      "360": 1,
+      "1440": 4
+    },
+    "note": "canon related-teasers module; initial slick state, no clones (v2) | build: prototype classes OR the delivered block DOM (teaser-carousel / related-teasers / news-cards items) — the roster re-gate 2026-10-07 read 0 served matches on the block pages"
+  },
+  "form-item": {
+    "origin": ".form-section .form-item",
+    "build": ".form-section .form-item",
+    "n": 22,
+    "required": true,
+    "pages": [
+      "en-forms-global-contact-form"
+    ],
+    "templates": [
+      "form"
+    ],
+    "note": "MWF form rows: 17 visible fields (4 dropdown toggles, 1 textarea, 9 text inputs, 1 native country select, 1 consent radio) + *Mandatory field + 3 hidden-input items; row 48px, textarea 105px, measured live 1440/360 (form-measure-live.log)"
+  },
+  "icon-cta": {
+    "origin": ".layout-cta .ld-layout-teaser__wrapper a.teaser--icon",
+    "build": ".layout-cta .ld-layout-teaser__wrapper a.teaser--icon",
+    "n": 4,
+    "required": true,
+    "pages": [
+      "en"
+    ],
+    "templates": [
+      "home"
+    ]
+  },
+  "result-card": {
+    "origin": ".productfinder__products-container .product-tile",
+    "build": ".productfinder__products-container .product-tile",
+    "n": 12,
+    "required": true,
+    "pages": [
+      "en-productfinder-html",
+      "en-products-productfinder"
+    ],
+    "templates": [
+      "productfinder"
+    ]
+  },
+  "dealer-card": {
+    "origin": "lmh-dealer-locator >>> .bg-white.border-b.m-4.ml-0 (shadow DOM; not reachable by light-DOM selectors)",
+    "build": ".location-finder__list .dealer-card",
+    "n": 5,
+    "required": false,
+    "pages": [
+      "en-technical-location-finder-html"
+    ],
+    "templates": [
+      "locationfinder"
+    ],
+    "note": "live renders 103 entries in a 450px scroll region; build authors the first 5 captured entries"
+  }
+}

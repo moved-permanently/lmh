@@ -1,0 +1,1408 @@
+{
+  "discovery": {
+    "fetchTechnique": "headless",
+    "count": 100,
+    "concurrency": 3
+  },
+  "consent": {
+    "method": "auto"
+  },
+  "favicon": {
+    "url": "https://www.linde-mh.com/en/layoutmedia/Favicon/lmh-favicon-96x96.png?v=6234005",
+    "file": "assets/favicon.jpg"
+  },
+  "crawl": {
+    "failures": [
+      {
+        "url": "https://www.linde-mh.com/en/Product-Finder/",
+        "slug": "en-product-finder",
+        "errorClass": "HTTPError",
+        "message": "HTTP 404",
+        "at": "2026-10-06T11:17:11.683Z"
+      }
+    ]
+  },
+  "captureGaps": {
+    "roots": [
+      {
+        "root": "/en",
+        "slug": "en",
+        "linked": 87,
+        "uncaptured": [
+          "/en/About-us/Innovations-from-Linde/Fuel-Cells.html",
+          "/en/About-us/Innovations-from-Linde/Lithium-Ionen.html",
+          "/en/About-us/Working-at-Linde/Apprentice",
+          "/en/About-us/Working-at-Linde/Professionals",
+          "/en/About-us/Working-at-Linde/Students-Scholars",
+          "/en/Search",
+          "/en/Solutions/Consulting/Fleet-Optimization.html",
+          "/en/Solutions/Consulting/Material-Flow-Consulting",
+          "/en/Solutions/Energy-Systems/Energy-consulting",
+          "/en/Solutions/Industries/3PL",
+          "/en/Solutions/Industries/beverage-industry",
+          "/en/Solutions/Intralogistics-Automation/Automated-Warehouse",
+          "/en/Solutions/Intralogistics-Automation/Automated-guided-vehicle",
+          "/en/Solutions/Intralogistics-Automation/Autonomous-mobile-robots",
+          "/en/Solutions/Intralogistics-Automation/S-MATIC-cube",
+          "/en/Solutions/Intralogistics-Automation/Software",
+          "/en/Solutions/Intralogistics-Automation/User-cases-intralogistics",
+          "/en/Solutions/Intralogistics-Automation/Warehouse-Management-System",
+          "/en/Solutions/Warehouse-Safety/Assistance-systems",
+          "/en/Solutions/Warehouse-Safety/Light-and-warning-systems",
+          "/en/Solutions/Warehouse-Safety/Safety-consulting",
+          "/en/index.html",
+          "/en/technical/News-Detail_5350720.html",
+          "/en/technical/News-Detail_5355776.html",
+          "/en/technical/News-Detail_5356032.html",
+          "/en/technical/News-Detail_5356992.html",
+          "/en/technical/News-Detail_5359296.html",
+          "/en/technical/News-Detail_5360704.html",
+          "/en/technical/News-Detail_5362688.html",
+          "/en/technical/News-Detail_5364992.html",
+          "/en/technical/News-Detail_5370752.html",
+          "/en/technical/News-Detail_5376128.html"
+        ]
+      },
+      {
+        "root": "/en/EDI",
+        "slug": "en-edi",
+        "linked": 1,
+        "uncaptured": [
+          "/en/EDI/index.html"
+        ]
+      }
+    ],
+    "detail": "uncaptured first-level targets: en 32, en/EDI 1"
+  },
+  "dynamicSurface": {
+    "pages": 99,
+    "pagesWithSameSiteData": 11,
+    "pagesWithSearchForm": 0,
+    "pagesHydrated": 0,
+    "truncatedPages": 0,
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "epcloud.ccm19.de",
+        "path": "/consent/ccm19/public/widget",
+        "query": [
+          "apiKey",
+          "domain",
+          "gen",
+          "lang",
+          "theme",
+          "v"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/x-html-fragment",
+        "sameSite": false,
+        "example": "https://epcloud.ccm19.de/consent/ccm19/public/widget",
+        "pages": 99,
+        "examples": [
+          "en-edi",
+          "en-about-us",
+          "en"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.google-analytics.com",
+        "path": "/g/collect",
+        "query": [
+          "_fv",
+          "_nsi",
+          "_p",
+          "_s",
+          "_ss",
+          "cid",
+          "dl",
+          "dma",
+          "dp",
+          "dt",
+          "en",
+          "ep.allowLinker",
+          "ep.customTask",
+          "frm",
+          "gcd",
+          "gcs",
+          "gtm",
+          "ngs",
+          "npa",
+          "pscdl",
+          "rcb",
+          "sct",
+          "seg",
+          "sid",
+          "sr",
+          "tag_exp",
+          "tfd",
+          "tid",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "ul",
+          "v"
+        ],
+        "resourceType": "fetch",
+        "contentType": "text/plain",
+        "sameSite": false,
+        "example": "https://www.google-analytics.com/g/collect",
+        "pages": 99,
+        "examples": [
+          "en-edi",
+          "en-about-us",
+          "en"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "px.ads.linkedin.com",
+        "path": "/wa/",
+        "query": [
+          "fmt",
+          "medium"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://px.ads.linkedin.com/wa/",
+        "pages": 99,
+        "examples": [
+          "en-edi",
+          "en-about-us",
+          "en"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.etracker.de",
+        "path": "/api/v6/tracking/webEvents",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://www.etracker.de/api/v6/tracking/webEvents",
+        "pages": 50,
+        "examples": [
+          "en-about-us",
+          "en-service",
+          "en-about-us-magazine"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "epcloud.ccm19.de",
+        "path": "/consent/ccm19/public/cron",
+        "query": [
+          "apiKey",
+          "domain",
+          "gen",
+          "theme"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://epcloud.ccm19.de/consent/ccm19/public/cron",
+        "pages": 39,
+        "examples": [
+          "en-products",
+          "en-service",
+          "en-about-us-awards"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "b.clarity.ms",
+        "path": "/collect",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://b.clarity.ms/collect",
+        "pages": 33,
+        "examples": [
+          "en-edi",
+          "en-service",
+          "en-about-us-company"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "t.clarity.ms",
+        "path": "/collect",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://t.clarity.ms/collect",
+        "pages": 33,
+        "examples": [
+          "en-about-us",
+          "en-productfinder-html",
+          "en-about-us-awards"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "g.clarity.ms",
+        "path": "/collect",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://g.clarity.ms/collect",
+        "pages": 33,
+        "examples": [
+          "en",
+          "en-products",
+          "en-about-us-certificates"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "epcloud.ccm19.de",
+        "path": "/consent/ccm19/public/page_check/report",
+        "query": [
+          "apiKey",
+          "domain",
+          "gen",
+          "theme"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://epcloud.ccm19.de/consent/ccm19/public/page_check/report",
+        "pages": 24,
+        "examples": [
+          "en-edi",
+          "en-about-us",
+          "en-productfinder-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.linde-mh.com",
+        "path": "/mwf_live/servlet/form",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/html",
+        "sameSite": true,
+        "example": "https://www.linde-mh.com/mwf_live/servlet/form",
+        "pages": 8,
+        "examples": [
+          "en-forms-gc-li-ion-recycling",
+          "en-forms-gc-next-champ-form",
+          "en-forms-agility-on-point-form"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.linde-mh.com",
+        "path": "/mwf_live/servlet/rest",
+        "query": [
+          "_input",
+          "_mwfToken:EN913763",
+          "_service",
+          "_uid"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.linde-mh.com/mwf_live/servlet/rest",
+        "pages": 6,
+        "examples": [
+          "en-forms-gc-next-champ-form",
+          "en-forms-agility-on-point-form",
+          "en-forms-automation-campaign"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "epcloud.ccm19.de",
+        "path": "/consent/ccm19/public/statistics/consent",
+        "query": [
+          "apiKey",
+          "domain",
+          "gen",
+          "theme"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://epcloud.ccm19.de/consent/ccm19/public/statistics/consent",
+        "pages": 3,
+        "examples": [
+          "en-edi",
+          "en-about-us",
+          "en"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.linde-mh.com",
+        "path": "/lmhnewproductsearch_cloud/execute",
+        "query": [
+          "capacityPoints",
+          "fl",
+          "fq",
+          "query",
+          "rows",
+          "sortBy",
+          "sortOrder",
+          "ts",
+          "wt"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.linde-mh.com/lmhnewproductsearch_cloud/execute",
+        "pages": 2,
+        "examples": [
+          "en-productfinder-html",
+          "en-products-productfinder"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.linde-mh.com",
+        "path": "/en/layoutmedia/layout/hbs/productfinder-producttile.hbs",
+        "query": [
+          "v"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "sameSite": true,
+        "example": "https://www.linde-mh.com/en/layoutmedia/layout/hbs/productfinder-producttile.hbs",
+        "pages": 2,
+        "examples": [
+          "en-productfinder-html",
+          "en-products-productfinder"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "epcloud.ccm19.de",
+        "path": "/consent/ccm19/public/cookie-declaration",
+        "query": [
+          "apiKey",
+          "domain",
+          "gen",
+          "lang",
+          "theme"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/x-html-fragment",
+        "sameSite": false,
+        "example": "https://epcloud.ccm19.de/consent/ccm19/public/cookie-declaration",
+        "pages": 1,
+        "examples": [
+          "en-legal-notes-cookie-policy"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "maps.googleapis.com",
+        "path": "/maps/api/mapsjs/gen_204",
+        "query": [
+          "csp_test"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://maps.googleapis.com/maps/api/mapsjs/gen_204",
+        "pages": 1,
+        "examples": [
+          "en-technical-location-finder-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "maps.googleapis.com",
+        "path": "/maps/api/mapsjs/mapConfigs:batchGet",
+        "query": [
+          "alt",
+          "language",
+          "major_version",
+          "map_ids",
+          "map_type",
+          "minor_version",
+          "region"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json+protobuf",
+        "sameSite": false,
+        "example": "https://maps.googleapis.com/maps/api/mapsjs/mapConfigs:batchGet",
+        "pages": 1,
+        "examples": [
+          "en-technical-location-finder-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "maps.googleapis.com",
+        "path": "/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json+protobuf",
+        "sameSite": false,
+        "example": "https://maps.googleapis.com/$rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService/GetViewportInfo",
+        "pages": 1,
+        "examples": [
+          "en-technical-location-finder-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "mapsresources-pa.googleapis.com",
+        "path": "/v1/featureMaps",
+        "query": [
+          "map_id",
+          "pb",
+          "version"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://mapsresources-pa.googleapis.com/v1/featureMaps",
+        "pages": 1,
+        "examples": [
+          "en-technical-location-finder-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.linde-mh.com",
+        "path": "/en/technical/Dealer-finder-app/Dealer-Finder-App-Data.json",
+        "query": [
+          "rev"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.linde-mh.com/en/technical/Dealer-finder-app/Dealer-Finder-App-Data.json",
+        "pages": 1,
+        "examples": [
+          "en-technical-location-finder-html"
+        ]
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "www.googletagmanager.com",
+        "pages": 99,
+        "examples": [
+          "en-edi",
+          "en-about-us",
+          "en"
+        ]
+      },
+      {
+        "host": "snap.licdn.com",
+        "pages": 99,
+        "examples": [
+          "en-edi",
+          "en-about-us",
+          "en"
+        ]
+      },
+      {
+        "host": "connect.facebook.net",
+        "pages": 99,
+        "examples": [
+          "en-edi",
+          "en-about-us",
+          "en"
+        ]
+      },
+      {
+        "host": "epcdn.ccm19.de",
+        "pages": 99,
+        "examples": [
+          "en-edi",
+          "en-about-us",
+          "en"
+        ]
+      },
+      {
+        "host": "static.etracker.com",
+        "pages": 99,
+        "examples": [
+          "en-edi",
+          "en-about-us",
+          "en"
+        ]
+      },
+      {
+        "host": "epcloud.ccm19.de",
+        "pages": 99,
+        "examples": [
+          "en-edi",
+          "en-about-us",
+          "en"
+        ]
+      },
+      {
+        "host": "code.etracker.com",
+        "pages": 99,
+        "examples": [
+          "en-edi",
+          "en-about-us",
+          "en"
+        ]
+      },
+      {
+        "host": "www.clarity.ms",
+        "pages": 99,
+        "examples": [
+          "en-edi",
+          "en-about-us",
+          "en"
+        ]
+      },
+      {
+        "host": "scripts.clarity.ms",
+        "pages": 99,
+        "examples": [
+          "en-edi",
+          "en-about-us",
+          "en"
+        ]
+      },
+      {
+        "host": "www.etracker.de",
+        "pages": 99,
+        "examples": [
+          "en-edi",
+          "en-about-us",
+          "en"
+        ]
+      },
+      {
+        "host": "maps.googleapis.com",
+        "pages": 1,
+        "examples": [
+          "en-technical-location-finder-html"
+        ]
+      }
+    ],
+    "frameworkHints": [],
+    "globalState": [
+      {
+        "name": "dataLayer",
+        "pages": 99,
+        "examples": [
+          "en-edi",
+          "en-about-us",
+          "en"
+        ]
+      }
+    ],
+    "formTargets": [
+      {
+        "action": "https://www.linde-mh.com/en/Forms-GC/Li-ION-Recycling/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "Anzahl",
+          "Zustand",
+          "serialnumber",
+          "voltage",
+          "capacity",
+          "energy",
+          "weight",
+          "manufacturingdate"
+        ],
+        "pages": 1,
+        "examples": [
+          "en-forms-gc-li-ion-recycling"
+        ]
+      },
+      {
+        "action": "https://www.linde-mh.com/en/Forms-GC/Next-Champ-Form/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "message",
+          "title",
+          "name",
+          "surname",
+          "company",
+          "street",
+          "no",
+          "zipcode",
+          "city",
+          "phone",
+          "email",
+          "countryGlobal"
+        ],
+        "pages": 1,
+        "examples": [
+          "en-forms-gc-next-champ-form"
+        ]
+      },
+      {
+        "action": "https://www.linde-mh.com/en/Forms/agility-on-point-form/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "title",
+          "name",
+          "surname",
+          "company",
+          "street",
+          "no",
+          "zipcode",
+          "city",
+          "phone",
+          "email",
+          "countryGlobal",
+          "message"
+        ],
+        "pages": 1,
+        "examples": [
+          "en-forms-agility-on-point-form"
+        ]
+      },
+      {
+        "action": "https://www.linde-mh.com/en/Forms/Automation-Campaign/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "title",
+          "name",
+          "surname",
+          "company",
+          "street",
+          "no",
+          "zipcode",
+          "city",
+          "phone",
+          "email",
+          "countryGlobal",
+          "message"
+        ],
+        "pages": 1,
+        "examples": [
+          "en-forms-automation-campaign"
+        ]
+      },
+      {
+        "action": "https://www.linde-mh.com/en/Forms/Ex-Proof_Form/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "atexbereich",
+          "atexzone",
+          "fahrzeuge",
+          "yourcomment",
+          "anrede",
+          "name",
+          "surname",
+          "company",
+          "zipcode",
+          "city",
+          "countryGlobal",
+          "phone"
+        ],
+        "pages": 1,
+        "examples": [
+          "en-forms-ex-proof-form"
+        ]
+      },
+      {
+        "action": "https://www.linde-mh.com/en/Forms/Global-Contact-Form/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "subject_list_first_level",
+          "product_detail",
+          "service_detail",
+          "solutions_detail",
+          "message",
+          "title",
+          "name",
+          "surname",
+          "company",
+          "street",
+          "nr",
+          "zipcode"
+        ],
+        "pages": 1,
+        "examples": [
+          "en-forms-global-contact-form"
+        ]
+      },
+      {
+        "action": "https://www.linde-mh.com/en/Forms/GSE-Expo/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "Free_Ticket",
+          "Schedule",
+          "Firstname",
+          "Lastname",
+          "Position",
+          "Email",
+          "Company",
+          "Country",
+          "Consent"
+        ],
+        "pages": 1,
+        "examples": [
+          "en-forms-gse-expo"
+        ]
+      },
+      {
+        "action": "https://www.linde-mh.com/en/Forms/Rent-A-Truck/",
+        "method": "post",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "remarks",
+          "title",
+          "name",
+          "surname",
+          "email",
+          "phone",
+          "company",
+          "street",
+          "num",
+          "zipcode",
+          "city",
+          "countryGlobal"
+        ],
+        "pages": 1,
+        "examples": [
+          "en-forms-rent-a-truck"
+        ]
+      }
+    ]
+  },
+  "visionCheck": [
+    {
+      "slug": "en",
+      "verdict": "ok",
+      "templateLabel": "home",
+      "notes": "hero carousel, card grids, press teasers; logo and imagery present"
+    },
+    {
+      "slug": "en-about-us",
+      "verdict": "ok",
+      "templateLabel": "overview-grid",
+      "notes": "hero plus eight topic cards with photos"
+    },
+    {
+      "slug": "en-about-us-awards",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "long awards page, logos/photos present, sticky sub-nav"
+    },
+    {
+      "slug": "en-about-us-certificates",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "hero plus ISO sections with red download buttons"
+    },
+    {
+      "slug": "en-about-us-company",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "hero, stats, management portraits, history accordion"
+    },
+    {
+      "slug": "en-about-us-events",
+      "verdict": "ok",
+      "templateLabel": "listing",
+      "notes": "upcoming-events list plus past-event cards and gallery"
+    },
+    {
+      "slug": "en-about-us-innovations-from-linde",
+      "verdict": "ok",
+      "templateLabel": "overview-grid",
+      "notes": "hero plus many innovation card rows"
+    },
+    {
+      "slug": "en-about-us-magazine",
+      "verdict": "ok",
+      "templateLabel": "listing",
+      "notes": "very long card grid of case studies, interviews, portraits"
+    },
+    {
+      "slug": "en-about-us-media",
+      "verdict": "ok",
+      "templateLabel": "listing",
+      "notes": "record imgs[] is the visible/large subset; media.allImgCount=161 confirms the download gallery",
+      "recaptured": true
+    },
+    {
+      "slug": "en-about-us-press",
+      "verdict": "ok",
+      "templateLabel": "listing",
+      "notes": "filter plus long press-release card grid, logo present"
+    },
+    {
+      "slug": "en-about-us-sustainability",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "rendered; one empty grey block near bottom"
+    },
+    {
+      "slug": "en-about-us-working-at-linde",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "careers sections, photos, portraits carousel"
+    },
+    {
+      "slug": "en-edi",
+      "verdict": "ok",
+      "templateLabel": "legal-text",
+      "notes": "plain text page with contacts and download button"
+    },
+    {
+      "slug": "en-forms-agility-on-point-form",
+      "verdict": "ok",
+      "templateLabel": "form",
+      "notes": "test-drive request form, header and footer intact"
+    },
+    {
+      "slug": "en-forms-automation-campaign",
+      "verdict": "ok",
+      "templateLabel": "form",
+      "notes": "automation request form"
+    },
+    {
+      "slug": "en-forms-ex-proof-form",
+      "verdict": "ok",
+      "templateLabel": "form",
+      "notes": "ATEX zone question plus contact fields"
+    },
+    {
+      "slug": "en-forms-gc-li-ion-recycling",
+      "verdict": "ok",
+      "templateLabel": "form",
+      "notes": "battery data form with Next button"
+    },
+    {
+      "slug": "en-forms-gc-next-champ-form",
+      "verdict": "ok",
+      "templateLabel": "form",
+      "notes": "Next Champ request form"
+    },
+    {
+      "slug": "en-forms-global-contact-form",
+      "verdict": "ok",
+      "templateLabel": "form",
+      "notes": "subject select plus contact fields"
+    },
+    {
+      "slug": "en-forms-gse-expo",
+      "verdict": "ok",
+      "templateLabel": "form",
+      "notes": "ticket/appointment checkboxes plus contact fields"
+    },
+    {
+      "slug": "en-forms-rent-a-truck",
+      "verdict": "ok",
+      "templateLabel": "form",
+      "notes": "rental enquiry form"
+    },
+    {
+      "slug": "en-landingpage-agility-on-point",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "hero and video; features section blank (lazy)"
+    },
+    {
+      "slug": "en-landingpage-automation-summit-2025",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "gallery, agenda, speakers; highlights block empty"
+    },
+    {
+      "slug": "en-landingpage-compact-class-with-electric-drive",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "model sections with truck imagery, benefits, cards"
+    },
+    {
+      "slug": "en-landingpage-e-models",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "hero, truck images, benefits, testimonials"
+    },
+    {
+      "slug": "en-landingpage-glasses",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "glasses hero, order-picker lineup, icon benefits"
+    },
+    {
+      "slug": "en-landingpage-gse-expo",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "hero, visit info; highlights section mostly blank"
+    },
+    {
+      "slug": "en-landingpage-h-models",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "diesel truck imagery, video, benefits, testimonials"
+    },
+    {
+      "slug": "en-landingpage-happy-driver",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "hero and video; several sections blank (scroll-reveal)"
+    },
+    {
+      "slug": "en-landingpage-in-sync",
+      "verdict": "suspect",
+      "templateLabel": "campaign-landing",
+      "notes": "scroll-reveal (AOS) sections blank in the full-page screenshot after a slow-wait recapture; DOM content captured — gate uses per-viewport stitched captures",
+      "recaptured": true
+    },
+    {
+      "slug": "en-landingpage-logimat",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "booth gallery, automation cards, truck highlights"
+    },
+    {
+      "slug": "en-landingpage-next-champ",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "hero, video, cards; large blank animation gap mid-page"
+    },
+    {
+      "slug": "en-landingpage-platform-counterbalanced-trucks",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "hero, model cards, benefits, related cards"
+    },
+    {
+      "slug": "en-landingpage-r-matic",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "reach-truck imagery, benefits; one blank gap"
+    },
+    {
+      "slug": "en-landingpage-safely-to-the-top",
+      "verdict": "suspect",
+      "templateLabel": "campaign-landing",
+      "notes": "scroll-reveal (AOS) sections blank after slow-wait recapture; DOM content captured",
+      "recaptured": true
+    },
+    {
+      "slug": "en-landingpage-semi-automated-order-pickers",
+      "verdict": "ok",
+      "templateLabel": "other",
+      "notes": "retired-product notice is the page's real captured state; replicate as captured",
+      "recaptured": true
+    },
+    {
+      "slug": "en-landingpage-x-models",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "hero, X-treme Power video, benefits, testimonials"
+    },
+    {
+      "slug": "en-landingpage-x-range",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "reach-truck sections with images and accordions"
+    },
+    {
+      "slug": "en-legal-notes-cookie-policy",
+      "verdict": "ok",
+      "templateLabel": "legal-text",
+      "notes": "long cookie tables, header present, no h1"
+    },
+    {
+      "slug": "en-legal-notes-legal",
+      "verdict": "ok",
+      "templateLabel": "legal-text",
+      "notes": "short imprint text"
+    },
+    {
+      "slug": "en-legal-notes-ppap",
+      "verdict": "ok",
+      "templateLabel": "legal-text",
+      "notes": "short PPAP text with link"
+    },
+    {
+      "slug": "en-legal-notes-privacy-statement",
+      "verdict": "ok",
+      "templateLabel": "legal-text",
+      "notes": "long privacy text, three h2 sections"
+    },
+    {
+      "slug": "en-legal-notes-terms-of-use",
+      "verdict": "ok",
+      "templateLabel": "legal-text",
+      "notes": "short terms text"
+    },
+    {
+      "slug": "en-linde-core-linde-ergonomics-html",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "cab images, accordions; advantages section blank"
+    },
+    {
+      "slug": "en-linde-core-linde-productivity-html",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "text with inline photos, related cards"
+    },
+    {
+      "slug": "en-productfinder-html",
+      "verdict": "ok",
+      "templateLabel": "app-shell",
+      "notes": "JS-rendered product cards; media.allImgCount=15 confirms the card images",
+      "recaptured": true
+    },
+    {
+      "slug": "en-products",
+      "verdict": "ok",
+      "templateLabel": "overview-grid",
+      "notes": "hero plus product-category card grid"
+    },
+    {
+      "slug": "en-products-approved-trucks",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "used-truck sections, package accordion, benefit tiles"
+    },
+    {
+      "slug": "en-products-automated-trucks",
+      "verdict": "ok",
+      "templateLabel": "overview-grid",
+      "notes": "hero plus MATIC product card grid"
+    },
+    {
+      "slug": "en-products-diesel-forklifts",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "model cards, features, FAQ, success stories"
+    },
+    {
+      "slug": "en-products-diesel-forklifts-d344",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "identical render to diesel-forklifts (URL variant)"
+    },
+    {
+      "slug": "en-products-e-trucks",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "hero, axle image, features, related cards"
+    },
+    {
+      "slug": "en-products-explosion-proof-trucks",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "ATEX imagery, industries accordion, FAQ"
+    },
+    {
+      "slug": "en-products-forklift-hire",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "hire benefits, truck-type grid, contact CTA"
+    },
+    {
+      "slug": "en-products-forklift-truck",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "capacity-class card rows; two sections blank"
+    },
+    {
+      "slug": "en-products-gas-forklifts",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "Hero, sub-nav, model cards, FAQ; logo top-left; headings match"
+    },
+    {
+      "slug": "en-products-hand-pallet-trucks",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "Hero, M25/M10 model cards, alternating sections match record"
+    },
+    {
+      "slug": "en-products-heavy-duty-forklifts",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "Hero, model cards, features, FAQ; imagery present"
+    },
+    {
+      "slug": "en-products-ic-trucks",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "Hero plus alternating text/image sections; headings match"
+    },
+    {
+      "slug": "en-products-order-pickers",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "Hero, text/image modules, related cards; matches record"
+    },
+    {
+      "slug": "en-products-pallet-stackers",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "Long model grid, features, FAQ; headings match"
+    },
+    {
+      "slug": "en-products-pallet-trucks",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "Hero, text/image sections, two related cards"
+    },
+    {
+      "slug": "en-products-productfinder",
+      "verdict": "ok",
+      "templateLabel": "app-shell",
+      "notes": "Filter sidebar plus truck card grid rendered; logo visible"
+    },
+    {
+      "slug": "en-products-reach-trucks",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "Hero, assistance-system sections, imagery present"
+    },
+    {
+      "slug": "en-products-tow-trucks",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "Hero, text/image sections match headings"
+    },
+    {
+      "slug": "en-products-tugger-trains",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "Model cards, train types, FAQ; many images as recorded"
+    },
+    {
+      "slug": "en-products-very-narrow-aisle-trucks",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "Hero, text/image modules, related cards"
+    },
+    {
+      "slug": "en-service",
+      "verdict": "ok",
+      "templateLabel": "overview-grid",
+      "notes": "Hero plus five service cards; headings match"
+    },
+    {
+      "slug": "en-service-genuine-spare-parts",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "Hero, sub-nav, availability/distribution/quality sections"
+    },
+    {
+      "slug": "en-service-maintenance-repair",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "Hero, sub-nav, repair/servicing sections with imagery"
+    },
+    {
+      "slug": "en-service-retrofit-accessories",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "Hero, safety/efficiency/comfort sections; imagery present"
+    },
+    {
+      "slug": "en-service-technical-safety-services",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "Hero, check sections with images; headings match"
+    },
+    {
+      "slug": "en-service-training",
+      "verdict": "ok",
+      "templateLabel": "product-detail",
+      "notes": "Hero, training sections, related cards"
+    },
+    {
+      "slug": "en-solutions-consulting",
+      "verdict": "ok",
+      "templateLabel": "overview-grid",
+      "notes": "Hero plus three consulting cards; matches record"
+    },
+    {
+      "slug": "en-solutions-energy-systems",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "Hero, sub-nav, energy system cards, charge management"
+    },
+    {
+      "slug": "en-solutions-financing",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "Rendered; large plain red band below intro, rest matches"
+    },
+    {
+      "slug": "en-solutions-fleet-management",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "Rendered; one tall blank gap below hero image"
+    },
+    {
+      "slug": "en-solutions-intralogistics-automation",
+      "verdict": "ok",
+      "templateLabel": "campaign-landing",
+      "notes": "Very long page, all sections and imagery rendered"
+    },
+    {
+      "slug": "en-solutions-overview-html",
+      "verdict": "ok",
+      "templateLabel": "overview-grid",
+      "notes": "Hero plus four solution cards; headings match"
+    },
+    {
+      "slug": "en-solutions-warehouse-safety",
+      "verdict": "suspect",
+      "templateLabel": "campaign-landing",
+      "notes": "scroll-reveal (AOS) sections blank after slow-wait recapture; DOM content captured",
+      "recaptured": true
+    },
+    {
+      "slug": "en-technical-location-finder-html",
+      "verdict": "ok",
+      "templateLabel": "app-shell",
+      "notes": "Dealer list and Google map rendered; minimal headings expected"
+    },
+    {
+      "slug": "en-technical-news-detail-101184-html",
+      "verdict": "ok",
+      "templateLabel": "news-article",
+      "notes": "Award badge, truck image, headline, press contact"
+    },
+    {
+      "slug": "en-technical-news-detail-101442-html",
+      "verdict": "ok",
+      "templateLabel": "news-article",
+      "notes": "LogiMAT collage hero, headline, body images"
+    },
+    {
+      "slug": "en-technical-news-detail-101760-html",
+      "verdict": "ok",
+      "templateLabel": "news-article",
+      "notes": "Hero image, headline, body image, contact box"
+    },
+    {
+      "slug": "en-technical-news-detail-1033728-html",
+      "verdict": "ok",
+      "templateLabel": "news-article",
+      "notes": "Hero, body images, press contact; headline matches"
+    },
+    {
+      "slug": "en-technical-news-detail-105280-html",
+      "verdict": "ok",
+      "templateLabel": "news-article",
+      "notes": "Roadster hero, headline, body image, contact"
+    },
+    {
+      "slug": "en-technical-news-detail-108480-html",
+      "verdict": "ok",
+      "templateLabel": "news-article",
+      "notes": "Hero, headline, body image; matches record"
+    },
+    {
+      "slug": "en-technical-news-detail-112000-html",
+      "verdict": "ok",
+      "templateLabel": "news-article",
+      "notes": "Reach truck hero, headline, body image"
+    },
+    {
+      "slug": "en-technical-news-detail-114368-html",
+      "verdict": "ok",
+      "templateLabel": "news-article",
+      "notes": "Hero, headline, body image, contact box"
+    },
+    {
+      "slug": "en-technical-news-detail-116352-html",
+      "verdict": "ok",
+      "templateLabel": "news-article",
+      "notes": "Award photos, headline matches record"
+    },
+    {
+      "slug": "en-technical-news-detail-118656-html",
+      "verdict": "ok",
+      "templateLabel": "news-article",
+      "notes": "Hero, headline, body image, product banner, contact"
+    },
+    {
+      "slug": "en-technical-news-detail-119232-html",
+      "verdict": "ok",
+      "templateLabel": "news-article",
+      "notes": "EcoVadis certificate hero, headline, contact"
+    },
+    {
+      "slug": "en-technical-news-detail-1254145-html",
+      "verdict": "ok",
+      "templateLabel": "news-article",
+      "notes": "Award ceremony photos, headline matches"
+    },
+    {
+      "slug": "en-technical-news-detail-1310802-html",
+      "verdict": "ok",
+      "templateLabel": "news-article",
+      "notes": "Battery hero, headline, body image"
+    },
+    {
+      "slug": "en-technical-news-detail-132012-html",
+      "verdict": "ok",
+      "templateLabel": "news-article",
+      "notes": "Eazi Access logo/map, headline, contact box"
+    },
+    {
+      "slug": "en-technical-news-detail-1436407-html",
+      "verdict": "ok",
+      "templateLabel": "news-article",
+      "notes": "Safety vest hero and body images, headline matches"
+    },
+    {
+      "slug": "en-technical-news-detail-1445120-html",
+      "verdict": "ok",
+      "templateLabel": "news-article",
+      "notes": "Hero, headline, body images, contact box"
+    },
+    {
+      "slug": "en-technical-news-detail-1710976-html",
+      "verdict": "ok",
+      "templateLabel": "news-article",
+      "notes": "LogiMAT hero, headline, body image, contact"
+    },
+    {
+      "slug": "en-technical-news-detail-18902-html",
+      "verdict": "ok",
+      "templateLabel": "news-article",
+      "notes": "Ribbon-cutting hero, body images, video poster"
+    }
+  ],
+  "recapture": {
+    "at": "2026-10-06T11:59:49.046Z",
+    "wait": "slow",
+    "pages": [
+      "en-about-us-media",
+      "en-landingpage-in-sync",
+      "en-landingpage-safely-to-the-top",
+      "en-landingpage-semi-automated-order-pickers",
+      "en-productfinder-html",
+      "en-solutions-warehouse-safety"
+    ],
+    "reason": "vision check: blank scroll-reveal sections / under-read image counts"
+  }
+}

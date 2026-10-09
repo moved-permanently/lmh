@@ -1,0 +1,172 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:replica",
+    "phase": "handoff",
+    "contract": "handoff-contract.md § 1 row 9"
+  },
+  "units": {
+    "plan": {
+      "status": "done",
+      "kind": "plan",
+      "templates": [
+        "home",
+        "landing",
+        "program",
+        "article",
+        "listing",
+        "form",
+        "static",
+        "productfinder",
+        "locationfinder"
+      ],
+      "pages": 99,
+      "startedAt": "2026-10-06T16:00:31Z",
+      "endedAt": "2026-10-06T16:02:35Z",
+      "verdict": "plan: 99 in scope — Path A 9 archetypes rendered (rendered 9, unchanged 0, refused 0, passthrough 0); Path A′ 90 siblings (31 landing, 18 program, 17 article, 10 listing, 7 form, 6 static, 1 productfinder) render per template cluster after each archetype unit in C-deliver"
+    },
+    "render-landing-1": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "landing"
+      ],
+      "pages": 8,
+      "verdict": "rendered 8, unchanged 0, refused 0, passthrough 0 — generator stardust/.work/replica/gen-landing-sibling.mjs (cheerio port of landing-v2/build.mjs, + video template); variance 31/31 probed → variance-landing.json (style deltas budgeted as variants: 3/4-col related-teasers, cta stretch, media-browser content, hero banner, columns content); unexpressible shipped verbatim as default content: fact-counter, testimonial, accordion, image-clipper band, read-more, infobox-text; content-count: glasses 0 🔴, gse-expo 0 🔴, agility 0 🔴, working-at-linde 2 🔴/2 dev, automation-summit 1/1, company 5 🔴 (icon glyphs), h-models 12 🔴 (icon glyphs, deviation), compact-class 32 🔴 (slick dots / control glyph states / download glyph boxes, 3 deviations) — all residual 🔴 are icon-font glyphs the blocks render at the cluster stage",
+      "startedAt": "2026-10-06T19:57:45.150Z",
+      "endedAt": "2026-10-06T20:46:49.274Z"
+    },
+    "render-landing-2": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "landing"
+      ],
+      "pages": 8,
+      "verdict": "render-landing-2: rendered 8/8 landing siblings (happy-driver … x-models) at sibling tier via gen-landing-sibling.mjs; content-count uncovered 0 (icon-glyph reds → 6 icon-dropped deviations); variants 54 (25 distinct); generator now emits columns-nested media-carousel verbatim (5 pages re-rendered); no deploy (cluster-landing follows)",
+      "endedAt": "2026-10-06T21:31:47.396Z"
+    },
+    "render-landing-3": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "landing"
+      ],
+      "pages": 8,
+      "verdict": "render-landing-3: rendered 8/8 landing siblings (x-range, products gas/hand-pallet/heavy-duty/pallet-stackers/tugger-trains, service spare-parts/maintenance-repair) at sibling tier; content-count uncovered 0 (18 icon-glyph reds → 5 icon-dropped deviations); variants 57; generator unchanged; no deploy (cluster-landing follows)",
+      "endedAt": "2026-10-06T21:47:18.055Z"
+    },
+    "render-landing-4": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "landing"
+      ],
+      "pages": 7,
+      "verdict": "render-landing-4: rendered 7/7 landing siblings (service retrofit/technical-safety, solutions energy-systems/financing/fleet-management/intralogistics-automation/warehouse-safety) at sibling tier; content-count uncovered 0 (15 icon-glyph reds → 5 icon-dropped deviations); generator gained a verbatim .wizard branch (Energy Quick Check — cluster must choose its block); no deploy (cluster-landing-2 follows)",
+      "endedAt": "2026-10-06T21:49:17.879Z"
+    },
+    "render-program-1": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "program"
+      ],
+      "pages": 8,
+      "verdict": "render-program-1: rendered 8, unchanged 0, refused 1, passthrough 0 — awards, certificates, sustainability, linde-ergonomics, linde-productivity, approved-trucks, explosion-proof-trucks, forklift-hire at sibling tier (gen-landing-sibling --template program; variance-program.json 17 siblings, 161 findings budgeted as columns band/split, related-teasers teaser--card, media-browser variants); content-count 0 structural red after icon-dropped deviations; lint 0 P0; diesel-forklifts-d344 refused strict 8 (case-variant slug en-products-diesel-forklifts folds to the same path; one document + redirect per A-inventory) → render-program-2 renders it against a derived state",
+      "endedAt": "2026-10-06T23:27:21.970Z"
+    },
+    "render-program-2": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "program"
+      ],
+      "pages": 9,
+      "verdict": "render-program-2: rendered 9, unchanged 0, refused 0, passthrough 0 — forklift-truck, ic-trucks, order-pickers, pallet-trucks, reach-trucks, tow-trucks, very-narrow-aisle-trucks, service-training + diesel-forklifts-d344 (rendered against a derived state minus the case-variant duplicate en-products-diesel-forklifts; sidecar decision duplicate-url; advanced directed→migrated); all structural reds are icon-font glyphs (icon-dropped deviation per page), 0 text drops; lint 0 P0; feature row (ic-trucks) without play glyph as the encoder expects",
+      "endedAt": "2026-10-06T23:43:33.839Z"
+    },
+    "render-article-1": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "article"
+      ],
+      "pages": 9,
+      "verdict": "rendered 9, unchanged 0, refused 0, passthrough 0 — variance 17/17 probed (h1/prose/share content-driven; infobox in-flow family → variant infobox--full on 9, infobox--right on 1033728), content-count 🔴 0 on 8 pages, 118656 🔴 2 = Vimeo play glyph U+F14C logged icon-dropped (embed rendered verbatim as default content; cluster decides embed block vs deviation), lint P1 ×2 per page = header/footer wrapper (delivered doc supplies), generator stardust/.work/replica/gen-article-sibling.mjs",
+      "startedAt": "2026-10-06T19:29:02.904Z",
+      "endedAt": "2026-10-06T19:42:40.962Z"
+    },
+    "render-article-2": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "article"
+      ],
+      "pages": 8,
+      "verdict": "rendered 8, unchanged 0, refused 0, passthrough 0 — generator reused unchanged; variant infobox--full on 7 (119232 keeps the archetype's infobox--left), content-count 🔴 0 on all 8 (18902 Vimeo play glyph logged icon-dropped; 1710976 🟡 lightbox glyph moved), caption font fork 🟠 non-structural on every page, lint P1 ×2 per page = header/footer wrapper (delivered doc supplies); gates variance-probe/content-count/content-fidelity on all 8 sidecars",
+      "startedAt": "2026-10-06T19:42:55.990Z",
+      "endedAt": "2026-10-06T19:56:04.618Z"
+    },
+    "render-listing": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "listing"
+      ],
+      "pages": 10,
+      "verdict": "render-listing: rendered 10, unchanged 0, refused 0, passthrough 0 (sibling tier, generator gen-landing-sibling.mjs --template listing; variance-listing.json: card width 280→384/592 + teaser bg budgeted as variants); content-count 0 text/link/heading 🔴 on every page, icon-glyph drops logged as icon-dropped deviations (innovations 15, magazine 18, media 159, products 1); lint 0 P0; only en-about-us-media carries the press row vocabulary — the other 9 are overview pages rendered with landing/program rows (hero stage, text bands, columns, related-teasers, carousels; events: calendar-list + image-clipper verbatim) → cluster-listing encoder must cover those rows + the Media download-card variant",
+      "endedAt": "2026-10-07T00:41:50.223Z"
+    },
+    "render-form": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "form"
+      ],
+      "pages": 7,
+      "verdict": "render-form: rendered 7, unchanged 0, refused 0, passthrough 0 — generator stardust/.work/replica/gen-form-sibling.mjs (sibling tier, canon chrome, page CSS en-forms-global-contact-form.css); variance-form.json 0 computed-style deltas, 13 content-driven probes → no variant tokens; content-count 🔴 = closed custom-select option anchors logged as cta deviations (li-ion 1 unexplained chevron residual); lint P0 (h1 made by the encoder header row) / P1 (footer wrapper) same as archetype; hidden inputs emptied, datasource values reduced to labels. cluster-form needs mwf-form type tokens: checkbox groups (ex-proof atexzone×4 fahrzeuge×6 in conditional items; gse-expo Free_Ticket, Schedule×3) with h5 question + hidden _name companion; date input with calendar trigger (li-ion manufacturingdate, icon-LMHIconcalendarblack); radio groups with label.label heading; form without header (ex-proof); submit labels Submit/Next; hidden input in first fieldset (rent-a-truck order)",
+      "startedAt": "2026-10-07T02:29:07.042Z",
+      "endedAt": "2026-10-07T02:42:38.413Z"
+    },
+    "render-static": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "en-legal-notes-privacy-statement"
+      ],
+      "pages": 6,
+      "startedAt": "2026-10-06T18:13:31.344Z",
+      "verdict": "rendered 6, unchanged 0, refused 0, passthrough 0 — variance 0 deltas (presence-only), content-count 0 uncovered 🔴 on all 6 (deviations logged: cookie-policy javascript: consent CTAs + mobile table duplicates, edi icon glyph), siblings have no h1 on landing/cookie-policy (live fact), lint P1s are the header/footer wrapper (delivered doc supplies them); needs in cluster: download glyph U+F130, columns module on the semi-automated landing, share widget javascript: hrefs",
+      "endedAt": "2026-10-06T18:32:23.843Z"
+    },
+    "render-productfinder": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "productfinder"
+      ],
+      "pages": 1,
+      "verdict": "render-productfinder: rendered 1, unchanged 0, refused 0, passthrough 0 — generator stardust/.work/replica/gen-productfinder-sibling.mjs (archetype re-render IDENTICAL on --check; sibling differs in title/description + linked breadcrumb), content-diff 0 structural red, content-count/content-fidelity recorded",
+      "endedAt": "2026-10-07T04:59:33.591Z"
+    },
+    "assets": {
+      "status": "done",
+      "kind": "assets",
+      "templates": [],
+      "pages": 0,
+      "startedAt": "2026-10-07T06:59:08.493Z",
+      "verdict": "assets: no sitewide bundle; 30 media files rehosted by cluster units (media-ledger all uploaded), remaining media at captured URLs verified by media-reconcile",
+      "endedAt": "2026-10-07T06:59:34.152Z"
+    },
+    "report": {
+      "status": "done",
+      "kind": "report",
+      "templates": [],
+      "pages": 99,
+      "startedAt": "2026-10-07T07:00:02.058Z",
+      "verdict": "report: 98 migrated (9 archetypes + 89 siblings), 0 failed, 1 case-variant duplicate → redirects; 96 pages advanced this phase",
+      "endedAt": "2026-10-07T07:00:48.183Z"
+    }
+  },
+  "updatedAt": "2026-10-07T07:00:48.183Z"
+}

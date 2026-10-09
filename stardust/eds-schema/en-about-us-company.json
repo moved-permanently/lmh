@@ -1,0 +1,1377 @@
+{
+ "source": "http://localhost:8802/stardust/migrated/en/About-us/Company/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Company"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Welcome to Linde Material Handling"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Key facts",
+     "href": "#2172685"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Values",
+     "href": "#2172689"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Management",
+     "href": "#2172694"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Compliance",
+     "href": "#2172697"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "History",
+     "href": "#2172700"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 5,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "At Linde Material Handling, we develop high-performance material flow solutions tailored to individual customer needs, enabling users to achieve sustainable competitive advantages. In over 120 years of company history, Linde Material Handling has become one of the world's largest manufacturers of forklifts and warehouse equipment. With innovations such as the hydrostatic drive and highly effective assistance systems, we are the technology leader in the industry."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "We also offer services and solutions for intralogistics and have been setting standards in the areas of industrial trucks, fleet management, driver assistance systems, and service offerings for more than 70 years. As a global provider of solutions for internal material flow, we are part of the , a leading global intralogistics group."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "KION Group",
+     "href": "https://www.kiongroup.com/en/"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "P.intro",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Want to learn more about Linde Material Handling? Contact us!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Linde Material Handling around the world"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Worldwide over"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "13,000"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "people work for the Linde Material Handling brand."
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "We are present at more than"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "700"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "sales and service locations."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "In around"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "100"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "countries, we speak our customers' language."
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Our network of more than"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "8,500"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "service technicians is always ready to help."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 12,
+   "repeats": [
+    {
+     "unitSelector": "DIV.module-fact-counter--row",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "We develop high-performance intralogistics solutions for our customers in almost every region of the world. These solutions are based on electric and diesel forklift trucks, warehouse equipment, pallet trucks, fleet management software, automation solutions, driver assistance systems, energy systems, racking systems, financing options, services around the forklift truck and operator training. Our international network also includes production and assembly plants in Germany, France, Italy, Poland, the Czech Republic, the USA and China."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The range of vehicles we offer at Linde Material Handling is unique. It comprises around 80 series and over 10,000 equipment options. Based on this modular system, we manufacture vehicles and fleets tailored precisely to the transport, storage, order picking, and stacking requirements of each user. In addition, a global spare parts logistics system in most countries guarantees the supply of spare parts within 24 hours."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [],
+   "imgCount": 1,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Our Value Proposition"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "As in other industries, digital networking, automation, and the demand for more and more individual products are also driving technological change in intralogistics. However, this change affects every company differently. At Linde Material Handling, we help our customers align their material management with these new challenges."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "In doing so, they can rely on the great strength of Linde Material Handling: We do not provide off-the-shelf products. Technological innovations are only implemented if they achieve sustainable customer benefits. Our customers receive well thought-out solutions that meet the individual requirements of their application 100 per cent. Productivity, safety, and ergonomics are the key guiding principles."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Productivity"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Efficient forklift trucks are the backbone of efficient intralogistics. Together with intelligent software and comprehensive service packages, operators are able to achieve lasting competitive advantages."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more here",
+     "href": "https://www.linde-mh.com/en/Linde-Core/Linde-Productivity.html"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "Safety"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The safety of people, trucks, and goods is the central idea behind Linde Material Handling’s Zero Accident Philosophy. With integrated solutions, we are working toward a future of safer intralogistics."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more here",
+     "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/"
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Ergonomics"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The best solutions arise when humans and technology work together in perfect harmony. The principle of ergonomic design therefore strongly informs the development of Linde Material Handling’s trucks and services."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more here",
+     "href": "https://www.linde-mh.com/en/Linde-Core/Linde-Ergonomics.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Working together for success"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde Material Handling is passionate about your success. For over 100 years, we have been providing products and services that help your business flow and grow. Based on the trust we have earned, we will continue to be at your side with material handling solutions that really work – exactly the way you need them to."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "It's easy to do business with us. And it's worth it."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Performance that moves your business",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "User-friendliness from the very first moment",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Versatility for your individual success",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Reliability for the long haul",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Performance that moves your business"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "When we talk about performance, we mean business. Our intelligent vehicles help you work faster and in a more productive manner. Equipped with state-of-the-art technology, they integrate seamlessly into your material flow and enable data-driven optimization. Regardless of your size or budget, we offer solutions that take your business to the next level."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "User-friendliness from the very first moment"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "From the maneuverability and ergonomics of our vehicles to intelligent interfaces that communicate seamlessly with your systems: user-friendliness is the focus of our products. Intuitive operation and fast familiarization are matched by superior safety standards, so everyone in your business immediately feels at ease with our solutions."
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "Versatility for your individual success"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "We offer the most comprehensive range of vehicles and services on the market. Our motto: Nothing is impossible. Together, we will choose from countless options to find the right solution for your requirements. If further customization is required, we provide individual engineering to meet your unique business needs."
+    },
+    {
+     "role": "heading",
+     "order": 10,
+     "text": "Reliability for the long haul"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "We stand for reliability. We want to exceed your expectations every time we interact with you—our goal is to build a lasting partnership. You can rely on our solutions in the long term. Even under the toughest operating conditions, our products function smoothly and do exactly what they are supposed to do."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 9,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Management"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Andreas Krinninger",
+     "href": "../../../en/About-us/Company/Andreas-Krinninger.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Andreas Krinninger has been a member of the Executive Board since 2014. Since 2016, he has been responsible for the strategic development of the company in his role as Chief Executive Officer. Since 2021, Andreas Krinninger is also Member of the Executive Board of the KION GROUP AG."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Company/Andreas-Krinninger.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Dr. Karoline Jung-Senssfelder",
+     "href": "../../../en/About-us/Company/Karoline-Jung-Senssfelder.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Dr. Karoline Jung-Senssfelder has worked in various roles within the KION GROUP since 2010, and has been responsible for Finance since 2023 as a member of the Executive Board of Linde Material Handling. Previously, she was Senior Vice President Corporate Strategy of the KION GROUP."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Company/Karoline-Jung-Senssfelder.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Ulrike Just",
+     "href": "../../../en/About-us/Company/Ulrike-Just.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Ulrike Just has been Executive Vice President Sales & Service for Linde Material Handling in EMEA since 2023 and a member of the Executive Board of Linde Material Handling GmbH since 2024. Previously, she headed the management of Linde Material Handling in the United Kingdom and Ireland as Senior Vice President."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Company/Ulrike-Just.html"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Dr. Frank Schepp",
+     "href": "../../../en/About-us/Company/Frank-Schepp.html"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Dr. Frank Schepp has held various positions within the KION GROUP since 2001. Responsible for Operations as a member of the Executive Board of Linde Material Handling since 2006, he was previously Senior Vice President Operations, managing the Linde Material Handling plants in and around Aschaffenburg."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Company/Frank-Schepp.html"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Have you got questions about our company? Feel free to reach out.",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Compliance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "We have a special responsibility toward our customers, business partners, employees, the environment, and society. Clear rules are therefore important for the success of our company. They help to reduce risks, ensure compliance with laws and regulations, and ultimately increase the company's performance. Compliance serves this purpose."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Download our Code of Compliance",
+     "href": "../../../media/Global-Content/08_Downloads/Code_of_Compliance_2015_en.pdf"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "History"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "21",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The roots of Linde Material Handling date back to the beginning of the 20th century. Together with Hugo Güldner and Georg von Krauss, Carl von Linde founded the Güldner-Motoren-Gesellschaft in Munich in 1904. Three years later the company moved to Aschaffenburg. In 1929, the Gesellschaft für Linde's Eismaschinen AG, founded by Carl von Linde in 1879, took over the Güldner-Motoren-Gesellschaft. In 1955, the development of the first vehicle with a hydrostatic drive and, in 1960, the development of the first truck with this drive concept, laid the foundation for Linde's rise to become one of the world's largest manufacturers of forklift trucks and warehouse equipment. Find out more about the company's milestones in the chronicle."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "22",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "2026",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "2024 | November",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "2024 | March",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "2023",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "2022 | June",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "2022 | May",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "2021 | June",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "2021 | April",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "2020",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "2019",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "2018",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "2017",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "2016",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "2015",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 14,
+     "text": "2014",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "2011",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "2009",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 17,
+     "text": "2006",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "2005",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "1993",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 20,
+     "text": "1989",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "1985",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "1984",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 23,
+     "text": "1977",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "1971",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "1968",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 26,
+     "text": "1959",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "1955",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "1904",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 29,
+     "text": "2026"
+    },
+    {
+     "role": "body",
+     "order": 30,
+     "text": "Linde Material Handling has once again been awarded a platinum medal by EcoVadis for its outstanding sustainability management. The leading international rating agency takes numerous criteria from the areas of environment, labor and human rights, ethics, and sustainable procurement into account in its analyses. The company has been achieving good results in the ratings for years. With above-average performance, Linde Material Handling has achieved a top ranking in the certification continuosly since 2023, placing it among the top 1 percent of companies. The result underscores the company's successful sustainability strategy and reinforces Linde Material Handling's commitment."
+    },
+    {
+     "role": "heading",
+     "order": 31,
+     "text": "2024 | November"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "With the introduction of the 1251 series, Linde Material Handling completes its counterbalance truck generation based on the 12XX platform. The new E14 – E20 and Xi10 – Xi20 models complement the portfolio in the 1 to 2 ton load capacity range and offer an impressive variety of options and superior performance. With the completion of the 12XX series, Linde MH provides its customers with the best handling performance in all load capacity classes up to 5 tons."
+    },
+    {
+     "role": "heading",
+     "order": 33,
+     "text": "2024 | March"
+    },
+    {
+     "role": "body",
+     "order": 34,
+     "text": "Linde Material Handling celebrates its 50th anniversary in Sweden. What began in 1974 with three electric forklift trucks has developed into a success story: with over 500 employees, five regional offices, and more than 20 service workshops, Linde MH is now one of the leading suppliers of industrial trucks and intralogistics solutions on the Swedish market."
+    },
+    {
+     "role": "heading",
+     "order": 35,
+     "text": "2023"
+    },
+    {
+     "role": "body",
+     "order": 36,
+     "text": "The company's headquarter in Aschaffenburg is expanding: in addition to the main building, a new six-storey office complex complements the site. The new building provides modern workspaces and unites the team, who were previously located across the city, in one place. Another new addition to the headquarter is the 5,500-square-metre Linde Experience Hub. This multifunctional showroom is designed for training courses, product presentations and events, and offers customers exclusive insights into Linde Material Handling's solutions and innovations."
+    },
+    {
+     "role": "heading",
+     "order": 37,
+     "text": "2022 | June"
+    },
+    {
+     "role": "body",
+     "order": 38,
+     "text": "With the introduction of Linde Steer Control at World of Material Handling, Linde MH is revolutionizing forklift truck control. The innovative steering concept allows the truck to be controlled with just one hand using a mini wheel or joystick. This makes the classic steering wheel redundant. A study conducted in collaboration with RWTH Aachen University and fka GmbH confirms the ergonomic advantages of Linde Steer Control: it significantly reduces strain on the driver and thus also increases their performance."
+    },
+    {
+     "role": "heading",
+     "order": 39,
+     "text": "2022 | May"
+    },
+    {
+     "role": "body",
+     "order": 40,
+     "text": "Linde Material Handling is expanding its portfolio with a new range of electric heavy-duty forklift trucks with a load capacity of 10 to 18 tons. The twelve models, from the E100 to the E180, are the most powerful in their class and combine performance with sustainability. In addition to different load centers, the trucks also offer two battery system options: lead-acid and lithium-ion. Thanks to the plug-and-play principle, it is possible to switch between the two battery types without making any changes to the vehicle."
+    },
+    {
+     "role": "heading",
+     "order": 41,
+     "text": "2021 | June"
+    },
+    {
+     "role": "body",
+     "order": 42,
+     "text": "Linde Material Handling celebrates 50 years of electric forklift trucks. Since the presentation of the first models in Hanover in 1971, the company has played a key role in driving forward developments in this area. To mark the anniversary, Linde MH is launching the X models as an extension of the 12XX series. The new X20 – X35 electric forklift trucks combine the performance of IC engine-powered trucks with zero emissions. This makes them the first electric forklift trucks that are on a par with a combustion engine. Thanks to the efficient platform concept introduced in 2019 and many components of the same shape, the X trucks score points with short delivery times. The standardised operating concept also makes it easier for drivers to switch over. With this innovation, Linde MH is once again emphasising its pioneering role in electromobility for industrial trucks."
+    },
+    {
+     "role": "heading",
+     "order": 43,
+     "text": "2021 | April"
+    },
+    {
+     "role": "body",
+     "order": 44,
+     "text": "The millionth counterbalanced forklift truck rolls off the production line at the Aschaffenburg plant, marking a significant milestone in the company's history. The anniversary vehicle, a 3.5-ton diesel forklift truck of the latest generation, is delivered to long-standing Spanish customer Colorobbia España S.A. and celebrated with fireworks and cake."
+    },
+    {
+     "role": "heading",
+     "order": 45,
+     "text": "2020"
+    },
+    {
+     "role": "body",
+     "order": 46,
+     "text": "In light of the global COVID-19 pandemic, Linde Material Handling is using its expertise in safety technology to develop two innovative solutions to protect against infection: the Linde Secure Distance Vest and the Linde Distance Beeper. The smart wearables are based on the ultra-wideband technology of the Linde Safety Guard. They warn employees acoustically, visually and haptically as soon as the prescribed safety distance is exceeded. Without additional infrastructure, they offer reliable protection against infection in the workplace and help to maintain operational processes."
+    },
+    {
+     "role": "heading",
+     "order": 47,
+     "text": "2019"
+    },
+    {
+     "role": "body",
+     "order": 48,
+     "text": "Linde MH presents the 1202 series, the first generation of the innovative 12XX series. The new H20 – H35 models are designed for demanding tasks in multi-shift operation and set new standards in performance, ergonomics, safety, and connectivity. With this series, Linde Material Handling is setting a technological milestone: the structural separation of electric and internal combustion engine forklift trucks is being replaced by a uniform platform concept. This allows customers to choose flexibly between different drive types without having to compromise on performance. The development is based on comprehensive market studies and direct customer feedback."
+    },
+    {
+     "role": "heading",
+     "order": 49,
+     "text": "2018"
+    },
+    {
+     "role": "body",
+     "order": 50,
+     "text": "With the new Linde Safety Guard assistance system, Linde MH is optimizing existing safety standards. The system warns pedestrians and drivers at an early stage acoustically, optically, and with vibrations – even through walls and doors. The Safety Guard is part of the comprehensive safety concept \"Vision Zero. Safety in your World\", through which Linde MH aims to cut the number of accidents at work to zero."
+    },
+    {
+     "role": "heading",
+     "order": 51,
+     "text": "2017"
+    },
+    {
+     "role": "body",
+     "order": 52,
+     "text": "Linde MH celebrates the production of the 111,111th 386 series electric forklift truck. The E12 to E20 trucks were launched in 2006. Its unmatched versatility and reliability make it the best-selling electric forklift of its kind and the most successful in the world."
+    },
+    {
+     "role": "heading",
+     "order": 53,
+     "text": "2016"
+    },
+    {
+     "role": "body",
+     "order": 54,
+     "text": "Linde Material Handling is opening its new headquarters in Aschaffenburg at a historic location. Over a period of 17 months, the building on Carl-von-Linde-Platz, which originally dates back to the 1950s, was completely gutted and redesigned based on a modern spatial concept."
+    },
+    {
+     "role": "heading",
+     "order": 55,
+     "text": "2015"
+    },
+    {
+     "role": "body",
+     "order": 56,
+     "text": "With the L-MATIC L HP high-platform truck and the P-MATIC tractor, Linde MH introduces automated industrial trucks for the first time. They are suitable for a wide range of applications in storage and transport. The vehicles can be controlled via warehouse management and ERP systems."
+    },
+    {
+     "role": "heading",
+     "order": 57,
+     "text": "2014"
+    },
+    {
+     "role": "body",
+     "order": 58,
+     "text": "Linde Material Handling celebrates the production of its 750,000th forklift truck. The first World of Material Handling (WoMH), a customer event hosted by Linde MH, attracts more than 6,000 professional visitors. At WoMH the Linde Safety Pilot also celebrates its debut. The electronic assistance system supports drivers and helps them to avoid dangerous situations."
+    },
+    {
+     "role": "heading",
+     "order": 59,
+     "text": "2011"
+    },
+    {
+     "role": "body",
+     "order": 60,
+     "text": "With the E20 – E50 forklift series, Linde Material Handling becomes the market leader in Europe for electric trucks. The electric kart E1, which Linde MH developed on the basis of original components of this series, sets a world record for electrically driven karts – accelerating from 0 to 100 km / h in only 3.45 seconds, driving directly into the Guinness Book of World Records."
+    },
+    {
+     "role": "heading",
+     "order": 61,
+     "text": "2009"
+    },
+    {
+     "role": "body",
+     "order": 62,
+     "text": "Linde Material Handling presents prototypes with alternative drives such as fuel cells or hybrid systems consisting of fuel cells and lithium-ion batteries for the first time. Since 2010, Linde MH has been the first industrial truck manufacturer in Europe to offer fuel cell trucks in series production."
+    },
+    {
+     "role": "heading",
+     "order": 63,
+     "text": "2006"
+    },
+    {
+     "role": "body",
+     "order": 64,
+     "text": "Linde Material Handling becomes part of the newly formed KION Group."
+    },
+    {
+     "role": "heading",
+     "order": 65,
+     "text": "2005"
+    },
+    {
+     "role": "body",
+     "order": 66,
+     "text": "The Staplercup celebrates its premiere. More than 1,500 drivers participate in the first German championship for forklift drivers. International teams have also been participating since 2007. The final competition at the Schlossplatz in Aschaffenburg regularly draws more than 10,000 spectators every year. “StaplerCup hilft e.V.”, a charity club founded in 2008, donates the proceeds of various projects to charity - more than 200,000 euros have been donated since the club was founded."
+    },
+    {
+     "role": "heading",
+     "order": 67,
+     "text": "1993"
+    },
+    {
+     "role": "body",
+     "order": 68,
+     "text": "Linde founds a joint venture with the second-largest Chinese forklift truck manufacturer in Xiamen."
+    },
+    {
+     "role": "heading",
+     "order": 69,
+     "text": "1989"
+    },
+    {
+     "role": "body",
+     "order": 70,
+     "text": "With the acquisition of British forklift manufacturer Lansing Bagnall - the inventor of the reach truck - Linde expands its range of storage technology."
+    },
+    {
+     "role": "heading",
+     "order": 71,
+     "text": "1985"
+    },
+    {
+     "role": "body",
+     "order": 72,
+     "text": "The 351 series revolutionizes the world of industrial trucks. The diesel powered forklift truck sets new standards in design and handling performance in the \"premiere class\" of trucks with a lifting capacity of 2 to 3.5 tonnes. By 2001, 100,000 trucks of the series have been assembled in Aschaffenburg, making the 351 the most successful truck in Europe, paving Linde's way to market leadership for forklift trucks with internal combustion engines."
+    },
+    {
+     "role": "heading",
+     "order": 73,
+     "text": "1984"
+    },
+    {
+     "role": "body",
+     "order": 74,
+     "text": "Linde acquires Fenwick, the largest French forklift manufacturer, and founds the Fenwick-Linde S.A.R.L."
+    },
+    {
+     "role": "heading",
+     "order": 75,
+     "text": "1977"
+    },
+    {
+     "role": "body",
+     "order": 76,
+     "text": "Linde takes over the US industrial truck manufacturer Baker Material Handling Corporation."
+    },
+    {
+     "role": "heading",
+     "order": 77,
+     "text": "1971"
+    },
+    {
+     "role": "body",
+     "order": 78,
+     "text": "At the Hanover Fair, Linde's first electric forklift truck celebrates its world premiere."
+    },
+    {
+     "role": "heading",
+     "order": 79,
+     "text": "1968"
+    },
+    {
+     "role": "body",
+     "order": 80,
+     "text": "The 314 series replaces the Hubtrac. The model is manufactured until 1980."
+    },
+    {
+     "role": "heading",
+     "order": 81,
+     "text": "1959"
+    },
+    {
+     "role": "body",
+     "order": 82,
+     "text": "The ancestor of all Linde Material Handling forklift trucks is produced in Aschaffenburg. The Hubtrac is the first forklift truck with hydrostatic transmission. Powered by a diesel engine, the first hubtrac can carry loads of 2 tonnes before later increasing to 2.5 tonnes. At the Hanover Fair in 1960, the series is officially presented to the public."
+    },
+    {
+     "role": "heading",
+     "order": 83,
+     "text": "1955"
+    },
+    {
+     "role": "body",
+     "order": 84,
+     "text": "Güldner introduces the Hydrocar, the first transport vehicle with Linde's patented hydrostatic drive."
+    },
+    {
+     "role": "heading",
+     "order": 85,
+     "text": "1904"
+    },
+    {
+     "role": "body",
+     "order": 86,
+     "text": "Foundation of the Güldner-Motoren-Gesellschaft in Munich. Three years later the company moved to Aschaffenburg. In 1929 it is acquired by the Gesellschaft für Linde's Eismaschinen AG."
+    }
+   ],
+   "imgCount": 29,
+   "editableTexts": 59,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 29,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 28,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "23",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Simon Hegele Boosts Efficiency with Warehouse Automation",
+     "href": "../../../en/About-us/Magazine/Simon-Hegele/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "What’s the best way to address the shortage of skilled workers in logistics? Simon Hegele has turned to warehouse automation from Linde MH—and it’s a real success story."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Simon-Hegele/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Proof of excellence!",
+     "href": "https://www.linde-mh.com/en/About-us/Awards/"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Linde Material Handling has won numerous prizes and awards over the years, with the most significant being in the categories of brand, innovations, design, and communication."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/About-us/Awards/"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Become part of the team",
+     "href": "../../../en/About-us/Working-at-Linde/index.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Linde Material Handling offers diverse career opportunities: Join us as a professional, graduate, student or pupil. Apply here."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Working-at-Linde/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Schenker takes full control of its forklift truck fleet",
+     "href": "../../../en/About-us/Magazine/DB-Schenker/index.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "DB Schenker has full control of its forklift truck fleet thanks to Linde’s innovative fleet management system Linde connect."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/DB-Schenker/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "From field to fork",
+     "href": "../../../en/About-us/Magazine/Customer-Story-Dinner/index.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "How Linde Material Handling and the KION Group ensure that the catering sector receives fresh produce."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Customer-Story-Dinner/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "High-precision machine at Norrlands trä",
+     "href": "../../../en/About-us/Magazine/Norrlands-trae.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "For the past five years, a Linde H120 D has been hard at work at Norrlands trä in Älandsbro, about 400 kilometers north of Stockholm. The fleet has recently been expanded by the addition of another similar workhorse, which despite its size and weight, performs at a high level of precision."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Norrlands-trae.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "A thirst for innovation",
+     "href": "../../../en/About-us/Magazine/Veltins.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "Anyone brewing and bottling millions of hectoliters of Pilsener beer, shandy, malt beer, apple beer and other mixed beer beverages needs powerful intralogistics systems to get the drinks onto the street. C. & A. Veltins, a brewery with a rich tradition, has put its faith in forklifts from Linde Material Handling for this demanding role."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Veltins.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Analyzed Efficiently",
+     "href": "../../../en/About-us/Magazine/Grass.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "For years, the hinge specialists at Reinheim-based Grass GmbH have been carrying out their warehouse and production logistics tasks using a forklift truck fleet that has grown gradually over time. Using a fleet optimization analysis, experts from Linde Material Handling identified an incredible amount of potential within this established structure. They standardized and reduced the fleet and, in the process, made it much more powerful, cost-efficient, and energy-saving."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Grass.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "More Fish for Life",
+     "href": "../../../en/About-us/Magazine/PP-Group/index.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Together with Dutch Linde network partner Motrac, large fishery company Parlevliet & Van der Plas has brought its intralogistics right up to date at several sites. The high quality of Linde’s trucks, as well as solutions to ensure comprehensive safety and comfort, were a key factor in the decision to work together."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/PP-Group/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "Trainer at Linde Sales Academy",
+     "href": "../../../en/About-us/Magazine/Employee-Portrait-Trainer-Linde-Sales-Academy.html"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "\"As a global player in the premium segment, Linde also offers non-engineers challenging roles and extensive development opportunities.\""
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Employee-Portrait-Trainer-Linde-Sales-Academy.html"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "Full of tricks",
+     "href": "../../../en/About-us/Magazine/Frueh-Koelsch.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "Cölner Hofbräu P. Josef Früh KG in Cologne-Feldkassel brews and loads thousands of litres of Kölsch every day. Real hard work for Linde's lithium-ion forklifts, which passed their trial run at the company with flying colors."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Frueh-Koelsch.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "From field to fork",
+     "href": "../../../en/About-us/Magazine/Customer-Story-Dinner.html"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "There are many factors that make a visit to a restaurant a special experience, including a great atmosphere, friendly service, and exceptional cooking. But the key to a successful meal remains the quality and freshness of the ingredients. Find out what role Linde Material Handling and the KION Group play in this."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Customer-Story-Dinner.html"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

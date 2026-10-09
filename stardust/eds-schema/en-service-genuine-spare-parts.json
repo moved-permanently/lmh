@@ -1,0 +1,614 @@
+{
+ "source": "http://localhost:8806/stardust/migrated/en/Service/Genuine-Spare-Parts/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Genuine Spare Parts"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Around the Clock, Around the Globe"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Availability",
+     "href": "#765333"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Distribution",
+     "href": "#765330"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Quality",
+     "href": "#765336"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Spare Part Groups",
+     "href": "#765262"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The Linde Material Handling spare parts service returns forklifts to operation as quickly as possible. This is ensured by Linde distribution centers worldwide, which make sure that the right parts are shipped around the clock. Spare parts in the quality of the original manufacturer ensure that the industrial trucks actually do what they promise. After all, even the slightest of variations can result in performance issues or threaten full efficiency. Moreover, genuine spare parts are particularly safe and reliable thanks to their perfect interaction with the truck. They also have a direct impact on operating costs, as they can be seamlessly installed and optimally serviced. The Linde spare parts service increases truck availability with customer-focused solutions, such as the spare part kits for the most frequent repairs and guaranteed next-day delivery."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Availability"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Ready for Operation Overnight"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Even the failure of a single truck can cause major disruptions to a company's logistics operations. This is why a Linde product includes both an extremely reliable industrial truck as well as a reliable spare parts service. Often, the customer service van will even have the right spare parts for the forklift on board and the repair can be completed on the spot. The service technician immediately orders missing spare parts from the spare parts center. A close-knit global spare parts network ensures that the right parts are available anywhere in the world. For additional speed in urgent cases, Linde offers an emergency service around the clock, every day of the year. Within the EU, spare part orders received by 17:30 will arrive the following morning, meaning that the faulty truck can be quickly returned to operation."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "High Availability for Rapid Support"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The Linde world distribution center can immediately dispatch over 60,000 stocked spare parts. If a rarely required spare part is not directly available, it is ordered immediately. Customers with older truck models can also rely on the spare parts service. After the end of production, we continue to supply the relevant spare parts for a further 12 years."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Distribution"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Close to the Customer Worldwide"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde customers can rely on the rapid supply of spare parts for their forklifts worldwide. This is ensured by the world distribution center in Kahl (Germany) at the heart of the global spare parts logistics network. Over 6000 items promptly reach their destinations around the world from this location every day. The central distribution center in Kahl supplies the service organization worldwide, including the regional distribution centers in Xiamen (China) for the Asia Pacific region and in Brno (Czech Republic) for the Eastern Europe region. State-of-the-art warehouse technology allows employees to dispatch orders, generally within just a few hours after an order is received. You can rely on the fast and globally consistent service quality for spare parts provided by the Linde spare parts service."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Quality"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Only Original Quality Guarantees Linde Performance"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Spare parts naturally don't just need to arrive as quickly as possible, they must also display the necessary quality. Linde spare parts strictly comply with the durability, precision, and reliability defined by the engineers during development. After all, even minor variations, such as in accuracy of fit and performance, can lead to significant problems and performance issues. Safety, quick assembly, and a long service life distinguish genuine spare parts from supposedly cheap copies. In particular, the benefits of original manufacturer quality become clear when you consider the long lifespan of an industrial truck: longer service intervals and no consequential damage relating to spare parts. This ensures maximum availability of trucks and lower lifecycle costs than for inferior replicas."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Small Differences, Big Impact"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "From controlling Linde joysticks with millimeter precision through to optimum dirt collection by the Linde oil filter, for Linde spare parts, performance lies in the detail. You can find a few examples on the following pages."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Spare Part Groups"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Joysticks",
+     "href": "../../../en/Service/Genuine-Spare-Parts/Joysticks/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Original joysticks by Linde Material Handling display outstanding precision, comfort, safety, and durability as spare parts for Linde forklift trucks."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Service/Genuine-Spare-Parts/Joysticks/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Oil Filters",
+     "href": "../../../en/Service/Genuine-Spare-Parts/Oil-filters/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Linde Material Handling oil filters ensure the flawless operation of the hydraulic system and the combustion engines."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/Service/Genuine-Spare-Parts/Oil-filters/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Forks",
+     "href": "../../../en/Service/Genuine-Spare-Parts/Forks/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Linde Material Handling forks provide a longer service life, a higher nominal load, and maximum stability."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../../en/Service/Genuine-Spare-Parts/Forks/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Electronic Control",
+     "href": "../../../en/Service/Genuine-Spare-Parts/Electronic-control-units/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Electronic controllers in Linde original manufacturer quality guarantee safe and precise operation."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Service/Genuine-Spare-Parts/Electronic-control-units/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Mast Chains",
+     "href": "../../../en/Service/Genuine-Spare-Parts/Forklift-mast-chains/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Linde original mast chains are exceptionally wear-resistant and safe thanks to the high quality of their design."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/Service/Genuine-Spare-Parts/Forklift-mast-chains/index.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Linde Solutions for the 3PL Sector",
+     "href": "../../../en/Solutions/Industries/3PL/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Linde offers solutions for 3PL service providers: solving staff shortages, increasing the flexibility of vehicle fleets, using big data, maximizing safety, and increasing energy efficiency."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Industries/3PL/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "K2 Systems Relies on Linde MH—Logistics Solution from a Single Source",
+     "href": "../../../en/About-us/Magazine/K2-Systems/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "K2 Systems, a leading manufacturer of PV mounting systems, called on Linde MH’s comprehensive intralogistics expertise for its new logistics center. The result? Customized processes, perfectly coordinated trucks, and maximum efficiency—all from a single source."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/K2-Systems/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Linde Safety Scan",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Scan.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Safety is a key productivity factor when mobile handling equipment and pedestrian personnel are moving around in the same space. The Linde Safety Scan effectively minimizes the potential safety risks that can occur in a working environment."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Scan.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "The Right Energy System",
+     "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "From Combustion Engine to Hydrogen Truck: Linde Material Handling offers holistic energy solutions for every need. With energy consulting from Linde, you can reduce your energy costs, increase the availability of your fleet and achieve your sustainability goals."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Safety Consulting",
+     "href": "../../../en/Solutions/Warehouse-Safety/Safety-consulting/index.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Safety is a key productivity factor when forklift trucks and pedestrians are moving around in the same space. Safety Consulting from Linde Material Handling enables companies to consistently minimize the safety risks associated with their internal traffic operations."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Warehouse-Safety/Safety-consulting/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "Linde Virtual Showroom App",
+     "href": "../../../en/About-us/Magazine/Linde-Showroom-App.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "The Virtual Showroom app from Linde Material Handling has been available for iOS and Android systems since last year. The app gives smartphone and tablets users a 360° interactive experience, enabling them to play around with 27 virtual industrial trucks against any background, with options to rotate, shrink, enlarge, and much more."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Linde-Showroom-App.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "Linde is the favourite of the industry",
+     "href": "../../../en/About-us/Magazine/MM-Research.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "For users, Linde Material Handling is the most popular material handling equipment manufacturer. This was the result of a survey conducted by the trade journal MM Logistik. Respondents praised the quality, performance and availability of the vehicles. Linde also scores highly in terms of service and training."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/MM-Research.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Consulting",
+     "href": "https://www.linde-mh.com/en/Solutions/Consulting/"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "Linde offers a comprehensive consulting service for thorough evaluation. The service ranges from analysis and simulation to fleet redesign."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/Solutions/Consulting/"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "Full of tricks",
+     "href": "../../../en/About-us/Magazine/Frueh-Koelsch.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Cölner Hofbräu P. Josef Früh KG in Cologne-Feldkassel brews and loads thousands of litres of Kölsch every day. Real hard work for Linde's lithium-ion forklifts, which passed their trial run at the company with flying colors."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Frueh-Koelsch.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "Analyzed Efficiently",
+     "href": "../../../en/About-us/Magazine/Grass.html"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "For years, the hinge specialists at Reinheim-based Grass GmbH have been carrying out their warehouse and production logistics tasks using a forklift truck fleet that has grown gradually over time. Using a fleet optimization analysis, experts from Linde Material Handling identified an incredible amount of potential within this established structure. They standardized and reduced the fleet and, in the process, made it much more powerful, cost-efficient, and energy-saving."
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Grass.html"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "More Fish for Life",
+     "href": "../../../en/About-us/Magazine/PP-Group/index.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "Together with Dutch Linde network partner Motrac, large fishery company Parlevliet & Van der Plas has brought its intralogistics right up to date at several sites. The high quality of Linde’s trucks, as well as solutions to ensure comprehensive safety and comfort, were a key factor in the decision to work together."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/PP-Group/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "Material Flow Consulting",
+     "href": "../../../en/Solutions/Consulting/Material-Flow-Consulting/index.html"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "Linde Material Handling offers its customers comprehensive system consulting in order to help them optimize their internal material flows."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Consulting/Material-Flow-Consulting/index.html"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

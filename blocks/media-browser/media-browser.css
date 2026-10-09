@@ -1,0 +1,421 @@
+/* stylelint-disable no-descending-specificity -- rules are grouped by component, not by cascade */
+
+/* media-browser — gallery (canon.css .media-browser: 8px transparent border, viewer calc(100% - 208px),
+   200px rail) and `content` variant (.content-browser: 320px list + 50 % panel) */
+
+/* gallery sits in the 960px article column; the content variant keeps the 1280 box */
+.media-browser-container .media-browser-wrapper {
+  box-sizing: border-box;
+  max-width: 960px;
+  padding: 0 2.5vw;
+}
+
+.media-browser-container .media-browser-wrapper:has(> .content) {
+  max-width: 1280px;
+  padding: 0;
+}
+
+/* wide variant — a standalone gallery row (source .layout-100--fixed > .media-browser, no article
+   column; measured 1440 logimat: box x112 w1216 = 1280 − 2 × 32px, 50px above and below, viewer 992 × 558) */
+.media-browser-container .media-browser-wrapper:has(> .wide) {
+  max-width: 1280px;
+  padding: 6.25vw 0;
+}
+
+/* the 50px 32px padding is a ≥ 1280 value: at 360 the source row is 6.25vw above and below
+   (measured logimat 360: row 300 tall around a 255 gallery, 23 / 22) and the gallery is the block's own
+   calc(100vw - 5vw) box (measured tugger-trains 360: .media-browser x9 w342, viewer x17 w326) */
+@media (width >= 1280px) {
+  .media-browser-container .media-browser-wrapper:has(> .wide) {
+    padding: 50px 32px;
+  }
+}
+
+.media-browser {
+  display: block;
+  position: relative;
+  box-sizing: border-box;
+  width: calc(100vw - 5vw);
+  max-width: 100%;
+  margin: 0 auto;
+  border: 8px solid transparent;
+  text-align: right;
+}
+
+.media-browser .media-browser-master-wrap {
+  position: relative;
+  width: 100%;
+}
+
+.media-browser .media-browser-master {
+  width: 100%;
+  overflow: hidden;
+}
+
+.media-browser .media-browser-item {
+  display: none;
+  position: relative;
+  width: 100%;
+}
+
+.media-browser .media-browser-item.active {
+  display: block;
+}
+
+.media-browser .media-browser-figure {
+  display: block;
+  position: relative;
+  height: 0;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+}
+
+.media-browser .media-browser-figure img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.media-browser .media-browser-nav {
+  display: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  flex-direction: column;
+  width: 200px;
+  height: 100%;
+  overflow: hidden;
+}
+
+.media-browser .media-browser-nav .media-browser-item {
+  display: block;
+  flex: 0 0 auto;
+  width: 200px;
+  margin: 0 0 8px; /* measured 1440 rail pitch 120.5 = 112.5 + 8 (tugger-trains, 8 thumbs) */
+  cursor: pointer;
+}
+
+.media-browser .media-browser-nav .media-browser-item.active .media-browser-figure {
+  outline: 2px solid var(--color-red);
+  outline-offset: -2px;
+}
+
+.media-browser .media-browser-controls {
+  display: block;
+  position: static;
+  width: 100%;
+  min-height: 48px;
+  margin: 8px 0 0;
+  padding: 0;
+  font-size: 0.95rem;
+  line-height: 48px;
+}
+
+/* source: the counter span sits 16px left of the prev arrow (measured 360: span ends 231, arrows 247–343) */
+.media-browser .media-browser-counter {
+  margin-right: 16px;
+}
+
+/* video slide — source .media-player: a 56px LindeGlobalIconFont play glyph (\f14c) in a 70 % red disc
+   centred on the viewer (measured 45 × 45 at 1440 and 360); its rail thumb carries the small \f160 badge
+   (40px glyph, padding 6px 10px, 70 % white, top 3px left 11px — measured 44 × 36). The source opens the
+   player on click (data-video-url); that behaviour was not observed by motion-observe and is not implemented. */
+.media-browser .media-browser-item.video .media-browser-figure {
+  cursor: pointer;
+}
+
+.media-browser .media-browser-play {
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 100%;
+  background: rgb(170 0 32 / 70%);
+  color: var(--color-white);
+  font-size: 56px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.media-browser .media-browser-play::before {
+  content: "\f14c";
+  display: block;
+  margin: -0.1em;
+}
+
+.media-browser .media-browser-nav .media-browser-play {
+  top: 3px;
+  left: 11px;
+  transform: none;
+  padding: 6px 10px;
+  border-radius: 0;
+  background: rgb(255 255 255 / 70%);
+  color: var(--color-textgrey);
+  font-size: 40px;
+}
+
+.media-browser .media-browser-nav .media-browser-play::before {
+  content: "\f160";
+  margin: -0.2em;
+}
+
+.media-browser .media-browser-btn {
+  float: right;
+  width: 48px;
+  height: 48px;
+  margin: 0;
+  padding: 12px;
+  border: 0;
+  background: var(--color-red);
+  color: var(--color-white);
+  line-height: 0;
+  cursor: pointer;
+}
+
+.media-browser .media-browser-btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.media-browser .media-browser-btn .icon {
+  font-size: 24px;
+}
+
+/* glyphs live in CSS so link/button labels stay the authored words only */
+.media-browser .media-browser-glyph-right::before,
+.media-browser.content .media-browser-tab-icon::before {
+  content: "\f153";
+}
+
+.media-browser .media-browser-glyph-left::before {
+  content: "\f13d";
+}
+
+@media (width >= 1024px) {
+  .media-browser .media-browser-master {
+    width: calc(100% - 208px);
+  }
+
+  .media-browser .media-browser-nav {
+    display: flex;
+  }
+
+  .media-browser .media-browser-controls {
+    display: none;
+  }
+}
+
+@media (width >= 1280px) {
+  .media-browser-container .media-browser-wrapper {
+    padding: 0 16px;
+  }
+
+  .media-browser {
+    width: 100%;
+  }
+}
+
+/* content variant — source .content-browser inside .layout-100--fixed (1280 box, 50px 32px ≥ 1280) */
+.media-browser.content {
+  display: flex;
+  width: 100%;
+  max-width: none;
+  min-height: 100%;
+  margin: 0;
+  /* 6.25vw above and below at every width (measured 360: tugger-trains list 245 in a 290 band, forklift-truck
+     147 in 192 — 22 / 23 px; the earlier "no vertical padding" reading measured the widget, not its band) */
+  padding: 6.25vw 2.5vw;
+  border: 0;
+  text-align: left;
+}
+
+.media-browser.content .media-browser-list-wrap {
+  position: relative;
+  flex: 1 1 auto;
+  max-width: 100%;
+}
+
+.media-browser.content .media-browser-list {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.media-browser.content .media-browser-list li {
+  display: list-item;
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid var(--color-lightgrey);
+}
+
+.media-browser.content .media-browser-tab:any-link,
+.media-browser.content .media-browser-tab {
+  display: block;
+  text-decoration: none;
+  position: relative;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0;
+  padding: 9px 48px 9px 0;
+  border: 0;
+  background: none;
+  color: var(--color-darkgrey);
+  font: inherit;
+  font-size: 0.95rem;
+  line-height: 30px;
+  text-align: left;
+  cursor: pointer;
+}
+
+.media-browser.content .media-browser-tab:hover,
+.media-browser.content li.active .media-browser-tab {
+  color: var(--color-red);
+}
+
+.media-browser.content .media-browser-tab-icon {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  width: 24px;
+  height: 24px;
+  transform: translateY(-50%);
+  font-size: 24px;
+  line-height: 24px;
+  text-align: right;
+}
+
+.media-browser.content .media-browser-panels {
+  display: none;
+}
+
+.media-browser.content .media-browser-panel {
+  display: none;
+  flex-direction: column;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.media-browser.content .media-browser-panel.active {
+  display: flex;
+}
+
+.media-browser.content .media-browser-figure + h3 {
+  margin-top: 16px;
+}
+
+.media-browser.content .media-browser-panel h3 {
+  font-size: 1.63rem;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+}
+
+.media-browser.content .media-browser-panel p {
+  font-size: 0.95rem;
+  line-height: 1.75;
+  letter-spacing: -0.003em;
+}
+
+.media-browser.content .media-browser-panel p + p {
+  margin-top: 0.5em;
+}
+
+.media-browser.content .media-browser-panel a {
+  font-family: var(--bold-font-family);
+  font-weight: 700;
+}
+
+@media (width <= 639px) {
+  .media-browser.content .media-browser-panel h3 {
+    font-size: 1.5rem;
+  }
+}
+
+@media (width >= 640px) {
+  .media-browser.content {
+    padding: 6.25vw 2.5vw;
+  }
+
+  /* source: the list column is position:relative, max-height 100%, overflow hidden; its ul is
+     position:absolute top 0, max-height 100%, overflow-y auto — out of flow, so the row is sized
+     by the content pane alone and a long list scrolls inside it (x-range third browser: 11 items) */
+  .media-browser.content .media-browser-list-wrap {
+    width: 50%;
+    max-width: 320px;
+    max-height: 100%;
+    overflow: hidden;
+  }
+
+  .media-browser.content .media-browser-list {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    max-height: 100%;
+    overflow-y: auto;
+  }
+
+  .media-browser.content .media-browser-list li {
+    padding: 0 0 0 1.25vw;
+  }
+
+  .media-browser.content .media-browser-panels {
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    width: 50%;
+    padding: 16px;
+  }
+
+  .media-browser.content .media-browser-panel {
+    justify-content: center;
+    min-height: 250px;
+  }
+}
+
+@media (width >= 1280px) {
+  .media-browser.content {
+    padding: 50px 32px;
+  }
+
+  .media-browser.content .media-browser-list li {
+    padding: 0;
+  }
+}
+
+/* lists in a content panel are the source's ul.bullets (live bundle @35849 ol,ul .95rem / 150 %; @39694–@40113: .5em
+   margins, padding 0, list-style none; li 1.125em indent, .25em gap, a red en dash absolute at left 0); the tab list
+   above (.media-browser-list) is the browser's own nav and keeps its rules */
+.media-browser.content .media-browser-panel ul,
+.media-browser.content .media-browser-panel ol {
+  margin: 0.5em 0;
+  padding: 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  list-style: none;
+}
+
+.media-browser.content .media-browser-panel ul li {
+  position: relative;
+  margin: 0 0 0.25em;
+  padding: 0 0 0 1.125em;
+}
+
+.media-browser.content .media-browser-panel ul li::before {
+  content: "\2013";
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: var(--color-red);
+}

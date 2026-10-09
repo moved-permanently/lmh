@@ -1,0 +1,80 @@
+{
+ "source": "http://localhost:8801/stardust/migrated/en/Legal-Notes/Legal/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Legal"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Content"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Linde Material Handling GmbH Carl-von-Linde-Platz 63743 Aschaffenburg Germany"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Phone: +49 6021 99 0 Fax: +49 6021 99 1570"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "eMail: info@linde-mh.com"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Represented by Management Board of Linde Material Handling GmbH: Andreas Krinninger, Dr. Karoline Jung-Senssfelder, Ulrike Just, Dr. Frank Schepp Chairwoman of the Supervisory Board: Valeria Gargiulo"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Registered seat: Aschaffenburg Commercial register: Aschaffenburg HRB 9963 Ust-IdNr. DE 814809128 Sales taxes No. 045 237 42896"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "This website was designed and developed by ."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Ergosign GmbH",
+     "href": "https://ergosign.de/en/"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 9,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

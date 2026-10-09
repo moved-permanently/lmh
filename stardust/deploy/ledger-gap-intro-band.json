@@ -1,0 +1,101 @@
+{
+  "/en/about-us/awards": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T19:24:34.577Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/automation-summit-2025": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T19:24:34.577Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/glasses": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T19:24:34.577Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/happy-driver": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T19:24:34.577Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/logimat": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T19:24:40.825Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/landingpage/platform-counterbalanced-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T19:24:41.121Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/linde-core/linde-ergonomics": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T19:24:42.199Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/explosion-proof-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T19:24:43.250Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/hand-pallet-trucks": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T19:24:47.116Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/products/heavy-duty-forklifts": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T19:24:48.150Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/en/solutions/warehouse-safety": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-10-07T19:24:49.172Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

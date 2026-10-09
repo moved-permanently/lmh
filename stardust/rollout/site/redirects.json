@@ -1,0 +1,32 @@
+{
+  "total": 6,
+  "limit": 6,
+  "offset": 0,
+  "data": [
+    {
+      "Source": "/",
+      "Destination": "/en"
+    },
+    {
+      "Source": "/index.html",
+      "Destination": "/en"
+    },
+    {
+      "Source": "/en/Products/Diesel-Forklifts/",
+      "Destination": "/en/products/diesel-forklifts"
+    },
+    {
+      "Source": "/en/Products/Diesel-Forklifts",
+      "Destination": "/en/products/diesel-forklifts"
+    },
+    {
+      "Source": "/en/Forms/Ex-Proof_Form/",
+      "Destination": "/en/forms/ex-proof-form"
+    },
+    {
+      "Source": "/en/Forms/Ex-Proof_Form",
+      "Destination": "/en/forms/ex-proof-form"
+    }
+  ],
+  ":type": "sheet"
+}

@@ -1,0 +1,977 @@
+{
+ "source": "http://localhost:8791/en-legal-notes-privacy-statement-proposed.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "breadcrumb",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Privacy Statement",
+     "href": ""
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "anchor-nav",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "General Privacy Statement",
+     "href": "#785385"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Information on data processing pursuant to article 13 DSGVO for business partners (customers & suppliers)",
+     "href": "#785383"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Information for future employees/applicants",
+     "href": "#785381"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "headline",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "General Privacy Statement"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "article",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Thank you for visiting this website of Linde Material Handling GmbH. Personal data is only collected on this website to the extent that is technically necessary. The following information explains how we collect, process and use your personal data and for what purpose."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "1. Data collection and processing"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "When you access this website, we collect and temporarily save general technical information, such as the IP address of your computer, the website from which you visited our website, and the time and duration of your visit. We anonymise and statistically analyse this information and use it exclusively to improve the appeal, content and functionality of our website."
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "2. Personal data"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Additional personal data, such as your email address, name and address, are only collected if you provide them voluntarily, e.g. when using our contact form to send an enquiry or when registering for our extranet. You provide this data on an explicitly voluntary basis and with your consent. We use your personal data solely for the purpose for which you provided it to us, e.g. for the purpose of corresponding with you about your enquiry or processing a contract. Your enquiries may also be forwarded to our importers and authorised dealers. Your personal data will not be used for other purposes without your express consent. Of course you may withdraw your consent for the future at any time. To do so, please send a short email to: info@linde-mh.de"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "General:"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "We collect and store your personal data, e. g. name, address, travel data, etc. only insofar as it is necessary for the preparation and implementation of the \"World of Material Handling 2018 (WoMH)\" event. If necessary for the provision of specific services (travels, hotels), we pass part of your personal data on to external service providers. These service providers were carefully selected by us, commissioned in writing and are bound by instructions. They will delete these data after the contract has been fulfilled. You have the right to request information from us about your personal data saved any time. This also applies to the origin of your personal data, the recipients to whom these data are passed on and the purpose of storage. You can revoke your consent to the use of your personal data at any time. Please send all requests for information or objections to data processing by e-mail to marketing@linde-mh.de or to our KION Senior Director Group Data Protection (contact details below)."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "World of Material Handling 2022:"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "3. Job applications"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "If you apply for a job at one of our companies electronically, your personal data will be treated confidentially and used solely to process your application. The transfer of data are encrypted."
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "4. Forwarding of data"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Your personal data will not be transfered to third parties unless we are legally obliged to do so. Where external service providers have access to your personal data, we have put legal, technical and organisational measures in place and carry out regular checks to ensure that the external service providers comply with the provisions of data protection law."
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "5. Cookies"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "We use cookies on our website. All information about our cookies can be found . You can change your cookie settings ."
+    },
+    {
+     "role": "cta",
+     "order": 14,
+     "text": "here",
+     "href": "https://www.linde-mh.com/en/Legal-Notes/Cookie-Policy/"
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "here",
+     "href": "javascript:showCookieOptOutDialog()"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "On our website, we use the consent management tool CCM19, a service from Papoo Software & Media GmbH, Auguststr. 4, 53229 Bonn, Germany (“CCM 19”). The tool allows you to save your preference for the use of cookies on this site. The data is processed for the purpose of obtaining and documenting the necessary consents for data processing."
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Cookies may be used for this purpose. During this process, among other things the following information will be collected and sent to CCM19 (server located in Germany): date and time the page was accessed, a random ID, consent status. You can find out more about data processing by CCM19 at: ."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "https://www.ccm19.de/en/privacyclarification.html",
+     "href": "https://www.ccm19.de/en/privacyclarification.html"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "We do not process the data ourselves, the data is saved as a log file. The log files of website visitors are only accessed following prior agreement and with the consent of the user. This data is not passed on to other third parties."
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "The data is processed in order to meet a legal obligation on the basis of Article 6(1)(c) GDPR."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Cookie List",
+     "href": "#CCM.openCookieDeclarationTable"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "6. Webanalytics and Online Marketing Services"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "We use Microsoft Clarity, provided by Microsoft Corporation, Microsoft Ireland Operations Ltd., One Microsoft Place, South County Business Park, Leopardstown, Dublin 18 D18 P521, also referred to as “Microsoft”. We use the tool to capture how you use and interact with our website through behavioral metrics, heatmaps, and session replay to improve and market our products/services. Website usage data is captured using first and third-party cookies and other tracking technologies to determine the popularity of products/services and online activity. Additionally, we use this information for site optimization, fraud/security purposes, and advertising."
+    },
+    {
+     "role": "body",
+     "order": 24,
+     "text": "Data will be processed by all users of our website who have consented to the corresponding use via our cookie consent service. Data processing is therefore carried out solely based on your consent in accordance with Art. 6 para. 1 a) GDPR."
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "Usage and user-related information, such as e.g. IP address, place, time or frequency of visiting our website are transmitted to a Microsoft server in the USA and stored there. However, we use Microsoft Clarity with the so-called anonymization function. With this function, Microsoft shortens the IP address even within the EU. Through certification under the EU-US Privacy Shield (www.privacyshield.gov/participant) Microsoft guarantees that the EU's data protection regulations are also complied with when processing data in the USA."
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "The data you share with us for Microsoft Clarity will be stored for up to 12 months and then deleted."
+    },
+    {
+     "role": "body",
+     "order": 27,
+     "text": "For more information about how Microsoft collects and uses your data, visit the Microsoft Privacy Statement."
+    },
+    {
+     "role": "body",
+     "order": 28,
+     "text": "Google Analytics 4"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "We use Google Analytics 4 on this website. This is a web analytics service from Google Ireland Limited, Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland (“Google”)."
+    },
+    {
+     "role": "body",
+     "order": 30,
+     "text": "We use Google Analytics 4 to allow us to analyze and regularly improve use of our website. By evaluating the statistics, we can continuously improve our content and make our website even more interesting for you."
+    },
+    {
+     "role": "body",
+     "order": 31,
+     "text": "Google Analytics 4 uses “cookies”. These are text files that are saved on your computer and enable analysis of your use of our website."
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "Information about your use of the website, which is obtained using cookies, is regularly transmitted to Google servers and stored by Google. Further transmission to Google LLC servers in the USA and storage there is not excluded."
+    },
+    {
+     "role": "body",
+     "order": 33,
+     "text": "When using Google Analytics 4, the IP address transmitted by your device when you use the website is only collected and processed by default and automatically in an anonymous manner, meaning that the collected information cannot be directly linked to a particular person. This automatic anonymization is carried out by Google truncating the IP address transmitted by your device to remove the last digits within European Union (EU) Member States or other signatories of the Agreement on the European Economic Area (EEA)."
+    },
+    {
+     "role": "body",
+     "order": 34,
+     "text": "We have obtained your consent to process your data in accordance with Art. 6(1)(1)(a) GDPR. Your consent also includes the transfer of the data to the USA with the risk of data being accessed by authorities."
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "Google evaluates the information on user behavior on our website for us, creates reports on this and uses the data to provide us as a website operator with further services related to website and Internet use."
+    },
+    {
+     "role": "body",
+     "order": 36,
+     "text": "When using Google Analytics 4, the IP address that is transmitted by your browser and truncated will not be combined with other data stored by Google."
+    },
+    {
+     "role": "body",
+     "order": 37,
+     "text": "If you do not want cookies to be stored (or want Google Analytics 4 to be deactivated), you can make this setting at any time via our cookie consent tool."
+    },
+    {
+     "role": "cta",
+     "order": 38,
+     "text": "here",
+     "href": "javascript:showCookieOptOutDialog()"
+    },
+    {
+     "role": "body",
+     "order": 39,
+     "text": "You can also prevent Google from collecting the data generated by the cookie and relating to your use of the website. Simply download and install the browser add-on available via the following link: . This also means that the IP address will no longer be recorded. By doing this, you will also prevent Google Analytics 4 from processing your data."
+    },
+    {
+     "role": "cta",
+     "order": 40,
+     "text": "https://tools.google.com/dlpage/gaoptout?hl=en",
+     "href": "https://tools.google.com/dlpage/gaoptout?hl=en"
+    },
+    {
+     "role": "body",
+     "order": 41,
+     "text": "As an extension to Google Analytics 4, the “UserIDs” function may be used on this website. If you have consented to the use of Google Analytics 4 in accordance with Art. 6(1)(a) GDPR, have set up an account on this website and log in using this account on various devices, your activities, including conversions, can be analyzed across devices."
+    },
+    {
+     "role": "body",
+     "order": 42,
+     "text": "For data transfers to the USA, the provider has joined the EU-US Data Privacy Framework, which ensures compliance with the European level of data protection on the basis of an adequacy decision from the European Commission."
+    },
+    {
+     "role": "body",
+     "order": 43,
+     "text": "As an extension to Google Analytics 4, Google Signals may be used on this website to generate cross-device reports."
+    },
+    {
+     "role": "body",
+     "order": 44,
+     "text": "The following data is collected by default for this purpose:"
+    },
+    {
+     "role": "body",
+     "order": 45,
+     "text": "Town/city"
+    },
+    {
+     "role": "body",
+     "order": 46,
+     "text": "Latitude (of the town/city)"
+    },
+    {
+     "role": "body",
+     "order": 47,
+     "text": "Longitude (of the town/city)"
+    },
+    {
+     "role": "body",
+     "order": 48,
+     "text": "Minor version of the browser"
+    },
+    {
+     "role": "body",
+     "order": 49,
+     "text": "User-agent string of the browser"
+    },
+    {
+     "role": "body",
+     "order": 50,
+     "text": "Device brand"
+    },
+    {
+     "role": "body",
+     "order": 51,
+     "text": "Device model"
+    },
+    {
+     "role": "body",
+     "order": 52,
+     "text": "Device name"
+    },
+    {
+     "role": "body",
+     "order": 53,
+     "text": "Minor version of the operating system"
+    },
+    {
+     "role": "body",
+     "order": 54,
+     "text": "Minor version of the platform"
+    },
+    {
+     "role": "body",
+     "order": 55,
+     "text": "Screen resolution"
+    },
+    {
+     "role": "body",
+     "order": 56,
+     "text": "If you have activated personalized ads and linked your devices to your Google account, Google may, subject to your consent to the use of Google Analytics 4 in accordance with Art. 6(1)(a) GDPR, analyze your usage behavior across devices and create database models, including for cross-device conversions. We do not receive any personal data from Google, only statistics. If you want to stop cross-device analysis, you can disable the “Personalized ads” function in your Google account settings. To do this, follow the instructions on this page: You can find more information about Google Signals via the following link:"
+    },
+    {
+     "role": "cta",
+     "order": 57,
+     "text": "https://support.google.com/ads/answer/2662922?hl=en",
+     "href": "https://support.google.com/ads/answer/2662922?hl=en"
+    },
+    {
+     "role": "cta",
+     "order": 58,
+     "text": "https://support.google.com/analytics/answer/7532985?hl=en",
+     "href": "https://support.google.com/analytics/answer/7532985?hl=en"
+    },
+    {
+     "role": "body",
+     "order": 59,
+     "text": "We may also use the “Demographics” function of Google Analytics 4 on our website. Demographic data is specific information about groups of people."
+    },
+    {
+     "role": "body",
+     "order": 60,
+     "text": "This function allows reports to be created that contain information about the age, gender and interests (known as demographics) of the users of our site. The data comes from interest-based advertising from Google, the Google Display Network and third-party visitor data. You can deactivate this function at any time via the ad settings in your Google account. However, it is also possible to deactivate Google Analytics 4 as described above. Simply download and install the browser add-on available via the following link: ."
+    },
+    {
+     "role": "cta",
+     "order": 61,
+     "text": "https://tools.google.com/dlpage/gaoptout?hl=en",
+     "href": "https://tools.google.com/dlpage/gaoptout?hl=en"
+    },
+    {
+     "role": "body",
+     "order": 62,
+     "text": "You will find additional information here:"
+    },
+    {
+     "role": "body",
+     "order": 63,
+     "text": "Relating to the terms: use: ."
+    },
+    {
+     "role": "cta",
+     "order": 64,
+     "text": "https://www.google.com/analytics/terms/de.html",
+     "href": "https://www.google.com/analytics/terms/de.html"
+    },
+    {
+     "role": "body",
+     "order": 65,
+     "text": "The Google privacy policy:"
+    },
+    {
+     "role": "cta",
+     "order": 66,
+     "text": "https://privacy.google.com/businesses/compliance/#!#gdpr",
+     "href": "https://privacy.google.com/businesses/compliance/#!#gdpr"
+    },
+    {
+     "role": "body",
+     "order": 67,
+     "text": "Relating to Google (Universal) Analytics:"
+    },
+    {
+     "role": "cta",
+     "order": 68,
+     "text": "https://support.google.com/analytics/answer/3379636?hl=en",
+     "href": "https://support.google.com/analytics/answer/3379636?hl=en"
+    },
+    {
+     "role": "body",
+     "order": 69,
+     "text": "Google Tag Manager enables website tags to be managed via an interface. It implements tags only, but no cookies are set and no Personal Data is collected. Google Tag Manager may trigger other tags that may collect data where required, whereas we do not access this data via Google Tag Manager. Please find further information about Google Tag Manager at the following link:"
+    },
+    {
+     "role": "body",
+     "order": 70,
+     "text": "Google Tag Manager"
+    },
+    {
+     "role": "cta",
+     "order": 71,
+     "text": "http://www.google.de/tagmanager/use-policy.html",
+     "href": "http://www.google.de/tagmanager/use-policy.html"
+    },
+    {
+     "role": "body",
+     "order": 72,
+     "text": "We use the visualization tool Google Data Studio for visualizing our web analysis data. The visualization is done in so-called \"dashboards\". No cookies are set, and no personal data is collected. The web tool Google Data Studio is started via the web and requires no local application. Further information about Google Data Studio can be found at:"
+    },
+    {
+     "role": "body",
+     "order": 73,
+     "text": "Google Data Studio:"
+    },
+    {
+     "role": "cta",
+     "order": 74,
+     "text": "support.google.com/datastudio/answer/6283323",
+     "href": "https://support.google.com/datastudio/answer/6283323"
+    },
+    {
+     "role": "body",
+     "order": 75,
+     "text": "Facebook Pixel & LinkedIn Insight Tag"
+    },
+    {
+     "role": "body",
+     "order": 76,
+     "text": "We use the Facebook Pixel and the LinkedIn Insight Tag on our website. Detailed information on the use and data collection and processing can be found"
+    },
+    {
+     "role": "cta",
+     "order": 77,
+     "text": "here.",
+     "href": "javascript:showCookieOptOutDialog()"
+    },
+    {
+     "role": "body",
+     "order": 78,
+     "text": "(not cookie based)"
+    },
+    {
+     "role": "body",
+     "order": 79,
+     "text": "etracker"
+    },
+    {
+     "role": "body",
+     "order": 80,
+     "text": "On our website, we use the services of etracker GmbH, Erste Brunnenstraße 1, 20459 Hamburg, to analyze usage data. We do not use cookies for web analysis with etracker."
+    },
+    {
+     "role": "body",
+     "order": 81,
+     "text": "The collection and processing of data is based on the legal provisions of Art. 6 Para. 1 lit. f (legitimate interest) GDPR. Our interest in terms of the DSGVO is the optimization of our online offer and our web presence. As the privacy of our visitors is important to us, the data that may allow a reference to an individual person, such as the IP address, registration or device IDs, are anonymized or pseudonymized as soon as possible. No other use, combination with other data or transfer to third parties will take place."
+    },
+    {
+     "role": "body",
+     "order": 82,
+     "text": "The data generated with etracker is processed and stored by etracker on behalf of the provider of this website exclusively in Germany and is therefore subject to the strict German and European data protection laws and standards. etracker has been independently tested, certified and awarded the data protection seal of approval."
+    },
+    {
+     "role": "cta",
+     "order": 83,
+     "text": "ePrivacyseal",
+     "href": "https://www.eprivacy.eu/en/customers/awarded-seals/company/etracker-gmbh/"
+    },
+    {
+     "role": "body",
+     "order": 84,
+     "text": "You can object to the above-mentioned data processing at any time and unsubscribe from etracker's data collection ."
+    },
+    {
+     "role": "cta",
+     "order": 85,
+     "text": "here",
+     "href": "https://www.etracker.de/privacy?et=9J3sQx"
+    },
+    {
+     "role": "body",
+     "order": 86,
+     "text": "Further information on data protection at etracker can be found ."
+    },
+    {
+     "role": "cta",
+     "order": 87,
+     "text": "here",
+     "href": "https://www.etracker.com/en/data-privacy/"
+    },
+    {
+     "role": "body",
+     "order": 88,
+     "text": "7. Secure data transfer"
+    },
+    {
+     "role": "body",
+     "order": 89,
+     "text": "We have taken extensive technical and operational security precautions to ensure that the personal data we store is protected against unauthorised access and misuse. Our security precautions are reviewed regularly and adapted in line with the latest technologies."
+    },
+    {
+     "role": "body",
+     "order": 90,
+     "text": "8. Your rights"
+    },
+    {
+     "role": "body",
+     "order": 91,
+     "text": "Transparency is very important to us. In accordance with our legal obligation, we will be happy to inform you whether we have stored your personal data – and if so, what personal data. If you wish to receive this information, please send us a written request. As stipulated in the German Data Protection Act (BDSG), you can, if applicable, demand that this data be corrected, blocked or deleted, provided this is permitted under the statutory record retention requirements."
+    },
+    {
+     "role": "body",
+     "order": 92,
+     "text": "We will also be happy to provide you with our public list of procedures, which contains the information required by section 4g (2) in conjunction with section 4e BDSG. If you wish to receive this list, please contact: dataprotection@kiongroup.com"
+    },
+    {
+     "role": "body",
+     "order": 93,
+     "text": "If you have any questions about the processing of your personal data, you can also contact our Group data protection officer, who is available if you require information or have any suggestions or complaints."
+    },
+    {
+     "role": "body",
+     "order": 94,
+     "text": "9. Contact details for the data protection officer"
+    },
+    {
+     "role": "body",
+     "order": 95,
+     "text": "KION GROUP AG Data Protection Department Thea-Rasche-Straße 8 60549 Frankfurt am Main Email:"
+    },
+    {
+     "role": "cta",
+     "order": 96,
+     "text": "dataprotection@kiongroup.com",
+     "href": "mailto:dataprotection@@@@kiongroup....com"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 64,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 82,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "headline",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Information on data processing pursuant to article 13 DSGVO for business partners (customers & suppliers)"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "article",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Linde Material Handling GmbH Carl-von-Linde Platz 63743 Aschaffenburg Germany https://www.linde-mh.de"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Name and contact details of the controller:"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "KION GROUP AG Data Protection Department Thea-Rasche-Straße 8 60549 Frankfurt am Main Email:"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Contact details of the data protection officer"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "dataprotection@kiongroup.com",
+     "href": "mailto:dataprotection@@@@kiongroup....com"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Purpose and legal basis of the personal data processing:"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "For the purpose of contract execution according to Art. 6 para. 1 lit. b DSGVO)"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "To fulfil legal obligations (such as, for example, the fulfilment of the tax obligation or the legal retention periods) pursuant to Art. 6 para. 1 lit. c DSGVO"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "For safeguarding the legitimate interest pursuant to Art. 6 para. 1 lit. f DSGVO"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "If a declaration of consent has been given, for the purposes of the given declaration of consent pursuant to Art. 6 para. 1 lit. a DSGVO"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Legitimate interests being pursued:"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Sending information on products and services of The Linde-MH Group by e-mail, post or telephone, in which an interest of the recipient is assumed;"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Determination and improvement of general customer satisfaction;"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "Monitoring the quality of products and services and identifying potential for improvement;"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "To carry out and maintain the business relationship;"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "Internal administrative activities within the KION Group AG companies."
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "Storage shall only take place for as long as it is necessary for the intended purposes and/or has not been objected to."
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Storage period or criteria for determining duration:"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "The data transfer shall take place"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Recipients or categories of recipients of the personal data (if data transmission takes place):"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "to public organizations,"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "to other companies in the KION Group AG,"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "and to service providers insofar as this is necessary for the intended purposes.Consignees in third countries"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "Transfers are made to third countries, provided that the recipients mentioned above are established there. The data transfer is secured on the basis of EU standard contracts."
+    },
+    {
+     "role": "body",
+     "order": 24,
+     "text": "Consignees in third countries"
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "The data subject shall have the right to obtain from the controller confirmation as to whether personal data relating to him or her will be processed; if this is the case, he or she shall have the to such personal data and to the information specified in Art. 15 DSGVO. The data subject has the to demand that the data controller immediately rectify any inaccurate personal data concerning him or her and, if applicable, any incomplete personal data (Art. 16 DSGVO). The data subject has the right to demand that the controller delete personal data relating to him or her immediately if one of the reasons specified in Art. 17 DSGVO applies, e.g. if the data is no longer required for the purposes pursued ."
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "References to the rights of data subjects"
+    },
+    {
+     "role": "body",
+     "order": 27,
+     "text": "right of access"
+    },
+    {
+     "role": "body",
+     "order": 28,
+     "text": "right"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "(right to deletion)"
+    },
+    {
+     "role": "body",
+     "order": 30,
+     "text": "The data subject has the right to require the controller to restrict the processing if one of the conditions listed in Art. 18 DSGVO is met, e.g. if the data subject has lodged an objection to the processing, for the duration of the controller's examination."
+    },
+    {
+     "role": "body",
+     "order": 31,
+     "text": "The data subject shall have the at any time to the processing of personal data concerning him for reasons relating to his particular situation. The controller will then no longer process the personal data unless he can prove compelling grounds for processing worthy of protection which outweigh the interests, rights and freedoms of the data subject, or the processing serves to assert, exercise or defend legal claims (Art. 21 DSGVO)."
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "right to object"
+    },
+    {
+     "role": "body",
+     "order": 33,
+     "text": "Without prejudice to any other administrative or judicial remedy, any data subject shall have the if he or she considers that the processing of his or her personal data infringes the DSGVO (Art. 77 DSGVO). The data subject may exercise this right before a supervisory authority in the Member State of his/her place of residence, employment or presumed infringement."
+    },
+    {
+     "role": "body",
+     "order": 34,
+     "text": "right to appeal to a supervisory authority"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "In Bavaria, the competent authority is the supervisory authority: Bavarian State Office for Data Protection Supervision (BayLDA) Promenade 27 91522 Ansbach, Germany https://www.lda.bayern.de"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 15,
+   "repeats": [
+    {
+     "unitSelector": "P.intro",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "UL.bullets",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 4
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "headline",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Information for future employees/applicants"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "article",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Information for future employees / Applicants"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "On our website, we offer applicants the opportunity to apply by providing personal data and to register on the applicant portal. The data is entered into an input mask and transmitted to us and stored. In addition to the data protection declaration of the career page, the following applies:"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "The following data is collected as part of the registration process:"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Salutation (Mrs/Mr)"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Title before Name"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "First name"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Last name"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "E-mail address/Login*"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Password"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "User language"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Street"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "POSTCODE"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "Location"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "Country (dropdown list)"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Phone"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "Mobile"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "LinkedIn Profile"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "XING profile"
+    },
+    {
+     "role": "body",
+     "order": 18,
+     "text": "Personal data in the letter of application"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Personal data in the curriculum vitae*"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "Personal data in other documents"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "Fields marked with * are mandatory."
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "The registration with e-mail address and password is necessary for the provision of certain contents on our applicant portal."
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "Your personal data and the submitted application documents will be deleted within six (6) months after completion of the application process, unless we are required by law or an official decision to retain them for a longer period of time or unless we need this data to settle outstanding claims. If we enter into a contract with you, the information submitted will be recorded in the electronic personnel file."
+    },
+    {
+     "role": "body",
+     "order": 24,
+     "text": "The data will be passed on to employees of the personnel department and the respective specialist department of KION GROUP AG or the subsidiaries commissioned with filling the vacancies. Your personal data will also be processed on our behalf by the operator of the Umantis online application management tool (so-called order data processing). The order data processor is Haufe-Lexware GmbH & Co.KG, Munzinger Straße 9, 79111 Freiburg, Germany. This stores your personal data, which you make available to us through your application, on a server in Switzerland. Switzerland has a data protection level comparable to that of the EU. This has been established by the European Commission in an adequacy decision. Your data is therefore just as secure under data protection law as if it were a server in Germany."
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "You can withdraw your application and cancel your registration at any time. In this case, your data will be deleted and your application removed from the application process."
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "If you process personal data on this website, you are the person concerned pursuant to Art. 4 No. 1 DSGVO. You are entitled to the named data subjects' rights vis-à-vis those responsible."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 10,
+   "repeats": []
+  }
+ ]
+}

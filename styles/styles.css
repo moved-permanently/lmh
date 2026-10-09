@@ -1,0 +1,693 @@
+/*
+ * styles/styles.css — linde-mh.com/en replica foundation (re-authored from stardust/prototypes/canon.css).
+ * Structural layer (body gate, chrome reservation, section scaffold) kept from the boilerplate.
+ * Fonts: FF Daxline Pro is licensed → Nunito Sans substitute, brand family first (stardust/replica/fonts.md).
+ */
+:root {
+  /* source :root, verbatim */
+  --color-red: #aa0020;
+  --color-toned-red: #cc132a;
+  --color-darkred: #990e1f;
+  --color-darkgrey: #222;
+  --color-text-darkgrey: #444;
+  --color-textgrey: #4a595c;
+  --color-toned-textgrey: #5e7175;
+  --color-shadegrey: #e6e7eb;
+  --color-lightgrey: #eeeff3;
+  --color-hover-lightgrey: #f5f6fa;
+  --color-white: #fff;
+  --color-form-lightgrey: #cccdd1;
+  --color-form-darkgrey: #9b9b9e;
+  --color-black: #222;
+  --color-form-validation: red;
+  --color-green: #77b340;
+  --color-toned-green: color-mix(in srgb, var(--color-green), #fff 10%);
+  --color-darkgreen: color-mix(in srgb, var(--color-green), #000 10%);
+  --color-primary-700: #94001d;
+  --color-primary-900: #700016;
+  --color-carousel-grey: #354042;
+  --color-carousel-lightgrey: #6b6b6a;
+  --color-carousel-red: #ba1926;
+  --color-facebook: #3b5998;
+  --color-twitter: #000;
+  --color-xing: #126567;
+  --color-youtube: #cd201f;
+  --color-vimeo: #1ab7ea;
+  --color-twitch: #6441a5;
+  --color-whatsapp: #25d366;
+  --color-linkedin: #0077b5;
+  --color-googleplus: #d34836;
+  --color-baidu: #de0f17;
+  --color-pinterest: #bd081c;
+  --color-instagram: #e1306c;
+  --color-blogger: #f57d00;
+  --color-flickr: #0063dc;
+  --color-kununu: #000;
+  --color-tiktok: #000;
+  --color-toned-red2: #ba1926;
+  --color-lightgrey2: #e4e5ea;
+  --font-face: "DaxlineWebPro";
+  --font-face-bold: "DaxlineWebPro-Bold";
+  --font-face-italic: "DaxlineWebPro-Italic";
+  --font-face-medi: "DaxWebPro-Medi";
+  --font-face-light: "DaxWebPro-Light";
+  --color-lmh-grey-200: #dcdcdf;
+  --color-lmh-grey-300: #cccdd1;
+
+  /* replica additions: substitute faces (brand first, then substitute, then the metric fallback) */
+  --font-sub: "NunitoSans";
+  --font-sub-bold: "NunitoSans-Bold";
+  --body-font-family: var(--font-face), var(--font-sub), nunitosans-fallback, arial, sans-serif;
+  --bold-font-family: var(--font-face-medi), var(--font-sub-bold), nunitosans-fallback, arial, sans-serif;
+  --icon-font-family: "LindeGlobalIconFont";
+
+  /* layout: shell cap 1600, content cap 1280 (DESIGN.json extensions.breakpoints) */
+  --shell-max-width: 1600px;
+  --background-color: var(--color-white);
+  --content-max-width: 1280px;
+
+  /* chrome reservation: mobile header 56px; desktop 48px meta band + 100px header */
+  --nav-height: 56px;
+  --nav-height-small: 56px;
+}
+
+/* metric fallback for the substitute (available at first paint): Daxline/Nunito 1.0em line box */
+@font-face {
+  font-family: nunitosans-fallback;
+  src: local("Arial");
+  ascent-override: 74%;
+  descent-override: 26%;
+  line-gap-override: 0%;
+}
+
+@media (width >= 1024px) {
+  :root {
+    --nav-height: 148px;
+    --nav-height-small: 114px; /* live stitched capture: the scrolled document is 34px shorter, not 38 */
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  font-family: var(--body-font-family);
+  font-size: 16px;
+  font-feature-settings: "lnum" 1;
+  line-height: 150%;
+  color: var(--color-darkgrey);
+  text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgb(0 0 0 / 0%);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (width >= 640px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+body {
+  display: none;
+  position: relative;
+  margin: 0;
+  min-height: 100%;
+  background-color: var(--color-white);
+  color: var(--color-darkgrey);
+  font-family: var(--body-font-family);
+}
+
+body.appear {
+  display: block;
+}
+
+/* chrome reservation — the fixed header's in-flow box (morphs with the scroll state, like the live document) */
+header {
+  height: var(--nav-height);
+  background: var(--color-white);
+}
+
+header.small-state {
+  height: var(--nav-height-small);
+}
+
+/* desktop: the source body-container's 48px top band (meta strip) sits above the 100px header box */
+@media (width >= 1024px) {
+  header {
+    padding-top: 48px;
+  }
+}
+
+header .header,
+footer .footer {
+  visibility: hidden;
+}
+
+header .header[data-block-status="loaded"],
+footer .footer[data-block-status="loaded"] {
+  visibility: visible;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: var(--bold-font-family);
+  font-weight: 400;
+  line-height: 1.25;
+  scroll-margin: 160px;
+}
+
+p {
+  margin: 0;
+  line-height: 1.75;
+}
+
+ul,
+ol {
+  margin: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border: 0;
+}
+
+input,
+textarea,
+select,
+button {
+  font: inherit;
+  color: inherit;
+}
+
+/* links */
+a:any-link {
+  color: var(--color-red);
+  text-decoration: none;
+  line-height: 1;
+  background-color: transparent;
+  overflow-wrap: break-word;
+}
+
+a:hover {
+  color: var(--color-primary-700);
+}
+
+/* icon font (glyph codepoints from the census) */
+.icon {
+  display: inline-block;
+  vertical-align: middle;
+  font-family: var(--icon-font-family);
+  font-size: 24px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-transform: none;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
+
+.icon-menu::before { content: "\f142"; }
+.icon-left::before { content: "\f13d"; }
+.icon-right::before { content: "\f153"; }
+.icon-close::before { content: "\f12d"; }
+.icon-down::before { content: "\f12f"; }
+.icon-pin::before { content: "\f14b"; }
+.icon-lmhiconssafety::before { content: "\f181"; }
+.icon-lmhiconsmeasurementblack::before { content: "\f179"; }
+.icon-search::before { content: "\f154"; }
+.icon-logout::before { content: "\f13e"; }
+.icon-mail::before { content: "\f13f"; }
+.icon-print::before { content: "\f14f"; }
+.icon-play::before { content: "\f14c"; }
+.icon-linkedin::before { content: "\f107"; }
+.icon-facebook::before { content: "\f103"; }
+.icon-instagram::before { content: "\f106"; }
+.icon-youtube::before { content: "\f196"; }
+
+a.external-link-icon::after {
+  content: "\00a0\f19f";
+  position: relative;
+  top: 3px;
+  font-family: var(--icon-font-family);
+}
+
+li a.external-link-icon::after {
+  color: var(--color-textgrey);
+}
+
+li a.external-link-icon:hover::after {
+  color: var(--color-red);
+}
+
+/* buttons — the source .btn family mapped onto the EDS .button convention */
+p.button-wrapper {
+  margin: 12px 0;
+}
+
+a.button:any-link,
+button.button {
+  display: inline-block;
+  position: relative;
+  max-width: 100%;
+  margin: 0;
+  border: 1px solid transparent;
+  padding: 8px 16px;
+  background: none;
+  font: inherit;
+  font-size: 1rem;
+  line-height: 30px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a.button.primary,
+button.button.primary,
+a.button.accent,
+button.button.accent {
+  background-color: var(--color-red);
+  color: var(--color-white);
+}
+
+a.button.primary:hover,
+a.button.primary:focus-visible,
+button.button.primary:hover,
+button.button.primary:focus-visible,
+a.button.accent:hover,
+a.button.accent:focus-visible,
+button.button.accent:hover,
+button.button.accent:focus-visible {
+  background-color: var(--color-primary-700);
+  color: var(--color-white);
+}
+
+a.button.primary:active,
+button.button.primary:active {
+  background-color: var(--color-primary-900);
+}
+
+a.button.secondary,
+button.button.secondary {
+  border-color: var(--color-red);
+  background-color: var(--color-white);
+  color: var(--color-red);
+}
+
+a.button.secondary:hover,
+a.button.secondary:focus-visible,
+button.button.secondary:hover,
+button.button.secondary:focus-visible {
+  border-color: var(--color-primary-700);
+  color: var(--color-primary-700);
+}
+
+a.button[aria-disabled="true"],
+button.button:disabled {
+  cursor: not-allowed;
+  pointer-events: none;
+  opacity: 0.6;
+}
+
+a.textlink {
+  font-family: var(--bold-font-family);
+  font-weight: 700;
+}
+
+/* sections — shell cap 1600, content cap 1280; the source has no inter-section rhythm */
+main {
+  position: relative;
+  max-width: var(--shell-max-width);
+  margin: 0 auto;
+  padding: 0 0 22.5px;
+  background: var(--color-white);
+  overflow-x: clip; /* source .body-container { overflow-x: hidden }: URLs overflow the column only */
+}
+
+main > .section {
+  margin: 0;
+}
+
+main > .section > div {
+  max-width: var(--content-max-width);
+  margin: auto;
+}
+
+main .section:empty {
+  display: none;
+}
+
+/* full-shell escape for the chrome-like page bands (breadcrumb, red headline, anchor row) */
+main > .section.red > div,
+main > .section.anchor-nav > div,
+main > .section.breadcrumb-container > div {
+  max-width: none;
+}
+
+/* sticky stack (source stickystacky: header → breadcrumb → anchor row in one fixed wrapper; the
+   header block JS sets `top` and the shared slide transform; the last element stays pinned) */
+main > .section.stack-sticky {
+  position: sticky;
+  z-index: 9998;
+  background: var(--color-white);
+}
+
+main > .section.stack-last > div {
+  box-shadow: 0 2px 3px 0 rgb(34 34 34 / 20%);
+}
+
+/* section style: red headline band (source .layout-100-headline--flex.layout--red) */
+main .section.red {
+  background: var(--color-red);
+}
+
+main .section.red > div {
+  padding: 2rem 2rem 0;
+  text-align: center;
+}
+
+main .section.red h1,
+main .section.red h2 {
+  max-width: 1216px;
+  margin: 0 auto;
+  font-size: 1.5rem;
+  line-height: 125%;
+  letter-spacing: -0.016em;
+  color: var(--color-white);
+}
+
+@media (width >= 768px) {
+  main .section.red h1,
+  main .section.red h2 {
+    font-size: 3rem;
+  }
+}
+
+@media (width >= 960px) {
+  main .section.red > div {
+    padding-top: 8rem;
+  }
+}
+
+@media (width >= 1280px) {
+  main .section.red > div {
+    padding-top: 36px;
+    padding-bottom: 4px;
+  }
+}
+
+/* section style: anchor-nav (source .navigation-anchor-navigation — one scrollable row, 50px clip) */
+main .section.anchor-nav > div {
+  position: relative;
+  height: 51px;
+  border-bottom: 1px solid var(--color-lightgrey);
+  background: var(--color-white);
+  box-shadow: 0 2px 3px 0 rgb(34 34 34 / 20%);
+}
+
+/* the row itself is the scroll container (source .navigation-anchor-navigation: the items past the edge are
+   reachable by scrolling); the scrollbar is hidden by scrollbar-width, not by clipping the row behind an
+   overflow-hidden wrapper — content-presence reads a wrapper clip as HIDDEN (company 360: "Compliance") */
+main .section.anchor-nav ul {
+  height: 100%;
+  margin: 0 auto;
+  padding: 0;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: none;
+  list-style: none;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  text-align: center;
+  white-space: nowrap;
+}
+
+main .section.anchor-nav ul::-webkit-scrollbar {
+  display: none;
+}
+
+main .section.anchor-nav li {
+  display: inline-block;
+}
+
+main .section.anchor-nav li a {
+  display: block;
+  position: relative;
+  padding: 16px;
+  color: var(--color-darkgrey);
+  line-height: 1;
+  white-space: nowrap;
+}
+
+main .section.anchor-nav li a:hover {
+  color: var(--color-red);
+}
+
+main .section.anchor-nav > div.overflow::after {
+  content: "\f153";
+  position: absolute;
+  top: 1px;
+  right: 0;
+  width: 48px;
+  height: 48px;
+  padding: 12px;
+  background: var(--color-red);
+  color: var(--color-white);
+  font-family: var(--icon-font-family);
+  font-size: 24px;
+  line-height: 1;
+  text-align: center;
+}
+
+@media (width >= 1024px) {
+  main .section.anchor-nav > div {
+    height: 52px;
+    border-top: 1px solid var(--color-lightgrey);
+  }
+
+  main .section.anchor-nav ul {
+    max-width: var(--content-max-width);
+  }
+
+  main .section.anchor-nav li a {
+    padding: 16px 48px;
+  }
+}
+
+/* static template (Legal-Notes, EDI): centred article column, source .layout-article--centered.dom-content */
+.static main .section:not(.red, .anchor-nav) > .default-content-wrapper {
+  display: block;
+  max-width: var(--content-max-width);
+  padding: 6.25vw 2.5vw;
+  letter-spacing: -0.003em;
+}
+
+.static main .section:not(.red, .anchor-nav) > .default-content-wrapper > * {
+  max-width: 640px;
+}
+
+.static main .section:not(.red, .anchor-nav) > .default-content-wrapper p {
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+.static main .section:not(.red, .anchor-nav) > .default-content-wrapper p + p {
+  margin-top: 0.5em;
+}
+
+.static main .section:not(.red, .anchor-nav) > .default-content-wrapper ul + p,
+.static main .section:not(.red, .anchor-nav) > .default-content-wrapper ol + p {
+  margin-top: 0.95rem; /* live: 1em of the body paragraph size, also before an intro paragraph */
+}
+
+/* intro paragraphs: the first paragraph of an article, or every paragraph of a section styled `intro` */
+.static main .section:not(.red, .anchor-nav) > .default-content-wrapper > p:first-child,
+.static main .section.intro:not(.red, .anchor-nav) > .default-content-wrapper p {
+  margin-bottom: 1em;
+  font-size: 1.125rem;
+  line-height: 1.5;
+}
+
+.static main .section:not(.red, .anchor-nav) > .default-content-wrapper ul,
+.static main .section:not(.red, .anchor-nav) > .default-content-wrapper ol {
+  margin: 0.5em 0;
+  padding: 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  list-style: none;
+}
+
+.static main .section:not(.red, .anchor-nav) > .default-content-wrapper li {
+  position: relative;
+  margin: 0 0 0.25em;
+  padding: 0 0 0 1.125em;
+  line-height: 1.5;
+}
+
+.static main .section:not(.red, .anchor-nav) > .default-content-wrapper li::before {
+  content: "\2013";
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: var(--color-red);
+}
+
+.static main .section:not(.red, .anchor-nav) > .default-content-wrapper a:any-link {
+  font-family: var(--bold-font-family);
+  font-weight: 700;
+  line-height: inherit;
+  letter-spacing: -0.016em;
+  overflow-wrap: normal; /* live: long URLs overflow the column instead of breaking */
+}
+
+.static main .section:not(.red, .anchor-nav) > .default-content-wrapper b,
+.static main .section:not(.red, .anchor-nav) > .default-content-wrapper strong {
+  font-weight: 700;
+}
+
+/* source a.external_link_icon: off-site links carry the icon-font glyph (adds the live 4px to the line) */
+.static main .section:not(.red, .anchor-nav) > .default-content-wrapper a[href^="http"]:not([href*="linde-mh."])::after,
+.static main .section:not(.red, .anchor-nav) > .default-content-wrapper a[href^="#CCM"]::after {
+  content: "\00a0\f19f";
+  position: relative;
+  top: 3px;
+  font-family: var(--icon-font-family);
+  font-weight: 400;
+}
+
+@media (width <= 639px) {
+  .static main .section:not(.red, .anchor-nav) > .default-content-wrapper {
+    letter-spacing: -0.017em;
+  }
+
+  .static main .section:not(.red, .anchor-nav) > .default-content-wrapper > p:first-child,
+  .static main .section.intro:not(.red, .anchor-nav) > .default-content-wrapper p {
+    letter-spacing: -0.0134em;
+  }
+
+  .static main .section:not(.red, .anchor-nav) > .default-content-wrapper a:any-link {
+    letter-spacing: -0.0049em;
+  }
+
+  main .section.red h1,
+  main .section.red h2 {
+    letter-spacing: -0.0075em;
+  }
+}
+
+@media (width >= 1280px) {
+  .static main .section:not(.red, .anchor-nav) > .default-content-wrapper {
+    padding: calc(32px + 1.25vw) 32px;
+  }
+
+  .static main .section:not(.red, .anchor-nav) > .default-content-wrapper > * {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* stylelint-disable no-descending-specificity */
+
+/* Experience Workspace edit mode: repaint CTAs from their authored marks */
+.prosemirror-editor p > :is(strong, em) > a:any-link,
+.prosemirror-editor p > a:any-link:has(> :is(strong, em):only-child) {
+  display: inline-block;
+  border: 1px solid transparent;
+  padding: 8px 16px;
+  font-size: 1rem;
+  line-height: 30px;
+  text-align: center;
+}
+
+.prosemirror-editor p > a:any-link > :is(strong, em) {
+  font-weight: inherit;
+  font-style: inherit;
+}
+
+.prosemirror-editor p > strong > a:any-link,
+.prosemirror-editor p > a:any-link:has(> strong:only-child) {
+  background-color: var(--color-red);
+  color: var(--color-white);
+}
+
+.prosemirror-editor p > em > a:any-link,
+.prosemirror-editor p > a:any-link:has(> em:only-child) {
+  border-color: var(--color-red);
+  background-color: var(--color-white);
+  color: var(--color-red);
+}
+
+a .prosemirror-editor a:any-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* stylelint-enable no-descending-specificity */
+
+/* content lists in the article text column (landing / product / press templates — the static template carries the
+   same rules above): source ol,ul (live bundle @26784 list-style none; @35849 .95rem / 150 %) and .running-text ul,
+   ul.bullets (@39694–@40113: .5em margins, padding 0; li 1.125em indent, .25em gap, a red en dash absolute at left 0);
+   ol.bullets (@40231–@40407: counter, li 1.5em indent, −1.325em text-indent, red bold tabular number .85rem in a 1.5em
+   box). Measured energy-systems 360: the build rendered disc markers at the paragraph size with the browser's 40px
+   indent, every item wrapped to two lines and the list ran 100+ px taller than the source's. The horizontal margins
+   stay auto: the 640px column is centred by hero.css (.section.article :is(…, ul, ol) { max-width: 640px }). */
+main .section.article > .default-content-wrapper ul,
+main .section.article > .default-content-wrapper ol {
+  margin: 0.5em auto;
+  padding: 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  list-style: none;
+}
+
+main .section.article > .default-content-wrapper ul li {
+  position: relative;
+  margin: 0 0 0.25em;
+  padding: 0 0 0 1.125em;
+  line-height: 1.5;
+}
+
+main .section.article > .default-content-wrapper ul li::before {
+  content: "\2013";
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: var(--color-red);
+}
+
+main .section.article > .default-content-wrapper ol {
+  counter-reset: item;
+}
+
+main .section.article > .default-content-wrapper ol > li {
+  margin: 0 0 0.25em;
+  padding: 0 0 0 1.5em;
+  text-indent: -1.325em;
+  counter-increment: item;
+}
+
+main .section.article > .default-content-wrapper ol > li::before {
+  content: counter(item);
+  display: inline-block;
+  width: 1.5em;
+  padding-right: 0.5em;
+  color: var(--color-red);
+  font-family: var(--bold-font-family);
+  font-size: 0.85rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums lining-nums;
+  text-align: right;
+}

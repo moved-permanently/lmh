@@ -1,0 +1,395 @@
+{
+ "source": "http://localhost:8804/stardust/migrated/en/Products/Tow-Trucks/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Tow tractors and platform trucks"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Ergonomic solutions for faster goods transport"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Goods transport at any operating site"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The efficiency of transport processes with tow tractors and platform trucks is proven in difficult areas: narrow aisles, small loading areas, steep ramps or uneven surfaces make smooth operation difficult and place strain on the driver. Tow tractors and platform trucks from Linde Material Handling are designed to meet these requirements, and so provide high throughputs. Modern steering systems allow precise driving maneuvers and small turning circles."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Comprehensively damped driver work stations ensure that the operators can work without fatigue. In addition, many trucks have several braking systems for greater safety in any driving situation. The tow tractors and platform trucks from Linde Material Handling tow trailer loads of between three and 25 tons. Large trucks with separate platforms can also take a load of up to two tons."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Find your forklift truck here",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?productTypes[]=2370&offerType=new"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Large model portfolio for any application"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "From the small P20 pedestrian-controlled tow tractor to the large P250 platform truck with 25 metric tons of towing capacity, Linde offers a wide range of trucks with individual characteristics and performance values. Depending on the model, the tow tractors are very narrow, for example, and are therefore ideally suited to very narrow aisles, are particularly well damped for uneven driving surfaces or are even safer due to the use of robust driver’s cabs. Linde provides the right model for any transport assignment and operating site, which is a basic requirement for efficiently transporting goods."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "2"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Safety first"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Extremely heavy loads, narrow aisles, streamlined processes: this mix can quickly result in the risk of accidents. Tow tractors and platform trucks from Linde are therefore equipped with safety technology that reliably protects the driver and the load. The brakes for example: Many trucks have several braking systems for different driving situations. Because the tow tractor does not always come to a stop quickly, the brake for example also prevents the load truck from rolling backwards when driving up a gradient. The twin grip steering control is also important for the safety of the tow tractor models. It is designed such that the driver always moves within the truck contour when steering. And not least, all the tow tractors and platform trucks from Linde have a solid chassis, which protects the driver's body."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "The driver's health is the focus"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Drivers of tow tractors and platform trucks often spend a lot of time in the truck. So that they can remain focused and not become fatigued too quickly, Linde relies on fully damped and ergonomic work stations. Therefore, the cabs of large platform trucks are oscillatingly mounted, for example. Smaller tow tractors have fully suspended driver platforms with damping floor mats. This means that powerful shocks and vibrations rarely reach the driver. All the trucks are also equipped with ergonomic control and design elements. For example, these include the easy to operate twin grip steering control in the smaller tow tractors or intuitively arranged control elements in trucks with cabs. The driver can adjust the steering wheels and seats to their needs. Low entry heights make it easier to access the truck."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Making navigation easier"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Three factors play a crucial role in influencing how well the tow tractor can be navigated: the external dimensions, the turning circle and the accuracy of the steering. Electric tow tractors from Linde therefore have a particularly compact construction, making travel through narrow aisles easier. In addition to this, tow tractors and platform trucks have particularly narrow turning circles. This takes the hassle out of difficult driving maneuvers in combination with the precise and smooth power steering."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "5 x more output"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Faster",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Safer",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "More Robust",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Easier",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Healthier",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "Faster"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "All the tow tractors and platform trucks reach their top speed quickly and smoothly, with or without a trailer load. In combination with a high towing force, it can deal with increasing throughputs."
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Safer"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "In many trucks, various braking systems are used which complement one another and ensure safety in any driving situation."
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "More Robust"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Whether it's a solid steel chassis or a maintenance-free three-phase motor, tow tractors from Linde have robust technology for low life cycle costs."
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "Easier"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "All the tow tractors and platform trucks have a CAN bus connection. Using this, service technicians simply connect their notebook, check the data and adjust the truck to the particular working conditions on site."
+    },
+    {
+     "role": "heading",
+     "order": 13,
+     "text": "Healthier"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "The height of the steering wheel and seat (or the back pan) can be adjusted, and precisely adapted to the driver's needs."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 11,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Innovations for greater comfort, efficiency and safety"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde is continuously developing all the components of the drive and braking system, through to the control unit. This results in innovations that make the transport process more efficient, comfortable and safe. Example for driving characteristics: In the P30 C and P50 C tow tractors, the control console, the backrest and the driver’s platform form a U-shaped unit. This means that all the contact points between the driver and the truck are consistently well damped. Powerful shocks rarely reach the driver. The large platform trucks are of a similar quality, as the cab is positioned entirely on hydraulic oscillating elements. This means that the driver can remain focused for longer and will not become fatigued so quickly."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Customized tow tractors"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Linde builds tow tractors and platform trucks in a customized manner. Cabs with and without doors and platforms with and without bodies are available for large trucks. Depending on what is selected, entirely different trucks are produced on the basis of the same basic model. In addition, there are various wheels, tow hitches, lighting systems, charging connections, holding systems for IT technology and much more. Once completed, the finished tow trailer solution is ideally suited to the application, and this ensures that goods are transported from A to B quickly and smoothly."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Flying starts on the ground",
+     "href": "../../../en/About-us/Magazine/Airport-Logistics.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Ground handling is a challenge for airport logistics. The demands on industrial trucks and logistics solutions are correspondingly high. Demand is for robust vehicles that enable fast and safe handling and are increasingly focusing on alternative drive systems."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Airport-Logistics.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "In use on the race track",
+     "href": "../../../en/About-us/Magazine/Linde-Rental-Service-for-Formula-Student-Germany.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The Linde Rental Solutions has been ensuring fast and professional setup and dismantling as well as performing other logistics tasks at the Formula Student Germany for many years. This requires a number of challenges to be overcome."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Linde-Rental-Service-for-Formula-Student-Germany.html"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "source": "http://localhost:8801/stardust/migrated/en/Legal-Notes/Terms-of-use/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Terms of use"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Share",
+     "href": "#123"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Share"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Information contained in these websites is checked and updated by Linde Material Handling GmbH with due diligence on a regular basis. This notwithstanding, data may become subject to changes during the intervening period. Therefore, Linde Material Handling GmbH does not assume any liability or guarantee for the timeless accuracy and completeness of the information provided."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "This applies also to other websites that may be accessed through hyperlinks. Linde Material Handling GmbH assumes no responsibility for the contents of websites that can be accessed through such links. Further, Linde Material Handling GmbH reserves the right to change or amend the information provided at any time and without prior notice."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Contents and structure of the Linde websites are copyright protected. Reproduction of information or data content, in particular the use of text, pictures or graphics, requires the prior approval of Linde Material Handling GmbH. The use of press releases and other documents classified as public is permitted in public communications."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Did you enjoy reading the article?"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Share",
+     "href": "#123"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Share"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 5,
+   "repeats": []
+  }
+ ]
+}

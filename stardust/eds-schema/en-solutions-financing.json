@@ -1,0 +1,635 @@
+{
+ "source": "http://localhost:8806/stardust/migrated/en/Solutions/Financing/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Financing"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Buy, lease, rent – maximum flexibility"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Leasing",
+     "href": "#765511"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Rental",
+     "href": "#765506"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Rent-to-own",
+     "href": "#765501"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Short Term Rental",
+     "href": "#765503"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Save costs and conserve capital – with financing solutions from Linde"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Our tailored financing plans – such as leasing, rental or rent-to-own – ensure that your company uses its capital optimally, and that your fleet remains up to date with the latest technology at the lowest possible cost. The goal is to have the solution meet the individual requirements of your company – even looking beyond purely financial considerations and regardless of whether you need a single truck, several vehicles, or an entire fleet."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Our range of supplementary services is diverse"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Individual servicing or full-service packages"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Amalgamated fleets with new and used vehicles"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Provision of replacement vehicles in the case of longer maintenance downtime"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Initial consultation for the optimization of operating procedures and safety standards"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Linde experts analyze and evaluate the composition of your existing fleet"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Retrofitting of existing vehicles with equipment to enhance safety, efficiency or ergonomics."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Long-term management of contracts and requirements for companies with multiple sites"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Leasing"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Use trucks instead of buying them – and at low costs too"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Do you need to use forklifts or warehouse technology trucks in the medium or long term? Then we recommend a leasing agreement with individual terms for fixed monthly installments – protecting you against depreciation and interest. This does not tie up capital, and keeps you flexible on your balance sheet."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Advantages"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Low financial burden, thanks to a calculation of residual value based on use"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Conservation of banking credit lines for other investment purposes"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Reduction in corporate taxes thanks to leasing rates as business expenses"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Rental"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "For use with service included"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Do you need a forklift in the medium to long-term, and simultaneously value the continuous availability of your fleet, with no risk? The Linde Rental Package offers you the advantages of a leased forklift, plus a complete maintenance and repair service at a fixed monthly rate. You have the certainty that your vehicles are ready to go at all times, and are able to foresee the costs in the long term."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Advantages"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Guaranteed operational readiness thanks to monthly installments"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "All servicing and repair costs covered from the start"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Affordable monthly installments through cost-effective preventative maintenance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [],
+   "imgCount": 1,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Rent-to-own"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "From using a truck to purchasing one"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Hire purchase is the appropriate choice if you ultimately want to own the vehicle, and thus would like your use of it to be combined with a purchase. With individually arranged payment plans and fixed hire purchase rates, this model functions similarly to purchase on credit, with flexible balance sheet organization."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Advantages"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Buying on credit, thus none of your own capital is used in the purchase"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Accounting as a rent-to-own opens up options for subsidies"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Discretionary agreement of terms allows installments to be optimized cost-effectively"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Short Term Rental"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "For short-term use"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Do you only need a forklift now and then, or only for one single use? Logistics vehicles can be hired from Linde for hours, days, or weeks. With or without a driver, at fixed or variable prices. With more than 40,000 vehicles, Linde offers the largest short term rental fleet in Europe – and the greatest variety in choice."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more about our short term rental service",
+     "href": "https://www.linde-mh.com/en/Products/Forklift-Hire/"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "Advantages"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Flexible coverage for every type of logistical need"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "No investment of capital necessary, protecting your balance sheet"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Reduced taxes thanks to deductible monthly installments"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Find a suitable forklift for hire",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?offerType=rental"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 4,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Linde Solutions for the 3PL Sector",
+     "href": "../../../en/Solutions/Industries/3PL/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Linde offers solutions for 3PL service providers: solving staff shortages, increasing the flexibility of vehicle fleets, using big data, maximizing safety, and increasing energy efficiency."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Industries/3PL/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "K2 Systems Relies on Linde MH—Logistics Solution from a Single Source",
+     "href": "../../../en/About-us/Magazine/K2-Systems/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "K2 Systems, a leading manufacturer of PV mounting systems, called on Linde MH’s comprehensive intralogistics expertise for its new logistics center. The result? Customized processes, perfectly coordinated trucks, and maximum efficiency—all from a single source."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/K2-Systems/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Safety Consulting",
+     "href": "../../../en/Solutions/Warehouse-Safety/Safety-consulting/index.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Safety is a key productivity factor when forklift trucks and pedestrians are moving around in the same space. Safety Consulting from Linde Material Handling enables companies to consistently minimize the safety risks associated with their internal traffic operations."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Warehouse-Safety/Safety-consulting/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "In use on the race track",
+     "href": "../../../en/About-us/Magazine/Linde-Rental-Service-for-Formula-Student-Germany.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "The Linde Rental Solutions has been ensuring fast and professional setup and dismantling as well as performing other logistics tasks at the Formula Student Germany for many years. This requires a number of challenges to be overcome."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Linde-Rental-Service-for-Formula-Student-Germany.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Linde Rental Solutions at Agua Mineral San Benedetto",
+     "href": "../../../en/About-us/Magazine/Agua-Mineral.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Every year at Agua Mineral San Benedetto in Valencia, 600,000 pallets are loaded onto trucks using Linde forklifts and delivered to customers. The beverage business is booming in summer. Agua Mineral then uses the flexible and reliable Linde rental service."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Agua-Mineral.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "No forklifts, no fan mile",
+     "href": "../../../en/About-us/Magazine/Fan-mile.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Every four years the biggest Public Viewing Germany takes place on the Fan Mile in Berlin. This event would not be possible without the use of Linde forklifts."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Fan-mile.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "Almost As Fast As Formula 1",
+     "href": "../../../en/About-us/Magazine/Almost-as-fast-as-the-Formula-1.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "For four years now, the Renault Sport Formula 1 team has been using Linde forklift trucks to load all of the equipment, and to assist with construction at the racetrack, right across Europe. So far, the partnership with the rental truck team - Short Term Rental - at Linde UK has proved to be both reliable and flexible for Renault."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Almost-as-fast-as-the-Formula-1.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Linde Virtual Showroom App",
+     "href": "../../../en/About-us/Magazine/Linde-Showroom-App.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "The Virtual Showroom app from Linde Material Handling has been available for iOS and Android systems since last year. The app gives smartphone and tablets users a 360° interactive experience, enabling them to play around with 27 virtual industrial trucks against any background, with options to rotate, shrink, enlarge, and much more."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Linde-Showroom-App.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "Linde is the favourite of the industry",
+     "href": "../../../en/About-us/Magazine/MM-Research.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "For users, Linde Material Handling is the most popular material handling equipment manufacturer. This was the result of a survey conducted by the trade journal MM Logistik. Respondents praised the quality, performance and availability of the vehicles. Linde also scores highly in terms of service and training."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/MM-Research.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "Consulting",
+     "href": "https://www.linde-mh.com/en/Solutions/Consulting/"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "Linde offers a comprehensive consulting service for thorough evaluation. The service ranges from analysis and simulation to fleet redesign."
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/Solutions/Consulting/"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "Full of tricks",
+     "href": "../../../en/About-us/Magazine/Frueh-Koelsch.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "Cölner Hofbräu P. Josef Früh KG in Cologne-Feldkassel brews and loads thousands of litres of Kölsch every day. Real hard work for Linde's lithium-ion forklifts, which passed their trial run at the company with flying colors."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Frueh-Koelsch.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "Oh christmas tree!",
+     "href": "../../../en/About-us/Magazine/Christmas-Story/index.html"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "We take a look at the supply chains and processes behind the Christmas tree, tree decorations and co. and show how solutions from Linde Material Handling and our KION sister brand Dematic ensure the perfect Christmas."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Christmas-Story/index.html"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

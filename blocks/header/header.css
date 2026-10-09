@@ -1,0 +1,481 @@
+/* stylelint-disable no-descending-specificity -- chrome rules keep the source cascade order */
+
+/* header — linde-mh.com/en chrome, re-authored from canon.css (.header / .navigation / .menu_nav /
+   .navigation_meta) + the observed scroll-state machine. The block is fixed; the `header` host reserves
+   its in-flow box (--nav-height) and morphs with it. */
+header .header.block {
+  position: relative;
+  z-index: 9999;
+  width: 100%;
+  max-width: var(--shell-max-width);
+  margin: 0 auto;
+  background: var(--color-white);
+}
+
+/* scroll state (desktop, y >= 48): the live stickystacky clone — fixed, slid by the block JS */
+header .header.block.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+header .nav-wrapper {
+  position: relative;
+  max-width: var(--shell-max-width);
+  margin: 0 auto;
+}
+
+header .nav-wrapper ul:not(.menu-nav) {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+header .nav-wrapper p {
+  margin: 0;
+  line-height: inherit;
+}
+
+header .navigation {
+  position: relative;
+  height: 56px;
+  padding: 6px;
+  border-bottom: 1px solid var(--color-lightgrey);
+  background: var(--color-white);
+}
+
+/* logo */
+header .navigation-logo {
+  display: flex;
+  align-items: flex-start;
+  height: 56px;
+}
+
+header .logo-link {
+  display: block;
+  padding-left: 11px;
+}
+
+header .logo-link img {
+  display: block;
+  width: 75px;
+  max-width: 150px;
+  height: auto;
+}
+
+/* burger (mobile) */
+header .navigation-burger {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 56px;
+  height: 56px;
+  color: var(--color-red);
+  line-height: 56px;
+  text-align: center;
+}
+
+header .navigation-burger .btn {
+  width: 56px;
+  height: 56px;
+  margin: 0;
+  border: 0;
+  padding: 16px;
+  background: transparent;
+  color: var(--color-darkgrey);
+  line-height: 0;
+  cursor: pointer;
+}
+
+header .navigation-burger .icon {
+  width: 24px;
+  height: 24px;
+  line-height: 24px;
+}
+
+/* mobile menu: off-canvas drawer — closed it stays in the DOM (live: translated beyond the clipped body),
+   rendered as a clipped 0-height box so nothing paints and nothing widens the page */
+header .navigation-menu {
+  position: absolute;
+  top: 56px;
+  left: 0;
+  width: 100%;
+  height: 0;
+  overflow: hidden;
+  background: var(--color-white);
+}
+
+header nav[aria-expanded="true"] .navigation-menu {
+  position: fixed;
+  inset: 56px 0 0;
+  height: auto;
+  overflow-y: auto;
+}
+
+header .menu-nav > li {
+  padding: 0 16px;
+  border-bottom: 1px solid var(--color-lightgrey);
+  font-size: 0.95rem;
+  line-height: 56px;
+  text-align: center;
+}
+
+header .menu-nav > li.menu-mobile {
+  text-transform: uppercase;
+}
+
+header .menu-nav > li > .menu-nav-mainitem,
+header .menu-nav > li > .menu-homelink {
+  text-transform: uppercase;
+}
+
+header .menu-nav .submenu {
+  display: none;
+  text-transform: none;
+}
+
+header .menu-homelink {
+  display: block;
+  padding: 0 16px;
+  color: var(--color-darkgrey);
+  text-align: left;
+}
+
+header .menu-nav-mainitem {
+  display: block;
+  position: relative;
+  width: 100%;
+  margin: 0;
+  border: 0;
+  padding: 0 40px 0 16px;
+  background: transparent;
+  color: var(--color-darkgrey);
+  font: inherit;
+  line-height: 56px;
+  text-align: left;
+  cursor: pointer;
+}
+
+header .menu-nav-mainitem::after {
+  content: "\f12f";
+  position: absolute;
+  right: 16px;
+  font-family: var(--icon-font-family);
+}
+
+header .menu-nav > li > [aria-expanded="true"] + .submenu {
+  display: block;
+}
+
+header .menu-nav .submenu li {
+  line-height: 48px;
+  text-align: left;
+}
+
+header .menu-nav .submenu .submenu {
+  display: block;
+  padding-left: 16px;
+}
+
+header .menu-nav-subitem {
+  display: block;
+  color: var(--color-darkgrey);
+  line-height: inherit;
+}
+
+header .menu-nav-subitem:hover {
+  color: var(--color-red);
+}
+
+/* meta strip + dealer button: desktop only (the mobile strip lives in the off-canvas menu on live) */
+header .navigation-meta {
+  display: none;
+}
+
+header .menu-meta-item > a {
+  display: inline-block;
+  color: inherit;
+}
+
+header .btn-meta {
+  display: inline-block;
+  height: 32px;
+  padding: 4px;
+  color: var(--color-textgrey);
+  font-size: 15px;
+  line-height: 24px;
+}
+
+header .btn-meta .icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: right;
+}
+
+header .btn-meta:hover {
+  color: var(--color-red);
+}
+
+header .btn-primary {
+  display: block;
+  border: 1px solid transparent;
+  padding: 8px 16px;
+  background-color: var(--color-red);
+  color: var(--color-white);
+  font-size: 1rem;
+  line-height: 30px;
+  text-align: center;
+}
+
+header .btn-primary:hover {
+  background-color: var(--color-primary-700);
+  color: var(--color-white);
+}
+
+@media (width >= 1024px) {
+  header .header.block {
+    height: 100px;
+  }
+
+  header .header.block.small-state {
+    height: 62px;
+  }
+
+  header .navigation-menu > div {
+    height: 100%;
+  }
+
+  header .navigation {
+    height: 100px;
+    margin-top: 0;
+    padding: 0;
+    border-bottom: 0;
+  }
+
+  header .header.block.small-state .navigation {
+    height: 62px;
+    margin-top: 0;
+    border-bottom: 1px solid var(--color-lightgrey);
+  }
+
+  header .navigation-logo {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 191px;
+    height: 99px;
+  }
+
+  header .logo-link img {
+    width: 147px;
+  }
+
+  header .header.block.small-state .navigation-logo {
+    height: 61px;
+  }
+
+  header .header.block.small-state .logo-link {
+    height: 50px;
+    margin-top: 5px;
+  }
+
+  header .header.block.small-state .logo-link img {
+    width: auto;
+    height: 50px;
+  }
+
+  header .navigation-burger {
+    display: none;
+  }
+
+  header .navigation-menu,
+  header nav[aria-expanded="true"] .navigation-menu {
+    display: block;
+    position: static;
+    width: 100%;
+    height: 100px;
+    overflow: visible;
+  }
+
+  header .header.block.small-state .navigation-menu {
+    height: 62px;
+  }
+
+  header .menu-nav {
+    display: flex;
+    height: 100%;
+    max-width: 100%;
+    margin: 0 0 0 191px;
+    padding: 0 270px 0 0;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    text-align: center;
+  }
+
+  header .menu-nav > li {
+    display: none;
+    padding: 0;
+    border: 0;
+    line-height: 1.5;
+    text-transform: none;
+  }
+
+  header .menu-nav > li > .menu-nav-mainitem {
+    text-transform: none;
+  }
+
+  /* live widths 245/241/249/246: auto basis + equal grow; the li spans the row = contiguous hover surface */
+  header .menu-nav > li.menu-main {
+    display: flex;
+    flex: 1 1 auto;
+    min-width: 0;
+    height: 100%;
+  }
+
+  header .menu-nav-mainitem {
+    display: flex;
+    flex: 1 1 auto;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    padding: 10px;
+    font-size: 0.95rem;
+    line-height: normal;
+  }
+
+  header .menu-nav-mainitem::after {
+    display: none;
+  }
+
+  header .menu-nav-mainitem:hover,
+  header .menu-nav-mainitem[aria-expanded="true"] {
+    color: var(--color-red);
+  }
+
+  /* mega-menu panel: hidden at rest; opens on hover (no gap: the li spans the row) or on the button */
+  header .menu-nav > li.menu-main > .submenu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    flex-wrap: wrap;
+    gap: 24px 32px;
+    padding: 24px 32px 32px 191px;
+    border-top: 1px solid var(--color-lightgrey);
+    border-bottom: 1px solid var(--color-lightgrey);
+    background: var(--color-white);
+    box-shadow: 0 8px 16px rgb(34 34 34 / 15%);
+    text-align: left;
+  }
+
+  header .menu-nav > li.menu-main:hover > .submenu,
+  header .menu-nav > li.menu-main > [aria-expanded="true"] + .submenu {
+    display: flex;
+  }
+
+  header .menu-nav .submenu.lvl-0 > li {
+    flex: 0 1 220px;
+    line-height: 1.5;
+  }
+
+  header .menu-nav .submenu.lvl-0 > li > .menu-nav-subitem {
+    margin-bottom: 8px;
+    font-family: var(--bold-font-family);
+    font-weight: 700;
+  }
+
+  header .menu-nav .submenu.lvl-1 {
+    padding-left: 0;
+  }
+
+  header .menu-nav .submenu.lvl-1 > li {
+    line-height: 1.5;
+  }
+
+  header .menu-nav .submenu.lvl-1 .menu-nav-subitem {
+    padding: 4px 0;
+    font-size: 0.875rem;
+  }
+
+  header .menu-nav .submenu.lvl-2 {
+    display: none;
+  }
+
+  /* meta strip: the 33px grey bar inside the 48px top band */
+  header .navigation-meta {
+    display: block;
+    position: absolute;
+    top: -43px;
+    left: 0;
+    width: 100%;
+    height: 33px;
+    background: var(--color-lightgrey);
+  }
+
+  header .header.block.small-state .navigation-meta {
+    top: 0;
+    height: 0;
+    background: transparent;
+  }
+
+  header .header.block.small-state .navigation-meta-sub {
+    display: none;
+  }
+
+  header .navigation-meta-sub {
+    height: 0;
+  }
+
+  header .menu-meta {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    padding: 0;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+
+  header .menu-meta-item {
+    display: block;
+  }
+
+  header .dealer-btn-wrapper {
+    position: absolute;
+    top: 0;
+    right: 15px;
+    width: 250px;
+    height: 0;
+  }
+
+  header .dealer-btn-wrapper > a {
+    display: inline;
+    line-height: 0;
+  }
+
+  header .location-overview-button {
+    position: absolute;
+    top: 43px;
+    left: 0;
+    width: 250px;
+    max-width: 250px;
+    margin-top: 25px;
+  }
+
+  header .header.block.small-state .location-overview-button {
+    top: 7px;
+    margin-top: 0;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  header .header.block {
+    transition: none;
+  }
+}

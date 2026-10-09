@@ -1,0 +1,154 @@
+{
+  "_note": "extract --prep page typing: vision template label per page (stardust/.work/vision-0*.result) mapped home/app-shell→unique, campaign-landing→landing, product-detail→program, overview-grid+listing→listing, news-article→article, form→form, legal-text/other→static.",
+  "overrides": {
+    "en": "unique",
+    "en-productfinder-html": "unique",
+    "en-products-productfinder": "unique",
+    "en-technical-location-finder-html": "unique",
+    "en-about-us": "listing",
+    "en-about-us-awards": "program",
+    "en-about-us-certificates": "program",
+    "en-about-us-company": "landing",
+    "en-about-us-events": "listing",
+    "en-about-us-innovations-from-linde": "listing",
+    "en-about-us-magazine": "listing",
+    "en-about-us-media": "listing",
+    "en-about-us-press": "listing",
+    "en-about-us-sustainability": "program",
+    "en-about-us-working-at-linde": "landing",
+    "en-edi": "static",
+    "en-forms-agility-on-point-form": "form",
+    "en-forms-automation-campaign": "form",
+    "en-forms-ex-proof-form": "form",
+    "en-forms-gc-li-ion-recycling": "form",
+    "en-forms-gc-next-champ-form": "form",
+    "en-forms-global-contact-form": "form",
+    "en-forms-gse-expo": "form",
+    "en-forms-rent-a-truck": "form",
+    "en-landingpage-agility-on-point": "landing",
+    "en-landingpage-automation-summit-2025": "landing",
+    "en-landingpage-compact-class-with-electric-drive": "landing",
+    "en-landingpage-e-models": "landing",
+    "en-landingpage-glasses": "landing",
+    "en-landingpage-gse-expo": "landing",
+    "en-landingpage-h-models": "landing",
+    "en-landingpage-happy-driver": "landing",
+    "en-landingpage-in-sync": "landing",
+    "en-landingpage-logimat": "landing",
+    "en-landingpage-next-champ": "landing",
+    "en-landingpage-platform-counterbalanced-trucks": "landing",
+    "en-landingpage-r-matic": "landing",
+    "en-landingpage-safely-to-the-top": "landing",
+    "en-landingpage-semi-automated-order-pickers": "static",
+    "en-landingpage-x-models": "landing",
+    "en-landingpage-x-range": "landing",
+    "en-legal-notes-cookie-policy": "static",
+    "en-legal-notes-legal": "static",
+    "en-legal-notes-ppap": "static",
+    "en-legal-notes-privacy-statement": "static",
+    "en-legal-notes-terms-of-use": "static",
+    "en-linde-core-linde-ergonomics-html": "program",
+    "en-linde-core-linde-productivity-html": "program",
+    "en-products": "listing",
+    "en-products-approved-trucks": "program",
+    "en-products-automated-trucks": "listing",
+    "en-products-diesel-forklifts": "program",
+    "en-products-diesel-forklifts-d344": "program",
+    "en-products-e-trucks": "program",
+    "en-products-explosion-proof-trucks": "program",
+    "en-products-forklift-hire": "program",
+    "en-products-forklift-truck": "program",
+    "en-products-gas-forklifts": "landing",
+    "en-products-hand-pallet-trucks": "landing",
+    "en-products-heavy-duty-forklifts": "landing",
+    "en-products-ic-trucks": "program",
+    "en-products-order-pickers": "program",
+    "en-products-pallet-stackers": "landing",
+    "en-products-pallet-trucks": "program",
+    "en-products-reach-trucks": "program",
+    "en-products-tow-trucks": "program",
+    "en-products-tugger-trains": "landing",
+    "en-products-very-narrow-aisle-trucks": "program",
+    "en-service": "listing",
+    "en-service-genuine-spare-parts": "landing",
+    "en-service-maintenance-repair": "landing",
+    "en-service-retrofit-accessories": "landing",
+    "en-service-technical-safety-services": "landing",
+    "en-service-training": "program",
+    "en-solutions-consulting": "listing",
+    "en-solutions-energy-systems": "landing",
+    "en-solutions-financing": "landing",
+    "en-solutions-fleet-management": "landing",
+    "en-solutions-intralogistics-automation": "landing",
+    "en-solutions-overview-html": "listing",
+    "en-solutions-warehouse-safety": "landing",
+    "en-technical-news-detail-101184-html": "article",
+    "en-technical-news-detail-101442-html": "article",
+    "en-technical-news-detail-101760-html": "article",
+    "en-technical-news-detail-1033728-html": "article",
+    "en-technical-news-detail-105280-html": "article",
+    "en-technical-news-detail-108480-html": "article",
+    "en-technical-news-detail-112000-html": "article",
+    "en-technical-news-detail-114368-html": "article",
+    "en-technical-news-detail-116352-html": "article",
+    "en-technical-news-detail-118656-html": "article",
+    "en-technical-news-detail-119232-html": "article",
+    "en-technical-news-detail-1254145-html": "article",
+    "en-technical-news-detail-1310802-html": "article",
+    "en-technical-news-detail-132012-html": "article",
+    "en-technical-news-detail-1436407-html": "article",
+    "en-technical-news-detail-1445120-html": "article",
+    "en-technical-news-detail-1710976-html": "article",
+    "en-technical-news-detail-18902-html": "article"
+  },
+  "rules": [
+    {
+      "match": "^/en/technical/News-Detail_",
+      "type": "article"
+    },
+    {
+      "match": "^/en/Forms",
+      "type": "form"
+    },
+    {
+      "match": "^/en/Landingpage/",
+      "type": "landing"
+    },
+    {
+      "match": "^/en/Legal-Notes/",
+      "type": "static"
+    },
+    {
+      "match": "^/en/About-us/(Press|Magazine|Events|Media)/",
+      "type": "listing"
+    },
+    {
+      "match": "^/en/(Products|Service|Solutions)/?$",
+      "type": "listing"
+    },
+    {
+      "match": "^/en/Products/",
+      "type": "program"
+    },
+    {
+      "match": "^/en/Service/",
+      "type": "program"
+    },
+    {
+      "match": "^/en/Solutions/",
+      "type": "program"
+    },
+    {
+      "match": "^/en/Linde-Core/",
+      "type": "program"
+    },
+    {
+      "match": "^/en/EDI/",
+      "type": "static"
+    },
+    {
+      "match": "^/en/About-us/",
+      "type": "static"
+    }
+  ]
+}

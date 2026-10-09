@@ -1,0 +1,997 @@
+{
+ "source": "http://localhost:8806/stardust/migrated/en/Landingpage/X-Range/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "R14 – R17 X – Reach Trucks Redefined"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "More Productivity in the Warehouse"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Potential Applications",
+     "href": "#778864"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Wide Range of Models",
+     "href": "#778859"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Truck Concept",
+     "href": "#778861"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Safety",
+     "href": "#778856"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Special Equipment",
+     "href": "#778865"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 5,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Expensive logistics spaces and increasingly shorter delivery times pose a particular challenge for warehouse operators in retail, third-party logistics and parts logistics. In order to increase the throughput of goods, it is essential to create capacity in the form of narrow racking aisles and higher shelf levels. The reach trucks in the X range from Linde Material Handling feature a unique truck concept making them specially designed for these exact requirements. Their design makes them a particularly productive alternative to conventional reach trucks."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The R14 – R17 X trucks have a particularly compact chassis with a short wheelbase, making them very easy to maneuver around narrow aisles. The wide mast frame and narrow mast profile improve the operator’s field of vision, ensuring that they have a good view of the load and their surroundings at all times. The booster cylinder reduces mast deflection and allows for precise and fast storage and retrieval at high lifting heights. One key advantage of the design lies in the horizontal displacement. In the X range, the movement takes place via the fork carriage rather than the mast. This makes the horizontal displacement 70 percent shorter than with conventional reach trucks. The R14 – R17 X reach trucks therefore offer the ideal solution for warehouse applications that require a fast pace in narrow aisles and at high lifting heights."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Wide Range of Potential Applications"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Quick Loading of Fresh Goods",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "A Glimpse into the Tire Warehouse",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Expert Order Picking",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Efficient Block Storage",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Quick Loading of Fresh Goods"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Warehouses for fresh goods are usually tightly packed. Plus, due to the sensitive nature of the goods, they have to be loaded quickly and safely. This case study shows the R14 – R17 X reach trucks in operation in a high rack warehouse for refrigerated food and drinks in the UK. Due to their maneuverability, stability when lifting and excellent visibility through the mast, the trucks are ideal for use in this environment. The equipment ensures that the loads are stored and retrieved quickly and reliably up to a height of ten meters."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "A Glimpse into the Tire Warehouse"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Two 10,000 m² warehouses, 22,000 pallet spaces and innumerable car wheels: In this sliding storage system in Germany, having a good overall view of the warehouse is essential to ensuring the quick and safe storage and retrieval of wheels and tires. The Linde reach trucks come into their own when it comes to all-round visibility. The optional camera system provides the operator with excellent visibility of what’s above them, allowing them to scan all the pallet spaces via the camera’s monitor. This increases productivity, reduces the number of errors and guarantees safety, even when working with high lifting heights."
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "Expert Order Picking"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "While picking goods in the warehouse, drivers have to do a lot of maneuvering, while also carefully navigating the narrow aisles. This is one way in which the specially designed R14 – R17 X reach trucks outperform conventional reach trucks. Thanks to the minimal horizontal displacement and short wheel arms, they offer maximum maneuverability. The excellent all-round visibility offered by the narrow mast profile, combined with minimal mast deflection, ensure a high degree of safety when stacking and retrieving goods."
+    },
+    {
+     "role": "heading",
+     "order": 10,
+     "text": "Efficient Block Storage"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "When it comes to block storage, space is in short supply. In this environment, the short wheel arms and low horizontal displacement of the X-range reach trucks are extremely helpful. In contrast to more conventional reach trucks, the X range trucks only move using the fork carriage rather than the mast. This makes driving and lifting maneuvers easier and more efficient. In addition, thanks to the low level of mast deflection, pallets can be stacked and retrieved with the utmost precision, even at high lifting heights. The trucks therefore increase performance, capacity and efficiency when handling goods packed on pallets."
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 9,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The Perfect Model for Every Requirement"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The innovative battery positioning under the operator’s workstation makes it possible to use batteries with a higher capacity and longer service life. This means users can choose the right chassis/battery combination for their exact requirements. : The R14 X is designed for use in narrow aisles. The low chassis makes stepping in and out of this truck much easier. The high chassis of the R14 X HIGH, along with the short wheelbase, allows for a greater battery capacity and higher seat position. With its compact 690 Ah battery, the R16 X is especially agile and can carry loads of up to 1,600 kg. The R17 X and R17 X HD models have a long wheelbase and a particularly high-performance battery with a capacity of up to 1,000 Ah. These trucks combine top performance with top lifting heights."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Compact"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Agile:"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Powerful:"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "You can find the technical data on the product page"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "here.",
+     "href": "../../../en/Products/Reach-Trucks/R14-17-X/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 6
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The Truck Concept in Detail"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Unique Mast Concept",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Optimized Visibility",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Shorter Horizontal Displacement",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Ergonomic Work Environment",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Unique Mast Concept"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The mast on the R14 – R17 X reach trucks is designed to meet the exact requirements of high rack warehouses. When working with high lifting heights, normally even minor vibrations cause major oscillations in the fully extended mast. The booster cylinders in the R14 – R17 X reach trucks reduce the mast deflection by up to 40 percent. This allows for vertical storage and retrieval at great height. The wide mast, which is screwed directly into the chassis, is extremely warp-resistant and therefore prevents swinging."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Optimized Visibility"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The particularly wide mast frame and the narrow mast profile provide the driver with the best visibility of the load and their surroundings. The optional armored glass roof protects the driver from falling objects and offers an unobstructed view of the load. This not only increases safety but also makes handling even more efficient."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Click here to discover the optimized visibility of the R14 – R17 X",
+     "href": "http://www.exappserver.com/xrange/"
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Shorter Horizontal Displacement"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "The shortened horizontal displacement ensures greater efficiency and productivity. At 170 mm, it is around 70 percent shorter than in conventional masts. This is made possible by the fact that, with the R14 – R17 X reach trucks, it uses just the fork carriage that moves, rather than the whole mast."
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "Ergonomic Work Environment"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "The positioning of the battery under the seat in the X range allows for an operator’s cab that is twice the size of those in standard trucks. Operators can work without becoming fatigued thanks to the adjustable seats and armrests, a compact steering wheel integrated into the left armrest, as well as joysticks for hydraulic control in the right-hand armrest. In addition, the higher seat position gives the driver better visibility. The height of the display can also be adjusted."
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 10,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Easy Battery Replacement"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Thanks to the easy access to the battery compartment, replacing the battery in the R14 – R17 X reach trucks is quick and simple. All that is required is a pallet truck in order for employees to be able to replace the battery themselves. For additional safety, a lifting carriage locking plate is used to secure the fork carriage. A battery stand is available as an optional extra."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Safety"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Equipped for all Hazards"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "At Linde, safety is the top priority. For forklifts intended for use in high rack warehouses, where heavy loads are transported at high lifting heights, extra safety measures are vital. With the R14 – R17 X reach trucks, the wide mast and narrow profile provide the driver with a larger field of vision. The raised seat position also contributes to better visibility. On top of this, the optional armored glass roof protects the driver from falling loads, without obstructing their view. To ensure safe handling on sloped surfaces, an automatic parking brake stops the truck as soon as the driver takes their foot off the pedal. In addition, the hill hold control prevents the truck from rolling away when doing a hill start."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Special Equipment"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Armored Glass Roof",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Raised Overhead Guard",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "10° Rotating Seat",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Backrest Extension",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Single Pedal and 360° Steering",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Mast and Chassis Camera",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Fork Centering and Leveling",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "connect Fleet Management Solution",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Cold-Store Cabin",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Customer-Specific Individualization",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 10,
+     "text": "Armored Glass Roof"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "A robust armored glass roof protects the driver from falling objects and offers an excellent view of the loads. This allows for quick storage and retrieval."
+    },
+    {
+     "role": "heading",
+     "order": 12,
+     "text": "Raised Overhead Guard"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "A raised overhead guard with an extra 175 mm in height is ideal for taller forklift operators. The raised guard not only makes getting in and out of the cab easier, but also increases the field of vision of the operator."
+    },
+    {
+     "role": "heading",
+     "order": 14,
+     "text": "10° Rotating Seat"
+    },
+    {
+     "role": "body",
+     "order": 15,
+     "text": "There is an optional seat available for the R17 X and R17 X HD reach trucks, which rotates by 10° towards the window on the mast side. This gives the operator better visibility and puts less strain on the back and neck."
+    },
+    {
+     "role": "heading",
+     "order": 16,
+     "text": "Backrest Extension"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "The extendable backrest allows the seat to be tailored to the needs of taller operators."
+    },
+    {
+     "role": "heading",
+     "order": 18,
+     "text": "Single Pedal and 360° Steering"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "If required, the dual pedal system that comes as standard can be replaced with a single pedal. This option facilitates 360° steering for improved maneuverability."
+    },
+    {
+     "role": "heading",
+     "order": 20,
+     "text": "Mast and Chassis Camera"
+    },
+    {
+     "role": "body",
+     "order": 21,
+     "text": "The two-camera system provides the optimum view of the load at all times. When a defined lifting height is exceeded, the view automatically switches from the chassis to the mast."
+    },
+    {
+     "role": "heading",
+     "order": 22,
+     "text": "Fork Centering and Leveling"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "The side shifter automatically moves the fork to the center position at the push of a button. In addition, for trucks with manual fork tilt, there is the option of an automatic leveling function, which ensures that the forks are always parallel to the ground."
+    },
+    {
+     "role": "heading",
+     "order": 24,
+     "text": "connect Fleet Management Solution"
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "The Linde connect fleet management system provides access to important truck and planning data, including truck deployment, upcoming service intervals or scheduled driver training. connect increases the levels of safety and utilization, thus making the use of the truck more cost-effective."
+    },
+    {
+     "role": "heading",
+     "order": 26,
+     "text": "Cold-Store Cabin"
+    },
+    {
+     "role": "body",
+     "order": 27,
+     "text": "The maintenance of the cooling chain is vital in many sectors, such as the food and pharmaceuticals industry. The special cold-store cabin of the R17 X HD makes the operator’s work pleasant, comfortable and productive throughout the entire shift."
+    },
+    {
+     "role": "heading",
+     "order": 28,
+     "text": "Customer-Specific Individualization"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "Every customer has their own specific requirements, be it reinforced masts for heavy loads, trucks that can withstand extreme temperatures, specific lifting heights, additional safety equipment or visibility requirements. Linde Material Handling offers tailored solutions to suit any requirements. Image: The R14 X HL is based on the R14 X but has a wider chassis and reinforced mast."
+    }
+   ],
+   "imgCount": 10,
+   "editableTexts": 21,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 10,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 9,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Your Benefits at a Glance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Better Visibility"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Narrow mast profiles provide a wider field of vision and therefore ensure safe and fast handling."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Stable Mast"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Booster cylinders reduce deflection in the mast. This increases stability and turnover."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Higher Productivity"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "In contrast to conventional reach trucks, the movement is carried out by the fork carriage. The shorter horizontal movement makes handling faster."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "More Space"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The positioning of the battery underneath the driver’s workstation allows for a more spacious cab."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Additional Information"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Product brochure for download",
+     "href": "../../../media/Brochures/P_X_Range_R14_R17X_en_D_0319_view.pdf"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Data sheet for download",
+     "href": "../../../media/Datasheets/ds_r14_17x_br116_03_en_f_1216.pdf"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Contact",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "A.btn__link",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Pedestrian Warning Band for Maximum Safety",
+     "href": "../../../en/About-us/Innovations-from-Linde/Pedestrian-Warning-Band/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "The smart technology in the band warns pedestrians of potential dangers early using light signals, vibrations, and acoustic warnings, thereby maximizing safety."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Pedestrian-Warning-Band/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "New Intralogistics Concept for Better Processes",
+     "href": "../../../en/About-us/Magazine/New-intralogistics-concept-for-better-processes.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Exact material flow processes for a highly standardized forklift truck and warehouse truck fleet: Sika Deutschland GmbH achieves this with an overall logistics concept which, despite customer-specific solutions, relies on standardization, focuses on a forklift brand, and leases equipment on the basis of full-service leases."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/New-intralogistics-concept-for-better-processes.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Reliable allrounder",
+     "href": "../../../en/About-us/Magazine/reliable-durability-NORA-Centre.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "The NORA Centre Wolfsburg has committed itself to the fast delivery of original Volkswagen Group spare parts and other brands. Internal logistics plays an important role in meeting the demanding deadlines for customers. Crucial players are Linde electric forklifts, which prove their worth every day in the race against time - lately also equipped with Linde lithium-ion batteries."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/reliable-durability-NORA-Centre.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Three cheers for it!",
+     "href": "../../../en/About-us/Magazine/70-years-of-reach-trucks/index.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Linde Material Handling celebrates 70 years of reach trucks."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/70-years-of-reach-trucks/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Safely to the Top",
+     "href": "../../../en/Landingpage/Safely-to-the-top/index.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Linde Material Handling optimizes safety when working at height by providing intelligent assistance systems."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/Landingpage/Safely-to-the-top/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "K2 Systems Relies on Linde MH—Logistics Solution from a Single Source",
+     "href": "../../../en/About-us/Magazine/K2-Systems/index.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "K2 Systems, a leading manufacturer of PV mounting systems, called on Linde MH’s comprehensive intralogistics expertise for its new logistics center. The result? Customized processes, perfectly coordinated trucks, and maximum efficiency—all from a single source."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/K2-Systems/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "Ri14 – Ri18",
+     "href": "../../../en/Products/Reach-Trucks/Ri14-Ri18/index.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "Agile, adaptable, and cost-efficient: the Ri14 – Ri18 reach trucks from Linde MH for standard applications with integrated Li-ION battery."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/Products/Reach-Trucks/Ri14-Ri18/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Linde Multifunction Lever",
+     "href": "../../../en/About-us/Innovations-from-Linde/Multifunction-lever/index.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "The Linde Multifunction Lever is a new human machine interface that integrates all operating functions and ensures the best possible ergonomics and optimum ease of use."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Innovations-from-Linde/Multifunction-lever/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "R20 – R25 F",
+     "href": "../../../en/Products/Reach-Trucks/R20-R25-F/index.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Linde R20 – R25 F four-way reach trucks transport bulky loads in narrow aisles – forwards, backwards, left and right."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/Products/Reach-Trucks/R20-R25-F/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "Future topics and trends in the material handling equipment industry",
+     "href": "../../../en/About-us/Magazine/forklift-conference-2017.html"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "The 19th VDI Industrial Trucks Conference took place in Baden-Baden. The focus was on topics such as automation, driver assistance systems, battery technology and occupational safety. Alexander Schmidt, Senior Product Manager for reach trucks and tractors at Linde, also gave a lecture on the Linde assistance system Dynamic Mast Control."
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/forklift-conference-2017.html"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "A breath of fresh air in logistics at Heidelberg",
+     "href": "../../../en/About-us/Magazine/Frischer-Wind-in-der-Logistik-von-Heidelberg.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "In times of increasingly individualized customer requirements, intralogistics must also gradually adapt to the changed production conditions. How this can be achieved by a global industrial company is shown by the example of Heidelberger Druckmaschinen AG (Heidelberg) in Wiesloch/Walldorf."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Frischer-Wind-in-der-Logistik-von-Heidelberg.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "Reach Trucks",
+     "href": "https://www.linde-mh.com/en/Products/Reach-Trucks/"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "Load handling in warehouses requires numerous movements and maneuvering, often in confined spaces and at height. Linde reach trucks are tailor-made for these conditions."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "https://www.linde-mh.com/en/Products/Reach-Trucks/"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

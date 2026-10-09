@@ -1,0 +1,1628 @@
+{
+ "source": "http://localhost:8802/stardust/migrated/en/Landingpage/Compact-class-with-electric-drive/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Compact Electric Trucks"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The Right Forklift for Every Application"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Model Variants",
+     "href": "#2737365"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Characteristics",
+     "href": "#2737381"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Performance tests",
+     "href": "#2737383"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Testimonials",
+     "href": "#2737387"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Advantages",
+     "href": "#2737389"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 5,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Counterbalanced forklift trucks are the backbone of intralogistics. They have become indispensable in warehouses, production facilities, and logistics centers. In the payload range of 1 to 2 metric tons in particular, they handle a wide range of tasks around the globe. Choosing the right forklift will help to determine the efficiency, reliability, and cost-effectiveness of your transport operations."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "This is where the new E14 – E20, Ei14 – Ei20 and Xi10 – Xi20 electric counterbalanced forklift trucks from Linde Material Handling come into their own: the sheer variety of models available, unparalleled on the market, is combined with superior performance, outstanding safety, and excellent ergonomics. This means that the forklift trucks in the segment up to 2 metric tons offer the maximum performance in every conceivable use and guarantee the highest level of cost-effectiveness."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Find out more in our brochure",
+     "href": "../../../media/Global-Content/08_Downloads/Landingpage-1251/B_Elektro_Gegengewichtsstapler_E14-E20_Xi10-Xi20_dt_A_1024_view.pdf"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Are you interested in the new electric forklift trucks from Linde MH? Contact us.",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "A.btn__link",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Variety Meets Performance: Our Models"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Maximum Variety, the Perfect Fit for Any Application"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "In the payload class of 1 to 2 metric tons, Linde MH’s electric forklift trucks offer a unique range of models with 40 different configurations. Thanks to the wide selection of battery capacities, load capacities, chassis sizes, and steering axles, there is a perfect setup for every application. The models impress with maximum flexibility in power sources and equipment, making them suitable for numerous application scenarios. For standard applications without battery changes, the models with permanently integrated Li-ion batteries are the ideal choice. Unbeatable performance is guaranteed by the : Their 90-volt technology with synchronous reluctance motors ensures full power even during continuous operation. In addition, Linde MH offers the Roadster models , a special variant optimized for maximum all-around visibility."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "E14 – E20",
+     "href": "../../../en/Products/E-Trucks/E14-E20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Ei14 – Ei20",
+     "href": "../../../en/Products/E-Trucks/Ei14-Ei20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Xi10 – Xi20",
+     "href": "../../../en/Products/E-Trucks/Xi10-Xi20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Xi14 – Xi20 R",
+     "href": "../../../en/Products/E-Trucks/Xi14-Xi20-R/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "B.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "7",
+   "items": [],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Impressive multi-talent: E14 – E20"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The E14 – E20 are the ideal solution for tight environments in warehouses or production facilities. They combine a compact design and outstanding maneuverability with a top speed of up to 20 km/h. The E14 – E20 rely on a powerful 48 V electrical system that delivers an optimal ratio of performance, energy efficiency, and cost-effectiveness. There are a total of 14 different model variants to choose from, which differ in terms of their load capacity, battery size, height, and whether they are designed as a or ."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "three-wheeled",
+     "href": "../../../en/Products/E-Trucks/E14-E20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "four-wheeled version",
+     "href": "../../../en/Products/E-Trucks/E16-E20-P/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Ultimate flexibility also applies to the energy source: fleet operators can choose between the , and offered by Linde Material Handling. Thanks to the plug & play principle, they can continue to use existing batteries or switch between lead-acid and Li-ION batteries without having to convert. The side battery door also makes it easier to change the battery."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "lead-acid batteries",
+     "href": "https://www.linde-mh.com/en/Solutions/Energy-Systems/#fsSectionId_785304"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Li-ION batteries",
+     "href": "../../../en/About-us/Innovations-from-Linde/Lithium-Ionen.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "fuel cell systems",
+     "href": "../../../en/About-us/Innovations-from-Linde/Fuel-Cells.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 5,
+      "imgs": 0,
+      "textRuns": 8
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The Master Performer: Xi10 – Xi20"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The have been shown to be the highest-performing representatives of their payload class. In combination with a 90 V Li-ION battery and sophisticated heat management, they increase the efficiency of the drive and lift motors by up to 5 percent and thus guarantee full performance at all times, even in continuous operation. With lifting and lowering speeds around 20 percent above the industry average, the Xi10 - Xi20 set new standards in productivity."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Xi10 – Xi20",
+     "href": "../../../en/Products/E-Trucks/Xi10-Xi20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "A range of battery capacities up to 32 kWh enables the forklifts to be flexibly adapted to any operating conditions. Thanks to their robust design, they can also be used outdoors in the four-wheeled version with pendulum axle ( only, three-wheeled version ) without having to make any compromises. Altogether, the Xi10 – Xi20 are available in 12 different design variants."
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Xi16 – Xi20 P",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-P/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Xi10 – Xi20",
+     "href": "../../../en/Products/E-Trucks/Xi10-Xi20/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Straightforward indoor heroes: Ei14 – Ei20"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The electric counterbalanced forklifts from Linde Material Handling are based on the proven drive technology of the E-series models while offering the convenience of the Xi series thanks to their integrated Li-ion battery. Quick opportunity charging – optionally via an onboard charger – is possible during the shift or during breaks."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Ei14 – Ei20",
+     "href": "../../../en/Products/E-Trucks/Ei14-Ei20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "This makes the forklifts ideal for applications that do not require battery changes and also offers a cost-effective alternative for two-shift operations that have previously relied on lead-acid exchange batteries. With speeds of up to 20 km/h, they handle demanding transport tasks efficiently and reliably. Maximum maneuverability is guaranteed by the turntable steering on the and the Linde combi steering axle on the ."
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "three-wheel model",
+     "href": "../../../en/Products/E-Trucks/Ei14-Ei20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "four-wheel model",
+     "href": "../../../en/Products/E-Trucks/Ei16-Ei20-P/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "B.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The Spacious Miracle"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The permanently integrated Li-ION battery in the and models, and the absence of a battery tray have allowed the workplace to be redesigned. In addition to the increased headroom, the footwell in particular has been significantly expanded and now offers the driver legroom that is a significant 35 percent greater than the industry average. The step was enlarged and lowered at the same time, so that it is now just 40 centimeters above the ground. This means that the Xi10 – Xi20 and Ei14 – Ei20 offer the lowest entry step in the industry and guarantee maximum comfort and safety when getting in and out of the truck."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Xi10 – Xi20",
+     "href": "../../../en/Products/E-Trucks/Xi10-Xi20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Ei14 – Ei20",
+     "href": "../../../en/Products/E-Trucks/Ei14-Ei20/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 0,
+      "textRuns": 4
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The renowned trade journalist and forklift truck expert Theo Egberts carried out an which confirmed the outstanding performance, speed, and maneuverability of the Xi models. These results reinforce the status of the E14 – E20 and Xi10 – Xi20 as the world’s most powerful electric forklift trucks in their class and confirm that they are setting new standards for payloads up to two metric tons."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "extensive performance test,",
+     "href": "../../../en/About-us/Magazine/Theo-Egberts-Xi/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Theo Egberts’s test report",
+     "href": "../../../en/About-us/Magazine/Theo-Egberts-Xi/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Maximum All-Round Visibility: The Roadsters"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The Roadsters are special versions of the Xi series. and . They offer a unique combination of unrestricted all-round visibility, high performance, and ergonomic design. The distinctive Linde design features overhead tilt cylinders, removing the need for an A-pillar and providing an unobstructed view to the front of the truck. This gives the driver a clear view of their route, load, and the surrounding environment. The Roadsters are particularly well suited for use in confined spaces and for loading and unloading trucks via a ramp. The impressive Xi14 – Xi20 R are agile 3-wheel models featuring a pivot-steer axle, while the Xi16 – Xi20 RP are 4-wheel models that offer maximum stability and maneuverability. With the optional , the Roadster can be controlled by joystick or mini steering wheel, significantly reducing the physical strain on the driver. What’s more, the elimination of the steering column also improves visibility."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Xi14 – Xi20 R",
+     "href": "../../../en/Products/E-Trucks/Xi14-Xi20-R/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Xi16 – Xi20 RP",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-RP/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Linde Steer Control",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Steer-Control/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 3,
+      "imgs": 0,
+      "textRuns": 5
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "360° view from the driver’s cabin"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Whether it’s proven all-around visibility, a spacious cockpit, or an unobstructed view without an A-pillar: the E, Xi, and Roadster models each shine a spotlight on different aspects of visibility. Take a seat and compare the differences:"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Which Forklift Truck Is the Model for You?"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "E14 – E20 (three-wheeled forklift truck)",
+     "href": "../../../en/Products/E-Trucks/E14-E20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The E14 – E20 are ideally suited to daily multi-shift operation. With their swivel steering axle, these compact top performers deliver exceptional handling performance in the tightest of spaces."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Products/E-Trucks/E14-E20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "E16 – E20 P (four-wheeled forklift truck)",
+     "href": "../../../en/Products/E-Trucks/E16-E20-P/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The E16 – E20 P flexible all-rounders are ideal for fast transport journeys. The four-wheeled version with the innovative Linde combi-steering axle combines maximum maneuverability with optimum stability."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/Products/E-Trucks/E16-E20-P/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Xi10 – Xi20 (three-wheeled forklift truck)",
+     "href": "../../../en/Products/E-Trucks/Xi10-Xi20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The Xi10 – Xi20 are a spacious performance sensation on three wheels. They set new standards when it comes to performance, maneuverability, and space."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../../en/Products/E-Trucks/Xi10-Xi20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Xi16 – Xi20 P (four-wheeled forklift truck)",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-P/index.html"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "Thanks to state-of-the-art drive technology, the Xi16 – Xi20 P deliver maximum performance, even in continuous operation and outdoor use. These agile top performers can be equipped with the Linde combi-steering axle or the Linde pendulum axle."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Find out more",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-P/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Ei14 – Ei20 (Three-Wheeled Forklift Truck)",
+     "href": "../../../en/Products/E-Trucks/Ei14-Ei20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 13,
+     "text": "The Ei14 – Ei20 electric forklift trucks with integrated Li-ION battery combine agility and comfort for efficient use in standard indoor applications. The three-wheeled version with swivel steering axle ensures maximum maneuverability even in tight spaces."
+    },
+    {
+     "role": "cta",
+     "order": 14,
+     "text": "Find out more",
+     "href": "../../../en/Products/E-Trucks/Ei14-Ei20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Ei16 – Ei20 P (Four-Wheeled Forklift Truck)",
+     "href": "../../../en/Products/E-Trucks/Ei16-Ei20-P/index.html"
+    },
+    {
+     "role": "body",
+     "order": 16,
+     "text": "The Ei16 – Ei20 P electric forklift trucks impress with proven drive technology, simple energy management, and greater cab comfort thanks to the integrated Li-ION battery. The Linde combined steering axle ensures safe driving stability while maintaining high maneuverability."
+    },
+    {
+     "role": "cta",
+     "order": 17,
+     "text": "Find out more",
+     "href": "../../../en/Products/E-Trucks/Ei16-Ei20-P/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Xi14 – Xi20 R (Three-Wheel Forklift Truck)",
+     "href": "../../../en/Products/E-Trucks/Xi14-Xi20-R/index.html"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "Thanks to the absence of the A-pillar, the optimized visibility guaranteed by the Xi14 - Xi20 R roadsters offers a uniquely clear view to the front. The maneuverable 3-wheel version with swivel steering axle is ideal for tight spaces with lots of forklift and pedestrian traffic."
+    },
+    {
+     "role": "cta",
+     "order": 20,
+     "text": "Find out more",
+     "href": "../../../en/Products/E-Trucks/Xi14-Xi20-R/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Xi16 – Xi20 RP (four-wheeled forklift truck)",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-RP/index.html"
+    },
+    {
+     "role": "body",
+     "order": 22,
+     "text": "Thanks to the Linde combi-steering axle, the Xi16 - Xi20 RP Roadsters offer unrestricted all-round visibility and high stability combined with maneuverability. This makes them ideal for complex shunting maneuvers and a wide range of transport tasks."
+    },
+    {
+     "role": "cta",
+     "order": 23,
+     "text": "Find out more",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-RP/index.html"
+    }
+   ],
+   "imgCount": 8,
+   "editableTexts": 16,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 8,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Which forklift truck is right for you? We’re happy to help.",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Indoors, outdoors, and everywhere: the right axle for every situation"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "If you want to achieve maximum productivity and profitability, the general rule is that the better forklifts are tailored to your specific requirements, the more productive they are. That is why there are two different steering axle variants to choose from for the E14 – E20, Ei14 – Ei20, and Roadster models, and three different steering axle variants for the Xi10 – Xi20. These enable the forklift trucks to be perfectly matched to the ground conditions in industrial buildings and outdoor areas."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Indoor Pro: Three-Wheeled Version with Swivel Steering Axle",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "All-Rounder: Four-Wheeled Version with Combi-Steering Axle",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Outdoor Hero: Four-Wheeled Version with Pendulum Steering Axle",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "Indoor Pro: Three-Wheeled Version with Swivel Steering Axle"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Three-wheeled forklifts from Linde MH use the tried-and-tested swivel axle. The benefits of this axle variant come to the fore when it is used indoors. It performs particularly well in transport operations in tight spaces where maximum maneuverability is required."
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "All-Rounder: Four-Wheeled Version with Combi-Steering Axle"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "The combi-steering axle developed by Linde MH gives four-wheeled forklifts a degree of maneuverability approaching that of three-wheeled forklifts, but at the same time it helps to ensure maximum stability. This makes these forklifts ideal for use in indoor and outdoor areas."
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Outdoor Hero: Four-Wheeled Version with Pendulum Steering Axle"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "The Linde pendulum axle is an established feature of Linde MH internal combustion forklift trucks. It combines a low center of gravity with a robust design, also making it ideal for outdoor use, even on uneven ground (Xi models only)."
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 7,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Classic Linde Material Handling"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "21",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Ergonomics: Comfort for Maximum Productivity"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The driver’s wellbeing has a decisive impact on their productivity. It is for that reason that the compact class offers a level of comfort and user-friendliness previously only seen in IC trucks. The mast, drive axle, and steering axle are decoupled from the chassis by elastomer ring bearings to ensure stress-free work. This improves shock absorption and protects the driver when driving over uneven surfaces."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "The ergonomic layout of the control elements, the spacious cab with improved cooling and heating performance, and the intuitive operation also help to minimize the physical strain on the driver. The driver’s cab has been kept in the same automotive design. The cabs of the , and feature equipment such as a 3.5-inch full-graphic display. The spacious headroom in the driver’s cab helps to provide additional comfort."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "E14 – E20",
+     "href": "../../../en/Products/E-Trucks/E14-E20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Ei14 – Ei20",
+     "href": "../../../en/Products/E-Trucks/Ei14-Ei20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Xi10 – Xi20",
+     "href": "../../../en/Products/E-Trucks/Xi10-Xi20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "More on ergonomics in Linde forklifts",
+     "href": "https://www.linde-mh.com/en/Linde-Core/Linde-Ergonomics.html"
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Safety: Top Protection in Every Situation"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Protection of the driver and the goods being transported is the top priority for the , and . Design elements and intelligent assistance systems ensure optimum protection of the driver, the load, and the environment. The slim mast profiles, the narrow A-pillar, and the low front plate ensure excellent all-round visibility. Thanks to the special design of the and Roadster variants, the A-pillar has been removed entirely, further enhancing the driver’s field of vision. A strut-free roof pane made of armored glass is available as an optional extra for all models, providing a clear view when accessing high shelving."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "E14 – E20",
+     "href": "../../../en/Products/E-Trucks/E14-E20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Ei14 – Ei20",
+     "href": "../../../en/Products/E-Trucks/Ei14-Ei20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Xi10 – Xi20",
+     "href": "../../../en/Products/E-Trucks/Xi10-Xi20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Xi14 – Xi20 R",
+     "href": "../../../en/Products/E-Trucks/Xi14-Xi20-R/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Xi16 – Xi20 RP",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-RP/index.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "The low center of gravity, the overhead tilt cylinders, and the torsion-resistant mast construction ensure maximum tilt safety. The forklift trucks are equipped as standard with Linde Curve Assist for automatic speed adjustment when cornering and Linde Load Assist to limit mast inclination and lifting movement. Additional optional assistance systems such as or help to further increase safety."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Linde Safety Pilot",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Pilot.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "Linde Reverse Assist Radar",
+     "href": "../../../en/About-us/Innovations-from-Linde/Reverse-Assist-Radar/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 17,
+     "text": "More on safety in Linde forklifts",
+     "href": "https://www.linde-mh.com/en/Solutions/Warehouse-Safety/"
+    },
+    {
+     "role": "heading",
+     "order": 18,
+     "text": "Connectivity: Seamless Integration and Maximum Availability"
+    },
+    {
+     "role": "body",
+     "order": 19,
+     "text": "The , and can be seamlessly integrated into digital processes. Thanks to their modern electrical/electronic system architecture and sophisticated sensors, the trucks can be easily connected to , control systems, and service applications. There is also an optional (E14 – E20, Ei14 – Ei20) or standard (all Xi models) data transmission unit available, which enables the wireless transmission of key truck data, such as operating hours or error codes."
+    },
+    {
+     "role": "cta",
+     "order": 20,
+     "text": "E14 – E20",
+     "href": "../../../en/Products/E-Trucks/E14-E20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Ei14 – Ei20",
+     "href": "../../../en/Products/E-Trucks/Ei14-Ei20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Xi10 – Xi20",
+     "href": "../../../en/Products/E-Trucks/Xi10-Xi20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 23,
+     "text": "Warehouse management systems",
+     "href": "../../../en/Solutions/Intralogistics-Automation/Warehouse-Management-System/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "fleet management",
+     "href": "https://www.linde-mh.com/en/Solutions/Fleet-Management/"
+    },
+    {
+     "role": "body",
+     "order": 25,
+     "text": "Recording error codes helps to ensure any wear or damage is detected at an early stage, which guarantees high truck availability. Software updates and new functions can be installed remotely without the need for a service technician on site. At the same time, fleet managers and service technicians can access and analyze important parameters and performance data at any time."
+    },
+    {
+     "role": "heading",
+     "order": 26,
+     "text": "Service: Robust and Low-Maintenance for Minimal Costs"
+    },
+    {
+     "role": "body",
+     "order": 27,
+     "text": "Their tough construction means that the compact class with electric drive is designed for high availability and low service costs. The drive axle, electric motors, and power inverter are fully encapsulated and are therefore protected from dust and water, and are completely maintenance-free. All components that require servicing are easily accessible to technicians, which speeds up maintenance work."
+    },
+    {
+     "role": "body",
+     "order": 28,
+     "text": "A hinged battery cover also simplifies the daily inspection of the lead-acid battery (E14 – E20 only). The wireless transmission of truck data helps to optimize service processes and avoid unnecessary downtime. An overall inspection is only required after 1,000 operating hours, and the change of hydraulic oil and hydraulic oil filter is only required after three years (about 6,000 hours)."
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 14,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 4,
+      "imgs": 1,
+      "textRuns": 7
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "22",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Tested and Proven: Phenomenally Powerful and Cost-Effective"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "23",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "The and showed their superiority in direct comparison with leading competitor models. A performance test certified by TÜV NORD, in which 56 pallets have to be unloaded from a truck, evaluates unloading time, energy costs, and overall costs per unloading operation. The energy costs were based on average prices of EUR 0.30 per kilowatt hour (kWh) of electricity. The overall costs compared include the purchase price, personnel costs, energy costs, and service costs. The Linde models achieve significantly better results than the competition in all three categories."
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "E14 – E20",
+     "href": "../../../en/Products/E-Trucks/E14-E20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Xi10 – Xi20",
+     "href": "../../../en/Products/E-Trucks/Xi10-Xi20/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "B.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "24",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Time required per truck unloading operation",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Energy costs per truck unloading operation",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Overall costs per truck unloading operation",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 3,
+     "text": "Time required per truck unloading operation"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "56 pallets per truckload"
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "Energy costs per truck unloading operation"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "56 pallets per truckload"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Average kilowatt-hour price of EUR 0.30"
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "Overall costs per truck unloading operation"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "Purchase price plus personnel, energy, and service costs"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 7,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": false
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "25",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Want to find out more about our electric forklift trucks? Contact us!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "26",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The New Electric Counterbalanced Forklift trucks in Action"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "27",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Linde Xi20 PH at Ostendorf",
+     "href": "../../../en/About-us/Magazine/Ostendorf/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Can an electric forklift truck do the job of an internal combustion truck? The new Linde Xi20 PH leaves no doubt about the answer to that question at Ostendorf. You can find all the details in the report."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/Ostendorf/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Linde Xi20 P at Klingele Paper & Packaging",
+     "href": "../../../en/About-us/Magazine/Klingele/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "An electric forklift that is virtually tailor-made for continuous use: the new Linde Xi20 P impresses at Klingele Paper & Packaging with its exceptional performance."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/Klingele/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "DB Schenker tests the new Linde E16",
+     "href": "../../../en/About-us/Magazine/DB-Schenker-Schweinfurt/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "DB Schenker in Schweinfurt handles around 800 to 1,000 metric tons of goods per day in its 5,000-square meter warehouse. Given the high volumes involved, the forklifts used therefore need to meet the most stringent requirements. In testing, the latest generation of the Linde E16 stood out thanks to its impressive speed and process reliability."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Find out more",
+     "href": "../../../en/About-us/Magazine/DB-Schenker-Schweinfurt/index.html"
+    }
+   ],
+   "imgCount": 3,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "28",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Benefits at a Glance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "29",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Flexible"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The 40 model variants allow for optimal adaptation to individual application requirements"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Powerful"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Top speed of up to 20 km/h for exceptional handling performance, even in the tightest of spaces"
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Energy Systems"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Choice of lead-acid, Li-ION, or fuel cell technology (E14 – E20 only)"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 6,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 3,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "30",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Comfortable"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Ergonomic design and intuitive operation minimize strain on the driver"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Safe"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Excellent all-round visibility and intelligent assistance systems for maximum protection"
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Networked"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Seamless integration into digital processes through modern system architecture and sensors"
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Cost-Effective"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "High availability with low service costs and outstanding energy efficiency"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "31",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Any questions? Please feel free to get in touch.",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "You can find more information in our brochure",
+     "href": "../../../media/Global-Content/08_Downloads/Landingpage-1251/B_Elektro_Gegengewichtsstapler_E14-E20_Xi10-Xi20_dt_A_1024_view.pdf"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "A.btn__link",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "32",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "This may also interest you"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Compact top performer",
+     "href": "../../../en/Products/E-Trucks/E14-E20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Maximum indoor goods handling: The Linde E14 – E20 with swivel steering axle are super-agile and come with a wide range of energy solutions."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/E14-E20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Ei14 – Ei20",
+     "href": "../../../en/Products/E-Trucks/Ei14-Ei20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The Ei14 – Ei20 electric forklift trucks with integrated Li-ION battery combine agility and comfort for efficient use in standard indoor applications."
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Ei14-Ei20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 7,
+     "text": "Flexible All-Rounder",
+     "href": "../../../en/Products/E-Trucks/E16-E20-P/index.html"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "Efficient load handling: Linde E16 – E20 P electric forklift trucks are maneuverable, flexible and offer numerous energy options."
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/E16-E20-P/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 10,
+     "text": "Xi16 – Xi20 P (four-wheeled forklift truck)",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-P/index.html"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "Powerful, robust, agile, and spacious: The counterbalance forklift trucks Xi16 – Xi20 P from Linde set new standards as a four-wheeled version."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-P/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "Solutions for the automotive industry",
+     "href": "../../../en/Solutions/Industries/Automotive-Industry/index.html"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "Linde Material Handling supports the automotive industry in the key challenges of intralogistics: ensuring production flow, saving costs, using automation, protecting the environment."
+    },
+    {
+     "role": "cta",
+     "order": 15,
+     "text": "Learn more",
+     "href": "../../../en/Solutions/Industries/Automotive-Industry/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 16,
+     "text": "Flying starts on the ground",
+     "href": "../../../en/About-us/Magazine/Airport-Logistics.html"
+    },
+    {
+     "role": "body",
+     "order": 17,
+     "text": "Ground handling is a challenge for airport logistics. The demands on industrial trucks and logistics solutions are correspondingly high. Demand is for robust vehicles that enable fast and safe handling and are increasingly focusing on alternative drive systems."
+    },
+    {
+     "role": "cta",
+     "order": 18,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Airport-Logistics.html"
+    },
+    {
+     "role": "cta",
+     "order": 19,
+     "text": "Theo Egberts’s Performance Test",
+     "href": "../../../en/About-us/Magazine/Theo-Egberts-Xi/index.html"
+    },
+    {
+     "role": "body",
+     "order": 20,
+     "text": "Forklift expert confirms: Linde sets new records for performance, ergonomics, and energy efficiency with its new Xi models."
+    },
+    {
+     "role": "cta",
+     "order": 21,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Theo-Egberts-Xi/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 22,
+     "text": "Linde Roadster Xi16 – Xi20 RP",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-RP/index.html"
+    },
+    {
+     "role": "body",
+     "order": 23,
+     "text": "The Xi16 – Xi20 RP electric counterbalanced forklift truck combines unparalleled all-round visibility, maneuverability, and safety for maximum efficiency."
+    },
+    {
+     "role": "cta",
+     "order": 24,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Xi16-Xi20-RP/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 25,
+     "text": "Linde Roadster Xi14 – Xi20 R",
+     "href": "../../../en/Products/E-Trucks/Xi14-Xi20-R/index.html"
+    },
+    {
+     "role": "body",
+     "order": 26,
+     "text": "Pioneering visibility, compact maneuverability, and high performance: The Xi14 – Xi20 electric counterbalanced forklift trucks from Linde Material Handling."
+    },
+    {
+     "role": "cta",
+     "order": 27,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Xi14-Xi20-R/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 28,
+     "text": "Xi10 – Xi20 (three-wheeled forklift truck)",
+     "href": "../../../en/Products/E-Trucks/Xi10-Xi20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 29,
+     "text": "As a three-wheeled version, the counterbalance forklift trucks Xi10 – Xi20 from Linde set new standards when it comes to performance, maneuverability and space."
+    },
+    {
+     "role": "cta",
+     "order": 30,
+     "text": "Learn more",
+     "href": "../../../en/Products/E-Trucks/Xi10-Xi20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 31,
+     "text": "A Refreshing Performance",
+     "href": "../../../en/About-us/Magazine/Ensinger/index.html"
+    },
+    {
+     "role": "body",
+     "order": 32,
+     "text": "The best of both worlds – for the best that nature has to offer. That’s the best way to describe the pilot run of the new Linde X35 at German soft drinks manufacturer, Ensinger Mineral-Heilquellen. The new electric forklift truck performance class impressed the managers of the long-established mineral water brand, not only in terms of sustainability, but also with its outstanding performance."
+    },
+    {
+     "role": "cta",
+     "order": 33,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Ensinger/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 34,
+     "text": "Signature Move(s)",
+     "href": "../../../en/About-us/Magazine/Porsche-Engineering/index.html"
+    },
+    {
+     "role": "body",
+     "order": 35,
+     "text": "For decades now, Linde forklift trucks have been distinguished by their design, for which the honor goes to none other than Porsche Engineering. The most recent achievement of this progressive partnership: the new generation of Linde Counterbalanced Forklift Trucks X20 – X35 and H20 – H35."
+    },
+    {
+     "role": "cta",
+     "order": 36,
+     "text": "Learn more",
+     "href": "../../../en/About-us/Magazine/Porsche-Engineering/index.html"
+    }
+   ],
+   "imgCount": 12,
+   "editableTexts": 13,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 12,
+     "unit": {
+      "headings": 0,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  }
+ ]
+}

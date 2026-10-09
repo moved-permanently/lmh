@@ -1,0 +1,105 @@
+{
+ "source": "http://localhost:8803/stardust/migrated/en/technical/News-Detail_1310802.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Wider choice for more efficient operation"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "16 Oct 2019"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Linde Material Handling expands its portfolio of lithium-ion batteries"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "The right battery for every application: This is what intralogistics specialist Linde Material Handling promises its customers. Matching the lithium-ion battery to the specific operational demands offers the additional benefit of cost savings."
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "Compared to a conventional lead-acid battery, lithium-ion batteries in industrial trucks possess numerous advantages: Intermediate charging and short charging times ensure high availability, while the efficient overall system reduces energy expenses. Further advantages include at least twice as a long service life and lower maintenance and handling costs."
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "The only drawback regarding the innovative energy system is relatively high battery acquisition costs. “As these rise with increasing capacity, the batteries should be precisely tailored to the application requirements on hand,” says Christoph Englert, Product Manager Energy Strategy and Solutions at Linde Material Handling. Logically, the greater the variety of battery sizes to choose from, the better this can be achieved."
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Linde Material Handling is therefore expanding its lithium-ion battery portfolio. For trucks in the load capacity range from 2 to 3.5 tons (Linde E20 to E35), the existing 24.1 kWh and 60.3 kWh battery versions have been complemented by a larger variant with 84.6 kWh capacity, which is designed for energy-intensive three-shift applications found in the paper and beverage industries, for example. Furthermore, a new medium-capacity battery has been added for industrial trucks in the load capacity range between 3.5 and 5 tons. Here, Linde Material Handling closes the gap between the smaller (36.2 kWh) and the larger (118.4 kWh) battery with a 66.3 kWh battery. Last but not least, a second battery size of 64.7 kWh is now available for the 6-8 ton forklift trucks as a supplement to the existing 118.4 kWh battery."
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Linde Material Handling is expanding its lithium-ion battery portfolio for counterbalanced trucks in the load capacity range from 2 to 8 tons to precisely tailor the batterie to the application requirements on hand."
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "“If a forklift needs large amounts of energy, for example to transport heavy loads, the battery must be dimensioned accordingly. The same applies if the vehicles are used intensively for many continuous hours in multi-shift operation and the drivers have little opportunity to drive their trucks to the charging station for a longer period of time,” explains Englert. However, the situation is different if the truck can be parked and recharged multiple times in between. In this case, a smaller battery would still be sufficient to continuously supply the truck with the required amount of energy."
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "All new 90 Volt batteries are compatible with the 9 kW, 17 kW and 30 kW chargers on offer. The choice of charger also depends on the application requirements: If there is little time available for charging, the station needs to be appropriately powerful. If, on the other hand, the charging process may take longer, a smaller charger is sufficient."
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "With these new batteries, Linde Material Handling is making it even easier for its customers to begin using lithium-ion technology. The company already offers lithium-ion models for all its electric trucks. A major advantage of Linde trucks is that the overall system consisting of vehicle and battery carries the CE seal of approval and all components have undergone extensive testing. Furthermore, drawing on its extensive expertise and using special tools such as the lithium-ion calculator, the Linde sales organization can provide advice when it comes to converting from lead-acid to lithium-ion trucks."
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "Trade Press"
+    },
+    {
+     "role": "heading",
+     "order": 12,
+     "text": "Heike Oder"
+    },
+    {
+     "role": "cta",
+     "order": 13,
+     "text": "+49 6021 991277",
+     "href": "tel:+49 6021 991277"
+    },
+    {
+     "role": "cta",
+     "order": 14,
+     "text": "Send email",
+     "href": "mailto:heike....oder@@@@linde-mh....de"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 14,
+   "repeats": []
+  }
+ ]
+}

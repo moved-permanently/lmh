@@ -1,0 +1,319 @@
+{
+ "source": "http://localhost:8802/stardust/migrated/en/Landingpage/Safely-to-the-top/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Innovations for maximum protection when handling loads high up"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Safely to the Top"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Contact the experts at Linde",
+     "href": "../../../en/Forms-GC/Safety-Campaign-Form/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Dynamic Mast Control",
+     "href": "#1933293"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Linde Safety Pilot",
+     "href": "#1933296"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Rack Protection Sensor",
+     "href": "#1933299"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "High shelves have become the standard in modern warehouses. Not surprising, given that storage space is precious—and priced accordingly. But working at height with industrial trucks also involves risks, because swaying masts, inaccurate load positioning, and potential collisions with racks can all lead to dangerous situations. Linde Material Handling offers innovative solutions to minimize these risks and other hazards when working at height as well as to ensure the safety of people and transported goods."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Safe Thanks to Oscillation Control: Dynamic Mast Control"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Working with reach trucks at high shelf heights can cause the mast to start oscillating. This can result in damage to the load and shelving and, in the worst case, can even lead to tipping accidents or falling goods. The Dynamic Mast Control (DMC) driver assistance system guards against this danger with an electric drive that makes targeted counter-movements to compensate for mast sway. Handling becomes much smoother, which leads to faster and safer transportation processes. This boosts productivity and safety, while also permanently reducing costs due to accidents."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "2"
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Learn more about Dynamic Mast Control",
+     "href": "../../../en/About-us/Innovations-from-Linde/Dynamic-Mast-Control.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "The Intelligent Passenger: Linde Safety Pilot"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "2"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Tipping accidents with counterbalanced forklift trucks often happen due to operating and driving errors or miscalculating weight and height. The Linde Safety Pilot works like an attentive passenger, preventing dangerous situations before they arise. The driver can keep a constant eye on key parameters such as lift height, fork tilt, and load weight via a monitor. If a critical state is reached, the system issues a visual and acoustic warning. In the Active version, the Safety Pilot even intervenes automatically in the driving and lifting functions to actively prevent dangerous situations."
+    }
+   ],
+   "imgCount": 2,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 2,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Learn more about the Linde Safety Pilot",
+     "href": "../../../en/About-us/Innovations-from-Linde/Linde-Safety-Pilot.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Reliable Collision Protection: Rack Protection Sensor"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Reach truck drivers have to give the pallet their full attention when storing and retrieving goods on higher shelves. Keeping an eye on the distance to the rack or goods at ground level at the same time is a major challenge. This is where the Rack Protection Sensor comes in. Mounted directly on the truck, its sensors measure the distance between the truck and the rack and gently brake the reach truck before a collision occurs. This prevents expensive damage to rack columns or stored goods and relieves the burden on the driver, who can concentrate fully on storing and retrieving goods with precision."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "1"
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "2"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "3"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "4"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Learn more about the Rack Protection Sensor",
+     "href": "../../../en/About-us/Innovations-from-Linde/Rack-Protection-Sensor/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "We are Safety."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The safety of people is our top priority! Linde Material Handling also has the right solution for any other safety issue in your company’s intralogistics."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "With us, you are always on the safe side."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Contact us!",
+     "href": "../../../en/Forms-GC/Safety-Campaign-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": [
+    {
+     "unitSelector": "P.",
+     "count": 3,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  }
+ ]
+}

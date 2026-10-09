@@ -1,0 +1,952 @@
+{
+ "source": "http://localhost:8806/stardust/migrated/en/Products/Tugger-Trains/index.html",
+ "width": 1280,
+ "profile": "eds",
+ "sections": [
+  {
+   "section": "1",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Tugger Trains"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Always providing the perfect solution"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "View all our tugger trains here",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?productTypes[]=2369&offerType=new"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "2",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "All Trucks",
+     "href": "#2580801"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Characteristics",
+     "href": "#2580813"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Advantages",
+     "href": "#2580815"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "FAQ",
+     "href": "#2580821"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Hire, buy, or lease a tugger train",
+     "href": "#2580823"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": [
+    {
+     "unitSelector": "LI.",
+     "count": 5,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "3",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "In modern industrial production, material supply must be precisely coordinated with the work cycles of the production machines and assembly lines. To ensure a synchronized and continuous material flow, it is crucial that the required materials are delivered to the right place (just in sequence) at the right time (just in time). This often requires the use of several intralogistics trucks at the same time, which in turn means higher investment and follow-up costs as well as an increased risk of accidents."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "This is where the tugger train comes into play. It consists of a towing vehicle with one or more trailers. The different trailer types allow a variety of goods to be transported simultaneously using a single tugger train. The trailers are characterized by high directional stability, which allows the train to be driven precisely and reliably."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "Every warehouse and production environment has its own specific requirements, which is why Linde MH offers customized tugger train solutions. With tractors, trailers, trolleys, our product portfolio offers everything you need. Each component works in perfect harmony with one another and can be flexibly adapted to your specific processes and material flows—helping to make your logistics efficient, safe, and sustainable."
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Read more",
+     "href": "#read_more"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 3,
+   "repeats": []
+  },
+  {
+   "section": "4",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Our tugger trains at a glance"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "5",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "LT10 WX",
+     "href": "../../../en/Products/Tugger-Trains/LT10-WX/index.html"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The LT10 WX tugger train from Linde MH is ideal for standardized applications and offers maximum transport capacity with a minimal footprint."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Learn more",
+     "href": "../../../en/Products/Tugger-Trains/LT10-WX/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "LT06 – LT10 M / LT10 W",
+     "href": "../../../en/Products/Tugger-Trains/LT06-LT10-M-LT10-W/index.html"
+    },
+    {
+     "role": "body",
+     "order": 4,
+     "text": "The maneuverable LT06 – LT10 M / LT10 W tugger trains from Linde MH offer maximum flexibility and can be easily adapted to customer-specific trolleys and individual applications."
+    },
+    {
+     "role": "cta",
+     "order": 5,
+     "text": "Learn more",
+     "href": "../../../en/Products/Tugger-Trains/LT06-LT10-M-LT10-W/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 6,
+     "text": "LT10 – LT20 C / LT10 – LT16 B/BM",
+     "href": "../../../en/Products/Tugger-Trains/LT10-LT20/index.html"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "The LT10 – LT20 C / LT10 – LT16 B/BM tugger trains from Linde Material Handling can be used everywhere, both indoors and outdoors."
+    },
+    {
+     "role": "cta",
+     "order": 8,
+     "text": "Learn more",
+     "href": "../../../en/Products/Tugger-Trains/LT10-LT20/index.html"
+    },
+    {
+     "role": "cta",
+     "order": 9,
+     "text": "LT16 Ch/BMh",
+     "href": "../../../en/Products/Tugger-Trains/LT16-Ch-BMh/index.html"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "The LT16 Ch/BMh tugger trains from Linde Material Handling are ideal for the demanding task of transporting various loads outdoors."
+    },
+    {
+     "role": "cta",
+     "order": 11,
+     "text": "Learn more",
+     "href": "../../../en/Products/Tugger-Trains/LT16-Ch-BMh/index.html"
+    }
+   ],
+   "imgCount": 4,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 2,
+      "imgs": 1,
+      "textRuns": 3
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "6",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "Linde Material Handling offers four different tugger train solutions, each optimized for their specific application. The compact, single-axle design of the LT06 – LT10 M and LT10 W tugger train trailers makes them ideal for transporting customer-specific load carriers in the tightest of spaces. For standardized transport operations with high volumes, the innovative scissor tiller mechanism of the LT10 WX tugger train trailers makes it possible to transport up to eight trolleys at a time in a compact space. Both variants are designed primarily for indoor use, but can also be used outdoors if the conditions match those of an indoor area."
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The robust construction and large outdoor tires of the LT16 Ch/BMh trailers make them perfect for transporting goods outdoors, even in the most demanding environments. As all-rounders, the LT10 – LT20 C and LT10 – LT16 B/BM models can be used both indoors and outdoors, offering maximum flexibility and versatility."
+    },
+    {
+     "role": "body",
+     "order": 2,
+     "text": "With a transport capacity of up to 2,000 kilograms per trailer, a Linde Material Handling tugger train enables large quantities of goods to be transported quickly and reliably. The tugger trains impress with their excellent driving characteristics, including directional stability and high maneuverability. Thanks to their high level of efficiency in transporting goods, they minimize the volume of traffic, which sustainably reduces energy consumption and consequently saves costs and protects the environment."
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "All in all, this makes tugger trains one of the most economical, safest and most environmentally friendly solutions for the indoor transportation of goods. Tugger trains from Linde MH are individually tailored to customer requirements to make transporting materials over short, medium, and long distances as efficient and flexible as possible."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 4,
+   "repeats": []
+  },
+  {
+   "section": "7",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "A Tugger Train for All Occasions"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "8",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "High-Volume Express"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The LT10 WX tugger train trailers are the ideal solution for high-volume transport operations with standardized load carriers. While conventional tugger trains are limited to six trailers, these models can transport up to eight at a time thanks to the innovative scissor tiller mechanism. By reducing the distance between trailers, the tiller mechanism allows the overall length of the train to be shortened. The trailers can be loaded and unloaded from both sides and can transport both full and half-size standard trolleys for maximum process flexibility. This makes them ideal for standardized supply operations for high-frequency production and assembly lines according to just-in-time and just-in-sequence principles."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Products/Tugger-Trains/LT10-WX/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "9",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Flexible Indoor Train"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The LT06 – LT10 M and LT10 W tugger train trailers are mainly used to transport material to assembly lines in tight spaces. Their compact design means they can be easily integrated into existing buildings and production layouts. What’s more, their modular construction allows them to be easily adapted to customer transport racks, individual applications, and for transporting overhanging loads. While the M-frames offer a cost-effective entry into the world of tugger trains, the W-frames are characterized by their option of loading and unloading from both sides and their outstanding flexibility. In combination with the P60C tractor, the LT06 – LT10 M and LT10 W are the ideal solution for internal transport operations with customer-specific requirements."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Products/Tugger-Trains/LT06-LT10-M-LT10-W/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "10",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "All-rounder"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The LT10 – LT20 C and LT10 – LT16 B/BM trailers offer maximum versatility and flexibility for internal material flows. Indoors or outdoors: In combination with the P80 tow tractor, this tugger train is the perfect solution for larger loads that need to be transported within or between different factory halls. The 2-step swing trailer lifting mechanism integrated in this series allows for reliable lifting and handling, even with individual customer racks."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Products/Tugger-Trains/LT10-LT20/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "11",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Outdoor Train"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "With their robust two-axle construction and large outdoor tires, the LT16 Ch/BMh tugger train trailers are designed for long distances outdoors. Together with the P250 tow tractor, this tugger train can cope with even the most difficult surfaces, making it ideal for outdoor operations. The modular design of the trailers also allows them to be customized for hospital operations, waste logistics, or for transporting oversized loads. They can even be used on public roads if prepared in accordance with the relevant road traffic regulations."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "../../../en/Products/Tugger-Trains/LT16-Ch-BMh/index.html"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 2,
+     "unit": {
+      "headings": 1,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 3
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "12",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Towing Vehicles",
+     "href": "https://www.linde-mh.com/en/Products/Tow-Trucks/"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde MH offers a wide range of powerful towing vehicles for tugger trains, ranging from the compact P40 – P60 C electric tow tractor and the maneuverable P60 – P80 tow tractor with driver’s seat to the large P350 transport truck with 35-ton towing capacity. From narrow aisles in the warehouse to outdoor use on uneven ground: Linde MH has the right tractor for every task."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Find out more",
+     "href": "https://www.linde-mh.com/en/Products/Tow-Trucks/"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "13",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Trolleys",
+     "href": "https://player.vimeo.com/video/866592162"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "The Linde range includes a variety of 1,000 kg load capacity trolleys with different dimensions, equipment, and tires to match the tugger trains. They are suitable for transporting pallets and containers and can be equipped with modular racking superstructures for small load carriers."
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "WATCH VIDEO",
+     "href": "https://player.vimeo.com/video/866592162"
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "14",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Interested in a tugger train consultation? Contact us!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "15",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Tugger Train from Linde MH: Load Capacity Meets Versatility"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Linde Material Handling tugger trains are particularly versatile, as their small turning circle allows them to operate extremely precisely even in the tightest of spaces. At the same time, they offer enormous flexibility when it comes to adapting the trailer modules to different types of transported goods, from pallets and pallet cages to special containers. The load is always on a trolley, which is pushed into the frame for fast goods transport and then lifted. Due to the ease of loading and unloading, tugger trains can transport more goods to workplaces or warehouses in less time than with single transports. The efficient transport of large quantities of goods means that they are profitable from a distance of 160 meters."
+    }
+   ],
+   "imgCount": 1,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "16",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Characteristics"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "17",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Safety",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 1,
+     "text": "Ergonomics",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 2,
+     "text": "Handling",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 3,
+     "text": "Service",
+     "href": "#itemlink"
+    },
+    {
+     "role": "cta",
+     "order": 4,
+     "text": "Connectivity",
+     "href": "#itemlink"
+    },
+    {
+     "role": "heading",
+     "order": 5,
+     "text": "Safety"
+    },
+    {
+     "role": "body",
+     "order": 6,
+     "text": "Linde MH tugger trains are equipped with a variety of functions to ensure safe operation and driver protection. An automatic start interlock prevents the tugger train from accidentally moving with the loading frame lowered. The trailer lowering mechanism is automatically deactivated while driving. In addition, the loading frames have a patented load securing system to reliably secure all transported goods. To avoid accidents, the optional Linde Curve Assist system automatically adjusts the speed of the truck for bends. The optional assistance system also monitors the locking of the frames and indicates this via a traffic light system. Driving is only enabled once the frames have been correctly locked. The safety of the tugger train can be further optimized with equipment options such as safety flags, different types of lighting, and weather protection."
+    },
+    {
+     "role": "heading",
+     "order": 7,
+     "text": "Ergonomics"
+    },
+    {
+     "role": "body",
+     "order": 8,
+     "text": "For maximum ease of use and minimum physical strain, a Linde tugger train is optimized for ergonomic operation. Most loading frames can be loaded and unloaded at ground level. This protects the user’s back, as heavy goods do not have to be lifted, resulting in a reduced risk of injury and downtime. The loading frames are locked intuitively and automatically. The unlocking mechanism is mounted at an ergonomic height and can be conveniently operated with the foot. Some loading frames (e.g., C frame, M frame) have an ergonomic ejection mechanism that pushes the load away from the back of the fork as soon as the operator releases the lock."
+    },
+    {
+     "role": "heading",
+     "order": 9,
+     "text": "Handling"
+    },
+    {
+     "role": "body",
+     "order": 10,
+     "text": "The Linde MH tugger trains enable optimum handling performance both indoors and outdoors. Small turning circles, directional stability, tipping stability, and high lifting speeds guarantee fast and safe transportation in any environment. Trailers for indoor use are single-axle to enable maximum maneuverability and dynamic driving maneuvers. The low weight of the trailers allows the towing vehicle to cover distances at higher speeds. Trailers with a stable two-axle design and four-wheel steering are available for outdoor use (or for transport between halls). The loading frames are raised and lowered automatically for quick and easy load handling: When the driver gets into the towing vehicle, the frames are raised for transport. When they leave the truck, these are lowered again. The trailers are partially equipped with positioning aids, which enable smooth loading and unloading, making the trolleys easy to maneuver. Trailers that can be loaded and unloaded from both sides provide maximum flexibility."
+    },
+    {
+     "role": "heading",
+     "order": 11,
+     "text": "Service"
+    },
+    {
+     "role": "body",
+     "order": 12,
+     "text": "A Linde tugger train is characterized by high availability and low maintenance requirements. Thanks to the synchronized maintenance intervals of the towing vehicle and loading frame, maintenance work can be planned and executed in a time-saving manner. The frame design consists of only a few parts, which significantly reduces service costs. A mechanical locking mechanism ensures ease of service and facilitates maintenance and repair work. In addition, the tiller system of the trains is low-maintenance, which also saves time and costs. A QR code on the type plate makes it easy to call up frame-specific spare parts lists and operating instructions."
+    },
+    {
+     "role": "heading",
+     "order": 13,
+     "text": "Connectivity"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "A modern electrical/electronic system architecture and sophisticated sensors mean that the towing vehicles can be easily connected to warehouse management systems, control systems, fleet management systems, and service applications. This enables fleet managers and service technicians to access and analyze important parameters and performance data at any time."
+    }
+   ],
+   "imgCount": 5,
+   "editableTexts": 11,
+   "repeats": [
+    {
+     "unitSelector": "DIV.content-browser__content",
+     "count": 5,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 2
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "LI.",
+     "count": 4,
+     "unit": {
+      "headings": 0,
+      "ctas": 1,
+      "imgs": 0,
+      "textRuns": 1
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "18",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "An overview of the advantages of a tugger train"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "19",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Adaptable"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Different trailer modules for adapting to specific transport tasks"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Load-bearing capacity"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Transport of large material volumes with up to 2,000 kg per trailer module"
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Versatile"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Optimized for different types of goods, from pallets to pallet cages to special containers"
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Maneuverable"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Can handle narrow aisles with special steering systems or axle configurations"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "20",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Safe"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Prevents accidents and damage due to numerous safety features"
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "Efficient"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Quick and easy loading and unloading with intuitive operation for maximum handling performance"
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Digital"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Seamless integration into digital processes through modern system architecture and sensors"
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "Can be automated"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "Standardized interfaces for combination with automated tow tractors"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 8,
+   "repeats": [
+    {
+     "unitSelector": "DIV.ld-layout-item__wrapper",
+     "count": 4,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "21",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Discover all the tugger trains that Linde MH has to offer.",
+     "href": "https://www.linde-mh.com/en/Products/Productfinder/?productTypes[]=2369&offerType=new"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  },
+  {
+   "section": "22",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "A Tugger Train Made to Measure"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "Specialization makes all the difference. This is why a Linde Material Handling tugger train can be adapted to suit specific requirements. Be it pallet cages, pallets or other load carriers – suitable solutions are available for every type and quantity of goods. There are also many additional features available, including weather protection for the various trailer modules, different tires options, and special lighting options. It is also easy to customize the color of the tugger trains. If customers do not want the classic Linde red, they can opt for a special paint finish."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 2,
+   "repeats": []
+  },
+  {
+   "section": "23",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "1 / 8"
+    }
+   ],
+   "imgCount": 16,
+   "editableTexts": 0,
+   "repeats": [
+    {
+     "unitSelector": "DIV.media-browser__item",
+     "count": 8,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    },
+    {
+     "unitSelector": "DIV.media-browser__item",
+     "count": 8,
+     "unit": {
+      "headings": 0,
+      "ctas": 0,
+      "imgs": 1,
+      "textRuns": 0
+     },
+     "uniform": true
+    }
+   ]
+  },
+  {
+   "section": "24",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "FAQ – Frequently Asked Questions about Tugger Trains"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "25",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "What are tugger trains and where are they used?"
+    },
+    {
+     "role": "body",
+     "order": 1,
+     "text": "A tugger train (also known as a logistics train, trailer train, or load train) is an internal means of transport that is mainly used in intralogistics processes, primarily in manufacturing companies. It is used to regularly cover longer distances within a company and to transport material in bundled form. Tugger trains usually consist of a towing vehicle and one or more trailers, into which trolleys are pushed for transport. They are used to supply materials to the different sections of a production facility."
+    },
+    {
+     "role": "heading",
+     "order": 2,
+     "text": "What types of goods can tugger trains transport?"
+    },
+    {
+     "role": "body",
+     "order": 3,
+     "text": "Tugger trains are often used to transport materials within a production facility. These can be raw materials, semi-finished products, or finished products. These products can be placed on a wide variety of load carriers, such as pallets, pallet cages, or crates, which in turn are placed on a trolley. In some cases, tugger trains are also used to move tools, machines, or other equipment within a facility or to deliver components and parts to production."
+    },
+    {
+     "role": "heading",
+     "order": 4,
+     "text": "Are tugger trains energy efficient?"
+    },
+    {
+     "role": "body",
+     "order": 5,
+     "text": "Tugger trains can be considered energy efficient. As a rule, they are used for ground-level material transport and can optimize and automate the movement of goods within the company. By efficiently planning and controlling the tugger trains, unnecessary routes can be avoided and energy consumption can be reduced."
+    },
+    {
+     "role": "heading",
+     "order": 6,
+     "text": "What type of power unit is used for tugger trains?"
+    },
+    {
+     "role": "body",
+     "order": 7,
+     "text": "There are different types of power units for tugger trains. They can be equipped with an electric drive that offers high energy efficiency and low emissions. In some cases, tugger trains can also be equipped with a diesel engine or a hybrid drive, whereby the hybrid drive combines the advantages of electric and diesel drives. The type of power unit used in a tugger train can depend on various factors, such as the size of the train, the route, and the specific requirements of the given application."
+    },
+    {
+     "role": "heading",
+     "order": 8,
+     "text": "What are the advantages of using tugger trains for my company?"
+    },
+    {
+     "role": "body",
+     "order": 9,
+     "text": "The use of tugger trains can bring a whole range of different benefits to a company. They enable the fast and efficient supply of materials to the various areas of a production facility, which can lead to an increase in productivity. A company can save costs by bundling supply and disposal processes. Depending on your requirements, tugger trains can be adapted to the specific application in question and are therefore flexible to use. They are particularly useful for the just-in-time supply of assembly lines. Here, they help to standardize synchronized processes. They also reduce the volume of transport compared to transporting goods individually and therefore ensure greater safety by reducing traffic."
+    },
+    {
+     "role": "heading",
+     "order": 10,
+     "text": "Whom can I contact if I have problems with my Linde tugger train?"
+    },
+    {
+     "role": "body",
+     "order": 11,
+     "text": "If you have problems with a Linde Material Handling tugger train, you can contact Linde MH customer service. The corresponding can be found on the Linde Material Handling website. Using the form, you can describe your concerns and request support. Alternatively, you can contact the dealer where you bought the tugger train."
+    },
+    {
+     "role": "cta",
+     "order": 12,
+     "text": "contact form",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    },
+    {
+     "role": "heading",
+     "order": 13,
+     "text": "What determines the price of a tugger train?"
+    },
+    {
+     "role": "body",
+     "order": 14,
+     "text": "The price of a tugger train depends on a number of factors, such as the model selected and the equipment required. An important price factor is also the number of trailers. If tugger trains have to be customized for specific operations, this can also affect the final price. In addition, the towing vehicles must be equipped to work with a variety of trailers, for example to allow an electric or hydraulic lifting function."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 14,
+   "repeats": [
+    {
+     "unitSelector": "DIV.accordion-item",
+     "count": 7,
+     "unit": {
+      "headings": 1,
+      "ctas": 0,
+      "imgs": 0,
+      "textRuns": 2
+     },
+     "uniform": false
+    }
+   ]
+  },
+  {
+   "section": "26",
+   "items": [
+    {
+     "role": "heading",
+     "order": 0,
+     "text": "Hire, buy, or lease a tugger train"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "27",
+   "items": [
+    {
+     "role": "body",
+     "order": 0,
+     "text": "If you have found the right tugger train, we have the right financing model for you. Linde MH consultants will provide you with a comprehensive overview of all available options, whether you are looking to buy, hire, or lease. Our experts are always on hand with their specialist knowledge to help you find the best financing solution for your tugger train."
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 1,
+   "repeats": []
+  },
+  {
+   "section": "28",
+   "items": [
+    {
+     "role": "cta",
+     "order": 0,
+     "text": "Want to learn more? Contact us!",
+     "href": "../../../en/Forms/Global-Contact-Form/index.html"
+    }
+   ],
+   "imgCount": 0,
+   "editableTexts": 0,
+   "repeats": []
+  }
+ ]
+}
