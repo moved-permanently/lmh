@@ -1,0 +1,1413 @@
+{
+ "numRows": 98,
+ "results": [
+  {
+   "link_facet_string": [
+    "../Products/E-Trucks/E10/"
+   ],
+   "applications_keyword": [
+    "2434_Narrow Aisle",
+    "2432_Double Deck"
+   ],
+   "language": "en",
+   "projectsToOfferNew": [
+    "21952",
+    "21825",
+    "21889",
+    "21832",
+    "21829",
+    "21957",
+    "21955",
+    "21830",
+    "21828",
+    "21958",
+    "21760",
+    "21892",
+    "21894",
+    "21831",
+    "21895",
+    "4292",
+    "4301",
+    "5056",
+    "5120",
+    "5132",
+    "5134",
+    "5135",
+    "5138",
+    "5146",
+    "5150",
+    "5152",
+    "5258",
+    "3714255",
+    "5263",
+    "5264",
+    "5376",
+    "5505",
+    "5508",
+    "2501",
+    "2512",
+    "2497",
+    "5006",
+    "5009",
+    "5195776",
+    "5195777",
+    "5539",
+    "5037",
+    "5553",
+    "5528",
+    "5144",
+    "5148",
+    "39634",
+    "39619",
+    "39628",
+    "39616",
+    "39630",
+    "39617",
+    "39627",
+    "39621",
+    "39637",
+    "5534",
+    "99904",
+    "5570",
+    "5569",
+    "5552",
+    "2525",
+    "5555",
+    "5561",
+    "5575",
+    "5020",
+    "5021",
+    "4288"
+   ],
+   "title_facet_string": [
+    "E10"
+   ],
+   "liftHeight_filter_max_long": 5400,
+   "language_facet_string": [
+    "en"
+   ],
+   "language_keyword": [
+    "en"
+   ],
+   "applications_facet_string": [
+    "2432_Double Deck",
+    "2434_Narrow Aisle"
+   ],
+   "assigned_products_facet_string": [
+    "e10e10container8917"
+   ],
+   "explosionProof": [
+    "false"
+   ],
+   "id": "1d9ab8d766cdd0ed10220ab79334bf59de37f8f0cdb36339b046d9bfd3b2524e",
+   "identifier_keyword": [
+    "p_e10_8917-01",
+    "p_e10_8917-01"
+   ],
+   "capacity_min_long": 1000,
+   "driveTypeId_keyword": [
+    "3342",
+    "3339"
+   ],
+   "assigned_products_keyword": [
+    "e10e10container8917"
+   ],
+   "liftHeight_label": [
+    "(mm)"
+   ],
+   "productImageName_facet_string": [
+    "https://www.linde-mh.com/media/Global-Content/01-Products/01_E-Trucks_E-Stapler/01_Products_Produkte/e_truck-E10-4557_3958.png"
+   ],
+   "productImageName_keyword": [
+    "https://www.linde-mh.com/media/Global-Content/01-Products/01_E-Trucks_E-Stapler/01_Products_Produkte/e_truck-E10-4557_3958.png"
+   ],
+   "liftHeight_min_long": 5400,
+   "projectsToOfferRental": [
+    "5552",
+    "5561",
+    "99904",
+    "5569",
+    "5553",
+    "21760",
+    "21825",
+    "21828",
+    "21829",
+    "21830",
+    "21831",
+    "21832",
+    "21889",
+    "21892",
+    "21894",
+    "21895",
+    "21952",
+    "21955",
+    "21957",
+    "21958",
+    "5009",
+    "5195776",
+    "5195777",
+    "5570",
+    "2497",
+    "2501",
+    "2512",
+    "4292",
+    "4301",
+    "5056",
+    "5120",
+    "5132",
+    "5134",
+    "5135",
+    "5138",
+    "5146",
+    "5150",
+    "5152",
+    "5258",
+    "5263",
+    "5264",
+    "5376",
+    "5505",
+    "5508",
+    "3714255",
+    "5037",
+    "5020",
+    "5006",
+    "2525",
+    "5021",
+    "5148",
+    "39616",
+    "39617",
+    "39619",
+    "39621",
+    "39627",
+    "39628",
+    "39630",
+    "39634",
+    "39637",
+    "5528",
+    "4288",
+    "5539"
+   ],
+   "productType_facet_string": [
+    "Electric Forklifts"
+   ],
+   "dimensions_length_max": [
+    "2604"
+   ],
+   "dimensions_width": [
+    "828 (mm)"
+   ],
+   "detailPageUrl_facet_string": [
+    "../Products/E-Trucks/E10/"
+   ],
+   "capacity_facet_string": [
+    " 1.000 kg"
+   ],
+   "driveTypeSort_facet_string": [
+    "BatteryLi-Ion"
+   ],
+   "liftHeight_keyword": [
+    " 5.400 mm"
+   ],
+   "driveTypeId_facet_string": [
+    "3339",
+    "3342"
+   ],
+   "languageCountry_facet_string": [
+    "gb"
+   ],
+   "productTypeLabel": [
+    "Electric Forklifts"
+   ],
+   "languageCountry_keyword": [
+    "gb"
+   ],
+   "productName_facet_string": [
+    "E10"
+   ],
+   "productGroupId_long": 3317508,
+   "capacity_keyword": [
+    " 1.000 kg"
+   ],
+   "dimensions_length_min": [
+    "2604"
+   ],
+   "type_keyword_lc": [
+    "productgroup"
+   ],
+   "detailPageUrl_keyword": [
+    "../Products/E-Trucks/E10/"
+   ],
+   "assigned_products": [
+    "e10e10container8917"
+   ],
+   "projectId_facet_string": [
+    "218727"
+   ],
+   "serviceWeight_max": [
+    "2238"
+   ],
+   "liftHeight_filter_min_long": 0,
+   "docId": [
+    "218727_3317508_EN"
+   ],
+   "productTypeId_keyword": [
+    "2377"
+   ],
+   "link_keyword": [
+    "../Products/E-Trucks/E10/"
+   ],
+   "link": "cae27db3-0475-4ad2-8f89-32a44bb9f366",
+   "projectId_keyword": [
+    "218727",
+    "218727"
+   ],
+   "model_facet_string": [
+    "e10electricforklifts"
+   ],
+   "title": "218727_226351_3317508_EN",
+   "driveType_keyword": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "capacity_max_long": 1000,
+   "customOrderWeight_long": 1017,
+   "model_keyword": [
+    "e10electricforklifts"
+   ],
+   "serviceWeight_min": [
+    "2198"
+   ],
+   "pageType": [
+    "new_product"
+   ],
+   "dimensions_width_label": [
+    "(mm)"
+   ],
+   "liftHeight_max_long": 5400,
+   "feature_facet_string": [
+    " Lateral battery change",
+    "Armored glass panoramic roof",
+    "Dual-command control",
+    "Fork arm positioner",
+    "Linde BlueSpot™",
+    "Linde Fleet Management",
+    "Linde TruckSpot™",
+    "Storage compartment"
+   ],
+   "driveType_facet_string": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "serviceWeight": [
+    "2198 - 2238 kg"
+   ],
+   "productTypeId_facet_string": [
+    "2377"
+   ],
+   "title_keyword": [
+    "E10"
+   ],
+   "dimensions_width_min": [
+    "828"
+   ],
+   "capacity_filter_min_long": 100,
+   "productName_keyword": [
+    "E10"
+   ],
+   "productType_keyword": [
+    "Electric Forklifts"
+   ],
+   "pageType_facet_string": [
+    "new_product"
+   ],
+   "liftHeight_facet_string": [
+    " 5.400 mm"
+   ],
+   "productTypeId": [
+    "2377"
+   ],
+   "feature_keyword": [
+    "Fork arm positioner",
+    "Armored glass panoramic roof",
+    "Dual-command control",
+    "Linde BlueSpot™",
+    "Linde TruckSpot™",
+    " Lateral battery change",
+    "Linde Fleet Management",
+    "Storage compartment"
+   ],
+   "driveTypeId": [
+    "3342",
+    "3339"
+   ],
+   "dimensions_length": [
+    "2604 (mm)"
+   ],
+   "driveTypeSort_keyword": [
+    "BatteryLi-Ion"
+   ],
+   "identifier_facet_string": [
+    "p_e10_8917-01"
+   ],
+   "capacity_label": [
+    "(kg)"
+   ],
+   "languageCountry": [
+    "gb"
+   ],
+   "dimensions_length_label": [
+    "(mm)"
+   ],
+   "pageType_keyword": [
+    "new_product"
+   ],
+   "productType_sort": "Electric Forklifts",
+   "serviceWeight_label": [
+    "kg"
+   ],
+   "capacity_filter_max_long": 1000,
+   "dimensions_width_max": [
+    "828"
+   ]
+  },
+  {
+   "link_facet_string": [
+    "../Products/E-Trucks/Xi10-Xi20/"
+   ],
+   "applications_keyword": [
+    "2438_Moving",
+    "2437_Loading / Unloading Dock",
+    "2436_Loading / Unloading over the side",
+    "2439_Storage and Retrieval"
+   ],
+   "language": "en",
+   "projectsToOfferNew": [
+    "5552",
+    "5144",
+    "99904",
+    "5569",
+    "5534",
+    "5553",
+    "21760",
+    "21825",
+    "21828",
+    "21829",
+    "21830",
+    "21831",
+    "21832",
+    "21889",
+    "21892",
+    "21894",
+    "21895",
+    "21952",
+    "21955",
+    "21957",
+    "21958",
+    "5009",
+    "5195776",
+    "5195777",
+    "5570",
+    "2497",
+    "2501",
+    "2512",
+    "4292",
+    "4301",
+    "5056",
+    "5120",
+    "5132",
+    "5134",
+    "5135",
+    "5138",
+    "5146",
+    "5150",
+    "5152",
+    "5258",
+    "5263",
+    "5264",
+    "5376",
+    "5505",
+    "5508",
+    "3714255",
+    "5555",
+    "5575",
+    "5037",
+    "5020",
+    "5006",
+    "2525",
+    "5021",
+    "5148",
+    "39616",
+    "39617",
+    "39619",
+    "39621",
+    "39627",
+    "39628",
+    "39630",
+    "39634",
+    "39637",
+    "5528",
+    "4288",
+    "5539"
+   ],
+   "title_facet_string": [
+    "Xi10 – Xi20"
+   ],
+   "liftHeight_filter_max_long": 8000,
+   "language_facet_string": [
+    "en"
+   ],
+   "language_keyword": [
+    "en"
+   ],
+   "applications_facet_string": [
+    "2436_Loading / Unloading over the side",
+    "2437_Loading / Unloading Dock",
+    "2438_Moving",
+    "2439_Storage and Retrieval"
+   ],
+   "assigned_products_facet_string": [
+    "xi10xi20containerxi14containerxi20xi12xi16xi14xi16containerxi18containerxi181251xi10xi12xi14xi16xi18xi20"
+   ],
+   "explosionProof": [
+    "false"
+   ],
+   "id": "c4773a61ed27e23d106a7872544ef680daad694df934ca6be754ca3d7e48abaf",
+   "identifier_keyword": [
+    "p_xi12-20_3w_br1251-01",
+    "p_xi12-20_3w_br1251-01"
+   ],
+   "capacity_min_long": 2000,
+   "driveTypeId_keyword": [
+    "3339"
+   ],
+   "assigned_products_keyword": [
+    "xi10xi20containerxi14containerxi20xi12xi16xi14xi16containerxi18containerxi181251xi10xi12xi14xi16xi18xi20"
+   ],
+   "liftHeight_label": [
+    "(mm)"
+   ],
+   "productImageName_facet_string": [
+    "https://www.linde-mh.com/media/3D_Product/turntables/01_E-Trucks/BR1251_Xi16/BR1251-01_Xi16-Basic_00007_LINDE.png"
+   ],
+   "productImageName_keyword": [
+    "https://www.linde-mh.com/media/3D_Product/turntables/01_E-Trucks/BR1251_Xi16/BR1251-01_Xi16-Basic_00007_LINDE.png"
+   ],
+   "liftHeight_min_long": 8000,
+   "projectsToOfferRental": [
+    "5552",
+    "5144",
+    "99904",
+    "5569",
+    "5553",
+    "21760",
+    "21825",
+    "21828",
+    "21829",
+    "21830",
+    "21831",
+    "21832",
+    "21889",
+    "21892",
+    "21894",
+    "21895",
+    "21952",
+    "21955",
+    "21957",
+    "21958",
+    "5009",
+    "5195776",
+    "5195777",
+    "5570",
+    "2497",
+    "2501",
+    "2512",
+    "4292",
+    "4301",
+    "5056",
+    "5120",
+    "5132",
+    "5134",
+    "5135",
+    "5138",
+    "5146",
+    "5150",
+    "5152",
+    "5258",
+    "5263",
+    "5264",
+    "5376",
+    "5505",
+    "5508",
+    "3714255",
+    "5555",
+    "5037",
+    "5020",
+    "5006",
+    "2525",
+    "5021",
+    "5148",
+    "39616",
+    "39617",
+    "39619",
+    "39621",
+    "39627",
+    "39628",
+    "39630",
+    "39634",
+    "39637",
+    "5528",
+    "4288",
+    "5539",
+    "5534"
+   ],
+   "productType_facet_string": [
+    "Electric Forklifts"
+   ],
+   "dimensions_length_max": [
+    "2919"
+   ],
+   "dimensions_width": [
+    "1086 - 1173 (mm)"
+   ],
+   "detailPageUrl_facet_string": [
+    "../Products/E-Trucks/Xi10-Xi20/"
+   ],
+   "capacity_facet_string": [
+    " 2.000 kg"
+   ],
+   "driveTypeSort_facet_string": [
+    "BatteryLi-Ion"
+   ],
+   "liftHeight_keyword": [
+    " 8.000 mm"
+   ],
+   "driveTypeId_facet_string": [
+    "3339"
+   ],
+   "languageCountry_facet_string": [
+    "gb"
+   ],
+   "productTypeLabel": [
+    "Electric Forklifts"
+   ],
+   "languageCountry_keyword": [
+    "gb"
+   ],
+   "productName_facet_string": [
+    "Xi10 – Xi20"
+   ],
+   "productGroupId_long": 5281472,
+   "capacity_keyword": [
+    " 2.000 kg"
+   ],
+   "dimensions_length_min": [
+    "2620"
+   ],
+   "type_keyword_lc": [
+    "productgroup"
+   ],
+   "detailPageUrl_keyword": [
+    "../Products/E-Trucks/Xi10-Xi20/"
+   ],
+   "assigned_products": [
+    "xi10xi20containerxi14containerxi20xi12xi16xi14xi16containerxi18containerxi181251xi10xi12xi14xi16xi18xi20"
+   ],
+   "projectId_facet_string": [
+    "218727"
+   ],
+   "serviceWeight_max": [
+    "3370"
+   ],
+   "liftHeight_filter_min_long": 0,
+   "docId": [
+    "218727_5281472_EN"
+   ],
+   "productTypeId_keyword": [
+    "2377"
+   ],
+   "link_keyword": [
+    "../Products/E-Trucks/Xi10-Xi20/"
+   ],
+   "link": "cd9dbe73-eb2f-47e2-ae1d-a8ecbad38a16",
+   "projectId_keyword": [
+    "218727",
+    "218727"
+   ],
+   "model_facet_string": [
+    "xi10xi20electricforklifts"
+   ],
+   "title": "218727_226351_5281472_EN",
+   "driveType_keyword": [
+    "Li-Ion"
+   ],
+   "capacity_max_long": 2000,
+   "customOrderWeight_long": 1016,
+   "model_keyword": [
+    "xi10xi20electricforklifts"
+   ],
+   "serviceWeight_min": [
+    "2468"
+   ],
+   "pageType": [
+    "new_product"
+   ],
+   "dimensions_width_label": [
+    "(mm)"
+   ],
+   "liftHeight_max_long": 8000,
+   "feature_facet_string": [
+    "Air-Conditioning with Integrated Heating",
+    "Full Cabin",
+    "Linde Fleet Management",
+    "Linde Reverse Assist Radar",
+    "Linde Safety Pilot ",
+    "Linde Speed Assist ",
+    "Linde Steer Control",
+    "Load Weight Indicator ",
+    "Multifunction display ",
+    "Seat Variants "
+   ],
+   "driveType_facet_string": [
+    "Li-Ion"
+   ],
+   "serviceWeight": [
+    "2468 - 3370 kg"
+   ],
+   "productTypeId_facet_string": [
+    "2377"
+   ],
+   "title_keyword": [
+    "Xi10 – Xi20"
+   ],
+   "dimensions_width_min": [
+    "1086"
+   ],
+   "capacity_filter_min_long": 100,
+   "productName_keyword": [
+    "Xi10 – Xi20"
+   ],
+   "productType_keyword": [
+    "Electric Forklifts"
+   ],
+   "pageType_facet_string": [
+    "new_product"
+   ],
+   "liftHeight_facet_string": [
+    " 8.000 mm"
+   ],
+   "productTypeId": [
+    "2377"
+   ],
+   "feature_keyword": [
+    "Full Cabin",
+    "Air-Conditioning with Integrated Heating",
+    "Seat Variants ",
+    "Load Weight Indicator ",
+    "Multifunction display ",
+    "Linde Steer Control",
+    "Linde Safety Pilot ",
+    "Linde Speed Assist ",
+    "Linde Reverse Assist Radar",
+    "Linde Fleet Management"
+   ],
+   "driveTypeId": [
+    "3339"
+   ],
+   "dimensions_length": [
+    "2620 - 2919 (mm)"
+   ],
+   "driveTypeSort_keyword": [
+    "BatteryLi-Ion"
+   ],
+   "identifier_facet_string": [
+    "p_xi12-20_3w_br1251-01"
+   ],
+   "capacity_label": [
+    "(kg)"
+   ],
+   "languageCountry": [
+    "gb"
+   ],
+   "dimensions_length_label": [
+    "(mm)"
+   ],
+   "pageType_keyword": [
+    "new_product"
+   ],
+   "productType_sort": "Electric Forklifts",
+   "serviceWeight_label": [
+    "kg"
+   ],
+   "capacity_filter_max_long": 2000,
+   "dimensions_width_max": [
+    "1173"
+   ]
+  },
+  {
+   "link_facet_string": [
+    "../Products/Order-Pickers/N20-N25/"
+   ],
+   "applications_keyword": [
+    "2435_Order Picking"
+   ],
+   "language": "en",
+   "projectsToOfferNew": [
+    "4288",
+    "5539",
+    "5552",
+    "5148",
+    "5528",
+    "5144",
+    "99904",
+    "5569",
+    "5020",
+    "5534",
+    "5553",
+    "5009",
+    "5006",
+    "5570",
+    "5150",
+    "5056",
+    "3714255",
+    "5505",
+    "5120",
+    "5146",
+    "5132",
+    "5134",
+    "5138",
+    "5264",
+    "5263",
+    "2501",
+    "5135",
+    "2512",
+    "2497",
+    "5555",
+    "2525",
+    "5021",
+    "5575",
+    "5037"
+   ],
+   "title_facet_string": [
+    "N20 – N25"
+   ],
+   "liftHeight_filter_max_long": 200,
+   "language_facet_string": [
+    "en"
+   ],
+   "liftHeight_customIcon_keyword": [
+    "LMHIconspickingheightblack"
+   ],
+   "language_keyword": [
+    "en"
+   ],
+   "applications_facet_string": [
+    "2435_Order Picking"
+   ],
+   "assigned_products_facet_string": [
+    "n20n254600n20n25"
+   ],
+   "explosionProof": [
+    "false"
+   ],
+   "id": "9357e9740a35fc01aa739df0877bb83942f1326be707da17b5f398f4aa24fb56",
+   "identifier_keyword": [
+    "p_n20-25_br4600-00",
+    "p_n20-25_br4600-00"
+   ],
+   "capacity_min_long": 2500,
+   "driveTypeId_keyword": [
+    "3342",
+    "3339"
+   ],
+   "assigned_products_keyword": [
+    "n20n254600n20n25"
+   ],
+   "liftHeight_label": [
+    "(mm)"
+   ],
+   "productImageName_facet_string": [
+    "https://www.linde-mh.com/media/3D_Product/turntables/07_Order-Pickers/BR4600_N20/BR4600_N20_00017_LINDE.png"
+   ],
+   "productImageName_keyword": [
+    "https://www.linde-mh.com/media/3D_Product/turntables/07_Order-Pickers/BR4600_N20/BR4600_N20_00017_LINDE.png"
+   ],
+   "liftHeight_min_long": 215,
+   "projectsToOfferRental": [
+    "4288",
+    "5539",
+    "5552",
+    "5148",
+    "5528",
+    "5144",
+    "99904",
+    "5569",
+    "5020",
+    "5553",
+    "5009",
+    "5006",
+    "5570",
+    "5150",
+    "5056",
+    "3714255",
+    "5505",
+    "5120",
+    "5146",
+    "5132",
+    "5134",
+    "5138",
+    "5264",
+    "5263",
+    "2501",
+    "5135",
+    "2512",
+    "2497",
+    "5555",
+    "2525",
+    "5021",
+    "5037"
+   ],
+   "liftHeight_customIcon_facet_string": [
+    "LMHIconspickingheightblack"
+   ],
+   "productType_facet_string": [
+    "Order Pickers"
+   ],
+   "dimensions_length_max": [
+    "3633"
+   ],
+   "dimensions_width": [
+    "800 (mm)"
+   ],
+   "detailPageUrl_facet_string": [
+    "../Products/Order-Pickers/N20-N25/"
+   ],
+   "capacity_facet_string": [
+    " 2.500 kg"
+   ],
+   "driveTypeSort_facet_string": [
+    "BatteryLi-Ion"
+   ],
+   "liftHeight_keyword": [
+    " 215 mm"
+   ],
+   "driveTypeId_facet_string": [
+    "3339",
+    "3342"
+   ],
+   "languageCountry_facet_string": [
+    "gb"
+   ],
+   "productTypeLabel": [
+    "Order Pickers"
+   ],
+   "languageCountry_keyword": [
+    "gb"
+   ],
+   "productName_facet_string": [
+    "N20 – N25"
+   ],
+   "productGroupId_long": 5353152,
+   "capacity_keyword": [
+    " 2.500 kg"
+   ],
+   "dimensions_length_min": [
+    "2433"
+   ],
+   "type_keyword_lc": [
+    "productgroup"
+   ],
+   "detailPageUrl_keyword": [
+    "../Products/Order-Pickers/N20-N25/"
+   ],
+   "assigned_products": [
+    "n20n254600n20n25"
+   ],
+   "projectId_facet_string": [
+    "218727"
+   ],
+   "serviceWeight_max": [
+    "964"
+   ],
+   "liftHeight_filter_min_long": 0,
+   "docId": [
+    "218727_5353152_EN"
+   ],
+   "productTypeId_keyword": [
+    "2371"
+   ],
+   "link_keyword": [
+    "../Products/Order-Pickers/N20-N25/"
+   ],
+   "pickingHeight_keyword": [
+    " 2.800 mm"
+   ],
+   "link": "e1c9a312-54ce-4f8d-a697-bd602d083acf",
+   "projectId_keyword": [
+    "218727",
+    "218727"
+   ],
+   "model_facet_string": [
+    "n20n25orderpickers"
+   ],
+   "title": "218727_226351_5353152_EN",
+   "driveType_keyword": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "capacity_max_long": 2500,
+   "customOrderWeight_long": 215,
+   "model_keyword": [
+    "n20n25orderpickers"
+   ],
+   "serviceWeight_min": [
+    "872"
+   ],
+   "pageType": [
+    "new_product"
+   ],
+   "dimensions_width_label": [
+    "(mm)"
+   ],
+   "liftHeight_max_long": 215,
+   "feature_facet_string": [
+    "Accessory Support",
+    "Adjustable backrest with foldable driver’s seat",
+    "Height-adjustable Linde Steering Wheel ",
+    "Liftable operator&#039;s platform",
+    "Linde BlueSpot",
+    "Linde Safety Guard with speed adjustment",
+    "Pedestrian controls",
+    "Pneumatically dampened driver’s platform"
+   ],
+   "driveType_facet_string": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "serviceWeight": [
+    "872 - 964 kg"
+   ],
+   "productTypeId_facet_string": [
+    "2371"
+   ],
+   "title_keyword": [
+    "N20 – N25"
+   ],
+   "dimensions_width_min": [
+    "800"
+   ],
+   "capacity_filter_min_long": 100,
+   "productName_keyword": [
+    "N20 – N25"
+   ],
+   "productType_keyword": [
+    "Order Pickers"
+   ],
+   "pageType_facet_string": [
+    "new_product"
+   ],
+   "liftHeight_facet_string": [
+    " 215 mm"
+   ],
+   "productTypeId": [
+    "2371"
+   ],
+   "feature_keyword": [
+    "Liftable operator&#039;s platform",
+    "Accessory Support",
+    "Pedestrian controls",
+    "Adjustable backrest with foldable driver’s seat",
+    "Linde BlueSpot",
+    "Pneumatically dampened driver’s platform",
+    "Height-adjustable Linde Steering Wheel ",
+    "Linde Safety Guard with speed adjustment"
+   ],
+   "driveTypeId": [
+    "3342",
+    "3339"
+   ],
+   "dimensions_length": [
+    "2433 - 3633 (mm)"
+   ],
+   "driveTypeSort_keyword": [
+    "BatteryLi-Ion"
+   ],
+   "identifier_facet_string": [
+    "p_n20-25_br4600-00"
+   ],
+   "pickingHeight_facet_string": [
+    " 2.800 mm"
+   ],
+   "capacity_label": [
+    "(kg)"
+   ],
+   "languageCountry": [
+    "gb"
+   ],
+   "dimensions_length_label": [
+    "(mm)"
+   ],
+   "pageType_keyword": [
+    "new_product"
+   ],
+   "productType_sort": "Order Pickers",
+   "serviceWeight_label": [
+    "kg"
+   ],
+   "capacity_filter_max_long": 2500,
+   "dimensions_width_max": [
+    "800"
+   ]
+  },
+  {
+   "link_facet_string": [
+    "../Products/Pallet-Trucks/M10-X-XE/"
+   ],
+   "applications_keyword": [
+    "2438_Moving",
+    "2437_Loading / Unloading Dock",
+    "2435_Order Picking"
+   ],
+   "language": "en",
+   "projectsToOfferNew": [
+    "5552",
+    "5561",
+    "5144",
+    "99904",
+    "5569",
+    "5534",
+    "5553",
+    "21760",
+    "21825",
+    "21828",
+    "21829",
+    "21830",
+    "21831",
+    "21832",
+    "21889",
+    "21892",
+    "21894",
+    "21895",
+    "21952",
+    "21955",
+    "21957",
+    "21958",
+    "5009",
+    "5195776",
+    "5195777",
+    "2497",
+    "2501",
+    "2512",
+    "4292",
+    "4301",
+    "5056",
+    "5120",
+    "5132",
+    "5134",
+    "5135",
+    "5138",
+    "5146",
+    "5150",
+    "5152",
+    "5258",
+    "5263",
+    "5264",
+    "5376",
+    "5505",
+    "5508",
+    "3714255",
+    "5555",
+    "5575",
+    "5020",
+    "5006",
+    "2525",
+    "5021",
+    "5148",
+    "39616",
+    "39617",
+    "39619",
+    "39621",
+    "39627",
+    "39628",
+    "39630",
+    "39634",
+    "39637",
+    "5528",
+    "4288",
+    "5539"
+   ],
+   "title_facet_string": [
+    "M10 X/XE"
+   ],
+   "liftHeight_filter_max_long": 700,
+   "language_facet_string": [
+    "en"
+   ],
+   "language_keyword": [
+    "en"
+   ],
+   "applications_facet_string": [
+    "2435_Order Picking",
+    "2437_Loading / Unloading Dock",
+    "2438_Moving"
+   ],
+   "assigned_products_facet_string": [
+    "m10xm10xe033"
+   ],
+   "explosionProof": [
+    "false"
+   ],
+   "id": "e717aeb1817b6abd7bcce2d97c0b44109b6b55d303f9c2ee952dac4c2f9a3efa",
+   "identifier_keyword": [
+    "p_m10x_10xe",
+    "p_m10x_10xe"
+   ],
+   "capacity_min_long": 1000,
+   "driveTypeId_keyword": [
+    "3340"
+   ],
+   "assigned_products_keyword": [
+    "m10xm10xe033"
+   ],
+   "liftHeight_label": [
+    "(mm)"
+   ],
+   "productImageName_facet_string": [
+    "https://www.linde-mh.com/media/3D_Product/Teaser/BR033_M10XE_teaser.png"
+   ],
+   "productImageName_keyword": [
+    "https://www.linde-mh.com/media/3D_Product/Teaser/BR033_M10XE_teaser.png"
+   ],
+   "liftHeight_min_long": 500,
+   "projectsToOfferRental": [
+    "5552",
+    "5561",
+    "5144",
+    "99904",
+    "5569",
+    "5553",
+    "21760",
+    "21825",
+    "21828",
+    "21829",
+    "21830",
+    "21831",
+    "21832",
+    "21889",
+    "21892",
+    "21894",
+    "21895",
+    "21952",
+    "21955",
+    "21957",
+    "21958",
+    "5009",
+    "5195776",
+    "5195777",
+    "2497",
+    "2501",
+    "2512",
+    "4292",
+    "4301",
+    "5056",
+    "5120",
+    "5132",
+    "5134",
+    "5135",
+    "5138",
+    "5146",
+    "5150",
+    "5152",
+    "5258",
+    "5263",
+    "5264",
+    "5376",
+    "5505",
+    "5508",
+    "3714255",
+    "5555",
+    "5006",
+    "2525",
+    "5021",
+    "5148",
+    "39616",
+    "39617",
+    "39619",
+    "39621",
+    "39627",
+    "39628",
+    "39630",
+    "39634",
+    "39637",
+    "5528",
+    "4288",
+    "5539"
+   ],
+   "productType_facet_string": [
+    "Pallet Trucks"
+   ],
+   "dimensions_length_max": [
+    "1690"
+   ],
+   "dimensions_width": [
+    "540 (mm)"
+   ],
+   "detailPageUrl_facet_string": [
+    "../Products/Pallet-Trucks/M10-X-XE/"
+   ],
+   "capacity_facet_string": [
+    " 1.000 kg"
+   ],
+   "driveTypeSort_facet_string": [
+    "Pedestrian"
+   ],
+   "liftHeight_keyword": [
+    " 715 mm"
+   ],
+   "driveTypeId_facet_string": [
+    "3340"
+   ],
+   "languageCountry_facet_string": [
+    "gb"
+   ],
+   "productTypeLabel": [
+    "Pallet Trucks"
+   ],
+   "languageCountry_keyword": [
+    "gb"
+   ],
+   "productName_facet_string": [
+    "M10 X/XE"
+   ],
+   "productGroupId_long": 4471,
+   "capacity_keyword": [
+    " 1.000 kg"
+   ],
+   "dimensions_length_min": [
+    "1526"
+   ],
+   "type_keyword_lc": [
+    "productgroup"
+   ],
+   "detailPageUrl_keyword": [
+    "../Products/Pallet-Trucks/M10-X-XE/"
+   ],
+   "assigned_products": [
+    "m10xm10xe033"
+   ],
+   "projectId_facet_string": [
+    "218727"
+   ],
+   "serviceWeight_max": [
+    "141"
+   ],
+   "liftHeight_filter_min_long": 0,
+   "docId": [
+    "218727_4471_EN"
+   ],
+   "productTypeId_keyword": [
+    "2375"
+   ],
+   "link_keyword": [
+    "../Products/Pallet-Trucks/M10-X-XE/"
+   ],
+   "link": "503f51ff-645b-4c12-8e6b-b485bbd59dfa",
+   "projectId_keyword": [
+    "218727",
+    "218727"
+   ],
+   "model_facet_string": [
+    "m10xxepallettrucks"
+   ],
+   "title": "218727_226351_4471_EN",
+   "driveType_keyword": [
+    "Pedestrian"
+   ],
+   "capacity_max_long": 1000,
+   "customOrderWeight_long": 715,
+   "model_keyword": [
+    "m10xxepallettrucks"
+   ],
+   "serviceWeight_min": [
+    "104"
+   ],
+   "pageType": [
+    "new_product"
+   ],
+   "dimensions_width_label": [
+    "(mm)"
+   ],
+   "liftHeight_max_long": 715,
+   "feature_facet_string": [
+    "Fork variations",
+    "Wheels and rollers"
+   ],
+   "driveType_facet_string": [
+    "Pedestrian"
+   ],
+   "serviceWeight": [
+    "104 - 141 kg"
+   ],
+   "productTypeId_facet_string": [
+    "2375"
+   ],
+   "title_keyword": [
+    "M10 X/XE"
+   ],
+   "dimensions_width_min": [
+    "540"
+   ],
+   "capacity_filter_min_long": 100,
+   "productName_keyword": [
+    "M10 X/XE"
+   ],
+   "productType_keyword": [
+    "Pallet Trucks"
+   ],
+   "pageType_facet_string": [
+    "new_product"
+   ],
+   "liftHeight_facet_string": [
+    " 715 mm"
+   ],
+   "productTypeId": [
+    "2375"
+   ],
+   "feature_keyword": [
+    "Fork variations",
+    "Wheels and rollers"
+   ],
+   "driveTypeId": [
+    "3340"
+   ],
+   "dimensions_length": [
+    "1526 - 1690 (mm)"
+   ],
+   "driveTypeSort_keyword": [
+    "Pedestrian"
+   ],
+   "identifier_facet_string": [
+    "p_m10x_10xe"
+   ],
+   "capacity_label": [
+    "(kg)"
+   ],
+   "languageCountry": [
+    "gb"
+   ],
+   "dimensions_length_label": [
+    "(mm)"
+   ],
+   "pageType_keyword": [
+    "new_product"
+   ],
+   "productType_sort": "Pallet Trucks",
+   "serviceWeight_label": [
+    "kg"
+   ],
+   "capacity_filter_max_long": 1000,
+   "dimensions_width_max": [
+    "540"
+   ]
+  }
+ ]
+}

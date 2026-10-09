@@ -1,0 +1,2540 @@
+{
+  "applications": "Areas of application: production, transport & distribution, trade & warehouse",
+  "availableForPickup": false,
+  "baseOptions": [],
+  "categories": [
+    {
+      "code": "classificationCategory",
+      "description": "Classification Category",
+      "displayName": "Classification Category",
+      "isVariant": false,
+      "localizedLabel": "Classification Category",
+      "name": "Classification Category",
+      "pageTitle": "Classification Category",
+      "sortOrder": 0,
+      "url": "/"
+    },
+    {
+      "code": "all_products",
+      "description": "Browse all available Linde Shop items in one place!",
+      "displayName": "All New Products",
+      "isVariant": false,
+      "localizedLabel": "c/all-products",
+      "metaDescription": "With our Linde Trucks, you can ✓find the solution for every requirement, ✓meet your needs, ✓optimise you material handling applications",
+      "name": "All New Products",
+      "pageTitle": "Buy Linde trucks online | Linde Material Handling Webshop UK",
+      "sortOrder": 1,
+      "url": "/c/all-products"
+    },
+    {
+      "code": "hand_pallet_trucks",
+      "description": "Manually operated hand pallet trucks and weighing pallet trucks make moving and mobile weighing of heavy loads much easier. Our pallet trucks are particularly manoeuvrable and precise. Thanks to their\nrobust design, they are both powerful and low-wear.",
+      "displayName": "Manual Pallet Trucks",
+      "isVariant": false,
+      "localizedLabel": "c/manual-pallet-trucks",
+      "metaDescription": "Here you will find manual pallet trucks",
+      "name": "Manual Pallet Trucks",
+      "pageTitle": "Buy Manual Pallet Trucks | Linde Material Handling Webshop",
+      "sortOrder": 3,
+      "url": "/c/manual-pallet-trucks"
+    },
+    {
+      "code": "Fork_Size",
+      "description": "Fork Size",
+      "displayName": "Fork Size",
+      "isVariant": true,
+      "localizedLabel": "Fork Size",
+      "name": "Fork Size",
+      "pageTitle": "Fork Size",
+      "sortOrder": 11,
+      "url": "/"
+    },
+    {
+      "code": "load_wheels",
+      "description": "Load Wheels",
+      "displayName": "Load Wheels",
+      "isVariant": true,
+      "localizedLabel": "Load Wheels",
+      "name": "Load Wheels",
+      "pageTitle": "Load Wheels",
+      "sortOrder": 16,
+      "url": "/"
+    },
+    {
+      "code": "steer_wheel",
+      "description": "Steer Wheels",
+      "displayName": "Steer Wheels",
+      "isVariant": true,
+      "localizedLabel": "Steer Wheels",
+      "name": "Steer Wheels",
+      "pageTitle": "Steer Wheels",
+      "sortOrder": 31,
+      "url": "/"
+    }
+  ],
+  "code": "LN-M20",
+  "configurable": false,
+  "dataSheets": [],
+  "defaultRentableDays": "0",
+  "deliveryTime": 0,
+  "deliveryTimeInDays": 0,
+  "description": "Introduction- The versatile Linde Hand Pallet Truck range is designed for ecomonical and efficient palletised load handling in a wide variety of applications such as lorry loading/unloading and internal load transfer. Its rugged construction and simple controls provide a durable, easy to use manual handling solution and can be found in virtually every type of industry working in conjunction with powered mobile equipment.   \n\nPerformance- Up to 100 degrees tiller arm sweep to either side and lead in rollers, the Linde Hand Pallet Truck makes light work of palletised load handling. The tiller arm is sprung loaded to the vertical position. The hydraulic pump unit is protected and sealed from the enviroment for consistant reliability. Load and steer wheel tyre options ensure the truck can be matched to individual applications.\n\nEasy of Use- The low pivoting tiller arm is designed to place the operator at a comfortable and safe distance from the truck when walking or maneuvring and has a simple lever control. The operators hands are protected by a robust hand guard.\n\nDurability And Safety- The torsion resistant contruction of the chassis and durable powder coat finish ensure that these trucks provide a safe reliable performance, day in, day out.   \n\nApplications Large And Small- Whether the application is large or small, the ubiquitous hand pallet truck is an ever present link in the supply chain, carrying out a host of tasks too numerous to list and plays its part in enhancing the efficient movement of goods.",
+  "hasVariants": true,
+  "images": [
+    {
+      "altText": "linde_m20_1.jpg",
+      "format": "universal",
+      "imageType": "GALLERY",
+      "title": "Linde M20 Hand Pallet Truck (2000Kg)",
+      "url": "/images/LMH-GB-NTS/products/images/linde_m20_1.jpg"
+    },
+    {
+      "altText": "linde_m20_2.jpg",
+      "format": "universal",
+      "imageType": "GALLERY",
+      "title": "Linde M20 Hand Pallet Truck (2000Kg)",
+      "url": "/images/LMH-GB-NTS/products/images/linde_m20_2.jpg"
+    },
+    {
+      "altText": "linde_m20_5.jpg",
+      "format": "universal",
+      "imageType": "GALLERY",
+      "title": "Linde M20 Hand Pallet Truck (2000Kg)",
+      "url": "/images/LMH-GB-NTS/products/images/linde_m20_5.jpg"
+    },
+    {
+      "altText": "linde_m20_6.jpg",
+      "format": "universal",
+      "imageType": "GALLERY",
+      "title": "Linde M20 Hand Pallet Truck (2000Kg)",
+      "url": "/images/LMH-GB-NTS/products/images/linde_m20_6.jpg"
+    },
+    {
+      "altText": "linde_m20_9.jpg",
+      "format": "universal",
+      "imageType": "GALLERY",
+      "title": "Linde M20 Hand Pallet Truck (2000Kg)",
+      "url": "/images/LMH-GB-NTS/products/images/linde_m20_9.jpg"
+    }
+  ],
+  "isOrderable": false,
+  "isRequestable": false,
+  "metaData": "The Linde M20 Hand Pallet Truck (2000kg) is highly manoeuvrable and highly suited for loading and unloading. Order yours now...",
+  "minOrderQty": 1,
+  "multidimensional": true,
+  "name": "Linde M20 Hand Pallet Truck (2000Kg)",
+  "needsAdditionalInformation": "false",
+  "nonCatalogProduct": false,
+  "numberOfReviews": 0,
+  "orderable": true,
+  "pageTitle": "Linde M20 Hand Pallet Truck (2000Kg) | LindeShop UK",
+  "potentialPromotions": [],
+  "price": {
+    "currencyIso": "GBP",
+    "formattedOtherPrice": "£364.80",
+    "formattedValue": "£304.00",
+    "fromPriceAfter": false,
+    "minQuantity": 1,
+    "netto": true,
+    "priceType": "FROM",
+    "value": 304
+  },
+  "priceOnRequest": true,
+  "priceRange": {
+    "maxPrice": {
+      "currencyIso": "GBP",
+      "fromPriceAfter": false,
+      "value": 399
+    },
+    "minPrice": {
+      "currencyIso": "GBP",
+      "fromPriceAfter": false,
+      "value": 304
+    }
+  },
+  "productLabels": [],
+  "productReferences": [],
+  "purchasable": false,
+  "rentable": false,
+  "rentalProductOptionPreselected": false,
+  "reviews": [],
+  "salesCategory": "HAND_PALLET_TRUCKS",
+  "searchable": true,
+  "segment": "NTS",
+  "sortOrder": 0,
+  "stock": {
+    "isValueRounded": false,
+    "stockLevelStatus": "inStock"
+  },
+  "summary": "The Linde M20, tiller controlled hand pallet truck. Highly maneuverable and ideally suited to cost-effective loading/unloading, and short to medium distance pallet transfer.",
+  "supplier": "CHADWICKS",
+  "unit": "pieces",
+  "url": "/p/linde-pallet-trucks/LN-M20",
+  "urlName": "linde-pallet-trucks",
+  "used": false,
+  "usps": "* Torsion resistant chassis design\n* Solid push rods\n* Sealed hydraulic units\n* 12 months warranty\n* Lead in rollers for easy entry\n* Tapered fork tips for easy entry through shrink wrapping",
+  "variantMatrix": [
+    {
+      "elements": [
+        {
+          "elements": [
+            {
+              "elements": [],
+              "isLeaf": true,
+              "parentVariantCategory": {
+                "hasImage": false,
+                "name": "Steer Wheels",
+                "priority": 0
+              },
+              "variantOption": {
+                "code": "LN-M20-001",
+                "priceData": {
+                  "currencyIso": "GBP",
+                  "formattedValue": "£304.00",
+                  "fromPriceAfter": false,
+                  "priceType": "FROM",
+                  "value": 304
+                },
+                "sortOrder": 0,
+                "stock": {
+                  "isValueRounded": false,
+                  "stockLevelStatus": "inStock"
+                },
+                "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-001",
+                "variantOptionQualifiers": [
+                  {
+                    "image": {}
+                  }
+                ]
+              },
+              "variantValueCategory": {
+                "name": "Nylon",
+                "sequence": 1
+              }
+            }
+          ],
+          "isLeaf": false,
+          "parentVariantCategory": {
+            "hasImage": false,
+            "name": "Load Wheels",
+            "priority": 0
+          },
+          "variantOption": {
+            "code": "LN-M20-001",
+            "sortOrder": 0,
+            "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-001",
+            "variantOptionQualifiers": [
+              {
+                "image": {}
+              }
+            ]
+          },
+          "variantValueCategory": {
+            "name": "Single Nylon",
+            "sequence": 7
+          }
+        }
+      ],
+      "isLeaf": false,
+      "parentVariantCategory": {
+        "hasImage": false,
+        "name": "Fork Size",
+        "priority": 0
+      },
+      "variantOption": {
+        "code": "LN-M20-001",
+        "sortOrder": 0,
+        "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-001",
+        "variantOptionQualifiers": [
+          {
+            "image": {}
+          }
+        ]
+      },
+      "variantValueCategory": {
+        "name": "540mm x 1000mm",
+        "sequence": 29
+      }
+    }
+  ],
+  "variantOptions": [
+    {
+      "code": "LN-M20-001",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£364.80",
+        "formattedValue": "£304.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£304.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 304
+      },
+      "sortOrder": 1,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-001",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_540mm_x_1000mm",
+          "description": "540mm x 1000mm",
+          "displayName": "540mm x 1000mm",
+          "formattedName": "Fork Size: 540mm x 1000mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1000mm",
+          "name": "540mm x 1000mm",
+          "pageTitle": "540mm x 1000mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "load_wheels_single_nylon",
+          "description": "Single Nylon",
+          "displayName": "Single Nylon",
+          "formattedName": "Load Wheels: Single Nylon",
+          "isVariant": true,
+          "localizedLabel": "Single Nylon",
+          "name": "Single Nylon",
+          "pageTitle": "Single Nylon",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_nylon",
+          "description": "Nylon",
+          "displayName": "Nylon",
+          "formattedName": "Steer Wheels: Nylon",
+          "isVariant": true,
+          "localizedLabel": "Nylon",
+          "name": "Nylon",
+          "pageTitle": "Nylon",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-002",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£393.60",
+        "formattedValue": "£328.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£328.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 328
+      },
+      "sortOrder": 2,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-002",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_540mm_x_1000mm",
+          "description": "540mm x 1000mm",
+          "displayName": "540mm x 1000mm",
+          "formattedName": "Fork Size: 540mm x 1000mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1000mm",
+          "name": "540mm x 1000mm",
+          "pageTitle": "540mm x 1000mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "load_wheels_tandem_nylon",
+          "description": "Tandem Nylon",
+          "displayName": "Tandem Nylon",
+          "formattedName": "Load Wheels: Tandem Nylon",
+          "isVariant": true,
+          "localizedLabel": "Tandem Nylon",
+          "name": "Tandem Nylon",
+          "pageTitle": "Tandem Nylon",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_nylon",
+          "description": "Nylon",
+          "displayName": "Nylon",
+          "formattedName": "Steer Wheels: Nylon",
+          "isVariant": true,
+          "localizedLabel": "Nylon",
+          "name": "Nylon",
+          "pageTitle": "Nylon",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-003",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£393.60",
+        "formattedValue": "£328.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£328.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 328
+      },
+      "sortOrder": 3,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-003",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_540mm_x_1000mm",
+          "description": "540mm x 1000mm",
+          "displayName": "540mm x 1000mm",
+          "formattedName": "Fork Size: 540mm x 1000mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1000mm",
+          "name": "540mm x 1000mm",
+          "pageTitle": "540mm x 1000mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "load_wheels_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Load Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Steer Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-004",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£423.60",
+        "formattedValue": "£353.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£353.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 353
+      },
+      "sortOrder": 4,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-004",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_540mm_x_1000mm",
+          "description": "540mm x 1000mm",
+          "displayName": "540mm x 1000mm",
+          "formattedName": "Fork Size: 540mm x 1000mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1000mm",
+          "name": "540mm x 1000mm",
+          "pageTitle": "540mm x 1000mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "load_wheels_polyurethane_tandem",
+          "description": "Polyurethane Tandem",
+          "displayName": "Polyurethane Tandem",
+          "formattedName": "Load Wheels: Polyurethane Tandem",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane Tandem",
+          "name": "Polyurethane Tandem",
+          "pageTitle": "Polyurethane Tandem",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Steer Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-005",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£393.60",
+        "formattedValue": "£328.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£328.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 328
+      },
+      "sortOrder": 5,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-005",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_540mm_x_1000mm",
+          "description": "540mm x 1000mm",
+          "displayName": "540mm x 1000mm",
+          "formattedName": "Fork Size: 540mm x 1000mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1000mm",
+          "name": "540mm x 1000mm",
+          "pageTitle": "540mm x 1000mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "load_wheels_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Load Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_rubber",
+          "description": "Rubber",
+          "displayName": "Rubber",
+          "formattedName": "Steer Wheels: Rubber",
+          "isVariant": true,
+          "localizedLabel": "Rubber",
+          "name": "Rubber",
+          "pageTitle": "Rubber",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-006",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£423.60",
+        "formattedValue": "£353.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£353.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 353
+      },
+      "sortOrder": 6,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-006",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_540mm_x_1000mm",
+          "description": "540mm x 1000mm",
+          "displayName": "540mm x 1000mm",
+          "formattedName": "Fork Size: 540mm x 1000mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1000mm",
+          "name": "540mm x 1000mm",
+          "pageTitle": "540mm x 1000mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "load_wheels_polyurethane_tandem",
+          "description": "Polyurethane Tandem",
+          "displayName": "Polyurethane Tandem",
+          "formattedName": "Load Wheels: Polyurethane Tandem",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane Tandem",
+          "name": "Polyurethane Tandem",
+          "pageTitle": "Polyurethane Tandem",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_rubber",
+          "description": "Rubber",
+          "displayName": "Rubber",
+          "formattedName": "Steer Wheels: Rubber",
+          "isVariant": true,
+          "localizedLabel": "Rubber",
+          "name": "Rubber",
+          "pageTitle": "Rubber",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-007",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£462.00",
+        "formattedValue": "£385.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£385.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 385
+      },
+      "sortOrder": 7,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-007",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_540mm_x_1000mm",
+          "description": "540mm x 1000mm",
+          "displayName": "540mm x 1000mm",
+          "formattedName": "Fork Size: 540mm x 1000mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1000mm",
+          "name": "540mm x 1000mm",
+          "pageTitle": "540mm x 1000mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "load_wheels_anti_static",
+          "description": "Anti Static",
+          "displayName": "Anti Static",
+          "formattedName": "Load Wheels: Anti Static",
+          "isVariant": true,
+          "localizedLabel": "Anti Static",
+          "name": "Anti Static",
+          "pageTitle": "Anti Static",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_rubber",
+          "description": "Rubber",
+          "displayName": "Rubber",
+          "formattedName": "Steer Wheels: Rubber",
+          "isVariant": true,
+          "localizedLabel": "Rubber",
+          "name": "Rubber",
+          "pageTitle": "Rubber",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-008",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£364.80",
+        "formattedValue": "£304.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£304.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 304
+      },
+      "sortOrder": 8,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-008",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "load_wheels_single_nylon",
+          "description": "Single Nylon",
+          "displayName": "Single Nylon",
+          "formattedName": "Load Wheels: Single Nylon",
+          "isVariant": true,
+          "localizedLabel": "Single Nylon",
+          "name": "Single Nylon",
+          "pageTitle": "Single Nylon",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_nylon",
+          "description": "Nylon",
+          "displayName": "Nylon",
+          "formattedName": "Steer Wheels: Nylon",
+          "isVariant": true,
+          "localizedLabel": "Nylon",
+          "name": "Nylon",
+          "pageTitle": "Nylon",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "Fork_Size_540mm_x_1150mm",
+          "description": "540mm x 1150mm",
+          "displayName": "540mm x 1150mm",
+          "formattedName": "Fork Size: 540mm x 1150mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1150mm",
+          "name": "540mm x 1150mm",
+          "pageTitle": "540mm x 1150mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-009",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£393.60",
+        "formattedValue": "£328.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£328.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 328
+      },
+      "sortOrder": 9,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-009",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "load_wheels_tandem_nylon",
+          "description": "Tandem Nylon",
+          "displayName": "Tandem Nylon",
+          "formattedName": "Load Wheels: Tandem Nylon",
+          "isVariant": true,
+          "localizedLabel": "Tandem Nylon",
+          "name": "Tandem Nylon",
+          "pageTitle": "Tandem Nylon",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_nylon",
+          "description": "Nylon",
+          "displayName": "Nylon",
+          "formattedName": "Steer Wheels: Nylon",
+          "isVariant": true,
+          "localizedLabel": "Nylon",
+          "name": "Nylon",
+          "pageTitle": "Nylon",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "Fork_Size_540mm_x_1150mm",
+          "description": "540mm x 1150mm",
+          "displayName": "540mm x 1150mm",
+          "formattedName": "Fork Size: 540mm x 1150mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1150mm",
+          "name": "540mm x 1150mm",
+          "pageTitle": "540mm x 1150mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-010",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£393.60",
+        "formattedValue": "£328.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£328.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 328
+      },
+      "sortOrder": 10,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-010",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "load_wheels_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Load Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Steer Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "Fork_Size_540mm_x_1150mm",
+          "description": "540mm x 1150mm",
+          "displayName": "540mm x 1150mm",
+          "formattedName": "Fork Size: 540mm x 1150mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1150mm",
+          "name": "540mm x 1150mm",
+          "pageTitle": "540mm x 1150mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-011",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£423.60",
+        "formattedValue": "£353.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£353.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 353
+      },
+      "sortOrder": 11,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-011",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "load_wheels_polyurethane_tandem",
+          "description": "Polyurethane Tandem",
+          "displayName": "Polyurethane Tandem",
+          "formattedName": "Load Wheels: Polyurethane Tandem",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane Tandem",
+          "name": "Polyurethane Tandem",
+          "pageTitle": "Polyurethane Tandem",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Steer Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "Fork_Size_540mm_x_1150mm",
+          "description": "540mm x 1150mm",
+          "displayName": "540mm x 1150mm",
+          "formattedName": "Fork Size: 540mm x 1150mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1150mm",
+          "name": "540mm x 1150mm",
+          "pageTitle": "540mm x 1150mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-012",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£393.60",
+        "formattedValue": "£328.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£328.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 328
+      },
+      "sortOrder": 12,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-012",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "load_wheels_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Load Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_rubber",
+          "description": "Rubber",
+          "displayName": "Rubber",
+          "formattedName": "Steer Wheels: Rubber",
+          "isVariant": true,
+          "localizedLabel": "Rubber",
+          "name": "Rubber",
+          "pageTitle": "Rubber",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "Fork_Size_540mm_x_1150mm",
+          "description": "540mm x 1150mm",
+          "displayName": "540mm x 1150mm",
+          "formattedName": "Fork Size: 540mm x 1150mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1150mm",
+          "name": "540mm x 1150mm",
+          "pageTitle": "540mm x 1150mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-013",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£423.60",
+        "formattedValue": "£353.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£353.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 353
+      },
+      "sortOrder": 13,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-013",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "load_wheels_polyurethane_tandem",
+          "description": "Polyurethane Tandem",
+          "displayName": "Polyurethane Tandem",
+          "formattedName": "Load Wheels: Polyurethane Tandem",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane Tandem",
+          "name": "Polyurethane Tandem",
+          "pageTitle": "Polyurethane Tandem",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_rubber",
+          "description": "Rubber",
+          "displayName": "Rubber",
+          "formattedName": "Steer Wheels: Rubber",
+          "isVariant": true,
+          "localizedLabel": "Rubber",
+          "name": "Rubber",
+          "pageTitle": "Rubber",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "Fork_Size_540mm_x_1150mm",
+          "description": "540mm x 1150mm",
+          "displayName": "540mm x 1150mm",
+          "formattedName": "Fork Size: 540mm x 1150mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1150mm",
+          "name": "540mm x 1150mm",
+          "pageTitle": "540mm x 1150mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-014",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£462.00",
+        "formattedValue": "£385.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£385.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 385
+      },
+      "sortOrder": 14,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-014",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "load_wheels_anti_static",
+          "description": "Anti Static",
+          "displayName": "Anti Static",
+          "formattedName": "Load Wheels: Anti Static",
+          "isVariant": true,
+          "localizedLabel": "Anti Static",
+          "name": "Anti Static",
+          "pageTitle": "Anti Static",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_rubber",
+          "description": "Rubber",
+          "displayName": "Rubber",
+          "formattedName": "Steer Wheels: Rubber",
+          "isVariant": true,
+          "localizedLabel": "Rubber",
+          "name": "Rubber",
+          "pageTitle": "Rubber",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "Fork_Size_540mm_x_1150mm",
+          "description": "540mm x 1150mm",
+          "displayName": "540mm x 1150mm",
+          "formattedName": "Fork Size: 540mm x 1150mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1150mm",
+          "name": "540mm x 1150mm",
+          "pageTitle": "540mm x 1150mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-015",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£364.80",
+        "formattedValue": "£304.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£304.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 304
+      },
+      "sortOrder": 15,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-015",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_540mm_x_1220mm",
+          "description": "540mm x 1220mm",
+          "displayName": "540mm x 1220mm",
+          "formattedName": "Fork Size: 540mm x 1220mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1220mm",
+          "name": "540mm x 1220mm",
+          "pageTitle": "540mm x 1220mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "load_wheels_single_nylon",
+          "description": "Single Nylon",
+          "displayName": "Single Nylon",
+          "formattedName": "Load Wheels: Single Nylon",
+          "isVariant": true,
+          "localizedLabel": "Single Nylon",
+          "name": "Single Nylon",
+          "pageTitle": "Single Nylon",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_nylon",
+          "description": "Nylon",
+          "displayName": "Nylon",
+          "formattedName": "Steer Wheels: Nylon",
+          "isVariant": true,
+          "localizedLabel": "Nylon",
+          "name": "Nylon",
+          "pageTitle": "Nylon",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-016",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£393.60",
+        "formattedValue": "£328.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£328.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 328
+      },
+      "sortOrder": 16,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-016",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_540mm_x_1220mm",
+          "description": "540mm x 1220mm",
+          "displayName": "540mm x 1220mm",
+          "formattedName": "Fork Size: 540mm x 1220mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1220mm",
+          "name": "540mm x 1220mm",
+          "pageTitle": "540mm x 1220mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "load_wheels_tandem_nylon",
+          "description": "Tandem Nylon",
+          "displayName": "Tandem Nylon",
+          "formattedName": "Load Wheels: Tandem Nylon",
+          "isVariant": true,
+          "localizedLabel": "Tandem Nylon",
+          "name": "Tandem Nylon",
+          "pageTitle": "Tandem Nylon",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_nylon",
+          "description": "Nylon",
+          "displayName": "Nylon",
+          "formattedName": "Steer Wheels: Nylon",
+          "isVariant": true,
+          "localizedLabel": "Nylon",
+          "name": "Nylon",
+          "pageTitle": "Nylon",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-017",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£393.60",
+        "formattedValue": "£328.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£328.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 328
+      },
+      "sortOrder": 17,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-017",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_540mm_x_1220mm",
+          "description": "540mm x 1220mm",
+          "displayName": "540mm x 1220mm",
+          "formattedName": "Fork Size: 540mm x 1220mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1220mm",
+          "name": "540mm x 1220mm",
+          "pageTitle": "540mm x 1220mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "load_wheels_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Load Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Steer Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-018",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£423.60",
+        "formattedValue": "£353.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£353.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 353
+      },
+      "sortOrder": 18,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-018",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_540mm_x_1220mm",
+          "description": "540mm x 1220mm",
+          "displayName": "540mm x 1220mm",
+          "formattedName": "Fork Size: 540mm x 1220mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1220mm",
+          "name": "540mm x 1220mm",
+          "pageTitle": "540mm x 1220mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "load_wheels_polyurethane_tandem",
+          "description": "Polyurethane Tandem",
+          "displayName": "Polyurethane Tandem",
+          "formattedName": "Load Wheels: Polyurethane Tandem",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane Tandem",
+          "name": "Polyurethane Tandem",
+          "pageTitle": "Polyurethane Tandem",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Steer Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-019",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£393.60",
+        "formattedValue": "£328.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£328.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 328
+      },
+      "sortOrder": 19,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-019",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_540mm_x_1220mm",
+          "description": "540mm x 1220mm",
+          "displayName": "540mm x 1220mm",
+          "formattedName": "Fork Size: 540mm x 1220mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1220mm",
+          "name": "540mm x 1220mm",
+          "pageTitle": "540mm x 1220mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "load_wheels_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Load Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_rubber",
+          "description": "Rubber",
+          "displayName": "Rubber",
+          "formattedName": "Steer Wheels: Rubber",
+          "isVariant": true,
+          "localizedLabel": "Rubber",
+          "name": "Rubber",
+          "pageTitle": "Rubber",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-020",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£423.60",
+        "formattedValue": "£353.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£353.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 353
+      },
+      "sortOrder": 20,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-020",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_540mm_x_1220mm",
+          "description": "540mm x 1220mm",
+          "displayName": "540mm x 1220mm",
+          "formattedName": "Fork Size: 540mm x 1220mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1220mm",
+          "name": "540mm x 1220mm",
+          "pageTitle": "540mm x 1220mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "load_wheels_polyurethane_tandem",
+          "description": "Polyurethane Tandem",
+          "displayName": "Polyurethane Tandem",
+          "formattedName": "Load Wheels: Polyurethane Tandem",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane Tandem",
+          "name": "Polyurethane Tandem",
+          "pageTitle": "Polyurethane Tandem",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_rubber",
+          "description": "Rubber",
+          "displayName": "Rubber",
+          "formattedName": "Steer Wheels: Rubber",
+          "isVariant": true,
+          "localizedLabel": "Rubber",
+          "name": "Rubber",
+          "pageTitle": "Rubber",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-021",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£462.00",
+        "formattedValue": "£385.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£385.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 385
+      },
+      "sortOrder": 21,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-021",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_540mm_x_1220mm",
+          "description": "540mm x 1220mm",
+          "displayName": "540mm x 1220mm",
+          "formattedName": "Fork Size: 540mm x 1220mm",
+          "isVariant": true,
+          "localizedLabel": "540mm x 1220mm",
+          "name": "540mm x 1220mm",
+          "pageTitle": "540mm x 1220mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "load_wheels_anti_static",
+          "description": "Anti Static",
+          "displayName": "Anti Static",
+          "formattedName": "Load Wheels: Anti Static",
+          "isVariant": true,
+          "localizedLabel": "Anti Static",
+          "name": "Anti Static",
+          "pageTitle": "Anti Static",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_rubber",
+          "description": "Rubber",
+          "displayName": "Rubber",
+          "formattedName": "Steer Wheels: Rubber",
+          "isVariant": true,
+          "localizedLabel": "Rubber",
+          "name": "Rubber",
+          "pageTitle": "Rubber",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-022",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£381.60",
+        "formattedValue": "£318.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£318.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 318
+      },
+      "sortOrder": 22,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-022",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "load_wheels_single_nylon",
+          "description": "Single Nylon",
+          "displayName": "Single Nylon",
+          "formattedName": "Load Wheels: Single Nylon",
+          "isVariant": true,
+          "localizedLabel": "Single Nylon",
+          "name": "Single Nylon",
+          "pageTitle": "Single Nylon",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_nylon",
+          "description": "Nylon",
+          "displayName": "Nylon",
+          "formattedName": "Steer Wheels: Nylon",
+          "isVariant": true,
+          "localizedLabel": "Nylon",
+          "name": "Nylon",
+          "pageTitle": "Nylon",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "Fork_Size_685mm_x_1000mm",
+          "description": "685mm x 1000mm",
+          "displayName": "685mm x 1000mm",
+          "formattedName": "Fork Size: 685mm x 1000mm",
+          "isVariant": true,
+          "localizedLabel": "685mm x 1000mm",
+          "name": "685mm x 1000mm",
+          "pageTitle": "685mm x 1000mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-023",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£410.40",
+        "formattedValue": "£342.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£342.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 342
+      },
+      "sortOrder": 23,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-023",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "load_wheels_tandem_nylon",
+          "description": "Tandem Nylon",
+          "displayName": "Tandem Nylon",
+          "formattedName": "Load Wheels: Tandem Nylon",
+          "isVariant": true,
+          "localizedLabel": "Tandem Nylon",
+          "name": "Tandem Nylon",
+          "pageTitle": "Tandem Nylon",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_nylon",
+          "description": "Nylon",
+          "displayName": "Nylon",
+          "formattedName": "Steer Wheels: Nylon",
+          "isVariant": true,
+          "localizedLabel": "Nylon",
+          "name": "Nylon",
+          "pageTitle": "Nylon",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "Fork_Size_685mm_x_1000mm",
+          "description": "685mm x 1000mm",
+          "displayName": "685mm x 1000mm",
+          "formattedName": "Fork Size: 685mm x 1000mm",
+          "isVariant": true,
+          "localizedLabel": "685mm x 1000mm",
+          "name": "685mm x 1000mm",
+          "pageTitle": "685mm x 1000mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-024",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£410.40",
+        "formattedValue": "£342.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£342.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 342
+      },
+      "sortOrder": 24,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-024",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "load_wheels_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Load Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Steer Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "Fork_Size_685mm_x_1000mm",
+          "description": "685mm x 1000mm",
+          "displayName": "685mm x 1000mm",
+          "formattedName": "Fork Size: 685mm x 1000mm",
+          "isVariant": true,
+          "localizedLabel": "685mm x 1000mm",
+          "name": "685mm x 1000mm",
+          "pageTitle": "685mm x 1000mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-025",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£439.20",
+        "formattedValue": "£366.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£366.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 366
+      },
+      "sortOrder": 25,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-025",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "load_wheels_polyurethane_tandem",
+          "description": "Polyurethane Tandem",
+          "displayName": "Polyurethane Tandem",
+          "formattedName": "Load Wheels: Polyurethane Tandem",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane Tandem",
+          "name": "Polyurethane Tandem",
+          "pageTitle": "Polyurethane Tandem",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Steer Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "Fork_Size_685mm_x_1000mm",
+          "description": "685mm x 1000mm",
+          "displayName": "685mm x 1000mm",
+          "formattedName": "Fork Size: 685mm x 1000mm",
+          "isVariant": true,
+          "localizedLabel": "685mm x 1000mm",
+          "name": "685mm x 1000mm",
+          "pageTitle": "685mm x 1000mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-026",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£410.40",
+        "formattedValue": "£342.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£342.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 342
+      },
+      "sortOrder": 26,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-026",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "load_wheels_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Load Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_rubber",
+          "description": "Rubber",
+          "displayName": "Rubber",
+          "formattedName": "Steer Wheels: Rubber",
+          "isVariant": true,
+          "localizedLabel": "Rubber",
+          "name": "Rubber",
+          "pageTitle": "Rubber",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "Fork_Size_685mm_x_1000mm",
+          "description": "685mm x 1000mm",
+          "displayName": "685mm x 1000mm",
+          "formattedName": "Fork Size: 685mm x 1000mm",
+          "isVariant": true,
+          "localizedLabel": "685mm x 1000mm",
+          "name": "685mm x 1000mm",
+          "pageTitle": "685mm x 1000mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-027",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£439.20",
+        "formattedValue": "£366.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£366.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 366
+      },
+      "sortOrder": 27,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-027",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "load_wheels_polyurethane_tandem",
+          "description": "Polyurethane Tandem",
+          "displayName": "Polyurethane Tandem",
+          "formattedName": "Load Wheels: Polyurethane Tandem",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane Tandem",
+          "name": "Polyurethane Tandem",
+          "pageTitle": "Polyurethane Tandem",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_rubber",
+          "description": "Rubber",
+          "displayName": "Rubber",
+          "formattedName": "Steer Wheels: Rubber",
+          "isVariant": true,
+          "localizedLabel": "Rubber",
+          "name": "Rubber",
+          "pageTitle": "Rubber",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "Fork_Size_685mm_x_1000mm",
+          "description": "685mm x 1000mm",
+          "displayName": "685mm x 1000mm",
+          "formattedName": "Fork Size: 685mm x 1000mm",
+          "isVariant": true,
+          "localizedLabel": "685mm x 1000mm",
+          "name": "685mm x 1000mm",
+          "pageTitle": "685mm x 1000mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-028",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£478.80",
+        "formattedValue": "£399.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£399.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 399
+      },
+      "sortOrder": 28,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-028",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "load_wheels_anti_static",
+          "description": "Anti Static",
+          "displayName": "Anti Static",
+          "formattedName": "Load Wheels: Anti Static",
+          "isVariant": true,
+          "localizedLabel": "Anti Static",
+          "name": "Anti Static",
+          "pageTitle": "Anti Static",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_rubber",
+          "description": "Rubber",
+          "displayName": "Rubber",
+          "formattedName": "Steer Wheels: Rubber",
+          "isVariant": true,
+          "localizedLabel": "Rubber",
+          "name": "Rubber",
+          "pageTitle": "Rubber",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "Fork_Size_685mm_x_1000mm",
+          "description": "685mm x 1000mm",
+          "displayName": "685mm x 1000mm",
+          "formattedName": "Fork Size: 685mm x 1000mm",
+          "isVariant": true,
+          "localizedLabel": "685mm x 1000mm",
+          "name": "685mm x 1000mm",
+          "pageTitle": "685mm x 1000mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-029",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£381.60",
+        "formattedValue": "£318.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£318.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 318
+      },
+      "sortOrder": 29,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-029",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "load_wheels_single_nylon",
+          "description": "Single Nylon",
+          "displayName": "Single Nylon",
+          "formattedName": "Load Wheels: Single Nylon",
+          "isVariant": true,
+          "localizedLabel": "Single Nylon",
+          "name": "Single Nylon",
+          "pageTitle": "Single Nylon",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "Fork_Size_685mm_x_1220mm",
+          "description": "685mm x 1220mm",
+          "displayName": "685mm x 1220mm",
+          "formattedName": "Fork Size: 685mm x 1220mm",
+          "isVariant": true,
+          "localizedLabel": "685mm x 1220mm",
+          "name": "685mm x 1220mm",
+          "pageTitle": "685mm x 1220mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_nylon",
+          "description": "Nylon",
+          "displayName": "Nylon",
+          "formattedName": "Steer Wheels: Nylon",
+          "isVariant": true,
+          "localizedLabel": "Nylon",
+          "name": "Nylon",
+          "pageTitle": "Nylon",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-030",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£410.40",
+        "formattedValue": "£342.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£342.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 342
+      },
+      "sortOrder": 30,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-030",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "load_wheels_tandem_nylon",
+          "description": "Tandem Nylon",
+          "displayName": "Tandem Nylon",
+          "formattedName": "Load Wheels: Tandem Nylon",
+          "isVariant": true,
+          "localizedLabel": "Tandem Nylon",
+          "name": "Tandem Nylon",
+          "pageTitle": "Tandem Nylon",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_nylon",
+          "description": "Nylon",
+          "displayName": "Nylon",
+          "formattedName": "Steer Wheels: Nylon",
+          "isVariant": true,
+          "localizedLabel": "Nylon",
+          "name": "Nylon",
+          "pageTitle": "Nylon",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "Fork_Size_685mm_x_1220mm",
+          "description": "685mm x 1220mm",
+          "displayName": "685mm x 1220mm",
+          "formattedName": "Fork Size: 685mm x 1220mm",
+          "isVariant": true,
+          "localizedLabel": "685mm x 1220mm",
+          "name": "685mm x 1220mm",
+          "pageTitle": "685mm x 1220mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-031",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£410.40",
+        "formattedValue": "£342.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£342.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 342
+      },
+      "sortOrder": 31,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-031",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "load_wheels_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Load Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Steer Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "Fork_Size_685mm_x_1220mm",
+          "description": "685mm x 1220mm",
+          "displayName": "685mm x 1220mm",
+          "formattedName": "Fork Size: 685mm x 1220mm",
+          "isVariant": true,
+          "localizedLabel": "685mm x 1220mm",
+          "name": "685mm x 1220mm",
+          "pageTitle": "685mm x 1220mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-032",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£439.20",
+        "formattedValue": "£366.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£366.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 366
+      },
+      "sortOrder": 32,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-032",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_685mm_x_1220mm",
+          "description": "685mm x 1220mm",
+          "displayName": "685mm x 1220mm",
+          "formattedName": "Fork Size: 685mm x 1220mm",
+          "isVariant": true,
+          "localizedLabel": "685mm x 1220mm",
+          "name": "685mm x 1220mm",
+          "pageTitle": "685mm x 1220mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "load_wheels_polyurethane_tandem",
+          "description": "Polyurethane Tandem",
+          "displayName": "Polyurethane Tandem",
+          "formattedName": "Load Wheels: Polyurethane Tandem",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane Tandem",
+          "name": "Polyurethane Tandem",
+          "pageTitle": "Polyurethane Tandem",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Steer Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-033",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£410.40",
+        "formattedValue": "£342.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£342.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 342
+      },
+      "sortOrder": 33,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-033",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_685mm_x_1220mm",
+          "description": "685mm x 1220mm",
+          "displayName": "685mm x 1220mm",
+          "formattedName": "Fork Size: 685mm x 1220mm",
+          "isVariant": true,
+          "localizedLabel": "685mm x 1220mm",
+          "name": "685mm x 1220mm",
+          "pageTitle": "685mm x 1220mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "load_wheels_polyurethane",
+          "description": "Polyurethane",
+          "displayName": "Polyurethane",
+          "formattedName": "Load Wheels: Polyurethane",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane",
+          "name": "Polyurethane",
+          "pageTitle": "Polyurethane",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_rubber",
+          "description": "Rubber",
+          "displayName": "Rubber",
+          "formattedName": "Steer Wheels: Rubber",
+          "isVariant": true,
+          "localizedLabel": "Rubber",
+          "name": "Rubber",
+          "pageTitle": "Rubber",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-034",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£439.20",
+        "formattedValue": "£366.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£366.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 366
+      },
+      "sortOrder": 34,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-034",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_685mm_x_1220mm",
+          "description": "685mm x 1220mm",
+          "displayName": "685mm x 1220mm",
+          "formattedName": "Fork Size: 685mm x 1220mm",
+          "isVariant": true,
+          "localizedLabel": "685mm x 1220mm",
+          "name": "685mm x 1220mm",
+          "pageTitle": "685mm x 1220mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "load_wheels_polyurethane_tandem",
+          "description": "Polyurethane Tandem",
+          "displayName": "Polyurethane Tandem",
+          "formattedName": "Load Wheels: Polyurethane Tandem",
+          "isVariant": true,
+          "localizedLabel": "Polyurethane Tandem",
+          "name": "Polyurethane Tandem",
+          "pageTitle": "Polyurethane Tandem",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_rubber",
+          "description": "Rubber",
+          "displayName": "Rubber",
+          "formattedName": "Steer Wheels: Rubber",
+          "isVariant": true,
+          "localizedLabel": "Rubber",
+          "name": "Rubber",
+          "pageTitle": "Rubber",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-M20-035",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£478.80",
+        "formattedValue": "£399.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£399.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "value": 399
+      },
+      "sortOrder": 35,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/linde-pallet-trucks/LN-M20?variant=LN-M20-035",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_685mm_x_1220mm",
+          "description": "685mm x 1220mm",
+          "displayName": "685mm x 1220mm",
+          "formattedName": "Fork Size: 685mm x 1220mm",
+          "isVariant": true,
+          "localizedLabel": "685mm x 1220mm",
+          "name": "685mm x 1220mm",
+          "pageTitle": "685mm x 1220mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "load_wheels_anti_static",
+          "description": "Anti Static",
+          "displayName": "Anti Static",
+          "formattedName": "Load Wheels: Anti Static",
+          "isVariant": true,
+          "localizedLabel": "Anti Static",
+          "name": "Anti Static",
+          "pageTitle": "Anti Static",
+          "parentCategoryCode": "load_wheels",
+          "parentCategoryName": "Load Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        },
+        {
+          "code": "steer_wheel_rubber",
+          "description": "Rubber",
+          "displayName": "Rubber",
+          "formattedName": "Steer Wheels: Rubber",
+          "isVariant": true,
+          "localizedLabel": "Rubber",
+          "name": "Rubber",
+          "pageTitle": "Rubber",
+          "parentCategoryCode": "steer_wheel",
+          "parentCategoryName": "Steer Wheels",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    }
+  ],
+  "variantType": "LmhLocalVariantProduct",
+  "videos": [],
+  "volumePrices": []
+}

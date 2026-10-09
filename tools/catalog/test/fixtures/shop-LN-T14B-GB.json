@@ -1,0 +1,601 @@
+{
+  "applications": "Retail, supermarkets, warehouse, production supply",
+  "availableForPickup": false,
+  "baseOptions": [],
+  "categories": [
+    {
+      "code": "classificationCategory",
+      "description": "Classification Category",
+      "displayName": "Classification Category",
+      "isVariant": false,
+      "localizedLabel": "Classification Category",
+      "name": "Classification Category",
+      "pageTitle": "Classification Category",
+      "sortOrder": 0,
+      "url": "/"
+    },
+    {
+      "code": "all_products",
+      "description": "Browse all available Linde Shop items in one place!",
+      "displayName": "All New Products",
+      "isVariant": false,
+      "localizedLabel": "c/all-products",
+      "metaDescription": "With our Linde Trucks, you can ✓find the solution for every requirement, ✓meet your needs, ✓optimise you material handling applications",
+      "name": "All New Products",
+      "pageTitle": "Buy Linde trucks online | Linde Material Handling Webshop UK",
+      "sortOrder": 1,
+      "url": "/c/all-products"
+    },
+    {
+      "code": "low_lift_pallet_trucks",
+      "description": "Electric pallet trucks enable safe, precise manoeuvring and transport of goods - in the tightest of spaces. Electric pallet trucks also ensure effective work processes in warehouses and loading zones.",
+      "displayName": "Electric Pallet Trucks",
+      "isVariant": false,
+      "localizedLabel": "c/electric-pallet-trucks",
+      "metaDescription": "Here you will find electric pallet trucks",
+      "name": "Electric Pallet Trucks",
+      "pageTitle": "Buy Electric Pallet Trucks | Linde Material Handling Webshop",
+      "sortOrder": 2,
+      "url": "/c/electric-pallet-trucks"
+    },
+    {
+      "code": "Fork_Size",
+      "description": "Fork Size",
+      "displayName": "Fork Size",
+      "isVariant": true,
+      "localizedLabel": "Fork Size",
+      "name": "Fork Size",
+      "pageTitle": "Fork Size",
+      "sortOrder": 11,
+      "url": "/"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "benefits",
+      "features": [
+        {
+          "code": "classificationCatalog-LMH-GB-NTS/1.0/benefits.handling",
+          "comparable": true,
+          "featureValues": [
+            {
+              "value": "* Powerful power delivery thanks to energy-efficient electric motor *Travelling speed up to 5 km/h* High gradeability up to 16 % (unloaded)* Creep speed function for precise manoeuvring even in the tightest of spaces* Smooth acceleration thanks to innovative control system* Integrated charger enables intermediate charging regardless of location"
+            }
+          ],
+          "formattedFeatureValue": "* Powerful power delivery thanks to energy-efficient electric motor *Travelling speed up to 5 km/h* High gradeability up to 16 % (unloaded)* Creep speed function for precise manoeuvring even in the tightest of spaces* Smooth acceleration thanks to innovative control system* Integrated charger enables intermediate charging regardless of location",
+          "name": "Handling",
+          "range": false
+        },
+        {
+          "code": "classificationCatalog-LMH-GB-NTS/1.0/benefits.security",
+          "comparable": true,
+          "featureValues": [
+            {
+              "value": "* Maximum stability thanks to special support castor system* Automatic parking brake prevents unintentional rolling away* Starting aid enables safe starting on inclines and ramps* Long, low drawbar ensures a safe distance between the operator and vehicle* Collision sensor stops the vehicle if there is a risk of entrapment"
+            }
+          ],
+          "formattedFeatureValue": "* Maximum stability thanks to special support castor system* Automatic parking brake prevents unintentional rolling away* Starting aid enables safe starting on inclines and ramps* Long, low drawbar ensures a safe distance between the operator and vehicle* Collision sensor stops the vehicle if there is a risk of entrapment",
+          "name": "Security",
+          "range": false
+        },
+        {
+          "code": "classificationCatalog-LMH-GB-NTS/1.0/benefits.safety",
+          "comparable": true,
+          "featureValues": [
+            {
+              "value": "* Maximum stability thanks to special support castor system\n* Automatic parking brake prevents unintentional rolling away\n* Starting aid enables safe starting on inclines and ramps\n* Long, low drawbar ensures a safe distance between the operator and vehicle\n* Collision sensor stops the vehicle if there is a risk of entrapment"
+            }
+          ],
+          "formattedFeatureValue": "* Maximum stability thanks to special support castor system\n* Automatic parking brake prevents unintentional rolling away\n* Starting aid enables safe starting on inclines and ramps\n* Long, low drawbar ensures a safe distance between the operator and vehicle\n* Collision sensor stops the vehicle if there is a risk of entrapment",
+          "name": "Safety",
+          "range": false
+        },
+        {
+          "code": "classificationCatalog-LMH-GB-NTS/1.0/benefits.service",
+          "comparable": true,
+          "featureValues": [
+            {
+              "value": "* Robust design for high availability and low maintenance costs* Easy access to relevant components enables quick and uncomplicated maintenance* Fast fault diagnosis thanks to CAN bus architecture* Direct data access via central service diagnostics interface"
+            }
+          ],
+          "formattedFeatureValue": "* Robust design for high availability and low maintenance costs* Easy access to relevant components enables quick and uncomplicated maintenance* Fast fault diagnosis thanks to CAN bus architecture* Direct data access via central service diagnostics interface",
+          "name": "Service",
+          "range": false
+        },
+        {
+          "code": "classificationCatalog-LMH-GB-NTS/1.0/benefits.ergonomic",
+          "comparable": true,
+          "featureValues": [
+            {
+              "value": "* Ergonomic Linde tiller head for a natural hand position* Effortless working thanks to easily accessible controls* Vehicle can be operated with left or right hand* Electric lifting and lowering of the forks for comfortable load handling* Display of important vehicle information via a ‘display’ integrated in the tiller head"
+            }
+          ],
+          "formattedFeatureValue": "* Ergonomic Linde tiller head for a natural hand position* Effortless working thanks to easily accessible controls* Vehicle can be operated with left or right hand* Electric lifting and lowering of the forks for comfortable load handling* Display of important vehicle information via a ‘display’ integrated in the tiller head",
+          "name": "Ergonomic",
+          "range": false
+        }
+      ],
+      "name": "Advantages"
+    },
+    {
+      "code": "technicalDetails",
+      "features": [
+        {
+          "code": "classificationCatalog-LMH-GB-NTS/1.0/technicalDetails.fork_length",
+          "comparable": true,
+          "featureUnit": {
+            "name": "mm",
+            "symbol": "mm",
+            "unitType": "mm"
+          },
+          "featureValues": [
+            {
+              "value": "1150"
+            }
+          ],
+          "formattedFeatureValue": "1150 mm",
+          "icon": "fork_length",
+          "name": "Fork Length",
+          "range": false
+        },
+        {
+          "code": "classificationCatalog-LMH-GB-NTS/1.0/technicalDetails.load_capacity",
+          "comparable": true,
+          "featureUnit": {
+            "name": "kg",
+            "symbol": "kg",
+            "unitType": "kg"
+          },
+          "featureValues": [
+            {
+              "value": "1400"
+            }
+          ],
+          "formattedFeatureValue": "1400 kg",
+          "icon": "load_capacity",
+          "name": "Load Capacity",
+          "range": false
+        },
+        {
+          "code": "classificationCatalog-LMH-GB-NTS/1.0/technicalDetails.lifting_height",
+          "comparable": true,
+          "featureUnit": {
+            "name": "mm",
+            "symbol": "mm",
+            "unitType": "mm"
+          },
+          "featureValues": [
+            {
+              "value": "115"
+            }
+          ],
+          "formattedFeatureValue": "115 mm",
+          "icon": "lift_height",
+          "name": "Lifting Height",
+          "range": false
+        },
+        {
+          "code": "classificationCatalog-LMH-GB-NTS/1.0/technicalDetails.drive",
+          "comparable": true,
+          "featureValues": [
+            {
+              "value": "Electric"
+            }
+          ],
+          "formattedFeatureValue": "Electric",
+          "icon": "drive",
+          "name": "Drive",
+          "range": false
+        },
+        {
+          "code": "classificationCatalog-LMH-GB-NTS/1.0/technicalDetails.battery",
+          "comparable": true,
+          "featureValues": [
+            {
+              "value": "48 Volt"
+            }
+          ],
+          "formattedFeatureValue": "48 Volt",
+          "icon": "battery",
+          "name": "Battery",
+          "range": false
+        },
+        {
+          "code": "classificationCatalog-LMH-GB-NTS/1.0/technicalDetails.fork_width",
+          "comparable": true,
+          "featureUnit": {
+            "name": "mm",
+            "symbol": "mm",
+            "unitType": "mm"
+          },
+          "featureValues": [
+            {
+              "value": "560"
+            }
+          ],
+          "formattedFeatureValue": "560 mm",
+          "name": "Fork Width",
+          "range": false
+        },
+        {
+          "code": "classificationCatalog-LMH-GB-NTS/1.0/technicalDetails.own_weight",
+          "comparable": true,
+          "featureUnit": {
+            "name": "kg",
+            "symbol": "kg",
+            "unitType": "kg"
+          },
+          "featureValues": [
+            {
+              "value": "175"
+            }
+          ],
+          "formattedFeatureValue": "175 kg",
+          "name": "Service Weight",
+          "range": false
+        },
+        {
+          "code": "classificationCatalog-LMH-GB-NTS/1.0/technicalDetails.engine",
+          "comparable": true,
+          "featureUnit": {
+            "name": "Kilowatt-Hour",
+            "symbol": "kW"
+          },
+          "featureValues": [
+            {
+              "value": "1 kW"
+            }
+          ],
+          "formattedFeatureValue": "1 kW kW",
+          "name": "Motor",
+          "range": false
+        },
+        {
+          "code": "classificationCatalog-LMH-GB-NTS/1.0/technicalDetails.driving_speed_with_without_load",
+          "comparable": true,
+          "featureUnit": {
+            "name": "Kilometer per hour",
+            "symbol": "km/h"
+          },
+          "featureValues": [
+            {
+              "value": "4,5"
+            }
+          ],
+          "formattedFeatureValue": "4,5 km/h",
+          "name": "Driving Speed With / Without Load",
+          "range": false
+        }
+      ],
+      "name": "Technical Details"
+    }
+  ],
+  "code": "LN-T14B-GB",
+  "configurable": false,
+  "dataSheets": [],
+  "defaultRentableDays": "0",
+  "deliveryTime": 0,
+  "deliveryTimeInDays": 0,
+  "description": "The T14B electric low lift pallet truck is a robust and reliable vehicle for light to medium-duty indoor applications. With a load capacity of 1.4 tonnes, it is ideal for transporting goods horizontally over short distances on firm ground. Thanks to the ergonomically designed Linde tiller head with its easy-to-operate controls and smooth but powerful driving characteristics, the low lift pallet truck enables precise and comfortable working. The easily accessible main components and the Linde diagnostic interface enable simple maintenance and fast repairs.",
+  "hasVariants": true,
+  "images": [
+    {
+      "altText": "T14 B Electric Pallet Truck (1400kg)",
+      "format": "universal",
+      "imageType": "GALLERY",
+      "title": "T14 B Electric Pallet Truck (1400kg)",
+      "url": "/images/LMH-GB-NTS/content/T14B_Electric_Pallet_Truck_GIF_UK.gif"
+    },
+    {
+      "altText": "T14 B Electric Pallet Truck (1400kg)",
+      "format": "universal",
+      "imageType": "GALLERY",
+      "title": "T14 B Electric Pallet Truck (1400kg)",
+      "url": "/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0001.png"
+    },
+    {
+      "altText": "T14 B Electric Pallet Truck (1400kg)",
+      "format": "universal",
+      "imageType": "GALLERY",
+      "title": "T14 B Electric Pallet Truck (1400kg)",
+      "url": "/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0002.png"
+    },
+    {
+      "altText": "T14 B Electric Pallet Truck (1400kg)",
+      "format": "universal",
+      "imageType": "GALLERY",
+      "title": "T14 B Electric Pallet Truck (1400kg)",
+      "url": "/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0003.png"
+    },
+    {
+      "altText": "T14 B Electric Pallet Truck (1400kg)",
+      "format": "universal",
+      "imageType": "GALLERY",
+      "title": "T14 B Electric Pallet Truck (1400kg)",
+      "url": "/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0004.png"
+    },
+    {
+      "altText": "T14 B Electric Pallet Truck (1400kg)",
+      "format": "universal",
+      "imageType": "GALLERY",
+      "title": "T14 B Electric Pallet Truck (1400kg)",
+      "url": "/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0005.png"
+    },
+    {
+      "altText": "T14 B Electric Pallet Truck (1400kg)",
+      "format": "universal",
+      "imageType": "GALLERY",
+      "title": "T14 B Electric Pallet Truck (1400kg)",
+      "url": "/images/LMH-GB-NTS/products/BR1132_T14B_Facelift_0006.jpg"
+    },
+    {
+      "altText": "T14 B Electric Pallet Truck (1400kg)",
+      "format": "universal",
+      "imageType": "GALLERY",
+      "title": "T14 B Electric Pallet Truck (1400kg)",
+      "url": "/images/LMH-GB-NTS/products/BR1132_T14B_Facelift_0007.jpg"
+    }
+  ],
+  "isOrderable": false,
+  "isRequestable": false,
+  "metaData": "T14 B",
+  "minOrderQty": 1,
+  "multidimensional": true,
+  "name": "T14 B Electric Pallet Truck (1400kg)",
+  "needsAdditionalInformation": "false",
+  "nonCatalogProduct": false,
+  "numberOfReviews": 0,
+  "orderable": true,
+  "pageTitle": "T14 B",
+  "potentialPromotions": [],
+  "price": {
+    "currencyIso": "GBP",
+    "formattedOtherPrice": "£2,340.00",
+    "formattedOtherStrikedPrice": "£2,520.00",
+    "formattedStrikedPrice": "£2,100.00",
+    "formattedValue": "£1,950.00",
+    "fromPriceAfter": false,
+    "minQuantity": 1,
+    "netto": true,
+    "priceType": "FROM",
+    "strikedPrice": 2100,
+    "value": 1950
+  },
+  "priceOnRequest": false,
+  "priceRange": {
+    "maxPrice": {
+      "currencyIso": "GBP",
+      "fromPriceAfter": false,
+      "value": 1950
+    },
+    "minPrice": {
+      "currencyIso": "GBP",
+      "fromPriceAfter": false,
+      "value": 1950
+    }
+  },
+  "productLabels": [
+    {
+      "code": "SALE",
+      "localizedLabel": "Sale"
+    }
+  ],
+  "productReferences": [],
+  "purchasable": false,
+  "rentable": false,
+  "rentalProductOptionPreselected": false,
+  "reviews": [],
+  "salesCategory": "LOW_LIFT_TRUCKS",
+  "searchable": true,
+  "segment": "NTS",
+  "sortOrder": 0,
+  "stock": {
+    "isValueRounded": false,
+    "stockLevelStatus": "inStock"
+  },
+  "summary": "Ergonomically designed tiller, Linde diagnostic interface, integrated charger and high availability.",
+  "supplier": "Linde Material Handling",
+  "unit": "pieces",
+  "url": "/p/t14b/LN-T14B-GB",
+  "urlName": "t14b",
+  "used": false,
+  "usps": "* Compact electric pallet truck for light to medium-duty indoor applications.\nIndoor use\n* Rated load capacity 1.4 tonnes, ideal for horizontal goods transport\n* Ideal for short-distance use in retail, warehousing and production supply\nProduction supply\n* Precise and comfortable operation thanks to ergonomic design\n* High availability thanks to an operating time of 3 - 4 hours per battery charge\n* Charged in 2 hours thanks to integrated charger",
+  "variantMatrix": [
+    {
+      "elements": [],
+      "isLeaf": true,
+      "parentVariantCategory": {
+        "hasImage": false,
+        "name": "Fork Size",
+        "priority": 0
+      },
+      "variantOption": {
+        "code": "LN-T14B-GB-001",
+        "priceData": {
+          "currencyIso": "GBP",
+          "formattedValue": "£1,950.00",
+          "fromPriceAfter": false,
+          "priceType": "FROM",
+          "value": 1950
+        },
+        "sortOrder": 0,
+        "stock": {
+          "isValueRounded": false,
+          "stockLevelStatus": "inStock"
+        },
+        "url": "/p/t14b/LN-T14B-GB?variant=LN-T14B-GB-001",
+        "variantOptionQualifiers": [
+          {
+            "image": {}
+          }
+        ]
+      },
+      "variantValueCategory": {
+        "name": "560mm x 1000mm",
+        "sequence": 11
+      }
+    }
+  ],
+  "variantOptions": [
+    {
+      "code": "LN-T14B-GB-001",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£2,340.00",
+        "formattedOtherStrikedPrice": "£2,520.00",
+        "formattedStrikedPrice": "£2,100.00",
+        "formattedValue": "£1,950.00",
+        "fromPriceAfter": false,
+        "lowestProductPrice": "£1,950.00",
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "strikedPrice": 2100,
+        "value": 1950
+      },
+      "sortOrder": 1,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/t14b/LN-T14B-GB?variant=LN-T14B-GB-001",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_560mm_x_1000mm",
+          "description": "560mm x 1000mm",
+          "displayName": "560mm x 1000mm",
+          "formattedName": "Fork Size: 560mm x 1000mm",
+          "isVariant": true,
+          "localizedLabel": "560mm x 1000mm",
+          "name": "560mm x 1000mm",
+          "pageTitle": "560mm x 1000mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-T14B-GB-002",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£2,340.00",
+        "formattedOtherStrikedPrice": "£2,520.00",
+        "formattedStrikedPrice": "£2,100.00",
+        "formattedValue": "£1,950.00",
+        "fromPriceAfter": false,
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "strikedPrice": 2100,
+        "value": 1950
+      },
+      "sortOrder": 2,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/t14b/LN-T14B-GB?variant=LN-T14B-GB-002",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_560mm_x_1150mm",
+          "description": "560mm x 1150 mm",
+          "displayName": "560mm x 1150 mm",
+          "formattedName": "Fork Size: 560mm x 1150 mm",
+          "isVariant": true,
+          "localizedLabel": "560mm x 1150 mm",
+          "name": "560mm x 1150 mm",
+          "pageTitle": "560mm x 1150 mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-T14B-GB-003",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£2,340.00",
+        "formattedOtherStrikedPrice": "£2,520.00",
+        "formattedStrikedPrice": "£2,100.00",
+        "formattedValue": "£1,950.00",
+        "fromPriceAfter": false,
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "strikedPrice": 2100,
+        "value": 1950
+      },
+      "sortOrder": 3,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/t14b/LN-T14B-GB?variant=LN-T14B-GB-003",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_685mm_x_1000mm",
+          "description": "685mm x 1000mm",
+          "displayName": "685mm x 1000mm",
+          "formattedName": "Fork Size: 685mm x 1000mm",
+          "isVariant": true,
+          "localizedLabel": "685mm x 1000mm",
+          "name": "685mm x 1000mm",
+          "pageTitle": "685mm x 1000mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "code": "LN-T14B-GB-004",
+      "priceData": {
+        "currencyIso": "GBP",
+        "formattedOtherPrice": "£2,340.00",
+        "formattedOtherStrikedPrice": "£2,520.00",
+        "formattedStrikedPrice": "£2,100.00",
+        "formattedValue": "£1,950.00",
+        "fromPriceAfter": false,
+        "minQuantity": 1,
+        "netto": true,
+        "priceType": "BUY",
+        "strikedPrice": 2100,
+        "value": 1950
+      },
+      "sortOrder": 4,
+      "stock": {
+        "isValueRounded": false,
+        "stockLevelStatus": "inStock"
+      },
+      "url": "/p/t14b/LN-T14B-GB?variant=LN-T14B-GB-004",
+      "variantOptionQualifiers": [],
+      "variantValueCategories": [
+        {
+          "code": "Fork_Size_685mm_x_1150mm",
+          "description": "685mm x 1150mm",
+          "displayName": "685mm x 1150mm",
+          "formattedName": "Fork Size: 685mm x 1150mm",
+          "isVariant": true,
+          "localizedLabel": "685mm x 1150mm",
+          "name": "685mm x 1150mm",
+          "pageTitle": "685mm x 1150mm",
+          "parentCategoryCode": "Fork_Size",
+          "parentCategoryName": "Fork Size",
+          "sortOrder": 0,
+          "url": "/"
+        }
+      ]
+    }
+  ],
+  "variantType": "LmhLocalVariantProduct",
+  "videos": [],
+  "volumePrices": []
+}

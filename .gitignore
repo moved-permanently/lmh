@@ -20,3 +20,5 @@ stardust/.work/*
 
 # stardust instrument scratch output
 /crop-diff.png
+tools/catalog/out/
+tools/catalog/cache/

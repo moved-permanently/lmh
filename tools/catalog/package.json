@@ -1,0 +1,10 @@
+{
+  "name": "lmh-catalog-tools",
+  "private": true,
+  "type": "module",
+  "description": "Product Bus importer for moved-permanently/lmh (not served; see .hlxignore)",
+  "scripts": {
+    "test": "node --test \"test/**/*.test.js\"",
+    "import": "node bin/import.js"
+  }
+}
