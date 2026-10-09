@@ -292,6 +292,7 @@
     margin-left: calc(50% - min(708px, calc(100% + 68px)) / 2);
   }
 
+  /* stylelint-disable-next-line no-descending-specificity -- the :has() picture p after its caption pair */
   .press-contact-container .default-content-wrapper p.infobox-inline:has(picture, img) {
     margin-top: 8px;
   }

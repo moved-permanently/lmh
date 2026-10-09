@@ -406,6 +406,7 @@
 /* source .layout-100--fixed row (5vw 1.25vw + the 1.25vw item wrapper; 32 + 18 from 1280) >
    .inline-button-row (margin 8px 0) > .btn (48px: padding 8px 16px, line-height 30, margin 4px 0) —
    measured sustainability 1440: row 172, 360: row 117 */
+
 /* the row's 8px margin is in the box padding above; the paragraphs carry none (measured h-models 1440:
    two-button row 243 = 50 + 8 + 71 + 56 + 8 + 50 — the build's 8px paragraph margins made it 259) */
 .hero-container ~ .section.cta p.button-wrapper {
@@ -584,6 +585,8 @@
 
 .hero-container ~ .section.article.center h2 {
   margin-top: 1em;
+  font-size: 2rem;
+  line-height: 1.25;
 }
 
 /* the h3 opening a centred band sits 1rem below the (empty) h2 slot, not 1em: measured live 1440
@@ -591,11 +594,6 @@
    the same +12 sat in the maintenance-repair band table */
 .hero-container ~ .section.article.center h3 {
   margin-top: 1rem;
-}
-
-.hero-container ~ .section.article.center h2 {
-  font-size: 2rem;
-  line-height: 1.25;
 }
 
 @media (width >= 640px) {
@@ -691,18 +689,15 @@
 /* note box inside the copy (source .infobox-text: display:block, margin 8px 0, full column below 640;
    .infobox--right: width 320 + float right from 640px — live-bundle.css @267791/@267911/@267998; measured
    awards: 360 figure / note box / paragraph stacked, 1440 figure left + note box right in the 640 column) */
-.hero-container ~ .section.article > .infobox-wrapper:has(> .infobox:not(.media)) {
-  width: 100%;
-  max-width: none;
-  margin: 8px 0;
-  padding: 0;
-}
 
 /* note-box typography in the article column (measured awards live: h6 24/30 at 360, 27/33.75 at 1440 =
    .dom-content h2–h6 1.5rem/125 %; li .95rem/1.5 with the .25em gap and the 1.125em dash indent of ul.bullets,
    the dash white inside the box; ul margin .5em 0). Below 640 the box keeps the column's 2.5vw inset
    (live 360: box x 9 w 342) where the figure runs edge to edge. */
 .hero-container ~ .section.article > .infobox-wrapper:has(> .infobox:not(.media)) {
+  width: 100%;
+  max-width: none;
+  margin: 8px 0;
   padding: 0 2.5vw;
 }
 

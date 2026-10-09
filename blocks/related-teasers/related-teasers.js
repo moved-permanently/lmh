@@ -35,8 +35,11 @@ export default function decorate(block) {
     const flags = codes.map((c) => c.textContent.trim().toLowerCase());
     codes.forEach((c) => c.closest('p, div').remove());
     const pic = row.querySelector('picture, img');
-    // decorate defensively: a leading config cell whose code key was empty arrives as a literal `` text, never the body
-    const body = cells.find((c) => c.isConnected && c.textContent.replace(/`/g, '').trim() && !c.contains(pic))
+    // decorate defensively: a leading config cell whose code key was empty arrives as a literal ``
+    // text, never the body
+    const body = cells.find((c) => c.isConnected
+      && c.textContent.replace(/`/g, '').trim()
+      && !c.contains(pic))
       || cells[cells.length - 1];
     const item = el('div', 'related-teasers-item');
     if (icons) {
@@ -69,7 +72,8 @@ export default function decorate(block) {
     return item;
   });
   if (!['one', 'two', 'three', 'four'].some((v) => block.classList.contains(v))) {
-    // source rows: layout-100 → 1, layout-50 → 2, layout-33 → 3, layout-25 → 4+ (25 % tiles wrap 4 per row)
+    // source rows: layout-100 → 1, layout-50 → 2, layout-33 → 3, layout-25 → 4+
+    // (25 % tiles wrap 4 per row)
     block.classList.add(['one', 'two', 'three', 'four'][Math.min(items.length, 4) - 1] || 'four');
   }
   block.replaceChildren(...items);

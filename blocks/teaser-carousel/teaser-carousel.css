@@ -20,6 +20,7 @@ main .section.teaser-carousel-container {
   color: var(--color-white);
   font-size: 1.63rem;
   line-height: 1.25;
+
   /* source .related-content .layout-100-headline--fixed h3: uppercase (measured 360: the band title
      wraps to two lines, h 87 vs 57 — every section below shifted 30 px; 1440 one line either way) */
   text-transform: uppercase;
@@ -149,6 +150,7 @@ main .section.teaser-carousel-container {
   flex: 0 0 auto;
   align-self: flex-start;
   margin-top: 0.94em;
+
   /* source .teaser__text-wrapper p+a: 1rem (measured 16 px at 360, 18 px at 1440), not the 0.95rem body */
   font-size: 1rem;
   line-height: 1;

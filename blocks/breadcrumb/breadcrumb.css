@@ -154,6 +154,7 @@
 /* article footer: source .article-footer { display: flex; align-items: center; margin: 32px auto;
    border-top: 1px solid white } p { flex: 1 } + .share-btn — two paragraphs, the toggle pulled up into
    the text row */
+/* stylelint-disable-next-line no-descending-specificity -- the footer pair vs the intro-band p above */
 .static main .section.centered > .default-content-wrapper > p:has(+ p.button-container:last-child) {
   display: flex;
   box-sizing: border-box;

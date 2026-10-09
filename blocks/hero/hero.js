@@ -4,8 +4,9 @@
  * Default (source .header-image): rows [picture] [h1, subtitle p, CTA paragraphs] → lightgrey
  *   stage,
  *   text 45 % | 16:9 image 55 % from 1024px, stacked image-first below; 48px bottom bar ≥ 1024.
- * Variant `banner[ right][ bottom]` (source .parallax-container, text-wrapper--top/bottom left/right): full-width picture with a white text card
- *   (h3, p, link paragraphs) overlaid top-left (or top-right) from 768px, stacked below.
+ * Variant `banner[ right][ bottom]` (source .parallax-container, text-wrapper--top/bottom
+ *   left/right): full-width picture with a white text card (h3, p, link paragraphs) overlaid
+ *   top-left (or top-right) from 768px, stacked below.
  * Template-slotted decode, node-slotting (EW1–EW3): authored nodes MOVE into generated wrappers.
  * @param {Element} block
  */

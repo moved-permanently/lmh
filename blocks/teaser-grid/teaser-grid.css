@@ -305,6 +305,18 @@
   padding-bottom: 2.5vh;
 }
 
+/* below 768 the CTA row moves above the hero (teaser-grid.js): the hero follows it directly and the
+   band sits below the hero instead (live: cta 56–449, hero 449–932, h1 band at 986 at 390) */
+@media (width <= 767px) {
+  .teaser-grid-container:has(.teaser-grid.cta):has(+ .hero-carousel-container) {
+    padding-bottom: 0;
+  }
+
+  .teaser-grid-container:has(.teaser-grid.cta) + .hero-carousel-container {
+    padding-bottom: 2.5vh;
+  }
+}
+
 .teaser-grid-container > .default-content-wrapper {
   box-sizing: border-box;
   padding: 2rem 2rem 0;

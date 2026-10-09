@@ -438,8 +438,7 @@ main .section.anchor-nav ul {
   height: 100%;
   margin: 0 auto;
   padding: 0;
-  overflow-x: auto;
-  overflow-y: hidden;
+  overflow: auto hidden;
   scrollbar-width: none;
   list-style: none;
   font-size: 0.95rem;
@@ -628,6 +627,8 @@ a .prosemirror-editor a:any-link {
 
 /* stylelint-enable no-descending-specificity */
 
+/* stylelint-disable no-descending-specificity -- the article lists restate the static-template list rules for their own band */
+
 /* content lists in the article text column (landing / product / press templates — the static template carries the
    same rules above): source ol,ul (live bundle @26784 list-style none; @35849 .95rem / 150 %) and .running-text ul,
    ul.bullets (@39694–@40113: .5em margins, padding 0; li 1.125em indent, .25em gap, a red en dash absolute at left 0);
@@ -682,3 +683,5 @@ main .section.article > .default-content-wrapper ol > li::before {
   font-variant-numeric: tabular-nums lining-nums;
   text-align: right;
 }
+
+/* stylelint-enable no-descending-specificity */
