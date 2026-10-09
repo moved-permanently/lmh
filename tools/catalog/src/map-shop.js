@@ -11,7 +11,7 @@ function images(raw) {
     .filter((i) => !/\.gif(\?|$)/i.test(i.url))
     .filter((i) => (seen.has(i.url) ? false : seen.add(i.url)))
     .slice(0, 6)
-    .map((i) => ({ url: abs(i.url), label: decodeEntities(i.altText || raw.name) }));
+    .map((i) => ({ url: abs(i.url), label: decodeEntities(raw.name) }));
 }
 
 function price(priceData, onRequest) {
