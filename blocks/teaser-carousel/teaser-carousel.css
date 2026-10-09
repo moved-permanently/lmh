@@ -20,7 +20,6 @@ main .section.teaser-carousel-container {
   color: var(--color-white);
   font-size: 1.63rem;
   line-height: 1.25;
-  letter-spacing: -0.016em;
   /* source .related-content .layout-100-headline--fixed h3: uppercase (measured 360: the band title
      wraps to two lines, h 87 vs 57 — every section below shifted 30 px; 1440 one line either way) */
   text-transform: uppercase;
@@ -126,7 +125,6 @@ main .section.teaser-carousel-container {
 .teaser-carousel .teaser-content h3 {
   font-size: 1rem;
   line-height: 1.25;
-  letter-spacing: -0.016em;
 }
 
 .teaser-carousel .teaser-content h3 a {
@@ -145,7 +143,6 @@ main .section.teaser-carousel-container {
   flex: 1 1 auto;
   font-size: 0.95rem;
   line-height: 1.75;
-  letter-spacing: -0.003em;
 }
 
 .teaser-carousel .teaser-text p:has(> a:only-child) {
@@ -203,9 +200,6 @@ main .section.teaser-carousel-container {
     font-size: 1.5rem;
   }
 
-  .teaser-carousel .teaser-text p {
-    letter-spacing: -0.017em;
-  }
 }
 
 @media (width >= 640px) {

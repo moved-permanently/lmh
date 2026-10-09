@@ -29,7 +29,6 @@ main > .section.filter-container > .default-content-wrapper h1 {
   font-size: 1.5em;
   font-weight: 400;
   line-height: 1.25;
-  letter-spacing: -0.016em;
   color: var(--color-darkgrey);
 }
 
@@ -68,7 +67,6 @@ main > .section:has(+ .section.filter-container) > .default-content-wrapper h1 {
   font-size: 1.63em;
   font-weight: 400;
   line-height: 1.25;
-  letter-spacing: -0.016em;
   color: var(--color-darkgrey);
   padding-top: 1.25vw;
 }
@@ -76,7 +74,6 @@ main > .section:has(+ .section.filter-container) > .default-content-wrapper h1 {
 main > .section:has(+ .section.filter-container) > .default-content-wrapper p {
   font-size: 0.95em;
   line-height: 1.75;
-  letter-spacing: -0.003em;
 }
 
 main > .section:has(+ .section.filter-container) > .default-content-wrapper > :last-child {
@@ -121,7 +118,6 @@ main > .section.filter-container > .default-content-wrapper + .filter-wrapper {
   font-size: 1em;
   font-weight: 400;
   line-height: 1.25;
-  letter-spacing: -0.016em;
   color: var(--color-darkgrey);
 }
 
@@ -293,7 +289,4 @@ main > .section.filter-container > .default-content-wrapper + .filter-wrapper {
     font-size: 1.5em;
   }
 
-  main > .section:has(+ .section.filter-container) > .default-content-wrapper p {
-    letter-spacing: -0.017em;
-  }
 }

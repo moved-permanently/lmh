@@ -34,7 +34,6 @@
   margin: 0 0 0.5rem;
   font-size: 1rem;
   line-height: 1.2;
-  letter-spacing: -0.016em;
   color: var(--color-red);
 }
 
@@ -44,7 +43,6 @@
   font-family: var(--bold-font-family);
   font-size: 2rem;
   line-height: 1.25;
-  letter-spacing: -0.016em;
   color: var(--color-darkgrey);
 }
 
@@ -178,7 +176,6 @@
 .hero.banner .hero-text h3 {
   font-size: 1.63rem;
   line-height: 1.25;
-  letter-spacing: -0.016em;
 }
 
 .hero.banner .hero-text p {
@@ -186,7 +183,6 @@
   font-family: var(--body-font-family);
   font-size: 0.95rem;
   line-height: 1.75;
-  letter-spacing: -0.003em;
 }
 
 .hero.banner .hero-text p + p {
@@ -202,7 +198,6 @@
   font-family: var(--body-font-family);
   font-size: 0.95rem;
   line-height: 1.5; /* source ul 25.65 / 17.1 at 1440, 22.8 / 15.2 at 360 — not the paragraph's 1.75 */
-  letter-spacing: -0.003em;
   list-style: none;
 }
 
@@ -224,9 +219,6 @@
     font-size: 1.5rem;
   }
 
-  .hero.banner .hero-text p {
-    letter-spacing: -0.017em;
-  }
 }
 
 @media (width >= 768px) {
@@ -284,7 +276,6 @@
   margin: 0 auto;
   font-size: 1.5rem;
   line-height: 1.25;
-  letter-spacing: -0.016em;
 }
 
 .hero-container ~ .section.article > div {
@@ -302,7 +293,6 @@
 .hero-container ~ .section.article p {
   font-size: 0.95rem;
   line-height: 1.75;
-  letter-spacing: -0.003em;
 }
 
 .hero-container ~ .section.article p + p {
@@ -312,7 +302,6 @@
 .hero-container ~ .section.article h3 {
   font-size: 1.63rem;
   line-height: 1.25;
-  letter-spacing: -0.016em;
 }
 
 /* source .dom-content h2–h6: 1.5rem / 125% (measured h-models 1440: h4 27px / 33.75, 640 wide, 4 lines
@@ -322,7 +311,6 @@
 .hero-container ~ .section.article > .default-content-wrapper :is(h4, h5, h6) {
   font-size: 1.5rem;
   line-height: 1.25;
-  letter-spacing: -0.016em;
 }
 
 .hero-container ~ .section.article > .default-content-wrapper :is(h4, h5, h6):not(:first-child),
@@ -461,10 +449,6 @@
      wrapper's 4.5 = 18 px from the viewport edge, row 324; the build's 2.5vw (9 px) made the button 342 */
   .hero-container ~ .section.cta > div {
     padding: calc(6.25vw + 8px) 5vw;
-  }
-
-  .hero-container ~ .section.article p {
-    letter-spacing: -0.017em;
   }
 
   .hero-container ~ .section.article h3 {
@@ -612,7 +596,6 @@
 .hero-container ~ .section.article.center h2 {
   font-size: 2rem;
   line-height: 1.25;
-  letter-spacing: -0.016em;
 }
 
 @media (width >= 640px) {
@@ -848,7 +831,6 @@
   font-family: var(--bold-font-family);
   font-size: 2rem;
   line-height: 1.25;
-  letter-spacing: -0.016em;
   color: var(--color-darkgrey);
 }
 
@@ -876,7 +858,6 @@
   font-family: var(--body-font-family);
   font-size: 0.95rem;
   line-height: 1.75;
-  letter-spacing: -0.003em;
 }
 
 .hero.banner .hero-text .hero-actions p {

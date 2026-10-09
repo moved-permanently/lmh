@@ -43,7 +43,6 @@
 .columns .columns-text p {
   font-size: 0.95rem;
   line-height: 1.75;
-  letter-spacing: -0.003em;
 }
 
 .columns .columns-text p + p {
@@ -108,7 +107,6 @@
 .columns .columns-text h3 {
   font-size: 1.63rem;
   line-height: 1.25;
-  letter-spacing: -0.016em;
 }
 
 /* source h2 (bundle @32686/@32856: .h2, h2 { 2rem !important }, 3rem from 768) — a text container's h2
@@ -171,10 +169,6 @@
 @media (width <= 639px) {
   .columns .columns-media-col {
     order: -1;
-  }
-
-  .columns .columns-text p {
-    letter-spacing: -0.017em;
   }
 
   .columns .columns-text h3 {

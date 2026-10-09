@@ -98,7 +98,6 @@ main > .section.news-cards-container > .news-cards-wrapper {
   font-size: 1em;
   font-weight: 400;
   line-height: 1.25;
-  letter-spacing: -0.016em;
   color: var(--color-darkgrey);
 }
 

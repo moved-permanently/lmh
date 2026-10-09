@@ -6,57 +6,23 @@ const isDesktop = window.matchMedia('(min-width: 1024px)');
 const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
 
 /**
- * Closes the open nav dropdown (desktop) or the nav menu (mobile) on Escape
- * @param {KeyboardEvent} e keydown event
+ * Collapses the drill-down / mega-menu state below a container
+ * @param {Element} root container whose expandable buttons collapse
  */
-function closeOnEscape(e) {
-  if (e.code === 'Escape') {
-    const nav = document.getElementById('nav');
-    const navSections = nav.querySelector('.nav-sections');
-    if (!navSections) return;
-    const navSectionExpanded = navSections.querySelector('[aria-expanded="true"]');
-    if (navSectionExpanded && isDesktop.matches) {
-      // eslint-disable-next-line no-use-before-define
-      toggleAllNavSections(navSections);
-      navSectionExpanded.focus();
-    } else if (!isDesktop.matches) {
-      // eslint-disable-next-line no-use-before-define
-      toggleMenu(nav, navSections);
-      nav.querySelector('button').focus();
-    }
-  }
-}
-
-/**
- * Closes the open nav dropdown (desktop) or the nav menu (mobile) when focus leaves the nav
- * @param {FocusEvent} e focusout event
- */
-function closeOnFocusLost(e) {
-  const nav = e.currentTarget;
-  if (!nav.contains(e.relatedTarget)) {
-    const navSections = nav.querySelector('.nav-sections');
-    if (!navSections) return;
-    const navSectionExpanded = navSections.querySelector('[aria-expanded="true"]');
-    if (navSectionExpanded && isDesktop.matches) {
-      // eslint-disable-next-line no-use-before-define
-      toggleAllNavSections(navSections, false);
-    } else if (!isDesktop.matches) {
-      // eslint-disable-next-line no-use-before-define
-      toggleMenu(nav, navSections, false);
-    }
-  }
-}
-
-/**
- * Toggles all nav sections
- * @param {Element} sections The container element
- * @param {Boolean|string} expanded Whether the element should be expanded or collapsed
- */
-function toggleAllNavSections(sections, expanded = false) {
-  if (!sections) return;
-  sections.querySelectorAll('.nav-drop > button').forEach((button) => {
-    button.setAttribute('aria-expanded', expanded);
+function collapseAll(root) {
+  root.querySelectorAll('.menu-nav-mainitem, .menu-nav-subtoggle').forEach((button) => {
+    button.setAttribute('aria-expanded', 'false');
   });
+}
+
+/**
+ * Toggles all nav sections (closes the open mega-menu panel and its level-3 state)
+ * @param {Element} sections The container element
+ */
+function toggleAllNavSections(sections) {
+  if (!sections) return;
+  collapseAll(sections);
+  sections.closest('.header')?.classList.remove('megamenu-open');
 }
 
 /**
@@ -72,19 +38,35 @@ function toggleMenu(nav, navSections, forceExpanded = null) {
   // the desktop nav is always expanded, so aria-expanded only applies to the mobile menu
   if (isDesktop.matches) nav.removeAttribute('aria-expanded');
   else nav.setAttribute('aria-expanded', expanded ? 'false' : 'true');
-  toggleAllNavSections(navSections, expanded || isDesktop.matches ? 'false' : 'true');
+  // every open/close of the drawer (and every breakpoint change) starts from level 1
+  toggleAllNavSections(navSections);
   button.setAttribute('aria-label', expanded ? 'Open navigation' : 'Close navigation');
   button.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+}
 
-  // enable menu collapse on escape keypress
-  if (!expanded || isDesktop.matches) {
-    // collapse menu on escape press
-    window.addEventListener('keydown', closeOnEscape);
-    // collapse menu on focus lost
-    nav.addEventListener('focusout', closeOnFocusLost);
-  } else {
-    window.removeEventListener('keydown', closeOnEscape);
-    nav.removeEventListener('focusout', closeOnFocusLost);
+/**
+ * Esc: desktop closes the open panel; mobile steps one drill level back, then closes the drawer
+ * @param {KeyboardEvent} e keydown event
+ */
+function closeOnEscape(e) {
+  if (e.code !== 'Escape') return;
+  const nav = document.getElementById('nav');
+  const navSections = nav?.querySelector('.nav-sections');
+  if (!navSections) return;
+  const open = [...navSections.querySelectorAll('[aria-expanded="true"]')];
+  if (isDesktop.matches) {
+    const section = navSections.querySelector('.menu-nav-mainitem[aria-expanded="true"]');
+    if (!section) return;
+    toggleAllNavSections(navSections);
+    section.focus();
+  } else if (open.length) {
+    const deepest = open[open.length - 1];
+    deepest.setAttribute('aria-expanded', 'false');
+    deepest.focus();
+  } else if (nav.getAttribute('aria-expanded') === 'true') {
+    // eslint-disable-next-line no-use-before-define
+    toggleMenu(nav, navSections, false);
+    nav.querySelector('.nav-hamburger button').focus();
   }
 }
 
@@ -101,6 +83,17 @@ function el(tag, className) {
 }
 
 /**
+ * Creates an icon-font glyph
+ * @param {string} name icon name (styles.css .icon-*)
+ * @returns {Element}
+ */
+function glyph(name) {
+  const i = el('i', `icon icon-${name}`);
+  i.setAttribute('aria-hidden', 'true');
+  return i;
+}
+
+/**
  * Nav DECODE: the pipeline wraps a list item's trigger link in a <p> on live.
  * Matches `:scope > a, :scope > p > a` and unwraps the <p>.
  * @param {Element} li list item
@@ -113,21 +106,147 @@ function unwrapLink(li) {
 }
 
 /**
- * Decorates a mega-menu sub-list (authored nodes are moved, never rebuilt)
- * @param {Element} ul the authored sub-list
- * @param {number} level nesting level (0 = the panel's columns)
+ * Moves a list item's label (text nodes / <p> children, everything but its sub-list) into a target
+ * @param {Element} li list item
+ * @param {Element} target receiving element
  */
-function decorateSubList(ul, level) {
-  ul.classList.add('submenu', `lvl-${level}`);
-  ul.querySelectorAll(':scope > li').forEach((li) => {
-    const a = unwrapLink(li);
-    if (a) a.classList.add('menu-nav-subitem');
-    const sub = li.querySelector(':scope > ul');
-    if (sub) {
-      li.classList.add('has-sub');
-      decorateSubList(sub, level + 1);
-    }
+function moveLabel(li, target) {
+  [...li.childNodes].forEach((node) => {
+    if (node.tagName === 'UL') return;
+    if (node.tagName === 'P') {
+      target.append(...node.childNodes);
+      node.remove();
+    } else target.append(node);
   });
+  target.normalize();
+  const { firstChild: first, lastChild: last } = target;
+  if (first?.nodeType === Node.TEXT_NODE) first.textContent = first.textContent.trimStart();
+  if (last?.nodeType === Node.TEXT_NODE) last.textContent = last.textContent.trimEnd();
+}
+
+/**
+ * The heading row of a drill level: mobile back button + title, desktop "Label >" overview link
+ * @param {Element} heading the heading link (authored or created)
+ * @param {Element} opener the button that opened this level (collapsed by the back button)
+ * @returns {Element} the row
+ */
+function headingRow(heading, opener) {
+  const row = el('li', 'menu-back');
+  const back = el('button', 'menu-back-btn');
+  back.type = 'button';
+  back.setAttribute('aria-label', 'Back');
+  back.append(glyph('left'));
+  back.addEventListener('click', () => {
+    opener.setAttribute('aria-expanded', 'false');
+    opener.focus();
+  });
+  heading.classList.remove('menu-nav-subitem');
+  heading.classList.add('menu-heading');
+  heading.append(glyph('right'));
+  row.append(back, heading);
+  return row;
+}
+
+/**
+ * Grows the absolutely placed panel to its tallest column (level 3 / teaser are out of flow)
+ * @param {Element} panel the level-2 list (mega-menu panel)
+ */
+function fitPanel(panel) {
+  panel.style.minHeight = '';
+  if (!isDesktop.matches) return;
+  const { top, height } = panel.getBoundingClientRect();
+  const bottoms = [...panel.querySelectorAll(':scope > li > .submenu, .menu-teaser-links')]
+    .filter((ul) => ul.offsetParent)
+    .map((ul) => ul.getBoundingClientRect().bottom - top);
+  const max = Math.max(0, ...bottoms);
+  if (max > height) panel.style.minHeight = `${Math.ceil(max)}px`;
+}
+
+/**
+ * Decorates a section's level-2 list into the mega-menu panel / mobile drill level.
+ * Authored model (nav.html):
+ * - the first level-2 item, when it is a plain link, is the section overview;
+ * - a level-2 link with a sub-list opens level 3 (the link becomes the level-3 heading);
+ * - a level-2 plain-text label with a sub-list is the teaser column ("This might interest you:").
+ * @param {Element} ul the authored level-2 list
+ * @param {Element} button the section button
+ * @param {string} label the section label
+ */
+function decoratePanel(ul, button, label) {
+  ul.classList.add('submenu', 'lvl-0');
+  const items = [...ul.querySelectorAll(':scope > li')];
+  const hoverTimers = new WeakMap();
+
+  const activate = (toggle) => {
+    ul.querySelectorAll(':scope > li > .menu-nav-subtoggle').forEach((t) => {
+      t.setAttribute('aria-expanded', t === toggle ? 'true' : 'false');
+    });
+    fitPanel(ul);
+  };
+
+  items.forEach((li, i) => {
+    const sub = li.querySelector(':scope > ul');
+    const a = unwrapLink(li);
+    if (!a && sub) {
+      li.classList.add('menu-teaser');
+      const title = el('p', 'menu-teaser-label');
+      moveLabel(li, title);
+      li.prepend(title);
+      sub.classList.add('menu-teaser-links');
+      sub.querySelectorAll(':scope > li').forEach((tli) => {
+        unwrapLink(tli)?.classList.add('menu-teaser-link');
+      });
+      return;
+    }
+    if (!a) return;
+    a.classList.add('menu-nav-subitem');
+    if (!sub) {
+      if (i === 0) li.classList.add('menu-overview');
+      return;
+    }
+    li.classList.add('has-sub');
+    sub.classList.add('submenu', 'lvl-1');
+    const toggle = el('button', 'menu-nav-subtoggle');
+    toggle.type = 'button';
+    toggle.setAttribute('aria-expanded', 'false');
+    toggle.textContent = a.textContent.trim();
+    toggle.append(glyph('right'));
+    const links = [...sub.querySelectorAll(':scope > li')];
+    links.forEach((sli) => unwrapLink(sli)?.classList.add('menu-nav-subitem'));
+    // two balanced level-3 columns (source: left list ceil(n/2), right list the rest)
+    sub.style.setProperty('--rows', Math.ceil(links.length / 2));
+    // the authored link becomes the level-3 heading ("New Industrial Trucks >" → its overview)
+    sub.prepend(headingRow(a, toggle));
+    li.prepend(toggle);
+    toggle.addEventListener('click', () => {
+      if (isDesktop.matches) activate(toggle);
+      else toggle.setAttribute('aria-expanded', toggle.getAttribute('aria-expanded') !== 'true');
+    });
+    li.addEventListener('mouseenter', () => {
+      if (!isDesktop.matches) return;
+      hoverTimers.set(li, setTimeout(() => activate(toggle), 150));
+    });
+    li.addEventListener('mouseleave', () => clearTimeout(hoverTimers.get(li)));
+  });
+
+  // section heading "Products >" → the overview link (the overview item stays listed for mobile)
+  const overview = ul.querySelector(':scope > .menu-overview > a');
+  const heading = el(overview ? 'a' : 'span');
+  if (overview) heading.href = overview.href;
+  heading.textContent = label;
+  ul.prepend(headingRow(heading, button));
+
+  const closeRow = el('li', 'menu-close');
+  const close = el('button', 'menu-close-btn');
+  close.type = 'button';
+  close.textContent = 'Close menu';
+  close.append(glyph('close'));
+  close.addEventListener('click', () => {
+    toggleAllNavSections(ul.closest('.nav-sections'));
+    button.focus();
+  });
+  closeRow.append(close);
+  ul.prepend(closeRow);
 }
 
 /**
@@ -141,7 +260,9 @@ function decorateSections(navSections) {
   const mobileLabel = el('li', 'menu-mobile');
   mobileLabel.textContent = 'Menu';
   list.prepend(mobileLabel);
-  list.querySelectorAll(':scope > li').forEach((navSection) => {
+  // resolved on use: the nav is attached to the block after decoration
+  const header = () => navSections.closest('.header');
+  list.querySelectorAll(':scope > li').forEach((navSection, i) => {
     if (navSection === mobileLabel) return;
     const subList = navSection.querySelector(':scope > ul');
     const a = unwrapLink(navSection);
@@ -154,23 +275,47 @@ function decorateSections(navSections) {
     // wrap the dropdown label in a button so it is announced as expandable
     const button = el('button', 'menu-nav-mainitem');
     button.type = 'button';
-    button.setAttribute('aria-expanded', false);
-    [...navSection.childNodes].forEach((node) => {
-      if (node === subList) return;
-      // the pipeline may wrap the label in a <p>: move its children, keep the authored text nodes
-      if (node.tagName === 'P') button.append(...node.childNodes);
-      else button.append(node);
-    });
+    button.setAttribute('aria-expanded', 'false');
+    moveLabel(navSection, button);
+    const label = button.textContent;
+    button.append(glyph('right'));
+    subList.id = `nav-panel-${i}`;
+    button.setAttribute('aria-controls', subList.id);
     navSection.prepend(button);
-    decorateSubList(subList, 0);
+    decoratePanel(subList, button, label);
+    // desktop: opens on click (not hover); mobile: drills into level 2
     button.addEventListener('click', () => {
       const expanded = button.getAttribute('aria-expanded') === 'true';
-      if (isDesktop.matches) {
-        button.focus();
-        toggleAllNavSections(navSections);
-      }
+      toggleAllNavSections(navSections);
       button.setAttribute('aria-expanded', !expanded);
+      if (isDesktop.matches) {
+        header()?.classList.toggle('megamenu-open', !expanded);
+        fitPanel(subList);
+      }
     });
+  });
+
+  // desktop: a click anywhere outside the nav (incl. the dimmed page) closes the panel
+  document.addEventListener('click', (e) => {
+    if (!isDesktop.matches || !header()?.classList.contains('megamenu-open')) return;
+    if (!e.target.closest('.nav-sections')) toggleAllNavSections(navSections);
+  });
+  window.addEventListener('keydown', closeOnEscape);
+}
+
+/**
+ * Mobile drawer: the source repeats the meta links and the dealer CTA below the level-1 list
+ * @param {Element} navSections the decorated sections wrapper
+ * @param {Element} navTools the decorated tools wrapper
+ */
+function addMobileTools(navSections, navTools) {
+  const list = navSections.querySelector('.menu-nav');
+  if (!list || !navTools) return;
+  navTools.querySelectorAll('.menu-meta-item > a, .dealer-btn-wrapper > a').forEach((a) => {
+    const cta = a.closest('.dealer-btn-wrapper');
+    const li = el('li', cta ? 'menu-mobile-tool menu-mobile-cta' : 'menu-mobile-tool');
+    li.append(a.cloneNode(true));
+    list.append(li);
   });
 }
 
@@ -278,15 +423,15 @@ function initScrollState(block, nav) {
 
   // the stacked sections below the header (source order: breadcrumb, then the anchor row)
   const stackSections = () => [...document.querySelectorAll('main > .section.breadcrumb-container, main > .section.anchor-nav')]
-    .filter((el) => el.offsetHeight > 0);
+    .filter((section) => section.offsetHeight > 0);
   const placeStack = (sections, sticky, headerH, slide) => {
     let top = headerH;
-    sections.forEach((el, i) => {
-      el.classList.toggle('stack-sticky', sticky);
-      el.classList.toggle('stack-last', sticky && i === sections.length - 1);
-      el.style.top = sticky ? `${top}px` : '';
-      el.style.transform = (sticky && slide) ? `translateY(${slide}px)` : '';
-      top += el.offsetHeight;
+    sections.forEach((section, i) => {
+      section.classList.toggle('stack-sticky', sticky);
+      section.classList.toggle('stack-last', sticky && i === sections.length - 1);
+      section.style.top = sticky ? `${top}px` : '';
+      section.style.transform = (sticky && slide) ? `translateY(${slide}px)` : '';
+      top += section.offsetHeight;
     });
   };
 
@@ -318,7 +463,7 @@ function initScrollState(block, nav) {
     const stackH = block.offsetHeight;
     // slide distance: the whole stack minus its last element, which stays pinned (stickystacky)
     const lastH = sections.length ? sections[sections.length - 1].offsetHeight : stackH;
-    const slideMax = stackH + sections.reduce((sum, el) => sum + el.offsetHeight, 0) - lastH;
+    const slideMax = stackH + sections.reduce((sum, s) => sum + s.offsetHeight, 0) - lastH;
     const d = Math.sign(y - lastY);
     if (d && d !== dir) {
       // scrolling down: a direction change only re-arms the slide (live: header still visible at
@@ -383,6 +528,7 @@ export default async function decorate(block) {
 
   const navTools = nav.querySelector('.nav-tools');
   if (navTools) decorateTools(navTools);
+  if (navSections) addMobileTools(navSections, navTools);
 
   // hamburger for mobile
   const hamburger = document.createElement('div');

@@ -126,7 +126,6 @@
   font-size: 1rem;
   font-weight: 700;
   line-height: 1.25;
-  letter-spacing: -0.016em;
   text-decoration: none;
 }
 
@@ -323,15 +322,6 @@
   line-height: 1.2;
   color: var(--color-darkgrey);
   text-transform: none;
-}
-
-/* substitute-font calibration (Nunito Sans for FF Daxline Pro): the foundation's ≤ 639 paragraph
-   tracking (styles.css static template) keeps the icon-text and card paragraphs on the live line count */
-@media (width <= 639px) {
-  .teaser-grid.icons .teaser-grid-icon-text > p,
-  .teaser-grid .teaser-grid-text > p {
-    letter-spacing: -0.0134em;
-  }
 }
 
 @media (width >= 640px) {

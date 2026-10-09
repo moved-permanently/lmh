@@ -111,7 +111,6 @@
 .related-teasers .teaser-content h3 {
   font-size: 1rem;
   line-height: 1.25;
-  letter-spacing: -0.016em;
 }
 
 .related-teasers .teaser-content h3 a {
@@ -138,7 +137,6 @@
 .related-teasers .teaser-text p {
   font-size: 0.95rem;
   line-height: 1.75;
-  letter-spacing: -0.003em;
 }
 
 .related-teasers .teaser-text p:has(> a:only-child) {
@@ -230,7 +228,6 @@
   padding: 8px 0 16px;
   font-size: 0.95rem;
   line-height: 1.75;
-  letter-spacing: -0.003em;
 }
 
 /* the trailing link of an icon tile (source .teaser--icon-text > a.textlink, live-bundle.css @320610): a boxed
@@ -319,13 +316,6 @@
 .related-teasers .icon-view::before { content: "\f161"; }
 .related-teasers .icon-world::before { content: "\f163"; }
 .related-teasers .icon-zoomin::before { content: "\f165"; }
-
-@media (width <= 639px) {
-  .related-teasers .teaser-text p,
-  .related-teasers .teaser-icon-text p {
-    letter-spacing: -0.017em;
-  }
-}
 
 @media (width >= 640px) {
   .related-teasers.one .teaser {

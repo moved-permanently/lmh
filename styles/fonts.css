@@ -1,32 +1,54 @@
 /* styles/fonts.css — loaded by loadFonts() after first paint, never from head.html.
-   Nunito Sans is the metric-matched substitute for the licensed FF Daxline Pro (stardust/replica/fonts.md):
-   ascent 74% / descent 26% keeps `line-height: normal` boxes at Daxline's 1.0em. */
+   FF Daxline Web Pro, mirrored from the source (index_style_bundle_lmh.css): the source selects weight by
+   FAMILY (DaxWebPro-Medi / DaxlineWebPro-Bold / DaxWebPro-Light), so each alias is its own face over the
+   shared woff files. The metric fallbacks (daxline-fallback*) live in styles.css so they apply at first paint. */
 @font-face {
-  font-family: NunitoSans;
-  src: url("../fonts/NunitoSans-400.woff2") format("woff2");
+  font-family: DaxlineWebPro;
+  src: url("../fonts/daxlinewebpro.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
-  ascent-override: 74%;
-  descent-override: 26%;
-  line-gap-override: 0%;
 }
 
-/* alias face: the source selects bold by FAMILY (DaxWebPro-Medi / DaxlineWebPro-Bold) — mirrored */
 @font-face {
-  font-family: NunitoSans-Bold;
-  src: url("../fonts/NunitoSans-700.woff2") format("woff2");
+  font-family: DaxlineWebPro-Bold;
+  src: url("../fonts/daxlinewebpro_bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
-  /* metric match: the width probe (stardust/replica/fonts.md) measured Nunito Sans Bold +3.2 % / +2.8 % wider than
-     the captured Daxline bold/medium faces — the bold strings (card titles, dates, accordion headlines) wrapped one
-     line earlier than the source (events 360: 4 of 12 date bands; compact-class 360: 3 accordion titles). 97 %
-     brings the advance widths to the captured face; the ascent/descent overrides keep the line box. */
-  size-adjust: 97%;
-  ascent-override: 74%;
-  descent-override: 26%;
-  line-gap-override: 0%;
+}
+
+@font-face {
+  font-family: DaxWebPro-Medi;
+  src: url("../fonts/daxlinewebpro_bold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: DaxWebPro-Light;
+  src: url("../fonts/daxlinewebpro.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* the source declares the italic alias at weight 700 too — mirrored */
+@font-face {
+  font-family: DaxlineWebPro-Italic;
+  src: url("../fonts/daxlinewebpro_italic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: DaxlineWebPro-BoldItalic;
+  src: url("../fonts/daxlinewebpro_bolditalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
 }
 
 @font-face {

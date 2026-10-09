@@ -69,6 +69,7 @@ header .navigation-burger {
   position: absolute;
   top: 0;
   right: 0;
+  z-index: 2;
   width: 56px;
   height: 56px;
   color: var(--color-red);
@@ -106,43 +107,40 @@ header .navigation-menu {
   background: var(--color-white);
 }
 
+/* open: the drawer covers the whole viewport (the source's "MENU" row replaces the logo row);
+   the burger stays on top of it */
 header nav[aria-expanded="true"] .navigation-menu {
   position: fixed;
-  inset: 56px 0 0;
+  inset: 0;
+  z-index: 1;
   height: auto;
   overflow-y: auto;
 }
 
-header .menu-nav > li {
-  padding: 0 16px;
+header .menu-nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+header .menu-nav li {
   border-bottom: 1px solid var(--color-lightgrey);
   font-size: 0.95rem;
-  line-height: 56px;
-  text-align: center;
-}
-
-header .menu-nav > li.menu-mobile {
-  text-transform: uppercase;
-}
-
-header .menu-nav > li > .menu-nav-mainitem,
-header .menu-nav > li > .menu-homelink {
-  text-transform: uppercase;
-}
-
-header .menu-nav .submenu {
-  display: none;
-  text-transform: none;
-}
-
-header .menu-homelink {
-  display: block;
-  padding: 0 16px;
-  color: var(--color-darkgrey);
+  line-height: 55px;
   text-align: left;
 }
 
-header .menu-nav-mainitem {
+header .menu-nav > li.menu-mobile {
+  padding: 0 56px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+/* every drill row: 56px incl. the separator, uppercase, chevron (red) when it opens a level */
+header .menu-homelink,
+header .menu-nav-mainitem,
+header .menu-nav-subtoggle,
+header .menu-nav .submenu .menu-nav-subitem {
   display: block;
   position: relative;
   width: 100%;
@@ -152,40 +150,110 @@ header .menu-nav-mainitem {
   background: transparent;
   color: var(--color-darkgrey);
   font: inherit;
-  line-height: 56px;
+  line-height: 55px;
   text-align: left;
+  text-transform: uppercase;
   cursor: pointer;
 }
 
-header .menu-nav-mainitem::after {
-  content: "\f12f";
+header .menu-nav-mainitem .icon,
+header .menu-nav-subtoggle .icon {
   position: absolute;
+  top: 15px;
   right: 16px;
-  font-family: var(--icon-font-family);
+  color: var(--color-red);
 }
 
-header .menu-nav > li > [aria-expanded="true"] + .submenu {
+header .menu-nav-subitem:hover,
+header .menu-homelink:hover {
+  color: var(--color-red);
+}
+
+/* drill levels: level 2 / level 3 slide over the level above (source menu__level--2/3) */
+header .menu-nav .submenu {
+  display: none;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+header .menu-nav-mainitem[aria-expanded="true"] + .submenu.lvl-0,
+header .menu-nav-subtoggle[aria-expanded="true"] ~ .submenu.lvl-1 {
   display: block;
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  overflow-y: auto;
+  background: var(--color-white);
 }
 
-header .menu-nav .submenu li {
-  line-height: 48px;
-  text-align: left;
+/* level heading row: back button (left), title (centred) */
+header .menu-nav li.menu-back {
+  position: relative;
+  padding: 0 56px;
+  text-align: center;
 }
 
-header .menu-nav .submenu .submenu {
-  display: block;
-  padding-left: 16px;
-}
-
-header .menu-nav-subitem {
+header .menu-heading {
   display: block;
   color: var(--color-darkgrey);
-  line-height: inherit;
+  line-height: 55px;
 }
 
-header .menu-nav-subitem:hover {
+header .menu-heading .icon {
+  display: none;
+}
+
+header .menu-back-btn {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 56px;
+  height: 55px;
+  margin: 0;
+  border: 0;
+  padding: 16px;
+  background: transparent;
   color: var(--color-red);
+  line-height: 0;
+  cursor: pointer;
+}
+
+/* desktop-only parts of the panel */
+header .menu-nav li.menu-close,
+header .menu-nav li.menu-teaser {
+  display: none;
+}
+
+/* the source repeats the meta links + dealer CTA at the end of the level-1 list */
+header .menu-mobile-tool > a {
+  display: block;
+  padding: 0 16px 0 26px;
+  color: var(--color-textgrey);
+  text-transform: uppercase;
+}
+
+header .menu-mobile-tool .btn-meta {
+  display: flex;
+  align-items: center;
+  height: 55px;
+  padding: 0;
+  font-size: inherit;
+  line-height: 55px;
+}
+
+header .menu-mobile-tool .btn-meta .icon {
+  width: auto;
+  font-size: 16px;
+}
+
+header .menu-nav li.menu-mobile-cta {
+  border-bottom: 0;
+}
+
+header .menu-mobile-cta > a {
+  padding: 0;
+  text-transform: none;
 }
 
 /* meta strip + dealer button: desktop only (the mobile strip lives in the off-canvas menu on live) */
@@ -325,11 +393,7 @@ header .btn-primary:hover {
     text-transform: none;
   }
 
-  header .menu-nav > li > .menu-nav-mainitem {
-    text-transform: none;
-  }
-
-  /* live widths 245/241/249/246: auto basis + equal grow; the li spans the row = contiguous hover surface */
+  /* live widths 245/241/249/246: auto basis + equal grow */
   header .menu-nav > li.menu-main {
     display: flex;
     flex: 1 1 auto;
@@ -337,75 +401,225 @@ header .btn-primary:hover {
     height: 100%;
   }
 
+  /* the source label box: padding 10, a 4px bottom border that turns brand red while its panel is open */
   header .menu-nav-mainitem {
     display: flex;
     flex: 1 1 auto;
     align-items: center;
     justify-content: center;
     width: auto;
+    border-bottom: 4px solid transparent;
     padding: 10px;
     font-size: 0.95rem;
     line-height: normal;
+    text-align: center;
+    text-transform: none;
   }
 
-  header .menu-nav-mainitem::after {
+  header .menu-nav-mainitem .icon {
     display: none;
   }
 
-  header .menu-nav-mainitem:hover,
   header .menu-nav-mainitem[aria-expanded="true"] {
-    color: var(--color-red);
+    border-bottom-color: var(--color-red);
+    color: var(--color-darkgrey);
   }
 
-  /* mega-menu panel: hidden at rest; opens on hover (no gap: the li spans the row) or on the button */
-  header .menu-nav > li.menu-main > .submenu {
-    display: none;
+  /* mega-menu panel (source .nav_v2_wrapper): full width under the header row, opened on click only.
+     Left column = the level-2 list in flow (it sets the panel height); level 3 and the teaser column
+     are placed absolutely against the panel (JS grows the panel when level 3 is taller). */
+  header .menu-nav-mainitem[aria-expanded="true"] + .submenu.lvl-0 {
+    --mega-teaser-w: clamp(220px, 22.2%, 320px);
+
     position: absolute;
-    top: 100%;
-    left: 0;
-    right: 0;
-    z-index: 1;
-    flex-wrap: wrap;
-    gap: 24px 32px;
-    padding: 24px 32px 32px 191px;
-    border-top: 1px solid var(--color-lightgrey);
-    border-bottom: 1px solid var(--color-lightgrey);
-    background: var(--color-white);
-    box-shadow: 0 8px 16px rgb(34 34 34 / 15%);
+    inset: 100% 0 auto;
+    overflow: visible;
+    padding: 54px 0 0 5%;
+    background: var(--color-shadegrey);
+    font-size: 0.95rem;
     text-align: left;
   }
 
-  header .menu-nav > li.menu-main:hover > .submenu,
-  header .menu-nav > li.menu-main > [aria-expanded="true"] + .submenu {
-    display: flex;
-  }
-
   header .menu-nav .submenu.lvl-0 > li {
-    flex: 0 1 220px;
-    line-height: 1.5;
+    width: 302px;
+    border-bottom: 1px solid var(--color-white);
+    font-size: 0.95rem;
+    line-height: 35px;
   }
 
-  header .menu-nav .submenu.lvl-0 > li > .menu-nav-subitem {
-    margin-bottom: 8px;
+  header .menu-nav .submenu.lvl-0 > li:last-child,
+  header .menu-nav .submenu.lvl-0 > li:has(+ .menu-teaser) {
+    border-bottom: 0;
+  }
+
+  /* "Products >" / "New Industrial Trucks >" overview headings */
+  header .menu-nav .submenu > li.menu-back {
+    height: 45px;
+    margin-bottom: 17px;
+    border-bottom: 0;
+    padding: 0;
+    text-align: left;
+  }
+
+  header .menu-back-btn,
+  header .menu-nav .submenu.lvl-0 > li.menu-overview {
+    display: none;
+  }
+
+  header .menu-heading {
+    display: inline-block;
+    padding: 0 9px;
     font-family: var(--bold-font-family);
-    font-weight: 700;
+    line-height: 45px;
   }
 
-  header .menu-nav .submenu.lvl-1 {
-    padding-left: 0;
+  header .menu-heading .icon {
+    display: inline-block;
+  }
+
+  header .menu-heading:hover {
+    color: var(--color-red);
+  }
+
+  /* level-2 rows: thin white separators; a row with children shows ">" and opens level 3 */
+  header .menu-nav-subtoggle,
+  header .menu-nav .submenu.lvl-0 > li > .menu-nav-subitem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 9px 0 9px 9px;
+    line-height: 35px;
+    text-transform: none;
+  }
+
+  header .menu-nav-subtoggle .icon {
+    position: static;
+    color: inherit;
+  }
+
+  header .menu-nav-subtoggle:hover,
+  header .menu-nav-subtoggle[aria-expanded="true"],
+  header .menu-nav .submenu.lvl-0 > li > .menu-nav-subitem:hover {
+    background: var(--color-hover-lightgrey);
+    color: var(--color-red);
+  }
+
+  /* level 3 (source .nav_v2_level3): heading + links in two balanced columns */
+  header .menu-nav-subtoggle[aria-expanded="true"] ~ .submenu.lvl-1 {
+    display: grid;
+    position: absolute;
+    inset: 54px calc(5.2% + var(--mega-teaser-w)) auto calc(11% + 320px);
+    z-index: auto;
+    overflow: visible;
+    grid-auto-flow: column;
+    grid-template-columns: repeat(2, max-content);
+    grid-template-rows: auto repeat(var(--rows, 1), auto);
+    column-gap: 72px;
+    background: transparent;
   }
 
   header .menu-nav .submenu.lvl-1 > li {
-    line-height: 1.5;
+    border: 0;
+    line-height: 1;
+  }
+
+  header .menu-nav .submenu.lvl-1 > li.menu-back {
+    grid-column: 1 / -1;
+    margin-bottom: 27px;
   }
 
   header .menu-nav .submenu.lvl-1 .menu-nav-subitem {
-    padding: 4px 0;
-    font-size: 0.875rem;
+    display: inline-block;
+    width: auto;
+    padding: 9px;
+    line-height: 1;
+    text-transform: none;
   }
 
-  header .menu-nav .submenu.lvl-2 {
-    display: none;
+  /* teaser column (source .nav_v2_level35): right, separated by a white rule down to the panel bottom */
+  header .menu-nav .submenu.lvl-0 > li.menu-teaser {
+    display: block;
+    position: absolute;
+    top: 54px;
+    right: 5.2%;
+    bottom: 0;
+    width: var(--mega-teaser-w);
+    border: 0;
+    border-left: 1px solid var(--color-white);
+    padding: 0 27px;
+  }
+
+  header .nav-wrapper .menu-teaser-label {
+    margin: 0 0 18px;
+    font-family: var(--bold-font-family);
+    font-size: 0.78rem;
+    line-height: 45px;
+  }
+
+  header .menu-teaser-links {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  header .menu-nav .menu-teaser-links > li {
+    margin-bottom: 9px;
+    border: 0;
+    line-height: 18px;
+  }
+
+  header .menu-teaser-link {
+    color: var(--color-textgrey);
+    font-size: 0.95rem;
+  }
+
+  header .menu-teaser-link:hover {
+    color: var(--color-red);
+  }
+
+  /* "Close menu ×" (source .nav_v2_close) */
+  header .menu-nav .submenu.lvl-0 > li.menu-close {
+    display: block;
+    position: absolute;
+    top: 18px;
+    right: 36px;
+    width: auto;
+    border: 0;
+  }
+
+  header .menu-close-btn {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background: transparent;
+    color: var(--color-darkgrey);
+    font: inherit;
+    font-size: 0.78rem;
+    line-height: 27px;
+    cursor: pointer;
+  }
+
+  header .menu-close-btn:hover {
+    color: var(--color-red);
+  }
+
+  /* page dimmed behind the open panel (source: white 80 % outline around the menu) */
+  header .header.block.megamenu-open::before,
+  header .header.block.megamenu-open .navigation-meta::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    background: rgb(255 255 255 / 80%);
+  }
+
+  header .header.block.megamenu-open .navigation-meta::after {
+    position: absolute;
+    z-index: 1;
+    pointer-events: none;
   }
 
   /* meta strip: the 33px grey bar inside the 48px top band */

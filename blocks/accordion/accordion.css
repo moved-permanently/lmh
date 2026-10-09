@@ -36,7 +36,6 @@
   margin: 0;
   font-size: 1.25rem;
   line-height: 1.25;
-  letter-spacing: -0.016em;
 }
 
 @media (width >= 640px) {
@@ -172,7 +171,6 @@
 .accordion .accordion-item-text p {
   font-size: 0.95rem;
   line-height: 1.75;
-  letter-spacing: -0.003em;
 }
 
 .accordion .accordion-item-text p + p {
