@@ -8,8 +8,9 @@
  * The migrated look is kept (pf-* classes: selector tab, filter rail, tiles, result count);
  * compare / watch list and the Rental tab are gone.
  */
+import { loadCSS } from '../../scripts/aem.js';
 import {
-  cardModel, loadIndex, populate, renderNotice, rowTexts,
+  CARD_STYLES, cardModel, loadIndex, populate, renderNotice, rowTexts,
 } from '../../scripts/catalog.js';
 import {
   activeFilterCount, buildFacets, filterRows, finderRows, initialState, parseFinderConfig,
@@ -349,6 +350,7 @@ function buildFinder(block, index, config) {
 export default function decorate(block) {
   const config = parseFinderConfig(rowTexts(block));
   block.textContent = '';
+  loadCSS(`${window.hlx.codeBasePath}${CARD_STYLES}`);
   populate(block, async () => {
     const index = await loadIndex();
     if (!index.rows.some((r) => r.kind === 'model')) {

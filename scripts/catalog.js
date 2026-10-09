@@ -21,15 +21,16 @@ const FETCH_TIMEOUT_MS = 10000;
 /* ---------------------------------------------------------------- origin & sources */
 
 /**
- * The catalogue origin: same origin on *.aem.network (where the Product Bus is routed), the main
- * network origin everywhere else (.aem.page / .aem.live / localhost).
+ * The catalogue origin is always the page's own origin: the Product Bus answers without CORS
+ * headers, so only pages on *.aem.network (where /en/catalog/** is routed to it) can read it.
  * @param {Location|URL} [loc]
  * @returns {string}
  */
 export function catalogOrigin(loc = globalThis.location) {
-  if (loc && loc.hostname && loc.hostname.endsWith('.aem.network')) return loc.origin;
-  return DEFAULT_ORIGIN;
+  return loc && loc.origin && loc.origin !== 'null' ? loc.origin : DEFAULT_ORIGIN;
 }
+
+const isNetworkHost = (loc) => Boolean(loc && loc.hostname && loc.hostname.endsWith('.aem.network'));
 
 /**
  * Dev-only switch: `?catalog=fixture` on localhost reads the committed test fixtures instead of the
@@ -61,10 +62,40 @@ export function catalogSources(loc = globalThis.location) {
   return {
     fixture,
     origin,
-    imageBase: origin,
+    available: fixture || isNetworkHost(loc),
+    // fixture images are absolute; anything relative would only exist on the delivery host
+    imageBase: fixture ? DEFAULT_ORIGIN : origin,
     indexUrl: fixture ? fixtureUrl('/en/catalog/index') : `${origin}${INDEX_PATH}`,
     productUrl: (path) => (fixture ? fixtureUrl(path) : `${origin}${path}.json`),
   };
+}
+
+/**
+ * Catalogue data renders on the delivery host (*.aem.network) and, for local work, with the
+ * localhost fixture switch. Everywhere else nothing is fetched.
+ * @param {Location|URL} [loc]
+ */
+export function catalogAvailable(loc = globalThis.location) {
+  return isNetworkHost(loc) || isFixtureMode(loc);
+}
+
+/**
+ * The same page on the delivery host: .aem.page / .aem.live become .aem.network (branch kept);
+ * any other host links to the main delivery origin.
+ * @param {Location|URL} [loc]
+ */
+export function deliveryUrl(loc = globalThis.location) {
+  const tail = `${loc.pathname}${loc.search}${loc.hash}`;
+  const host = loc.host.replace(/\.aem\.(page|live)$/, '.aem.network');
+  if (host !== loc.host) return `https://${host}${tail}`;
+  return `${DEFAULT_ORIGIN}${tail}`;
+}
+
+/** rejection used when the page is not on a host that can read the catalogue */
+function unavailable() {
+  const e = new Error('catalogue data is shown on the delivery host (*.aem.network)');
+  e.code = 'unavailable';
+  return Promise.reject(e);
 }
 
 /* ---------------------------------------------------------------- index */
@@ -177,6 +208,7 @@ export function resetCatalogCache() {
  */
 export function loadIndex(opts = {}) {
   const sources = catalogSources(opts.location || globalThis.location);
+  if (!sources.available) return unavailable();
   const key = `index:${sources.indexUrl}`;
   if (!cache.has(key)) {
     const p = fetchCompleteIndex(sources.indexUrl, opts.fetch || globalThis.fetch)
@@ -273,6 +305,7 @@ export async function getByCategory(id, opts) {
  */
 export function getProduct(path, opts = {}) {
   const sources = catalogSources(opts.location || globalThis.location);
+  if (!sources.available) return unavailable();
   const url = sources.productUrl(path);
   const key = `product:${url}`;
   if (!cache.has(key)) {
@@ -516,6 +549,22 @@ export function rowTexts(block) {
   return [...block.children].map((row) => (row.firstElementChild || row).textContent.trim());
 }
 
+/**
+ * Off the delivery host (.aem.page / .aem.live / plain localhost) catalogue blocks render this
+ * small notice instead of data — nothing is fetched, so nothing fails in the console.
+ * @param {HTMLElement} block
+ */
+export function renderDeliveryNotice(block) {
+  block.textContent = '';
+  block.classList.remove('catalog-loading');
+  const box = el('div', 'catalog-delivery');
+  const a = el('a', '', 'Open this page on the delivery host');
+  a.href = deliveryUrl();
+  box.append(el('p', 'catalog-delivery-text', 'Product data is shown on the delivery host.'), el('p', 'catalog-delivery-link'));
+  box.lastElementChild.append(a);
+  block.append(box);
+}
+
 /** The shared card stylesheet (blocks pass it to aem.js loadCSS). */
 export const CARD_STYLES = '/styles/product-card.css';
 
@@ -535,6 +584,10 @@ export function placeholderItem(message) {
  * @param {() => Promise<void>} task
  */
 export function populate(block, task) {
+  if (!catalogAvailable()) {
+    renderDeliveryNotice(block);
+    return Promise.resolve();
+  }
   block.classList.add('catalog-loading');
   block.setAttribute('aria-busy', 'true');
   return Promise.resolve()

@@ -8,7 +8,9 @@
  * stored or forwarded. Opened standalone (no SDK), the browser is read-only.
  */
 /* eslint-disable no-use-before-define -- render() and the panels call each other by design */
-import { catalogSources, loadIndex, resetCatalogCache } from '../../scripts/catalog.js';
+import {
+  catalogSources, deliveryUrl, loadIndex, resetCatalogCache,
+} from '../../scripts/catalog.js';
 import {
   categoryGroups, categoryPreview, dataSummary, insertContext, listItem, productTypes,
   searchProducts, toggleSelection,
@@ -264,6 +266,16 @@ function categoriesPanel() {
 /* ---------------------------------------------------------------- shell */
 
 function errorPanel() {
+  if (loadError.code === 'unavailable') {
+    // the Product Bus has no CORS: the browser only reads the catalogue on *.aem.network
+    return el(
+      'section',
+      { class: 'cb-panel cb-error', role: 'status' },
+      el('h2', {}, 'Product data is shown on the delivery host'),
+      el('p', {}, 'This page is not on *.aem.network, so the catalogue is not loaded here.'),
+      el('p', {}, el('a', { href: deliveryUrl(), target: '_blank', rel: 'noopener' }, 'Open the Catalogue Browser on the delivery host')),
+    );
+  }
   const offline = loadError instanceof TypeError || /fetch|network|abort|timed? ?out/i.test(loadError.message);
   const title = offline ? 'Cannot reach the Product Bus' : 'The catalogue index could not be read';
   const detail = offline
