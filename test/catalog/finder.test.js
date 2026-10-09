@@ -12,6 +12,7 @@ import {
   buildFacets,
   matchesQuery,
   activeFilterCount,
+  categoryFromSearch,
 } from '../../blocks/product-finder/finder-model.js';
 
 const fixture = JSON.parse(readFileSync(new URL('../fixtures/catalog/index.json', import.meta.url)));
@@ -46,6 +47,17 @@ describe('config', () => {
     assert.deepEqual(initialState({ category: null }).types, []);
     assert.equal(activeFilterCount(initialState({ category: 'model:2375' })), 1);
     assert.equal(activeFilterCount(emptyState()), 0);
+  });
+});
+
+describe('URL preselection', () => {
+  test('?type=model:<id> and the legacy finder link ?productTypes[]=<id> preselect a type', () => {
+    assert.equal(categoryFromSearch('?type=model:2375'), 'model:2375');
+    assert.equal(categoryFromSearch('?productTypes[]=2374&offerType=new'), 'model:2374');
+    assert.equal(categoryFromSearch('?productTypes%5B%5D=2374'), 'model:2374');
+    assert.equal(categoryFromSearch(''), null);
+    assert.equal(categoryFromSearch('?type=shop:stackers'), null);
+    assert.equal(categoryFromSearch('?productTypes[]=abc'), null);
   });
 });
 

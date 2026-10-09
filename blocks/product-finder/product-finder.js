@@ -13,7 +13,8 @@ import {
   CARD_STYLES, cardModel, loadIndex, populate, renderNotice, rowTexts,
 } from '../../scripts/catalog.js';
 import {
-  activeFilterCount, buildFacets, filterRows, finderRows, initialState, parseFinderConfig,
+  activeFilterCount, buildFacets, categoryFromSearch, filterRows, finderRows, initialState,
+  parseFinderConfig,
 } from './finder-model.js';
 
 const PAGE_SIZE = 24;
@@ -348,7 +349,9 @@ function buildFinder(block, index, config) {
 }
 
 export default function decorate(block) {
-  const config = parseFinderConfig(rowTexts(block));
+  const authored = parseFinderConfig(rowTexts(block));
+  // a link such as ?productTypes[]=2374 ("Show all pallet stackers") wins over the block config
+  const config = { category: categoryFromSearch(window.location.search) || authored.category };
   block.textContent = '';
   loadCSS(`${window.hlx.codeBasePath}${CARD_STYLES}`);
   populate(block, async () => {
