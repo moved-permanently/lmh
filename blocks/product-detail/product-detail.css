@@ -1,0 +1,384 @@
+/* stylelint-disable no-descending-specificity -- rules are grouped by component, not by cascade */
+
+/* product-detail — LMH product page for Product Bus entries, after the source product hero
+   (linde-mh.com/en/Products/E-Trucks/E10/): light-grey band with eyebrow (type › name), name and
+   stacked CTAs on the left, the truck in the middle, key facts on the right; anchor row below. */
+.product-detail-container .product-detail-wrapper {
+  max-width: none;
+  padding: 0;
+}
+
+.product-detail {
+  width: 100%;
+}
+
+.product-detail .icon {
+  font-family: var(--icon-font-family);
+  font-style: normal;
+}
+
+.product-detail .pd-icon-right::before { content: "\f153"; }
+.product-detail .pd-icon-loadcapacity::before { content: "\f189"; }
+.product-detail .pd-icon-height::before { content: "\f123"; }
+.product-detail .pd-icon-drivetype::before { content: "\f11a"; }
+.product-detail .pd-icon-application::before { content: "\f112"; }
+.product-detail .pd-icon-explosionproof::before { content: "\f19b"; }
+
+/* hero band */
+.product-detail .pd-hero {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 0 0 24px;
+  background: var(--color-lightgrey);
+}
+
+.product-detail .pd-gallery {
+  order: -1;
+}
+
+.product-detail .pd-stage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 4 / 3;
+  max-height: 60vh;
+  margin: 0 auto;
+}
+
+.product-detail .pd-stage picture,
+.product-detail .pd-stage img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  mix-blend-mode: multiply;
+}
+
+.product-detail .pd-thumbs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  padding: 8px 16px 0;
+}
+
+.product-detail .pd-thumb {
+  width: 56px;
+  height: 56px;
+  padding: 2px;
+  border: 2px solid transparent;
+  background: var(--color-white);
+  cursor: pointer;
+}
+
+.product-detail .pd-thumb[aria-pressed="true"] {
+  border-color: var(--color-red);
+}
+
+.product-detail .pd-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.product-detail .pd-info {
+  padding: 0 16px;
+}
+
+.product-detail .pd-eyebrow {
+  min-height: 1.5em;
+  margin: 0 0 4px;
+  font-family: var(--bold-font-family);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.product-detail .pd-type {
+  color: var(--color-red);
+}
+
+.product-detail .pd-eyebrow .icon {
+  margin: 0 4px;
+  font-size: 14px;
+  vertical-align: -1px;
+}
+
+.product-detail .pd-info h1 {
+  margin: 0 0 16px;
+  font-size: 2rem;
+  line-height: 1.15;
+}
+
+.product-detail .pd-price {
+  margin: 0 0 16px;
+  color: var(--color-black);
+  line-height: 1.4;
+}
+
+.product-detail .pd-price-amount {
+  font-family: var(--bold-font-family);
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+.product-detail .pd-price-prefix,
+.product-detail .pd-price-suffix,
+.product-detail .pd-price-regular {
+  color: var(--color-textgrey);
+  font-size: 0.9rem;
+}
+
+.product-detail .pd-price-on-request {
+  font-family: var(--bold-font-family);
+  font-size: 1.2rem;
+}
+
+.product-detail .pd-ctas {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-width: 420px;
+}
+
+.product-detail a.pd-cta {
+  display: block;
+  padding: 8px 16px;
+  border: 1px solid var(--color-white);
+  background: var(--color-white);
+  color: var(--color-darkgrey);
+  font-size: 0.95rem;
+  line-height: 30px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.product-detail a.pd-cta:hover {
+  color: var(--color-red);
+}
+
+.product-detail a.pd-cta-primary {
+  border-color: var(--color-red);
+  background: var(--color-red);
+  color: var(--color-white);
+}
+
+.product-detail a.pd-cta-primary:hover {
+  border-color: var(--color-primary-700);
+  background: var(--color-primary-700);
+  color: var(--color-white);
+}
+
+.product-detail .pd-facts {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px 16px;
+  margin: 0;
+  padding: 0 16px;
+  list-style: none;
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
+.product-detail .pd-fact {
+  display: grid;
+  grid-template-columns: 28px 1fr;
+  align-items: start;
+}
+
+.product-detail .pd-fact .icon {
+  grid-row: span 2;
+  font-size: 20px;
+  line-height: 1;
+}
+
+.product-detail .pd-fact-label {
+  color: var(--color-textgrey);
+  font-size: 0.75rem;
+}
+
+.product-detail .pd-fact-value {
+  color: var(--color-black);
+}
+
+/* anchor row */
+.product-detail .pd-anchors {
+  display: flex;
+  justify-content: center;
+  gap: 8px 32px;
+  padding: 0 16px;
+  border-bottom: 1px solid var(--color-lightgrey);
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.product-detail .pd-anchors:empty {
+  display: none;
+}
+
+.product-detail .pd-anchors a {
+  flex: 0 0 auto;
+  padding: 14px 0;
+  color: var(--color-darkgrey);
+  font-size: 0.85rem;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.product-detail .pd-anchors a:hover {
+  color: var(--color-red);
+}
+
+/* body sections in the 640–960 text column */
+.product-detail .pd-body {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 16px 48px;
+}
+
+.product-detail .pd-section {
+  padding-top: 40px;
+  scroll-margin-top: 160px;
+}
+
+.product-detail .pd-section-title {
+  margin: 0 0 16px;
+  font-size: 1.5rem;
+  line-height: 1.25;
+}
+
+.product-detail .pd-spec-title {
+  margin: 24px 0 8px;
+  font-size: 1.1rem;
+}
+
+.product-detail .pd-text p {
+  margin: 0 0 1em;
+  line-height: 1.75;
+}
+
+.product-detail .pd-bullets {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.product-detail .pd-bullets li {
+  position: relative;
+  margin: 0 0 0.35em;
+  padding-left: 1.125em;
+  line-height: 1.5;
+}
+
+.product-detail .pd-bullets li::before {
+  content: "–";
+  position: absolute;
+  left: 0;
+  color: var(--color-red);
+}
+
+.product-detail .pd-highlights {
+  columns: 2 280px;
+  column-gap: 32px;
+}
+
+.product-detail .pd-specs {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.product-detail .pd-specs th,
+.product-detail .pd-specs td {
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--color-lightgrey);
+  text-align: left;
+  vertical-align: top;
+}
+
+.product-detail .pd-specs tbody th {
+  width: 35%;
+  color: var(--color-textgrey);
+  font-weight: 400;
+}
+
+.product-detail .pd-specs thead th {
+  color: var(--color-textgrey);
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+.product-detail .pd-specs tbody tr:nth-child(odd) {
+  background: var(--color-hover-lightgrey);
+}
+
+.product-detail .pd-variants tbody th {
+  color: var(--color-black);
+}
+
+.product-detail .pd-sku {
+  font-family: ui-monospace, monospace;
+  font-size: 0.8rem;
+  white-space: nowrap;
+}
+
+.product-detail .pd-closing {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-top: 48px;
+  padding: 24px;
+  background: var(--color-red);
+  color: var(--color-white);
+}
+
+.product-detail .pd-closing-text {
+  margin: 0;
+  font-family: var(--bold-font-family);
+  font-size: 1.33rem;
+}
+
+.product-detail .pd-closing a.pd-cta-primary {
+  border-color: var(--color-white);
+  background: var(--color-white);
+  color: var(--color-red);
+}
+
+@media (width >= 1024px) {
+  .product-detail .pd-hero {
+    display: grid;
+    grid-template-columns: minmax(0, 30fr) minmax(0, 45fr) minmax(0, 25fr);
+    align-items: center;
+    gap: 32px;
+    padding: 48px 5vw;
+  }
+
+  .product-detail .pd-gallery {
+    order: 0;
+  }
+
+  .product-detail .pd-hero.pd-hero-no-facts {
+    grid-template-columns: minmax(0, 35fr) minmax(0, 65fr);
+  }
+
+  .product-detail .pd-hero-no-facts .pd-facts {
+    display: none;
+  }
+
+  .product-detail .pd-info {
+    padding: 0;
+  }
+
+  .product-detail .pd-info h1 {
+    font-size: clamp(2rem, 3.2vw, 3rem);
+  }
+
+  .product-detail .pd-facts {
+    grid-template-columns: 1fr;
+    padding: 0;
+    font-size: 0.95rem;
+  }
+}

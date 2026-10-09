@@ -74,6 +74,45 @@ function buildWidgetAutoBlocks(main) {
 }
 
 /**
+ * Product Bus product pages (/en/catalog/models/<slug>, /en/catalog/shop/<code>) arrive as the
+ * generic pipeline markup (h1 + pictures, the description, one section per variant). They become
+ * a breadcrumb and the product-detail block, which reads the product data from {path}.json.
+ * @param {Element} main The container element
+ */
+function buildProductDetail(main) {
+  const { pathname } = window.location;
+  if (!/^\/en\/catalog\/(models|shop)\/[^/.]+$/.test(pathname)) return;
+  if (!document.querySelector('meta[name="sku"]')) return;
+  const h1 = main.querySelector('h1');
+  if (!h1) return;
+  const [first, second] = main.children;
+  const pictures = [...first.querySelectorAll('picture')];
+  const description = second && !second.classList.contains('section')
+    ? [...second.children].filter((n) => n.textContent.trim()) : [];
+  const crumbs = document.createElement('ul');
+  const shop = pathname.includes('/catalog/shop/');
+  [['Products', '/en/products'], shop ? null : ['Product Finder', '/en/products/productfinder'], [h1.textContent.trim()]]
+    .filter(Boolean)
+    .forEach(([label, href]) => {
+      const li = document.createElement('li');
+      if (href) {
+        const a = document.createElement('a');
+        a.href = href;
+        a.textContent = label;
+        li.append(a);
+      } else li.textContent = label;
+      crumbs.append(li);
+    });
+  const breadcrumb = document.createElement('div');
+  breadcrumb.append(buildBlock('breadcrumb', [[crumbs]]));
+  const detail = document.createElement('div');
+  detail.append(buildBlock('product-detail', [[h1], [{ elems: pictures }], [{ elems: description }]]));
+  main.textContent = '';
+  main.append(breadcrumb, detail);
+  document.body.classList.add('pdp');
+}
+
+/**
  * Builds all synthetic blocks in a container element.
  * @param {Element} main The container element
  */
@@ -96,6 +135,7 @@ function buildAutoBlocks(main) {
         });
       });
     }
+    buildProductDetail(main);
     buildWidgetAutoBlocks(main);
   } catch (error) {
     // eslint-disable-next-line no-console
