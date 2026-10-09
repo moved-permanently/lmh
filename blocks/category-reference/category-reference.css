@@ -1,0 +1,12 @@
+/* category-reference — the grid and cards are styles/product-card.css */
+.category-reference {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.category-reference .category-reference-title {
+  margin: 0 0 2rem;
+  font-size: 2rem;
+  line-height: 1.25;
+  text-align: center;
+}

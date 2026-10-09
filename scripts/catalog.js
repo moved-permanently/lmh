@@ -405,12 +405,12 @@ function el(tag, className, text) {
  * The shared product card (brand styles: styles/product-card.css, from the migrated finder
  * tiles). Primary link: the Product Bus page (relative `row.path`); shop items add the Linde Shop.
  * @param {object} row
- * @param {{base?: string, headingLevel?: number}} [opts]
+ * @param {{base?: string, headingLevel?: number, wide?: boolean}} [opts]
  * @returns {HTMLElement}
  */
 export function renderProductCard(row, opts = {}) {
   const m = cardModel(row, opts.base || catalogSources().imageBase);
-  const card = el('article', `product-card product-card-${m.kind || 'item'}`);
+  const card = el('article', `product-card product-card-${m.kind || 'item'}${opts.wide ? ' product-card-wide' : ''}`);
   card.dataset.sku = m.sku;
   const media = el(m.href ? 'a' : 'div', 'product-card-media');
   if (m.href) {
@@ -456,13 +456,12 @@ export function renderProductCard(row, opts = {}) {
     else {
       if (m.price.prefix) p.append(el('span', 'product-card-price-prefix', m.price.prefix.trim()), ' ');
       p.append(el('strong', 'product-card-price-amount', m.price.amount));
+      if (m.price.suffix) p.append(' ', el('span', 'product-card-price-suffix', m.price.suffix));
       if (m.price.regular) {
-        p.append(' ');
         const s = el('s', 'product-card-price-regular', m.price.regular);
         s.setAttribute('aria-label', `was ${m.price.regular}`);
-        p.append(s);
+        p.append(' ', s);
       }
-      if (m.price.suffix) p.append(' ', el('span', 'product-card-price-suffix', m.price.suffix));
     }
     body.append(p);
   }
@@ -517,12 +516,32 @@ export function rowTexts(block) {
   return [...block.children].map((row) => (row.firstElementChild || row).textContent.trim());
 }
 
-/** Adds the shared card stylesheet once. */
-export function loadCardStyles() {
-  const href = `${window.hlx?.codeBasePath || ''}/styles/product-card.css`;
-  if (document.querySelector(`link[href="${href}"]`)) return;
-  const link = document.createElement('link');
-  link.rel = 'stylesheet';
-  link.href = href;
-  document.head.append(link);
+/** The shared card stylesheet (blocks pass it to aem.js loadCSS). */
+export const CARD_STYLES = '/styles/product-card.css';
+
+/** A dashed author placeholder (or nothing on the published site) for one unknown item. */
+export function placeholderItem(message) {
+  // eslint-disable-next-line no-console
+  console.warn(`[catalog] ${message}`);
+  if (!isAuthorView()) return null;
+  return el('p', 'catalog-placeholder', message);
+}
+
+/**
+ * Fills a block from the catalogue without blocking the page: the section renders at once, the
+ * cards arrive when the index does; a failed load becomes the explicit notice (placeholder on
+ * .page / localhost, hidden + console warning on the published site).
+ * @param {HTMLElement} block
+ * @param {() => Promise<void>} task
+ */
+export function populate(block, task) {
+  block.classList.add('catalog-loading');
+  block.setAttribute('aria-busy', 'true');
+  return Promise.resolve()
+    .then(task)
+    .catch((e) => renderNotice(block, `Catalogue unavailable (${e.message})`))
+    .finally(() => {
+      block.classList.remove('catalog-loading');
+      block.removeAttribute('aria-busy');
+    });
 }

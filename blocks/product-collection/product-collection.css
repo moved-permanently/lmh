@@ -1,0 +1,5 @@
+/* product-collection — the grid and cards are styles/product-card.css */
+.product-collection {
+  max-width: 1200px;
+  margin: 0 auto;
+}
