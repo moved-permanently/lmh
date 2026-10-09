@@ -685,3 +685,12 @@ main .section.article > .default-content-wrapper ol > li::before {
 }
 
 /* stylelint-enable no-descending-specificity */
+
+/* Product Bus product pages (marker: <meta name="sku">): the pipeline's server markup carries a raw
+   price paragraph ("$1950.00 ($2100.00)", USD sign) after the h1 and after each variant h2. Hidden
+   from first paint (and for non-JS renders) so only the product-detail block's GBP price line ever
+   shows; the child combinators only match the undecorated markup, never the decorated block. */
+/* stylelint-disable-next-line no-descending-specificity -- Product Bus pages carry no .static sections */
+html:has(meta[name="sku"]) main > div > :is(h1, h2) + p:not(:has(picture, img)) {
+  display: none;
+}
