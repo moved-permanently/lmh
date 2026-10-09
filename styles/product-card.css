@@ -1,3 +1,5 @@
+/* stylelint-disable no-descending-specificity -- rules are grouped by component, not by cascade */
+
 /* styles/product-card.css — the shared Product Bus card (scripts/catalog.js renderProductCard) and
    its grid, styled after the migrated finder tiles (blocks/product-finder .pf-tile): square image
    over a light-grey panel, dark product-type badge, bold name, icon facts, red primary button.
@@ -232,4 +234,34 @@
   color: var(--color-textgrey);
   font-size: 0.85rem;
   line-height: 1.5;
+}
+
+/* off the delivery host: catalogue data only renders on *.aem.network (renderDeliveryNotice) */
+.catalog-delivery {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 16px 24px;
+  border-left: 4px solid var(--color-red);
+  background: var(--color-lightgrey);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.catalog-delivery p {
+  margin: 0;
+}
+
+.catalog-delivery-text {
+  color: var(--color-darkgrey);
+  font-family: var(--bold-font-family);
+}
+
+.catalog-delivery-link a {
+  color: var(--color-red);
+  text-decoration: underline;
 }
