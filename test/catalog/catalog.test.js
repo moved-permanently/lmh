@@ -343,7 +343,7 @@ describe('card model', () => {
     assert.equal(c.href, '/en/catalog/shop/ln-t14b-gb');
     assert.equal(c.eyebrow, 'Electric Pallet Trucks');
     assert.equal(c.price.text, 'from £1,950.00 excl. VAT');
-    assert.equal(c.shopUrl, 'https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-T14B-GB');
+    assert.equal(c.shopUrl, 'https://www.linde-mh.shop/en-gb/p/t14b/LN-T14B-GB');
     assert.deepEqual(c.facts, []);
     assert.equal(c.image, 'https://www.linde-mh.shop/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0001.png');
   });
