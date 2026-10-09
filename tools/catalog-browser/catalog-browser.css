@@ -1,7 +1,9 @@
+/* stylelint-disable no-descending-specificity -- rules are grouped by component, not by cascade */
+
 /* Catalogue Browser — compact DA / Experience Workspace right-rail plugin (~360px), Spectrum-like */
 :root {
   --cb-font: "adobe-clean", "Adobe Clean", system-ui, -apple-system, "Segoe UI", sans-serif;
-  --cb-mono: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  --cb-mono: ui-monospace, "SFMono-Regular", "Menlo", "Consolas", monospace;
   --cb-text: #222;
   --cb-subtle: #6e6e6e;
   --cb-border: #d5d5d5;
