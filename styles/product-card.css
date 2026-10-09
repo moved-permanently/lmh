@@ -39,6 +39,7 @@
   width: 86%;
   margin: 0 auto;
   aspect-ratio: 1 / 1;
+  mix-blend-mode: multiply; /* shop photos are shot on white: the panel grey shows through */
 }
 
 .product-card-media img {
@@ -47,7 +48,6 @@
   height: 100%;
   object-fit: contain;
   transform: translateY(5%);
-  mix-blend-mode: multiply; /* shop photos are shot on white: let the panel grey through */
 }
 
 .product-card-body {
