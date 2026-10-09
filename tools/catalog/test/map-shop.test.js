@@ -72,3 +72,9 @@ test('technical specs are structured name/value pairs per group', () => {
   assert.ok(tech);
   assert.ok(tech.features.some((f) => f.name === 'Load Capacity' && f.value));
 });
+
+test('image alt text is the English product name, not the shop altText (which can be German)', () => {
+  const raw = { ...t14b, images: [{ imageType: 'GALLERY', url: '/images/x.png', altText: 'Elektro-Gabelstapler' }] };
+  const e = mapShopProduct(raw);
+  assert.equal(e.images[0].label, 'T14 B Electric Pallet Truck (1400kg)');
+});
