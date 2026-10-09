@@ -155,3 +155,5 @@ export function buildFacets(rows, state) {
     lift: bounds(rows, 'liftHeightMm'),
   };
 }
+
+export const categoryFromSearch = () => { throw new Error('categoryFromSearch: not implemented'); };
