@@ -1,0 +1,73 @@
+{
+ "sku": "p_n20-25_br4600-00",
+ "name": "N20 – N25",
+ "path": "/en/catalog/models/n20-n25",
+ "locale": "en",
+ "brand": "Linde Material Handling",
+ "productType": "Order Pickers",
+ "metaDescription": "Linde N20 – N25: Order Pickers, load capacity 2500 kg, lift height up to 215 mm.",
+ "images": [
+  {
+   "url": "https://www.linde-mh.com/media/3D_Product/turntables/07_Order-Pickers/BR4600_N20/BR4600_N20_00017_LINDE.png",
+   "label": "N20 – N25"
+  }
+ ],
+ "jsonld": "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"sku\":\"p_n20-25_br4600-00\",\"name\":\"N20 – N25\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Linde Material Handling\"},\"category\":\"Order Pickers\",\"image\":\"https://www.linde-mh.com/media/3D_Product/turntables/07_Order-Pickers/BR4600_N20/BR4600_N20_00017_LINDE.png\"}",
+ "custom": {
+  "catalogueKind": "model",
+  "productType": {
+   "id": "2371",
+   "name": "Order Pickers"
+  },
+  "categories": [
+   {
+    "id": "model:2371",
+    "name": "Order Pickers",
+    "kind": "model-type"
+   }
+  ],
+  "capacityKg": {
+   "min": 2500,
+   "max": 2500
+  },
+  "liftHeightMm": {
+   "min": 215,
+   "max": 215
+  },
+  "pickingHeightMm": 2800,
+  "driveTypes": [
+   "Battery",
+   "Li-Ion"
+  ],
+  "applications": [
+   {
+    "id": "2435",
+    "name": "Order Picking"
+   }
+  ],
+  "features": [
+   "Liftable operator's platform",
+   "Accessory Support",
+   "Pedestrian controls",
+   "Adjustable backrest with foldable driver’s seat",
+   "Linde BlueSpot",
+   "Pneumatically dampened driver’s platform",
+   "Height-adjustable Linde Steering Wheel",
+   "Linde Safety Guard with speed adjustment"
+  ],
+  "explosionProof": false,
+  "specs": {
+   "serviceWeight": "872 - 964 kg",
+   "width": "800 (mm)",
+   "length": "2433 - 3633 (mm)"
+  },
+  "sortWeight": 215,
+  "source": {
+   "system": "linde-mh.com/productfinder",
+   "id": "p_n20-25_br4600-00",
+   "productGroupId": 5353152,
+   "detailUrl": "https://www.linde-mh.com/en/Products/Order-Pickers/N20-N25/",
+   "url": "https://www.linde-mh.com/en/Products/Order-Pickers/N20-N25/"
+  }
+ }
+}

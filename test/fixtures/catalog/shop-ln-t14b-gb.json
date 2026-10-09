@@ -1,0 +1,253 @@
+{
+ "sku": "LN-T14B-GB",
+ "name": "T14 B Electric Pallet Truck (1400kg)",
+ "path": "/en/catalog/shop/ln-t14b-gb",
+ "locale": "en-GB",
+ "country": "gb",
+ "brand": "Linde Material Handling",
+ "description": "The T14B electric low lift pallet truck is a robust and reliable vehicle for light to medium-duty indoor applications. With a load capacity of 1.4 tonnes, it is ideal for transporting goods horizontally over short distances on firm ground. Thanks to the ergonomically designed Linde tiller head with its easy-to-operate controls and smooth but powerful driving characteristics, the low lift pallet truck enables precise and comfortable working. The easily accessible main components and the Linde diagnostic interface enable simple maintenance and fast repairs.",
+ "metaDescription": "Ergonomically designed tiller, Linde diagnostic interface, integrated charger and high availability.",
+ "images": [
+  {
+   "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0001.png",
+   "label": "T14 B Electric Pallet Truck (1400kg)"
+  },
+  {
+   "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0002.png",
+   "label": "T14 B Electric Pallet Truck (1400kg)"
+  },
+  {
+   "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0003.png",
+   "label": "T14 B Electric Pallet Truck (1400kg)"
+  },
+  {
+   "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0004.png",
+   "label": "T14 B Electric Pallet Truck (1400kg)"
+  },
+  {
+   "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0005.png",
+   "label": "T14 B Electric Pallet Truck (1400kg)"
+  },
+  {
+   "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/BR1132_T14B_Facelift_0006.jpg",
+   "label": "T14 B Electric Pallet Truck (1400kg)"
+  }
+ ],
+ "price": {
+  "final": "1950.00",
+  "currency": "GBP",
+  "regular": "2100.00"
+ },
+ "variants": [
+  {
+   "sku": "LN-T14B-GB-001",
+   "name": "T14 B Electric Pallet Truck (1400kg) – 560mm x 1000mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/t14b/LN-T14B-GB?variant=LN-T14B-GB-001",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0001.png",
+     "label": "T14 B Electric Pallet Truck (1400kg)"
+    }
+   ],
+   "price": {
+    "final": "1950.00",
+    "currency": "GBP",
+    "regular": "2100.00"
+   },
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "560mm x 1000mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-T14B-GB-002",
+   "name": "T14 B Electric Pallet Truck (1400kg) – 560mm x 1150 mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/t14b/LN-T14B-GB?variant=LN-T14B-GB-002",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0001.png",
+     "label": "T14 B Electric Pallet Truck (1400kg)"
+    }
+   ],
+   "price": {
+    "final": "1950.00",
+    "currency": "GBP",
+    "regular": "2100.00"
+   },
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "560mm x 1150 mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-T14B-GB-003",
+   "name": "T14 B Electric Pallet Truck (1400kg) – 685mm x 1000mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/t14b/LN-T14B-GB?variant=LN-T14B-GB-003",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0001.png",
+     "label": "T14 B Electric Pallet Truck (1400kg)"
+    }
+   ],
+   "price": {
+    "final": "1950.00",
+    "currency": "GBP",
+    "regular": "2100.00"
+   },
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "685mm x 1000mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-T14B-GB-004",
+   "name": "T14 B Electric Pallet Truck (1400kg) – 685mm x 1150mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/t14b/LN-T14B-GB?variant=LN-T14B-GB-004",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0001.png",
+     "label": "T14 B Electric Pallet Truck (1400kg)"
+    }
+   ],
+   "price": {
+    "final": "1950.00",
+    "currency": "GBP",
+    "regular": "2100.00"
+   },
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "685mm x 1150mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  }
+ ],
+ "custom": {
+  "catalogueKind": "shop",
+  "categories": [
+   {
+    "id": "shop:all_products",
+    "name": "All New Products",
+    "kind": "shop-category",
+    "url": "https://www.linde-mh.shop/en-gb/c/all-products",
+    "position": 1
+   },
+   {
+    "id": "shop:low_lift_pallet_trucks",
+    "name": "Electric Pallet Trucks",
+    "kind": "shop-category",
+    "url": "https://www.linde-mh.shop/en-gb/c/electric-pallet-trucks",
+    "position": 2
+   }
+  ],
+  "pricePolicy": {
+   "type": "FROM",
+   "net": true,
+   "onRequest": false
+  },
+  "specs": [
+   {
+    "id": "benefits",
+    "name": "Advantages",
+    "features": [
+     {
+      "name": "Handling",
+      "value": "* Powerful power delivery thanks to energy-efficient electric motor *Travelling speed up to 5 km/h* High gradeability up to 16 % (unloaded)* Creep speed function for precise manoeuvring even in the tightest of spaces* Smooth acceleration thanks to innovative control system* Integrated charger enables intermediate charging regardless of location"
+     },
+     {
+      "name": "Security",
+      "value": "* Maximum stability thanks to special support castor system* Automatic parking brake prevents unintentional rolling away* Starting aid enables safe starting on inclines and ramps* Long, low drawbar ensures a safe distance between the operator and vehicle* Collision sensor stops the vehicle if there is a risk of entrapment"
+     },
+     {
+      "name": "Safety",
+      "value": "* Maximum stability thanks to special support castor system\n* Automatic parking brake prevents unintentional rolling away\n* Starting aid enables safe starting on inclines and ramps\n* Long, low drawbar ensures a safe distance between the operator and vehicle\n* Collision sensor stops the vehicle if there is a risk of entrapment"
+     },
+     {
+      "name": "Service",
+      "value": "* Robust design for high availability and low maintenance costs* Easy access to relevant components enables quick and uncomplicated maintenance* Fast fault diagnosis thanks to CAN bus architecture* Direct data access via central service diagnostics interface"
+     },
+     {
+      "name": "Ergonomic",
+      "value": "* Ergonomic Linde tiller head for a natural hand position* Effortless working thanks to easily accessible controls* Vehicle can be operated with left or right hand* Electric lifting and lowering of the forks for comfortable load handling* Display of important vehicle information via a ‘display’ integrated in the tiller head"
+     }
+    ]
+   },
+   {
+    "id": "technicalDetails",
+    "name": "Technical Details",
+    "features": [
+     {
+      "name": "Fork Length",
+      "value": "1150",
+      "unit": "mm"
+     },
+     {
+      "name": "Load Capacity",
+      "value": "1400",
+      "unit": "kg"
+     },
+     {
+      "name": "Lifting Height",
+      "value": "115",
+      "unit": "mm"
+     },
+     {
+      "name": "Drive",
+      "value": "Electric"
+     },
+     {
+      "name": "Battery",
+      "value": "48 Volt"
+     },
+     {
+      "name": "Fork Width",
+      "value": "560",
+      "unit": "mm"
+     },
+     {
+      "name": "Service Weight",
+      "value": "175",
+      "unit": "kg"
+     },
+     {
+      "name": "Motor",
+      "value": "1 kW",
+      "unit": "kW"
+     },
+     {
+      "name": "Driving Speed With / Without Load",
+      "value": "4,5",
+      "unit": "km/h"
+     }
+    ]
+   }
+  ],
+  "usps": "* Compact electric pallet truck for light to medium-duty indoor applications.\nIndoor use\n* Rated load capacity 1.4 tonnes, ideal for horizontal goods transport\n* Ideal for short-distance use in retail, warehousing and production supply\nProduction supply\n* Precise and comfortable operation thanks to ergonomic design\n* High availability thanks to an operating time of 3 - 4 hours per battery charge\n* Charged in 2 hours thanks to integrated charger",
+  "applications": "Retail, supermarkets, warehouse, production supply",
+  "salesCategory": "LOW_LIFT_TRUCKS",
+  "source": {
+   "system": "linde-mh.shop/occ",
+   "baseSite": "baseSite-LMH-GB-NTS",
+   "id": "LN-T14B-GB",
+   "url": "https://www.linde-mh.shop/en-gb/p/t14b/LN-T14B-GB"
+  }
+ }
+}

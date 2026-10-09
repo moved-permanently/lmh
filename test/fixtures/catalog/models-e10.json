@@ -1,0 +1,76 @@
+{
+ "sku": "p_e10_8917-01",
+ "name": "E10",
+ "path": "/en/catalog/models/e10",
+ "locale": "en",
+ "brand": "Linde Material Handling",
+ "productType": "Electric Forklifts",
+ "metaDescription": "Linde E10: Electric Forklifts, load capacity 1000 kg, lift height up to 5400 mm.",
+ "images": [
+  {
+   "url": "https://www.linde-mh.com/media/Global-Content/01-Products/01_E-Trucks_E-Stapler/01_Products_Produkte/e_truck-E10-4557_3958.png",
+   "label": "E10"
+  }
+ ],
+ "jsonld": "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"sku\":\"p_e10_8917-01\",\"name\":\"E10\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Linde Material Handling\"},\"category\":\"Electric Forklifts\",\"image\":\"https://www.linde-mh.com/media/Global-Content/01-Products/01_E-Trucks_E-Stapler/01_Products_Produkte/e_truck-E10-4557_3958.png\"}",
+ "custom": {
+  "catalogueKind": "model",
+  "productType": {
+   "id": "2377",
+   "name": "Electric Forklifts"
+  },
+  "categories": [
+   {
+    "id": "model:2377",
+    "name": "Electric Forklifts",
+    "kind": "model-type"
+   }
+  ],
+  "capacityKg": {
+   "min": 1000,
+   "max": 1000
+  },
+  "liftHeightMm": {
+   "min": 5400,
+   "max": 5400
+  },
+  "driveTypes": [
+   "Battery",
+   "Li-Ion"
+  ],
+  "applications": [
+   {
+    "id": "2434",
+    "name": "Narrow Aisle"
+   },
+   {
+    "id": "2432",
+    "name": "Double Deck"
+   }
+  ],
+  "features": [
+   "Fork arm positioner",
+   "Armored glass panoramic roof",
+   "Dual-command control",
+   "Linde BlueSpot™",
+   "Linde TruckSpot™",
+   "Lateral battery change",
+   "Linde Fleet Management",
+   "Storage compartment"
+  ],
+  "explosionProof": false,
+  "specs": {
+   "serviceWeight": "2198 - 2238 kg",
+   "width": "828 (mm)",
+   "length": "2604 (mm)"
+  },
+  "sortWeight": 1017,
+  "source": {
+   "system": "linde-mh.com/productfinder",
+   "id": "p_e10_8917-01",
+   "productGroupId": 3317508,
+   "detailUrl": "https://www.linde-mh.com/en/Products/E-Trucks/E10/",
+   "url": "https://www.linde-mh.com/en/Products/E-Trucks/E10/"
+  }
+ }
+}

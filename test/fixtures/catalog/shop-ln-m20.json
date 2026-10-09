@@ -1,0 +1,1047 @@
+{
+ "sku": "LN-M20",
+ "name": "Linde M20 Hand Pallet Truck (2000Kg)",
+ "path": "/en/catalog/shop/ln-m20",
+ "locale": "en-GB",
+ "country": "gb",
+ "brand": "Linde Material Handling",
+ "description": "Introduction- The versatile Linde Hand Pallet Truck range is designed for ecomonical and efficient palletised load handling in a wide variety of applications such as lorry loading/unloading and internal load transfer. Its rugged construction and simple controls provide a durable, easy to use manual handling solution and can be found in virtually every type of industry working in conjunction with powered mobile equipment.   \n\nPerformance- Up to 100 degrees tiller arm sweep to either side and lead in rollers, the Linde Hand Pallet Truck makes light work of palletised load handling. The tiller arm is sprung loaded to the vertical position. The hydraulic pump unit is protected and sealed from the enviroment for consistant reliability. Load and steer wheel tyre options ensure the truck can be matched to individual applications.\n\nEasy of Use- The low pivoting tiller arm is designed to place the operator at a comfortable and safe distance from the truck when walking or maneuvring and has a simple lever control. The operators hands are protected by a robust hand guard.\n\nDurability And Safety- The torsion resistant contruction of the chassis and durable powder coat finish ensure that these trucks provide a safe reliable performance, day in, day out.   \n\nApplications Large And Small- Whether the application is large or small, the ubiquitous hand pallet truck is an ever present link in the supply chain, carrying out a host of tasks too numerous to list and plays its part in enhancing the efficient movement of goods.",
+ "metaDescription": "The Linde M20, tiller controlled hand pallet truck. Highly maneuverable and ideally suited to cost-effective loading/unloading, and short to medium distance pallet transfer.",
+ "images": [
+  {
+   "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "label": "linde_m20_1.jpg"
+  },
+  {
+   "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_2.jpg",
+   "label": "linde_m20_2.jpg"
+  },
+  {
+   "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_5.jpg",
+   "label": "linde_m20_5.jpg"
+  },
+  {
+   "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_6.jpg",
+   "label": "linde_m20_6.jpg"
+  },
+  {
+   "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_9.jpg",
+   "label": "linde_m20_9.jpg"
+  }
+ ],
+ "variants": [
+  {
+   "sku": "LN-M20-001",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1000mm – Single Nylon – Nylon",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-001",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1000mm"
+    },
+    {
+     "id": "load_wheels",
+     "value": "Single Nylon"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Nylon"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-002",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1000mm – Tandem Nylon – Nylon",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-002",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1000mm"
+    },
+    {
+     "id": "load_wheels",
+     "value": "Tandem Nylon"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Nylon"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-003",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1000mm – Polyurethane – Polyurethane",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-003",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1000mm"
+    },
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Polyurethane"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-004",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1000mm – Polyurethane Tandem – Polyurethane",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-004",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1000mm"
+    },
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane Tandem"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Polyurethane"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-005",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1000mm – Polyurethane – Rubber",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-005",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1000mm"
+    },
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Rubber"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-006",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1000mm – Polyurethane Tandem – Rubber",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-006",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1000mm"
+    },
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane Tandem"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Rubber"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-007",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1000mm – Anti Static – Rubber",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-007",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1000mm"
+    },
+    {
+     "id": "load_wheels",
+     "value": "Anti Static"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Rubber"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-008",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Single Nylon – Nylon – 540mm x 1150mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-008",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "load_wheels",
+     "value": "Single Nylon"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Nylon"
+    },
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1150mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-009",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Tandem Nylon – Nylon – 540mm x 1150mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-009",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "load_wheels",
+     "value": "Tandem Nylon"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Nylon"
+    },
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1150mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-010",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Polyurethane – Polyurethane – 540mm x 1150mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-010",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Polyurethane"
+    },
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1150mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-011",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Polyurethane Tandem – Polyurethane – 540mm x 1150mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-011",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane Tandem"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Polyurethane"
+    },
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1150mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-012",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Polyurethane – Rubber – 540mm x 1150mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-012",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Rubber"
+    },
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1150mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-013",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Polyurethane Tandem – Rubber – 540mm x 1150mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-013",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane Tandem"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Rubber"
+    },
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1150mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-014",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Anti Static – Rubber – 540mm x 1150mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-014",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "load_wheels",
+     "value": "Anti Static"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Rubber"
+    },
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1150mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-015",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1220mm – Single Nylon – Nylon",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-015",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1220mm"
+    },
+    {
+     "id": "load_wheels",
+     "value": "Single Nylon"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Nylon"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-016",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1220mm – Tandem Nylon – Nylon",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-016",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1220mm"
+    },
+    {
+     "id": "load_wheels",
+     "value": "Tandem Nylon"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Nylon"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-017",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1220mm – Polyurethane – Polyurethane",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-017",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1220mm"
+    },
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Polyurethane"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-018",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1220mm – Polyurethane Tandem – Polyurethane",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-018",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1220mm"
+    },
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane Tandem"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Polyurethane"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-019",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1220mm – Polyurethane – Rubber",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-019",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1220mm"
+    },
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Rubber"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-020",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1220mm – Polyurethane Tandem – Rubber",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-020",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1220mm"
+    },
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane Tandem"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Rubber"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-021",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1220mm – Anti Static – Rubber",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-021",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "540mm x 1220mm"
+    },
+    {
+     "id": "load_wheels",
+     "value": "Anti Static"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Rubber"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-022",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Single Nylon – Nylon – 685mm x 1000mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-022",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "load_wheels",
+     "value": "Single Nylon"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Nylon"
+    },
+    {
+     "id": "Fork_Size",
+     "value": "685mm x 1000mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-023",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Tandem Nylon – Nylon – 685mm x 1000mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-023",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "load_wheels",
+     "value": "Tandem Nylon"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Nylon"
+    },
+    {
+     "id": "Fork_Size",
+     "value": "685mm x 1000mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-024",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Polyurethane – Polyurethane – 685mm x 1000mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-024",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Polyurethane"
+    },
+    {
+     "id": "Fork_Size",
+     "value": "685mm x 1000mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-025",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Polyurethane Tandem – Polyurethane – 685mm x 1000mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-025",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane Tandem"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Polyurethane"
+    },
+    {
+     "id": "Fork_Size",
+     "value": "685mm x 1000mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-026",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Polyurethane – Rubber – 685mm x 1000mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-026",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Rubber"
+    },
+    {
+     "id": "Fork_Size",
+     "value": "685mm x 1000mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-027",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Polyurethane Tandem – Rubber – 685mm x 1000mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-027",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane Tandem"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Rubber"
+    },
+    {
+     "id": "Fork_Size",
+     "value": "685mm x 1000mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-028",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Anti Static – Rubber – 685mm x 1000mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-028",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "load_wheels",
+     "value": "Anti Static"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Rubber"
+    },
+    {
+     "id": "Fork_Size",
+     "value": "685mm x 1000mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-029",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Single Nylon – 685mm x 1220mm – Nylon",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-029",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "load_wheels",
+     "value": "Single Nylon"
+    },
+    {
+     "id": "Fork_Size",
+     "value": "685mm x 1220mm"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Nylon"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-030",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Tandem Nylon – Nylon – 685mm x 1220mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-030",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "load_wheels",
+     "value": "Tandem Nylon"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Nylon"
+    },
+    {
+     "id": "Fork_Size",
+     "value": "685mm x 1220mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-031",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Polyurethane – Polyurethane – 685mm x 1220mm",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-031",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Polyurethane"
+    },
+    {
+     "id": "Fork_Size",
+     "value": "685mm x 1220mm"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-032",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 685mm x 1220mm – Polyurethane Tandem – Polyurethane",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-032",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "685mm x 1220mm"
+    },
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane Tandem"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Polyurethane"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-033",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 685mm x 1220mm – Polyurethane – Rubber",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-033",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "685mm x 1220mm"
+    },
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Rubber"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-034",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 685mm x 1220mm – Polyurethane Tandem – Rubber",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-034",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "685mm x 1220mm"
+    },
+    {
+     "id": "load_wheels",
+     "value": "Polyurethane Tandem"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Rubber"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  },
+  {
+   "sku": "LN-M20-035",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 685mm x 1220mm – Anti Static – Rubber",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-035",
+   "images": [
+    {
+     "url": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+     "label": "linde_m20_1.jpg"
+    }
+   ],
+   "options": [
+    {
+     "id": "Fork_Size",
+     "value": "685mm x 1220mm"
+    },
+    {
+     "id": "load_wheels",
+     "value": "Anti Static"
+    },
+    {
+     "id": "steer_wheel",
+     "value": "Rubber"
+    }
+   ],
+   "custom": {
+    "stockLevelStatus": "inStock"
+   }
+  }
+ ],
+ "custom": {
+  "catalogueKind": "shop",
+  "categories": [
+   {
+    "id": "shop:all_products",
+    "name": "All New Products",
+    "kind": "shop-category",
+    "url": "https://www.linde-mh.shop/en-gb/c/all-products",
+    "position": 1
+   },
+   {
+    "id": "shop:hand_pallet_trucks",
+    "name": "Manual Pallet Trucks",
+    "kind": "shop-category",
+    "url": "https://www.linde-mh.shop/en-gb/c/manual-pallet-trucks",
+    "position": 3
+   }
+  ],
+  "pricePolicy": {
+   "type": "FROM",
+   "net": true,
+   "onRequest": true
+  },
+  "usps": "* Torsion resistant chassis design\n* Solid push rods\n* Sealed hydraulic units\n* 12 months warranty\n* Lead in rollers for easy entry\n* Tapered fork tips for easy entry through shrink wrapping",
+  "applications": "Areas of application: production, transport & distribution, trade & warehouse",
+  "salesCategory": "HAND_PALLET_TRUCKS",
+  "source": {
+   "system": "linde-mh.shop/occ",
+   "baseSite": "baseSite-LMH-GB-NTS",
+   "id": "LN-M20",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20"
+  }
+ }
+}

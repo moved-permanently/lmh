@@ -1,0 +1,5780 @@
+{
+ ":type": "sheet",
+ "total": 198,
+ "offset": 0,
+ "limit": 198,
+ "columns": [
+  "sku",
+  "url",
+  "name",
+  "path",
+  "image",
+  "imageAlt",
+  "price",
+  "regularPrice",
+  "currency",
+  "description",
+  "kind",
+  "categories",
+  "productType",
+  "capacityKg",
+  "liftHeightMm",
+  "pickingHeightMm",
+  "driveTypes",
+  "applications",
+  "explosionProof",
+  "sortWeight",
+  "pricePolicy",
+  "sourceUrl",
+  "parentSku",
+  "variantSkus"
+ ],
+ "data": [
+  {
+   "sku": "LN-M20",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg)",
+   "path": "/en/catalog/shop/ln-m20",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg",
+   "description": "The Linde M20, tiller controlled hand pallet truck. Highly maneuverable and ideally suited to cost-effective loading/unloading, and short to medium distance pallet transfer.",
+   "kind": "shop",
+   "categories": [
+    {
+     "id": "shop:all_products",
+     "name": "All New Products",
+     "kind": "shop-category",
+     "url": "https://www.linde-mh.shop/en-gb/c/all-products",
+     "position": 1
+    },
+    {
+     "id": "shop:hand_pallet_trucks",
+     "name": "Manual Pallet Trucks",
+     "kind": "shop-category",
+     "url": "https://www.linde-mh.shop/en-gb/c/manual-pallet-trucks",
+     "position": 3
+    }
+   ],
+   "applications": "Areas of application: production, transport & distribution, trade & warehouse",
+   "pricePolicy": {
+    "type": "FROM",
+    "net": true,
+    "onRequest": true
+   },
+   "sourceUrl": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20",
+   "variantSkus": "LN-M20-001,LN-M20-002,LN-M20-003,LN-M20-004,LN-M20-005,LN-M20-006,LN-M20-007,LN-M20-008,LN-M20-009,LN-M20-010,LN-M20-011,LN-M20-012,LN-M20-013,LN-M20-014,LN-M20-015,LN-M20-016,LN-M20-017,LN-M20-018,LN-M20-019,LN-M20-020,LN-M20-021,LN-M20-022,LN-M20-023,LN-M20-024,LN-M20-025,LN-M20-026,LN-M20-027,LN-M20-028,LN-M20-029,LN-M20-030,LN-M20-031,LN-M20-032,LN-M20-033,LN-M20-034,LN-M20-035"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-001",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-001",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1000mm – Single Nylon – Nylon",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-002",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-002",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1000mm – Tandem Nylon – Nylon",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-003",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-003",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1000mm – Polyurethane – Polyurethane",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-004",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-004",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1000mm – Polyurethane Tandem – Polyurethane",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-005",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-005",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1000mm – Polyurethane – Rubber",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-006",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-006",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1000mm – Polyurethane Tandem – Rubber",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-007",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-007",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1000mm – Anti Static – Rubber",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-008",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-008",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Single Nylon – Nylon – 540mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-009",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-009",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Tandem Nylon – Nylon – 540mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-010",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-010",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Polyurethane – Polyurethane – 540mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-011",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-011",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Polyurethane Tandem – Polyurethane – 540mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-012",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-012",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Polyurethane – Rubber – 540mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-013",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-013",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Polyurethane Tandem – Rubber – 540mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-014",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-014",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Anti Static – Rubber – 540mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-015",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-015",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1220mm – Single Nylon – Nylon",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-016",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-016",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1220mm – Tandem Nylon – Nylon",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-017",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-017",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1220mm – Polyurethane – Polyurethane",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-018",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-018",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1220mm – Polyurethane Tandem – Polyurethane",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-019",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-019",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1220mm – Polyurethane – Rubber",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-020",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-020",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1220mm – Polyurethane Tandem – Rubber",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-021",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-021",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 540mm x 1220mm – Anti Static – Rubber",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-022",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-022",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Single Nylon – Nylon – 685mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-023",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-023",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Tandem Nylon – Nylon – 685mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-024",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-024",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Polyurethane – Polyurethane – 685mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-025",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-025",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Polyurethane Tandem – Polyurethane – 685mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-026",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-026",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Polyurethane – Rubber – 685mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-027",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-027",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Polyurethane Tandem – Rubber – 685mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-028",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-028",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Anti Static – Rubber – 685mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-029",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-029",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Single Nylon – 685mm x 1220mm – Nylon",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-030",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-030",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Tandem Nylon – Nylon – 685mm x 1220mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-031",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-031",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – Polyurethane – Polyurethane – 685mm x 1220mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-032",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-032",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 685mm x 1220mm – Polyurethane Tandem – Polyurethane",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-033",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-033",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 685mm x 1220mm – Polyurethane – Rubber",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-034",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-034",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 685mm x 1220mm – Polyurethane Tandem – Rubber",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "parentSku": "LN-M20",
+   "sku": "LN-M20-035",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M20?variant=LN-M20-035",
+   "name": "Linde M20 Hand Pallet Truck (2000Kg) – 685mm x 1220mm – Anti Static – Rubber",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m20_1.jpg",
+   "imageAlt": "linde_m20_1.jpg"
+  },
+  {
+   "sku": "LN-M25",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg)",
+   "path": "/en/catalog/shop/ln-m25",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg",
+   "description": "The Linde M25, tiller controlled hand pallet truck. Highly maneuverable and ideally suited to cost-effective loading/unloading, and short to medium distance pallet transfer.",
+   "kind": "shop",
+   "categories": [
+    {
+     "id": "shop:all_products",
+     "name": "All New Products",
+     "kind": "shop-category",
+     "url": "https://www.linde-mh.shop/en-gb/c/all-products",
+     "position": 1
+    },
+    {
+     "id": "shop:hand_pallet_trucks",
+     "name": "Manual Pallet Trucks",
+     "kind": "shop-category",
+     "url": "https://www.linde-mh.shop/en-gb/c/manual-pallet-trucks",
+     "position": 3
+    }
+   ],
+   "applications": "Areas of application: production, transport & distribution, trade & warehouse",
+   "pricePolicy": {
+    "type": "FROM",
+    "net": true,
+    "onRequest": true
+   },
+   "sourceUrl": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25",
+   "variantSkus": "LN-M25-001,LN-M25-002,LN-M25-003,LN-M25-004,LN-M25-005,LN-M25-006,LN-M25-007,LN-M25-008,LN-M25-009,LN-M25-010,LN-M25-011,LN-M25-012,LN-M25-013,LN-M25-014,LN-M25-015,LN-M25-016,LN-M25-017,LN-M25-018,LN-M25-019,LN-M25-020,LN-M25-021,LN-M25-022,LN-M25-023,LN-M25-024,LN-M25-025,LN-M25-026,LN-M25-027,LN-M25-028,LN-M25-029,LN-M25-030,LN-M25-031,LN-M25-032,LN-M25-033,LN-M25-034,LN-M25-035,LN-M25-036,LN-M25-037,LN-M25-038,LN-M25-039,LN-M25-040,LN-M25-041,LN-M25-042,LN-M25-043,LN-M25-044,LN-M25-045"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-001",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-001",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 540mm x 1000mm – Single Nylon – Nylon",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-002",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-002",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 540mm x 1000mm – Tandem Nylon – Nylon",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-003",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-003",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 540mm x 1000mm – Polyurethane – Polyurethane",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-004",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-004",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 540mm x 1000mm – Polyurethane Tandem – Polyurethane",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-005",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-005",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 540mm x 1000mm – Polyurethane – Rubber",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-006",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-006",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 540mm x 1000mm – Polyurethane Tandem – Rubber",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-007",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-007",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 540mm x 1000mm – Anti Static – Rubber",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-008",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-008",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 540mm x 1000mm – Steel – Steel",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-009",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-009",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 540mm x 1000mm – Tandem Steel – Steel",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-010",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-010",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – Single Nylon – Nylon – 540mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-011",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-011",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – Tandem Nylon – Nylon – 540mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-012",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-012",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – Polyurethane – Polyurethane – 540mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-013",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-013",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – Polyurethane Tandem – Polyurethane – 540mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-014",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-014",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – Polyurethane – Rubber – 540mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-015",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-015",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – Polyurethane Tandem – Rubber – 540mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-016",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-016",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – Anti Static – Rubber – 540mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-017",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-017",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – Steel – Steel – 540mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-018",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-018",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – Tandem Steel – Steel – 540mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-019",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-019",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 540mm x 1220mm – Single Nylon – Nylon",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-020",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-020",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 540mm x 1220mm – Tandem Nylon – Nylon",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-021",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-021",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 540mm x 1220mm – Polyurethane – Polyurethane",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-022",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-022",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 540mm x 1220mm – Polyurethane Tandem – Polyurethane",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-023",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-023",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 540mm x 1220mm – Polyurethane – Rubber",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-024",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-024",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 540mm x 1220mm – Polyurethane Tandem – Rubber",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-025",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-025",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 540mm x 1220mm – Anti Static – Rubber",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-026",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-026",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 540mm x 1220mm – Steel – Steel",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-027",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-027",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 540mm x 1220mm – Tandem Steel – Steel",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-028",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-028",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – Single Nylon – Nylon – 685mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-029",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-029",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – Tandem Nylon – Nylon – 685mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-030",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-030",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – Polyurethane – Polyurethane – 685mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-031",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-031",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – Polyurethane Tandem – Polyurethane – 685mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-032",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-032",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – Polyurethane – Rubber – 685mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-033",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-033",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – Polyurethane Tandem – Rubber – 685mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-034",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-034",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – Anti Static – Rubber – 685mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-035",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-035",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – Steel – Steel – 685mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-036",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-036",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – Tandem Steel – Steel – 685mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-037",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-037",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 685mm x 1220mm – Single Nylon – Nylon",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-038",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-038",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 685mm x 1220mm – Tandem Nylon – Nylon",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-039",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-039",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 685mm x 1220mm – Polyurethane – Polyurethane",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-040",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-040",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 685mm x 1220mm – Polyurethane Tandem – Polyurethane",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-041",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-041",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 685mm x 1220mm – Polyurethane – Rubber",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-042",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-042",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 685mm x 1220mm – Polyurethane Tandem – Rubber",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-043",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-043",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 685mm x 1220mm – Anti Static – Rubber",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-044",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-044",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 685mm x 1220mm – Steel – Steel",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "parentSku": "LN-M25",
+   "sku": "LN-M25-045",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M25?variant=LN-M25-045",
+   "name": "Linde M25 Hand Pallet Truck (2500Kg) – 685mm x 1220mm – Tandem Steel – Steel",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m25_1.jpg",
+   "imageAlt": "linde_m25_1.jpg"
+  },
+  {
+   "sku": "LN-M303000HDHPT",
+   "name": "Linde M30 3000Kg Heavy Duty Hand Pallet Truck (3000kg)",
+   "path": "/en/catalog/shop/ln-m303000hdhpt",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m30_1.jpg",
+   "imageAlt": "linde_m30_1.jpg",
+   "description": "The Linde M30 Heavy Duty, tiller controlled hand pallet truck. Highly maneuverable and ideally suited to cost-effective loading/unloading for more heavy loads up to 3000kgs. Short to medium distance pallet transfer.",
+   "kind": "shop",
+   "categories": [
+    {
+     "id": "shop:all_products",
+     "name": "All New Products",
+     "kind": "shop-category",
+     "url": "https://www.linde-mh.shop/en-gb/c/all-products",
+     "position": 1
+    },
+    {
+     "id": "shop:hand_pallet_trucks",
+     "name": "Manual Pallet Trucks",
+     "kind": "shop-category",
+     "url": "https://www.linde-mh.shop/en-gb/c/manual-pallet-trucks",
+     "position": 3
+    }
+   ],
+   "applications": "Areas of application: production, transport & distribution, trade & warehouse",
+   "pricePolicy": {
+    "type": "FROM",
+    "net": true,
+    "onRequest": true
+   },
+   "sourceUrl": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M303000HDHPT",
+   "variantSkus": "LN-M303000HPT-001,LN-M303000HPT-002"
+  },
+  {
+   "parentSku": "LN-M303000HDHPT",
+   "sku": "LN-M303000HPT-001",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M303000HDHPT?variant=LN-M303000HPT-001",
+   "name": "Linde M30 3000Kg Heavy Duty Hand Pallet Truck (3000kg) – Tandem Nylon – Nylon – 540mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m30_1.jpg",
+   "imageAlt": "linde_m30_1.jpg"
+  },
+  {
+   "parentSku": "LN-M303000HDHPT",
+   "sku": "LN-M303000HPT-002",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-pallet-trucks/LN-M303000HDHPT?variant=LN-M303000HPT-002",
+   "name": "Linde M30 3000Kg Heavy Duty Hand Pallet Truck (3000kg) – Tandem Steel – Steel – 540mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/linde_m30_1.jpg",
+   "imageAlt": "linde_m30_1.jpg"
+  },
+  {
+   "sku": "LN-ML10",
+   "name": "ML10 Electric Pallet Stacker (1000Kg)",
+   "path": "/en/catalog/shop/ln-ml10",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/ML10_00001_01.jpg",
+   "imageAlt": "ML10 Electric Pallet Stacker (1000Kg)",
+   "description": "Electric powered, pedestrian controlled pallet stacker for handling open bottomed (Euro) pallets and stillages",
+   "kind": "shop",
+   "categories": [
+    {
+     "id": "shop:all_products",
+     "name": "All New Products",
+     "kind": "shop-category",
+     "url": "https://www.linde-mh.shop/en-gb/c/all-products",
+     "position": 1
+    },
+    {
+     "id": "shop:stackers",
+     "name": "Stackers",
+     "kind": "shop-category",
+     "url": "https://www.linde-mh.shop/en-gb/c/stackers",
+     "position": 1
+    }
+   ],
+   "applications": "A ‚wrap-over‘ fork stacker for handling open-bottomed (Euro) pallets and stillages\nML10 offers a highly cost-effective and productive solution for many applications requiring occasional stacking of loads up to 1000 kg\nUsed as a work bench, the ML10 eliminates any back strain as heavy components do not need to be lifted off the ground and the working height can be comfortably adjusted\nThe wide range of mast lift heights offers exception flexibiliy in achieving the correct specification for the task\nA maintenance-free gel battery allows fume-free operation in factories or other commercial premises",
+   "pricePolicy": {
+    "type": "FROM",
+    "net": true,
+    "onRequest": true
+   },
+   "sourceUrl": "https://www.linde-mh.shop/en-gb/p/ml10-electric-pallet-stacker---1000kg/LN-ML10",
+   "variantSkus": "LN-ML10-001"
+  },
+  {
+   "parentSku": "LN-ML10",
+   "sku": "LN-ML10-001",
+   "url": "https://www.linde-mh.shop/en-gb/p/ml10-electric-pallet-stacker---1000kg/LN-ML10?variant=LN-ML10-001",
+   "name": "ML10 Electric Pallet Stacker (1000Kg) – 2427 mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/ML10_00001_01.jpg",
+   "imageAlt": "ML10 Electric Pallet Stacker (1000Kg)"
+  },
+  {
+   "sku": "LN-MM10",
+   "name": "MM10 Electric Pallet Stacker  (1000Kg)",
+   "path": "/en/catalog/shop/ln-mm10",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/MM10_00001.jpg",
+   "imageAlt": "MM10 Electric Pallet Stacker  (1000Kg)",
+   "description": "Electric powered, pedestrian controlled pallet stacker for handling open bottomed (Euro) pallets and stillages",
+   "kind": "shop",
+   "categories": [
+    {
+     "id": "shop:all_products",
+     "name": "All New Products",
+     "kind": "shop-category",
+     "url": "https://www.linde-mh.shop/en-gb/c/all-products",
+     "position": 1
+    },
+    {
+     "id": "shop:stackers",
+     "name": "Stackers",
+     "kind": "shop-category",
+     "url": "https://www.linde-mh.shop/en-gb/c/stackers",
+     "position": 1
+    }
+   ],
+   "applications": "A light duty ‚wrap-over‘ fork stacker for handling open-bottomed (Euro) pallets and stillages\nMM10 offers a highly cost-effective and productive solution for many applications requiring occasional stacking of loads up to 1000 kg\nShort and medium distance load transfers within a warehouse or factory environment\nWhen used as a work bench, the MM10 eliminates any back strain as heavy components do not need to be lifted off the ground and the working height can be comfortably adjusted\nA maintenance-free gel battery allows fume-free operation in factories or other commercial premises",
+   "pricePolicy": {
+    "type": "FROM",
+    "net": true,
+    "onRequest": true
+   },
+   "sourceUrl": "https://www.linde-mh.shop/en-gb/p/mm10-electric-pallet-stacker---1000kg/LN-MM10",
+   "variantSkus": "LN-MM10-001"
+  },
+  {
+   "parentSku": "LN-MM10",
+   "sku": "LN-MM10-001",
+   "url": "https://www.linde-mh.shop/en-gb/p/mm10-electric-pallet-stacker---1000kg/LN-MM10?variant=LN-MM10-001",
+   "name": "MM10 Electric Pallet Stacker  (1000Kg) – 1517 mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/MM10_00001.jpg",
+   "imageAlt": "MM10 Electric Pallet Stacker  (1000Kg)"
+  },
+  {
+   "sku": "LN-MT15-C",
+   "name": "Linde MT15C Electric Pallet Truck",
+   "path": "/en/catalog/shop/ln-mt15-c",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/MT15C_Castor_Wheels_01.jpg",
+   "imageAlt": "MT15C_Castor_Wheels_01.jpg",
+   "description": "Compact chassis, ergonomic tiller head, powerful three-phase traction motor, long-life battery, customisable maximum speed. Light range low lift pallet truck for light duty applications and short distance transport.",
+   "kind": "shop",
+   "categories": [
+    {
+     "id": "shop:all_products",
+     "name": "All New Products",
+     "kind": "shop-category",
+     "url": "https://www.linde-mh.shop/en-gb/c/all-products",
+     "position": 1
+    },
+    {
+     "id": "shop:trucks",
+     "name": "Trucks",
+     "kind": "shop-category",
+     "url": "https://www.linde-mh.shop/en-gb/c/trucks",
+     "position": 2
+    },
+    {
+     "id": "shop:low_lift_pallet_trucks",
+     "name": "Electric Pallet Trucks",
+     "kind": "shop-category",
+     "url": "https://www.linde-mh.shop/en-gb/c/electric-pallet-trucks",
+     "position": 2
+    }
+   ],
+   "applications": "Transport & distribution, production, trade & warehousing",
+   "pricePolicy": {
+    "type": "FROM",
+    "net": true,
+    "onRequest": true
+   },
+   "sourceUrl": "https://www.linde-mh.shop/en-gb/p/linde-mt-15c-electric-pallet-truck/LN-MT15-C",
+   "variantSkus": "LN-MT15-C-001,LN-MT15-C-002,LN-MT15-C-003,LN-MT15-C-004"
+  },
+  {
+   "parentSku": "LN-MT15-C",
+   "sku": "LN-MT15-C-001",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-mt-15c-electric-pallet-truck/LN-MT15-C?variant=LN-MT15-C-001",
+   "name": "Linde MT15C Electric Pallet Truck – 560mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/MT15C_Castor_Wheels_01.jpg",
+   "imageAlt": "MT15C_Castor_Wheels_01.jpg"
+  },
+  {
+   "parentSku": "LN-MT15-C",
+   "sku": "LN-MT15-C-002",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-mt-15c-electric-pallet-truck/LN-MT15-C?variant=LN-MT15-C-002",
+   "name": "Linde MT15C Electric Pallet Truck – 560mm x 1150 mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/MT15C_Castor_Wheels_01.jpg",
+   "imageAlt": "MT15C_Castor_Wheels_01.jpg"
+  },
+  {
+   "parentSku": "LN-MT15-C",
+   "sku": "LN-MT15-C-003",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-mt-15c-electric-pallet-truck/LN-MT15-C?variant=LN-MT15-C-003",
+   "name": "Linde MT15C Electric Pallet Truck – 685mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/MT15C_Castor_Wheels_01.jpg",
+   "imageAlt": "MT15C_Castor_Wheels_01.jpg"
+  },
+  {
+   "parentSku": "LN-MT15-C",
+   "sku": "LN-MT15-C-004",
+   "url": "https://www.linde-mh.shop/en-gb/p/linde-mt-15c-electric-pallet-truck/LN-MT15-C?variant=LN-MT15-C-004",
+   "name": "Linde MT15C Electric Pallet Truck – 685mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/images/MT15C_Castor_Wheels_01.jpg",
+   "imageAlt": "MT15C_Castor_Wheels_01.jpg"
+  },
+  {
+   "sku": "LN-T14B-GB",
+   "name": "T14 B Electric Pallet Truck (1400kg)",
+   "path": "/en/catalog/shop/ln-t14b-gb",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0001.png",
+   "imageAlt": "T14 B Electric Pallet Truck (1400kg)",
+   "price": "1950.00",
+   "regularPrice": "2100.00",
+   "currency": "GBP",
+   "description": "Ergonomically designed tiller, Linde diagnostic interface, integrated charger and high availability.",
+   "kind": "shop",
+   "categories": [
+    {
+     "id": "shop:all_products",
+     "name": "All New Products",
+     "kind": "shop-category",
+     "url": "https://www.linde-mh.shop/en-gb/c/all-products",
+     "position": 1
+    },
+    {
+     "id": "shop:low_lift_pallet_trucks",
+     "name": "Electric Pallet Trucks",
+     "kind": "shop-category",
+     "url": "https://www.linde-mh.shop/en-gb/c/electric-pallet-trucks",
+     "position": 2
+    }
+   ],
+   "applications": "Retail, supermarkets, warehouse, production supply",
+   "pricePolicy": {
+    "type": "FROM",
+    "net": true,
+    "onRequest": false
+   },
+   "sourceUrl": "https://www.linde-mh.shop/en-gb/p/t14b/LN-T14B-GB",
+   "variantSkus": "LN-T14B-GB-001,LN-T14B-GB-002,LN-T14B-GB-003,LN-T14B-GB-004"
+  },
+  {
+   "parentSku": "LN-T14B-GB",
+   "sku": "LN-T14B-GB-001",
+   "url": "https://www.linde-mh.shop/en-gb/p/t14b/LN-T14B-GB?variant=LN-T14B-GB-001",
+   "name": "T14 B Electric Pallet Truck (1400kg) – 560mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0001.png",
+   "imageAlt": "T14 B Electric Pallet Truck (1400kg)",
+   "price": "1950.00",
+   "regularPrice": "2100.00",
+   "currency": "GBP"
+  },
+  {
+   "parentSku": "LN-T14B-GB",
+   "sku": "LN-T14B-GB-002",
+   "url": "https://www.linde-mh.shop/en-gb/p/t14b/LN-T14B-GB?variant=LN-T14B-GB-002",
+   "name": "T14 B Electric Pallet Truck (1400kg) – 560mm x 1150 mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0001.png",
+   "imageAlt": "T14 B Electric Pallet Truck (1400kg)",
+   "price": "1950.00",
+   "regularPrice": "2100.00",
+   "currency": "GBP"
+  },
+  {
+   "parentSku": "LN-T14B-GB",
+   "sku": "LN-T14B-GB-003",
+   "url": "https://www.linde-mh.shop/en-gb/p/t14b/LN-T14B-GB?variant=LN-T14B-GB-003",
+   "name": "T14 B Electric Pallet Truck (1400kg) – 685mm x 1000mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0001.png",
+   "imageAlt": "T14 B Electric Pallet Truck (1400kg)",
+   "price": "1950.00",
+   "regularPrice": "2100.00",
+   "currency": "GBP"
+  },
+  {
+   "parentSku": "LN-T14B-GB",
+   "sku": "LN-T14B-GB-004",
+   "url": "https://www.linde-mh.shop/en-gb/p/t14b/LN-T14B-GB?variant=LN-T14B-GB-004",
+   "name": "T14 B Electric Pallet Truck (1400kg) – 685mm x 1150mm",
+   "image": "https://www.linde-mh.shop/images/LMH-GB-NTS/products/BR1132_T14B-Facelift_0001.png",
+   "imageAlt": "T14 B Electric Pallet Truck (1400kg)",
+   "price": "1950.00",
+   "regularPrice": "2100.00",
+   "currency": "GBP"
+  },
+  {
+   "sku": "LN-T16",
+   "name": "T16 Electric Pallet Truck (1600kg)",
+   "path": "/en/catalog/shop/ln-t16",
+   "image": "https://www.linde-mh.shop/images/NP3/products/images/t16_001.jpg",
+   "imageAlt": "Elektro-Gabelstapler",
+   "description": "Heavy duty, electric powered, pedestrian controlled pallet truck for handling 800mm x 1200mm Euro pallets",
+   "kind": "shop",
+   "categories": [
+    {
+     "id": "shop:all_products",
+     "name": "All New Products",
+     "kind": "shop-category",
+     "url": "https://www.linde-mh.shop/en-gb/c/all-products",
+     "position": 1
+    },
+    {
+     "id": "shop:low_lift_pallet_trucks",
+     "name": "Electric Pallet Trucks",
+     "kind": "shop-category",
+     "url": "https://www.linde-mh.shop/en-gb/c/electric-pallet-trucks",
+     "position": 2
+    }
+   ],
+   "pricePolicy": {
+    "net": false,
+    "onRequest": true
+   },
+   "sourceUrl": "https://www.linde-mh.shop/en-gb/p/t16-electric-pallet-truck---1600kg/LN-T16"
+  },
+  {
+   "sku": "p_a_series5224",
+   "name": "A",
+   "path": "/en/catalog/models/a",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/05_Very-Narrow-Aisle-Trucks/BR5224_A/BR5224_A_BASIC_WEB_0000_LINDE.png",
+   "imageAlt": "A",
+   "description": "Linde A: Very Narrow Aisle Trucks, load capacity 1500 kg, lift height up to 12850 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2373",
+     "name": "Very Narrow Aisle Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2373",
+    "name": "Very Narrow Aisle Trucks"
+   },
+   "capacityKg": {
+    "min": 1500,
+    "max": 1500
+   },
+   "liftHeightMm": {
+    "min": 12500,
+    "max": 12850
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2434",
+     "name": "Narrow Aisle"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 402,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Very-Narrow-Aisle-Trucks/A/"
+  },
+  {
+   "sku": "p_c-matic_br892x",
+   "name": "C-MATIC",
+   "path": "/en/catalog/models/c-matic",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/11_Automated-Trucks/BR8925_C-MATIC-10_v2/BR8925_C-MATIC-10_00000_LINDE_v2.png",
+   "imageAlt": "C-MATIC",
+   "description": "Linde C-MATIC: Automated Trucks, load capacity 1000–1500 kg, lift height up to 60 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2368",
+     "name": "Automated Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2368",
+    "name": "Automated Trucks"
+   },
+   "capacityKg": {
+    "min": 1000,
+    "max": 1500
+   },
+   "liftHeightMm": {
+    "min": 0,
+    "max": 60
+   },
+   "driveTypes": [
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 13,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Automated-Trucks/C-MATIC/"
+  },
+  {
+   "sku": "p_c-matic_hp_br8928-01",
+   "name": "C-MATIC HP",
+   "path": "/en/catalog/models/c-matic-hp",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/11_Automated-Trucks/BR8928_C-MATIC-HP/BRXXXX_C-Matic-HP_00000.png",
+   "imageAlt": "C-MATIC HP",
+   "description": "Linde C-MATIC HP: Automated Trucks, load capacity 1000 kg, lift height up to 40 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2368",
+     "name": "Automated Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2368",
+    "name": "Automated Trucks"
+   },
+   "capacityKg": {
+    "min": 1000,
+    "max": 1000
+   },
+   "liftHeightMm": {
+    "min": 40,
+    "max": 40
+   },
+   "driveTypes": [
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 12,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Automated-Trucks/C-MATIC-HP/"
+  },
+  {
+   "sku": "p_d06-d10_br1162-00",
+   "name": "D06 – D10",
+   "path": "/en/catalog/models/d06-d10",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/04_Pallet-Stackers/BR1162_D10/BR1162-D10_00017.png",
+   "imageAlt": "D06 – D10",
+   "description": "Linde D06 – D10: Pallet Stackers, load capacity 2000 kg, lift height up to 2024 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2374",
+     "name": "Pallet Stackers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2374",
+    "name": "Pallet Stackers"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 2024,
+    "max": 2024
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    },
+    {
+     "id": "2434",
+     "name": "Narrow Aisle"
+    },
+    {
+     "id": "2432",
+     "name": "Double Deck"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 308,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Stackers/D06-D10/"
+  },
+  {
+   "sku": "p_d08M_br1162-00",
+   "name": "D08 M",
+   "path": "/en/catalog/models/d08-m",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/04_Pallet-Stackers/BR1162_D08-M/BR1162-D08M_00017.png",
+   "imageAlt": "D08 M",
+   "description": "Linde D08 M: Pallet Stackers, load capacity 1800 kg, lift height up to 1590 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2374",
+     "name": "Pallet Stackers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2374",
+    "name": "Pallet Stackers"
+   },
+   "capacityKg": {
+    "min": 1800,
+    "max": 1800
+   },
+   "liftHeightMm": {
+    "min": 1590,
+    "max": 1590
+   },
+   "driveTypes": [
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    },
+    {
+     "id": "2434",
+     "name": "Narrow Aisle"
+    },
+    {
+     "id": "2432",
+     "name": "Double Deck"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 307,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Stackers/D08-M/"
+  },
+  {
+   "sku": "p_d12-14sp_br1161-00",
+   "name": "D12 – D14 SP",
+   "path": "/en/catalog/models/d12-d14-sp",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/04_Pallet-Stackers/BR1161_D12-SP/D12_SP_WEB_0017_LINDE.png",
+   "imageAlt": "D12 – D14 SP",
+   "description": "Linde D12 – D14 SP: Pallet Stackers, load capacity 1400 kg, lift height up to 4266 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2374",
+     "name": "Pallet Stackers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2374",
+    "name": "Pallet Stackers"
+   },
+   "capacityKg": {
+    "min": 1400,
+    "max": 1400
+   },
+   "liftHeightMm": {
+    "min": 4266,
+    "max": 4266
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2432",
+     "name": "Double Deck"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 303,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Stackers/D12-D14-SP/"
+  },
+  {
+   "sku": "p_d12-d14_br1173-01",
+   "name": "D12 – D14",
+   "path": "/en/catalog/models/d12-d14",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/04_Pallet-Stackers/BR1173_D12/BR1173_D12_0017_LINDE.png",
+   "imageAlt": "D12 – D14",
+   "description": "Linde D12 – D14: Pallet Stackers, load capacity 2000 kg, lift height up to 4266 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2374",
+     "name": "Pallet Stackers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2374",
+    "name": "Pallet Stackers"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 3000,
+    "max": 4266
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2432",
+     "name": "Double Deck"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": true,
+   "sortWeight": 306,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Stackers/D12-D14/"
+  },
+  {
+   "sku": "p_d12ap-d14ap_br1173-01",
+   "name": "D12 – D14 AP",
+   "path": "/en/catalog/models/d12-d14-ap",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/04_Pallet-Stackers/BR1173_D12-AP_V2/BR1173_D12_AP_0017_Linde_v02.png",
+   "imageAlt": "D12 – D14 AP",
+   "description": "Linde D12 – D14 AP: Pallet Stackers, load capacity 2000 kg, lift height up to 4266 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2374",
+     "name": "Pallet Stackers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2374",
+    "name": "Pallet Stackers"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 3000,
+    "max": 4266
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2432",
+     "name": "Double Deck"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": true,
+   "sortWeight": 305,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Stackers/D12-D14-AP/"
+  },
+  {
+   "sku": "p_d12hp-ap_br1161-00",
+   "name": "D12 HP AP",
+   "path": "/en/catalog/models/d12-hp-ap",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/04_Pallet-Stackers/BR1161_D12-HP-AP/D12_HP_AP_WEB_0017_LINDE.png",
+   "imageAlt": "D12 HP AP",
+   "description": "Linde D12 HP AP: Pallet Stackers, load capacity 2000 kg, lift height up to 2424 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2374",
+     "name": "Pallet Stackers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2374",
+    "name": "Pallet Stackers"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 2424,
+    "max": 2424
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    },
+    {
+     "id": "2432",
+     "name": "Double Deck"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 304,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Stackers/D12-HP-AP/"
+  },
+  {
+   "sku": "p_d12hp-sp_br1161-00",
+   "name": "D12 HP SP",
+   "path": "/en/catalog/models/d12-hp-sp",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/04_Pallet-Stackers/BR1161_D12-HP-SP_N/D12_HP_SP_0017_LINDE.png",
+   "imageAlt": "D12 HP SP",
+   "description": "Linde D12 HP SP: Pallet Stackers, load capacity 2000 kg, lift height up to 2424 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2374",
+     "name": "Pallet Stackers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2374",
+    "name": "Pallet Stackers"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 2424,
+    "max": 2424
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    },
+    {
+     "id": "2432",
+     "name": "Double Deck"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 302,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Stackers/D12-HP-SP/"
+  },
+  {
+   "sku": "p_d12s-d12sf_br1164-03",
+   "name": "D12 S – D12 SF",
+   "path": "/en/catalog/models/d12-s-sf",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/04_Pallet-Stackers/BR1164_D12S/BR1164_D12S_00017.png",
+   "imageAlt": "D12 S – D12 SF",
+   "description": "Linde D12 S – D12 SF: Pallet Stackers, load capacity 1800 kg, lift height up to 1724 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2374",
+     "name": "Pallet Stackers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2374",
+    "name": "Pallet Stackers"
+   },
+   "capacityKg": {
+    "min": 1800,
+    "max": 1800
+   },
+   "liftHeightMm": {
+    "min": 1724,
+    "max": 1724
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2432",
+     "name": "Double Deck"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 301,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Stackers/D12-S-SF/"
+  },
+  {
+   "sku": "p_e10_8917-01",
+   "name": "E10",
+   "path": "/en/catalog/models/e10",
+   "image": "https://www.linde-mh.com/media/Global-Content/01-Products/01_E-Trucks_E-Stapler/01_Products_Produkte/e_truck-E10-4557_3958.png",
+   "imageAlt": "E10",
+   "description": "Linde E10: Electric Forklifts, load capacity 1000 kg, lift height up to 5400 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2377",
+     "name": "Electric Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2377",
+    "name": "Electric Forklifts"
+   },
+   "capacityKg": {
+    "min": 1000,
+    "max": 1000
+   },
+   "liftHeightMm": {
+    "min": 5400,
+    "max": 5400
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2434",
+     "name": "Narrow Aisle"
+    },
+    {
+     "id": "2432",
+     "name": "Double Deck"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 1017,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/E-Trucks/E10/"
+  },
+  {
+   "sku": "p_e100-e180_br1471",
+   "name": "E100 – E180",
+   "path": "/en/catalog/models/e100-e180",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/01_E-Trucks/BR1471_E120/BR1471_E120_00008_LINDE.png",
+   "imageAlt": "E100 – E180",
+   "description": "Linde E100 – E180: Electric Forklifts, load capacity 18000 kg, lift height up to 10000 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2377",
+     "name": "Electric Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2377",
+    "name": "Electric Forklifts"
+   },
+   "capacityKg": {
+    "min": 18000,
+    "max": 18000
+   },
+   "liftHeightMm": {
+    "min": 10000,
+    "max": 10000
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 1001,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/E-Trucks/E100-E180/"
+  },
+  {
+   "sku": "p_e14-20l_3w_br1251-01",
+   "name": "E14 – E20",
+   "path": "/en/catalog/models/e14-e20",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/01_E-Trucks/BR1251_E16/BR1251-01_E16-Basic_00007_LINDE.png",
+   "imageAlt": "E14 – E20",
+   "description": "Linde E14 – E20: Electric Forklifts, load capacity 2000 kg, lift height up to 8000 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2377",
+     "name": "Electric Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2377",
+    "name": "Electric Forklifts"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 8000,
+    "max": 8000
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": true,
+   "sortWeight": 1014,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/E-Trucks/E14-E20/"
+  },
+  {
+   "sku": "p_e16p-20pl_4w_br1251-01",
+   "name": "E16 – E20 P",
+   "path": "/en/catalog/models/e16-e20-p",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/01_E-Trucks/BR1251_E16P/BR1251-01_E16P-Basic_00007_LINDE.png",
+   "imageAlt": "E16 – E20 P",
+   "description": "Linde E16 – E20 P: Electric Forklifts, load capacity 2000 kg, lift height up to 8000 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2377",
+     "name": "Electric Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2377",
+    "name": "Electric Forklifts"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 8000,
+    "max": 8000
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": true,
+   "sortWeight": 1010,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/E-Trucks/E16-E20-P/"
+  },
+  {
+   "sku": "p_e20-35hl_1252-01",
+   "name": "E20 – E35",
+   "path": "/en/catalog/models/e20-e35",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/01_E-Trucks/BR1252_E30/1252_00_E30_BASIC_WEB_00007.png",
+   "imageAlt": "E20 – E35",
+   "description": "Linde E20 – E35: Electric Forklifts, load capacity 1030–3500 kg, lift height up to 7780 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2377",
+     "name": "Electric Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2377",
+    "name": "Electric Forklifts"
+   },
+   "capacityKg": {
+    "min": 1030,
+    "max": 3500
+   },
+   "liftHeightMm": {
+    "min": 5000,
+    "max": 7780
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": true,
+   "sortWeight": 1006,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/E-Trucks/E20-E35/"
+  },
+  {
+   "sku": "p_e35-50-600l_1254-01",
+   "name": "E35 – E50",
+   "path": "/en/catalog/models/e35-e50",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/01_E-Trucks/BR1254_E50/1254_00_E50-600_BASIC_WEB_0009.png",
+   "imageAlt": "E35 – E50",
+   "description": "Linde E35 – E50: Electric Forklifts, load capacity 5000 kg, lift height up to 7665 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2377",
+     "name": "Electric Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2377",
+    "name": "Electric Forklifts"
+   },
+   "capacityKg": {
+    "min": 5000,
+    "max": 5000
+   },
+   "liftHeightMm": {
+    "min": 7665,
+    "max": 7665
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": true,
+   "sortWeight": 1003,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/E-Trucks/E35-E50/"
+  },
+  {
+   "sku": "p_e60-e80-900_br1279-00",
+   "name": "E60 – E80",
+   "path": "/en/catalog/models/e60-e80",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/01_E-Trucks/BR1279_E60-E80/BR1279_E60-E80_00008.png",
+   "imageAlt": "E60 – E80",
+   "description": "Linde E60 – E80: Electric Forklifts, load capacity 4369–8000 kg, lift height up to 8670 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2377",
+     "name": "Electric Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2377",
+    "name": "Electric Forklifts"
+   },
+   "capacityKg": {
+    "min": 4369,
+    "max": 8000
+   },
+   "liftHeightMm": {
+    "min": 6500,
+    "max": 8670
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 1002,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/E-Trucks/E60-E80/"
+  },
+  {
+   "sku": "p_ei14-20_3w_br1251-01",
+   "name": "Ei14 – Ei20",
+   "path": "/en/catalog/models/ei14-ei20",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/01_E-Trucks/BR1251_Ei16/BR1251_Ei16_00007_LINDE.png",
+   "imageAlt": "Ei14 – Ei20",
+   "description": "Linde Ei14 – Ei20: Electric Forklifts, load capacity 2000 kg, lift height up to 6225 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2377",
+     "name": "Electric Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2377",
+    "name": "Electric Forklifts"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 6225,
+    "max": 6225
+   },
+   "driveTypes": [
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 1013,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/E-Trucks/Ei14-Ei20/"
+  },
+  {
+   "sku": "p_ei16p-20p_4w_br1251-01",
+   "name": "Ei16 – Ei20 P",
+   "path": "/en/catalog/models/ei16-ei20-p",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/01_E-Trucks/BR1251_Ei20/BR1251_Ei20_00007_LINDE.png",
+   "imageAlt": "Ei16 – Ei20 P",
+   "description": "Linde Ei16 – Ei20 P: Electric Forklifts, load capacity 2000 kg, lift height up to 6225 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2377",
+     "name": "Electric Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2377",
+    "name": "Electric Forklifts"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 6225,
+    "max": 6225
+   },
+   "driveTypes": [
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 1009,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/E-Trucks/Ei16-Ei20-P/"
+  },
+  {
+   "sku": "p_h100-h160_br1411-02",
+   "name": "HT100 – HT180 D",
+   "path": "/en/catalog/models/ht100-ht180-ds",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/02_IC-Trucks/BR1411_H120/BR1411_H120_00008.png",
+   "imageAlt": "HT100 – HT180 D",
+   "description": "Linde HT100 – HT180 D: Diesel / Gas Forklifts, load capacity 9000–18000 kg, lift height up to 9500 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2376",
+     "name": "Diesel / Gas Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2376",
+    "name": "Diesel / Gas Forklifts"
+   },
+   "capacityKg": {
+    "min": 9000,
+    "max": 18000
+   },
+   "liftHeightMm": {
+    "min": 6000,
+    "max": 9500
+   },
+   "driveTypes": [
+    "Diesel"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2433",
+     "name": "Towing"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 901,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/IC-Trucks/HT100-HT180-Ds/"
+  },
+  {
+   "sku": "p_h100-h180_br1401",
+   "name": "H100 – H180 D",
+   "path": "/en/catalog/models/h100-h180-d",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/02_IC-Trucks/BR1401_H120_001/BR1401_H120_001_00008.png",
+   "imageAlt": "H100 – H180 D",
+   "description": "Linde H100 – H180 D: Diesel / Gas Forklifts, load capacity 9000–18000 kg, lift height up to 9500 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2376",
+     "name": "Diesel / Gas Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2376",
+    "name": "Diesel / Gas Forklifts"
+   },
+   "capacityKg": {
+    "min": 9000,
+    "max": 18000
+   },
+   "liftHeightMm": {
+    "min": 6000,
+    "max": 9500
+   },
+   "driveTypes": [
+    "Diesel"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2433",
+     "name": "Towing"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 902,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/IC-Trucks/H100-H180-D/"
+  },
+  {
+   "sku": "p_h14_20_391-02",
+   "name": "H16 – H20",
+   "path": "/en/catalog/models/h16-h20",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/02_IC-Trucks/BR391_H16D_V04/BR391_H16D_V04_00008.png",
+   "imageAlt": "H16 – H20",
+   "description": "Linde H16 – H20: Diesel / Gas Forklifts, load capacity 667–2050 kg, lift height up to 6475 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2376",
+     "name": "Diesel / Gas Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2376",
+    "name": "Diesel / Gas Forklifts"
+   },
+   "capacityKg": {
+    "min": 667,
+    "max": 2050
+   },
+   "liftHeightMm": {
+    "min": 3500,
+    "max": 6475
+   },
+   "driveTypes": [
+    "CNG",
+    "Diesel",
+    "LPG"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2433",
+     "name": "Towing"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 906,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/IC-Trucks/H16-H20/"
+  },
+  {
+   "sku": "p_h20-35_br1202-01",
+   "name": "H20 – H35",
+   "path": "/en/catalog/models/h20-h35",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/02_IC-Trucks/BR1202_H25D/1202_00_H25D_BASIC_WEB_00008.png",
+   "imageAlt": "H20 – H35",
+   "description": "Linde H20 – H35: Diesel / Gas Forklifts, load capacity 1024–3500 kg, lift height up to 7780 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2376",
+     "name": "Diesel / Gas Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2376",
+    "name": "Diesel / Gas Forklifts"
+   },
+   "capacityKg": {
+    "min": 1024,
+    "max": 3500
+   },
+   "liftHeightMm": {
+    "min": 5000,
+    "max": 7780
+   },
+   "driveTypes": [
+    "CNG",
+    "Diesel",
+    "LPG"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 905,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/IC-Trucks/H20-H35/"
+  },
+  {
+   "sku": "p_h35-600_bis_h50_600_br1204-01",
+   "name": "H35 – H50",
+   "path": "/en/catalog/models/h35-h50",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/02_IC-Trucks/BR1204_H50D/1204_00_H50D_BASIC_WEB_00008.png",
+   "imageAlt": "H35 – H50",
+   "description": "Linde H35 – H50: Diesel / Gas Forklifts, load capacity 1803–5000 kg, lift height up to 7665 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2376",
+     "name": "Diesel / Gas Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2376",
+    "name": "Diesel / Gas Forklifts"
+   },
+   "capacityKg": {
+    "min": 1803,
+    "max": 5000
+   },
+   "liftHeightMm": {
+    "min": 3500,
+    "max": 7665
+   },
+   "driveTypes": [
+    "CNG",
+    "Diesel",
+    "LPG"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 904,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/IC-Trucks/H35-H50/"
+  },
+  {
+   "sku": "p_h50_h80_1100_br_396-04",
+   "name": "H50 – H80",
+   "path": "/en/catalog/models/h50-h80-evo",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/02_IC-Trucks/BR396-03_H80/BR396-03_H80_00008.png",
+   "imageAlt": "H50 – H80",
+   "description": "Linde H50 – H80: Diesel / Gas Forklifts, load capacity 2657–8000 kg, lift height up to 9655 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2376",
+     "name": "Diesel / Gas Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2376",
+    "name": "Diesel / Gas Forklifts"
+   },
+   "capacityKg": {
+    "min": 2657,
+    "max": 8000
+   },
+   "liftHeightMm": {
+    "min": 6500,
+    "max": 9655
+   },
+   "driveTypes": [
+    "Diesel"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 903,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/IC-Trucks/H50-H80-EVO/"
+  },
+  {
+   "sku": "p_k-matic_br5231-00",
+   "name": "K-MATIC",
+   "path": "/en/catalog/models/k-matic",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/11_Automated-Trucks/BR5231_K-Matic/BR5231_K-Matic_00000.png",
+   "imageAlt": "K-MATIC",
+   "description": "Linde K-MATIC: Automated Trucks, load capacity 1450 kg, lift height up to 14000 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2368",
+     "name": "Automated Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2368",
+    "name": "Automated Trucks"
+   },
+   "capacityKg": {
+    "min": 1450,
+    "max": 1450
+   },
+   "liftHeightMm": {
+    "min": 14000,
+    "max": 14000
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2434",
+     "name": "Narrow Aisle"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 1,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Automated-Trucks/K-Matic/"
+  },
+  {
+   "sku": "p_k-modular_br5231-01",
+   "name": "K",
+   "path": "/en/catalog/models/k",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/05_Very-Narrow-Aisle-Trucks/BR011_K/BR011_K_00000.png",
+   "imageAlt": "K",
+   "description": "Linde K: Very Narrow Aisle Trucks, load capacity 1500 kg, lift height up to 18110 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2373",
+     "name": "Very Narrow Aisle Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2373",
+    "name": "Very Narrow Aisle Trucks"
+   },
+   "capacityKg": {
+    "min": 1500,
+    "max": 1500
+   },
+   "liftHeightMm": {
+    "min": 18110,
+    "max": 18110
+   },
+   "pickingHeightMm": 17710,
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    },
+    {
+     "id": "2434",
+     "name": "Narrow Aisle"
+    }
+   ],
+   "explosionProof": true,
+   "sortWeight": 401,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Very-Narrow-Aisle-Trucks/K/"
+  },
+  {
+   "sku": "p_l-matic_br1170",
+   "name": "L-MATIC AC",
+   "path": "/en/catalog/models/l-matic-ac",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/11_Automated-Trucks/BR1170_L-Matic-AC_N/BR1170_L-Matic_AC_00008_n.png",
+   "imageAlt": "L-MATIC AC",
+   "description": "Linde L-MATIC AC: Automated Trucks, load capacity 1060–1600 kg, lift height up to 4144 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2368",
+     "name": "Automated Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2368",
+    "name": "Automated Trucks"
+   },
+   "capacityKg": {
+    "min": 1060,
+    "max": 1600
+   },
+   "liftHeightMm": {
+    "min": 1500,
+    "max": 4144
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 6,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Automated-Trucks/L-Matic-AC/"
+  },
+  {
+   "sku": "p_l-matic-12-16-ac-k_br1171-01",
+   "name": "L-MATIC AC k",
+   "path": "/en/catalog/models/l-matic-ac-k",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/11_Automated-Trucks/BR1171_L-MATIC-AC-k/BR1171_L-MATIC-AC-k_16_00009_LINDE.png",
+   "imageAlt": "L-MATIC AC k",
+   "description": "Linde L-MATIC AC k: Automated Trucks, load capacity 1400 kg, lift height up to 3800 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2368",
+     "name": "Automated Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2368",
+    "name": "Automated Trucks"
+   },
+   "capacityKg": {
+    "min": 1400,
+    "max": 1400
+   },
+   "liftHeightMm": {
+    "min": 3800,
+    "max": 3800
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 5,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Automated-Trucks/L-MATIC-AC-k/"
+  },
+  {
+   "sku": "p_l-matic-12c_br1195-01",
+   "name": "L-MATIC core",
+   "path": "/en/catalog/models/l-matic-core",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/11_Automated-Trucks/BR1195_L-MATIC-core/L-MATIC12_00008_LINDE.png",
+   "imageAlt": "L-MATIC core",
+   "description": "Linde L-MATIC core: Automated Trucks, load capacity 1200 kg, lift height up to 1844 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2368",
+     "name": "Automated Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2368",
+    "name": "Automated Trucks"
+   },
+   "capacityKg": {
+    "min": 1200,
+    "max": 1200
+   },
+   "liftHeightMm": {
+    "min": 1500,
+    "max": 1844
+   },
+   "driveTypes": [
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 10,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Automated-Trucks/L-MATIC-core/"
+  },
+  {
+   "sku": "p_l-matic-hd_br1173",
+   "name": "L-MATIC HD",
+   "path": "/en/catalog/models/l-matic-hd",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/11_Automated-Trucks/BR1173-LMatic-20HD_V2/BR1173-LMatic-20HD_V2n_00007.png",
+   "imageAlt": "L-MATIC HD",
+   "description": "Linde L-MATIC HD: Automated Trucks, load capacity 1600 kg, lift height up to 3500 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2368",
+     "name": "Automated Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2368",
+    "name": "Automated Trucks"
+   },
+   "capacityKg": {
+    "min": 1600,
+    "max": 1600
+   },
+   "liftHeightMm": {
+    "min": 3500,
+    "max": 3500
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 8,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Automated-Trucks/L-MATIC-HD/"
+  },
+  {
+   "sku": "p_l-matic-hd-k_br1173-01",
+   "name": "L-MATIC HD k",
+   "path": "/en/catalog/models/l-matic-hd-k",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/11_Automated-Trucks/BR1173-L-MATIC-HD-k/BR1173-L-MATIC-16HD-k-R22_00007.png",
+   "imageAlt": "L-MATIC HD k",
+   "description": "Linde L-MATIC HD k: Automated Trucks, load capacity 1600 kg, lift height up to 3800 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2368",
+     "name": "Automated Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2368",
+    "name": "Automated Trucks"
+   },
+   "capacityKg": {
+    "min": 1600,
+    "max": 1600
+   },
+   "liftHeightMm": {
+    "min": 3800,
+    "max": 3800
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 7,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Automated-Trucks/L-MATIC-HD-k/"
+  },
+  {
+   "sku": "p_l06-16ac_br1171",
+   "name": "L06 – L16 AC",
+   "path": "/en/catalog/models/l06-l16-ac",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/04_Pallet-Stackers/BR1171-L06-AC/BR1171_L06_00017.png",
+   "imageAlt": "L06 – L16 AC",
+   "description": "Linde L06 – L16 AC: Pallet Stackers, load capacity 600–1600 kg, lift height up to 4266 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2374",
+     "name": "Pallet Stackers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2374",
+    "name": "Pallet Stackers"
+   },
+   "capacityKg": {
+    "min": 600,
+    "max": 1600
+   },
+   "liftHeightMm": {
+    "min": 3500,
+    "max": 4266
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    }
+   ],
+   "explosionProof": true,
+   "sortWeight": 309,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Stackers/L06-L16-AC/"
+  },
+  {
+   "sku": "p_l10-12_b_as-br4596",
+   "name": "L10 – L12 B AS",
+   "path": "/en/catalog/models/l10-l12-b-as",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/04_Pallet-Stackers/BR4596_L12-AS_n/4596_L12AS_00017_LINDE_n.png",
+   "imageAlt": "L10 – L12 B AS",
+   "description": "Linde L10 – L12 B AS: Pallet Stackers, load capacity 1200 kg, lift height up to 4686 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2374",
+     "name": "Pallet Stackers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2374",
+    "name": "Pallet Stackers"
+   },
+   "capacityKg": {
+    "min": 1200,
+    "max": 1200
+   },
+   "liftHeightMm": {
+    "min": 4686,
+    "max": 4686
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": true,
+   "sortWeight": 311,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Stackers/L10-L12-B-AS/"
+  },
+  {
+   "sku": "p_l10b-16b-standard-mast-br4596",
+   "name": "L10 – L16 B",
+   "path": "/en/catalog/models/l10-l16-b",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/04_Pallet-Stackers/BR4596_L12_n/4596_L12_00017_LINDE_n.png",
+   "imageAlt": "L10 – L16 B",
+   "description": "Linde L10 – L16 B: Pallet Stackers, load capacity 1600 kg, lift height up to 5466 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2374",
+     "name": "Pallet Stackers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2374",
+    "name": "Pallet Stackers"
+   },
+   "capacityKg": {
+    "min": 1600,
+    "max": 1600
+   },
+   "liftHeightMm": {
+    "min": 5466,
+    "max": 5466
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": true,
+   "sortWeight": 317,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Stackers/L10-L16-B/"
+  },
+  {
+   "sku": "p_l12l_l14l_l12l_hp_autonom_br133",
+   "name": "L-MATIC",
+   "path": "/en/catalog/models/l-matic",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/11_Automated-Trucks/BR133-00_L-Matic/BR133-00_L-Matic_00007.png",
+   "imageAlt": "L-MATIC",
+   "description": "Linde L-MATIC: Automated Trucks, load capacity 1200 kg, lift height up to 1924 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2368",
+     "name": "Automated Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2368",
+    "name": "Automated Trucks"
+   },
+   "capacityKg": {
+    "min": 1200,
+    "max": 1200
+   },
+   "liftHeightMm": {
+    "min": 1500,
+    "max": 1924
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 9,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Automated-Trucks/L-Matic/"
+  },
+  {
+   "sku": "p_l14-16as-asap_1173-01",
+   "name": "L14 – L16 AS/AS AP",
+   "path": "/en/catalog/models/l14-l16-as-ap-as",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/04_Pallet-Stackers/BR1173_L14-AS-AP/BR1173_L14-16_AS_AP_0017_LINDE.png",
+   "imageAlt": "L14 – L16 AS/AS AP",
+   "description": "Linde L14 – L16 AS/AS AP: Pallet Stackers, load capacity 800–1600 kg, lift height up to 5316 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2374",
+     "name": "Pallet Stackers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2374",
+    "name": "Pallet Stackers"
+   },
+   "capacityKg": {
+    "min": 800,
+    "max": 1600
+   },
+   "liftHeightMm": {
+    "min": 2500,
+    "max": 5316
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": true,
+   "sortWeight": 310,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Stackers/L14-L16-AS-AP-AS/"
+  },
+  {
+   "sku": "p_l14-16r_br_1174-02",
+   "name": "L14 – L16 R/Ri",
+   "path": "/en/catalog/models/l14-l16-r",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/04_Pallet-Stackers/BR1174-00_L14R/BR1174-00_L14R_00017.png",
+   "imageAlt": "L14 – L16 R/Ri",
+   "description": "Linde L14 – L16 R/Ri: Pallet Stackers, load capacity 670–1600 kg, lift height up to 5316 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2374",
+     "name": "Pallet Stackers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2374",
+    "name": "Pallet Stackers"
+   },
+   "capacityKg": {
+    "min": 670,
+    "max": 1600
+   },
+   "liftHeightMm": {
+    "min": 2000,
+    "max": 5316
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 313,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Stackers/L14-L16-R/"
+  },
+  {
+   "sku": "p_l14-16rw_br_1174-02",
+   "name": "L14 – L16 RW",
+   "path": "/en/catalog/models/l14-l16-rw",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/04_Pallet-Stackers/BR1174-01-L16R-Plus/BR1174-01-L16R-Plus_00017.png",
+   "imageAlt": "L14 – L16 RW",
+   "description": "Linde L14 – L16 RW: Pallet Stackers, load capacity 500–1600 kg, lift height up to 6216 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2374",
+     "name": "Pallet Stackers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2374",
+    "name": "Pallet Stackers"
+   },
+   "capacityKg": {
+    "min": 500,
+    "max": 1600
+   },
+   "liftHeightMm": {
+    "min": 3000,
+    "max": 6216
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 312,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Stackers/L14-L16-RW/"
+  },
+  {
+   "sku": "p_l14-16sp_br1177",
+   "name": "L14 – L16 SP",
+   "path": "/en/catalog/models/l14-l16-sp",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/04_Pallet-Stackers/BR1177_L14-SP/L14_SP_WEB_0017_LINDE.png",
+   "imageAlt": "L14 – L16 SP",
+   "description": "Linde L14 – L16 SP: Pallet Stackers, load capacity 1600 kg, lift height up to 5316 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2374",
+     "name": "Pallet Stackers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2374",
+    "name": "Pallet Stackers"
+   },
+   "capacityKg": {
+    "min": 1600,
+    "max": 1600
+   },
+   "liftHeightMm": {
+    "min": 5316,
+    "max": 5316
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 314,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Stackers/L14-L16-SP/"
+  },
+  {
+   "sku": "p_l14-l20_br1173-01",
+   "name": "L14 – L20",
+   "path": "/en/catalog/models/l14-l20",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/04_Pallet-Stackers/BR1173_L16_002/BR1173_L16_002_00017.png",
+   "imageAlt": "L14 – L20",
+   "description": "Linde L14 – L20: Pallet Stackers, load capacity 500–2000 kg, lift height up to 6216 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2374",
+     "name": "Pallet Stackers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2374",
+    "name": "Pallet Stackers"
+   },
+   "capacityKg": {
+    "min": 500,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 3000,
+    "max": 6216
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": true,
+   "sortWeight": 316,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Stackers/L14-L20/"
+  },
+  {
+   "sku": "p_l14ap-l20ap_br1173-01",
+   "name": "L14 – L20 AP",
+   "path": "/en/catalog/models/l14-l20-ap",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/04_Pallet-Stackers/BR1173_L16AP-V02/BR1173_L16AP-V02_00017.png",
+   "imageAlt": "L14 – L20 AP",
+   "description": "Linde L14 – L20 AP: Pallet Stackers, load capacity 500–2000 kg, lift height up to 6216 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2374",
+     "name": "Pallet Stackers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2374",
+    "name": "Pallet Stackers"
+   },
+   "capacityKg": {
+    "min": 500,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 3000,
+    "max": 6216
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": true,
+   "sortWeight": 315,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Stackers/L14-L20-AP/"
+  },
+  {
+   "sku": "p_lt06-lt20_br8970-01",
+   "name": "LT10 – LT20 C / LT10 – LT16 B/BM",
+   "path": "/en/catalog/models/lt10-lt20",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/09_Logistic_Trains/BR8970-01_LT10-LT20/1191_01_Turntable_P80_LT-BM_LT-B_LT-C_LMH_00000.png",
+   "imageAlt": "LT10 – LT20 C / LT10 – LT16 B/BM",
+   "description": "Linde LT10 – LT20 C / LT10 – LT16 B/BM: Tugger Trains, load capacity 2000 kg, lift height up to 50 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2369",
+     "name": "Tugger Trains",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2369",
+    "name": "Tugger Trains"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 50,
+    "max": 50
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2433",
+     "name": "Towing"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 102,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Tugger-Trains/LT10-LT20/"
+  },
+  {
+   "sku": "p_lt06m-lt10m_lt10w_br8971",
+   "name": "LT06 – LT10 M / LT10 W",
+   "path": "/en/catalog/models/lt06-lt10-m-lt10-w",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/09_Logistic_Trains/BR8971-LT06_LT10_M-LT10_W/8971_Turntable_P60C_LT-M_LT-M_LT-W_LT-W_035.png",
+   "imageAlt": "LT06 – LT10 M / LT10 W",
+   "description": "Linde LT06 – LT10 M / LT10 W: Tugger Trains, load capacity 1000 kg, lift height up to 40 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2369",
+     "name": "Tugger Trains",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2369",
+    "name": "Tugger Trains"
+   },
+   "capacityKg": {
+    "min": 1000,
+    "max": 1000
+   },
+   "liftHeightMm": {
+    "min": 40,
+    "max": 40
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2433",
+     "name": "Towing"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 103,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Tugger-Trains/LT06-LT10-M-LT10-W/"
+  },
+  {
+   "sku": "p_lt10-wx_br8974",
+   "name": "LT10 WX",
+   "path": "/en/catalog/models/lt10-wx",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/09_Logistic_Trains/BR8974-LT10_WX/8974_Turntable_P60C_6xLTWX_00033_LINDE.png",
+   "imageAlt": "LT10 WX",
+   "description": "Linde LT10 WX: Tugger Trains, load capacity 1000 kg, lift height up to 40 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2369",
+     "name": "Tugger Trains",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2369",
+    "name": "Tugger Trains"
+   },
+   "capacityKg": {
+    "min": 1000,
+    "max": 1000
+   },
+   "liftHeightMm": {
+    "min": 40,
+    "max": 40
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2433",
+     "name": "Towing"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 104,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Tugger-Trains/LT10-WX/"
+  },
+  {
+   "sku": "p_lt16-ch-lt16-bmh_br8972",
+   "name": "LT16 Ch/BMh",
+   "path": "/en/catalog/models/lt16-ch-bmh",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/09_Logistic_Trains/BR8972_P250_LTBMh_LTCh/8972_Turntable_P250_LTBMh_LTCh-_00035_LINDE.png",
+   "imageAlt": "LT16 Ch/BMh",
+   "description": "Linde LT16 Ch/BMh: Tugger Trains, load capacity 1600 kg, lift height up to 80 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2369",
+     "name": "Tugger Trains",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2369",
+    "name": "Tugger Trains"
+   },
+   "capacityKg": {
+    "min": 1600,
+    "max": 1600
+   },
+   "liftHeightMm": {
+    "min": 80,
+    "max": 80
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2433",
+     "name": "Towing"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 101,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Tugger-Trains/LT16-Ch-BMh/"
+  },
+  {
+   "sku": "p_m10x_10xe",
+   "name": "M10 X/XE",
+   "path": "/en/catalog/models/m10-x-xe",
+   "image": "https://www.linde-mh.com/media/3D_Product/Teaser/BR033_M10XE_teaser.png",
+   "imageAlt": "M10 X/XE",
+   "description": "Linde M10 X/XE: Pallet Trucks, load capacity 1000 kg, lift height up to 715 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2375",
+     "name": "Pallet Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2375",
+    "name": "Pallet Trucks"
+   },
+   "capacityKg": {
+    "min": 1000,
+    "max": 1000
+   },
+   "liftHeightMm": {
+    "min": 500,
+    "max": 715
+   },
+   "driveTypes": [
+    "Pedestrian"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 715,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Trucks/M10-X-XE/"
+  },
+  {
+   "sku": "p_m25_br033-01",
+   "name": "M25",
+   "path": "/en/catalog/models/m25",
+   "image": "https://www.linde-mh.com/media/3D_Product/Teaser/BR033_M25_teaser.png",
+   "imageAlt": "M25",
+   "description": "Linde M25: Pallet Trucks, load capacity 2500 kg, lift height up to 115 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2375",
+     "name": "Pallet Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2375",
+    "name": "Pallet Trucks"
+   },
+   "capacityKg": {
+    "min": 2500,
+    "max": 2500
+   },
+   "liftHeightMm": {
+    "min": 0,
+    "max": 115
+   },
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    }
+   ],
+   "explosionProof": true,
+   "sortWeight": 713,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Trucks/M25/"
+  },
+  {
+   "sku": "p_m25_scale",
+   "name": "M25 Scale+",
+   "path": "/en/catalog/models/m25-scale",
+   "image": "https://www.linde-mh.com/media/3D_Product/Teaser/BR033_M25_ScalePlus_teaser.png",
+   "imageAlt": "M25 Scale+",
+   "description": "Linde M25 Scale+: Pallet Trucks, load capacity 2500 kg, lift height up to 115 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2375",
+     "name": "Pallet Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2375",
+    "name": "Pallet Trucks"
+   },
+   "capacityKg": {
+    "min": 2500,
+    "max": 2500
+   },
+   "liftHeightMm": {
+    "min": 0,
+    "max": 115
+   },
+   "driveTypes": [
+    "Pedestrian"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 712,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Trucks/M25-Scale/"
+  },
+  {
+   "sku": "p_mm10-12_br1167-02",
+   "name": "ML10 / MM10",
+   "path": "/en/catalog/models/ml10-mm10",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/04_Pallet-Stackers/BR1167-02_MM10_ML10_v3/BR1167-02_MM10-ML10_V3_LINDE_00017.png",
+   "imageAlt": "ML10 / MM10",
+   "description": "Linde ML10 / MM10: Pallet Stackers, load capacity 1000 kg, lift height up to 3227 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2374",
+     "name": "Pallet Stackers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2374",
+    "name": "Pallet Stackers"
+   },
+   "capacityKg": {
+    "min": 1000,
+    "max": 1000
+   },
+   "liftHeightMm": {
+    "min": 3227,
+    "max": 3227
+   },
+   "driveTypes": [
+    "Battery"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 318,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Stackers/ML10-MM10/"
+  },
+  {
+   "sku": "p_mt15c_br1131-02",
+   "name": "MT15 C",
+   "path": "/en/catalog/models/mt15-c",
+   "image": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1131-02_MT15C_V2_teaser.png",
+   "imageAlt": "MT15 C",
+   "description": "Linde MT15 C: Pallet Trucks, load capacity 1500 kg, lift height up to 115 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2375",
+     "name": "Pallet Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2375",
+    "name": "Pallet Trucks"
+   },
+   "capacityKg": {
+    "min": 1500,
+    "max": 1500
+   },
+   "liftHeightMm": {
+    "min": 0,
+    "max": 115
+   },
+   "driveTypes": [
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 714,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Trucks/MT15-C/"
+  },
+  {
+   "sku": "p_mv01_br8905-01",
+   "name": "MV01",
+   "path": "/en/catalog/models/mv01",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/07_Order-Pickers/BR8905_MV01/BR8905_MV01_V02_00000.png",
+   "imageAlt": "MV01",
+   "description": "Linde MV01: Order Pickers, load capacity 100 kg, lift height up to 3620 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2371",
+     "name": "Order Pickers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2371",
+    "name": "Order Pickers"
+   },
+   "capacityKg": {
+    "min": 100,
+    "max": 100
+   },
+   "liftHeightMm": {
+    "min": 3500,
+    "max": 3620
+   },
+   "pickingHeightMm": 4600,
+   "driveTypes": [
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 201,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Order-Pickers/MV01/"
+  },
+  {
+   "sku": "p_n16li_br1115-00",
+   "name": "N16 Li",
+   "path": "/en/catalog/models/n16-li",
+   "image": "https://www.linde-mh.com/media/Global-Content/01-Products/07_Order-Pickers_Kommissionierer/01_Products_Produkte_6/order_picker-N16Li-1115-01-forksup/BR1115-01-N16Li_Forks-UP_00017.png",
+   "imageAlt": "N16 Li",
+   "description": "Linde N16 Li: Order Pickers, load capacity 1600 kg, lift height up to 675 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2371",
+     "name": "Order Pickers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2371",
+    "name": "Order Pickers"
+   },
+   "capacityKg": {
+    "min": 1600,
+    "max": 1600
+   },
+   "liftHeightMm": {
+    "min": 675,
+    "max": 675
+   },
+   "pickingHeightMm": 1600,
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 214,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Order-Pickers/N16-Li/"
+  },
+  {
+   "sku": "p_n20-25_br4600-00",
+   "name": "N20 – N25",
+   "path": "/en/catalog/models/n20-n25",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/07_Order-Pickers/BR4600_N20/BR4600_N20_00017_LINDE.png",
+   "imageAlt": "N20 – N25",
+   "description": "Linde N20 – N25: Order Pickers, load capacity 2500 kg, lift height up to 215 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2371",
+     "name": "Order Pickers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2371",
+    "name": "Order Pickers"
+   },
+   "capacityKg": {
+    "min": 2500,
+    "max": 2500
+   },
+   "liftHeightMm": {
+    "min": 215,
+    "max": 215
+   },
+   "pickingHeightMm": 2800,
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 215,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Order-Pickers/N20-N25/"
+  },
+  {
+   "sku": "p_n20c_br4587-00",
+   "name": "N20 – N25 C",
+   "path": "/en/catalog/models/n20-n25-c",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/07_Order-Pickers/BR4587_N20C/BR4587_N20C_00017.png",
+   "imageAlt": "N20 – N25 C",
+   "description": "Linde N20 – N25 C: Order Pickers, load capacity 2000–2500 kg, lift height up to 130 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2371",
+     "name": "Order Pickers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2371",
+    "name": "Order Pickers"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2500
+   },
+   "liftHeightMm": {
+    "min": 0,
+    "max": 130
+   },
+   "pickingHeightMm": 2800,
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 210,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Order-Pickers/N20-N25-C/"
+  },
+  {
+   "sku": "p_n20cd_br4589-00",
+   "name": "N20 C D",
+   "path": "/en/catalog/models/n20-c-d",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/07_Order-Pickers/BR4589_N20C-D/BR4589_N20C-D_00017.png",
+   "imageAlt": "N20 C D",
+   "description": "Linde N20 C D: Order Pickers, load capacity 2000 kg, lift height up to 1580 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2371",
+     "name": "Order Pickers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2371",
+    "name": "Order Pickers"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 1500,
+    "max": 1580
+   },
+   "pickingHeightMm": 2800,
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 208,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Order-Pickers/N20-C-D/"
+  },
+  {
+   "sku": "p_n20cl_br4590-00",
+   "name": "N20 C L",
+   "path": "/en/catalog/models/n20-c-l",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/07_Order-Pickers/BR4590_N20C-L/BR4590_N20C-L_00017.png",
+   "imageAlt": "N20 C L",
+   "description": "Linde N20 C L: Order Pickers, load capacity 1200 kg, lift height up to 700 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2371",
+     "name": "Order Pickers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2371",
+    "name": "Order Pickers"
+   },
+   "capacityKg": {
+    "min": 1200,
+    "max": 1200
+   },
+   "liftHeightMm": {
+    "min": 500,
+    "max": 700
+   },
+   "pickingHeightMm": 2800,
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 209,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Order-Pickers/N20-C-L/"
+  },
+  {
+   "sku": "p_n20clol_br4589-00",
+   "name": "N20 C LoL",
+   "path": "/en/catalog/models/n20-c-lol",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/07_Order-Pickers/BR4589_N20C-LoL/BR4589_N20C-LoL_00017.png",
+   "imageAlt": "N20 C LoL",
+   "description": "Linde N20 C LoL: Order Pickers, load capacity 2000 kg, lift height up to 800 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2371",
+     "name": "Order Pickers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2371",
+    "name": "Order Pickers"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 800,
+    "max": 800
+   },
+   "pickingHeightMm": 2800,
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 207,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Order-Pickers/N20-C-LoL/"
+  },
+  {
+   "sku": "p_n20clx_br4590-00",
+   "name": "N20 C LX",
+   "path": "/en/catalog/models/n20-c-lx",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/07_Order-Pickers/BR4590_N20C-LX/BR4589_N20C-LX_00017.png",
+   "imageAlt": "N20 C LX",
+   "description": "Linde N20 C LX: Order Pickers, load capacity 2000 kg, lift height up to 700 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2371",
+     "name": "Order Pickers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2371",
+    "name": "Order Pickers"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 500,
+    "max": 700
+   },
+   "pickingHeightMm": 2800,
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 206,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Order-Pickers/N20-C-LX/"
+  },
+  {
+   "sku": "p_n20d-dhp_br1115-00",
+   "name": "N20 D",
+   "path": "/en/catalog/models/n20-d",
+   "image": "https://www.linde-mh.com/media/Global-Content/01-Products/07_Order-Pickers_Kommissionierer/01_Products_Produkte_6/order_picker-N20D-1115-01-forksup/BR1115-01_N20D_ForksUP_00017.png",
+   "imageAlt": "N20 D",
+   "description": "Linde N20 D: Order Pickers, load capacity 2000 kg, lift height up to 1924 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2371",
+     "name": "Order Pickers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2371",
+    "name": "Order Pickers"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 1924,
+    "max": 1924
+   },
+   "pickingHeightMm": 1600,
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 213,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Order-Pickers/N20-D/"
+  },
+  {
+   "sku": "p_n20lol_br1115-00",
+   "name": "N20 LoL",
+   "path": "/en/catalog/models/n20-lol",
+   "image": "https://www.linde-mh.com/media/Global-Content/01-Products/07_Order-Pickers_Kommissionierer/01_Products_Produkte_6/order_picker-N20LoL-1115-01-forksup/BR1115-01_N20LoL_ForksUP_00017.png",
+   "imageAlt": "N20 LoL",
+   "description": "Linde N20 LoL: Order Pickers, load capacity 2000 kg, lift height up to 1612 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2371",
+     "name": "Order Pickers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2371",
+    "name": "Order Pickers"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 1612,
+    "max": 1612
+   },
+   "pickingHeightMm": 1600,
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 212,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Order-Pickers/N20-LoL/"
+  },
+  {
+   "sku": "p_n20xl_br1115-00",
+   "name": "N20 XL",
+   "path": "/en/catalog/models/n20-xl",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/07_Order-Pickers/BR1115-01_N20XL/BR1115-01_N20XL_00017.png",
+   "imageAlt": "N20 XL",
+   "description": "Linde N20 XL: Order Pickers, load capacity 1600 kg, lift height up to 750 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2371",
+     "name": "Order Pickers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2371",
+    "name": "Order Pickers"
+   },
+   "capacityKg": {
+    "min": 1600,
+    "max": 1600
+   },
+   "liftHeightMm": {
+    "min": 750,
+    "max": 750
+   },
+   "pickingHeightMm": 1600,
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 211,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Order-Pickers/N20-XL/"
+  },
+  {
+   "sku": "p_p120-p350_br5007-10",
+   "name": "P120 – P350",
+   "path": "/en/catalog/models/p120-p350",
+   "image": "https://www.linde-mh.com/media/Global-Content/01-Products/15_Transparent_Background/BR5007_P120_0034_LINDE_Thumbnail.png",
+   "imageAlt": "P120 – P350",
+   "description": "Linde P120 – P350: Tow Tractors, load capacity 300 kg, lift height up to 0 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2370",
+     "name": "Tow Tractors",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2370",
+    "name": "Tow Tractors"
+   },
+   "capacityKg": {
+    "min": 300,
+    "max": 300
+   },
+   "liftHeightMm": {
+    "min": 0,
+    "max": 0
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2433",
+     "name": "Towing"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 602,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Tow-Trucks/P120-P350/"
+  },
+  {
+   "sku": "p_p20_w04_br1193-00",
+   "name": "P20",
+   "path": "/en/catalog/models/p20",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/08_Tow-Trucks/BR1193_P20/BR1193_P20_00035.png",
+   "imageAlt": "P20",
+   "description": "Linde P20: Tow Tractors, load capacity 2000 kg, lift height up to 0 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2370",
+     "name": "Tow Tractors",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2370",
+    "name": "Tow Tractors"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 0,
+    "max": 0
+   },
+   "driveTypes": [
+    "Battery"
+   ],
+   "applications": [
+    {
+     "id": "2433",
+     "name": "Towing"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 605,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Tow-Trucks/P20/"
+  },
+  {
+   "sku": "p_p30c_p50c_matic",
+   "name": "P-MATIC",
+   "path": "/en/catalog/models/p-matic",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/11_Automated-Trucks/BR1190_P-Matic/BR1190_P-Matic_00008.png",
+   "imageAlt": "P-MATIC",
+   "description": "Linde P-MATIC: Automated Trucks, load capacity 5000 kg, lift height up to 0 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2368",
+     "name": "Automated Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2368",
+    "name": "Automated Trucks"
+   },
+   "capacityKg": {
+    "min": 5000,
+    "max": 5000
+   },
+   "liftHeightMm": {
+    "min": 0,
+    "max": 0
+   },
+   "driveTypes": [
+    "Battery"
+   ],
+   "applications": [
+    {
+     "id": "2433",
+     "name": "Towing"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 4,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Automated-Trucks/P-Matic/"
+  },
+  {
+   "sku": "p_p30cb_p40c_p60c_br4595",
+   "name": "P40 – P60 C",
+   "path": "/en/catalog/models/p40-p60-c",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/08_Tow-Trucks/BR4595_P60C/BR4595_P60C_00035.png",
+   "imageAlt": "P40 – P60 C",
+   "description": "Linde P40 – P60 C: Tow Tractors, load capacity 4000–6000 kg, lift height up to 0 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2370",
+     "name": "Tow Tractors",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2370",
+    "name": "Tow Tractors"
+   },
+   "capacityKg": {
+    "min": 4000,
+    "max": 6000
+   },
+   "liftHeightMm": {
+    "min": 0,
+    "max": 0
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2434",
+     "name": "Narrow Aisle"
+    },
+    {
+     "id": "2433",
+     "name": "Towing"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 604,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Tow-Trucks/P40-P60-C/"
+  },
+  {
+   "sku": "p_p60_p80_w08_br1191-01",
+   "name": "P60 – P80",
+   "path": "/en/catalog/models/p60-p80",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/08_Tow-Trucks/BR1191_P80/BR1191-P80_00035.png",
+   "imageAlt": "P60 – P80",
+   "description": "Linde P60 – P80: Tow Tractors, load capacity 200 kg, lift height up to 0 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2370",
+     "name": "Tow Tractors",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2370",
+    "name": "Tow Tractors"
+   },
+   "capacityKg": {
+    "min": 200,
+    "max": 200
+   },
+   "liftHeightMm": {
+    "min": 0,
+    "max": 0
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2433",
+     "name": "Towing"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 603,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Tow-Trucks/P60-P80/"
+  },
+  {
+   "sku": "p_r-matic_br1120-00",
+   "name": "R-MATIC",
+   "path": "/en/catalog/models/r-matic",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/11_Automated-Trucks/BR1120_R-Matic_V02/BR1120_R-Matic_V02_00017.png",
+   "imageAlt": "R-MATIC",
+   "description": "Linde R-MATIC: Automated Trucks, load capacity 1100–1600 kg, lift height up to 11455 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2368",
+     "name": "Automated Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2368",
+    "name": "Automated Trucks"
+   },
+   "capacityKg": {
+    "min": 1100,
+    "max": 1600
+   },
+   "liftHeightMm": {
+    "min": 9000,
+    "max": 11455
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 3,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Automated-Trucks/R-Matic/"
+  },
+  {
+   "sku": "p_r-matic-12-25-k_br5190-11",
+   "name": "R-MATIC k",
+   "path": "/en/catalog/models/r-matic-k",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/11_Automated-Trucks/BR5190_R-MATIC-k/k5190_R-MATIC_00017_LINDE.png",
+   "imageAlt": "R-MATIC k",
+   "description": "Linde R-MATIC k: Automated Trucks, load capacity 2300 kg, lift height up to 10174 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2368",
+     "name": "Automated Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2368",
+    "name": "Automated Trucks"
+   },
+   "capacityKg": {
+    "min": 2300,
+    "max": 2300
+   },
+   "liftHeightMm": {
+    "min": 10174,
+    "max": 10174
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 2,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Automated-Trucks/R-MATIC-k/"
+  },
+  {
+   "sku": "p_r14-17x",
+   "name": "R14 – R17 X",
+   "path": "/en/catalog/models/r14-17-x",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/06_Reach-Trucks/BR116-03_R14X_002/BR116-03_R14X_002_00017.png",
+   "imageAlt": "R14 – R17 X",
+   "description": "Linde R14 – R17 X: Reach Trucks, load capacity 1040–1700 kg, lift height up to 12755 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2372",
+     "name": "Reach Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2372",
+    "name": "Reach Trucks"
+   },
+   "capacityKg": {
+    "min": 1040,
+    "max": 1700
+   },
+   "liftHeightMm": {
+    "min": 7500,
+    "max": 12755
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 502,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Reach-Trucks/R14-17-X/"
+  },
+  {
+   "sku": "p_r14-20g_br1120",
+   "name": "R14 – R20 G",
+   "path": "/en/catalog/models/r-14-20-g",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/06_Reach-Trucks/BR1120_R20G/BR1120_R20G_00017.png",
+   "imageAlt": "R14 – R20 G",
+   "description": "Linde R14 – R20 G: Reach Trucks, load capacity 493–2000 kg, lift height up to 7710 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2372",
+     "name": "Reach Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2372",
+    "name": "Reach Trucks"
+   },
+   "capacityKg": {
+    "min": 493,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 5500,
+    "max": 7710
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 503,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Reach-Trucks/R-14-20-G/"
+  },
+  {
+   "sku": "p_r14-25_br1120",
+   "name": "R14 – R25",
+   "path": "/en/catalog/models/r14-r25",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/06_Reach-Trucks/BR1120_R20_1506/BR1120-R20-1506_turnaround360_linde_0006.png",
+   "imageAlt": "R14 – R25",
+   "description": "Linde R14 – R25: Reach Trucks, load capacity 565–2500 kg, lift height up to 14955 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2372",
+     "name": "Reach Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2372",
+    "name": "Reach Trucks"
+   },
+   "capacityKg": {
+    "min": 565,
+    "max": 2500
+   },
+   "liftHeightMm": {
+    "min": 4500,
+    "max": 14955
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": true,
+   "sortWeight": 504,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Reach-Trucks/R14-R25/"
+  },
+  {
+   "sku": "p_r20f-r25f_br_8923",
+   "name": "R20 – R25 F",
+   "path": "/en/catalog/models/r20-r25-f",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/06_Reach-Trucks/BR8923_R20-R25-F/BR8923_R20-R25_F_4229_549_CX.png",
+   "imageAlt": "R20 – R25 F",
+   "description": "Linde R20 – R25 F: Reach Trucks, load capacity 1150–2500 kg, lift height up to 9650 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2372",
+     "name": "Reach Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2372",
+    "name": "Reach Trucks"
+   },
+   "capacityKg": {
+    "min": 1150,
+    "max": 2500
+   },
+   "liftHeightMm": {
+    "min": 5000,
+    "max": 9650
+   },
+   "driveTypes": [
+    "Battery"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 501,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Reach-Trucks/R20-R25-F/"
+  },
+  {
+   "sku": "p_ri14-16_br1121-01",
+   "name": "Ri14 – Ri18",
+   "path": "/en/catalog/models/ri14-ri18",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/06_Reach-Trucks/BR1121_Ri18/BR1121_Ri18_00018_LINDE.png",
+   "imageAlt": "Ri14 – Ri18",
+   "description": "Linde Ri14 – Ri18: Reach Trucks, load capacity 1800 kg, lift height up to 11000 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2372",
+     "name": "Reach Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2372",
+    "name": "Reach Trucks"
+   },
+   "capacityKg": {
+    "min": 1800,
+    "max": 1800
+   },
+   "liftHeightMm": {
+    "min": 11000,
+    "max": 11000
+   },
+   "driveTypes": [
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2434",
+     "name": "Narrow Aisle"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 505,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Reach-Trucks/Ri14-Ri18/"
+  },
+  {
+   "sku": "p_t-matic_core_br1153",
+   "name": "T-MATIC core",
+   "path": "/en/catalog/models/t-matic-core",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/11_Automated-Trucks/BR1153_T-MATIC-core/BR1153_T-Matic_00006_LINDE.png",
+   "imageAlt": "T-MATIC core",
+   "description": "Linde T-MATIC core: Automated Trucks, load capacity 1500 kg, lift height up to 120 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2368",
+     "name": "Automated Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2368",
+    "name": "Automated Trucks"
+   },
+   "capacityKg": {
+    "min": 1500,
+    "max": 1500
+   },
+   "liftHeightMm": {
+    "min": 120,
+    "max": 120
+   },
+   "driveTypes": [
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 11,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Automated-Trucks/T-MATIC-core/"
+  },
+  {
+   "sku": "p_t14-t20-br1155",
+   "name": "T14 – T20",
+   "path": "/en/catalog/models/t14-t20",
+   "image": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1155_T14_teaser.png",
+   "imageAlt": "T14 – T20",
+   "description": "Linde T14 – T20: Pallet Trucks, load capacity 2000 kg, lift height up to 125 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2375",
+     "name": "Pallet Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2375",
+    "name": "Pallet Trucks"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 125,
+    "max": 125
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": true,
+   "sortWeight": 710,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Trucks/T14-T20/"
+  },
+  {
+   "sku": "p_t14b-br1132",
+   "name": "T14 B",
+   "path": "/en/catalog/models/t14-b",
+   "image": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1132_T14_B_Linde_teaser_n.png",
+   "imageAlt": "T14 B",
+   "description": "Linde T14 B: Pallet Trucks, load capacity 1400 kg, lift height up to 115 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2375",
+     "name": "Pallet Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2375",
+    "name": "Pallet Trucks"
+   },
+   "capacityKg": {
+    "min": 1400,
+    "max": 1400
+   },
+   "liftHeightMm": {
+    "min": 0,
+    "max": 115
+   },
+   "driveTypes": [
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 711,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Trucks/T14-B/"
+  },
+  {
+   "sku": "p_t14s-t25sf_br1154-03",
+   "name": "T14 S – T25 S/F",
+   "path": "/en/catalog/models/t14-s-t20-t25-s-sf",
+   "image": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1154_T20SF_teaser.png",
+   "imageAlt": "T14 S – T25 S/F",
+   "description": "Linde T14 S – T25 S/F: Pallet Trucks, load capacity 2500 kg, lift height up to 115 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2375",
+     "name": "Pallet Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2375",
+    "name": "Pallet Trucks"
+   },
+   "capacityKg": {
+    "min": 2500,
+    "max": 2500
+   },
+   "liftHeightMm": {
+    "min": 0,
+    "max": 115
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2432",
+     "name": "Double Deck"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 703,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Trucks/T14-S-T20-T25-S-SF/"
+  },
+  {
+   "sku": "p_t16l_br1155",
+   "name": "T16 L",
+   "path": "/en/catalog/models/t16-l",
+   "image": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1155-T16L_teaser.png",
+   "imageAlt": "T16 L",
+   "description": "Linde T16 L: Pallet Trucks, load capacity 1600 kg, lift height up to 675 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2375",
+     "name": "Pallet Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2375",
+    "name": "Pallet Trucks"
+   },
+   "capacityKg": {
+    "min": 1600,
+    "max": 1600
+   },
+   "liftHeightMm": {
+    "min": 675,
+    "max": 675
+   },
+   "pickingHeightMm": 1600,
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": true,
+   "sortWeight": 709,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Trucks/T16-L/"
+  },
+  {
+   "sku": "p_t16p-20p-br1155",
+   "name": "T16 – T20 P",
+   "path": "/en/catalog/models/t16-t20-p",
+   "image": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1155-T20_P_SF_2PzS-B_Teaser.png",
+   "imageAlt": "T16 – T20 P",
+   "description": "Linde T16 – T20 P: Pallet Trucks, load capacity 2000 kg, lift height up to 125 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2375",
+     "name": "Pallet Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2375",
+    "name": "Pallet Trucks"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 125,
+    "max": 125
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 707,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Trucks/T16-T20-P/"
+  },
+  {
+   "sku": "p_t20-t25_ap_br1156",
+   "name": "T20 – T25 AP",
+   "path": "/en/catalog/models/t20-t25-ap",
+   "image": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1156_T20_AP_teaser.png",
+   "imageAlt": "T20 – T25 AP",
+   "description": "Linde T20 – T25 AP: Pallet Trucks, load capacity 2500 kg, lift height up to 125 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2375",
+     "name": "Pallet Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2375",
+    "name": "Pallet Trucks"
+   },
+   "capacityKg": {
+    "min": 2500,
+    "max": 2500
+   },
+   "liftHeightMm": {
+    "min": 125,
+    "max": 125
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 706,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Trucks/T20-T25-AP/"
+  },
+  {
+   "sku": "p_t20-t25_sp_br1156",
+   "name": "T20 – T25 SP",
+   "path": "/en/catalog/models/t20-t25-sp",
+   "image": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1156_T20_SP_teaser.png",
+   "imageAlt": "T20 – T25 SP",
+   "description": "Linde T20 – T25 SP: Pallet Trucks, load capacity 2500 kg, lift height up to 125 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2375",
+     "name": "Pallet Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2375",
+    "name": "Pallet Trucks"
+   },
+   "capacityKg": {
+    "min": 2500,
+    "max": 2500
+   },
+   "liftHeightMm": {
+    "min": 125,
+    "max": 125
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 705,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Trucks/T20-T25-SP/"
+  },
+  {
+   "sku": "p_t20r-t25r_br1154-03",
+   "name": "T20 – T25 R",
+   "path": "/en/catalog/models/t20-t25-r",
+   "image": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1154-01_T20R_teaser.png",
+   "imageAlt": "T20 – T25 R",
+   "description": "Linde T20 – T25 R: Pallet Trucks, load capacity 2000–2500 kg, lift height up to 115 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2375",
+     "name": "Pallet Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2375",
+    "name": "Pallet Trucks"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2500
+   },
+   "liftHeightMm": {
+    "min": 0,
+    "max": 115
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 702,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Trucks/T20-T25-R/"
+  },
+  {
+   "sku": "p_t20rw-t25rw_br1154-03",
+   "name": "T20 – T25 RW",
+   "path": "/en/catalog/models/t20-t25-rw",
+   "image": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1154-02-T20R-Plus_teaser.png",
+   "imageAlt": "T20 – T25 RW",
+   "description": "Linde T20 – T25 RW: Pallet Trucks, load capacity 2000–2500 kg, lift height up to 125 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2375",
+     "name": "Pallet Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2375",
+    "name": "Pallet Trucks"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2500
+   },
+   "liftHeightMm": {
+    "min": 0,
+    "max": 125
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 701,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Trucks/T20-T25-RW/"
+  },
+  {
+   "sku": "p_t20sr-t25sr_br1154-03",
+   "name": "T20 – T25 SR",
+   "path": "/en/catalog/models/t20-t25-sr",
+   "image": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1154-01_T20SR_teaser.png",
+   "imageAlt": "T20 – T25 SR",
+   "description": "Linde T20 – T25 SR: Pallet Trucks, load capacity 2000 kg, lift height up to 115 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2375",
+     "name": "Pallet Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2375",
+    "name": "Pallet Trucks"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 0,
+    "max": 115
+   },
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 704,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Trucks/T20-T25-SR/"
+  },
+  {
+   "sku": "p_t25_t30_br1153-02",
+   "name": "T25 – T30",
+   "path": "/en/catalog/models/t25-t30",
+   "image": "https://www.linde-mh.com/media/3D_Product/Teaser/BR1153-02_T25-T30_teaser.png",
+   "imageAlt": "T25 – T30",
+   "description": "Linde T25 – T30: Pallet Trucks, load capacity 2500–3000 kg, lift height up to 125 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2375",
+     "name": "Pallet Trucks",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2375",
+    "name": "Pallet Trucks"
+   },
+   "capacityKg": {
+    "min": 2500,
+    "max": 3000
+   },
+   "liftHeightMm": {
+    "min": 0,
+    "max": 125
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2434",
+     "name": "Narrow Aisle"
+    }
+   ],
+   "explosionProof": true,
+   "sortWeight": 708,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Pallet-Trucks/T25-T30/"
+  },
+  {
+   "sku": "p_v08_br4594-00",
+   "name": "V08",
+   "path": "/en/catalog/models/v08",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/07_Order-Pickers/BR4594_V08-01-02/BR4594_V08-01-02_00017.png",
+   "imageAlt": "V08",
+   "description": "Linde V08: Order Pickers, load capacity 1000 kg, lift height up to 1877 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2371",
+     "name": "Order Pickers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2371",
+    "name": "Order Pickers"
+   },
+   "capacityKg": {
+    "min": 1000,
+    "max": 1000
+   },
+   "liftHeightMm": {
+    "min": 1877,
+    "max": 1877
+   },
+   "pickingHeightMm": 2800,
+   "driveTypes": [
+    "Battery",
+    "Fuel Cell",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 205,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Order-Pickers/V08/"
+  },
+  {
+   "sku": "p_v10-63_br5021-01",
+   "name": "V10",
+   "path": "/en/catalog/models/v10",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/07_Order-Pickers/BR5021_V10/BR5021_V10_00000.png",
+   "imageAlt": "V10",
+   "description": "Linde V10: Order Pickers, load capacity 650–1000 kg, lift height up to 5415 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2371",
+     "name": "Order Pickers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2371",
+    "name": "Order Pickers"
+   },
+   "capacityKg": {
+    "min": 650,
+    "max": 1000
+   },
+   "liftHeightMm": {
+    "min": 5415,
+    "max": 5415
+   },
+   "pickingHeightMm": 6350,
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    },
+    {
+     "id": "2434",
+     "name": "Narrow Aisle"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 204,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Order-Pickers/V10/"
+  },
+  {
+   "sku": "p_v24-48v_br5214",
+   "name": "V modular",
+   "path": "/en/catalog/models/v",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/07_Order-Pickers/BR5214_V-modular/F01_360_V-Modular_Linde_220919.0000.png",
+   "imageAlt": "V modular",
+   "description": "Linde V modular: Order Pickers, load capacity 1200 kg, lift height up to 12660 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2371",
+     "name": "Order Pickers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2371",
+    "name": "Order Pickers"
+   },
+   "capacityKg": {
+    "min": 1200,
+    "max": 1200
+   },
+   "liftHeightMm": {
+    "min": 12660,
+    "max": 12660
+   },
+   "pickingHeightMm": 14500,
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    },
+    {
+     "id": "2434",
+     "name": "Narrow Aisle"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 202,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Order-Pickers/V/"
+  },
+  {
+   "sku": "p_v24-48v_modular_b_br5214",
+   "name": "V modular B",
+   "path": "/en/catalog/models/v-modular-b",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/07_Order-Pickers/BR5214_V-modular-B/BR5214_Vmodular_B_WEB_0000_LINDE.png",
+   "imageAlt": "V modular B",
+   "description": "Linde V modular B: Order Pickers, load capacity 1000 kg, lift height up to 6865 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2371",
+     "name": "Order Pickers",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2371",
+    "name": "Order Pickers"
+   },
+   "capacityKg": {
+    "min": 1000,
+    "max": 1000
+   },
+   "liftHeightMm": {
+    "min": 6865,
+    "max": 6865
+   },
+   "pickingHeightMm": 7833,
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2435",
+     "name": "Order Picking"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 203,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Order-Pickers/V-modular-B/"
+  },
+  {
+   "sku": "p_w20-w30_5007-10",
+   "name": "W20 – W30",
+   "path": "/en/catalog/models/w20-w30",
+   "image": "https://www.linde-mh.com/media/Global-Content/01-Products/15_Transparent_Background/BR5007_W30_0034_LINDE_Thumbnail.png",
+   "imageAlt": "W20 – W30",
+   "description": "Linde W20 – W30: Tow Tractors, load capacity 2000–3000 kg, lift height up to 0 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2370",
+     "name": "Tow Tractors",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2370",
+    "name": "Tow Tractors"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 3000
+   },
+   "liftHeightMm": {
+    "min": 0,
+    "max": 0
+   },
+   "driveTypes": [
+    "Battery",
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2433",
+     "name": "Towing"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 601,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/Tow-Trucks/W20-W30/"
+  },
+  {
+   "sku": "p_x20-x35_1252-01",
+   "name": "X20 – X35",
+   "path": "/en/catalog/models/x20-x35",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/01_E-Trucks/BR1252_X30/1252_00_X30_WEB_00008.png",
+   "imageAlt": "X20 – X35",
+   "description": "Linde X20 – X35: Electric Forklifts, load capacity 3500 kg, lift height up to 7780 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2377",
+     "name": "Electric Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2377",
+    "name": "Electric Forklifts"
+   },
+   "capacityKg": {
+    "min": 3500,
+    "max": 3500
+   },
+   "liftHeightMm": {
+    "min": 7780,
+    "max": 7780
+   },
+   "driveTypes": [
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 1007,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/E-Trucks/X20-X35/"
+  },
+  {
+   "sku": "p_x35-x50-600_1254-01",
+   "name": "X35 – X50",
+   "path": "/en/catalog/models/x35-x50",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/01_E-Trucks/BR1254_X50/1254_00_X50-600_BASIC_WEB_00008.png",
+   "imageAlt": "X35 – X50",
+   "description": "Linde X35 – X50: Electric Forklifts, load capacity 5000 kg, lift height up to 7665 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2377",
+     "name": "Electric Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2377",
+    "name": "Electric Forklifts"
+   },
+   "capacityKg": {
+    "min": 5000,
+    "max": 5000
+   },
+   "liftHeightMm": {
+    "min": 7665,
+    "max": 7665
+   },
+   "driveTypes": [
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 1004,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/E-Trucks/X35-X50/"
+  },
+  {
+   "sku": "p_xi12-20_3w_br1251-01",
+   "name": "Xi10 – Xi20",
+   "path": "/en/catalog/models/xi10-xi20",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/01_E-Trucks/BR1251_Xi16/BR1251-01_Xi16-Basic_00007_LINDE.png",
+   "imageAlt": "Xi10 – Xi20",
+   "description": "Linde Xi10 – Xi20: Electric Forklifts, load capacity 2000 kg, lift height up to 8000 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2377",
+     "name": "Electric Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2377",
+    "name": "Electric Forklifts"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 8000,
+    "max": 8000
+   },
+   "driveTypes": [
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 1016,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/E-Trucks/Xi10-Xi20/"
+  },
+  {
+   "sku": "p_xi14-20r_3w_br1251-01",
+   "name": "Xi14 – Xi20 R",
+   "path": "/en/catalog/models/xi14-xi20-r",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/01_E-Trucks/BR1251_Xi16R/BR1251-01_Xi16R-Basic12_00007_LINDE.png",
+   "imageAlt": "Xi14 – Xi20 R",
+   "description": "Linde Xi14 – Xi20 R: Electric Forklifts, load capacity 2000 kg, lift height up to 8000 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2377",
+     "name": "Electric Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2377",
+    "name": "Electric Forklifts"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 8000,
+    "max": 8000
+   },
+   "driveTypes": [
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2433",
+     "name": "Towing"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 1015,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/E-Trucks/Xi14-Xi20-R/"
+  },
+  {
+   "sku": "p_xi16-20rp_4w_br1251-01",
+   "name": "Xi16 – Xi20 RP",
+   "path": "/en/catalog/models/xi16-xi20-rp",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/01_E-Trucks/BR1251_Xi20RP/BR1251-01_Xi20RP-LSCBasic22_00007_LINDE.png",
+   "imageAlt": "Xi16 – Xi20 RP",
+   "description": "Linde Xi16 – Xi20 RP: Electric Forklifts, load capacity 2000 kg, lift height up to 8000 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2377",
+     "name": "Electric Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2377",
+    "name": "Electric Forklifts"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 8000,
+    "max": 8000
+   },
+   "driveTypes": [
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2433",
+     "name": "Towing"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 1011,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/E-Trucks/Xi16-Xi20-RP/"
+  },
+  {
+   "sku": "p_xi16p-20ph_4w_br1251-01",
+   "name": "Xi16 – Xi20 P",
+   "path": "/en/catalog/models/xi16-xi20-p",
+   "image": "https://www.linde-mh.com/media/3D_Product/turntables/01_E-Trucks/BR1251_Xi20P/BR1251-01_Xi20P-Basic_00007_LINDE.png",
+   "imageAlt": "Xi16 – Xi20 P",
+   "description": "Linde Xi16 – Xi20 P: Electric Forklifts, load capacity 2000 kg, lift height up to 8000 mm.",
+   "kind": "model",
+   "categories": [
+    {
+     "id": "model:2377",
+     "name": "Electric Forklifts",
+     "kind": "model-type"
+    }
+   ],
+   "productType": {
+    "id": "2377",
+    "name": "Electric Forklifts"
+   },
+   "capacityKg": {
+    "min": 2000,
+    "max": 2000
+   },
+   "liftHeightMm": {
+    "min": 8000,
+    "max": 8000
+   },
+   "driveTypes": [
+    "Li-Ion"
+   ],
+   "applications": [
+    {
+     "id": "2438",
+     "name": "Moving"
+    },
+    {
+     "id": "2437",
+     "name": "Loading / Unloading Dock"
+    },
+    {
+     "id": "2436",
+     "name": "Loading / Unloading over the side"
+    },
+    {
+     "id": "2439",
+     "name": "Storage and Retrieval"
+    }
+   ],
+   "explosionProof": false,
+   "sortWeight": 1012,
+   "sourceUrl": "https://www.linde-mh.com/en/Products/E-Trucks/Xi16-Xi20-P/"
+  }
+ ]
+}
