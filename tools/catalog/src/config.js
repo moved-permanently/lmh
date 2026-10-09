@@ -46,3 +46,31 @@ export const INDEX_PROPERTIES = Object.freeze({
   pricePolicy: 'custom.pricePolicy',
   sourceUrl: 'custom.source.url',
 });
+
+/** The helix-product-indexer wants source -> column; INDEX_PROPERTIES is column -> source. */
+export function indexerProperties() {
+  return Object.fromEntries(Object.entries(INDEX_PROPERTIES).map(([col, src]) => [src, col]));
+}
+
+export const MIXER_CONFIG = Object.freeze({
+  patterns: {
+    '/en/catalog/*': 'productbus',
+    [`${MODELS_ROOT}/*`]: 'productbus',
+    [`${MODELS_ROOT}/media_*/*`]: 'productbus',
+    [`${SHOP_ROOT}/*`]: 'productbus',
+    [`${SHOP_ROOT}/media_*/*`]: 'productbus',
+    default: 'edge-delivery',
+  },
+  backends: {
+    productbus: {
+      origin: 'pipeline-cloudflare.adobecommerce.live',
+      protocol: 'https',
+      pathPrefix: `/${DESTINATION.org}/${DESTINATION.site}/main/`,
+    },
+  },
+});
+
+/** Complete `public` scope for admin.hlx.page/config/moved-permanently/sites/lmh/public.json. */
+export function publicConfig() {
+  return { mixerConfig: MIXER_CONFIG, productIndexerConfig: { properties: indexerProperties() } };
+}

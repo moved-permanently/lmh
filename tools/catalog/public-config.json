@@ -1,0 +1,43 @@
+{
+  "mixerConfig": {
+    "patterns": {
+      "/en/catalog/*": "productbus",
+      "/en/catalog/models/*": "productbus",
+      "/en/catalog/models/media_*/*": "productbus",
+      "/en/catalog/shop/*": "productbus",
+      "/en/catalog/shop/media_*/*": "productbus",
+      "default": "edge-delivery"
+    },
+    "backends": {
+      "productbus": {
+        "origin": "pipeline-cloudflare.adobecommerce.live",
+        "protocol": "https",
+        "pathPrefix": "/moved-permanently/lmh/main/"
+      }
+    }
+  },
+  "productIndexerConfig": {
+    "properties": {
+      "name": "name",
+      "path": "path",
+      "images[0].url": "image",
+      "images[0].label": "imageAlt",
+      "price.final": "price",
+      "price.regular": "regularPrice",
+      "price.currency": "currency",
+      "metaDescription": "description",
+      "custom.catalogueKind": "kind",
+      "custom.categories": "categories",
+      "custom.productType": "productType",
+      "custom.capacityKg": "capacityKg",
+      "custom.liftHeightMm": "liftHeightMm",
+      "custom.pickingHeightMm": "pickingHeightMm",
+      "custom.driveTypes": "driveTypes",
+      "custom.applications": "applications",
+      "custom.explosionProof": "explosionProof",
+      "custom.sortWeight": "sortWeight",
+      "custom.pricePolicy": "pricePolicy",
+      "custom.source.url": "sourceUrl"
+    }
+  }
+}
