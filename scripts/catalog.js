@@ -67,6 +67,9 @@ export function catalogSources(loc = globalThis.location) {
   };
 }
 
+export const catalogAvailable = () => { throw new Error('catalogAvailable: not implemented'); };
+export const deliveryUrl = () => { throw new Error('deliveryUrl: not implemented'); };
+
 /* ---------------------------------------------------------------- index */
 
 async function getJson(url, fetchImpl) {

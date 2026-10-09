@@ -5,6 +5,8 @@ import { readFileSync } from 'node:fs';
 import {
   DEFAULT_ORIGIN,
   catalogOrigin,
+  catalogAvailable,
+  deliveryUrl,
   isFixtureMode,
   fixtureUrl,
   catalogSources,
@@ -30,6 +32,7 @@ const rows = () => { normalized = normalized || fixture.data.map(normalizeRow); 
 const bySku = (sku) => rows().find((r) => r.sku === sku);
 
 const loc = (href) => new URL(href);
+const NET = new URL('https://main--lmh--moved-permanently.aem.network/en/');
 const json = (body, status = 200) => new Response(JSON.stringify(body), {
   status, headers: { 'content-type': 'application/json' },
 });
@@ -51,12 +54,28 @@ function pagedFetch(sheet, limit, tamper = (page) => page) {
 }
 
 describe('origin and sources', () => {
-  test('same origin on .aem.network, the main network origin everywhere else', () => {
+  test('the catalogue is always read from the page origin (no CORS on the Product Bus)', () => {
     assert.equal(catalogOrigin(loc('https://catalog-blocks--lmh--moved-permanently.aem.network/en/')), 'https://catalog-blocks--lmh--moved-permanently.aem.network');
-    assert.equal(catalogOrigin(loc('https://main--lmh--moved-permanently.aem.page/en/')), DEFAULT_ORIGIN);
-    assert.equal(catalogOrigin(loc('http://localhost:3000/en/')), DEFAULT_ORIGIN);
+    assert.equal(catalogOrigin(loc('https://main--lmh--moved-permanently.aem.page/en/')), 'https://main--lmh--moved-permanently.aem.page');
+    assert.equal(catalogOrigin(loc('http://localhost:3000/en/')), 'http://localhost:3000');
     assert.equal(catalogOrigin(undefined), DEFAULT_ORIGIN);
     assert.equal(DEFAULT_ORIGIN, 'https://main--lmh--moved-permanently.aem.network');
+  });
+
+  test('catalogue data is available on *.aem.network and with the localhost fixture switch only', () => {
+    assert.equal(catalogAvailable(loc('https://main--lmh--moved-permanently.aem.network/en/')), true);
+    assert.equal(catalogAvailable(loc('https://catalog-blocks--lmh--moved-permanently.aem.network/en/x')), true);
+    assert.equal(catalogAvailable(loc('https://main--lmh--moved-permanently.aem.page/en/')), false);
+    assert.equal(catalogAvailable(loc('https://main--lmh--moved-permanently.aem.live/en/')), false);
+    assert.equal(catalogAvailable(loc('http://localhost:3000/en/?catalog=fixture')), true);
+    assert.equal(catalogAvailable(loc('http://localhost:3000/en/')), false);
+    assert.equal(catalogAvailable(undefined), false);
+  });
+
+  test('the delivery URL keeps the branch, path, query and hash on .aem.network', () => {
+    assert.equal(deliveryUrl(loc('https://catalog-blocks--lmh--moved-permanently.aem.page/en/products/pallet-trucks?x=1#top')), 'https://catalog-blocks--lmh--moved-permanently.aem.network/en/products/pallet-trucks?x=1#top');
+    assert.equal(deliveryUrl(loc('https://main--lmh--moved-permanently.aem.live/en/')), 'https://main--lmh--moved-permanently.aem.network/en/');
+    assert.equal(deliveryUrl(loc('http://localhost:3000/en/products/pallet-stackers')), 'https://main--lmh--moved-permanently.aem.network/en/products/pallet-stackers');
   });
 
   test('fixture mode only on localhost with ?catalog=fixture', () => {
@@ -73,16 +92,20 @@ describe('origin and sources', () => {
     assert.equal(fixtureUrl('/en/catalog/shop/ln-t14b-gb'), '/test/fixtures/catalog/shop-ln-t14b-gb.json');
   });
 
-  test('sources: live index + product JSON on the catalogue origin, fixtures on localhost', () => {
-    const live = catalogSources(loc('https://main--lmh--moved-permanently.aem.page/en/'));
-    assert.equal(live.indexUrl, `${DEFAULT_ORIGIN}/en/catalog/index.json`);
-    assert.equal(live.productUrl('/en/catalog/models/e10'), `${DEFAULT_ORIGIN}/en/catalog/models/e10.json`);
-    assert.equal(live.fixture, false);
+  test('sources: same-origin index + product JSON, fixtures on localhost', () => {
+    const net = catalogSources(loc('https://catalog-blocks--lmh--moved-permanently.aem.network/en/'));
+    assert.equal(net.indexUrl, 'https://catalog-blocks--lmh--moved-permanently.aem.network/en/catalog/index.json');
+    assert.equal(net.productUrl('/en/catalog/models/e10'), 'https://catalog-blocks--lmh--moved-permanently.aem.network/en/catalog/models/e10.json');
+    assert.equal(net.imageBase, 'https://catalog-blocks--lmh--moved-permanently.aem.network');
+    assert.equal(net.fixture, false);
+    assert.equal(net.available, true);
+    assert.equal(catalogSources(loc('https://main--lmh--moved-permanently.aem.page/en/')).available, false);
     const dev = catalogSources(loc('http://localhost:3000/en/?catalog=fixture'));
     assert.equal(dev.indexUrl, '/test/fixtures/catalog/index.json');
     assert.equal(dev.productUrl('/en/catalog/models/e10'), '/test/fixtures/catalog/models-e10.json');
     assert.equal(dev.fixture, true);
-    // images keep resolving against the catalogue origin in fixture mode
+    assert.equal(dev.available, true);
+    // fixture images keep resolving against the main delivery origin
     assert.equal(dev.imageBase, DEFAULT_ORIGIN);
   });
 });
@@ -129,7 +152,7 @@ describe('complete index', () => {
   test('loadIndex is memoized per index URL and exposes lookups', async () => {
     resetCatalogCache();
     const { impl, calls } = pagedFetch(fixture, 1000);
-    const opts = { fetch: impl, location: loc('https://main--lmh--moved-permanently.aem.page/en/') };
+    const opts = { fetch: impl, location: NET };
     const [a, b] = await Promise.all([loadIndex(opts), loadIndex(opts)]);
     assert.equal(a, b);
     assert.equal(calls.length, 1);
@@ -137,11 +160,21 @@ describe('complete index', () => {
     assert.equal(a.bySku.get('LN-T14B-GB').name, 'T14 B Electric Pallet Truck (1400kg)');
   });
 
+  test('off the delivery host nothing is fetched: loadIndex / getProduct reject as unavailable', async () => {
+    resetCatalogCache();
+    let calls = 0;
+    const spy = async () => { calls += 1; return json(fixture); };
+    const page = loc('https://catalog-blocks--lmh--moved-permanently.aem.page/en/products/pallet-trucks');
+    await assert.rejects(loadIndex({ fetch: spy, location: page }), (e) => e.code === 'unavailable');
+    await assert.rejects(getProduct('/en/catalog/models/e10', { fetch: spy, location: page }), (e) => e.code === 'unavailable');
+    assert.equal(calls, 0);
+  });
+
   test('a failed load is not cached (the next call retries)', async () => {
     resetCatalogCache();
     let n = 0;
     const flaky = async (url) => { n += 1; return n === 1 ? json({}, 503) : pagedFetch(fixture, 1000).impl(url); };
-    const opts = { fetch: flaky, location: loc('https://main--lmh--moved-permanently.aem.page/en/') };
+    const opts = { fetch: flaky, location: NET };
     await assert.rejects(loadIndex(opts), /503/);
     const idx = await loadIndex(opts);
     assert.equal(idx.rows.length, 198);
@@ -231,7 +264,7 @@ describe('lookups', () => {
 
   test('getBySku / getByCategory work on the loaded index', async () => {
     resetCatalogCache();
-    const opts = { fetch: pagedFetch(fixture, 1000).impl, location: loc('https://main--lmh--moved-permanently.aem.page/en/') };
+    const opts = { fetch: pagedFetch(fixture, 1000).impl, location: NET };
     assert.equal((await getBySku('LN-ML10', opts)).name, 'ML10 Electric Pallet Stacker (1000Kg)');
     assert.equal(await getBySku('nope', opts), undefined);
     const cat = await getByCategory('model:2374', opts);
@@ -245,9 +278,9 @@ describe('lookups', () => {
     const detail = JSON.parse(readFileSync(new URL('../fixtures/catalog/models-e10.json', import.meta.url)));
     const seen = [];
     const impl = async (url) => { seen.push(String(url)); return json(detail); };
-    const p = await getProduct('/en/catalog/models/e10', { fetch: impl, location: loc('https://main--lmh--moved-permanently.aem.page/en/') });
+    const p = await getProduct('/en/catalog/models/e10', { fetch: impl, location: NET });
     assert.equal(p.sku, 'p_e10_8917-01');
-    assert.deepEqual(seen, [`${DEFAULT_ORIGIN}/en/catalog/models/e10.json`]);
+    assert.deepEqual(seen, ['https://main--lmh--moved-permanently.aem.network/en/catalog/models/e10.json']);
   });
 });
 
