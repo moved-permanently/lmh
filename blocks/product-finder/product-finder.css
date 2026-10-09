@@ -1,7 +1,9 @@
-/* product-finder — static snapshot of the finder (source .productfinder-selector / .productfinder /
-   .product-tile); values lifted from the gated prototype stardust/prototypes/en-productfinder-html.css
-   (index + light-range finder bundles). Live measured 1440: selector 227, tile 525 (details 275),
-   filter rail 320, grid x 320 w 1120; 360: selector 120, tile 280 wide / 495 tall. */
+/* stylelint-disable no-descending-specificity -- rules are grouped by component, not by cascade */
+
+/* product-finder — the New trucks finder on live Product Bus data (product-finder.js +
+   finder-model.js); the look is the migrated finder (source .productfinder-selector / .productfinder /
+   .product-tile, values from stardust/prototypes/en-productfinder-html.css). Live measured 1440:
+   selector 227, tile 525 (details 275), filter rail 320, grid x 320 w 1120; 360: tile 280 wide. */
 .product-finder-container .product-finder-wrapper {
   max-width: none;
   padding: 0;
@@ -19,8 +21,18 @@
   box-sizing: border-box;
 }
 
-.product-finder .pf-hidden {
-  display: none;
+.product-finder .pf-hidden,
+.product-finder [hidden] {
+  display: none !important;
+}
+
+.product-finder .pf-sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
 }
 
 .product-finder ul {
@@ -54,6 +66,7 @@
 .product-finder .pf-icon-arrowright::before { content: "\f127"; }
 .product-finder .pf-icon-down::before { content: "\f12f"; }
 .product-finder .pf-icon-left::before { content: "\f13d"; }
+.product-finder .pf-icon-close::before { content: "\f12d"; }
 
 /* buttons (canon .btn family) */
 .product-finder .pf-btn {
@@ -382,14 +395,20 @@
 }
 
 .product-finder .pf-group-header {
-  cursor: pointer;
+  display: flex;
+  align-items: center;
+  width: 100%;
   min-height: 45px;
-  line-height: 45px;
+  margin: 0;
+  padding: 0 0 0 16px;
+  border: 0;
   border-top: 3px solid transparent;
-}
-
-.product-finder .pf-group-header > div {
-  display: inline-block;
+  background: none;
+  color: inherit;
+  font: inherit;
+  line-height: 45px;
+  text-align: left;
+  cursor: pointer;
 }
 
 .product-finder .pf-group-icon {
@@ -398,6 +417,7 @@
 }
 
 .product-finder .pf-group-name {
+  flex: 1 1 auto;
   font-size: 1rem;
   font-weight: 600;
 }
@@ -407,10 +427,17 @@
 }
 
 .product-finder .pf-group-add {
+  flex: 0 0 45px;
   color: var(--color-red);
-  width: 45px;
   text-align: center;
-  float: right;
+}
+
+.product-finder .pf-group-add .icon {
+  transition: transform 0.2s ease-in-out;
+}
+
+.product-finder .pf-group-open .pf-group-add .icon {
+  transform: rotate(180deg);
 }
 
 .product-finder .pf-group-flyout {
@@ -430,24 +457,6 @@
 
 .product-finder .pf-group-reset {
   text-align: right;
-}
-
-.product-finder .pf-group-extra {
-  position: relative;
-  width: calc(100% + 32px);
-  left: -16px;
-  bottom: -16px;
-  padding: 16px;
-  background: var(--color-shadegrey);
-  z-index: 1;
-}
-
-.product-finder .pf-group-extra-title {
-  font-weight: 600;
-}
-
-.product-finder .pf-group-extra-text {
-  margin-bottom: 8px;
 }
 
 .product-finder .pf-reset {
@@ -477,13 +486,13 @@
   z-index: -100;
 }
 
-.product-finder .pf-checkbox span {
+.product-finder .pf-checkbox > span {
   display: block;
   height: 24px;
   line-height: 24px;
 }
 
-.product-finder .pf-checkbox span::before {
+.product-finder .pf-checkbox > span::before {
   content: "";
   display: block;
   float: left;
@@ -509,23 +518,6 @@
 .product-finder .pf-range {
   display: flex;
   flex-direction: column;
-}
-
-.product-finder .pf-range-sliders {
-  position: relative;
-  height: 30px;
-  cursor: pointer;
-}
-
-.product-finder .pf-range-sliders input {
-  appearance: none;
-  position: absolute;
-  width: 100%;
-  height: 8px;
-  min-height: 8px;
-  padding: 0;
-  border: none;
-  background: linear-gradient(to right, #990e1f 0, #eeeff3 0);
 }
 
 .product-finder .pf-range-fields {
@@ -566,110 +558,89 @@
   font-size: 0.9rem;
 }
 
-.product-finder .pf-text-fields .pf-filter {
-  margin-top: 16px;
+/* interactive states (mobile: the rail and each group slide in; desktop: groups expand in place) */
+.product-finder.pf-rail-open .pf-rail,
+.product-finder .pf-group-open .pf-group-flyout {
+  transform: none;
 }
 
-.product-finder .pf-text-fields input {
+.product-finder .pf-group-back {
+  display: flex;
+  align-items: center;
+  gap: 8px;
   width: 100%;
+  margin: 0 0 8px;
+  padding: 12px 0;
+  border: 0;
+  border-bottom: 1px solid var(--color-lightgrey);
+  font-weight: 600;
+  text-align: left;
 }
 
-/* compare panel (desktop rail foot; inert — no commerce on the target) */
-.product-finder .pf-compare {
-  display: none;
-  flex-direction: column;
-  width: 304px;
-  margin: 8px;
-  background: var(--color-white);
+.product-finder .pf-rail-back {
+  border: 0;
 }
 
-.product-finder .pf-compare-header {
-  position: relative;
+.product-finder .pf-rail-title {
+  flex: 1 1 auto;
+  font-weight: 600;
+}
+
+.product-finder .pf-group-pills {
   display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 0 16px;
+}
+
+.product-finder .pf-group-pills:not(:empty) {
+  padding-bottom: 12px;
+}
+
+.product-finder .pf-pill {
+  display: inline-flex;
   align-items: center;
-  justify-content: center;
-  height: 48px;
-  min-height: 48px;
-  flex: 0 0 48px;
-  line-height: 48px;
+  gap: 4px;
+  padding: 4px 8px;
+  border: 0;
+  background: var(--color-lightgrey);
+  color: var(--color-darkgrey);
+  font-size: 0.8rem;
+  line-height: 1.5;
 }
 
-.product-finder .pf-compare-count {
-  min-width: 32px;
-  width: 32px;
-  height: 32px;
-  min-height: 32px;
-  margin-left: 8px;
-  border-radius: 40px;
-  background-color: #ba1926;
-  color: var(--color-white);
-  text-align: center;
-  font-size: 21px;
-  line-height: 35px;
-  font-family: var(--bold-font-family);
+.product-finder .pf-pill .icon {
+  font-size: 14px;
+  color: var(--color-red);
 }
 
-.product-finder .pf-compare-title {
-  flex: 1 1 100%;
-  min-height: 32px;
-  padding-left: 8px;
-  font-size: 18px;
-  line-height: 32px;
-  font-family: var(--bold-font-family);
-}
-
-.product-finder .pf-compare-header .icon {
-  display: none;
-}
-
-.product-finder .pf-compare-dropzone {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex: 0 0 100px;
-  height: 100px;
-  min-height: 50px;
-  margin: 0 8px;
-  padding: 16px;
-  border: 1px dashed var(--color-form-lightgrey);
-  text-align: center;
+.product-finder .pf-option-count {
+  display: inline;
   color: var(--color-textgrey);
+  font-size: 0.85em;
 }
 
-.product-finder .pf-compare-dropzone .icon {
-  flex: 0 0 auto;
-  margin: 0 16px 0 0;
+.product-finder .pf-checkbox:has(input:disabled) {
+  opacity: 0.5;
+  cursor: default;
 }
 
-.product-finder .pf-compare-drop-text {
-  flex: 1 1 100%;
-  font-size: 15px;
+.product-finder .pf-checkbox:has(input:focus-visible) > span::before {
+  outline: 2px solid var(--color-red);
+  outline-offset: 2px;
 }
 
-.product-finder .pf-compare-content {
-  display: flex;
-  flex-direction: column;
-  flex: 1 1 100%;
-  margin-top: 8px;
+.product-finder .pf-reset .pf-btn {
+  color: var(--color-red);
 }
 
-.product-finder .pf-compare-actions {
-  padding: 16px 8px 8px;
-  opacity: 0;
-  visibility: hidden;
+.product-finder .pf-empty {
+  padding: 4rem 16px;
+  text-align: center;
 }
 
-.product-finder .pf-compare-actions > * {
-  display: block;
-}
-
-.product-finder .pf-compare-actions > * + * {
-  margin-top: 8px;
-}
-
-.product-finder .pf-compare-actions .pf-btn {
-  display: block;
-  width: 100%;
+.product-finder .pf-empty p {
+  margin-bottom: 1rem;
 }
 
 /* results */
@@ -679,9 +650,9 @@
 }
 
 .product-finder .pf-sort {
-  display: inline-block;
-  float: right;
   margin: 2.5vw 2.5vw 0;
+  font-weight: 600;
+  text-align: right;
 }
 
 .product-finder .pf-grid {
@@ -756,23 +727,6 @@
   margin-top: -60px;
   padding: 60px 8px 3rem 16px;
   background: var(--color-lightgrey);
-}
-
-.product-finder .pf-tile-pin {
-  position: absolute;
-  top: 0;
-  right: 0;
-  z-index: 5;
-}
-
-.product-finder .pf-tile-pin-link {
-  display: block;
-  color: inherit;
-}
-
-.product-finder .pf-tile-pin .icon {
-  opacity: 0.5;
-  transform: rotate(-45deg);
 }
 
 .product-finder .pf-tile-type {
@@ -1012,8 +966,15 @@
     transform: none;
   }
 
-  .product-finder .pf-compare {
-    display: flex;
+  .product-finder .pf-group-open .pf-group-flyout {
+    max-height: none;
+    padding: 0 16px 16px;
+    opacity: 1;
+    overflow: visible;
+  }
+
+  .product-finder .pf-group-back {
+    display: none;
   }
 
   .product-finder .pf-sort {

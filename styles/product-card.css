@@ -1,0 +1,235 @@
+/* styles/product-card.css — the shared Product Bus card (scripts/catalog.js renderProductCard) and
+   its grid, styled after the migrated finder tiles (blocks/product-finder .pf-tile): square image
+   over a light-grey panel, dark product-type badge, bold name, icon facts, red primary button.
+   Loaded by product-reference, product-collection and category-reference. */
+.product-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+@media (width >= 640px) {
+  .product-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (width >= 1024px) {
+  .product-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.product-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  height: 100%;
+}
+
+/* the image overhangs the panel by 60px, like the finder tile */
+.product-card-media {
+  position: relative;
+  z-index: 1;
+  display: block;
+  width: 86%;
+  margin: 0 auto;
+  aspect-ratio: 1 / 1;
+  mix-blend-mode: multiply; /* shop photos are shot on white: the panel grey shows through */
+}
+
+.product-card-media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transform: translateY(5%);
+}
+
+.product-card-body {
+  display: flex;
+  flex: 1 1 auto;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: -60px;
+  padding: 72px 16px 16px;
+  background: var(--color-lightgrey);
+}
+
+.product-card-eyebrow {
+  max-width: 100%;
+  margin: 0 0 8px;
+  padding: 6px 10px;
+  background-color: var(--color-textgrey);
+  color: var(--color-white);
+  font-size: 0.8rem;
+  line-height: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.product-card-title {
+  margin: 0;
+  font-size: 1.5rem;
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+}
+
+.product-card-title a {
+  color: var(--color-black);
+  font-family: var(--bold-font-family);
+  font-weight: 700;
+  line-height: inherit;
+  text-decoration: none;
+}
+
+.product-card-title a:hover {
+  color: var(--color-red);
+}
+
+.product-card-facts {
+  margin: 8px 0 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.product-card-fact {
+  margin-top: 2px;
+  color: var(--color-black);
+}
+
+.product-card-fact .icon {
+  margin-right: 5px;
+  font-size: 20px;
+  vertical-align: top;
+}
+
+.product-card-icon-loadcapacity::before { content: "\f189"; }
+.product-card-icon-height::before { content: "\f123"; }
+
+/* the visible fact is icon + value (finder tiles); the label stays for screen readers */
+.product-card-fact-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.product-card-price {
+  margin: 12px 0 0;
+  color: var(--color-black);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.product-card-price-amount {
+  font-family: var(--bold-font-family);
+  font-size: 1.33rem;
+  font-weight: 700;
+}
+
+.product-card-price-regular {
+  color: var(--color-textgrey);
+}
+
+.product-card-price-suffix,
+.product-card-price-prefix {
+  color: var(--color-textgrey);
+  font-size: 0.85rem;
+}
+
+.product-card-price-on-request {
+  font-family: var(--bold-font-family);
+  font-weight: 700;
+}
+
+.product-card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: auto 0 0;
+  padding-top: 16px;
+}
+
+.product-card-actions a.button {
+  display: inline-block;
+  margin: 0;
+  padding: 12px 18px;
+  border: 1px solid var(--color-red);
+  border-radius: 0;
+  font-size: 0.8rem;
+  line-height: 1;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.product-card-actions a.button.primary {
+  background-color: var(--color-red);
+  color: var(--color-white);
+}
+
+.product-card-actions a.button.primary:hover {
+  border-color: var(--color-primary-700);
+  background-color: var(--color-primary-700);
+}
+
+.product-card-actions a.button.secondary {
+  background-color: var(--color-white);
+  color: var(--color-red);
+}
+
+.product-card-actions a.button.secondary:hover {
+  color: var(--color-primary-700);
+}
+
+/* wide: the horizontal card (image left, details right) from 768px */
+@media (width >= 768px) {
+  .product-card.product-card-wide {
+    flex-direction: row;
+    align-items: stretch;
+  }
+
+  .product-card.product-card-wide .product-card-media {
+    flex: 0 0 40%;
+    width: auto;
+    margin: 0 -60px 0 0;
+  }
+
+  .product-card.product-card-wide .product-card-body {
+    justify-content: center;
+    margin-top: 0;
+    padding: 32px 32px 32px 92px;
+  }
+
+  .product-card.product-card-wide .product-card-title {
+    font-size: 2rem;
+  }
+
+  .product-card.product-card-wide .product-card-actions {
+    margin-top: 0;
+  }
+}
+
+/* loading / author placeholders (scripts/catalog.js renderNotice) */
+.catalog-loading {
+  min-height: 420px;
+}
+
+.catalog-placeholder {
+  margin: 0;
+  padding: 16px;
+  border: 2px dashed var(--color-form-darkgrey);
+  color: var(--color-textgrey);
+  font-size: 0.85rem;
+  line-height: 1.5;
+}

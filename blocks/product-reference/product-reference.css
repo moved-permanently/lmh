@@ -1,0 +1,9 @@
+/* product-reference — the card itself is styles/product-card.css */
+.product-reference {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.product-reference.wide {
+  max-width: 1000px;
+}
