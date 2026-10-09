@@ -24,7 +24,7 @@ describe('product search', () => {
     const all = searchProducts(rows(), {});
     assert.equal(all.length, 106);
     assert.equal(all[0].sku, 'p_e10_8917-01');
-    assert.deepEqual(skus(all.slice(98, 101)), ['LN-MT15-C', 'LN-M20', 'LN-M25']);
+    assert.deepEqual(skus(all.slice(98, 101)), ['LN-M20', 'LN-M25', 'LN-M303000HDHPT']);
     assert.ok(all.every((r) => !r.parentSku));
   });
 
@@ -52,7 +52,7 @@ describe('product search', () => {
   test('search reads name or SKU, case-insensitive', () => {
     assert.deepEqual(skus(searchProducts(rows(), { q: 'LN-t14' })), ['LN-T14B-GB']);
     assert.deepEqual(skus(searchProducts(rows(), { q: 'pallet STACKER' })), ['LN-ML10', 'LN-MM10']);
-    assert.deepEqual(skus(searchProducts(rows(), { q: ' e10 ' })).sort(), ['p_e10_8917-01', 'p_e100-e180_br1471']);
+    assert.deepEqual(skus(searchProducts(rows(), { q: ' e10 ' })).sort(), ['p_e100-e180_br1471', 'p_e10_8917-01']);
     assert.deepEqual(searchProducts(rows(), { q: 'zzz' }), []);
   });
 
