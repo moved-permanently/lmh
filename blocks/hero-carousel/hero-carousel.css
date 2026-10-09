@@ -56,7 +56,6 @@
   color: var(--color-red);
   font-size: 1.5rem;
   line-height: 1.25;
-  text-transform: uppercase;
 }
 
 .hero-carousel .hero-carousel-eyebrow strong {
@@ -108,9 +107,12 @@
   width: 100%;
 }
 
+/* 16:9 box reserved before the (lazy) image loads: every slide keeps the live 219px image band at 390,
+   so the track is as tall as the tallest slide from the start (no shift when a later slide loads) */
 .hero-carousel .hero-carousel-image {
   position: relative;
   max-height: 384px;
+  aspect-ratio: 16 / 9;
   overflow: hidden;
 }
 
@@ -122,7 +124,8 @@
 .hero-carousel .hero-carousel-image img {
   display: block;
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
 }
 
 /* controls: dots (slide tabs) + arrows */
@@ -131,6 +134,9 @@
   width: 100%;
   margin: 0 auto;
   padding: 0;
+  min-height: 32px;
+  font-size: 0.95rem;
+  line-height: 1.5;
   list-style: none;
   text-align: center;
 }
@@ -255,9 +261,12 @@
     padding: 0;
   }
 
+  /* source .item-wrapper: pinned to the column's top-left below 1280 */
   .hero-carousel .hero-carousel-text-inner {
     display: block;
     position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
     padding: 2.5vw;
     overflow: hidden;
@@ -302,12 +311,14 @@
     max-width: 80%;
   }
 
+  /* source .slick-dots: the tab row starts 10 % into the 80 % strip (x 115 at 1440, 82 at 1024) */
   .hero-carousel .hero-carousel-dots {
     display: flex;
+    box-sizing: border-box;
     width: 100%;
     max-width: 100%;
     margin-bottom: 20px;
-    padding: 0;
+    padding: 0 0 0 10%;
     background: var(--color-lightgrey);
   }
 
@@ -345,17 +356,23 @@
   }
 }
 
+/* source .item-wrapper at 1280+: a 75 % box (+16px margins) centred in the 640px text column,
+   so the copy starts at x 116 at 1440 (64 + 16 + 36 padding) and is centred vertically */
 @media (width >= 1280px) {
   .hero-carousel .hero-carousel-text {
-    align-items: flex-start;
-    justify-content: flex-start;
     max-width: 640px;
-    padding: 24px 16px;
   }
 
   .hero-carousel .hero-carousel-text-inner {
     position: relative;
+    top: auto;
+    left: auto;
     width: 75%;
     margin: 0 16px;
+  }
+
+  /* the source button row keeps 1rem below it inside the centred box */
+  .hero-carousel .hero-carousel-actions p {
+    margin-bottom: 1rem;
   }
 }

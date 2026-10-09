@@ -4,6 +4,7 @@
   width: 100%;
   max-width: 640px; /* source: inside the 640px text column (measured 1440: live 640, build 1248) */
   margin: 0 auto;
+
   /* source: the accordion sits in the 640 text column of a .dom-content band — 5vw + 1.25vw above and
      below (32 + 18 = 50 from 1280), 2.5vw at the sides below 1280 (measured sustainability 1440: box
      640 at x 400, row 570 = 470 + 100; 360: box 342, headline 49, body padding 8) */
@@ -22,7 +23,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 16px;
+  gap: 0; /* source: headline 582 + 58 toggle = the 640 box (measured fleet-management 1440) */
   padding: 12px 0;
   cursor: pointer;
   list-style: none;

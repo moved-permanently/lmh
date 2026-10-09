@@ -225,6 +225,7 @@
   max-width: none;
   min-height: 100%;
   margin: 0;
+
   /* 6.25vw above and below at every width (measured 360: tugger-trains list 245 in a 290 band, forklift-truck
      147 in 192 — 22 / 23 px; the earlier "no vertical padding" reading measured the widget, not its band) */
   padding: 6.25vw 2.5vw;

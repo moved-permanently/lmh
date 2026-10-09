@@ -240,6 +240,7 @@ main > .section.news-cards-container:has(.news-cards.download) {
    (bundle @390468–@392811): flex row, lightgrey, min-height 56; date 25 % textgrey/white bold;
    info flex 1 (title = h3 size, 8 px below); button white/black .btn centred; items separated by
    a 1 px white top border from 768; below 768 the row wraps (date 100 %, button row right). */
+
 /* the calendar list sits in the source's item wrapper: band 1.25vw + item 1.25vw (measured events 360: rows 342
    wide at x 9; the build's rows were 351 at x 5). The title is the source's .calendar-event__event-info__title
    size (bundle @33114 1.25rem, @33640 1.33rem from 640px — measured 360: one 25px line, the build's 1.5em wrapped

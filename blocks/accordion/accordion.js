@@ -36,12 +36,12 @@ export default function decorate(block) {
     body.className = 'accordion-item-body';
     const text = document.createElement('div');
     text.className = 'accordion-item-text';
-    // the source body is one rich-text flow (.accordion-item-body-content): headings, paragraphs and
-    // .infobox-media figures in DOCUMENT ORDER — below 640 every figure is a full-column block where
-    // it stands (measured fleet-management 360: figure 342 × 192 after the first h4 + p, the build's
-    // split put it after all the text, 204 px lower); from 640 the figure floats (source .infobox--right:
-    // width 320, float right, margin-left 16 — bundle @267911–@267998). Each media paragraph stays in
-    // place as .accordion-item-figure.
+    // the source body is one rich-text flow (.accordion-item-body-content): headings, paragraphs
+    // and .infobox-media figures in DOCUMENT ORDER — below 640 every figure is a full-column block
+    // where it stands (measured fleet-management 360: figure 342 × 192 after the first h4 + p, the
+    // build's split put it after all the text, 204 px lower); from 640 the figure floats (source
+    // .infobox--right: width 320, float right, margin-left 16 — bundle @267911–@267998). Each
+    // media paragraph stays in place as .accordion-item-figure.
     [...bodyCell.children].forEach((child) => {
       if (child.querySelector('picture, img') && !child.textContent.trim()) child.classList.add('accordion-item-figure');
       text.append(child);

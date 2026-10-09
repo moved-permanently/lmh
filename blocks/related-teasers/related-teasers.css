@@ -37,6 +37,7 @@
 
 .related-teasers .teaser-image {
   border: 1px solid var(--color-lightgrey);
+  overflow: hidden;
 }
 
 .related-teasers .teaser-image-link {
@@ -53,6 +54,7 @@
   height: 0;
   padding-bottom: 56.25%;
   overflow: hidden;
+
   /* source: the 16x9 box carries its own 1px border inside the wrapper's (measured 1440: wrapper
      160.375 = 278 × 9/16 + 4; 360: 195.25) */
   border: 1px solid var(--color-lightgrey);
@@ -159,10 +161,6 @@
    `cards` variant: the plain .teaser keeps its in-flow link (margin-top 0.94em, line-height 1, above). */
 .related-teasers.cards .teaser:has(.teaser-text p > a:only-child) {
   overflow: visible;
-}
-
-.related-teasers .teaser-image {
-  overflow: hidden;
 }
 
 .related-teasers.cards .teaser-text p:has(> a:only-child) {

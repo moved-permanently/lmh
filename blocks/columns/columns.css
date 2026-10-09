@@ -1,3 +1,5 @@
+/* stylelint-disable no-descending-specificity -- rules are grouped by component, not by cascade */
+
 /* columns — source .layout-50--fixed rows (1280 box, 50 % items from 768px, 3:2-ish media padding) */
 .columns {
   display: flex;
@@ -221,10 +223,6 @@
   padding: 5vw;
 }
 
-.columns.split .columns-text {
-  max-width: calc(640px + 5vw);
-}
-
 .columns.split .columns-text :is(h1, h2, h3, p, ul, ol) {
   margin-left: 0;
   margin-right: 0;
@@ -301,6 +299,7 @@
    1440 — a 1.5rem line, so the slot scales with the root) */
 .columns.split .columns-text {
   padding: 5vw 2.5vw;
+  max-width: calc(640px + 5vw);
 }
 
 .columns.split .columns-text > :is(h1, h2, h3):first-child {
@@ -429,11 +428,13 @@
 
 .columns.flex .columns-text {
   box-sizing: border-box;
+
   /* the source .layout-50--flex .text-container is display block (measured live 1440 / 360 on financing: the
      generic .text-container flex column is overridden on flex rows), so the children's margins collapse */
   display: block;
   width: 100%;
   max-width: calc(640px + 5vw);
+
   /* measured live 1440 / 360 on financing and maintenance-repair .layout-50--flex text containers:
      72px 36px / 18px 9px = 5vw 2.5vw (the 5vw-all-round box left a 568 px column where the source has 640) */
   padding: 5vw 2.5vw;
@@ -472,6 +473,7 @@
    measured live 1440: p 20.25/30.375, margin-bottom 20.25, container 576 wide with 72/36 padding; build before this
    rule 17.1/29.925, margin 0 — the first hot band 2500–3000 of the 1440 gate). The encoder emits the source class as the
    variant; both spellings are covered until the document carries `large`. */
+/* stylelint-disable-next-line selector-class-pattern -- the source class name, kept as authored */
 .columns.flex:is(.large, .text-container--large) .columns-text p {
   margin-bottom: 1em;
   font-size: 1.125em;
@@ -485,9 +487,11 @@
   color: var(--color-white);
 }
 
-/* the flex row paints the whole item (source .layout--red on the item wrapper, columns.js tone) */
+/* the flex row paints the whole item (source .layout--red on the item wrapper, columns.js tone); the text box
+   keeps the flex 5vw 2.5vw padding (measured live 1440 on agility-on-point, reach-trucks, next-champ,
+   linde-ergonomics, order-pickers: 72px 36px → a 640 px column; the 5vw-all-round box left 568) */
 .columns.flex.red .columns-text {
-  padding: 5vw;
+  padding: 5vw 2.5vw;
   background: none;
 }
 
@@ -507,10 +511,6 @@
 
 .columns.flex.square .columns-media picture {
   padding-bottom: 100%;
-}
-
-.columns.testimonial .columns-text em {
-  font-style: normal;
 }
 
 .columns .columns-slide {
@@ -690,6 +690,7 @@
 
 .columns.testimonial .columns-text em {
   display: block;
+  font-style: normal;
   padding: 0 0 0.5em;
   color: var(--color-red);
   font-size: 1.25rem;
