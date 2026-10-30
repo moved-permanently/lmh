@@ -1,0 +1,66 @@
+/* Showcase notice (scripts/showcase-notice.js): native modal <dialog>, top layer, Linde tokens and .button.primary */
+
+html.showcase-notice-open {
+  overflow: hidden;
+}
+
+dialog.showcase-notice {
+  box-sizing: border-box;
+  width: calc(100% - 32px);
+  max-width: 640px;
+  max-height: calc(100% - 32px);
+  margin: auto;
+  border: 0;
+  border-top: 4px solid var(--color-red);
+  padding: 32px 24px 24px;
+  background-color: var(--color-white);
+  color: var(--color-darkgrey);
+  box-shadow: 0 8px 32px rgb(34 34 34 / 30%);
+  font-family: var(--body-font-family);
+  font-size: 1rem;
+  line-height: 1.75;
+  overflow-y: auto;
+}
+
+dialog.showcase-notice::backdrop {
+  background-color: rgb(34 34 34 / 60%);
+}
+
+dialog.showcase-notice .showcase-notice-title {
+  margin: 0 0 16px;
+  font-family: var(--bold-font-family);
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: var(--color-darkgrey);
+}
+
+dialog.showcase-notice .showcase-notice-text {
+  margin: 0 0 24px;
+  color: var(--color-text-darkgrey);
+}
+
+dialog.showcase-notice button.showcase-notice-button {
+  width: 100%;
+  white-space: normal;
+}
+
+dialog.showcase-notice button.showcase-notice-button:focus-visible {
+  outline: 2px solid var(--color-darkgrey);
+  outline-offset: 2px;
+}
+
+@media (width >= 640px) {
+  dialog.showcase-notice {
+    padding: 40px 40px 32px;
+  }
+
+  dialog.showcase-notice .showcase-notice-title {
+    font-size: 1.75rem;
+  }
+
+  dialog.showcase-notice button.showcase-notice-button {
+    width: auto;
+    min-width: 200px;
+  }
+}
